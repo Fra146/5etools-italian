@@ -81,7 +81,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 14}, {@hit 6} to hit with spell attacks). Aerisi has the following wizard spells prepared:"
+						"Aerisi è un incantatore di 12° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimo). Aerisi ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -147,19 +147,19 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Aerisi has advantage on saving throws against being {@condition charmed}, and magic can't put her to sleep."
+						"Aerisi ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può farla addormentare."
 					]
 				},
 				{
 					"name": "Howling Defeat",
 					"entries": [
-						"When Aerisi drops to 0 hit points, her body disappears in a howling whirlwind that disperses quickly and harmlessly. Anything she is wearing or carrying is left behind."
+						"Quando Aerisi scende a 0 punti ferita, il suo corpo scompare in un vortice ululante che si disperde rapidamente e senza danni. Tutto ciò che indossa o trasporta viene lasciato indietro."
 					]
 				},
 				{
 					"name": "Legendary Resistance (2/Day)",
 					"entries": [
-						"If Aerisi fails a saving throw, she can choose to succeed instead."
+						"Se Aerisi fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -167,7 +167,7 @@
 				{
 					"name": "Windvane",
 					"entries": [
-						"{@atk mw,rw} {@hit 9} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}9 ({@damage 1d6 + 6}) piercing damage, or 10 ({@damage 1d8 + 6}) piercing damage if used with two hands to make a melee attack, plus 3 ({@damage 1d6}) lightning damage."
+						"{@atk mw,rw} {@hit 9} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}9 ({@damage 1d6 + 6}) danni perforanti o 10 ({@damage 1d8 + 6}) danni perforanti se usato con due mani per effettuare un attacco in mischia, più 3 ({@damage 1d6}) danni da fulmine."
 					]
 				}
 			],
@@ -301,7 +301,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Bastian's innate spellcasting ability is Constitution (spell save {@dc 13}, {@hit 5} to hit with spell attacks). He can innately cast the following spells:"
+						"L'abilità innata di Bastian da incantatore è Costituzione (salvataggio degli incantesimi {@dc 13}, {@hit 5} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi:"
 					],
 					"will": [
 						"{@spell produce flame}"
@@ -317,7 +317,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). Bastian knows the following sorcerer spells:"
+						"Bastian è un incantatore di 9° livello. La sua abilità da incantatore è Carisma (salvataggio incantesimo {@dc 15}, {@hit 7} per colpire con attacchi con incantesimo). Bastian conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -372,7 +372,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -462,13 +462,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The guard makes two melee attacks."
+						"La guardia effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Morningstar",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danno perforante."
 					]
 				}
 			],
@@ -476,7 +476,7 @@
 				{
 					"name": "Unyielding",
 					"entries": [
-						"When the guard is subjected to an effect that would move it, knock it {@condition prone}, or both, it can use its reaction to be neither moved nor knocked {@condition prone}."
+						"Quando la guardia è soggetta a un effetto che la sposterebbe, la colpirebbe {@condition prone} o entrambi, può usare la sua reazione per non essere né spostata né colpita {@condition prone}."
 					]
 				}
 			],
@@ -554,7 +554,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It knows the following sorcerer spells:"
+						"Il sacerdote è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -595,13 +595,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The priest makes two melee attacks."
+						"Il sacerdote effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Glaive",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 10 ft., one target. {@h}7 ({@damage 1d10 + 2}) slashing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 10 piedi, un bersaglio. {@h}7 ({@damage 1d10 + 2}) danni taglienti."
 					]
 				}
 			],
@@ -609,7 +609,7 @@
 				{
 					"name": "Unyielding",
 					"entries": [
-						"When the priest is subjected to an effect that would move it, knock it {@condition prone}, or both, it can use its reaction to be neither moved nor knocked {@condition prone}."
+						"Quando il sacerdote è soggetto a un effetto che lo sposterebbe, lo sbatterebbe {@condition prone} o entrambi, può usare la sua reazione per non essere né spostato né sbalzato {@condition prone}."
 					]
 				}
 			],
@@ -746,7 +746,7 @@
 				{
 					"name": "Bond of the Black Earth",
 					"entries": [
-						"The burrowshark is magically bound to a bulette trained to serve as its mount. While mounted on its bulette, the burrowshark shares the bulette's senses and can ride the bulette while it burrows. The bonded bulette obeys the burrowshark's commands. If its mount dies, the burrowshark can train a new bulette to serve as its bonded mount, a process requiring a month."
+						"Lo squalo tane è magicamente legato a un bulette addestrato a fungere da cavalcatura. Mentre è in sella al suo bulette, lo squalo tane condivide i sensi del bulette e può cavalcarlo mentre scava. Il bulette legato obbedisce ai comandi dello squalo tane. Se la sua cavalcatura muore, lo squalo tane può addestrare una nuova bulette affinché funga da cavalcatura legata, un processo che richiede un mese."
 					]
 				}
 			],
@@ -754,13 +754,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The burrowshark makes three melee attacks."
+						"Lo squalo tane effettua tre attacchi in mischia."
 					]
 				},
 				{
 					"name": "Spear",
 					"entries": [
-						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage, or 8 ({@damage 1d8 + 4}) piercing damage if used with two hands to make a melee attack."
+						"{@atk mw,rw} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni perforanti o 8 ({@damage 1d8 + 4}) danni perforanti se usato con due mani per effettuare un attacco in mischia."
 					]
 				}
 			],
@@ -768,7 +768,7 @@
 				{
 					"name": "Unyielding",
 					"entries": [
-						"When the burrowshark is subjected to an effect that would move it, knock it {@condition prone}, or both, it can use its reaction to be neither moved nor knocked {@condition prone}."
+						"Quando lo squalo tane è soggetto a un effetto che lo sposterebbe, lo sbatterebbe {@condition prone} o entrambi, può usare la sua reazione per non essere né spostato né sbalzato {@condition prone}."
 					]
 				}
 			],
@@ -875,7 +875,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It knows the following sorcerer spells:"
+						"Il sacerdote è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -917,7 +917,7 @@
 				{
 					"name": "Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni contundenti."
 					]
 				}
 			],
@@ -1004,13 +1004,13 @@
 				{
 					"name": "Sharktoothed Longsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage, or 7 ({@damage 1d10 + 2}) slashing damage if used with two hands. Against a target is wearing no armor, the reaver deals an extra die of damage with this sword."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni da taglio o 7 ({@damage 1d10 + 2}) danni da taglio se usato con due mani. Contro un bersaglio che non indossa armatura, il razziatore infligge un dado di danno extra con questa spada."
 					]
 				},
 				{
 					"name": "Javelin",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 30/120 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 30/120 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -1111,13 +1111,13 @@
 				{
 					"name": "Bonded Mount",
 					"entries": [
-						"The knight is magically bound to a beast with an innate swimming speed trained to serve as its mount. While mounted on this beast, the knight gains the beast's senses and ability to breathe underwater. The bonded mount obeys the knight's commands. If its mount dies, the knight can train a new beast to serve as its bonded mount, a process requiring a month."
+						"Il cavaliere è magicamente legato a una bestia dotata di una velocità di nuoto innata, addestrata a fungere da cavalcatura. Mentre è in sella a questa bestia, il cavaliere acquisisce i sensi della bestia e la capacità di respirare sott'acqua. La cavalcatura legata obbedisce ai comandi del cavaliere. Se la sua cavalcatura muore, il cavaliere può addestrare una nuova bestia affinché funga da cavalcatura vincolata, un processo che richiede un mese."
 					]
 				},
 				{
 					"name": "Sneak Attack",
 					"entries": [
-						"The knight deals an extra 7 ({@damage 2d6}) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the knight that isn't {@condition incapacitated} and the knight doesn't have disadvantage on the attack roll."
+						"Il cavaliere infligge 7 ({@damage 2d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio sul tiro per colpire, o quando il bersaglio si trova entro 5 piedi da un alleato del cavaliere che non lo è {@condition incapacitated} e il cavaliere non ha svantaggio sul tiro per colpire."
 					]
 				}
 			],
@@ -1125,19 +1125,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The knight makes two shortsword attacks."
+						"Il cavaliere effettua due attacchi con la spada corta."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danno perforante."
 					]
 				},
 				{
 					"name": "Lance",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 10 ft., one target. {@h}9 ({@damage 1d12 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 10 piedi, un bersaglio. {@h}9 ({@damage 1d12 + 3}) danno perforante."
 					]
 				}
 			],
@@ -1145,7 +1145,7 @@
 				{
 					"name": "Uncanny Dodge",
 					"entries": [
-						"When an attacker the knight can see hits it with an attack, the knight can halve the damage against it."
+						"Quando un attaccante che il cavaliere può vedere lo colpisce con un attacco, il cavaliere può dimezzare il danno contro di esso."
 					]
 				}
 			],
@@ -1267,37 +1267,37 @@
 				{
 					"name": "Action Surge (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Drannin takes an additional action on his turn."
+						"Drannin effettua un'azione aggiuntiva nel suo turno."
 					]
 				},
 				{
 					"name": "Brute",
 					"entries": [
-						"A melee weapon deals one extra die of its damage when Drannin hits with it (included in the attack)."
+						"Un'arma da mischia infligge un dado extra del suo danno quando Drannin colpisce con essa (incluso nell'attacco)."
 					]
 				},
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"Drannin has advantage on saving throws against poison."
+						"Drannin ha vantaggio ai tiri salvezza contro il veleno."
 					]
 				},
 				{
 					"name": "Indomitable (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Drannin can reroll a saving throw that he fails. He must use the new roll."
+						"Drannin può ritirare un tiro salvezza che fallisce. Deve usare il nuovo tiro."
 					]
 				},
 				{
 					"name": "Second Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Drannin can use a bonus action to regain 16 ({@dice 1d10 + 11}) hit points."
+						"Drannin può usare un'azione bonus per recuperare 16 ({@dice 1d10 + 11}) punti ferita."
 					]
 				},
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Drannin wears a control amulet for his {@creature shield guardian} (see the Monster Manual) and a {@item ring of cold resistance}. He also carries a {@item potion of frost giant strength}."
+						"Drannin indossa un amuleto di controllo per il suo {@creature shield guardian} (vedi il Manuale dei Mostri) e un {@item ring of cold resistance}. Porta anche un {@item potion of frost giant strength}."
 					]
 				}
 			],
@@ -1305,13 +1305,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Drannin makes three attacks with his greataxe."
+						"Drannin effettua tre attacchi con la sua ascia grande."
 					]
 				},
 				{
 					"name": "Greataxe",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}17 ({@damage 2d12 + 4}) slashing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}17 ({@damage 2d12 + 4}) danni taglienti."
 					]
 				}
 			],
@@ -1396,7 +1396,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc 15}, {@hit 7} to hit with spell attacks). Elizar has the following druid spells prepared:"
+						"Elizar è un incantatore di 7° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 15}, {@hit 7} per colpire con attacchi con incantesimo). Elizar ha preparato i seguenti incantesimi da druido:"
 					],
 					"spells": {
 						"0": {
@@ -1446,7 +1446,7 @@
 				{
 					"name": "Summon Mephits (Recharges after a Long Rest)",
 					"entries": [
-						"By puffing on his pipe, Elizar can use an action to cast {@spell conjure minor elementals}. If he does so, he summons four smoke mephits."
+						"Tirando una boccata dalla sua pipa, Elizar può usare un'azione per lanciare {@spell conjure minor elementals}. Se lo fa, evoca quattro mephit del fumo."
 					]
 				}
 			],
@@ -1454,7 +1454,7 @@
 				{
 					"name": "Dagger +1",
 					"entries": [
-						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."
+						"{@atk mw,rw} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danno perforante."
 					]
 				}
 			],
@@ -1506,7 +1506,7 @@
 						"items": {
 							"name": "Burning Breath {@recharge 5}",
 							"entries": [
-								"The minotaur exhales a cloud of burning embers in a 15-foot cone. Each creature in that area must succeed on a {@dc 14} Dexterity saving throw, taking 21 ({@damage 6d6}) fire damage on a failed save, or half as much damage on a successful one."
+								"Il minotauro esala una nuvola di braci ardenti in un cono di 4,5 metri. Ogni creatura in quell'area deve riuscire un tiro salvezza su Destrezza {@dc 14} e subisce 21 ({@damage 6d6}) danni da fuoco se fallisce, o la metà di quei danni se riesce."
 							]
 						}
 					}
@@ -1588,7 +1588,7 @@
 				{
 					"name": "Flaming Weapon (Recharges after a Short or Long Rest)",
 					"entries": [
-						"As a bonus action, the guard can wreath one melee weapon it is wielding in flame. The guard is unharmed by this fire, which lasts until the end of the guard's next turn. While wreathed in flame, the weapon deals an extra 3 ({@damage 1d6}) fire damage on a hit."
+						"Come azione bonus, la guardia può avvolgere di fiamme un'arma da mischia che sta brandendo. La guardia rimane illesa da questo fuoco, che dura fino alla fine del turno successivo della guardia. Mentre è avvolta nelle fiamme, l'arma infligge 3 ({@damage 1d6}) danni da fuoco aggiuntivi in ​​caso di colpo."
 					]
 				}
 			],
@@ -1596,19 +1596,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The guard makes two melee attacks."
+						"La guardia effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni taglienti."
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 3} to hit, range 100/400 ft., one target. {@h}6 ({@damage 1d10 + 1}) piercing damage."
+						"{@atk rw} {@hit 3} da colpire, portata 100/400 piedi, un bersaglio. {@h}6 ({@damage 1d10 + 1}) danno perforante."
 					]
 				}
 			],
@@ -1694,7 +1694,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It knows the following sorcerer spells:"
+						"Il sacerdote è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -1735,7 +1735,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -1827,7 +1827,7 @@
 					"name": "Spellcasting (Human Form Only)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The fathomer is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It has two 3rd-level spell slots, which it regains after finishing a short or long rest, and knows the following warlock spells:"
+						"Lo scandagliatore è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). Ha due slot incantesimo di 3° livello, che riacquista dopo aver terminato un riposo breve o lungo, e conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -1856,14 +1856,14 @@
 				{
 					"name": "Shapechanger (2/Day)",
 					"entries": [
-						"The fathomer can use its action to polymorph into a Medium serpent composed of water, or back into its true form. Anything the fathomer is wearing or carrying is subsumed into the serpent form during the change, inaccessible until the fathomer returns to its true form. The fathomer reverts to its true form after 4 hours, unless it can expend another use of this trait. If the fathomer is knocked {@condition unconscious} or dies, it also reverts to its true form.",
-						"While in serpent form, the fathomer gains a swimming speed of 40 feet, the ability to breathe underwater, immunity to poison damage, as well as resistance to fire damage and bludgeoning, piercing, and slashing damage from nonmagical attacks. It also has immunity to the following conditions: {@condition exhaustion}, {@condition grappled}, {@condition paralyzed}, {@condition poisoned}, {@condition restrained}, {@condition prone}, {@condition unconscious}. The serpent form can enter a hostile creature's space and stop there. In addition, if water can pass through a space, the serpent can do so without squeezing."
+						"Il scandagliatore può usare la sua azione per trasformarsi in un serpente Medio composto d'acqua, o per ritornare alla sua vera forma. Tutto ciò che il scandagliatore indossa o trasporta viene sussunto nella forma del serpente durante il cambiamento, inaccessibile finché il scandagliatore non ritorna alla sua vera forma. Il scandagliatore ritorna alla sua vera forma dopo 4 ore, a meno che non possa spendere un altro uso di questo tratto. Se il sonda viene colpito {@condition unconscious} o muore, ritorna alla sua vera forma.",
+						"Mentre è in forma di serpente, il scandagliatore ottiene una velocità di nuoto di 40 piedi, la capacità di respirare sott'acqua, l'immunità ai danni da veleno, così come la resistenza ai danni da fuoco e ai danni contundenti, perforanti e taglienti derivanti da attacchi non magici. Dispone inoltre di immunità alle seguenti condizioni: {@condition exhaustion}, {@condition grappled}, {@condition paralyzed}, {@condition poisoned}, {@condition restrained}, {@condition prone}, {@condition unconscious}. La forma del serpente può entrare nello spazio di una creatura ostile e fermarsi lì. Inoltre, se l’acqua può passare attraverso uno spazio, il serpente può farlo senza comprimersi."
 					]
 				},
 				{
 					"name": "Olhydra's Armor (Human Form Only)",
 					"entries": [
-						"The fathomer can cast {@spell mage armor} at will, without expending material components."
+						"Il scandagliatore può lanciare {@spell mage armor} a piacimento, senza spendere componenti materiali."
 					]
 				}
 			],
@@ -1871,13 +1871,13 @@
 				{
 					"name": "Constrict (Serpent Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) bludgeoning damage. If the target is Medium or smaller, it is {@condition grappled} (escape {@dc 12}). Until the grapple ends, the target is {@condition restrained}, and the fathomer can't constrict another target."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 2d6 + 2}) danni contundenti. Se il bersaglio è Medio o inferiore, è {@condition grappled} (fuga {@dc 12}). Fino al termine della presa, il bersaglio è {@condition restrained} e il sonda non può stritolare un altro bersaglio."
 					]
 				},
 				{
 					"name": "Dagger (Human Form Only)",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -1974,7 +1974,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It knows the following sorcerer spell:"
+						"Il cavaliere è un incantatore di 1° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). Conosce il seguente incantesimo da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -2000,19 +2000,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The knight makes two melee attacks."
+						"Il cavaliere effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage, or 7 ({@damage 1d10 + 2}) slashing damage if used with two hands."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni da taglio o 7 ({@damage 1d10 + 2}) danni da taglio se usato con due mani."
 					]
 				},
 				{
 					"name": "Spear",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage, or 6 ({@damage 1d8 + 2}) piercing damage if used with two hands to make a melee attack."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni perforanti o 6 ({@damage 1d8 + 2}) danni perforanti se usato con due mani per effettuare un attacco in mischia."
 					]
 				}
 			],
@@ -2088,13 +2088,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Fennor makes two attacks with her greatsword"
+						"Fennor effettua due attacchi con il suo spadone"
 					]
 				},
 				{
 					"name": "Greatsword",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 2d6 + 3}) danni taglienti."
 					]
 				}
 			],
@@ -2166,7 +2166,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 14}, {@hit 6} to hit with spell attacks). It knows the following sorcerer spells:"
+						"L'ira della fiamma è un incantatore di 7° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -2214,7 +2214,7 @@
 				{
 					"name": "Wreathed in Flame",
 					"entries": [
-						"For the flamewrath, the warm version of the {@spell fire shield} spell has a duration of \"until dispelled.\" The fire shield burns for 10 minutes after the flamewrath dies, consuming its body."
+						"Per l'Irafiammeggiante, la versione calda dell'incantesimo {@spell fire shield} ha una durata \"finché non viene dissolto\". Lo scudo di fuoco brucia per 10 minuti dopo la morte dell'iracora, consumandone il corpo."
 					]
 				}
 			],
@@ -2222,7 +2222,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -2316,7 +2316,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc 16}, {@hit 8} to hit with spell attacks). He has the following druid spells prepared:"
+						"Gar è un incantatore di 9° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 16}, {@hit 8} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da druido:"
 					],
 					"spells": {
 						"0": {
@@ -2372,25 +2372,25 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Gar can breathe air and water."
+						"Il Gar può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Legendary Resistance (2/Day)",
 					"entries": [
-						"If Gar fails a saving throw, he can choose to succeed instead."
+						"Se Gar fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Water Walk",
 					"entries": [
-						"Gar can stand and move on liquid surfaces as if they were solid ground."
+						"Il luccio può stare in piedi e muoversi su superfici liquide come se fossero un terreno solido."
 					]
 				},
 				{
 					"name": "Watery Fall",
 					"entries": [
-						"When Gar drops to 0 hit points, his body collapses into a pool of inky water that rapidly disperses. Anything he was wearing or carrying is left behind."
+						"Quando Gar scende a 0 punti ferita, il suo corpo collassa in una pozza d'acqua nerastra che si disperde rapidamente. Tutto ciò che indossava o trasportava è stato lasciato indietro."
 					]
 				}
 			],
@@ -2398,19 +2398,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Gar makes two melee attacks, one with his claw and one with {@item Drown|PotA}."
+						"Gar effettua due attacchi in mischia, uno con l'artiglio e uno con {@item Drown|PotA}."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 13}). Until the grapple ends, Gar can't attack other creatures with his claw."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 2d6 + 2}) danni contundenti e il bersaglio è {@condition grappled} (fuga {@dc 13}). Fino al termine della presa, Gar non può attaccare altre creature con il suo artiglio."
 					]
 				},
 				{
 					"name": "Drown",
 					"entries": [
-						"{@atk mw,rw} {@hit 7} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage plus 4 ({@damage 1d8}) cold damage."
+						"{@atk mw,rw} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni perforanti più 4 ({@damage 1d8}) danni da freddo."
 					]
 				}
 			],
@@ -2538,25 +2538,25 @@
 				{
 					"name": "Assassinate",
 					"entries": [
-						"During its first turn, Ghald has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Ghald scores against a {@status surprised} creature is a critical hit."
+						"Durante il suo primo turno, Ghald ha vantaggio ai tiri per colpire contro qualsiasi creatura che non abbia effettuato un turno. Qualsiasi colpo messo a segno da Ghald contro una creatura {@status surprised} è un colpo critico."
 					]
 				},
 				{
 					"name": "Limited Amphibiousness",
 					"entries": [
-						"Ghald can breathe air and water, but he needs to be submerged at least once every 4 hours to avoid suffocating."
+						"Ghald può respirare aria e acqua, ma deve essere immerso almeno una volta ogni 4 ore per evitare di soffocare."
 					]
 				},
 				{
 					"name": "Shark Telepathy",
 					"entries": [
-						"Ghald can magically command any shark within 120 feet of him, using a limited telepathy."
+						"Ghald può comandare magicamente qualsiasi squalo entro 120 piedi da lui, usando una telepatia limitata."
 					]
 				},
 				{
 					"name": "Sneak Attack",
 					"entries": [
-						"Ghald deals an extra 14 ({@damage 4d6}) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Ghald's that isn't {@condition incapacitated} and Ghald doesn't have disadvantage on the attack roll."
+						"Ghald infligge 14 ({@damage 4d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio sul tiro per colpire, o quando il bersaglio si trova entro 5 piedi da un alleato di Ghald che non lo è {@condition incapacitated} e Ghald non ha svantaggio sul tiro per colpire."
 					]
 				}
 			],
@@ -2564,25 +2564,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ghald makes three attacks, one with his bite and two with his shortswords."
+						"Ghald effettua tre attacchi, uno con il morso e due con le spade corte."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}9 ({@damage 2d4 + 4}) piercing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, una creatura. {@h}9 ({@damage 2d4 + 4}) danno perforante."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}11 ({@damage 2d6 + 4}) piercing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, una creatura. {@h}11 ({@damage 2d6 + 4}) danni perforanti."
 					]
 				},
 				{
 					"name": "Garrote",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one Medium or Small creature against which Ghald has advantage on the attack roll. {@h}9 ({@damage 2d4 + 4}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 15}). Until the grapple ends, the target can't breathe, and Ghald has advantage on attack rolls against it."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 1,5 m, una creatura Media o Piccola contro la quale Ghald ha vantaggio nel tiro per colpire. {@h}9 ({@damage 2d4 + 4}) danni contundenti e il bersaglio è {@condition grappled} (fuga {@dc 15}). Fino al termine della presa, il bersaglio non può respirare e Ghald ha vantaggio ai tiri per colpire contro di lui."
 					]
 				}
 			],
@@ -2715,25 +2715,25 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If Hellenrae is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, she instead takes no damage if she succeeds on the saving throw, and only half damage if she fails."
+						"Se Hellenrae è soggetta a un effetto che le permette di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisce invece alcun danno se riesce nel tiro salvezza, e solo la metà dei danni se fallisce."
 					]
 				},
 				{
 					"name": "Stunning Strike {@recharge 5}",
 					"entries": [
-						"When Hellenrae hits a target with a melee weapon attack, the target must succeed on a {@dc 13} Constitution saving throw or be {@condition stunned} until the end of Hellenrae's next turn."
+						"Quando Hellenrae colpisce un bersaglio con un attacco con arma da mischia, il bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 13} o esserlo {@condition stunned} fino alla fine del turno successivo di Hellenrae."
 					]
 				},
 				{
 					"name": "Unarmored Defense",
 					"entries": [
-						"While Hellenrae is wearing no armor and wielding no shield, her AC includes her Wisdom modifier."
+						"Anche se Hellenrae non indossa alcuna armatura e non brandisce alcuno scudo, la sua CA include il suo modificatore di Saggezza."
 					]
 				},
 				{
 					"name": "Unarmored Movement",
 					"entries": [
-						"While Hellenrae is wearing no armor and wielding no shield, her speed increases by 20 feet (included in her speed)."
+						"Mentre Hellenrae non indossa alcuna armatura e non brandisce alcuno scudo, la sua velocità aumenta di 20 piedi (inclusa nella sua velocità)."
 					]
 				}
 			],
@@ -2741,13 +2741,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Hellenrae makes three melee attacks."
+						"Hellenrae effettua tre attacchi in mischia."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d10 + 4}) bludgeoning damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 1d10 + 4}) danni contundenti."
 					]
 				}
 			],
@@ -2755,7 +2755,7 @@
 				{
 					"name": "Parry and Counter",
 					"entries": [
-						"Hellenrae adds 3 to her AC against one melee or ranged weapon attack that would hit her. To do so, she must be able to sense the attacker with her blindsight. If the attack misses, Hellenrae can make one melee attack against the attacker if it is within her reach."
+						"Hellenrae aggiunge 3 alla sua CA contro un attacco con arma da mischia o a distanza che la colpirebbe. Per fare ciò, deve essere in grado di percepire l'aggressore con la sua vista cieca. Se l'attacco fallisce, Hellenrae può effettuare un attacco in mischia contro l'attaccante se è alla sua portata."
 					]
 				}
 			],
@@ -2836,13 +2836,13 @@
 				{
 					"name": "Guiding Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"As a bonus action, the initiate gains advantage on the next ranged attack roll it makes before the end of its next turn."
+						"Come azione bonus, l'iniziato ottiene vantaggio al successivo tiro per colpire a distanza che effettua prima della fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Hold Breath",
 					"entries": [
-						"The initiate can hold its breath for 30 minutes."
+						"L'iniziato può trattenere il respiro per 30 minuti."
 					]
 				}
 			],
@@ -2850,7 +2850,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -2929,7 +2929,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It knows the following sorcerer spells:"
+						"Il sacerdote è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -2970,7 +2970,7 @@
 				{
 					"name": "Hold Breath",
 					"entries": [
-						"The priest can hold its breath for 30 minutes."
+						"Il sacerdote può trattenere il respiro per 30 minuti."
 					]
 				}
 			],
@@ -2978,19 +2978,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The priest makes two melee attacks or two ranged attacks."
+						"Il sacerdote effettua due attacchi in mischia o due attacchi a distanza."
 					]
 				},
 				{
 					"name": "Scimitar",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni taglienti."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."
+						"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danno perforante."
 					]
 				}
 			],
@@ -3080,7 +3080,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 11}, {@hit 3} to hit with spell attacks). It knows the following sorcerer spells:"
+						"L'uragano è un incantatore di 3° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 11}, {@hit 3} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -3113,13 +3113,13 @@
 				{
 					"name": "Unarmored Defense",
 					"entries": [
-						"While the hurricane is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+						"Anche se l'uragano non indossa alcuna armatura e non brandisce alcuno scudo, la sua CA include il suo modificatore di Saggezza."
 					]
 				},
 				{
 					"name": "Unarmored Movement",
 					"entries": [
-						"While the hurricane is wearing no armor and wielding no shield, its walking speed increases by 15 feet (included in its speed)."
+						"Mentre l'uragano non indossa alcuna armatura e non brandisce alcuno scudo, la sua velocità di cammino aumenta di 4,5 metri (inclusa nella sua velocità)."
 					]
 				}
 			],
@@ -3127,13 +3127,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The hurricane makes two melee attacks."
+						"L'uragano effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni contundenti."
 					]
 				}
 			],
@@ -3141,7 +3141,7 @@
 				{
 					"name": "Deflect Missiles",
 					"entries": [
-						"When the hurricane is hit by a ranged weapon attack, it reduces the damage from the attack by {@dice 1d10 + 9}. If the damage is reduced to 0, the hurricane can catch the missile if it is small enough to hold in one hand and the hurricane has at least one hand free."
+						"Quando l'uragano viene colpito da un attacco con arma a distanza, riduce il danno dell'attacco del {@dice 1d10 + 9}. Se il danno viene ridotto a 0, l'uragano può catturare il missile se è abbastanza piccolo da poterlo tenere in una mano e l'uragano ha almeno una mano libera."
 					]
 				}
 			],
@@ -3246,7 +3246,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Imix's innate spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
+						"L'abilità innata di lanciare incantesimi di Imix è il Carisma (salvataggio degli incantesimi {@dc 20}, {@hit 12} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell fireball}",
@@ -3266,37 +3266,37 @@
 				{
 					"name": "Empowered Attacks",
 					"entries": [
-						"Imix's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical attacks."
+						"Gli attacchi di schianto di Imix sono considerati magici allo scopo di oltrepassare la resistenza e l'immunità agli attacchi non magici."
 					]
 				},
 				{
 					"name": "Fire Aura",
 					"entries": [
-						"At the start of each of Imix's turns, each creature within 10 feet of him takes 17 ({@damage 5d6}) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature also takes 17 ({@damage 5d6}) fire damage if it touches Imix or hits him with a melee attack while within 10 feet of him, and a creature takes that damage the first time on a turn that Imix moves into its space. Nonmagical weapons that hit Imix are destroyed by fire immediately after dealing damage to him"
+						"All'inizio di ogni turno di Imix, ogni creatura entro 3 metri da lui subisce 17 ({@damage 5d6}) danni da fuoco e gli oggetti infiammabili nell'aura che non vengono indossati o trasportati si incendiano. Una creatura subisce anche 17 ({@damage 5d6}) danni da fuoco se tocca Imix o lo colpisce con un attacco in mischia mentre si trova entro 3 metri da lui, e una creatura subisce quel danno la prima volta in un turno in cui Imix si muove nel suo spazio. Le armi non magiche che colpiscono Imix vengono distrutte dal fuoco immediatamente dopo avergli inflitto danni"
 					]
 				},
 				{
 					"name": "Fire Form",
 					"entries": [
-						"Imix can enter a hostile creature's space and stop there. He can move through a space as narrow as 1 inch without squeezing if fire could pass through that space."
+						"Imix può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 1 pollice senza stringersi se il fuoco può passare attraverso quello spazio."
 					]
 				},
 				{
 					"name": "Illumination",
 					"entries": [
-						"Imix sheds bright light in a 60-foot radius and dim light for an additional 60 feet."
+						"Imix emette luce intensa in un raggio di 18 metri e luce fioca per altri 18 metri."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Imix fails a saving throw, he can choose to succeed instead."
+						"Se Imix fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Imix has advantage on saving throws against spells and other magical effects."
+						"Imix ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -3304,25 +3304,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Imix makes two slam attacks or two flame blast attacks."
+						"Imix effettua due attacchi di schianto o due attacchi con esplosione di fiamme."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 10 ft., one target. {@h}18 ({@damage 2d10 + 7}) bludgeoning damage plus 18 ({@damage 5d6}) fire damage."
+						"{@atk mw} {@hit 12} per colpire, raggiungere 10 piedi, un bersaglio. {@h}18 ({@damage 2d10 + 7}) danni contundenti più 18 ({@damage 5d6}) danni da fuoco."
 					]
 				},
 				{
 					"name": "Flame Blast",
 					"entries": [
-						"{@atk rs} {@hit 12} to hit, range 250 ft., one target. {@h}35 ({@damage 10d6}) fire damage."
+						"{@atk rs} {@hit 12} per colpire, portata 250 piedi, un bersaglio. {@h}35 ({@damage 10d6}) danni da fuoco."
 					]
 				},
 				{
 					"name": "Summon Elementals (1/Day)",
 					"entries": [
-						"Imix summons up to three {@creature fire elemental||fire elementals} and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Imix, and disappear if Imix is reduced to 0 hit points."
+						"Imix ne evoca fino a tre {@creature fire elemental||fire elementals} e perde 30 punti ferita per ogni elementale evocato. Gli elementali evocati hanno punti ferita massimi, appaiono entro 100 piedi da Imix e scompaiono se Imix viene ridotto a 0 punti ferita."
 					]
 				}
 			],
@@ -3330,19 +3330,19 @@
 				{
 					"name": "Heat Wave",
 					"entries": [
-						"Imix creates a blast of heat within 300 feet of himself. Each creature in the area in physical contact with metal objects (for example, carrying metal weapons or wearing metal armor) takes 9 ({@damage 2d8}) fire damage. Each creature in the area that isn't resistant or immune to fire damage must make a {@dc 21} Constitution saving throw or gain one level of {@condition exhaustion}."
+						"Imix crea un'esplosione di calore entro 90 metri da sé. Ogni creatura nell'area in contatto fisico con oggetti metallici (ad esempio, che trasporta armi di metallo o indossa armature di metallo) subisce 9 ({@damage 2d8}) danni da fuoco. Ogni creatura nell'area che non è resistente o immune ai danni da fuoco deve effettuare un tiro salvezza su Costituzione {@dc 21} o guadagnare un livello di {@condition exhaustion}."
 					]
 				},
 				{
 					"name": "Teleport (Costs 2 Actions)",
 					"entries": [
-						"Imix magically teleports up to 120 feet to an unoccupied space he can see. Anything Imix is wearing or carrying isn't teleported with him."
+						"Imix si teletrasporta magicamente fino a 120 piedi in uno spazio non occupato che può vedere. Tutto ciò che Imix indossa o trasporta non viene teletrasportato con lui."
 					]
 				},
 				{
 					"name": "Combustion (Costs 3 Actions)",
 					"entries": [
-						"Imix causes one creature he can see within 30 feet of him to burst into flames. The target must make a {@dc 21} Constitution saving throw. On a failed save, the target takes 70 ({@damage 20d6}) fire damage and catches fire. A target on fire takes 10 ({@damage 3d6}) fire damage when it starts its turn, and remains on fire until it or another creature takes an action to douse the flames. On a successful save, the target takes half as much damage and doesn't catch fire."
+						"Imix fa prendere fuoco a una creatura che può vedere e si trova entro 9 metri da lui. Il bersaglio deve effettuare un tiro salvezza su Costituzione {@dc 21}. Se il tiro salvezza fallisce, il bersaglio subisce 70 ({@damage 20d6}) danni da fuoco e prende fuoco. Un bersaglio in fiamme subisce 10 ({@damage 3d6}) danni da fuoco quando inizia il suo turno e rimane in fiamme finché lui o un'altra creatura non intraprende un'azione per spegnere le fiamme. Se il tiro salvezza riesce, il bersaglio subisce la metà dei danni e non prende fuoco."
 					]
 				}
 			],
@@ -3434,7 +3434,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Lyzandra is a 9th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 14}, {@hit 6} to hit with spell attacks). Lyzandra has the following wizard spells prepared:"
+						"Lyzandra è un incantatore di 9° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimo). Lyzandra ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -3573,27 +3573,27 @@
 				{
 					"name": "Earthen Defeat",
 					"entries": [
-						"When Marlos drops to 0 hit points, his body transforms into mud and collapses into a pool. Anything he is wearing or carrying is left behind."
+						"Quando Marlos scende a 0 punti ferita, il suo corpo si trasforma in fango e collassa in una pozza. Tutto ciò che indossa o trasporta viene lasciato indietro."
 					]
 				},
 				{
 					"name": "Earth Passage",
 					"entries": [
-						"Marlos can move in {@quickref difficult terrain||3} composed of anything made from earth or stone as if it were normal terrain. He can move through solid earth and rock as if it were {@quickref difficult terrain||3}. If he ends his turn there, he is shunted into the nearest space he last occupied."
+						"Marlos può muoversi {@quickref difficult terrain||3} composto da qualsiasi cosa fatta di terra o pietra come se fosse terreno normale. Può muoversi attraverso la terra solida e la roccia come se lo fosse {@quickref difficult terrain||3}. Se termina il suo turno lì, viene deviato nello spazio più vicino che ha occupato per ultimo."
 					]
 				},
 				{
 					"name": "Legendary Resistance (2/Day)",
 					"entries": [
-						"If Marlos fails a saving throw, he can choose to succeed instead."
+						"Se Marlos fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Petrifying Gaze",
 					"entries": [
-						"When a creature that can see Marlos's eyes starts its turn within 30 feet of him, Marlos can force it to make a {@dc 14} Constitution saving throw if Marlos isn't {@condition incapacitated} and can see the creature. If the saving throw fails by 5 or more, the creature is instantly {@condition petrified}. Otherwise, a creature that fails the save begins to turn to stone and is {@condition restrained}. The {@condition restrained} creature must repeat the saving throw at the end of its next turn, becoming {@condition petrified} on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the {@spell greater restoration} spell or other magic.",
-						"Unless {@status surprised}, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see Marlos until the start of its next turn, when it can decide to avert its eyes again. If the creature looks at Marlos in the meantime, it must immediately make the save.",
-						"If Marlos sees himself reflected on a polished surface within 30 feet of him and in an area of bright light, Marlos is, due to his curse, affected by his own gaze."
+						"Quando una creatura che può vedere gli occhi di Marlos inizia il suo turno entro 9 metri da lui, Marlos può costringerla a effettuare un tiro salvezza su Costituzione {@dc 14} se Marlos non è {@condition incapacitated} e può vedere la creatura. Se il tiro salvezza fallisce di 5 o più, la creatura muore istantaneamente {@condition petrified}. Altrimenti, una creatura che fallisce il tiro salvezza inizia a trasformarsi in pietra e lo è {@condition restrained}. La creatura {@condition restrained} deve ripetere il tiro salvezza alla fine del suo turno successivo, diventando {@condition petrified} in caso di fallimento o terminando l'effetto in caso di successo. La pietrificazione dura finché la creatura non viene liberata dall'incantesimo {@spell greater restoration} o da altra magia.",
+						"A meno che {@status surprised}, una creatura non possa distogliere lo sguardo per evitare il tiro salvezza all'inizio del suo turno. Se lo fa, non potrà vedere Marlos fino all'inizio del suo turno successivo, quando potrà decidere di distogliere nuovamente lo sguardo. Se nel frattempo la creatura guarda Marlos, deve effettuare immediatamente il tiro salvezza.",
+						"Se Marlos si vede riflesso su una superficie lucida entro 9 metri da lui e in un'area di luce intensa, Marlos, a causa della sua maledizione, viene influenzato dal suo stesso sguardo."
 					]
 				}
 			],
@@ -3601,19 +3601,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Marlos makes three melee attacks, one with his snake hair and two with {@item Ironfang|PotA}."
+						"Marlos effettua tre attacchi in mischia, uno con i suoi capelli di serpente e due con {@item Ironfang|PotA}."
 					]
 				},
 				{
 					"name": "Snake Hair",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage plus 14 ({@damage 4d6}) poison damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni perforanti più 14 ({@damage 4d6}) danni da veleno."
 					]
 				},
 				{
 					"name": "Ironfang",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage plus 4 ({@damage 1d8}) thunder damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni perforanti più 4 ({@damage 1d8}) danni da tuono."
 					]
 				}
 			],
@@ -3722,7 +3722,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Miraj's innate spellcasting ability is Constitution (spell save {@dc 14}). He can innately cast the following spell, requiring no material components:"
+						"L'abilità innata di lanciare incantesimi di Miraj è Costituzione (salvataggio incantesimo {@dc 14}). Può lanciare in modo innato il seguente incantesimo, senza richiedere componenti materiali:"
 					],
 					"daily": {
 						"1": [
@@ -3735,7 +3735,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). He knows the following sorcerer spells:"
+						"Miraj è un incantatore di 11° livello. La sua abilità da incantatore è Carisma (salvataggio incantesimo {@dc 15}, {@hit 7} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -3798,7 +3798,7 @@
 				{
 					"name": "Earth Walk",
 					"entries": [
-						"Moving through {@quickref difficult terrain||3} made of earth or stone costs Miraj no extra movement."
+						"Muoversi attraverso {@quickref difficult terrain||3} di terra o pietra non costa a Miraj alcun movimento aggiuntivo."
 					]
 				}
 			],
@@ -3806,7 +3806,7 @@
 				{
 					"name": "Staff",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning damage, or 5 ({@damage 1d8 + 1}) bludgeoning damage when used with two hands."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d6 + 1}) danni contundenti o 5 ({@damage 1d8 + 1}) danni contundenti se usato con due mani."
 					]
 				}
 			],
@@ -3858,7 +3858,7 @@
 							"items": {
 								"name": "Tendril",
 								"entries": [
-									"{@atk mw} {@hit 7} to hit, reach 50 ft., one creature. {@h}4 ({@damage 1d8}) fire damage and the target is {@condition grappled} (escape {@dc 15}). Until the grapple ends, the target is {@condition restrained} and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target. A creature takes 4 ({@damage 1d8}) fire damage each time it ends its turn grappled by the roper."
+									"{@atk mw} {@hit 7} per colpire, raggiungere 50 piedi, una creatura. {@h}4 ({@damage 1d8}) danni da fuoco e il bersaglio è {@condition grappled} (fuga {@dc 15}). Fino al termine della presa, il bersaglio è {@condition restrained} e ha svantaggio alle prove di Forza e ai tiri salvezza su Forza, e il fustigatore non può usare lo stesso tentacolo su un altro bersaglio. Una creatura subisce 4 ({@damage 1d8}) danni da fuoco ogni volta che termina il suo turno afferrata dal fustigatore."
 								]
 							}
 						},
@@ -3868,7 +3868,7 @@
 							"items": {
 								"name": "Bite",
 								"entries": [
-									"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}22 ({@damage 4d8 + 4}) fire damage."
+									"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}22 ({@damage 4d8 + 4}) danni da fuoco."
 								]
 							}
 						}
@@ -4003,7 +4003,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Ogrémoch's innate spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
+						"L'abilità innata di lanciare incantesimi di Ogrémoch è il Carisma (salvataggio degli incantesimi {@dc 20}, {@hit 12} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell meld into stone}",
@@ -4017,25 +4017,25 @@
 				{
 					"name": "Empowered Attacks",
 					"entries": [
-						"Ogrémoch's slam attacks are treated as magical and adamantine for the purpose of bypassing resistance and immunity to nonmagical attacks."
+						"Gli attacchi di schianto di Ogrémoch sono considerati magici e adamantini allo scopo di oltrepassare la resistenza e l'immunità agli attacchi non magici."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Ogrémoch fails a saving throw, he can choose to succeed instead."
+						"Se Ogrémoch fallisce il tiro salvezza, può invece scegliere di superarlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Ogrémoch has advantage on saving throws against spells and other magical effects."
+						"Ogrémoch ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Siege Monster",
 					"entries": [
-						"Ogrémoch deals double damage to objects and structures with his melee and ranged weapon attacks."
+						"Ogrémoch infligge danni doppi a oggetti e strutture con i suoi attacchi in mischia e a distanza."
 					]
 				}
 			],
@@ -4043,25 +4043,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ogrémoch makes two slam attacks."
+						"Ogrémoch effettua due attacchi con lo schianto."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 14} to hit, reach 15 ft., one target. {@h}30 ({@damage 4d10 + 8}) bludgeoning damage."
+						"{@atk mw} {@hit 14} per colpire, raggiungere 15 piedi, un bersaglio. {@h}30 ({@damage 4d10 + 8}) danni contundenti."
 					]
 				},
 				{
 					"name": "Boulder",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 500 ft., one target. {@h}46 ({@damage 7d10 + 8}) bludgeoning damage. If the target is a creature, it must succeed on a {@dc 23} Strength saving throw or be knocked {@condition prone}."
+						"{@atk rw} {@hit 6} per colpire, portata 500 piedi, un bersaglio. {@h}46 ({@damage 7d10 + 8}) danni contundenti. Se il bersaglio è una creatura, deve riuscire in un tiro salvezza su Forza {@dc 23} o essere buttato giù {@condition prone}."
 					]
 				},
 				{
 					"name": "Summon Elementals (1/Day)",
 					"entries": [
-						"Ogrémoch summons up to three {@creature earth elemental||earth elementals} and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Ogrémoch, and disappear if Ogrémoch is reduced to 0 hit points."
+						"Ogrémoch ne evoca fino a tre {@creature earth elemental||earth elementals} e perde 30 punti ferita per ogni elementale evocato. Gli elementali evocati hanno punti ferita massimi, appaiono entro 100 piedi da Ogrémoch e scompaiono se Ogrémoch viene ridotto a 0 punti ferita."
 					]
 				}
 			],
@@ -4069,19 +4069,19 @@
 				{
 					"name": "Illuminating Crystals",
 					"entries": [
-						"Ogrémoch's crystalline protrusions flare. Each creature within 30 feet of Ogrémoch becomes outlined in orange light, shedding dim light in a 10-foot radius. Any attack roll against an affected creature has advantage if the attacker can see it, and the affected creature can't benefit from being {@condition invisible}."
+						"Le sporgenze cristalline di Ogrémoch si illuminano. Ogni creatura entro 9 metri da Ogrémoch viene delineata da una luce arancione, che emette luce fioca in un raggio di 3 metri. Qualsiasi tiro per colpire contro una creatura influenzata ha vantaggio se l'attaccante può vederlo e la creatura influenzata non può beneficiare dell'essere {@condition invisible}."
 					]
 				},
 				{
 					"name": "Stomp (Costs 2 Actions)",
 					"entries": [
-						"Ogrémoch stomps the ground, creating an earth tremor that extends in a 30-foot radius. Other creatures standing on the ground in that radius must succeed on a {@dc 23} Dexterity saving throw or fall {@condition prone}."
+						"Ogrémoch calpesta il terreno, creando un terremoto che si estende in un raggio di 9 metri. Le altre creature che si trovano a terra in quel raggio devono riuscire in un tiro salvezza di Destrezza {@dc 23} o cadere {@condition prone}."
 					]
 				},
 				{
 					"name": "Create Gargoyle (Costs 3 Actions)",
 					"entries": [
-						"Ogrémoch's hit points are reduced by 50 as he breaks off a chunk of his body and places it on the ground in an unoccupied space within 15 feet of him. The chunk of rock instantly transforms into a {@creature gargoyle} and acts on the same initiative count as Ogrémoch. Ogrémoch can't use this action if he has 50 hit points or fewer. The gargoyle obeys Ogrémoch's commands and fights until destroyed."
+						"I punti ferita di Ogrémoch vengono ridotti di 50 quando stacca un pezzo del suo corpo e lo posiziona a terra in uno spazio non occupato entro 15 piedi da lui. Il pezzo di roccia si trasforma istantaneamente in un {@creature gargoyle} e agisce con lo stesso conteggio di iniziativa di Ogrémoch. Ogrémoch non può usare questa azione se ha 50 punti ferita o meno. Il gargoyle obbedisce ai comandi di Ogrémoch e combatte finché non viene distrutto."
 					]
 				}
 			],
@@ -4223,7 +4223,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Olhydra's innate spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). She can innately cast the following spells, requiring no material components:"
+						"L'abilità innata di lanciare incantesimi di Olhydra è il Carisma (salvataggio degli incantesimi {@dc 20}, {@hit 12} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell wall of ice}"
@@ -4243,25 +4243,25 @@
 				{
 					"name": "Empowered Attacks",
 					"entries": [
-						"Olhydra's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical attacks."
+						"Gli attacchi di schianto di Olhydra sono considerati magici allo scopo di oltrepassare la resistenza e l'immunità agli attacchi non magici."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Olhydra fails a saving throw, she can choose to succeed instead."
+						"Se Olhydra fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Olhydra has advantage on saving throws against spells and other magical effects."
+						"Olhydra ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Water Form",
 					"entries": [
-						"Olhydra can enter a hostile creature's space and stop there. She can move through a space as narrow as 1 inch wide without squeezing."
+						"Olhydra può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 1 pollice di larghezza senza stringersi."
 					]
 				}
 			],
@@ -4269,25 +4269,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Olhydra makes two slam attacks or two water jet attacks."
+						"Olhydra effettua due attacchi di schianto o due attacchi con getto d'acqua."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 11} to hit, reach 10 ft., one target. {@h}21 ({@damage 3d10 + 5}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 19}). Olhydra can grapple up to four targets. When Olhydra moves, all creatures she is grappling move with her."
+						"{@atk mw} {@hit 11} per colpire, raggiungere 10 piedi, un bersaglio. {@h}21 ({@damage 3d10 + 5}) danni contundenti e il bersaglio è {@condition grappled} (fuga {@dc 19}). Olhydra può afferrare fino a quattro bersagli. Quando Olhydra si muove, tutte le creature con cui è in lotta si muovono con lei."
 					]
 				},
 				{
 					"name": "Water Jet",
 					"entries": [
-						"{@atk rw} {@hit 12} to hit, range 120 ft., one target. {@h}21 ({@damage 6d6}) bludgeoning damage, and the target is knocked {@condition prone} if it fails a {@dc 19} Strength saving throw."
+						"{@atk rw} {@hit 12} per colpire, portata 120 piedi, un bersaglio. {@h}21 ({@damage 6d6}) danni contundenti e il bersaglio viene colpito {@condition prone} se fallisce un tiro salvezza su Forza {@dc 19}."
 					]
 				},
 				{
 					"name": "Summon Elementals (1/Day)",
 					"entries": [
-						"Olhydra summons up to three {@creature water elemental||water elementals} and loses 30 hit points for each elemental she summons. Summoned elementals have maximum hit points, appear within 100 feet of Olhydra, and disappear if Olhydra is reduced to 0 hit points."
+						"Olhydra ne evoca fino a tre {@creature water elemental||water elementals} e perde 30 punti ferita per ogni elementale evocato. Gli elementali evocati hanno punti ferita massimi, appaiono entro 100 piedi da Olhydra e scompaiono se Olhydra viene ridotta a 0 punti ferita."
 					]
 				}
 			],
@@ -4295,19 +4295,19 @@
 				{
 					"name": "Crush",
 					"entries": [
-						"One creature that Olhydra is grappling is crushed for 21 ({@damage 3d10 + 5}) bludgeoning damage."
+						"Una creatura afferrata da Olhydra viene schiacciata e subisce 21 ({@damage 3d10 + 5}) danni contundenti."
 					]
 				},
 				{
 					"name": "Fling (Costs 2 Actions)",
 					"entries": [
-						"Olhydra releases one creature she is grappling by flinging the creature up to 60 feet away from her, in a direction of her choice. If the flung creature comes into contact with a solid surface, such as a wall or floor, the creature takes {@damage 1d6} bludgeoning damage for every 10 feet it was flung."
+						"Olhydra libera una creatura con cui è in lotta, scagliandola fino a 18 metri di distanza da sé, in una direzione a sua scelta. Se la creatura scagliata entra in contatto con una superficie solida, come un muro o un pavimento, subisce {@damage 1d6} danni contundenti per ogni 3 metri in cui è stata scagliata."
 					]
 				},
 				{
 					"name": "Water to Acid (Costs 3 Actions)",
 					"entries": [
-						"Olhydra transforms her watery body into acid. This effect lasts until Olhydra's next turn. Any creature that comes into contact with Olhydra or hits her with a melee attack while standing within 5 feet of her takes 11 ({@damage 2d10}) acid damage. Any creature {@condition grappled} by Olhydra takes 22 ({@damage 4d10}) acid damage at the start of its turn."
+						"Olhydra trasforma il suo corpo acquoso in acido. Questo effetto dura fino al turno successivo di Olidra. Qualsiasi creatura che entra in contatto con Olhydra o la colpisce con un attacco in mischia mentre si trova entro 1,5 piedi da lei subisce 11 ({@damage 2d10}) danni da acido. Qualsiasi creatura {@condition grappled} di Olhydra subisce 22 ({@damage 4d10}) danni da acido all'inizio del suo turno."
 					]
 				}
 			],
@@ -4432,7 +4432,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It knows the following sorcerer spells:"
+						"Il Brivido con un occhio solo è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -4470,7 +4470,7 @@
 				{
 					"name": "Chilling Mist",
 					"entries": [
-						"While it is alive, the one-eyed shiver projects an aura of cold mist within 10 feet of itself. If the one-eyed shiver deals damage to a creature in this area, the creature also takes 5 ({@damage 1d10}) cold damage."
+						"Mentre è vivo, il brivido con un occhio solo proietta un'aura di nebbia fredda entro 3 metri da sé. Se il brivido con un occhio solo infligge danni a una creatura in quest'area, la creatura subisce anche 5 ({@damage 1d10}) danni da freddo."
 					]
 				}
 			],
@@ -4478,13 +4478,13 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Eye of Frost",
 					"entries": [
-						"The one-eyed shiver casts {@spell ray of frost} from its missing eye. If it hits, the target is also {@condition restrained}. A target {@condition restrained} in this way can end the condition by using an action, succeeding on a {@dc 13} Strength check."
+						"Il brivido con un occhio solo viene proiettato {@spell ray of frost} dall'occhio mancante. Se colpisce, anche il bersaglio è {@condition restrained}. Un bersaglio {@condition restrained} in questo modo può porre fine alla condizione utilizzando un'azione, riuscendo in una prova di Forza {@dc 13}."
 					]
 				}
 			],
@@ -4582,7 +4582,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks). He has the following wizard spells prepared:"
+						"Oreioth è un incantatore di 6° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -4624,13 +4624,13 @@
 				{
 					"name": "Grim Harvest",
 					"entries": [
-						"Once per turn when Oreioth kills one or more creatures with a spell of 1st level or higher, he regains hit points equal to twice the spell's level."
+						"Una volta per turno, quando Oreioth uccide una o più creature con un incantesimo di 1° livello o superiore, recupera punti ferita pari al doppio del livello dell'incantesimo."
 					]
 				},
 				{
 					"name": "Swift Animation (Recharges after a Long Rest)",
 					"entries": [
-						"When a living Medium or Small humanoid within 30 feet of Oreioth dies, he can use an action on his next turn to cast {@spell animate dead} on that humanoid's corpse, instead of using the spell's normal casting time."
+						"Quando un umanoide vivente di taglia Media o Piccola entro 9 metri da Oreioth muore, può usare un'azione nel suo turno successivo per lanciare {@spell animate dead} sul cadavere di quell'umanoide, invece di usare il normale tempo di lancio dell'incantesimo."
 					]
 				}
 			],
@@ -4638,7 +4638,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d4 + 1}) danno perforante."
 					]
 				}
 			],
@@ -4701,7 +4701,7 @@
 				{
 					"name": "Maul",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 2d6 + 3}) danni contundenti."
 					]
 				}
 			],
@@ -4772,13 +4772,13 @@
 				{
 					"name": "Searing Armor",
 					"entries": [
-						"The razerblast's armor is hot. Any creature grappling the razerblast or {@condition grappled} by it takes 5 ({@damage 1d10}) fire damage at the end of that creature's turn."
+						"L'armatura del Razerblast è calda. Qualsiasi creatura che afferra l'esplosione tagliente o {@condition grappled} con essa subisce 5 ({@damage 1d10}) danni da fuoco alla fine del turno di quella creatura."
 					]
 				},
 				{
 					"name": "Shrapnel Explosion",
 					"entries": [
-						"When the razerblast drops to 0 hit points, a flaming orb in its chest explodes, destroying the razerblast's body and scattering its armor as shrapnel. Creatures within 10 feet of the razerblast when it explodes must succeed on a {@dc 12} Dexterity saving throw, taking 21 ({@damage 6d6}) piercing damage on a failed save, or half as much damage on a successful one."
+						"Quando il Razerblast scende a 0 punti ferita, una sfera infuocata nel suo petto esplode, distruggendo il corpo del Razerblast e disperdendo la sua armatura sotto forma di schegge. Le creature entro 3 metri dal razerblast quando esplode devono riuscire un tiro salvezza di Destrezza {@dc 12} e subiscono 21 ({@damage 6d6}) danni perforanti se falliscono il tiro salvezza, o la metà di quei danni se lo riescono."
 					]
 				}
 			],
@@ -4786,13 +4786,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The razerblast makes three melee attacks."
+						"Il Razerblast effettua tre attacchi in mischia."
 					]
 				},
 				{
 					"name": "Spear",
 					"entries": [
-						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage, or 7 ({@damage 1d8 + 3}) piercing damage if used with two hands to make a melee attack, plus 3 ({@damage 1d6}) fire damage."
+						"{@atk mw,rw} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni perforanti o 7 ({@damage 1d8 + 3}) danni perforanti se usato con due mani per effettuare un attacco in mischia, più 3 ({@damage 1d6}) danni da fuoco."
 					]
 				}
 			],
@@ -4846,7 +4846,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Renwick is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 20}, {@hit 12} to hit with spell attacks). Renwick has the following wizard spells prepared:"
+						"Renwick è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 20}, {@hit 12} per colpire con attacchi con incantesimo). Renwick ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -4964,7 +4964,7 @@
 				{
 					"name": "Warhammer",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 4}) bludgeoning damage, or 10 ({@damage 1d10 + 4}) bludgeoning damage if used with two hands."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 1d8 + 4}) danni contundenti o 10 ({@damage 1d10 + 4}) danni contundenti se usato con due mani."
 					]
 				}
 			],
@@ -5031,13 +5031,13 @@
 				{
 					"name": "Unarmored Defense",
 					"entries": [
-						"While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+						"Anche se il monaco non indossa alcuna armatura e non brandisce alcuno scudo, la sua CA include il suo modificatore di Saggezza."
 					]
 				},
 				{
 					"name": "Unarmored Movement",
 					"entries": [
-						"While the monk is wearing no armor and wielding no shield, its walking speed increases by 10 feet (included in its speed)."
+						"Mentre il monaco non indossa alcuna armatura e non brandisce alcuno scudo, la sua velocità di camminata aumenta di 3 metri (inclusa nella sua velocità)."
 					]
 				}
 			],
@@ -5045,13 +5045,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The monk makes two melee attacks."
+						"Il monaco effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni contundenti."
 					]
 				}
 			],
@@ -5059,7 +5059,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"The monk adds 2 to its AC against one melee or ranged weapon attack that would hit it. To do so, the monk must see the attacker."
+						"Il monaco aggiunge 2 alla sua CA contro un attacco con arma da mischia o a distanza che lo colpirebbe. Per fare ciò, il monaco deve vedere l'aggressore."
 					]
 				}
 			],
@@ -5147,7 +5147,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Shoalar's innate spellcasting ability is Constitution (spell save {@dc 13}, {@hit 5} to hit with spell attacks). He can innately cast the following spells:"
+						"L'abilità innata di lanciare incantesimi di Shoalar è Costituzione (salvataggio degli incantesimi {@dc 13}, {@hit 5} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi:"
 					],
 					"will": [
 						"{@spell shape water|xge}"
@@ -5163,7 +5163,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). He knows the following sorcerer spells:"
+						"Shoalar è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvataggio incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -5204,7 +5204,7 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Shoalar can breathe air and water."
+						"Shoalar può respirare aria e acqua."
 					]
 				}
 			],
@@ -5212,7 +5212,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 3} to hit, reach 5 ft. or ranged 20/60 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing damage."
+						"{@atk mw,rw} {@hit 3} per colpire, raggiungere 5 piedi o una distanza di 20/60 piedi, un bersaglio. {@h}3 ({@damage 1d4 + 1}) danno perforante."
 					]
 				}
 			],
@@ -5306,7 +5306,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It knows the following sorcerer spells:"
+						"Lo Skyweaver è un incantatore di 6° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -5348,7 +5348,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}3 ({@damage 1d4 + 1}) danno perforante."
 					]
 				}
 			],
@@ -5460,7 +5460,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). It knows the following sorcerer spells:"
+						"Lo Stonemelder è un incantatore di 7° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -5508,7 +5508,7 @@
 				{
 					"name": "Death Burst",
 					"entries": [
-						"When the Stonemelder dies, it turns to stone and explodes in a burst of rock shards, becoming a smoking pile of rubble. Each creature within 10 feet of the exploding Stonemelder must make a {@dc 14} Dexterity saving throw, taking 11 ({@damage 2d10}) bludgeoning damage on a failed save, or half as much damage on a successful one."
+						"Quando lo Stonemelder muore, si trasforma in pietra ed esplode in un'esplosione di schegge di roccia, diventando un mucchio di macerie fumanti. Ogni creatura entro 3 metri dallo Scimmio che esplode deve effettuare un tiro salvezza su Destrezza {@dc 14} e subisce 11 ({@damage 2d10}) danni contundenti se fallisce il tiro salvezza, o la metà di questi danni se lo riesce."
 					]
 				}
 			],
@@ -5516,7 +5516,7 @@
 				{
 					"name": "Black Earth Rod",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage. The Stonemelder can also expend a spell slot to deal extra damage, dealing {@damage 2d8} bludgeoning damage for a 1st level slot, plus an additional {@dice 1d8} for each level of the slot above 1st."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni contundenti. Lo Stonemelder può anche spendere uno slot incantesimo per infliggere danni extra, infliggendo {@damage 2d8} danni contundenti per uno slot di 1° livello, più un ulteriore {@dice 1d8} per ogni livello dello slot superiore al 1°."
 					]
 				}
 			],
@@ -5613,7 +5613,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 12}, {@hit 4} to hit with spell attacks). Thurl knows the following sorcerer spells:"
+						"Thurl è un incantatore di 5° livello. La sua abilità da incantatore è Carisma (salvataggio incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). Thurl conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -5654,19 +5654,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Thurl makes two melee attacks."
+						"Thurl effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Greatsword",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 2d6 + 3}) danni taglienti."
 					]
 				},
 				{
 					"name": "Lance",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 10 ft., one target. {@h}9 ({@damage 1d12 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 10 piedi, un bersaglio. {@h}9 ({@damage 1d12 + 3}) danno perforante."
 					]
 				}
 			],
@@ -5674,7 +5674,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"Thurl adds 2 to his AC against one melee attack that would hit him. To do so, Thurl must see the attacker and be wielding a melee weapon."
+						"Thurl aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per fare ciò, Thurl deve vedere l'attaccante e impugnare un'arma da mischia."
 					]
 				}
 			],
@@ -5800,7 +5800,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save {@dc 16}, {@hit 8} to hit with spell attacks). Vanifer knows the following sorcerer spells:"
+						"Vanifer è un incantatore di 10° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 16}, {@hit 8} per colpire con attacchi con incantesimo). Vanifer conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -5860,13 +5860,13 @@
 				{
 					"name": "Funeral Pyre",
 					"entries": [
-						"When Vanifer drops to 0 hit points, her body is consumed in a flash of fire and smoke. Anything she was wearing or carrying is left behind among ashes."
+						"Quando Vanifer scende a 0 punti ferita, il suo corpo viene consumato in un lampo di fuoco e fumo. Tutto ciò che indossava o trasportava viene lasciato tra le ceneri."
 					]
 				},
 				{
 					"name": "Legendary Resistance (2/Day)",
 					"entries": [
-						"If Vanifer fails a saving throw, she can choose to succeed instead."
+						"Se Vanifer fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -5874,13 +5874,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Vanifer makes two attacks."
+						"Vanifer effettua due attacchi."
 					]
 				},
 				{
 					"name": "Tinderstrike",
 					"entries": [
-						"{@atk mw,rw} {@hit 9} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}7 ({@damage 1d4 + 5}) piercing damage plus 7 ({@damage 2d6}) fire damage."
+						"{@atk mw,rw} {@hit 9} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}7 ({@damage 1d4 + 5}) danni perforanti più 7 ({@damage 2d6}) danni da fuoco."
 					]
 				}
 			],
@@ -5995,7 +5995,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc 12}, {@hit 4} to hit with spell attacks). He has the following cleric spells prepared:"
+						"Wiggan è un incantatore di 4° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -6033,7 +6033,7 @@
 				{
 					"name": "Brave Devotion",
 					"entries": [
-						"Wiggan has advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+						"Wiggan ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}."
 					]
 				}
 			],
@@ -6041,13 +6041,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Wiggan makes two attacks with his wooden cane."
+						"Wiggan effettua due attacchi con il suo bastone di legno."
 					]
 				},
 				{
 					"name": "Wooden Cane",
 					"entries": [
-						"{@atk mw} {@hit 0} to hit ({@hit 4} to hit with shillelagh), reach 5 ft., one target. {@h}1 ({@damage 1d4 - 1}) bludgeoning damage, or 6 ({@damage 1d8 + 2}) bludgeoning damage with shillelagh."
+						"{@atk mw} {@hit 0} per colpire ({@hit 4} per colpire con shillelagh), raggiungi 5 piedi, un bersaglio. {@h}1 ({@damage 1d4 - 1}) danno contundente o 6 ({@damage 1d8 + 2}) danno contundente con shillelagh."
 					]
 				}
 			],
@@ -6145,7 +6145,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). Windharrow knows the following bard spells:"
+						"Windharrow è un incantatore di 8° livello. La sua abilità da incantatore è Carisma (salvataggio incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Windharrow conosce i seguenti incantesimi da bardo:"
 					],
 					"spells": {
 						"0": {
@@ -6194,7 +6194,7 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Windharrow has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Windharrow ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				}
 			],
@@ -6202,13 +6202,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Windharrow makes two melee attacks."
+						"Windharrow effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d8 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}7 ({@damage 1d8 + 3}) danno perforante."
 					]
 				}
 			],
@@ -6336,7 +6336,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Yan-C-Bin's innate spellcasting ability is Charisma (spell save {@dc 20}, {@hit 12} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
+						"L'abilità innata di lanciare incantesimi di Yan-C-Bin è il Carisma (salvataggio degli incantesimi {@dc 20}, {@hit 12} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell gust of wind}",
@@ -6357,25 +6357,25 @@
 				{
 					"name": "Air Form",
 					"entries": [
-						"Yan-C-Bin can enter a hostile creature's space and stop there. He can move through a space as narrow as 1 inch wide without squeezing if air could pass through that space."
+						"Yan-C-Bin può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 1 pollice di larghezza senza stringersi se l'aria può passare attraverso quello spazio."
 					]
 				},
 				{
 					"name": "Empowered Attacks",
 					"entries": [
-						"Yan-C-Bin's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical attacks."
+						"Gli attacchi di schianto di Yan-C-Bin sono considerati magici allo scopo di oltrepassare la resistenza e l'immunità agli attacchi non magici."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Yan-C-Bin fails a saving throw, he can choose to succeed instead."
+						"Se Yan-C-Bin fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Yan-C-Bin has advantage on saving throws against spells and other magical effects."
+						"Yan-C-Bin ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -6383,31 +6383,31 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Yan-C-Bin makes two slam attacks."
+						"Yan-C-Bin effettua due attacchi con lo schianto."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 14} to hit, reach 10 ft., one target. {@h}20 ({@damage 3d8 + 7}) force damage plus 10 ({@damage 3d6}) lightning damage."
+						"{@atk mw} {@hit 14} per colpire, raggiungere 10 piedi, un bersaglio. {@h}20 ({@damage 3d8 + 7}) danni da forza più 10 ({@damage 3d6}) danni da fulmine."
 					]
 				},
 				{
 					"name": "Thundercrack (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Yan-C-Bin unleashes a terrible thundercrack in a 100-foot-radius sphere centered on himself. All other creatures in the area must succeed on a {@dc 24} Constitution saving throw or take 31 ({@damage 9d6}) thunder damage and be {@condition deafened} for 1 minute. On a successful save, a creature takes half as much damage and is {@condition deafened} until the start of Yan-C-Bin's next turn."
+						"Yan-C-Bin scatena un terribile tuono in una sfera di 100 piedi di raggio centrata su se stesso. Tutte le altre creature nell'area devono riuscire in un tiro salvezza su Costituzione {@dc 24} o subire 31 ({@damage 9d6}) danni da tuono ed essere {@condition deafened} per 1 minuto. Se il tiro salvezza riesce, una creatura subisce la metà del danno e rimane {@condition deafened} fino all'inizio del turno successivo di Yan-C-Bin."
 					]
 				},
 				{
 					"name": "Change Shape",
 					"entries": [
-						"Yan-C-Bin polymorphs into a Medium humanoid. While in polymorphed form, a swirling breeze surrounds him, his eyes are pale and cloudy, and he loses the Air Form trait. He can remain in polymorphed form for up to 1 hour. Reverting to his true form requires an action."
+						"Yan-C-Bin si trasforma in un umanoide medio. Mentre è in forma polimorfa, una brezza vorticosa lo circonda, i suoi occhi sono pallidi e annebbiati e perde il tratto Forma d'Aria. Può rimanere in forma metamorfa fino a 1 ora. Ritornare alla sua vera forma richiede un'azione."
 					]
 				},
 				{
 					"name": "Summon Elementals (1/Day)",
 					"entries": [
-						"Yan-C-Bin summons up to three {@creature air elemental||air elementals} and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Yan-C-Bin, and disappear if Yan-C-Bin is reduced to 0 hit points."
+						"Yan-C-Bin ne evoca fino a tre {@creature air elemental||air elementals} e perde 30 punti ferita per ogni elementale evocato. Gli elementali evocati hanno punti ferita massimi, appaiono entro 100 piedi da Yan-C-Bin e scompaiono se Yan-C-Bin viene ridotto a 0 punti ferita."
 					]
 				}
 			],
@@ -6415,19 +6415,19 @@
 				{
 					"name": "Peal of Thunder",
 					"entries": [
-						"Yan-C-Bin unleashes a peal of thunder that can be heard out to a range of 300 feet. Each creature within 30 feet of Yan-C-Bin takes 5 ({@damage 1d10}) thunder damage."
+						"Yan-C-Bin scatena un tuono che può essere udito fino a una distanza di 300 piedi. Ogni creatura entro 9 metri da Yan-C-Bin subisce 5 ({@damage 1d10}) danni da tuono."
 					]
 				},
 				{
 					"name": "Teleport (Costs 2 Actions)",
 					"entries": [
-						"Yan-C-Bin magically teleports up to 120 feet to an unoccupied space he can see. Anything Yan-C-Bin is wearing or carrying is teleported with him."
+						"Yan-C-Bin si teletrasporta magicamente fino a 120 piedi in uno spazio non occupato che può vedere. Tutto ciò che Yan-C-Bin indossa o trasporta viene teletrasportato con lui."
 					]
 				},
 				{
 					"name": "Suffocate (Costs 3 Actions)",
 					"entries": [
-						"Yan-C-Bin steals the air of one breathing creature he can see within 60 feet of him. The target must make a {@dc 21} Constitution saving throw. On a failed save, the target drops to 0 hit points and is dying. On a successful save, the target can't breathe or speak until the start of its next turn."
+						"Yan-C-Bin ruba l'aria di una creatura che respira e che può vedere entro 18 metri da lui. Il bersaglio deve effettuare un tiro salvezza su Costituzione {@dc 21}. Se fallisce il tiro salvezza, il bersaglio scende a 0 punti ferita e muore. Se il tiro salvezza riesce, il bersaglio non può respirare né parlare fino all'inizio del suo turno successivo."
 					]
 				}
 			],
@@ -6519,7 +6519,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) piercing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}14 ({@damage 2d8 + 5}) danni perforanti."
 					]
 				}
 			],

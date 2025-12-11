@@ -88,7 +88,7 @@
 				{
 					"name": "Magic Bolt",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 120 ft., one target. {@h}16 ({@damage 3d10}) fire damage"
+						"{@atk rw} {@hit 6} per colpire, portata 120 piedi, un bersaglio. {@h}16 ({@damage 3d10}) danni da fuoco"
 					]
 				}
 			],
@@ -175,8 +175,8 @@
 				{
 					"name": "Wielder Domination",
 					"entries": [
-						"A creature can grab the staff out of the air with a successful grapple check against the staff, and grappling the staff does not reduce the creature's speed. Any creature that successfully grapples the staff must succeed on a {@dc 12} Charisma saving throw or be {@condition charmed} by the staff until the staff is no longer in its grasp. While the creature is {@condition charmed}, the staff can issue commands to it, which the creature does its best to obey. The creature can repeat the saving throw each time it takes damage, ending the effect on itself on a success. A creature that successfully resists the staff's control can't be {@condition charmed} by it for 24 hours.",
-						"A creature holding the staff that isn't {@condition charmed} by it can use an action to attempt to break the staff over a knee or against a solid surface, doing so with a successful {@dc 17} Strength ({@skill Athletics}) check. Breaking the staff in this manner destroys it."
+						"Una creatura può afferrare il bastone in aria effettuando con successo una prova di lotta contro il bastone, e afferrare il bastone non riduce la velocità della creatura. Qualsiasi creatura che riesce ad afferrare il bastone deve riuscire in un tiro salvezza su Carisma {@dc 12} o essere {@condition charmed} vicino al bastone finché il bastone non è più nella sua presa. Mentre la creatura è {@condition charmed}, il bastone può impartirle comandi, ai quali la creatura fa del suo meglio per obbedire. La creatura può ripetere il tiro salvezza ogni volta che subisce danni, terminando l'effetto su se stessa in caso di successo. Una creatura che resiste con successo al controllo del bastone non può esserne {@condition charmed} per 24 ore.",
+						"Una creatura che tiene il bastone che non è {@condition charmed} vicino ad esso può usare un'azione per tentare di rompere il bastone sopra un ginocchio o contro una superficie solida, facendolo con una prova riuscita di Forza {@dc 17} ({@skill Athletics}). Rompere il bastone in questo modo lo distrugge."
 					]
 				}
 			],
@@ -184,13 +184,13 @@
 				{
 					"name": "Staff of Frost",
 					"entries": [
-						"The staff has 10 charges. It can expend 1 or more of its charges to cast one of the following spells (save {@dc 12}): {@spell cone of cold} (5 charges), {@spell fog cloud} (1 charge), {@spell ice storm} (4 charges), or {@spell wall of ice} (4 charges). It regains {@dice 1d6 + 4} expended charges daily at dawn. If the staff expends its last charge, roll a {@dice d20}. On a 1, the staff turns to water and is destroyed."
+						"Il bastone ha 10 cariche. Può spendere 1 o più delle sue cariche per lanciare uno dei seguenti incantesimi (salvezza {@dc 12}): {@spell cone of cold} (5 cariche), {@spell fog cloud} (1 carica), {@spell ice storm} (4 cariche) o {@spell wall of ice} (4 cariche). Recupera {@dice 1d6 + 4} le spese spese ogni giorno all'alba. Se il bastone spende la sua ultima carica, tira un {@dice d20}. Con 1, il bastone si trasforma in acqua e viene distrutto."
 					]
 				},
 				{
 					"name": "Staff",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d6}) bludgeoning damage plus 1 cold damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 2d6}) danni contundenti più 1 danno da freddo."
 					]
 				}
 			],
@@ -233,7 +233,7 @@
 						"items": {
 							"name": "Spider Climb",
 							"entries": [
-								"The statue can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+								"La statua può arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica."
 							]
 						}
 					}
@@ -299,13 +299,13 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d8 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d8 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Belch Fire {@recharge 4}",
 					"entries": [
-						"The stove belches fire in a 15-foot cone. Each creature in the area must make a {@dc 10} Dexterity saving throw, taking 22 ({@damage 4d10}) fire damage on a failed save, or half as much damage on a successful one."
+						"La stufa erutta fuoco in un cono di 15 piedi. Ogni creatura nell'area deve effettuare un tiro salvezza su Destrezza {@dc 10} e subisce 22 ({@damage 4d10}) danni da fuoco se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -345,7 +345,7 @@
 						"items": {
 							"name": "Wand of Wonder",
 							"entries": [
-								"The animated wand can expend 1 of its charges and target a random creature with one of its {@item wand of wonder||randomly determined effects}. Any such effect that would target the wand's user targets the wand instead. If reduced to 0 hit points, the wand crumbles into dust and is destroyed."
+								"La bacchetta animata può spendere 1 delle sue cariche e prendere di mira una creatura casuale con una delle sue {@item wand of wonder||randomly determined effects}. Qualsiasi effetto di questo tipo che prenderebbe di mira chi utilizza la bacchetta prende di mira invece la bacchetta. Se ridotta a 0 punti ferita, la bacchetta si sbriciola in polvere e viene distrutta."
 							]
 						}
 					}
@@ -384,7 +384,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Arcturia is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 20}, {@hit 12} to hit with spell attacks). Arcturia can cast {@spell alter self} at will and has the following wizard spells prepared:"
+						"Arcturia è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 20}, {@hit 12} per colpire con attacchi con incantesimo). Arcturia può lanciare {@spell alter self} a volontà e ha preparato i seguenti incantesimi da mago:"
 					],
 					"will": [
 						"{@spell alter self}"
@@ -518,7 +518,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Ashtyrranthor's spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:"
+						"L'abilità da incantatore di Ashtyrranthor è Carisma. Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"daily": {
 						"1e": [
@@ -608,7 +608,7 @@
 						"items": {
 							"name": "Extra Parts",
 							"entries": [
-								"As a bonus action, Berlain can use her extra mouth and arms to cast any cantrip she has prepared."
+								"Come azione bonus, Berlain può usare la sua bocca e le sue braccia extra per lanciare qualsiasi trucchetto che ha preparato."
 							]
 						}
 					}
@@ -630,7 +630,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Berlain is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). Berlain can cast {@spell disguise self} and invisibility at will and has the following wizard spells prepared:"
+						"Berlain è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 17}, {@hit 9} per colpire con attacchi con incantesimo). Berlain può lanciare {@spell disguise self} e invisibilità a volontà e ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -750,19 +750,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The xorn makes three claw attacks and one bite attack."
+						"Lo xorn effettua tre attacchi con gli artigli e un attacco con il morso."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}22 ({@damage 5d6 + 5}) piercing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}22 ({@damage 5d6 + 5}) danni perforanti."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 10 ft., one target. {@h}9 ({@damage 1d8 + 5}) slashing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 10 piedi, un bersaglio. {@h}9 ({@damage 1d8 + 5}) danni taglienti."
 					]
 				}
 			],
@@ -867,13 +867,13 @@
 				{
 					"name": "Tunneler",
 					"entries": [
-						"The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake."
+						"Il verme può scavare nella roccia solida alla metà della sua velocità di scavo e lascia dietro di sé un tunnel del diametro di 3 metri."
 					]
 				},
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The worm regains 10 hit points at the start of each of its turns if it has at least 1 hit point."
+						"Il verme recupera 10 punti ferita all'inizio di ciascuno dei suoi turni se ha almeno 1 punto ferita."
 					]
 				}
 			],
@@ -881,19 +881,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The worm makes two attacks: one with its grinding jaws and one with its stinger."
+						"Il verme effettua due attacchi: uno con le mascelle stridenti e uno con il pungiglione."
 					]
 				},
 				{
 					"name": "Grinding Jaws",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}22 ({@damage 3d8 + 9}) slashing damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 10 piedi, un bersaglio. {@h}22 ({@damage 3d8 + 9}) danni taglienti."
 					]
 				},
 				{
 					"name": "Tail Stinger",
 					"entries": [
-						"{@atk mw} {@hit 14} to hit, reach 10 ft., one creature. {@h}19 ({@damage 3d6 + 9}) piercing damage, and the target must make a {@dc 19} Constitution saving throw, taking 42 ({@damage 12d6}) poison damage on a failed save, or half as much damage on a successful one."
+						"{@atk mw} {@hit 14} per colpire, raggiungere 10 piedi, una creatura. {@h}19 ({@damage 3d6 + 9}) danni perforanti e il bersaglio deve effettuare un tiro salvezza su Costituzione {@dc 19} e subisce 42 ({@damage 12d6}) danni da veleno se fallisce il tiro salvezza, o la metà dei danni se lo riesce."
 					]
 				}
 			],
@@ -971,7 +971,7 @@
 							"type": "entries",
 							"name": "Tied Down",
 							"entries": [
-								"While lashed to the floor, the creature is {@condition prone} and {@condition restrained}. It also suffers from two levels of {@condition exhaustion}."
+								"Mentre è legata al pavimento, la creatura è {@condition prone} e {@condition restrained}. Soffre anche di due livelli di {@condition exhaustion}."
 							]
 						}
 					}
@@ -983,19 +983,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The creature makes two attacks: one with its tentacles and one with its bite."
+						"La creatura effettua due attacchi: uno con i tentacoli e uno con il morso."
 					]
 				},
 				{
 					"name": "Tentacles",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 10 ft., one creature. {@h}4 ({@damage 1d4 + 2}) poison damage, and the target must succeed on a {@dc 13} Constitution saving throw or be {@condition poisoned} for 1 minute. Until this poison ends, the target is {@condition paralyzed}. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 10 piedi, una creatura. {@h}4 ({@damage 1d4 + 2}) danni da veleno e il bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 13} o essere {@condition poisoned} per 1 minuto. Fino al termine di questo veleno, l'obiettivo è {@condition paralyzed}. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, mettendo fine al veleno su se stesso se lo supera."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 2d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -1044,7 +1044,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"Cassiok carries a {@item staff of power} that grants him a +2 bonus to Armor Class, spell attack rolls, and saving throws. His insectoid physiology prevents him from making melee attacks with the staff. If reduced to 20 hit points or fewer, Cassiok uses his next action to break his staff in a retributive strike."
+								"Cassiok porta con sé un {@item staff of power} che gli garantisce un bonus di +2 alla Classe Armatura, ai tiri per colpire con gli incantesimi e ai tiri salvezza. La sua fisiologia insettoide gli impedisce di effettuare attacchi in mischia con il bastone. Se ridotto a 20 punti ferita o meno, Cassiok usa la sua azione successiva per spezzare il suo bastone con un colpo di punizione."
 							]
 						}
 					},
@@ -1083,7 +1083,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Cassiok is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 19}, {@hit 11} to hit with spell attacks). Cassiok can cast {@spell disguise self} and invisibility at will and has the following wizard spells prepared:"
+						"Cassiok è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 19}, {@hit 11} per colpire con attacchi con incantesimo). Cassiok può lanciare {@spell disguise self} e invisibilità a volontà e ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -1268,7 +1268,7 @@
 				{
 					"name": "Battleaxe",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danni taglienti."
 					]
 				}
 			],
@@ -1396,7 +1396,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Dezmyr is a 19th-level spellcaster. Her spellcasting ability is Charisma (spell save {@dc 18}, {@hit 10} to hit with spell attacks). She has the following paladin spells prepared:"
+						"Dezmyr è un incantatore di 19° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 18}, {@hit 10} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da paladino:"
 					],
 					"spells": {
 						"1": {
@@ -1472,7 +1472,7 @@
 						"items": {
 							"name": "Summon Demon (1/Day)",
 							"entries": [
-								"Drivvin magically summons a {@filter demon of challenge rating 6 or lower|bestiary|challenge rating=[&0;&6]|tag=demon|miscellaneous=!swarm}. The summoned demon appears in an unoccupied space within 60 feet of him, acts as his ally, and can't summon other demons. The summoned demon remains until Drivvin dismisses it as an action or until the demon is reduced to 0 hit points."
+								"Drivvin evoca magicamente un {@filter demon of challenge rating 6 or lower|bestiary|challenge rating=[&0;&6]|tag=demon|miscellaneous=!swarm}. Il demone evocato appare in uno spazio non occupato entro 18 metri da lui, agisce come suo alleato e non può evocare altri demoni. Il demone evocato rimane finché Drivvin non lo congeda con un'azione o finché il demone non viene ridotto a 0 punti ferita."
 							]
 						}
 					}
@@ -1531,7 +1531,7 @@
 						"items": {
 							"name": "Hurl Fire",
 							"entries": [
-								"{@atk rw} {@hit 11} to hit, range 60/240 ft., one target. {@h}29 ({@damage 4d10 + 7}) fire damage."
+								"{@atk rw} {@hit 11} da colpire, portata 60/240 piedi, un bersaglio. {@h}29 ({@damage 4d10 + 7}) danni da fuoco."
 							]
 						}
 					}
@@ -1566,7 +1566,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"Ezzat wears an {@item amulet of proof against detection and location}."
+								"Ezzat indossa un {@item amulet of proof against detection and location}."
 							]
 						}
 					}
@@ -1585,7 +1585,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Ezzat is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 20}, {@hit 12} to hit with spell attacks). He has the following wizard spells prepared:"
+						"Ezzat è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 20}, {@hit 12} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -1772,7 +1772,7 @@
 						"items": {
 							"name": "Multiattack",
 							"entries": [
-								"The troll makes six attacks: one with its bite and five with its claws."
+								"Il troll effettua sei attacchi: uno con il morso e cinque con gli artigli."
 							]
 						}
 					}
@@ -1801,7 +1801,7 @@
 						"items": {
 							"name": "Trident",
 							"entries": [
-								"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing damage."
+								"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danno perforante."
 							]
 						}
 					}
@@ -1834,7 +1834,7 @@
 				{
 					"name": "Magic Missile",
 					"entries": [
-						"The wand shoots a dart of magical force at one creature that it can detect within 60 feet of it. The target takes 3 ({@damage 1d4 + 1}) force damage as the dart hits it unerringly."
+						"La bacchetta lancia un dardo di forza magica contro una creatura che può individuare entro 18 metri da essa. Il bersaglio subisce 3 ({@damage 1d4 + 1}) danni da forza quando il dardo lo colpisce infallibilmente."
 					]
 				}
 			],
@@ -1910,7 +1910,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow's innate spellcasting ability is Charisma (spell save {@dc 15}). The drow can innately cast the following spells, requiring no material components:"
+						"L'abilità innata di lanciare incantesimi del drow è il Carisma (salvezza incantesimo {@dc 15}). Il drow può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell dancing lights}"
@@ -2008,7 +2008,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 17}, {@hit 9} to hit with spell attacks). The mummy lord has the following cleric spells prepared:"
+						"Il signore della mummia è un incantatore di 10° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 17}, {@hit 9} per colpire con attacchi con incantesimo). Il signore della mummia ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -2090,7 +2090,7 @@
 							"items": {
 								"name": "Multiattack",
 								"entries": [
-									"The troglodyte makes three attacks: one with its bite and two with its longsword."
+									"Il troglodita effettua tre attacchi: uno con il morso e due con la spada lunga."
 								]
 							}
 						},
@@ -2100,7 +2100,7 @@
 							"items": {
 								"name": "Longsword",
 								"entries": [
-									"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage, or 7 ({@damage 1d10 + 2}) slashing damage if used with two hands."
+									"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni da taglio o 7 ({@damage 1d10 + 2}) danni da taglio se usato con due mani."
 								]
 							}
 						}
@@ -2202,7 +2202,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 22}, {@hit 14} to hit with spell attacks). He can cast {@spell disguise self} and {@spell invisibility} at will. He can cast {@spell fly} and {@spell lightning bolt} once each without expending a spell slot, but can't do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:"
+						"Halaster è un incantatore di 20° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 22}, {@hit 14} per colpire con attacchi con incantesimo). Può lanciare {@spell disguise self} e {@spell invisibility} a piacimento. Può lanciare {@spell fly} e {@spell lightning bolt} una volta ciascuno senza spendere uno slot incantesimo, ma non può farlo di nuovo finché non termina un riposo breve o lungo. Halaster ha preparato i seguenti incantesimi da mago:"
 					],
 					"will": [
 						"{@spell disguise self}",
@@ -2308,27 +2308,27 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Halaster wears a {@item robe of eyes} that lets him see in all directions, gives him darkvision out to a range of 120 feet, grants advantage on Wisdom ({@skill Perception}) checks that rely on sight, and allows him to see {@condition invisible} creatures and objects, as well as into the Ethereal Plane, out to a range of 120 feet.",
-						"Halaster wields a {@item blast scepter|WDMM} (a very rare magic item that requires attunement). It can be used as an arcane focus. Whoever is attuned to the blast scepter gains resistance to fire and lightning damage and can, as an action, use it to cast {@spell thunderwave} as a 4th-level spell (save {@dc 16}) without expending a spell slot.",
-						"Halaster also wears a horned ring (a very rare magic item that requires attunement), which allows an attuned wearer to ignore Undermountain's magical restrictions (see \"Alterations to Magic\")."
+						"Halaster indossa un {@item robe of eyes} che gli permette di vedere in tutte le direzioni, gli conferisce scurovisione fino a un raggio di 120 piedi, garantisce vantaggio sulle prove di Saggezza ({@skill Perception} che si basano sulla vista e gli consente di vedere {@condition invisible} creature e oggetti, nonché nel Piano Etereo, fino a un raggio di 120 piedi.",
+						"Halaster brandisce un {@item blast scepter|WDMM} (un oggetto magico molto raro che richiede sintonia). Può essere usato come focus arcano. Chiunque sia in sintonia con lo scettro dell'esplosione ottiene resistenza al fuoco e ai danni da fulmine e può, come azione, usarlo per lanciare {@spell thunderwave} come incantesimo di 4° livello (salvezza {@dc 16}) senza spendere uno slot incantesimo.",
+						"Halaster indossa anche un anello cornuto (un oggetto magico molto raro che richiede sintonia), che consente a chi lo indossa sintonizzato di ignorare le restrizioni magiche di Undermountain (vedi \"Alterazioni alla magia\")."
 					]
 				},
 				{
 					"name": "Arcane Recovery (1/Day)",
 					"entries": [
-						"When he finishes a short rest, Halaster recovers all his spell slots of 5th level and lower."
+						"Quando termina un riposo breve, Halaster recupera tutti i suoi slot incantesimo di 5° livello e inferiore."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Halaster fails a saving throw, he can choose to succeed instead."
+						"Se Halaster fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Rejuvenation",
 					"entries": [
-						"If Halaster dies in Undermountain, he revives after {@dice 1d10} days, with all his hit points and any missing body parts restored. His new body appears in a random safe location in Undermountain."
+						"Se Halaster muore a Sottomonte, resuscita dopo {@dice 1d10} giorni, con tutti i suoi punti ferita e tutte le parti del corpo mancanti ripristinate. Il suo nuovo corpo appare in un luogo sicuro e casuale a Sottomonte."
 					]
 				}
 			],
@@ -2336,7 +2336,7 @@
 				{
 					"name": "Blast Scepter",
 					"entries": [
-						"Halaster uses his blast scepter to cast {@spell thunderwave} as a 4th-level spell. Each creature in a 15-foot cube originating from him must make a {@dc 16} Constitution saving throw. On a failed save, a creature takes {@damage 5d8} thunder damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn't pushed"
+						"Halaster usa il suo scettro esplosivo per lanciare {@spell thunderwave} come incantesimo di 4° livello. Ogni creatura in un cubo di 15 piedi che ha origine da lui deve effettuare un tiro salvezza su Costituzione {@dc 16}. Se il tiro salvezza fallisce, una creatura subisce {@damage 5d8} danni da tuono e viene spinta a 3 metri di distanza. Se il Tiro Salvezza riesce, la creatura subisce la metà dei danni e non viene spinta"
 					]
 				}
 			],
@@ -2344,13 +2344,13 @@
 				{
 					"name": "Cast Spell",
 					"entries": [
-						"Halaster casts a spell of 3rd level or lower."
+						"Halaster lancia un incantesimo di 3° livello o inferiore."
 					]
 				},
 				{
 					"name": "Spell Ward (Costs 2 Actions)",
 					"entries": [
-						"Halaster expends a spell slot of 4th level or lower and gains 5 temporary hit points per level of the slot."
+						"Halaster spende uno slot incantesimo di 4° livello o inferiore e guadagna 5 punti ferita temporanei per livello dello slot."
 					]
 				}
 			],
@@ -2434,7 +2434,7 @@
 						"items": {
 							"name": "Spell Immunity",
 							"entries": [
-								"The Halaster horror is immune to the {@spell cone of cold}, {@spell disintegrate}, and {@spell fireball} spells."
+								"L'orrore Halaster è immune agli incantesimi {@spell cone of cold}, {@spell disintegrate} e {@spell fireball}."
 							]
 						}
 					}
@@ -2444,13 +2444,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Halaster horror makes two staff attacks."
+						"L'orrore Halaster effettua due attacchi con il bastone."
 					]
 				},
 				{
 					"name": "Staff",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) bludgeoning damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d8 + 4}) danni contundenti."
 					]
 				}
 			],
@@ -2503,7 +2503,7 @@
 				{
 					"name": "Antimagic Susceptibility",
 					"entries": [
-						"The puppet is destroyed if a successful {@spell dispel magic} spell ({@dc 15}) is cast on it"
+						"Il pupazzo viene distrutto se su di esso viene lanciato con successo un incantesimo {@spell dispel magic} ({@dc 15})."
 					]
 				}
 			],
@@ -2551,19 +2551,19 @@
 				{
 					"name": "Salt Sensitivity",
 					"entries": [
-						"A pound of salt thrown onto the snail's skin deals {@damage 1d6} acid damage to the creature."
+						"Mezzo chilo di sale gettato sulla pelle della lumaca infligge {@damage 1d6} danni da acido alla creatura."
 					]
 				},
 				{
 					"name": "Magical Properties",
 					"entries": [
-						"A creature that uses an action to touch the living snail gains 6 temporary hit points that last for 24 hours. Any creature or object that touches the living snail also gains the benefit of a {@spell remove curse} spell. The snail loses these magical properties if it dies."
+						"Una creatura che usa un'azione per toccare la lumaca vivente ottiene 6 punti ferita temporanei che durano 24 ore. Qualsiasi creatura o oggetto che tocchi la lumaca vivente ottiene anche il beneficio di un incantesimo {@spell remove curse}. La lumaca perde queste proprietà magiche se muore."
 					]
 				},
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The snail can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"La lumaca può arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica."
 					]
 				}
 			],
@@ -2646,25 +2646,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"As an action, it can make two attacks with its pseudopods."
+						"Come azione, può effettuare due attacchi con i suoi pseudopodi."
 					]
 				},
 				{
 					"name": "Pseudopod",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}21 ({@damage 6d6}) acid damage, or 42 ({@damage 12d6}) acid damage while the ooze is enlarged. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative \u22121 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}21 ({@damage 6d6}) danni da acido o 42 ({@damage 12d6}) danni da acido mentre la melma viene ingrandita. Se il bersaglio indossa un'armatura metallica non magica, la sua armatura è parzialmente corrosa e subisce una penalità permanente e cumulativa di -1 alla CA che offre. L'armatura viene distrutta se la penalità riduce la sua CA a 10."
 					]
 				},
 				{
 					"name": "Enlarge (Recharges after a Short or Long Rest)",
 					"entries": [
-						"For 1 minute, the ooze magically increases in size. While enlarged, the ooze is Gargantuan, doubles its damage dice with its pseudopod attack, and makes Strength checks and Strength saving throws with advantage."
+						"Per 1 minuto, la melma aumenta magicamente di dimensioni. Mentre è ingrandita, la melma è Mastodontica, raddoppia i suoi dadi di danno con il suo attacco con pseudopodo ed effettua prove di Forza e tiri salvezza su Forza con vantaggio."
 					]
 				},
 				{
 					"name": "Invisibility (Recharges after a Short or Long Rest)",
 					"entries": [
-						"The ooze magically turns {@condition invisible} for up to 1 hour until it attacks, it uses its Enlarge, or its {@status concentration} is broken (as if {@status concentration||concentrating} on a spell)."
+						"La melma si trasforma magicamente {@condition invisible} per un massimo di 1 ora finché non attacca, usa il suo Ingrandisci o il suo {@status concentration} viene rotto (come se {@status concentration||concentrating} su un incantesimo)."
 					]
 				}
 			],
@@ -2696,7 +2696,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pudding's spellcasting ability is Intelligence (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It can cast the following spells, requiring no components:"
+						"L'abilità da incantatore del budino è Intelligenza (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). Può lanciare i seguenti incantesimi, senza richiedere componenti:"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -2772,7 +2772,7 @@
 				{
 					"name": "Web Cable",
 					"entries": [
-						"The iron spider shoots out a 6-inch-thick web cable up to 50 feet long, attaching the far end of the cable to a solid surface up to 50 feet away from it. As a bonus action, it can detach the other end of the cable from itself and attach it to a solid surface within 10 feet of it. Once it creates 200 feet of web cable, the spider can't produce any more cable until the next dawn."
+						"Il ragno di ferro lancia un cavo di ragnatela spesso 6 pollici e lungo fino a 50 piedi, fissando l'estremità lontana del cavo a una superficie solida fino a 50 piedi di distanza da esso. Come azione bonus, può staccare l'altra estremità del cavo da sé e fissarla a una superficie solida entro 3 metri da esso. Una volta creati 200 piedi di cavo di ragnatela, il ragno non potrà produrne altro fino all'alba successiva."
 					]
 				}
 			],
@@ -2888,7 +2888,7 @@
 						"items": {
 							"name": "Children of the Night (1/Day)",
 							"entries": [
-								"The vampire magically calls {@dice 2d4} swarms of {@creature swarm of bats||bats} or {@creature swarm of rats||rats}, provided that the sun isn't up. While outdoors, the vampire can call {@dice 3d6} {@creature giant centipede||giant centipedes} instead. The called creatures arrive in {@dice 1d4} rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action."
+								"Il vampiro chiama magicamente {@dice 2d4} sciami di {@creature swarm of bats||bats} o {@creature swarm of rats||rats}, a condizione che il sole non sia sorto. Mentre è all'aperto, il vampiro può invece chiamare {@dice 3d6} {@creature giant centipede||giant centipedes}. Le creature richiamate arrivano in {@dice 1d4} turni, agendo come alleati del vampiro e obbedendo ai suoi comandi vocali. Le bestie rimangono per 1 ora, finché il vampiro non muore, o finché il vampiro non le congeda con un'azione bonus."
 							]
 						}
 					}
@@ -2899,7 +2899,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Keresta is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell save {@dc 15}, {@hit 7} to hit with spell attacks). She has the following cleric spells prepared:"
+						"Keresta è un incantatore di 9° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 15}, {@hit 7} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -3001,7 +3001,7 @@
 							"items": {
 								"name": "Multiattack",
 								"entries": [
-									"Kol'daan makes three attacks: one with its bite and two with its claws or sparring sword."
+									"Kol'daan effettua tre attacchi: uno con il morso e due con gli artigli o con la spada."
 								]
 							}
 						},
@@ -3010,7 +3010,7 @@
 							"items": {
 								"name": "Sparring Sword",
 								"entries": [
-									"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d4 + 2}) bludgeoning damage."
+									"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d4 + 2}) danni contundenti."
 								]
 							}
 						}
@@ -3107,7 +3107,7 @@
 				{
 					"name": "Metal Immunity",
 					"entries": [
-						"The lava child can move through metal without hindrance, and it has advantage on attack rolls against any creature wearing metal armor or using a metal shield."
+						"Il bambino della lava può muoversi attraverso il metallo senza ostacoli e dispone di vantaggio ai tiri per colpire contro qualsiasi creatura che indossi un'armatura di metallo o utilizzi uno scudo di metallo."
 					]
 				}
 			],
@@ -3115,19 +3115,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The lava child makes two attacks: one with its bite and one with its claws."
+						"Il bambino della lava effettua due attacchi: uno con il morso e uno con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni perforanti."
 					]
 				},
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) slashing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni taglienti."
 					]
 				}
 			],
@@ -3265,7 +3265,7 @@
 				{
 					"name": "Invisibility",
 					"entries": [
-						"The unseen servant is {@condition invisible}."
+						"Il servitore invisibile è {@condition invisible}."
 					]
 				}
 			],
@@ -3273,7 +3273,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}1 bludgeoning damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}1 danno contundente."
 					]
 				}
 			],
@@ -3310,7 +3310,7 @@
 						"items": {
 							"name": "Slam",
 							"entries": [
-								"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}24 ({@damage 4d8 + 6}) bludgeoning damage."
+								"{@atk mw} {@hit 10} per colpire, raggiungere 5 piedi, un bersaglio. {@h}24 ({@damage 4d8 + 6}) danni contundenti."
 							]
 						}
 					}
@@ -3367,7 +3367,7 @@
 						"items": {
 							"name": "Bite",
 							"entries": [
-								"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}{@damage 2d6 + 2} piercing damage, and the target must succeed on a {@dc 10} Constitution saving throw or be {@condition poisoned} for 1 minute. If the saving throw fails by 5 or more, the target is instead {@condition poisoned} for 5 ({@dice 1d10}) minutes and {@condition unconscious} while {@condition poisoned} in this way."
+								"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}{@damage 2d6 + 2} danni perforanti e il bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 10} o essere {@condition poisoned} per 1 minuto. Se il tiro salvezza fallisce di 5 o più, il bersaglio è invece {@condition poisoned} per 5 ({@dice 1d10}) minuti e {@condition unconscious} mentre {@condition poisoned} in questo modo."
 							]
 						}
 					}
@@ -3570,7 +3570,7 @@
 						"items": {
 							"name": "Blind Eye",
 							"entries": [
-								"Due to poor depth perception, Mobar has disadvantage on any attack roll against a target more than 30 feet away."
+								"A causa della scarsa percezione della profondità, Mobar ha svantaggio su qualsiasi tiro per colpire contro un bersaglio a più di 9 metri di distanza."
 							]
 						}
 					}
@@ -3645,7 +3645,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 17}, {@hit 9} to hit with spell attacks). He has the following wizard spells prepared:"
+						"Muiral è un incantatore di 13° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 17}, {@hit 9} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -3718,7 +3718,7 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Muiral fails a saving throw, he can choose to succeed instead."
+						"Se Muiral fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -3726,19 +3726,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Muiral makes three attacks: two with his longsword and one with his sting."
+						"Muiral effettua tre attacchi: due con la spada lunga e uno con il pungiglione."
 					]
 				},
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing damage, or 15 ({@damage 2d10 + 4}) slashing damage if used with two hands."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni da taglio o 15 ({@damage 2d10 + 4}) danni da taglio se usato con due mani."
 					]
 				},
 				{
 					"name": "Sting",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 10 ft., one creature. {@h}9 ({@damage 1d10 + 4}) piercing damage. The target must make a {@dc 16} Constitution saving throw, taking 27 ({@damage 6d8}) poison damage on a failed save, or half as much damage on a successful one."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 10 piedi, una creatura. {@h}9 ({@damage 1d10 + 4}) danno perforante. Il bersaglio deve effettuare un tiro salvezza su Costituzione {@dc 16} e subisce 27 ({@damage 6d8}) danni da veleno se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -3746,19 +3746,19 @@
 				{
 					"name": "Cast Cantrip",
 					"entries": [
-						"Muiral casts a cantrip."
+						"Muiral lancia un trucchetto."
 					]
 				},
 				{
 					"name": "Lunging Attack (Costs 2 Actions)",
 					"entries": [
-						"Muiral makes one longsword attack that has a reach of 10 feet."
+						"Muiral effettua un attacco con la spada lunga che ha una portata di 3 metri."
 					]
 				},
 				{
 					"name": "Retreating Strike (Costs 3 Actions)",
 					"entries": [
-						"Muiral moves up to his speed without provoking opportunity attacks. Before the move, he can make one longsword attack."
+						"Muiral si muove alla sua velocità senza provocare attacchi di opportunità. Prima del movimento può effettuare un attacco con la spada lunga."
 					]
 				}
 			],
@@ -3837,7 +3837,7 @@
 						"items": {
 							"name": "Eye Ray",
 							"entries": [
-								"The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.",
+								"Lo zombi usa un raggio oculare magico casuale, scegliendo un bersaglio che può vedere entro 18 metri da lui.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -3846,25 +3846,25 @@
 											"type": "item",
 											"name": "1. Paralyzing Ray",
 											"style": "italic",
-											"entry": "The targeted creature must succeed on a {@dc 14} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+											"entry": "La creatura bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 14} o essere {@condition paralyzed} per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 										},
 										{
 											"type": "item",
 											"name": "2. Fear Ray",
 											"style": "italic",
-											"entry": "The targeted creature must succeed on a {@dc 14} Wisdom saving throw or be {@condition frightened} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+											"entry": "La creatura bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 14} o essere {@condition frightened} per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 										},
 										{
 											"type": "item",
 											"name": "3. Enervation Ray",
 											"style": "italic",
-											"entry": "The targeted creature must make a {@dc 14} Constitution saving throw, taking 36 ({@damage 8d8}) necrotic damage on a failed save, or half as much damage on a successful one."
+											"entry": "La creatura bersaglio deve effettuare un tiro salvezza su Costituzione {@dc 14} e subisce 36 ({@damage 8d8}) danni necrotici se fallisce il tiro salvezza, o la metà di questi danni se lo riesce."
 										},
 										{
 											"type": "item",
 											"name": "4. Telekinetic Ray",
 											"style": "italic",
-											"entry": "If the target is a creature, it must succeed on a {@dc 14} Strength saving throw, or the zombie moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the zombie's next turn or until the zombie is incapacitated. If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The zombie can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container."
+											"entry": "Se il bersaglio è una creatura, deve riuscire un tiro salvezza su Forza {@dc 14} oppure lo zombi lo sposta fino a 9 metri in qualsiasi direzione. Viene trattenuto dalla presa telecinetica del raggio fino all'inizio del turno successivo dello zombi o finché lo zombi non diventa incapace. Se il bersaglio è un oggetto del peso di 300 libbre o meno che non viene indossato o trasportato, viene spostato fino a 9 metri in qualsiasi direzione. Lo zombi può anche esercitare un controllo preciso sugli oggetti dotati di questo raggio, come manipolare un semplice strumento o aprire una porta o un contenitore."
 										}
 									]
 								}
@@ -3972,7 +3972,7 @@
 							"items": {
 								"name": "Multiattack",
 								"entries": [
-									"The troglodyte makes two claw attacks."
+									"Il troglodita effettua due attacchi con gli artigli."
 								]
 							}
 						},
@@ -4005,7 +4005,7 @@
 						"items": {
 							"name": "Bite",
 							"entries": [
-								"{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}{@damage 2d6 + 4} piercing damage."
+								"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, una creatura. {@h}{@damage 2d6 + 4} danno perforante."
 							]
 						}
 					}
@@ -4047,7 +4047,7 @@
 							"items": {
 								"name": "Multiattack",
 								"entries": [
-									"The generator makes two fist attacks or four dart attacks."
+									"Il generatore effettua due attacchi con i pugni o quattro attacchi con i dardi."
 								]
 							}
 						},
@@ -4057,7 +4057,7 @@
 							"items": {
 								"name": "Magic Dart",
 								"entries": [
-									"The generator hurls a magic dart at a target it can see up to 60 feet away from it. The dart hits its target automatically (no attack roll required) for 5 ({@damage 2d4}) force damage."
+									"Il generatore scaglia un dardo magico contro un bersaglio che può vedere fino a 18 metri di distanza da esso. Il dardo colpisce il bersaglio automaticamente (non è richiesto alcun tiro per colpire) infliggendo 5 ({@damage 2d4}) danni da forza."
 								]
 							}
 						}
@@ -4104,19 +4104,19 @@
 				{
 					"name": "Invisible in Water",
 					"entries": [
-						"The weird is {@condition invisible} while fully immersed in toxic brew."
+						"La cosa strana è {@condition invisible} mentre sei completamente immerso in una miscela tossica."
 					]
 				},
 				{
 					"name": "Brew Bound",
 					"entries": [
-						"The weird dies if forced to leave the basin of toxic brew it inhabits, or if a {@spell purify food and drink} spell is cast on the brew."
+						"Lo strano muore se costretto a lasciare il bacino di miscela tossica in cui abita, o se un incantesimo {@spell purify food and drink} viene lanciato sulla miscela."
 					]
 				},
 				{
 					"name": "Poisonous Body",
 					"entries": [
-						"A creature takes 10 ({@damage 3d6}) poison damage at the start of each of its turns while {@condition grappled} by a poison weird."
+						"Una creatura subisce 10 ({@damage 3d6}) danni da veleno all'inizio di ciascuno dei suoi turni mentre {@condition grappled} da un veleno strano."
 					]
 				}
 			],
@@ -4151,7 +4151,7 @@
 							"items": {
 								"name": "Shadowfell Despair",
 								"entries": [
-									"Portia suffers from Shadowfell despair manifesting as unshakable dread. Until the despair ends, she has disadvantage on all saving throws and gains the following flaw: \"I'm convinced that I'm going to die in Vanrakdoom.\" Portia can attempt to end her despair each time she finishes a long rest, doing so with a successful {@dc 15} Wisdom saving throw. A {@spell calm emotions} spell also ends her despair, as does any spell or other magical effect that removes a curse."
+									"Portia soffre della disperazione della Coltre Oscura che si manifesta come terrore incrollabile. Fino alla fine della disperazione, ha svantaggio su tutti i tiri salvezza e ottiene il seguente difetto: \"Sono convinto che morirò a Vanrakdoom\". Portia può tentare di porre fine alla sua disperazione ogni volta che termina un riposo lungo, superando un tiro salvezza su Saggezza {@dc 15}. Anche un incantesimo {@spell calm emotions} pone fine alla sua disperazione, così come qualsiasi incantesimo o altro effetto magico che rimuove una maledizione."
 								]
 							}
 						}
@@ -4212,7 +4212,7 @@
 				{
 					"name": "Eye Rays",
 					"entries": [
-						"As a bonus action or a reaction, Preeta can shoot one of the following eye rays at one target she can see within 120 feet of her:",
+						"Come azione bonus o reazione, Preeta può sparare uno dei seguenti raggi oculari a un bersaglio che può vedere entro 32 metri da sé:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -4220,12 +4220,12 @@
 								{
 									"type": "item",
 									"name": "Fear Ray",
-									"entry": "The target must succeed on a {@dc 15} Wisdom saving throw or be {@condition frightened} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+									"entry": "Il bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 15} o essere {@condition frightened} per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 								},
 								{
 									"type": "item",
 									"name": "Paralyzing Ray",
-									"entry": "The target must succeed on a {@dc 15} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+									"entry": "Il bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 15} o essere {@condition paralyzed} per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 								}
 							]
 						}
@@ -4308,13 +4308,13 @@
 				{
 					"name": "Lesser Magic",
 					"entries": [
-						"The behir casts {@spell color spray} or {@spell sleep}, requiring no components."
+						"Il behir viene lanciato {@spell color spray} o {@spell sleep}, senza richiedere componenti."
 					]
 				},
 				{
 					"name": "Greater Magic (Costs 2 Actions)",
 					"entries": [
-						"The behir casts {@spell invisibility} or {@spell misty step}, requiring no components."
+						"Il behir viene lanciato {@spell invisibility} o {@spell misty step}, senza richiedere componenti."
 					]
 				}
 			],
@@ -4384,13 +4384,13 @@
 				{
 					"name": "Lightning Absorption",
 					"entries": [
-						"Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 ({@damage 2d10}) lightning damage until the end of its next turn."
+						"Ogni volta che lo scaladar è soggetto a danni da fulmine, non subisce danni e la sua puntura infligge 11 ({@damage 2d10}) danni da fulmine aggiuntivi fino alla fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Scaladar Link",
 					"entries": [
-						"The scaladar knows the location of other scaladar within 100 feet of it, and it can sense when any of them take damage."
+						"Lo scaladar conosce la posizione di altri scaladar entro 30 metri da lui e può percepire quando qualcuno di essi subisce danni."
 					]
 				}
 			],
@@ -4398,19 +4398,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The scaladar makes three attacks: two with its claws and one with its sting."
+						"Lo scaladar effettua tre attacchi: due con gli artigli e uno con il pungiglione."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 10 ft., one target. {@h}10 ({@damage 1d12 + 4}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 15}). The scaladar has two claws, each of which can grapple one target."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 10 piedi, un bersaglio. {@h}10 ({@damage 1d12 + 4}) danni contundenti e il bersaglio è {@condition grappled} (fuga {@dc 15}). Lo scaladar è dotato di due artigli, ognuno dei quali può afferrare un bersaglio."
 					]
 				},
 				{
 					"name": "Sting",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 10 ft., one target. {@h}9 ({@damage 1d10 + 4}) piercing damage plus 11 ({@damage 2d10}) lightning damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 10 piedi, un bersaglio. {@h}9 ({@damage 1d10 + 4}) danni perforanti più 11 ({@damage 2d10}) danni da fulmine."
 					]
 				}
 			],
@@ -4520,19 +4520,19 @@
 				{
 					"name": "Amorphous",
 					"entries": [
-						"The assassin can move through a space as narrow as 1 inch wide without squeezing."
+						"L'assassino può muoversi attraverso uno spazio stretto fino a 1 pollice di larghezza senza stringersi."
 					]
 				},
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in dim light or darkness, the assassin can take the Hide action as a bonus action."
+						"Mentre si trova in penombra o nell'oscurità, l'assassino può eseguire l'azione Nascondersi come azione bonus."
 					]
 				},
 				{
 					"name": "Sunlight Weakness",
 					"entries": [
-						"While in sunlight, the assassin has disadvantage on attack rolls, ability checks, and saving throws."
+						"Mentre è alla luce del sole, l'assassino ha svantaggio ai tiri per colpire, alle prove di caratteristica e ai tiri salvezza."
 					]
 				}
 			],
@@ -4540,13 +4540,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The assassin makes two Shadow Blade attacks."
+						"L'assassino effettua due attacchi con la Lama Ombra."
 					]
 				},
 				{
 					"name": "Shadow Blade",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage plus 10 ({@damage 3d6}) necrotic damage. Unless the target is immune to necrotic damage, the target's Strength score is reduced by {@dice 1d4} each time it is hit by this attack. The target dies if its Strength is reduced to 0. The reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a shadow (see the Monster Manual) rises from the corpse {@dice 1d4} hours later."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni perforanti più 10 ({@damage 3d6}) danni necrotici. A meno che il bersaglio non sia immune ai danni necrotici, il punteggio di Forza del bersaglio viene ridotto del {@dice 1d4} ogni volta che viene colpito da questo attacco. Il bersaglio muore se la sua Forza viene ridotta a 0. La riduzione dura finché il bersaglio non termina un riposo breve o lungo. Se un umanoide non malvagio muore a causa di questo attacco, un'ombra (vedi Manuale dei Mostri) si solleva dal cadavere {@dice 1d4} ore dopo."
 					]
 				}
 			],
@@ -4586,7 +4586,7 @@
 						"items": {
 							"name": "Shapechanger",
 							"entries": [
-								"The roper can use its action to polymorph into a stone object or back to its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+								"Il fustigatore può usare la sua azione per trasformarsi in un oggetto di pietra o tornare alla sua vera forma. Le sue statistiche sono le stesse in ogni modulo. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Ritorna alla sua vera forma se muore."
 							]
 						}
 					}
@@ -4649,31 +4649,31 @@
 				{
 					"name": "Disable",
 					"entries": [
-						"When a leg drops to 0 hit points, it is disabled, and Shockerstomper can use a reaction to detach it from its main body. Whenever one of its legs is disabled, Shockerstomper's walking speed is reduced by 10 feet. The whole contraption topples over and shuts down if four of its seven legs are disabled."
+						"Quando una gamba scende a 0 punti ferita, viene disabilitata e Shockerstomper può usare una reazione per staccarla dal corpo principale. Ogni volta che una delle sue gambe viene disabilitata, la velocità di camminata di Shockerstomper viene ridotta di 3 metri. L'intero aggeggio si ribalta e si spegne se quattro delle sue sette gambe vengono disattivate."
 					]
 				},
 				{
 					"name": "Electrified Surface",
 					"entries": [
-						"A creature that ends its turn in contact with Shockerstomper's body (saucer or turrets) must make a {@dc 15} Constitution saving throw, taking 22 ({@damage 4d10}) lightning damage on a failed save, or half as much damage on a successful one."
+						"Una creatura che termina il suo turno in contatto con il corpo di Shockerstomper (disco o torrette) deve effettuare un tiro salvezza su Costituzione {@dc 15} e subisce 22 ({@damage 4d10}) danni da fulmine se fallisce, o la metà di quei danni se lo riesce."
 					]
 				},
 				{
 					"name": "Immutable Form",
 					"entries": [
-						"Shockerstomper is immune to any spell or effect that would alter its form."
+						"Shockerstomper è immune a qualsiasi incantesimo o effetto che ne alteri la forma."
 					]
 				},
 				{
 					"name": "Control Module",
 					"entries": [
-						"A creature atop or above Shockerstomper's platform can locate its control module with a successful {@dc 15} Intelligence ({@skill Investigation}) check or Wisdom ({@skill Perception}) check. As an action, a character can try to open the control module's access panel, either by tearing it off with a successful {@dc 25} Strength ({@skill Athletics}) check or by dislodging it with thieves' tools and a successful {@dc 25} Dexterity check. Behind the panel, embedded in the floor of the control module, is a 5-foot-diameter pulsating crystal hemisphere with AC 10, 25 hit points, and immunity to poison and psychic damage. Destroying the crystal hemisphere shuts down Shockerstomper."
+						"Una creatura in cima o sopra la piattaforma di Shockerstomper può localizzare il suo modulo di controllo con una prova riuscita di {@dc 15} Intelligenza ({@skill Investigation}) o Saggezza ({@skill Perception}). Come azione, un personaggio può provare ad aprire il pannello di accesso del modulo di controllo, strappandolo con una prova riuscita di Forza {@dc 25} ({@skill Athletics}) o rimuovendolo con strumenti da ladro e una prova riuscita di Destrezza {@dc 25}. Dietro il pannello, incastonato nel pavimento del modulo di controllo, c'è un emisfero di cristallo pulsante di 1,5 metri di diametro con CA 10, 25 punti ferita e immunità al veleno e ai danni psichici. La distruzione dell'emisfero di cristallo spegne Shockerstomper."
 					]
 				},
 				{
 					"name": "Lightning Turret",
 					"entries": [
-						"A character can try to plug the nozzle of a lightning turret with a 10-pound rock or similar object, doing so with a successful {@dc 15} Strength ({@skill Athletics}) check. A plugged turret can't shoot lightning until a creature uses an action to try to clear the obstruction, which requires another successful {@dc 15} Strength ({@skill Athletics}) check. Shockerstomper has no ability to clear an obstruction itself."
+						"Un personaggio può provare a tappare l'ugello di una torretta fulminante con una roccia da 10 libbre o un oggetto simile, superando con successo una prova di {@dc 15} Forza ({@skill Athletics}). Una torretta intasata non può sparare fulmini finché una creatura non usa un'azione per cercare di eliminare l'ostruzione, il che richiede un'altra prova riuscita di {@dc 15} Forza ({@skill Athletics}). Shockerstomper non ha la capacità di eliminare un'ostruzione da solo."
 					]
 				}
 			],
@@ -4681,19 +4681,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Shockerstomper makes three Lightning Turret attacks and two Stomp attacks."
+						"Shockerstomper effettua tre attacchi con torretta fulminante e due attacchi con calpestio."
 					]
 				},
 				{
 					"name": "Lightning Turret",
 					"entries": [
-						"The turret shoots a magical lightning bolt at one creature within 60 feet of Shockerstomper. The target must make a {@dc 15} Dexterity saving throw, taking 44 ({@damage 8d10}) lightning damage on a failed save, or half as much damage on a successful one."
+						"La torretta lancia un fulmine magico contro una creatura entro 18 metri da Shockerstomper. Il bersaglio deve effettuare un tiro salvezza su Destrezza {@dc 15} e subisce 44 ({@damage 8d10}) danni da fulmine se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				},
 				{
 					"name": "Stomp",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 10 ft., one creature. {@h}22 ({@damage 3d10 + 6}) bludgeoning damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 10 piedi, una creatura. {@h}22 ({@damage 3d10 + 6}) danni contundenti."
 					]
 				}
 			],
@@ -4742,7 +4742,7 @@
 						"items": {
 							"name": "Spider Features",
 							"entries": [
-								"While cursed with spider features, Shunn can climb difficult surfaces, even across ceilings, without needing to make an ability check."
+								"Sebbene sia maledetto dalle caratteristiche del ragno, Shunn può arrampicarsi su superfici difficili, anche sui soffitti, senza bisogno di effettuare una prova di caratteristica."
 							]
 						}
 					}
@@ -4828,7 +4828,7 @@
 						"items": {
 							"name": "Breath Weapons {@recharge 5}",
 							"entries": [
-								"The dragon uses one of the following breath weapons.",
+								"Il drago usa una delle seguenti armi a soffio.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -4836,12 +4836,12 @@
 										{
 											"type": "item",
 											"name": "Acid Breath",
-											"entry": "The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a {@dc 18} Dexterity saving throw, taking 58 ({@damage 13d8}) acid damage on a failed save, or half as much damage on a successful one."
+											"entry": "Il drago esala acido in una linea di 18 metri larga 1,5 metri. Ogni creatura in quella linea deve effettuare un tiro salvezza su Destrezza {@dc 18} e subisce 58 ({@damage 13d8}) danni da acido se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 										},
 										{
 											"type": "item",
 											"name": "Paralyzing Breath",
-											"entry": "The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a {@dc 20} Constitution saving throw or be {@condition paralyzed} for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+											"entry": "Il drago esala gas paralizzante in un cono di 18 metri. Ogni creatura in quell'area deve riuscire in un tiro salvezza su Costituzione {@dc 20} o essere {@condition paralyzed} per 1 minuto. Una creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stessa in caso di successo."
 										}
 									]
 								}
@@ -4893,7 +4893,7 @@
 						"items": {
 							"name": "Magic Theft",
 							"entries": [
-								"As a bonus action, the golem targets one creature it can see within 30 feet of it. The target must succeed on a {@dc 17} Charisma saving throw, or all magic items in its possession are teleported to the bottom of the pit in {@adventure area 31|WDMM|15|31. Hall of Embers}."
+								"Come azione bonus, il golem prende di mira una creatura che può vedere entro 9 metri da lui. Il bersaglio deve riuscire in un tiro salvezza su Carisma {@dc 17} altrimenti tutti gli oggetti magici in suo possesso verranno teletrasportati sul fondo della fossa in {@adventure area 31|WDMM|15|31. Hall of Embers}."
 							]
 						}
 					}
@@ -5018,7 +5018,7 @@
 							"items": {
 								"name": "Multiattack",
 								"entries": [
-									"Thwad makes three attacks with his maul or his shortbow."
+									"Thwad effettua tre attacchi con la mazza o l'arco corto."
 								]
 							}
 						},
@@ -5028,7 +5028,7 @@
 							"items": {
 								"name": "Maul",
 								"entries": [
-									"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage, plus 7 ({@damage 2d6}) bludgeoning damage if Thwad has more than half of his total hit points remaining."
+									"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}12 ({@damage 2d6 + 5}) danni contundenti, più 7 ({@damage 2d6}) danni contundenti se Thwad ha più della metà dei suoi punti ferita totali rimanenti."
 								]
 							}
 						}
@@ -5129,7 +5129,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Trenzia is a 5th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks). She requires no somatic or material components to cast its spells. Trenzia has the following wizard spells prepared:"
+						"Trenzia è un incantatore di 5° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Non necessita di componenti somatiche o materiali per lanciare i suoi incantesimi. Trenzia ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -5165,13 +5165,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Trenzia uses Lightning Ray twice."
+						"Trenzi usa Raggio Fulmine due volte."
 					]
 				},
 				{
 					"name": "Fire Ray",
 					"entries": [
-						"{@atk rs} {@hit 5} to hit, range 30 ft., one target. {@h}10 ({@damage 3d6}) lightning damage."
+						"{@atk rs} {@hit 5} per colpire, portata 9 metri, un bersaglio. {@h}10 ({@damage 3d6}) danni da fulmine."
 					]
 				}
 			],
@@ -5214,7 +5214,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Trobriand is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 20}, {@hit 12} to hit with spell attacks). He has the following wizard spells prepared:"
+						"Trobriand è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 20}, {@hit 12} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -5403,7 +5403,7 @@
 				{
 					"name": "Necrotic Absorption",
 					"entries": [
-						"Whenever the shambling mound is subjected to necrotic damage, it takes no damage and regains a number of hit points equal to the necrotic damage dealt."
+						"Ogni volta che il tumulo strisciante è soggetto a danni necrotici, non subisce danni e recupera un numero di punti ferita pari al danno necrotico inflitto."
 					]
 				}
 			],
@@ -5600,31 +5600,31 @@
 				{
 					"name": "Shapechanger",
 					"entries": [
-						"The werebat can use its action to polymorph into a Medium bat-humanoid hybrid, or into a Large giant bat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+						"Il pipistrello mannaro può usare la sua azione per trasformarsi in un ibrido pipistrello umanoide medio, o in un pipistrello gigante grande, o tornare alla sua vera forma, che è umanoide. Le sue statistiche, a parte la dimensione, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Ritorna alla sua vera forma se muore."
 					]
 				},
 				{
 					"name": "Echolocation (Bat or Hybrid Form Only)",
 					"entries": [
-						"The werebat has blindsight out to a range of 60 feet as long as it's not {@condition deafened}."
+						"Il pipistrello mannaro ha la vista cieca fino a un raggio di 60 piedi purché non lo sia {@condition deafened}."
 					]
 				},
 				{
 					"name": "Keen Hearing",
 					"entries": [
-						"The werebat has advantage on Wisdom ({@skill Perception}) checks that rely on hearing."
+						"Il pipistrello mannaro dispone di vantaggio alle prove di Saggezza ({@skill Perception}) basate sull'udito."
 					]
 				},
 				{
 					"name": "Nimble Escape (Humanoid Form Only)",
 					"entries": [
-						"The werebat can take the Disengage or Hide action as a bonus action on each of its turns."
+						"Il pipistrello mannaro può eseguire l'azione Disimpegnarsi o Nascondersi come azione bonus in ciascuno dei suoi turni."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the werebat has disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+						"Mentre è alla luce del sole, il pipistrello mannaro ha svantaggio ai tiri per colpire, nonché alle prove di Saggezza ({@skill Perception}) basate sulla vista."
 					]
 				}
 			],
@@ -5632,25 +5632,25 @@
 				{
 					"name": "Multiattack (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"In humanoid form, the werebat makes two scimitar attacks or two shortbow attacks. In hybrid form, it can make one bite attack and one scimitar attack."
+						"In forma umanoide, il pipistrello mannaro effettua due attacchi con la scimitarra o due attacchi con l'arco corto. Nella forma ibrida, può effettuare un attacco con il morso e un attacco con la scimitarra."
 					]
 				},
 				{
 					"name": "Bite (Bat or Hybrid Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}6 ({@damage 1d6 + 3}) piercing damage, and the werebat gains temporary hit points equal to the damage dealt. If the target is a humanoid, it must succeed on a {@dc 10} Constitution saving throw or be cursed with werebat lycanthropy."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}6 ({@damage 1d6 + 3}) danni perforanti e il pipistrello mannaro guadagna punti ferita temporanei pari al danno inflitto. Se il bersaglio è un umanoide, deve riuscire un tiro salvezza su Costituzione {@dc 10} o essere maledetto dalla licantropia del pipistrello mannaro."
 					]
 				},
 				{
 					"name": "Scimitar (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni taglienti."
 					]
 				},
 				{
 					"name": "Shortbow (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"{@atk rw} {@hit 5} to hit, range 80/320 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."
+						"{@atk rw} {@hit 5} da colpire, portata 80/320 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danno perforante."
 					]
 				}
 			],
@@ -5803,7 +5803,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"Xarann wears a {@i piwafwi}, a drow-made {@item cloak of elvenkind}. It loses its magic if exposed to sunlight for 1 hour without interruption."
+								"Xarann ​​indossa un {@i piwafwi}, un drow {@item cloak of elvenkind}. Perde la sua magia se esposto alla luce solare per 1 ora senza interruzioni."
 							]
 						}
 					}
@@ -5875,7 +5875,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"Zalthar wields a {@item nine lives stealer} longsword with 5 charges remaining."
+								"Zalthar brandisce una spada lunga {@item nine lives stealer} con 5 cariche rimanenti."
 							]
 						}
 					},
@@ -5885,7 +5885,7 @@
 						"items": {
 							"name": "Nine Lives Stealer Longsword",
 							"entries": [
-								"{@atk mw} {@hit 13} to hit, reach 5 ft., one target. {@h}11 ({@damage 1d8 + 7}) slashing damage, or 12 ({@damage 1d10 + 7}) slashing damage if used with two hands, plus 18 ({@damage 4d8}) necrotic damage."
+								"{@atk mw} {@hit 13} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 1d8 + 7}) danni da taglio o 12 ({@damage 1d10 + 7}) danni da taglio se usato con due mani, più 18 ({@damage 4d8}) danni necrotici."
 							]
 						}
 					}
@@ -5979,46 +5979,46 @@
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"Zorak has advantage on saving throws against poison, and has resistance against poison damage."
+						"Zorak ha vantaggio ai tiri salvezza contro il veleno e ha resistenza ai danni da veleno."
 					]
 				},
 				{
 					"name": "Shapechanger",
 					"entries": [
-						"If Zorak isn't in sunlight or running water, he can use his action to polymorph into a Tiny bat or a Medium cloud of mist, or back into his true form.",
-						"While in bat form, Zorak can't speak, his walking speed is 5 feet, and he has a flying speed of 30 feet. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with it, but nothing he is carrying does. He reverts to his true form if he dies.",
-						"While in mist form, Zorak can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage, except the damage he takes from sunlight."
+						"Se Zorak non è alla luce del sole o all'acqua corrente, può usare la sua azione per trasformarsi in un pipistrello minuscolo o in una nuvola di nebbia media, o tornare alla sua vera forma.",
+						"Mentre è in forma di pipistrello, Zorak non può parlare, la sua velocità di camminata è di 1,5 metri e ha una velocità di volo di 9 metri. Le sue statistiche, a parte la taglia e la velocità, sono invariate. Tutto ciò che indossa si trasforma con esso, ma nulla di ciò che trasporta lo fa. Se muore, ritorna alla sua vera forma.",
+						"Mentre è in forma di nebbia, Zorak non può compiere alcuna azione, parlare o manipolare oggetti. È senza peso, ha una velocità di volo di 20 piedi, può librarsi e può entrare nello spazio di una creatura ostile e fermarsi lì. Inoltre, se l'aria può passare attraverso uno spazio, la nebbia può farlo senza comprimerla, e non può passare attraverso l'acqua. Dispone di vantaggio ai tiri salvezza su Forza, Destrezza e Costituzione ed è immune a tutti i danni non magici, eccetto quelli che subisce dalla luce solare."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Zorak fails a saving throw, he can choose to succeed instead."
+						"Se Zorak fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Misty Escape",
 					"entries": [
-						"When he drops to 0 hit points outside his resting place, Zorak transforms into a cloud of mist (as in the Shapechanger trait) instead of falling {@condition unconscious}, provided that he isn't in sunlight or running water. If he can't transform, he is destroyed.",
-						"While he has 0 hit points in mist form, he can't revert to his vampire form, and he must reach his resting place within 2 hours or be destroyed. Once in his resting place, he reverts to his vampire form. He is then {@condition paralyzed} until he regains at least 1 hit point. After spending 1 hour in his resting place with 0 hit points, he regains 1 hit point."
+						"Quando scende a 0 punti ferita fuori dal suo luogo di riposo, Zorak si trasforma in una nuvola di nebbia (come nel tratto Mutaforma) invece di cadere {@condition unconscious}, a condizione che non sia alla luce del sole o all'acqua corrente. Se non può trasformarsi, viene distrutto.",
+						"Anche se ha 0 punti ferita nella forma di nebbia, non può ritornare alla sua forma di vampiro e deve raggiungere il luogo del suo riposo entro 2 ore o essere distrutto. Una volta nel luogo del suo riposo, ritorna alla sua forma di vampiro. Quindi è {@condition paralyzed} finché non recupera almeno 1 punto ferita. Dopo aver trascorso 1 ora nel suo luogo di riposo con 0 punti ferita, recupera 1 punto ferita."
 					]
 				},
 				{
 					"name": "Regeneration",
 					"entries": [
-						"Zorak regains 20 hit points at the start of his turn if he has at least 1 hit point and isn't in sunlight or running water. If Zorak takes radiant damage or damage from holy water, this trait doesn't function at the start of Zorak's next turn."
+						"Zorak recupera 20 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non è esposto alla luce del sole o all'acqua corrente. Se Zorak subisce danni radiosi o danni dall'acqua santa, questo tratto non funziona all'inizio del turno successivo di Zorak."
 					]
 				},
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"Zorak can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"Zorak può arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica."
 					]
 				},
 				{
 					"name": "Vampire Weaknesses",
 					"entries": [
-						"Zorak has the following flaws:",
+						"Zorak ha i seguenti difetti:",
 						{
 							"type": "list",
 							"style": "list-hang-subtrait",
@@ -6026,22 +6026,22 @@
 								{
 									"type": "itemSub",
 									"name": "Forbiddance",
-									"entry": "Zorak can't enter a residence without an invitation from one of the occupants."
+									"entry": "Zorak non può entrare in una residenza senza l'invito di uno degli occupanti."
 								},
 								{
 									"type": "itemSub",
 									"name": "Harmed by Running Water",
-									"entry": "Zorak takes 20 acid damage if he ends his turn in running water."
+									"entry": "Zorak subisce 20 danni da acido se termina il suo turno nell'acqua corrente."
 								},
 								{
 									"type": "itemSub",
 									"name": "Stake to the Heart",
-									"entry": "If a piercing weapon made of wood is driven into Zorak's heart while Zorak is {@condition incapacitated} in his resting place, Zorak is {@condition paralyzed} until the stake is removed."
+									"entry": "Se un'arma perforante fatta di legno viene conficcata nel cuore di Zorak mentre Zorak si trova {@condition incapacitated} nel suo luogo di riposo, Zorak resterà {@condition paralyzed} finché il paletto non verrà rimosso."
 								},
 								{
 									"type": "itemSub",
 									"name": "Sunlight Hypersensitivity",
-									"entry": "Zorak takes 20 radiant damage when he starts his turn in sunlight. While in sunlight, he has disadvantage on attack rolls and ability checks"
+									"entry": "Zorak subisce 20 danni radiosi quando inizia il suo turno alla luce del sole. Mentre è alla luce del sole, ha svantaggio ai tiri per colpire e alle prove di caratteristica"
 								}
 							]
 						}
@@ -6052,44 +6052,44 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Zorak makes two attacks with his {@item dwarven thrower}, only one of which can be a ranged attack."
+						"Zorak effettua due attacchi con il suo {@item dwarven thrower}, solo uno dei quali può essere un attacco a distanza."
 					]
 				},
 				{
 					"name": "Dwarven Thrower",
 					"entries": [
-						"{@atk mw,rw} {@hit 12} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}11 ({@damage 1d8 + 7}) bludgeoning damage, or 12 ({@damage 1d10 + 7}) bludgeoning damage when used with two hands to make a melee attack. On a ranged attack that hits, the hammer deals an extra {@damage 1d8} bludgeoning damage ({@damage 2d8} if the target is a giant). {@hom}If thrown, the weapon flies back to Zorak's hand after the attack."
+						"{@atk mw,rw} {@hit 12} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}11 ({@damage 1d8 + 7}) danni contundenti o 12 ({@damage 1d10 + 7}) danni contundenti se usato con due mani per effettuare un attacco in mischia. In caso di attacco a distanza che va a segno, il martello infligge un danno contundente extra {@damage 1d8} ({@damage 2d8} se il bersaglio è un gigante). {@hom}Se lanciata, l'arma torna in mano a Zorak dopo l'attacco."
 					]
 				},
 				{
 					"name": "Multiattack (Vampire Form Only)",
 					"entries": [
-						"Zorak makes two attacks, only one of which can be a bite attack."
+						"Zorak effettua due attacchi, solo uno dei quali può essere un attacco con il morso."
 					]
 				},
 				{
 					"name": "Unarmed Strike (Vampire Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one creature. {@h}8 ({@damage 1d8 + 4}) bludgeoning damage. Instead of dealing damage, Zorak can grapple the target (escape {@dc 18})."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, una creatura. {@h}8 ({@damage 1d8 + 4}) danni contundenti. Invece di infliggere danni, Zorak può afferrare il bersaglio (fuga {@dc 18})."
 					]
 				},
 				{
 					"name": "Bite (Bat or Vampire Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one willing creature, or a creature that is {@condition grappled} by Zorak, {@condition incapacitated}, or {@condition restrained}. {@h}7 ({@damage 1d6 + 4}) piercing damage plus 10 ({@damage 3d6}) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Zorak regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces his hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a {@creature vampire spawn} under Zorak's control."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, una creatura consenziente o una creatura che sia {@condition grappled} da Zorak, {@condition incapacitated} o {@condition restrained}. {@h}7 ({@damage 1d6 + 4}) danni perforanti più 10 ({@damage 3d6}) danni necrotici. I punti ferita massimi del bersaglio vengono ridotti di un ammontare pari al danno necrotico subito, e Zorak recupera punti ferita pari a quell'ammontare. La riduzione dura finché il bersaglio non termina un riposo lungo. Il bersaglio muore se questo effetto riduce i suoi punti ferita massimi a 0. Un umanoide ucciso in questo modo e poi sepolto nel terreno risorge la notte successiva come {@creature vampire spawn} sotto il controllo di Zorak."
 					]
 				},
 				{
 					"name": "Charm",
 					"entries": [
-						"Zorak targets one humanoid he can see within 30 feet of it. If the target can see Zorak, the target must succeed on a {@dc 17} Wisdom saving throw against this magic or be {@condition charmed} by Zorak. The {@condition charmed} target regards Zorak as a trusted friend to be heeded and protected. Although the target isn't under Zorak's control, it takes Zorak's requests or actions in the most favorable way it can, and it is a willing target for Zorak's bite attack.",
-						"Each time Zorak or Zorak's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until Zorak is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect."
+						"Zorak prende di mira un umanoide che può vedere entro 9 metri da esso. Se il bersaglio può vedere Zorak, deve riuscire un tiro salvezza su Saggezza {@dc 17} contro questa magia o essere {@condition charmed} colpito da Zorak. Il target {@condition charmed} considera Zorak un amico fidato da ascoltare e proteggere. Sebbene il bersaglio non sia sotto il controllo di Zorak, accetta le richieste o le azioni di Zorak nel modo più favorevole possibile ed è un bersaglio consenziente per l'attacco con il morso di Zorak.",
+						"Ogni volta che Zorak o i suoi compagni fanno qualcosa di dannoso al bersaglio, quest'ultimo può ripetere il tiro salvezza e, se lo supera, l'effetto su se stesso termina. Altrimenti, l'effetto dura 24 ore o finché Zorak non viene distrutto, si trova su un piano di esistenza diverso da quello del bersaglio o non effettua un'azione bonus per porre fine all'effetto."
 					]
 				},
 				{
 					"name": "Children of the Night (1/Day)",
 					"entries": [
-						"Zorak magically calls {@dice 2d4} swarms of {@creature swarm of bats||bats} or {@creature swarm of rats||rats}, provided that the sun isn't up. While outdoors, Zorak can call {@dice 3d6} {@creature wolf||wolves} instead. The called creatures arrive in {@dice 1d4} rounds, acting as allies of Zorak and obeying his spoken commands. The beasts remain for 1 hour, until Zorak dies, or until Zorak dismisses them as a bonus action."
+						"Zorak richiama magicamente {@dice 2d4} sciami di {@creature swarm of bats||bats} o {@creature swarm of rats||rats}, a condizione che il sole non sia sorto. Mentre è all'aperto, Zorak può invece chiamare {@dice 3d6} {@creature wolf||wolves}. Le creature richiamate arrivano in {@dice 1d4} round, agendo come alleate di Zorak e obbedendo ai suoi comandi vocali. Le bestie rimangono per 1 ora, finché Zorak non muore, o finché Zorak non le congeda con un'azione bonus."
 					]
 				}
 			],
@@ -6097,19 +6097,19 @@
 				{
 					"name": "Move",
 					"entries": [
-						"Zorak moves up to his speed without provoking opportunity attacks."
+						"Zorak si muove alla sua velocità senza provocare attacchi di opportunità."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"Zorak makes one unarmed strike."
+						"Zorak effettua un colpo senz'armi."
 					]
 				},
 				{
 					"name": "Bite (Costs 2 Actions)",
 					"entries": [
-						"Zorak makes one bite attack."
+						"Zorak effettua un attacco con il morso."
 					]
 				}
 			],

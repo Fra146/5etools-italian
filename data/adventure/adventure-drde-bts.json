@@ -19,9 +19,9 @@
 					"name": "Dragons in Dungeons",
 					"id": "001",
 					"entries": [
-						"Nothing is more quintessentially Dungeons & Dragons than gathering a group of heroes to face a mighty dragon in a mysterious dungeon. These classic elements link players across time and space, from the first adventurers who forayed into the gloom more than 50 years ago to players beginning their first adventure now.",
-						"{@i Dragon Delves} is a celebration of this shared tradition. Each of the ten adventures in this book features a dragon in a lair. Designed for characters of levels 1 through 12, the adventures offer a range of challenges, from defeating evil dragons to working with good dragons, as well as navigating more complicated moral dilemmas. The dungeons where the dragons make their lairs range from cavern complexes to ruined cities and more.",
-						"Where there are dragons in dungeons, there's always adventure!"
+						"Non c'è niente di più tipico di Dungeons & Dragons che riunire un gruppo di eroi per affrontare un potente drago in un misterioso dungeon. Questi elementi classici collegano i giocatori attraverso il tempo e lo spazio, dai primi avventurieri che fecero incursioni nell'oscurità più di 50 anni fa ai giocatori che iniziano ora la loro prima avventura.",
+						"{@i Dragon Delves} è una celebrazione di questa tradizione condivisa. Ognuna delle dieci avventure di questo libro presenta un drago in una tana. Progettate per personaggi di livello da 1 a 12, le avventure offrono una serie di sfide, dallo sconfiggere i draghi malvagi alla collaborazione con i draghi buoni, oltre ad affrontare dilemmi morali più complicati. I sotterranei in cui i draghi costruiscono le loro tane vanno da complessi di caverne a città in rovina e altro ancora.",
+						"Dove ci sono draghi nei sotterranei, c'è sempre avventura!"
 					]
 				},
 				{
@@ -29,14 +29,14 @@
 					"name": "Using This Book",
 					"id": "002",
 					"entries": [
-						"The adventures in an anthology such as {@i Dragon Delves} are versatile resources that can fill a variety of needs at your gaming table: as one-shot adventures, as \"filler episodes\" in an ongoing campaign, or as a series that forms a campaign, bringing characters from level 1 to a climactic conclusion at level 12.",
-						"These adventures are designed to require minimal preparation (see {@area Running the Adventures|009|x} later in this introduction).",
+						"Le avventure in un'antologia come {@i Dragon Delves} sono risorse versatili che possono soddisfare una varietà di esigenze sul tuo tavolo da gioco: come avventure one-shot, come \"episodi di riempimento\" in una campagna in corso o come serie che forma una campagna, portando i personaggi dal livello 1 a una conclusione culminante al livello 12.",
+						"Queste avventure sono progettate per richiedere una preparazione minima (vedi {@area Running the Adventures|009|x} più avanti in questa introduzione).",
 						{
 							"type": "entries",
 							"name": "One-Shot Adventure",
 							"id": "003",
 							"entries": [
-								"Maybe you're normally a player in an ongoing campaign, but you want to try your hand at being the Dungeon Master. Maybe you're trying to pull a new group together, and you want to see how all the players get along before you start a whole campaign. Maybe your regular DM is sick or has a scheduling conflict, but everyone else is ready to play. Or maybe your group needs a break or a diversion from the ongoing campaign. In any of these cases, you can pick an adventure from this book and run it."
+								"Forse normalmente sei un giocatore in una campagna in corso, ma vuoi provare a diventare il Dungeon Master. Forse stai cercando di mettere insieme un nuovo gruppo e vuoi vedere come vanno d'accordo tutti i giocatori prima di iniziare un'intera campagna. Forse il tuo DM abituale è malato o ha un conflitto di programmazione, ma tutti gli altri sono pronti a giocare. O forse il tuo gruppo ha bisogno di una pausa o di un diversivo dalla campagna in corso. In ognuno di questi casi, puoi scegliere un'avventura da questo libro ed eseguirla."
 							]
 						},
 						{
@@ -44,7 +44,7 @@
 							"name": "In an Ongoing Campaign",
 							"id": "004",
 							"entries": [
-								"Maybe your players' characters know what they have to do to foil the evil boss's plans, but they're not quite high enough level to accomplish their goal. Or they've just hit a significant milestone in the campaign, and you want to give them a change of pace before they get immersed in the next act of the unfolding drama. Or they're traveling halfway around the world, and you're looking for something to keep the journey interesting\u2014a little adventure along the way. Or you're not prepared for the next adventure, and you need a diversion! In any of these cases, you can pick an adventure from this book to serve as a \"filler\" episode or side quest in the ongoing campaign.",
+								"Forse i personaggi dei tuoi giocatori sanno cosa devono fare per sventare i piani del boss malvagio, ma non sono di livello abbastanza alto per raggiungere il loro obiettivo. Oppure hanno appena raggiunto un traguardo significativo nella campagna e vuoi dare loro un cambio di ritmo prima che si immergano nell'atto successivo del dramma in corso. Oppure stanno viaggiando dall'altra parte del mondo e tu stai cercando qualcosa per rendere il viaggio interessante: una piccola avventura lungo il percorso. Oppure non sei preparato per la prossima avventura e hai bisogno di un diversivo! In ognuno di questi casi, puoi scegliere un'avventura da questo libro da utilizzare come episodio \"riempitivo\" o missione secondaria nella campagna in corso.",
 								{
 									"type": "image",
 									"href": {
@@ -54,8 +54,8 @@
 									"width": 850,
 									"height": 2286
 								},
-								"When the characters are the appropriate level for the adventure you wish to run, simply narrate how the characters end up in the adventure's locale. Each adventure's beginning includes a simple setting description, such as \"a village with a nearby forest.\" Beyond these basic details, feel free to alter the adventure's location to match your campaign.",
-								"But if you do have time to prepare, you can incorporate the adventure you're running into the themes and threats of your campaign. You can alter the names of people and places in the adventure to fit better into your world, link the adventure villains to organizations and events that are important in your campaign, and plant clues to the themes of your campaign in the dragon's treasure hoard."
+								"Quando i personaggi sono al livello appropriato per l'avventura che desideri svolgere, racconta semplicemente come i personaggi finiscono nel luogo dell'avventura. L'inizio di ogni avventura include una semplice descrizione dell'ambientazione, come \"un villaggio con una foresta vicina\". Oltre a questi dettagli di base, sentiti libero di modificare il luogo dell'avventura per adattarlo alla tua campagna.",
+								"Ma se hai tempo per prepararti, puoi incorporare l'avventura che stai affrontando nei temi e nelle minacce della tua campagna. Puoi modificare i nomi delle persone e dei luoghi dell'avventura per adattarli meglio al tuo mondo, collegare i cattivi dell'avventura a organizzazioni ed eventi importanti nella tua campagna e piantare indizi sui temi della tua campagna nel tesoro del drago."
 							]
 						}
 					]
@@ -65,15 +65,15 @@
 					"name": "Creating a Campaign",
 					"id": "005",
 					"entries": [
-						"These adventures can be strung together as a complete dragon-themed campaign. Simply guide your players through the adventures in the order presented in this book and award story-based level advancement at each adventure's end, so their characters are the appropriate level for the next challenge they'll face. (No level advancement is necessary before the final adventure.) You can also use one of the following narrative frameworks to connect the adventures to one another.",
+						"Queste avventure possono essere messe insieme come una campagna completa a tema drago. Guida semplicemente i tuoi giocatori attraverso le avventure nell'ordine presentato in questo libro e premia l'avanzamento di livello basato sulla storia alla fine di ogni avventura, in modo che i loro personaggi raggiungano il livello appropriato per la prossima sfida che dovranno affrontare. (Non è necessario alcun avanzamento di livello prima dell'avventura finale.) Puoi anche utilizzare una delle seguenti strutture narrative per collegare le avventure tra loro.",
 						{
 							"type": "entries",
 							"name": "Option 1: Mysterious Patron",
 							"id": "006",
 							"entries": [
-								"Have a friendly patron whose true identity is somewhat mysterious befriend the adventurers early in their careers and send them on each adventure in sequence. The patron might be a charismatic young monk, a kindly teacher, a diminutive scamp, or a scatter-brained elder, and might or might not be accompanied by seven golden canaries or dazzling yellow butterflies, which are actually ancient gold dragons in disguise\u2014the companions of the dragon god Bahamut, which is the patron's true identity.",
-								"Perhaps foreseeing that they are destined to become mighty heroes, Bahamut takes the adventurers under his metaphorical wing and sends them on adventures to deal with draconic concerns, great and small, across the world. The patron might feign surprise when an adventure that doesn't at first seem to involve a dragon (such as \"{@adventure The Will of Orcus|DrDe-TWoO|1},\" chapter 3) turns out to revolve around one, but of course that's exactly the reason Bahamut sent the characters to investigate.",
-								"You can use each adventure as written, with the characters' patron steering them in the general direction of the adventure hook without spoiling any surprises in the adventure ahead. Alternatively, the patron could let the characters in on the secret early on, telling them that dragons will be a particular focus of their adventures and altering some of the adventure hooks along the way."
+								"Chiedi a un mecenate amichevole la cui vera identità è alquanto misteriosa di fare amicizia con gli avventurieri all'inizio della loro carriera e di inviarli in ogni avventura in sequenza. Il patrono potrebbe essere un giovane monaco carismatico, un insegnante gentile, un minuscolo furfante o un anziano sventato, e potrebbe o meno essere accompagnato da sette canarini dorati o abbaglianti farfalle gialle, che in realtà sono antichi draghi d'oro sotto mentite spoglie: i compagni del dio drago Bahamut, che è la vera identità del patrono.",
+								"Forse prevedendo che sarebbero destinati a diventare potenti eroi, Bahamut prende gli avventurieri sotto la sua metaforica ala protettrice e li manda all'avventura per affrontare problemi draconiani, grandi e piccoli, in tutto il mondo. Il cliente potrebbe fingere sorpresa quando un'avventura che a prima vista non sembra coinvolgere un drago (come \"{@adventure The Will of Orcus|DrDe-TWoO|1}\" capitolo 3) si scopre che ruota attorno a uno di essi, ma ovviamente questo è esattamente il motivo per cui Bahamut ha inviato i personaggi a indagare.",
+								"Puoi utilizzare ogni avventura così come è scritta, con il patrono dei personaggi che li guida nella direzione generale dell'avventura senza rovinare alcuna sorpresa nell'avventura successiva. In alternativa, il mecenate potrebbe far conoscere il segreto ai personaggi fin dall'inizio, dicendo loro che i draghi saranno il fulcro particolare delle loro avventure e alterando alcuni degli agganci dell'avventura lungo il percorso."
 							]
 						},
 						{
@@ -81,8 +81,8 @@
 							"name": "Option 2: Brazen Egg",
 							"id": "007",
 							"entries": [
-								"Begin the campaign with the introductory encounter of chapter 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1},\" ending with Eldemere entrusting the Brazen Egg to the characters. Eldemere's instructions are different, though: she explains that the egg must be \"steeped\" in the hoards of ten dragons, one of each chromatic and metallic kind, to activate its power. She also suggests that the egg will lead the characters toward suitable hoards. In fact, any character who sleeps within 15 feet of the egg has vivid dreams leading them toward the start of the next adventure.",
-								"To draw power from a dragon's hoard, the egg must spend 8 hours in the midst of the treasure, covered with coins and surrounded by other items. However, as soon as the empowered egg is brought within Anthradusk's hoard chamber ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} in chapter 10), it reaches its full potential and begins to crack open, as described in that adventure."
+								"Inizia la campagna con l'incontro introduttivo del capitolo 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1}\", che termina con Eldemere che affida l'Uovo di Bronzo ai personaggi. Le istruzioni di Eldemere sono diverse, però: spiega che l'uovo deve essere \"immerso\" nelle orde di dieci draghi, uno per ogni tipo cromatico e metallico, per attivare il suo potere. Suggerisce anche che l'uovo condurrà i personaggi verso i tesori adatti. In effetti, qualsiasi personaggio che dorme entro 15 piedi dall'uovo fa sogni vividi che lo portano verso l'inizio della prossima avventura.",
+								"Per trarre potere dal tesoro di un drago, l'uovo deve trascorrere 8 ore in mezzo al tesoro, coperto di monete e circondato da altri oggetti. Tuttavia, non appena l'uovo potenziato viene portato nella camera del tesoro di Anthradusk ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} nel capitolo 10), raggiunge il suo pieno potenziale e inizia ad aprirsi, come descritto in quell'avventura."
 							]
 						},
 						{
@@ -90,7 +90,7 @@
 							"name": "Option 3: Hoard Magic Items",
 							"id": "008",
 							"entries": [
-								"If you have {@book Fizban's Treasury of Dragons|FTD|4}, the hoard of magic items described in that book can provide an incentive for characters to seek out dragons of increasing power and different kinds. Add the following items to the rewards acquired in the first three adventures: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1},\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1},\" and a {@item Dragon's Wrath Weapon|FTD} and a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" All four items are Slumbering when the characters first acquire them, but in later adventures, the items can be awakened by steeping them in dragons' hoards."
+								"Se hai {@book Fizban's Treasury of Dragons|FTD|4}, il tesoro di oggetti magici descritti in quel libro può fornire un incentivo ai personaggi a cercare draghi di crescente potenza e di diverso tipo. Aggiungi i seguenti oggetti alle ricompense acquisite nelle prime tre avventure: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1}\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1}\" e a {@item Dragon's Wrath Weapon|FTD} e a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" Tutti e quattro gli oggetti sono addormentati quando i personaggi li acquisiscono per la prima volta, ma nelle avventure successive gli oggetti possono essere risvegliati immergendoli nei tesori dei draghi."
 							]
 						}
 					]
@@ -100,14 +100,14 @@
 					"name": "Running the Adventures",
 					"id": "009",
 					"entries": [
-						"To run each of these adventures, you need the fifth edition core rulebooks: the {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|XMM}. Spells and equipment mentioned in the adventures are described in the {@book Player's Handbook|XPHB}. Magic items are detailed in the {@book Dungeon Master's Guide|XDMG}, and monsters appear in the {@book Monster Manual|XMM}.",
-						"The table of contents summarizes the adventures in this anthology. Each adventure is designed for four to six characters of a particular level, but you can adjust for larger or smaller groups by changing the number of foes in an encounter and giving a small group additional resources, as explained in the {@book Dungeon Master's Guide|XDMG}. Each of the adventures can take place in any world you choose, as long as the location has the basic elements listed at the beginning of each adventure.",
+						"Per eseguire ciascuna di queste avventure, sono necessari i regolamenti base della quinta edizione: {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|XMM}. Gli incantesimi e l'equipaggiamento menzionati nelle avventure sono descritti nel {@book Player's Handbook|XPHB}. Gli oggetti magici sono dettagliati in {@book Dungeon Master's Guide|XDMG} e i mostri appaiono in {@book Monster Manual|XMM}.",
+						"Il sommario riassume le avventure di questa antologia. Ogni avventura è progettata per quattro-sei personaggi di un particolare livello, ma puoi adattarti a gruppi più o meno grandi modificando il numero di nemici in un incontro e fornendo a un piccolo gruppo risorse aggiuntive, come spiegato nel {@book Dungeon Master's Guide|XDMG}. Ognuna delle avventure può svolgersi in qualsiasi mondo tu scelga, purché il luogo contenga gli elementi di base elencati all'inizio di ogni avventura.",
 						{
 							"type": "entries",
 							"name": "Preparation",
 							"id": "00a",
 							"entries": [
-								"Every adventure in this book begins with a page that helps you prepare and run the adventure. It includes the following elements:",
+								"Ogni avventura in questo libro inizia con una pagina che ti aiuta a preparare e gestire l'avventura. Comprende i seguenti elementi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -115,17 +115,17 @@
 										{
 											"type": "item",
 											"name": "Key Plot Points",
-											"entry": "A summary of the key elements in the adventure's story"
+											"entry": "Un riassunto degli elementi chiave della storia dell'avventura"
 										},
 										{
 											"type": "item",
 											"name": "Preparation",
-											"entry": "Steps to get yourself ready to run the adventure, including a list of all the stat blocks from the {@book Monster Manual|XMM} you might need"
+											"entry": "Passaggi per prepararti a vivere l'avventura, incluso un elenco di tutti i blocchi delle statistiche del {@book Monster Manual|XMM} di cui potresti aver bisogno"
 										},
 										{
 											"type": "item",
 											"name": "Key NPCs",
-											"entry": "A table summarizing key nonplayer characters in the adventure\u2014their names, roles, stat blocks, and locations\u2014to help you keep track of them during play"
+											"entry": "Una tabella che riassume i principali personaggi non giocanti dell'avventura (i loro nomi, ruoli, blocchi delle statistiche e posizioni) per aiutarti a tenerne traccia durante il gioco"
 										}
 									]
 								}
@@ -136,7 +136,7 @@
 							"name": "Player Assistance",
 							"id": "00b",
 							"entries": [
-								"As described in the {@book Dungeon Master's Guide|XDMG}, you can streamline your role as Dungeon Master by delegating certain tasks to the other players, especially if this is your first time behind the DM's screen. Before play begins, work with the other players to divide any or all of the following tasks among them:",
+								"Come descritto nel {@book Dungeon Master's Guide|XDMG}, puoi semplificare il tuo ruolo di Dungeon Master delegando determinati compiti agli altri giocatori, soprattutto se è la prima volta dietro lo schermo del DM. Prima che il gioco inizi, collabora con gli altri giocatori per dividere tra loro alcuni o tutti i seguenti compiti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,17 +144,17 @@
 										{
 											"type": "item",
 											"name": "Initiative Tracker",
-											"entry": "In combat, one player tracks Initiative for the characters and monsters."
+											"entry": "In combattimento, un giocatore tiene traccia dell'iniziativa dei personaggi e dei mostri."
 										},
 										{
 											"type": "item",
 											"name": "Monster Wranglers",
-											"entry": "Whenever the characters enter combat with Hostile monsters, one or two players run these monsters using the stat blocks in the {@book Monster Manual|XMM}. (Two players can share this role.)"
+											"entry": "Ogni volta che i personaggi entrano in combattimento con mostri ostili, uno o due giocatori gestiscono questi mostri utilizzando i blocchi delle statistiche nel {@book Monster Manual|XMM}. (Due giocatori possono condividere questo ruolo.)"
 										},
 										{
 											"type": "item",
 											"name": "Rules Consultant",
-											"entry": "One player references rules in the {@book Player's Handbook|XPHB} or other books as needed."
+											"entry": "Un giocatore fa riferimento alle regole nel {@book Player's Handbook|XPHB} o in altri libri secondo necessità."
 										}
 									]
 								}
@@ -165,15 +165,15 @@
 							"name": "Adventures for One Character",
 							"id": "00c",
 							"entries": [
-								"While the {@book Dungeon Master's Guide|XDMG} explains how to adjust adventures for different party sizes, three of the adventures (indicated in the table of contents) are particularly well-suited for play with a single adventurer. Each of these adventures includes instructions for ensuring the character faces an appropriate challenge.",
-								"Central to those instructions is the {@i Blessing of the Lone Champion}, a supernatural gift that bolsters the solo character's abilities.",
+								"Mentre il {@book Dungeon Master's Guide|XDMG} spiega come adattare le avventure alle diverse dimensioni del gruppo, tre delle avventure (indicate nel sommario) sono particolarmente adatte per essere giocate con un singolo avventuriero. Ognuna di queste avventure include istruzioni per garantire che il personaggio affronti una sfida adeguata.",
+								"Al centro di queste istruzioni c'è il {@i Blessing of the Lone Champion}, un dono soprannaturale che rafforza le abilità del personaggio solista.",
 								{
 									"type": "statblock",
 									"name": "Blessing of the Lone Champion",
 									"source": "DrDe",
 									"tag": "reward"
 								},
-								"The blessing lasts for the duration of the adventure."
+								"La benedizione dura per tutta la durata dell'avventura."
 							]
 						},
 						{
@@ -181,10 +181,10 @@
 							"name": "A Draconic History",
 							"id": "00e",
 							"entries": [
-								"In addition to ten adventures, this book includes special sections that feature art of each dragon variety, drawing from almost the whole 50-year history of Dungeons & Dragons, from the 1977 Monster Manual to the one published in 2025. The appearance of all ten dragon types has evolved significantly over the past fifty years, but close examination of these images reveals points of continuity as well, from the blue dragon's nose horn to the silver dragon's crest.",
-								"Artist Todd Lockwood spearheaded a thorough revision of all ten dragon types for the release of D&D's third edition in 2000, basing his designs on the anatomy of real-world animals and certain points of continuity with earlier designs. With a few variations, those designs set the standard for D&D's dragons for over 20 years.",
-								"In preparation for the release of the {@book Monster Manual|XMM} (2025), art director Josh Herman led a comprehensive refresh of all the dragon looks as D&D began its second half-century. With the goal of ensuring each dragon's distinct identity\u2014its personality, preferred habitat, and combat style\u2014shines through in its look, this redesign showcases visually what's unique about each type of dragon.",
-								"In the same way, this book highlights how an adventure featuring one kind of dragon can feel distinct from all the others."
+								"Oltre a dieci avventure, questo libro include sezioni speciali che presentano illustrazioni di ciascuna varietà di drago, attingendo da quasi tutti i 50 anni di storia di Dungeons & Dragons, dal Manuale dei Mostri del 1977 a quello pubblicato nel 2025. L'aspetto di tutti e dieci i tipi di drago si è evoluto in modo significativo negli ultimi cinquant'anni, ma un attento esame di queste immagini rivela anche punti di continuità, dal corno nasale del drago blu alla cresta del drago d'argento.",
+								"L'artista Todd Lockwood ha guidato una revisione approfondita di tutti e dieci i tipi di drago per l'uscita della terza edizione di D&D nel 2000, basando i suoi progetti sull'anatomia degli animali del mondo reale e su alcuni punti di continuità con i progetti precedenti. Con poche variazioni, questi design stabiliscono lo standard per i draghi di D&D per oltre 20 anni.",
+								"In preparazione all'uscita di {@book Monster Manual|XMM} (2025), il direttore artistico Josh Herman ha condotto un aggiornamento completo di tutti i look dei draghi mentre D&D iniziava la sua seconda metà di secolo. Con l'obiettivo di garantire che l'identità distinta di ogni drago (la sua personalità, l'habitat preferito e lo stile di combattimento) traspaia nel suo aspetto, questa riprogettazione mostra visivamente ciò che rende unico ogni tipo di drago.",
+								"Allo stesso modo, questo libro evidenzia come un’avventura che abbia come protagonista un tipo di drago possa sembrare distinta da tutti gli altri."
 							]
 						}
 					]
@@ -243,7 +243,7 @@
 					"name": "Key Plot Points",
 					"id": "29e",
 					"entries": [
-						"The following information is key to this adventure's story:",
+						"Le seguenti informazioni sono fondamentali per la storia di questa avventura:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -251,12 +251,12 @@
 								{
 									"type": "item",
 									"name": "Respite Ablaze",
-									"entry": "Pirates who call themselves the Cobblehook Corsairs have raided the village of {@area Respite|2a1|x}, and the characters must rescue villagers from a burning tavern. When the villagers are safe, Respite's mayor hires the characters to retrieve two stolen magic gems that protect Respite from terrible storms."
+									"entry": "I pirati che si fanno chiamare Corsari del Ciottolo hanno fatto irruzione nel villaggio di {@area Respite|2a1|x} e i personaggi devono salvare gli abitanti del villaggio da una taverna in fiamme. Quando gli abitanti del villaggio sono al sicuro, il sindaco di Respite assume i personaggi per recuperare due gemme magiche rubate che proteggono Respite da terribili tempeste."
 								},
 								{
 									"type": "item",
 									"name": "Cobblehook Cove",
-									"entry": "The characters must foray into {@area Cobblehook Cove|2b5|x}, the pirates' lair, to reclaim the gems. There, they discover that an evil dragon named Sablewing has goaded the pirates toward violence. The characters must contend with the dragon and return the gems before an imminent storm destroys Respite."
+									"entry": "I personaggi devono fare incursioni nel {@area Cobblehook Cove|2b5|x}, covo dei pirati, per recuperare le gemme. Lì scoprono che un drago malvagio chiamato Sablewing ha incitato i pirati alla violenza. I personaggi devono lottare con il drago e restituire le gemme prima che una tempesta imminente distrugga Tregua."
 								}
 							]
 						}
@@ -267,7 +267,7 @@
 					"name": "Preparation",
 					"id": "29f",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -275,17 +275,17 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "Read the \"{@area Adventure Background|2a0|x}\" and the \"{@area Village of Respite|2a1|x}\" sections. Optionally, read about the Elemental Plane of Air in the {@book Dungeon Master's Guide|XDMG} or on D&D Beyond."
+									"entry": "Leggi le sezioni \"{@area Adventure Background|2a0|x}\" e \"{@area Village of Respite|2a1|x}\". Facoltativamente, leggi informazioni sul Piano Elementale dell'Aria in {@book Dungeon Master's Guide|XDMG} o in D&D Beyond."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Familiarize yourself with the {@adventure Key NPCs|DrDe-BtS|1|Key NPCs} table below. The characters will interact with these NPCs throughout the adventure."
+									"entry": "Acquisisci familiarità con la tabella {@adventure Key NPCs|DrDe-BtS|1|Key NPCs} riportata di seguito. I personaggi interagiranno con questi NPC durante l'avventura."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Bookmark the following stat blocks in the {@book Monster Manual|XMM} or on D&D Beyond:"
+									"entry": "Aggiungi ai segnalibri i seguenti blocchi di statistiche in {@book Monster Manual|XMM} o su D&D Beyond:"
 								}
 							]
 						},
@@ -336,50 +336,50 @@
 							"rows": [
 								[
 									"{@area Brezo Breezewave|2ad|x}",
-									"Elf bagpiper",
-									"{@creature Commoner|XMM} (Medium, Lawful Neutral)",
+									"Suonatore di cornamusa elfo",
+									"{@creature Commoner|XMM} (Medio, Legale Neutrale)",
 									"\"{@area Rescue the Villagers|2a6|x}\""
 								],
 								[
 									"Edgard Brandle",
-									"Dead pirate captain",
-									"\u2014",
+									"Capitano pirata morto",
+									"—",
 									"{@area B7|2d7|x}"
 								],
 								[
 									"Gale Whittenby",
-									"Respite's orc mayor",
-									"{@creature Noble|XMM} (Medium, Lawful Good)",
+									"Il sindaco degli orchi di Respite",
+									"{@creature Noble|XMM} (Medio, Legale Buono)",
 									"\"{@area Meeting the Mayor|2b1|x}\""
 								],
 								[
 									"{@area Nelida Adler|2ae|x}",
-									"Human bartender",
-									"{@creature Commoner|XMM} (Medium, Neutral Good)",
+									"Barista umano",
+									"{@creature Commoner|XMM} (Medio, Neutrale Buono)",
 									"\"{@area Rescue the Villagers|2a6|x}\""
 								],
 								[
 									"Pierre Kalison",
-									"Corsairs' human cook",
-									"{@creature Tough|XMM} (Medium)",
+									"Cuoco umano dei corsari",
+									"{@creature Tough|XMM} (Medio)",
 									"{@area B4|2cb|x}"
 								],
 								[
 									"{@area Rubert Forrester|2af|x}",
-									"Retired human soldier",
-									"{@creature Knight|XMM} (Medium, Chaotic Good)",
+									"Soldato umano in pensione",
+									"{@creature Knight|XMM} (Medio, Caotico Buono)",
 									"\"{@area Rescue the Villagers|2a6|x}\""
 								],
 								[
 									"Sablewing",
-									"New captain of the {@area Cobblehook Corsairs|2b7|x}",
+									"Nuovo capitano del {@area Cobblehook Corsairs|2b7|x}",
 									"{@creature Adult Black Dragon|XMM}",
 									"{@area B13|2e6|x}"
 								],
 								[
 									"{@area Vatri Whistlebaum|2b0|x}",
-									"Human tavern owner",
-									"{@creature Commoner|XMM} (Medium, Neutral Good)",
+									"Proprietario di una taverna umana",
+									"{@creature Commoner|XMM} (Medio, Neutrale Buono)",
 									"\"{@area Beginning the Adventure|2a4|x}\""
 								]
 							]
@@ -391,9 +391,9 @@
 					"name": "Adventure Background",
 					"id": "2a0",
 					"entries": [
-						"The {@area Cobblehook Corsairs|2b7|x} have harassed ships traveling along the Umbradi Coast for years, stealing cargo and demanding tribute. Until recently, however, the pirates assailed only cargo ships and engaged in minimal bloodshed.",
-						"Unbeknownst to the locals, a black dragon called Sablewing has seized command of the Corsairs. Sablewing killed the pirates' leader, as well as any other crew who opposed the dragon's violent ambitions. The dragon has instructed the remaining Corsairs to loot nearby coastal settlements, starting with the village of Respite.",
-						"When this adventure begins, Respite is in chaos following a Corsair raid. Worse, the pirates stole two magic gems that for centuries kept terrible elemental storms from leveling Respite. The characters must venture into the Corsairs' hideout\u2014now also a black dragon's lair\u2014to retrieve the gems before an impending storm strikes the unprotected village.",
+						"I {@area Cobblehook Corsairs|2b7|x} infastidiscono da anni le navi che viaggiano lungo la Costa Umbradi, rubando carichi e chiedendo tributi. Fino a poco tempo fa, tuttavia, i pirati assalivano solo le navi mercantili e si impegnavano in spargimenti di sangue minimi.",
+						"All'insaputa della gente del posto, un drago nero chiamato Sablewing ha preso il comando dei Corsari. Sablewing uccise il capo dei pirati, così come qualsiasi altro equipaggio che si opponeva alle violente ambizioni del drago. Il drago ha incaricato i restanti Corsari di saccheggiare i vicini insediamenti costieri, a cominciare dal villaggio di Respite.",
+						"All'inizio di questa avventura, Respite è nel caos a seguito di un'incursione corsara. Quel che è peggio, i pirati hanno rubato due gemme magiche che per secoli hanno impedito a terribili tempeste elementali di livellare la Tregua. I personaggi devono avventurarsi nel nascondiglio dei Corsari, ora anche la tana di un drago nero, per recuperare le gemme prima che una tempesta imminente colpisca il villaggio non protetto.",
 						{
 							"type": "entries",
 							"name": "The Village of Respite",
@@ -438,21 +438,21 @@
 										}
 									]
 								},
-								"Respite's layout is shown on Map: The Village of Respite. Nestled on the shore of the Umbradi Coast, the village is home to about fifty people, primarily humans, elves, and orcs. The veil between the Material Plane and the Elemental Plane of Air is thin near Respite. As a result, many born in the town possess physical characteristics closely associated with the Plane of Air (see the \"{@area Respite's Elemental Heritage|2a3|x}\" sidebar).",
-								"Life was peaceful in Respite before the {@area Cobblehook Corsairs|2b7|x}' raid. The villagers are primarily fisherfolk and artisans. Community gardens supplement the village's food supply, and the volunteer watch consists of only a handful of retired soldiers from larger cities.",
-								"The villagers respect Respite's devoted mayor, an orc woman named Gale Whittenby.",
+								"La disposizione di Respite è mostrata sulla mappa: Il Villaggio di Respite. Adagiato sulla costa della Costa Umbradi, il villaggio ospita una cinquantina di persone, principalmente umani, elfi e orchi. Il velo tra il Piano Materiale e il Piano Elementale dell'Aria è sottile vicino alla Tregua. Di conseguenza, molti nati in città possiedono caratteristiche fisiche strettamente associate al Piano dell'Aria (vedi la barra laterale \"{@area Respite's Elemental Heritage|2a3|x}\".",
+								"La vita era tranquilla a Respite prima del raid del {@area Cobblehook Corsairs|2b7|x}'. Gli abitanti del villaggio sono principalmente pescatori e artigiani. Gli orti comunitari integrano l'approvvigionamento alimentare del villaggio e la guardia volontaria è composta solo da una manciata di soldati in pensione provenienti dalle città più grandi.",
+								"Gli abitanti del villaggio rispettano il devoto sindaco di Respite, una donna orco di nome Gale Whittenby.",
 								{
 									"type": "entries",
 									"name": "Storm's Eye Weather Vane",
 									"id": "2a2",
 									"entries": [
-										"Due to the thin veil between planes of existence near Respite, vicious storms originating on the Plane of Air often ravage the nearby coast. Long ago, to protect the village, friendly djinn crafted a device called the Storm's Eye Weather Vane and placed it in the village square. The djinn channeled their magic into two {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)}, which they slotted into the weather vane. This device shielded Respite from elemental storms for generations. However, once the Cobblehook Corsairs stole the gems, the weather vane became defunct, leaving the village vulnerable to violent weather\u2014and a fearsome storm is due to hit later this evening.",
+										"A causa del sottile velo tra i piani dell'esistenza vicino a Tregua, violente tempeste che hanno origine sul Piano dell'Aria spesso devastano la vicina costa. Molto tempo fa, per proteggere il villaggio, i jinn amichevoli crearono un dispositivo chiamato Storm's Eye Weather Vane e lo posizionarono nella piazza del villaggio. I jinn hanno incanalato la loro magia in due {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} che hanno inserito nella banderuola. Questo dispositivo ha protetto la Tregua dalle tempeste elementali per generazioni. Tuttavia, una volta che i Corsari di Ciottolo Uncino hanno rubato le gemme, la banderuola è diventata defunta, lasciando il villaggio vulnerabile alle intemperie e una spaventosa tempesta si scatenerà più tardi questa sera.",
 										{
 											"type": "inset",
 											"name": "Respite's Elemental Heritage",
 											"id": "2a3",
 											"entries": [
-												"The Plane of Air has influenced Respite's population for generations. As a result, many born in the town exhibit physical characteristics typically seen in creatures native to that plane, such as blue skin, hair that blows in a phantom wind, or eyes that flash with arcs of lightning. These traits are described when relevant for the characters in this adventure."
+												"Il Piano dell'Aria influenza la popolazione di Respite da generazioni. Di conseguenza, molti nati in città mostrano caratteristiche fisiche tipiche delle creature native di quel piano, come la pelle blu, i capelli mossi da un vento fantasma o gli occhi che lampeggiano con archi di fulmini. Questi tratti vengono descritti quando rilevanti per i personaggi di questa avventura."
 											]
 										}
 									]
@@ -466,36 +466,36 @@
 					"name": "Beginning the Adventure",
 					"id": "2a4",
 					"entries": [
-						"The characters begin in {@area Respite|2a1|x} in the morning, within sight of Morkoth Tavern. Before the adventure begins, ask the players why their characters are here. For instance, the characters might be locals. Or they might be dragon hunters who've heard of a black dragon in the area, a threat they're determined to end.",
-						"To begin the adventure, read or paraphrase the following text aloud:",
+						"I personaggi iniziano tra {@area Respite|2a1|x} la mattina, in vista della Taverna Morkoth. Prima che l'avventura abbia inizio, chiedi ai giocatori perché i loro personaggi sono qui. Ad esempio, i personaggi potrebbero essere gente del posto. Oppure potrebbero essere cacciatori di draghi che hanno sentito parlare di un drago nero nella zona, una minaccia che sono determinati a porre fine.",
+						"Per iniziare l'avventura, leggi o parafrasa ad alta voce il seguente testo:",
 						{
 							"type": "insetReadaloud",
 							"id": "2a5",
 							"entries": [
-								"Mayhem rules in the seaside village of Respite. The Cobblehook Corsairs, a crew of troublemakers who aren't normally violent, have raided the village. Black smoke billows from buildings. Sizzling streams of acid flow down the streets. Villagers rush about, shouting for loved ones and struggling to contain the damage. Near the shore, flames leap from the windows of a low-roofed building. An older, blue-skinned human woman at the front door gestures wildly. \"Fire!\" the woman shouts. \"There are people trapped inside!\" The other villagers are too frantic to heed her\u2014only you notice!"
+								"Il caos regna nel villaggio costiero di Respite. I Corsari di Cobblehook, un gruppo di piantagrane che normalmente non sono violenti, hanno fatto irruzione nel villaggio. Fumo nero si alza dai palazzi. Flussi sfrigolanti di acido scorrono lungo le strade. Gli abitanti dei villaggi si precipitano, gridando per i propri cari e lottando per contenere il danno. Vicino alla riva, le fiamme fuoriescono dalle finestre di un edificio dal tetto basso. Una donna umana più anziana, dalla pelle blu, davanti alla porta d'ingresso gesticola selvaggiamente. \"Fuoco!\" grida la donna. \"Ci sono persone intrappolate lì dentro!\" Gli altri abitanti del villaggio sono troppo frenetici per prestarle ascolto: solo tu te ne accorgi!"
 							]
 						},
-						"The older human is Vatri Whistlebaum (Medium, Neutral Good {@creature Commoner|XMM}), the owner of the burning Morkoth Tavern. The characters might respond by entering the tavern to free the trapped villagers or by working to extinguish the fire.",
+						"L'umano più anziano è Vatri Whistlebaum (Medio, Neutrale Buono {@creature Commoner|XMM}), il proprietario della Taverna Morkoth in fiamme. I personaggi potrebbero rispondere entrando nella taverna per liberare gli abitanti intrappolati o lavorando per spegnere l'incendio.",
 						{
 							"type": "entries",
 							"name": "Rescue the Villagers",
 							"id": "2a6",
 							"entries": [
-								"If the characters enter Morkoth Tavern, read or paraphrase the following:",
+								"Se i personaggi entrano nella Taverna di Morkoth, leggi o parafrasa quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"id": "2a7",
 									"entries": [
-										"Inside the tavern, smoke chokes the air. Tables and chairs are smashed, and rafters have snapped like toothpicks. A frantic man whose brown hair whips in an unfelt wind tries in vain to free his leg from a collapsed beam. A dark-haired woman slumps over the bar, unmoving, while panicked cries and pounding come from behind the kitchen door."
+										"All'interno della taverna il fumo soffoca l'aria. Tavoli e sedie sono fracassati e le travi si sono spezzate come stuzzicadenti. Un uomo frenetico, i cui capelli castani sferzano un vento impercettibile, cerca invano di liberare la gamba da una trave crollata. Una donna dai capelli scuri si accascia sul bancone, immobile, mentre grida di panico e colpi di scena provengono da dietro la porta della cucina."
 									]
 								},
-								"The characters can attempt to rescue the imperiled villagers. While they do, passersby outside finally heed Vatri's shouts and begin throwing water on the inferno.",
+								"I personaggi possono tentare di salvare gli abitanti del villaggio in pericolo. Mentre lo fanno, i passanti all'esterno finalmente ascoltano le grida di Vatri e iniziano a gettare acqua sull'inferno.",
 								{
 									"type": "entries",
 									"name": "Trapped under the Beam",
 									"id": "2a8",
 									"entries": [
-										"The elf musician {@area Brezo Breezewave|2ad|x} (Medium, Lawful Neutral {@creature Commoner|XMM}), known for his bagpiping and colorful pantaloons, is trapped under a fallen rafter. A character can take the {@action Utilize|XPHB} action to make a {@dc 12} Strength ({@skill Athletics|XPHB}) check, lifting the beam and freeing Brezo on a success."
+										"L'elfo musicista {@area Brezo Breezewave|2ad|x} (Medio, Legale Neutrale {@creature Commoner|XMM}), noto per la sua cornamusa e i suoi pantaloni colorati, è intrappolato sotto una trave caduta. Un personaggio può eseguire l'azione {@action Utilize|XPHB} per effettuare una prova di {@dc 12} Forza ({@skill Athletics|XPHB}), sollevando il raggio e liberando Brezo in caso di successo."
 									]
 								},
 								{
@@ -503,7 +503,7 @@
 									"name": "Unconscious on the Bar",
 									"id": "2a9",
 									"entries": [
-										"The tavern's human bartender, {@area Nelida Adler|2ae|x} (Medium, Neutral Good {@creature Commoner|XMM}), lies limp across the bar. A Corsair smashed an empty bottle over Nelida's head. She is uninjured but has the {@condition Unconscious|XPHB} condition. A character can carry Nelida out of the building; once outside, she awakens. Or a character can take the {@action Help|XPHB} action to shake Nelida awake, and she stumbles out of the burning tavern as quickly as she can."
+										"Il barista umano della taverna, {@area Nelida Adler|2ae|x} (Medio, Neutrale Buono {@creature Commoner|XMM}), giace inerte sul bancone. Un corsaro ha fracassato una bottiglia vuota sulla testa di Nelida. È illesa ma ha la condizione {@condition Unconscious|XPHB}. Un personaggio può portare Nelida fuori dall'edificio; una volta fuori, si sveglia. Oppure un personaggio può intraprendere l'azione {@action Help|XPHB} per scuotere Nelida e farla uscire barcollando dalla taverna in fiamme il più velocemente possibile."
 									]
 								},
 								{
@@ -511,7 +511,7 @@
 									"name": "Stuck in the Kitchen",
 									"id": "2aa",
 									"entries": [
-										"{@area Rubert Forrester|2af|x} is a burly human retired soldier (Medium, Chaotic Good {@creature Knight|XMM}). A Corsair shoved Rubert in the kitchen and slammed the door hard enough to warp its frame. A character can take the {@action Utilize|XPHB} action to break the warped door open with a successful {@dc 15} Strength ({@skill Athletics|XPHB}) check."
+										"{@area Rubert Forrester|2af|x} è un corpulento soldato umano in pensione (Medio, Caotico Buono {@creature Knight|XMM}). Un corsaro spinse Rubert in cucina e sbatté la porta con tanta forza da deformarne il telaio. Un personaggio può intraprendere l'azione {@action Utilize|XPHB} per sfondare la porta deformata con una prova riuscita di {@dc 15} Forza ({@skill Athletics|XPHB})."
 									]
 								}
 							]
@@ -521,7 +521,7 @@
 							"name": "Fight the Fire",
 							"id": "2ab",
 							"entries": [
-								"If the characters remain outside the tavern, they can put out the fire in the following ways:",
+								"Se i personaggi rimangono fuori dalla taverna, possono spegnere l'incendio nei seguenti modi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -529,16 +529,16 @@
 										{
 											"type": "item",
 											"name": "Bucket Brigade",
-											"entry": "A character can take the {@action Influence|XPHB} action to rally other passersby and dock workers. With a successful {@dc 12} Charisma ({@skill Intimidation|XPHB} or {@skill Persuasion|XPHB}) check, the villagers form a bucket brigade to carry water from the sea and throw it on the fire."
+											"entry": "Un personaggio può intraprendere l'azione {@action Influence|XPHB} per radunare altri passanti e lavoratori portuali. Con una prova di Carisma ({@skill Intimidation|XPHB} o {@skill Persuasion|XPHB} riuscita {@dc 12}, gli abitanti del villaggio formano una brigata di secchi per trasportare l'acqua dal mare e gettarla nel fuoco."
 										},
 										{
 											"type": "item",
 											"name": "Magic",
-											"entry": "Water created by the {@spell Create or Destroy Water|XPHB} spell (cast using at least a level 3 spell slot) or a similar effect douses the flames."
+											"entry": "L'acqua creata dall'incantesimo {@spell Create or Destroy Water|XPHB} (lanciato utilizzando uno slot incantesimo di almeno livello 3) o un effetto simile spegne le fiamme."
 										}
 									]
 								},
-								"While the characters are doing this, other altruistic villagers rush into the burning tavern to rescue the trapped villagers."
+								"Mentre i personaggi fanno ciò, altri abitanti altruisti si precipitano nella taverna in fiamme per salvare gli abitanti intrappolati."
 							]
 						},
 						{
@@ -546,14 +546,14 @@
 							"name": "Amid the Ashes",
 							"id": "2ac",
 							"entries": [
-								"Once the fire is extinguished and the villagers rescued, calm descends on the scene once more. The characters can talk with the grateful villagers they saved. Each villager is Friendly, thanks the characters profusely, and gladly provides them with information.",
-								"If the characters took no action in this crisis, the fire is extinguished; however, {@area Brezo|2ad|x}, {@area Nelida|2ae|x}, and {@area Rubert|2af|x} are killed inside. In this case, {@area Vatri|2b0|x} is Hostile toward the characters and has nothing to say to them.",
+								"Una volta spento l'incendio e salvati gli abitanti del villaggio, sulla scena torna la calma. I personaggi possono parlare con gli abitanti riconoscenti che hanno salvato. Ogni abitante del villaggio è amichevole, ringrazia abbondantemente i personaggi e fornisce loro volentieri informazioni.",
+								"Se i personaggi non hanno intrapreso alcuna azione durante questa crisi, il fuoco si spegne; tuttavia, {@area Brezo|2ad|x}, {@area Nelida|2ae|x} e {@area Rubert|2af|x} vengono uccisi all'interno. In questo caso, {@area Vatri|2b0|x} è ostile nei confronti dei personaggi e non ha nulla da dire loro.",
 								{
 									"type": "entries",
 									"name": "Brezo",
 									"id": "2ad",
 									"entries": [
-										"Brezo was playing his bagpipes to the morning crowd outside the tavern when the Corsairs descended upon {@area Respite|2a1|x}. During the raid, Brezo saw a black dragon with a scarred brow fly over the village and exhale streams of acid. Brezo fled into the tavern shortly before Corsairs burst inside and set the place on fire."
+										"Brezo stava suonando la sua cornamusa davanti alla folla mattutina fuori dalla taverna quando i Corsari piombarono su {@area Respite|2a1|x}. Durante il raid, Brezo vide un drago nero con la fronte sfregiata volare sopra il villaggio ed esalare flussi di acido. Brezo fuggì nella taverna poco prima che i Corsari irrompessero dentro e dessero fuoco al posto."
 									]
 								},
 								{
@@ -561,7 +561,7 @@
 									"name": "Nelida",
 									"id": "2ae",
 									"entries": [
-										"The bartender has heard tales of the scarred black dragon that accompanied the Corsairs. The dragon's name is Sablewing. Travelers told her a rumor that Sablewing recently murdered a gang of human followers because the dragon found them inept. Sablewing supposedly abandoned his lair outside Adarath, a city farther inland, and is now looking for a new home."
+										"Il barista ha sentito storie sul drago nero sfregiato che accompagnava i Corsari. Il nome del drago è Sablewing. I viaggiatori le hanno raccontato una voce secondo cui Sablewing ha recentemente ucciso una banda di seguaci umani perché il drago li ha trovati inetti. Si suppone che Sablewing abbia abbandonato la sua tana fuori Adarath, una città più nell'entroterra, e ora stia cercando una nuova casa."
 									]
 								},
 								{
@@ -569,7 +569,7 @@
 									"name": "Rubert",
 									"id": "2af",
 									"entries": [
-										"A retired soldier from Adarath, Rubert is well aware of Sablewing and the threat he poses. The dragon is cunning and brutal. Sablewing is known to keep a trio of {@creature Darkmantle|XMM|Darkmantles} close by, allowing the dragon to strike foes through shrouds of Darkness."
+										"Un soldato in pensione di Adarath, Rubert è ben consapevole di Sablewing e della minaccia che rappresenta. Il drago è astuto e brutale. È noto che Alasable tiene un trio di {@creature Darkmantle|XMM|Darkmantles} nelle vicinanze, permettendo al drago di colpire i nemici attraverso i sudari dell'oscurità."
 									]
 								},
 								{
@@ -577,7 +577,7 @@
 									"name": "Vatri Whistlebaum",
 									"id": "2b0",
 									"entries": [
-										"Vatri Whistlebaum asks to talk with the characters privately after they've conferred with the rescued villagers. She tells the characters that her grandson Pierre Kalison joined the {@area Cobblehook Corsairs|2b7|x} a few months ago in pursuit of excitement and adventure. Vatri is convinced that Pierre, a young man with few skills other than cooking, had nothing to do with the raid. Vatri fears Pierre is in danger somewhere in the Corsair hideout. Vatri asks the characters to rescue Pierre and bring him home. As a reward for Pierre's safe return, Vatri offers a {@item Stone of Good Luck|XDMG} that she has owned for decades."
+										"Vatri Whistlebaum chiede di parlare in privato con i personaggi dopo che hanno conferito con gli abitanti del villaggio salvati. Racconta ai personaggi che suo nipote Pierre Kalison si è unito al {@area Cobblehook Corsairs|2b7|x} alcuni mesi fa in cerca di emozioni e avventure. Vatri è convinto che Pierre, un giovane con poche abilità oltre alla cucina, non abbia nulla a che fare con il raid. Vatri teme che Pierre sia in pericolo da qualche parte nel nascondiglio dei corsari. Vatri chiede ai personaggi di salvare Pierre e riportarlo a casa. Come ricompensa per il ritorno sano e salvo di Pierre, Vatri offre un {@item Stone of Good Luck|XDMG} che possiede da decenni."
 									]
 								}
 							]
@@ -589,33 +589,33 @@
 					"name": "Meeting the Mayor",
 					"id": "2b1",
 					"entries": [
-						"After the fire is extinguished and the characters have talked to any survivors, read the following:",
+						"Dopo che il fuoco si è spento e i personaggi hanno parlato con i sopravvissuti, leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "2b2",
 							"entries": [
-								"Relieved murmurs ripple through the crowd as a sturdy orc woman with white, cloud-like hair approaches. \"Mayor Gale,\" a few bystanders say in greeting, nodding to her respectfully.The mayor stops in front of you and looks you over. \"Follow me, please,\" she says."
+								"Mormorii di sollievo si diffondono tra la folla mentre una robusta donna orca con capelli bianchi simili a nuvole si avvicina. \"Sindaco Gale,\" dicono alcuni passanti in segno di saluto, annuendo rispettosamente. Il sindaco si ferma davanti a te e ti osserva. \"Seguimi, per favore\", dice."
 							]
 						},
-						"If the characters helped deal with the fire at the Morkoth Tavern, Mayor Gale Whittenby (Medium, Lawful Good {@creature Noble|XMM}) is Friendly to the characters and expresses gratitude for what they've done. If not, the mayor is Hostile. She tells them the {@area Cobblehook Corsairs|2b7|x} raided the village with the help of a black dragon, wonders aloud what kind of heroes ignore imperiled innocents, and suggests that the characters redeem themselves by ridding the village of the dragon threat.",
-						"In either case, she leads the characters to the village square. If the characters follow her, read or paraphrase the following:",
+						"Se i personaggi hanno aiutato a spegnere l'incendio alla Taverna Morkoth, il sindaco Gale Whittenby (Medio, Legale Buono {@creature Noble|XMM}) è Amichevole con i personaggi ed esprime gratitudine per quello che hanno fatto. In caso contrario, il sindaco è ostile. Racconta loro che {@area Cobblehook Corsairs|2b7|x} ha fatto irruzione nel villaggio con l'aiuto di un drago nero, si chiede ad alta voce che tipo di eroi ignorino gli innocenti in pericolo e suggerisce che i personaggi si riscattino liberando il villaggio dalla minaccia del drago.",
+						"In entrambi i casi, conduce i personaggi nella piazza del villaggio. Se i personaggi la seguono, leggi o parafrasa quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "2b3",
 							"entries": [
-								"The mayor escorts you to the village square, where villagers cluster around a wrought iron weather vane. The 20-foot-tall structure depicts a serpentine creature with a body made of clouds. Deep scratches mar the creature's iron visage, and its eyes are two empty sockets."
+								"Il sindaco ti accompagna nella piazza del paese, dove gli abitanti si raggruppano attorno a una banderuola in ferro battuto. La struttura alta 20 piedi raffigura una creatura serpentina con un corpo fatto di nuvole. Graffi profondi rovinano il volto ferreo della creatura e i suoi occhi sono due orbite vuote."
 							]
 						},
-						"The mayor explains that the black dragon clawed two {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} out of the weather vane during the Corsairs' raid. If she is Friendly, she shares all the information under {@area \"Storm's Eye Weather Vane|2a2|x}\" above.",
-						"As a Study action, any character can examine the weather vane and make a {@dc 17} Intelligence ({@skill Arcana|XPHB} or {@skill History|XPHB}) check. On a success, the character recognizes the creature depicted as an elder tempest, a creature native to the Plane of Air.",
+						"Il sindaco spiega che il drago nero ha artigliato due {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} della banderuola durante l'incursione dei corsari. Se è Amichevole, condivide tutte le informazioni sotto {@area \"Storm's Eye Weather Vane|2a2|x}\" sopra.",
+						"Come azione Studio, qualsiasi personaggio può esaminare la banderuola ed effettuare una prova di {@dc 17} Intelligenza ({@skill Arcana|XPHB} o {@skill History|XPHB}). Se lo supera, il personaggio riconosce la creatura raffigurata come una tempesta antica, una creatura originaria del Piano dell'Aria.",
 						{
 							"type": "entries",
 							"name": "A Job Offer",
 							"id": "2b4",
 							"entries": [
-								"Mayor Gale is desperate to retrieve the {@item Elemental Gem|XDMG|Elemental Gems} before the next storm. She is also concerned because the Corsairs' leader, Captain Brandle, has never before raided a settlement, which makes this morning's raid troubling. She suspects the black dragon is related to the pirates' new brutality.",
-								"Mayor Gale offers the characters 500 GP to infiltrate the Corsairs' hideout in {@area Cobblehook Cove|2b5|x}, find the gems, and return them to the weather vane. She also asks the characters to slay Sablewing if possible, though she emphasizes the greater importance of recovering the gems.",
-								"If the characters seem unmotivated and Mayor Gale is Friendly, she increases the payment to 800 GP\u2014her entire personal savings. The mayor stresses that there is no time to waste, as reports indicate a storm will hit Respite this evening."
+								"Il sindaco Gale vuole disperatamente recuperare il {@item Elemental Gem|XDMG|Elemental Gems} prima della prossima tempesta. È anche preoccupata perché il leader dei corsari, il capitano Brandle, non ha mai fatto irruzione in un insediamento, il che rende preoccupante l'incursione di questa mattina. Sospetta che il drago nero sia legato alla nuova brutalità dei pirati.",
+								"Il sindaco Gale offre ai personaggi 500 GP per infiltrarsi nel nascondiglio dei Corsari in {@area Cobblehook Cove|2b5|x}, trovare le gemme e riportarle nella banderuola. Chiede anche ai personaggi di uccidere Sablewing se possibile, anche se sottolinea la maggiore importanza di recuperare le gemme.",
+								"Se i personaggi sembrano demotivati ​​e il sindaco Gale è amichevole, aumenta il pagamento a 800 GP, ovvero tutti i suoi risparmi personali. Il sindaco sottolinea che non c'è tempo da perdere, poiché le notizie indicano che questa sera un temporale colpirà Respite."
 							]
 						}
 					]
@@ -2893,8 +2893,8 @@
 								}
 							]
 						},
-						"The {@area Cobblehook Corsairs|2b7|x}' hideout is relatively easy to access, and Mayor Gale can give the characters directions. The cove is six miles away, and a well-known trail along the coastal bluffs beyond {@area Respite|2a1|x} leads to the pirate caves.",
-						"Before the characters go to the cove, allow them to purchase any nonmagical supplies they want.",
+						"L'accesso al nascondiglio di {@area Cobblehook Corsairs|2b7|x} è relativamente facile e il sindaco Gale può dare indicazioni ai personaggi. La baia è a sei miglia di distanza e un noto sentiero lungo le scogliere costiere {@area Respite|2a1|x} conduce alle grotte dei pirati.",
+						"Prima che i personaggi si rechino alla baia, permetti loro di acquistare tutte le provviste non magiche che desiderano.",
 						{
 							"type": "entries",
 							"name": "Approaching the Cove",
@@ -2910,8 +2910,8 @@
 									"width": 850,
 									"height": 2285
 								},
-								"The journey from Respite to Cobblehook Cove is uneventful but grows challenging as the characters approach their destination, as the area is warped by the magic of the black dragon's lair. In addition to the odorous fog and fouled water described in the {@book Monster Manual|XMM}, the surrounding flora grows thick and twisted, and the dirt trail becomes muddy and begins to stink of sulfur.",
-								"A character who considers these environmental details as a {@action Study|XPHB} action can make a {@dc 12} Intelligence ({@skill Arcana|XPHB} or {@skill Nature|XPHB}) check. On a success, the character recognizes these as signs that a black dragon's lair is nearby."
+								"Il viaggio da Respite a Cobblehook Cove è tranquillo ma diventa impegnativo man mano che i personaggi si avvicinano alla loro destinazione, poiché l'area è deformata dalla magia della tana del drago nero. Oltre alla nebbia odorosa e all'acqua inquinata descritte nel {@book Monster Manual|XMM}, la flora circostante diventa fitta e contorta e il sentiero sterrato diventa fangoso e comincia a puzzare di zolfo.",
+								"Un personaggio che considera questi dettagli ambientali come un'azione {@action Study|XPHB} può effettuare una prova di {@dc 12} Intelligenza ({@skill Arcana|XPHB} o {@skill Nature|XPHB}). In caso di successo, il personaggio li riconosce come segni che la tana di un drago nero si trova nelle vicinanze."
 							]
 						},
 						{
@@ -2919,8 +2919,8 @@
 							"name": "Cobblehook Corsairs",
 							"id": "2b7",
 							"entries": [
-								"Other than Pierre, the only Corsairs who remain in the cove have sworn undying loyalty to Sablewing. Unless otherwise stated, the Corsairs are Chaotic Evil and refer to Sablewing only as \"the captain.\"",
-								"When a Corsair notices a character, the Corsair immediately shouts for help from any ally nearby and starts combat. The overconfident Corsairs fight to the death."
+								"A parte Pierre, gli unici Corsari rimasti nella baia hanno giurato eterna fedeltà a Sablewing. A meno che non sia diversamente specificato, i Corsari sono Caotici Malvagi e si riferiscono a Sablewing solo come \"il capitano\".",
+								"Quando un Corsaro nota un personaggio, grida immediatamente aiuto a qualsiasi alleato nelle vicinanze e inizia a combattere. I corsari troppo sicuri di sé combattono fino alla morte."
 							]
 						},
 						{
@@ -2928,13 +2928,13 @@
 							"name": "Cobblehook Cove Features",
 							"id": "2b8",
 							"entries": [
-								"Unless otherwise specified, Cobblehook Cove has the following features.",
+								"Se non diversamente specificato, Cobblehook Cove ha le seguenti caratteristiche.",
 								{
 									"type": "entries",
 									"name": "Acid Pools",
 									"id": "2b9",
 									"entries": [
-										"Since Sablewing made the cove his lair, it has filled with pools of bubbling acid. These pools are shown on {@adventure Map: Cobblehook Cove|DrDe-BtS|1|Map: Cobblehook Cove}. A creature who enters the acid for the first time on a turn or starts its turn there takes 11 ({@dice 2d10}) Acid damage. Nonmagical objects that aren't being worn or carried also take this damage."
+										"Da quando Sablewing ha fatto della baia la sua tana, si è riempita di pozze di acido ribollente. Questi pool vengono visualizzati su {@adventure Map: Cobblehook Cove|DrDe-BtS|1|Map: Cobblehook Cove}. Una creatura che entra nell'acido per la prima volta in un turno o inizia il suo turno lì subisce 11 ({@dice 2d10}) danni da acido. Anche gli oggetti non magici che non vengono indossati o trasportati subiscono questo danno."
 									]
 								},
 								{
@@ -2942,7 +2942,7 @@
 									"name": "Ceilings",
 									"id": "2ba",
 									"entries": [
-										"In the cove's rocky caverns, ceilings are 40 feet high except in area {@area B13|2e6|x}, where the ceiling is 80 feet high. Ceilings in the cove's constructed buildings (areas {@area B3|2c6|x} and {@area B4|2cb|x}) are 20 feet tall."
+										"Nelle caverne rocciose della baia, i soffitti sono alti 40 piedi tranne nell'area {@area B13|2e6|x}, dove il soffitto è alto 80 piedi. I soffitti negli edifici costruiti nella baia (aree {@area B3|2c6|x} e {@area B4|2cb|x}) sono alti 20 piedi."
 									]
 								},
 								{
@@ -2950,7 +2950,7 @@
 									"name": "Doors",
 									"id": "2bb",
 									"entries": [
-										"Doors in the cove are unlocked except for the door in area {@area B5|2d1|x} and the door to the side room in area B6, which leads to the treasure cache."
+										"Le porte nella baia sono sbloccate tranne la porta nell'area {@area B5|2d1|x} e la porta nella stanza laterale nell'area B6, che conduce al tesoro."
 									]
 								},
 								{
@@ -2958,7 +2958,7 @@
 									"name": "Elemental Gems",
 									"id": "2bc",
 									"entries": [
-										"One of the {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} the characters seek is in area B6; the other is in area B13."
+										"Uno dei {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} cercati dai personaggi è nell'area B6; l'altro è nell'area B13."
 									]
 								},
 								{
@@ -2966,7 +2966,7 @@
 									"name": "Lighting",
 									"id": "2bd",
 									"entries": [
-										"Ambient light or torches in sconces shed {@variantrule Bright Light|XPHB} in areas {@area B1|2bf|x}\u2013{@area B6|2d3|x}. Areas {@area B7|2d7|x}\u2013{@area B12|2e4|x} are shrouded in Darkness, and descriptions assume the characters have a way of seeing in the dark. Flickering torches in sconces shed {@variantrule Dim Light|XPHB} in area {@area B13|2e6|x}."
+										"La luce ambientale o le torce nelle applique si diffondono {@variantrule Bright Light|XPHB} nelle aree {@area B1|2bf|x}–{@area B6|2d3|x}. Le aree {@area B7|2d7|x}–{@area B12|2e4|x} sono avvolte nell'oscurità e le descrizioni presuppongono che i personaggi abbiano un modo di vedere nell'oscurità. Torce tremolanti nelle applique sparse {@variantrule Dim Light|XPHB} nell'area {@area B13|2e6|x}."
 									]
 								}
 							]
@@ -2976,7 +2976,7 @@
 							"name": "Cobblehook Cove Locations",
 							"id": "2be",
 							"entries": [
-								"The following locations are keyed to {@adventure Map: Cobblehook Cove|DrDe-BtS|1|Map: Cobblehook Cove}.",
+								"Le seguenti posizioni sono collegate a {@adventure Map: Cobblehook Cove|DrDe-BtS|1|Map: Cobblehook Cove}.",
 								{
 									"type": "entries",
 									"name": "B1: Cave Entrance",
@@ -2986,10 +2986,10 @@
 											"type": "insetReadaloud",
 											"id": "2c0",
 											"entries": [
-												"The misty trail leads to a cave mouth. Three colorful parrots preen atop tall stalagmites just inside the cave."
+												"Il sentiero nebbioso conduce all'imboccatura di una grotta. Tre pappagalli colorati si pavoneggiano in cima ad alte stalagmiti proprio all'interno della grotta."
 											]
 										},
-										"The three parrots each use the stat block of a {@creature Raven|XMM}. If any parrot notices the characters, it squawks loudly, alerting the {@area Corsairs|2b7|x} in area {@area B2|2c1|x}."
+										"Ciascuno dei tre pappagalli utilizza il blocco statistiche di a {@creature Raven|XMM}. Se qualche pappagallo nota i personaggi, strilla forte, allertando il {@area Corsairs|2b7|x} nell'area {@area B2|2c1|x}."
 									]
 								},
 								{
@@ -3001,16 +3001,16 @@
 											"type": "insetReadaloud",
 											"id": "2c2",
 											"entries": [
-												"Torches in wall sconces line this expansive cavern, illuminating its rocky ledges and the wooden shanties built against the walls. To the south, the cave opens to the sea, where a ship with a green sail is moored to a pier. A murky pool bubbles in the center of the cave. Grimy, unkempt individuals mill about as a massive crocodile at the edge of the pool crushes a meaty bone in its toothy maw."
+												"Torce in applique a muro fiancheggiano questa vasta caverna, illuminando le sue sporgenze rocciose e le baracche di legno costruite contro le pareti. A sud la grotta si apre sul mare, dove al molo è ormeggiata una nave con la vela verde. Una pozza torbida ribolle al centro della grotta. Individui sudici e trasandati si aggirano mentre un enorme coccodrillo sul bordo della piscina schiaccia un osso carnoso con le sue fauci dentate."
 											]
 										},
-										"Eight Corsairs of various species and sizes are here. Near the acid pool (see below), six Corsairs ({@creature Pirate|XMM|Pirates}) joke about the raid on {@area Respite|2a1|x}. Near them is their pet {@creature Giant Crocodile|XMM}, which fights when the Corsairs do. Two brawnier-looking Corsairs ({@creature Pirate Captain|XMM|Pirate Captains}) are on the pier next to the docked ship; they have just ferried the loot from Respite into area B6.",
+										"Qui ci sono otto corsari di varie specie e dimensioni. Vicino alla pozza di acido (vedi sotto), sei Corsari ({@creature Pirate|XMM|Pirates}) scherzano sull'incursione su {@area Respite|2a1|x}. Vicino a loro c'è il loro animale domestico {@creature Giant Crocodile|XMM}, che combatte quando lo fanno i Corsari. Due Corsari dall'aspetto più muscoloso ({@creature Pirate Captain|XMM|Pirate Captains}) si trovano sul molo accanto alla nave attraccata; hanno appena traghettato il bottino da Respite nell'area B6.",
 										{
 											"type": "entries",
 											"name": "Acid Pool",
 											"id": "2c3",
 											"entries": [
-												"A character who peers into the central acid pool as a {@action Search|XPHB} action can make a {@dc 20} Wisdom ({@skill Perception|XPHB}) check. On a success, the character discerns that the pool leads into an underground tunnel. The tunnel leads to area {@area B11|2e1|x}. Swimming through the acid in the tunnel is deadly for most (see \"{@area Cobblehook Cove Features|2b8|x}\"), but Sablewing makes frequent use of the passage."
+												"Un personaggio che scruta la pozza di acido centrale come azione {@action Search|XPHB} può effettuare una prova di {@dc 20} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio si rende conto che la piscina conduce a un tunnel sotterraneo. Il tunnel conduce all'area {@area B11|2e1|x}. Nuotare nell'acido nel tunnel è mortale per la maggior parte (vedi \"{@area Cobblehook Cove Features|2b8|x}\"), ma Sablewing fa un uso frequente del passaggio."
 											]
 										},
 										{
@@ -3018,7 +3018,7 @@
 											"name": "Ledges",
 											"id": "2c4",
 											"entries": [
-												"The rocky ledges to the north on either side of the cave rise 10 feet above the ground and are connected by a 5-foot-wide wooden plank."
+												"Le sporgenze rocciose a nord su entrambi i lati della grotta si ergono a 3 metri dal suolo e sono collegate da un'asse di legno larga 1,5 metri."
 											]
 										},
 										{
@@ -3026,7 +3026,7 @@
 											"name": "Pirate Ship",
 											"id": "2c5",
 											"entries": [
-												"The ship here is the one the Corsairs sailed to Respite for their morning raid. The ship is empty of loot and crew. Its green sail looks newly sewn and depicts a grinning black dragon."
+												"La nave qui è quella che i Corsari salparono per Respite per il loro raid mattutino. La nave è priva di bottino e di equipaggio. La sua vela verde sembra appena cucita e raffigura un drago nero sorridente."
 											]
 										}
 									]
@@ -3036,21 +3036,21 @@
 									"name": "B3: Crew Quarters",
 									"id": "2c6",
 									"entries": [
-										"Rickety doors lead into each of these moldy, wooden structures.",
+										"Porte traballanti conducono a ciascuna di queste strutture di legno ammuffite.",
 										{
 											"type": "insetReadaloud",
 											"id": "2c7",
 											"entries": [
-												"This room is dirty and jammed full of bunks. A table and several chests near the bunks are strewn with clothes and other personal effects."
+												"Questa stanza è sporca e piena zeppa di letti a castello. Un tavolo e diverse cassapanche vicino alle cuccette sono ricoperte di vestiti e altri effetti personali."
 											]
 										},
-										"Crew members live in these shanties when not at sea. Their clothes and personal effects fill the chests and litter the room. Most of the items are worthless, with a few exceptions.",
+										"I membri dell'equipaggio vivono in queste baracche quando non sono in mare. I loro vestiti ed effetti personali riempiono i bauli e ingombrano la stanza. La maggior parte degli oggetti sono senza valore, con poche eccezioni.",
 										{
 											"type": "entries",
 											"name": "B3a: Western Quarters",
 											"id": "2c8",
 											"entries": [
-												"One chest contains a {@item Potion of Greater Healing|XDMG|Potion of Healing (greater)}. The chest is locked. A character can take a {@action Utilize|XPHB} action to pick the lock, making a {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check with {@item Thieves' Tools|XPHB}. On a success, the chest opens."
+												"Uno scrigno contiene un {@item Potion of Greater Healing|XDMG|Potion of Healing (greater)}. Il baule è chiuso a chiave. Un personaggio può eseguire un'azione {@action Utilize|XPHB} per scassinare la serratura, effettuando una prova di Destrezza {@dc 15} ({@skill Sleight of Hand|XPHB}) con {@item Thieves' Tools|XPHB}. In caso di successo, il baule si apre."
 											]
 										},
 										{
@@ -3058,7 +3058,7 @@
 											"name": "B3b: Central Quarters",
 											"id": "2c9",
 											"entries": [
-												"An ornate rug lies on the floor. A character who takes a {@action Study|XPHB} action to examine the rug and succeeds on a {@dc 12} Intelligence ({@skill Investigation|XPHB}) check realizes that if cleaned, the rug would be worth 500 GP."
+												"Sul pavimento c'è un tappeto decorato. Un personaggio che esegue un'azione {@action Study|XPHB} per esaminare il tappeto e supera una prova di Intelligenza {@dc 12} ({@skill Investigation|XPHB}) si rende conto che, se pulito, il tappeto varrebbe 500 GP."
 											]
 										},
 										{
@@ -3066,7 +3066,7 @@
 											"name": "B3c: Eastern Quarters",
 											"id": "2ca",
 											"entries": [
-												"A human skull is mounted on the far wall; each of its two eye sockets is set with a gemstone\u2014a jet worth 100 GP that can be easily pried from the skull."
+												"Sulla parete più lontana è montato un teschio umano; ciascuna delle sue due orbite è incastonata con una pietra preziosa: un jet del valore di 100 GP che può essere facilmente estratto dal teschio."
 											]
 										}
 									]
@@ -3080,17 +3080,17 @@
 											"type": "insetReadaloud",
 											"id": "2cc",
 											"entries": [
-												"A tapestry depicting a grinning black dragon hangs on this room's eastern wall between shelves of cooking supplies. A stressed-looking human barely out of his youth, with blue skin and disheveled white hair, stirs a cauldron over a small fire. On either side of the young man looms an enormous wormlike creature with tentacles around its beaked mouth."
+												"Un arazzo raffigurante un drago nero sorridente è appeso alla parete orientale di questa stanza, tra gli scaffali delle provviste per cucinare. Un umano dall'aspetto stressato appena uscito dalla giovinezza, con la pelle blu e i capelli bianchi arruffati, mescola un calderone su un piccolo fuoco. Ai lati del giovane si profila un'enorme creatura simile a un verme con tentacoli attorno alla bocca a becco."
 											]
 										},
-										"The cook is Pierre Kalison (Medium {@creature Tough|XMM}), grandson of tavern owner {@area Vatri Whistlebaum|2b0|x}. Pierre has been imprisoned here and forced to cook for the Corsairs.",
-										"The two {@creature Grick Ancient|XMM|Grick Ancients} are trained to ensure Pierre doesn't flee. They start combat as soon as they notice the characters.",
+										"Il cuoco è Pierre Kalison (Medio {@creature Tough|XMM}), nipote del proprietario della taverna {@area Vatri Whistlebaum|2b0|x}. Pierre è stato imprigionato qui e costretto a cucinare per i Corsari.",
+										"I due {@creature Grick Ancient|XMM|Grick Ancients} sono addestrati per garantire che Pierre non fugga. Iniziano il combattimento non appena notano i personaggi.",
 										{
 											"type": "entries",
 											"name": "Difficult Terrain",
 											"id": "2cd",
 											"entries": [
-												"The eastern half of this room is {@variantrule Difficult Terrain|XPHB}, as it is littered with furniture."
+												"La metà orientale di questa stanza è {@variantrule Difficult Terrain|XPHB}, poiché è piena di mobili."
 											]
 										},
 										{
@@ -3098,8 +3098,8 @@
 											"name": "Talking with Pierre",
 											"id": "2ce",
 											"entries": [
-												"If the characters defeat his grick guards, Pierre is Friendly toward them and eager to talk. Pierre admits that joining the Corsairs was a mistake; he yearned for adventure, excitement, and romance, but he quickly realized the Corsairs were merely petty thieves.",
-												"Unlike the other Corsairs, Pierre refers to Sablewing by name. When the black dragon seized control of the crew, Pierre and a few others refused to swear loyalty to him. Sablewing killed the other Corsairs who resisted but spared Pierre and demanded he continue cooking under pain of death. Now Pierre wants only to return home to {@area Respite|2a1|x}."
+												"Se i personaggi sconfiggono le sue guardie, Pierre è amichevole nei loro confronti e desideroso di parlare. Pierre ammette che unirsi ai Corsari è stato un errore; desiderava l'avventura, l'eccitazione e il romanticismo, ma si rese presto conto che i Corsari erano semplicemente dei ladruncoli.",
+												"A differenza degli altri Corsari, Pierre si riferisce a Sablewing per nome. Quando il drago nero prese il controllo dell'equipaggio, Pierre e alcuni altri si rifiutarono di giurargli fedeltà. Sablewing uccise gli altri corsari che resistettero ma risparmiò Pierre e gli chiese di continuare a cucinare pena la morte. Ora Pierre vuole solo tornare a casa a {@area Respite|2a1|x}."
 											]
 										},
 										{
@@ -3107,7 +3107,7 @@
 											"name": "Pierre's Map",
 											"id": "2cf",
 											"entries": [
-												"If the characters ask Pierre to help retrieve Respite's gems, he draws the characters a map of the cove. The map's areas match those shown on map 7.2, except Pierre leaves off the pools of acid. The cook has been trapped in the kitchen for most of Sablewing's tenure, so he doesn't know about the pools."
+												"Se i personaggi chiedono a Pierre di aiutarli a recuperare le gemme di Respite, lui disegna ai personaggi una mappa della baia. Le aree della mappa corrispondono a quelle mostrate sulla mappa 7.2, tranne che Pierre lascia fuori le pozze di acido. Il cuoco è rimasto intrappolato in cucina per gran parte del mandato di Sablewing, quindi non sa delle piscine."
 											]
 										},
 										{
@@ -3115,7 +3115,7 @@
 											"name": "Treasure",
 											"id": "2d0",
 											"entries": [
-												"Two ingredient bottles on the shelves along the eastern wall are actually {@item Potion of Heroism|XDMG|Potions of Heroism}. Pierre gladly gives the characters the potions as thanks for freeing him."
+												"Due bottiglie di ingredienti sugli scaffali lungo la parete orientale sono in realtà {@item Potion of Heroism|XDMG|Potions of Heroism}. Pierre dà volentieri le pozioni ai personaggi come ringraziamento per averlo liberato."
 											]
 										}
 									]
@@ -3129,7 +3129,7 @@
 											"type": "insetReadaloud",
 											"id": "2d2",
 											"entries": [
-												"At the northeast end of this passageway, a heavily padlocked door in a frame is built into the rock."
+												"All'estremità nord-orientale di questo passaggio, una porta pesantemente chiusa con un lucchetto è costruita nella roccia."
 											]
 										},
 										{
@@ -3142,7 +3142,7 @@
 											"width": 850,
 											"height": 2363
 										},
-										"The lock is simple (1 action to pick) and of superior quality ({@dc 20}). The Corsairs padlocked this door to keep Pierre from going deeper into the complex."
+										"La serratura è semplice (1 azione da scassinare) e di qualità superiore ({@dc 20}). I Corsari hanno chiuso questa porta con un lucchetto per impedire a Pierre di addentrarsi nel complesso."
 									]
 								},
 								{
@@ -3150,21 +3150,21 @@
 									"name": "B6: Loot Vault",
 									"id": "2d3",
 									"entries": [
-										"When the characters come within 30 feet of this area, read or paraphrase the following:",
+										"Quando i personaggi arrivano entro 9 metri da quest'area, leggi o parafrasa quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"id": "2d4",
 											"entries": [
-												"Singing echoes from the chamber ahead. Cruel lyrics undermine the song's celebratory tone."
+												"Il canto echeggia dalla camera davanti a noi. I testi crudeli minano il tono celebrativo della canzone."
 											]
 										},
-										"Seven members of the Corsairs of varied species and sizes sit on barrels in this area's center. They include four {@creature Pirate|XMM|Pirates}, two {@creature Mage|XMM|Mages}, and one {@creature Assassin|XMM}. Characters who hear the carousing realize the pirates are singing about the death and mayhem the Corsairs caused in Respite this morning.",
+										"Sette membri dei Corsari di varie specie e dimensioni siedono su botti al centro di quest'area. Includono quattro {@creature Pirate|XMM|Pirates}, due {@creature Mage|XMM|Mages} e uno {@creature Assassin|XMM}. I personaggi che ascoltano la baldoria si rendono conto che i pirati stanno cantando della morte e del caos che i Corsari hanno causato a Tregua questa mattina.",
 										{
 											"type": "entries",
 											"name": "Elemental Gem",
 											"id": "2d5",
 											"entries": [
-												"The Corsairs keep valuable loot in the side room to the east. This door is locked with a simple lock (requiring 1 action to pick) of superior quality ({@dc 20}). One of the {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gem (Blue Sapphire)} stolen from the {@area Storm's Eye Weather Vane|2a2|x} is in this room."
+												"I Corsari conservano un bottino prezioso nella stanza laterale a est. Questa porta è chiusa con una serratura semplice (che richiede 1 azione per essere scassinata) di qualità superiore ({@dc 20}). Uno dei {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gem (Blue Sapphire)} rubati a {@area Storm's Eye Weather Vane|2a2|x} è in questa stanza."
 											]
 										},
 										{
@@ -3172,16 +3172,16 @@
 											"name": "Treasure",
 											"id": "2d6",
 											"entries": [
-												"In addition to the {@item Elemental Gem|XDMG}, the locked room contains the following treasure:",
+												"Oltre al {@item Elemental Gem|XDMG}, la stanza chiusa contiene il seguente tesoro:",
 												{
 													"type": "list",
 													"items": [
-														"Three amethyst gems (worth 100 GP each)",
-														"Six orange carnelian gems (worth 50 GP each)",
-														"Three obsidian gems (worth 10 GP each)",
-														"Large crate with valuables stolen from Respite this morning (worth 1,800 GP)",
-														"Bronze crown (worth 250 GP)",
-														"Silver chalice (worth 120 GP)",
+														"Tre gemme di ametista (del valore di 100 GP ciascuna)",
+														"Sei gemme di corniola arancione (del valore di 50 GP ciascuna)",
+														"Tre gemme di ossidiana (del valore di 10 GP ciascuna)",
+														"Grande cassa con oggetti di valore rubati a Respite questa mattina (del valore di 1.800 GP)",
+														"Corona di bronzo (del valore di 250 GP)",
+														"Calice d'argento (del valore di 120 GP)",
 														"{@item Oil of Sharpness|XDMG}"
 													]
 												}
@@ -3198,16 +3198,16 @@
 											"type": "insetReadaloud",
 											"id": "2d8",
 											"entries": [
-												"A humanoid skeleton clad in rags is nailed to the eastern wall here, its bones hanging off pitons. A wide-brimmed hat with an enormous green feather rests on the skeleton's head. Scratched into the rock nearby are the following words in Common: \"Here lies a weakling unfit to rule.\""
+												"Uno scheletro umanoide vestito di stracci è inchiodato qui al muro orientale, con le ossa appese ai chiodi. Sulla testa dello scheletro poggia un cappello a tesa larga con un'enorme piuma verde. Incise nella roccia vicina ci sono le seguenti parole in Comune: \"Qui giace un debole inadatto a governare\"."
 											]
 										},
-										"This skeleton is all that remains of Captain Edgard Brandle. When Sablewing took command of the Corsairs, the captain refused to swear loyalty to the dragon. Sablewing murdered the captain, ate his flesh, and created this tableau as a reminder of what happens to those who defy the dragon's rule.",
+										"Questo scheletro è tutto ciò che resta del capitano Edgard Brandle. Quando Sablewing prese il comando dei Corsari, il capitano si rifiutò di giurare fedeltà al drago. Sablewing ha ucciso il capitano, ne ha mangiato la carne e ha creato questa scena per ricordare cosa succede a coloro che sfidano il dominio del drago.",
 										{
 											"type": "entries",
 											"name": "Speaking with Brandle",
 											"id": "2d9",
 											"entries": [
-												"If a character casts {@spell Speak with Dead|XPHB}, the gruff-voiced skull of Captain Brandle answers questions as best it can. Brandle knows that Sablewing keeps three loyal {@creature Darkmantle|XMM|Darkmantles} near his hoard in area {@area B13|2e6|x}. He describes how the dragon uses the darkmantles' Darkness Auras to obscure foes' sight."
+												"Se un personaggio lancia {@spell Speak with Dead|XPHB}, il teschio dalla voce roca del Capitano Brandle risponde alle domande nel miglior modo possibile. Brandle sa che Sablewing mantiene tre fedeli {@creature Darkmantle|XMM|Darkmantles} vicino al suo tesoro nell'area {@area B13|2e6|x}. Descrive come il drago usa l'aura oscura dei mantelli oscuri per oscurare la vista dei nemici."
 											]
 										}
 									]
@@ -3221,16 +3221,16 @@
 											"type": "insetReadaloud",
 											"id": "2db",
 											"entries": [
-												"Half of this cavern is blanketed in yellow mold."
+												"Metà di questa caverna è ricoperta di muffa gialla."
 											]
 										},
-										"Twenty patches of yellow mold (see the {@book Dungeon Master's Guide|XDMG}) cover the northeastern half of the floor.",
+										"Venti macchie di muffa gialla (vedi {@book Dungeon Master's Guide|XDMG}) ricoprono la metà nord-orientale del pavimento.",
 										{
 											"type": "entries",
 											"name": "Treasure",
 											"id": "2dc",
 											"entries": [
-												"As a {@action Search|XPHB} action, a character can examine the area and make a {@dc 12} Wisdom ({@skill Perception|XPHB}) check. On a success, the character notices a ruby pendant glinting on the floor near the area's eastern wall. This is a {@item Periapt of Wound Closure|XDMG}. Two patches of yellow mold grow between the periapt and the nearest safe section of floor."
+												"Come azione {@action Search|XPHB}, un personaggio può esaminare l'area ed effettuare una prova di {@dc 12} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio nota un ciondolo di rubino che luccica sul pavimento vicino al muro orientale dell'area. Questo è un {@item Periapt of Wound Closure|XDMG}. Due macchie di muffa gialla crescono tra il periapt e la sezione sicura del pavimento più vicina."
 											]
 										}
 									]
@@ -3244,10 +3244,10 @@
 											"type": "insetReadaloud",
 											"id": "2de",
 											"entries": [
-												"Murky, bubbling liquid covers this cavern's floor."
+												"Un liquido torbido e ribollente ricopre il pavimento di questa caverna."
 											]
 										},
-										"The liquid is a 2-foot-deep acid pool (see \"{@area Cobblehook Cove Features|2b8|x}\")."
+										"Il liquido è una pozza acida profonda 60 cm (vedi \"{@area Cobblehook Cove Features|2b8|x}\")."
 									]
 								},
 								{
@@ -3259,10 +3259,10 @@
 											"type": "insetReadaloud",
 											"id": "2e0",
 											"entries": [
-												"Pools of bubbling liquid surround stalagmites in this cave. The center stalagmite extends toward the stalactite-covered ceiling."
+												"Pozze di liquido ribollente circondano le stalagmiti in questa grotta. La stalagmite centrale si estende verso il soffitto ricoperto di stalattiti."
 											]
 										},
-										"The center stalagmite is actually a {@creature Roper|XMM}, six of the stalactites are {@creature Piercer|XMM|Piercers}, and a {@creature Cloaker|XMM} lurks out of sight behind a stalactite. The pools are 2-foot-deep acid pools (see \"{@area Cobblehook Cove Features|2b8|x}\"). The roper begins combat as soon as a character enters the area, the piercers fall on prey as the opportunity arises, and the cloaker pursues creatures that evade the roper."
+										"La stalagmite centrale è in realtà una {@creature Roper|XMM}, sei delle stalattiti lo sono {@creature Piercer|XMM|Piercers} e una {@creature Cloaker|XMM} si nasconde dietro una stalattite. Le pozze sono pozze acide profonde 60 cm (vedi \"{@area Cobblehook Cove Features|2b8|x}\"). Il fustigatore inizia il combattimento non appena un personaggio entra nell'area, i perforatori si lanciano sulla preda non appena se ne presenta l'occasione e il mantello insegue le creature che sfuggono al fustigatore."
 									]
 								},
 								{
@@ -3274,17 +3274,17 @@
 											"type": "insetReadaloud",
 											"id": "2e2",
 											"entries": [
-												"A lake of murky, bubbling liquid fills this cavern. The odor of swamp rot permeates the air."
+												"Un lago di liquido torbido e ribollente riempie questa caverna. L'odore della putrefazione della palude permea l'aria."
 											]
 										},
-										"The lake is an enormous, 50-foot-deep acid pool (see \"{@area Cobblehook Cove Features|2b8|x}\") with an underground tunnel that connects to the pool in area B2. Sablewing sometimes uses this tunnel as a shortcut into or out of his lair in area B13.",
-										"The pool's bottom is littered with bones.",
+										"Il lago è un'enorme pozza acida profonda 15 metri (vedi \"{@area Cobblehook Cove Features|2b8|x}\") con un tunnel sotterraneo che si collega alla pozza nell'area B2. Sablewing a volte usa questo tunnel come scorciatoia per entrare o uscire dalla sua tana nell'area B13.",
+										"Il fondo della piscina è disseminato di ossa.",
 										{
 											"type": "entries",
 											"name": "Treasure",
 											"id": "2e3",
 											"entries": [
-												"Twenty feet below the pool's surface, a waterproof box that has Immunity to Acid damage is built into the western wall. The box is unlocked and contains a {@item Ring of Acid Resistance|XDMG|Ring of Resistance (acid)} and {@item Armor of Resistance|XDMG} (acid, Scale Mail). Sablewing finds cruel humor in ordering his victims to retrieve the box, then watching them die trying."
+												"Venti piedi sotto la superficie della piscina, nel muro occidentale è incorporata una scatola impermeabile con immunità ai danni da acido. La scatola è sbloccata e contiene {@item Ring of Acid Resistance|XDMG|Ring of Resistance (acid)} e {@item Armor of Resistance|XDMG} (acido, Scaglia Mail). Sablewing trova un umorismo crudele nell'ordinare alle sue vittime di recuperare la scatola, poi vedendole morire nel tentativo."
 											]
 										}
 									]
@@ -3298,10 +3298,10 @@
 											"type": "insetReadaloud",
 											"id": "2e5",
 											"entries": [
-												"Two chambers carpeted with rotting vegetation branch off from the tunnel. This vegetation is piled high and occasionally twitches."
+												"Dal tunnel si diramano due camere ricoperte di vegetazione in decomposizione. Questa vegetazione è ammucchiata e occasionalmente si contrae."
 											]
 										},
-										"The twitching vegetation piles are two {@creature Violet Fungus Necrohulk|XMM|Violet Fungus Necrohulks}: one in the eastern chamber and one in the western chamber. The fungi ambush anyone who passes through their chambers or this area's central corridor."
+										"I mucchi di vegetazione contratta sono due {@creature Violet Fungus Necrohulk|XMM|Violet Fungus Necrohulks}: uno nella camera orientale e uno in quella occidentale. I funghi tendono un'imboscata a chiunque passi attraverso le loro camere o il corridoio centrale di quest'area."
 									]
 								},
 								{
@@ -3313,17 +3313,17 @@
 											"type": "insetReadaloud",
 											"id": "2e7",
 											"entries": [
-												"Flickering torchlight dances across these walls, where bloodstained figureheads and broken ship masts are mounted like trophies. An enormous black dragon perches on a bluff that rises 40 feet above a burbling acid pool. Raising a scarred eyebrow, the dragon sneers.\"Of course the Corsairs couldn't stop you,\" the dragon rumbles. \"Now, are you going to run screaming from my lair, or should we have some fun before I kill you?\""
+												"La luce tremolante delle torce danza attraverso queste mura, dove polene insanguinate e alberi spezzati delle navi sono montati come trofei. Un enorme drago nero si appollaia su una scogliera che si erge per 40 piedi sopra una pozza d'acido gorgogliante. Alzando un sopracciglio sfregiato, il drago sogghigna. \"Naturalmente i Corsari non potevano fermarti\", rimbomba il drago. \"Ora, scapperai urlando dalla mia tana, o dovremmo divertirci un po' prima che ti uccida?\""
 											]
 										},
-										"Captain Sablewing is an {@creature Adult Black Dragon|XMM}. Three {@creature Darkmantle|XMM|Darkmantles} hang like stalactites from the cavern's ceiling; when combat begins, they join the fight, trying to envelop the characters in magical Darkness. All four creatures here fight to the death.",
+										"Il Capitano Sablewing è un {@creature Adult Black Dragon|XMM}. Tre {@creature Darkmantle|XMM|Darkmantles} pendono come stalattiti dal soffitto della caverna; quando inizia il combattimento, si uniscono alla lotta, cercando di avvolgere i personaggi nella magica Oscurità. Tutte e quattro le creature qui combattono fino alla morte.",
 										{
 											"type": "entries",
 											"name": "Roleplaying Sablewing",
 											"id": "2e8",
 											"entries": [
-												"Captain Sablewing has no respect for his Corsair minions, viewing them as tools in his pursuit of destruction and amassing a greater hoard. Sablewing loves to gloat about how easy it was to seize control of the crew.",
-												"Sablewing refuses to stand down, hand over any of his loot, or stop terrorizing the coast. He delights in causing pain and suffering. If conversation drags on too long, Sablewing gets bored and starts combat, assuming the characters will be easy victims."
+												"Il Capitano Sablewing non ha rispetto per i suoi servitori Corsari, considerandoli strumenti nella sua ricerca di distruzione e nell'accumulazione di un tesoro più grande. Sablewing ama vantarsi di quanto sia stato facile prendere il controllo dell'equipaggio.",
+												"Sablewing si rifiuta di arrendersi, di consegnare parte del suo bottino o di smettere di terrorizzare la costa. Si diverte nel causare dolore e sofferenza. Se la conversazione si trascina troppo a lungo, Sablewing si annoia e inizia a combattere, supponendo che i personaggi saranno facili vittime."
 											]
 										},
 										{
@@ -3331,7 +3331,7 @@
 											"name": "Elemental Gem",
 											"id": "2e9",
 											"entries": [
-												"One of the {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} stolen from the {@area Storm's Eye Weather Vane|2a2|x} in {@area Respite|2a1|x} is in Sablewing's hoard."
+												"Uno dei {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} rubati al {@area Storm's Eye Weather Vane|2a2|x} in {@area Respite|2a1|x} è nel tesoro di Sablewing."
 											]
 										},
 										{
@@ -3339,15 +3339,15 @@
 											"name": "Treasure",
 											"id": "2ea",
 											"entries": [
-												"In addition to the gem, Sablewing's hoard contains the following treasure:",
+												"Oltre alla gemma, il tesoro di Sablewing contiene il seguente tesoro:",
 												{
 													"type": "list",
 													"items": [
-														"230 PP, 15,610 GP, and 1,100 SP",
-														"Framed masterpiece painting of a silver dragon (worth 2,500 GP) by the renowned dragonborn painter Zaemon Vedrak",
+														"230 PP, 15.610 GP e 1.100 SP",
+														"Capolavoro incorniciato di un drago d'argento (del valore di 2.500 GP) del famoso pittore dragonide Zaemon Vedrak",
 														"{@item Mariner's Plate Armor|XDMG|Mariner's Armor (Plate Armor)}",
 														"{@item Ring of Evasion|XDMG}",
-														"{@item Trident of Fish Command|XDMG} with the name Tideskewer engraved on it"
+														"{@item Trident of Fish Command|XDMG} con inciso il nome Tideskewer"
 													]
 												}
 											]
@@ -3373,13 +3373,13 @@
 							"width": 1700,
 							"height": 1168
 						},
-						"The journey back to {@area Respite|2a1|x} is uneventful, though the sky grows ominous as the storm nears. If the characters failed to retrieve both {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} from Cobblehook Cove before nightfall, continue to \"{@area Broken Weather Vane.|2ec|x}\" If they succeeded, refer to \"{@area Restored Weather Vane.|2ed|x}\" If the characters killed Sablewing, the leaderless {@area Cobblehook Corsairs|2b7|x} disperse and stop threatening the region. If the characters retrieved the gems but didn't kill Sablewing, the bitter dragon flees the cove, worried the characters will return to slay him.",
+						"Il viaggio di ritorno a {@area Respite|2a1|x} è tranquillo, anche se il cielo diventa minaccioso con l'avvicinarsi della tempesta. Se i personaggi non sono riusciti a recuperarli entrambi {@item Elemental Gem, Blue Sapphire|XDMG|Elemental Gems (blue sapphire)} da Cobblehook Cove prima del calare della notte, continua a \"{@area Broken Weather Vane.|2ec|x}\" Se ci sono riusciti, fai riferimento a \"{@area Restored Weather Vane.|2ed|x}\" Se i personaggi hanno ucciso Sablewing, i senza leader {@area Cobblehook Corsairs|2b7|x} si disperdono e smettono di minacciare la regione. Se i personaggi recuperano le gemme ma non uccidono Sablewing, il drago amaro fugge dalla baia, preoccupato che i personaggi tornino per ucciderlo.",
 						{
 							"type": "entries",
 							"name": "Broken Weather Vane",
 							"id": "2ec",
 							"entries": [
-								"A terrible storm from the Plane of Air ravages Respite. Mayor Gale warns the villagers to take shelter, but the full force of the tempest's gales and torrential downpour destroys the buildings previously damaged in the Cobblehook Corsairs' raid. By the time the storm passes, Respite is in ruins. Rubble lines the streets, and the villagers begin looking for a new place to call home."
+								"Una terribile tempesta proveniente dal Piano dell'Aria devasta la Tregua. Il sindaco Gale avverte gli abitanti del villaggio di mettersi al riparo, ma tutta la forza delle tempeste e dell'acquazzone torrenziale distrugge gli edifici precedentemente danneggiati durante l'incursione dei Corsari Cobblehook. Quando la tempesta passa, Tregua è in rovina. Le macerie ricoprono le strade e gli abitanti del villaggio iniziano a cercare un nuovo posto da chiamare casa."
 							]
 						},
 						{
@@ -3387,13 +3387,13 @@
 							"name": "Restored Weather Vane",
 							"id": "2ed",
 							"entries": [
-								"When the characters return to Respite, they find Mayor Gale near the {@area Storm's Eye Weather Vane|2a2|x}. The gold she promised as a reward is in her backpack. {@area Vatri Whistlebaum|2b0|x} is also near the weather vane, and if the characters return Pierre to the village, Vatri gives them her {@item Stone of Good Luck|XDMG} as promised.",
-								"With the mayor's help, the missing gems easily slot back into the weather vane. Read or paraphrase the following once the device is restored:",
+								"Quando i personaggi ritornano a Tregua, trovano il sindaco Gale vicino al {@area Storm's Eye Weather Vane|2a2|x}. L'oro che ha promesso come ricompensa è nel suo zaino. {@area Vatri Whistlebaum|2b0|x} è anche vicino alla banderuola e, se i personaggi riportano Pierre al villaggio, Vatri gli dà {@item Stone of Good Luck|XDMG} come promesso.",
+								"Con l'aiuto del sindaco, le gemme mancanti si rimettono facilmente nella banderuola. Leggi o parafrasa quanto segue una volta ripristinato il dispositivo:",
 								{
 									"type": "insetReadaloud",
 									"id": "2ee",
 									"entries": [
-										"The villagers gather around the Storm's Eye Weather Vane with their gazes cast toward the shore. Peals of thunder shake the ground, and flashes of lightning illuminate dark clouds rolling in from the sea.The weather vane's crossbar begins to twirl, and ribbons of blue-green energy pulse from the whole structure. As the storm sweeps toward Respite, the clouds suddenly part around the village. Despite howling winds tearing across the surrounding countryside, nary a breeze nor a drop of rain hits Respite.The villagers cheer as the storm passes. Some weep with relief. Mayor Gale regards you with a warm smile. \"You saved us,\" she says. \"All hail the heroes of Respite!\""
+										"Gli abitanti del villaggio si radunano attorno alla Banderuola di Storm's Eye con lo sguardo rivolto verso la riva. Scoppi di tuono scuotono il terreno e lampi di fulmini illuminano le nuvole scure che arrivano dal mare. La traversa della banderuola inizia a girare e nastri di energia blu-verde pulsano dall'intera struttura. Mentre la tempesta si sposta verso Tregua, le nuvole si aprono improvvisamente attorno al villaggio. Nonostante i venti ululanti che spazzano la campagna circostante, nemmeno una brezza o una goccia di pioggia colpisce Respite. Gli abitanti del villaggio esultano mentre la tempesta passa. Alcuni piangono di sollievo. Il sindaco Gale ti saluta con un sorriso affettuoso. \"Ci hai salvato\", dice. \"Tutti acclamano gli eroi di Tregua!\""
 									]
 								}
 							]
@@ -3410,7 +3410,7 @@
 							"type": "insetReadaloud",
 							"id": "2f0",
 							"entries": [
-								"Two prominent horns\u2014almost always pointing forward and, from 2000 onward, elegantly curved\u2014help define the look of black dragons throughout the game's history, along with a prominent neck crest and a snaky tongue."
+								"Due corna prominenti, quasi sempre rivolte in avanti e, dal 2000 in poi, elegantemente ricurve, aiutano a definire l'aspetto dei draghi neri nel corso della storia del gioco, insieme a una prominente cresta del collo e una lingua serpentina."
 							]
 						},
 						{
@@ -3545,22 +3545,22 @@
 						{
 							"type": "item",
 							"name": "Designers:",
-							"entry": "Justice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
+							"entry": "Il giudice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
 						},
 						{
 							"type": "item",
 							"name": "Rules Developers:",
-							"entry": "Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen"
+							"entry": "Makenzie De Armas (protagonista), Jeremy Crawford, Ron Lundeen"
 						},
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Judy Bauer (lead), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
+							"entry": "Judy Bauer (protagonista), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
 						},
 						{
 							"type": "item",
 							"name": "Art Directors:",
-							"entry": "Matt Cole (lead), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
+							"entry": "Matt Cole (protagonista), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
 						},
 						{
 							"type": "item",
@@ -3590,7 +3590,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
+							"entry": "Rob Hawkey (protagonista), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
 						}
 					]
 				},

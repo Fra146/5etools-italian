@@ -5,8 +5,8 @@
 			"source": "ABH",
 			"entries": [
 				"{@i Effigy Animated by Hellish Magic}",
-				"Fiendish icons are grotesque, sapient statues depicting fearsome fiends. These creatures gain life as a result of sinister rituals. Fiendish icons can explode with hellfire to roast their foes, and they often pretend to be ordinary statues until they leap up to ambush invaders.",
-				"Roll on or choose a result from the Fiendish Icon Appearances table to inspire what a particular fiendish icon resembles.",
+				"Le icone immonde sono statue grottesche e sapienti che raffigurano temibili demoni. Queste creature guadagnano la vita come risultato di rituali sinistri. Le icone diaboliche possono esplodere con il fuoco infernale per arrostire i loro nemici, e spesso fingono di essere normali statue finché non saltano per tendere un'imboscata agli invasori.",
+				"Tira o scegli un risultato dalla tabella Aspetti delle icone diaboliche per ispirarti sull'aspetto di una particolare icona diabolica.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -20,34 +20,34 @@
 					"rows": [
 						[
 							"1",
-							"A muscular, fiendish figure holding a lit candelabra."
+							"Una figura muscolosa e diabolica che regge un candelabro acceso."
 						],
 						[
 							"2",
-							"A rotund imp licking a serrated knife."
+							"Un diavoletto paffuto che lecca un coltello seghettato."
 						],
 						[
 							"3",
-							"A squat, robed figure with a forked tail poking from beneath its garments."
+							"Una figura tozza e vestita con una coda biforcuta che spunta da sotto gli indumenti."
 						],
 						[
 							"4",
-							"A cherub with sharp fangs and a hand outstretched in welcome."
+							"Un cherubino con le zanne affilate e una mano tesa in segno di benvenuto."
 						],
 						[
 							"5",
-							"Six crows perched atop each other in a roughly humanoid shape."
+							"Sei corvi appollaiati uno sopra l'altro in una forma approssimativamente umanoide."
 						],
 						[
 							"6",
-							"A horned fiend that bears an uncanny resemblance to one of the characters."
+							"Un demone cornuto che ha una strana somiglianza con uno dei personaggi."
 						]
 					]
 				},
 				{
 					"type": "quote",
 					"entries": [
-						"The only thing uglier than these wretched statues are my siblings and I when the servants forget to secure our blackout curtains."
+						"L'unica cosa più brutta di queste miserabili statue siamo io e i miei fratelli quando la servitù si dimentica di fissare le tende oscuranti."
 					],
 					"by": "Astarion on Fiendish Icons"
 				}
@@ -67,8 +67,8 @@
 			"source": "ABH",
 			"entries": [
 				"{@i Devil of Guile and Temptation}",
-				"With a name that hints at their skill at gathering souls for the Nine Hells, harvester devils are smooth-talking creatures that resemble tieflings. Also known as falxugons among the ranks of the Nine Hells, harvester devils have short horns and expressive tails. Most harvester devils dress in flattering finery. They promise wealth or influence to corruptible mortals, often securing a deal with a contract they produce in a flash of brimstone. This contract binds the mortal signatory's soul to the Nine Hells.",
-				"Harvester devils' contracts are lengthy and convoluted, but these devils are quick to make deals and might leave loopholes that can save a signatory's soul. Roll on or choose a result from the Contract Loopholes table to inspire a loophole an astute reader might discover.",
+				"Con un nome che allude alla loro abilità nel raccogliere anime per i Nove Inferni, i diavoli mietitori sono creature dalla parlantina pacata che assomigliano ai tiefling. Conosciuti anche come falxugon tra i ranghi dei Nove Inferni, i diavoli mietitori hanno corna corte e code espressive. La maggior parte dei diavoli mietitori si veste con abiti lusinghieri. Promettono ricchezza o influenza a mortali corruttibili, spesso assicurandosi un accordo con un contratto che producono in un lampo di zolfo. Questo contratto lega l'anima del firmatario mortale ai Nove Inferni.",
+				"I contratti dei diavoli mietitori sono lunghi e contorti, ma questi diavoli sono rapidi nel concludere accordi e potrebbero lasciare scappatoie che possono salvare l'anima del firmatario. Tira avanti o scegli un risultato dalla tabella Lacune contrattuali per ispirare una scappatoia che un lettore astuto potrebbe scoprire.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -82,34 +82,34 @@
 					"rows": [
 						[
 							"1",
-							"Delivers ninety nine other souls to Mephistopheles."
+							"Consegna altre novantanove anime a Mefistofele."
 						],
 						[
 							"2",
-							"Stands under the light of a full moon and a half-moon simultaneously."
+							"Sta sotto la luce della luna piena e della mezza luna contemporaneamente."
 						],
 						[
 							"3",
-							"Renounces the contract while in the Abyss."
+							"Rinuncia al contratto mentre si trova nell'Abisso."
 						],
 						[
 							"4",
-							"Is under the protection of another fiend."
+							"È sotto la protezione di un altro demone."
 						],
 						[
 							"5",
-							"Has an identical twin or clone."
+							"Ha un gemello identico o un clone."
 						],
 						[
 							"6",
-							"Tricks the devil into signing any other contract."
+							"Induce il diavolo a firmare qualsiasi altro contratto."
 						]
 					]
 				},
 				{
 					"type": "quote",
 					"entries": [
-						"Unfortunately, finding these dandyish devils' contractual loopholes is not nearly as much fun as I had hoped."
+						"Sfortunatamente, trovare le scappatoie contrattuali di questi diavoli dandy non è così divertente come avevo sperato."
 					],
 					"by": "Astarion on Harvester Devils"
 				}
@@ -129,12 +129,12 @@
 			"source": "ABH",
 			"entries": [
 				"{@i Devil of Spoken Compulsion}",
-				"Speaker devils are hulking, four-armed devils who discover the secrets of creatures they then compel to perform wicked deeds. Despite their large tongues, speaker devils speak with clear and pleasing voices. Among the ranks of the Nine Hells, they are known as logokrons.",
-				"Many speaker devils are loyal to the archdevil Mephistopheles. These devils record the secrets they uncover in Mephistar, Mephistopheles's vast library in Cania. While greedy to uncover other creatures' secrets, speaker devils diligently redact any evidence of their own secrets, lest such knowledge be used against them.",
+				"I diavoli parlanti sono massicci diavoli a quattro braccia che scoprono i segreti delle creature che poi costringono a compiere azioni malvagie. Nonostante la loro lingua larga, i diavoli parlanti parlano con voci chiare e piacevoli. Tra i ranghi dei Nove Inferi, sono conosciuti come logokron.",
+				"Molti diavoli parlanti sono fedeli all'arcidiavolo Mefistofele. Questi diavoli registrano i segreti che scoprono in Mefistar, la vasta biblioteca di Mefistofele a Cania. Sebbene siano avidi di scoprire i segreti delle altre creature, i diavoli oratori nascondono diligentemente qualsiasi prova dei propri segreti, per timore che tale conoscenza venga usata contro di loro.",
 				{
 					"type": "quote",
 					"entries": [
-						"I know what you're thinking, and it's simply a terrible idea. Yes, yes, I know. That enormous tongue! And four arms! Oh, the possibilities! But trust me when I say it'll only end in tears."
+						"So cosa stai pensando ed è semplicemente un'idea terribile. Sì, sì, lo so. Quella lingua enorme! E quattro braccia! Oh, le possibilità! Ma fidati di me quando dico che finirà solo in lacrime."
 					],
 					"by": "Astarion on Speaker Devils"
 				}
@@ -154,12 +154,12 @@
 			"source": "ABH",
 			"entries": [
 				"{@i Vampire Arcanist of the Nine Hells}",
-				"While mortal wizards tend to hesitate before bartering their souls to devils for magical power, vampire wizards often believe their immortality will exempt them from any infernal claim to their souls. The archdevil Mephistopheles happily exploits such hubris and proves that even undead aren't immune to the laws of the Nine Hells.",
-				"The greatest hell-bound vampires are masters of hellfire called infernalists, who prey on mages. Vampire infernalists are usually too arrogant to work together; even a large city isn't likely to harbor more than one vampire infernalist. Vampire infernalists are dormant during the day, retreating to resting places hidden from the sun's searing rays before emerging at night to commit unsavory deeds.",
+				"Mentre i maghi mortali tendono ad esitare prima di barattare le loro anime con i diavoli in cambio di potere magico, i maghi vampiri spesso credono che la loro immortalità li esenterà da qualsiasi pretesa infernale sulle loro anime. L'arcidiavolo Mefistofele sfrutta felicemente tale arroganza e dimostra che anche i non morti non sono immuni dalle leggi dei Nove Inferni.",
+				"I più grandi vampiri legati all'inferno sono maestri del fuoco infernale chiamati infernalisti, che predano i maghi. Gli infernalisti dei vampiri sono solitamente troppo arroganti per lavorare insieme; anche una grande città difficilmente può ospitare più di un vampiro infernalista. I vampiri infernali restano dormienti durante il giorno, ritirandosi in luoghi di riposo nascosti dai raggi cocenti del sole prima di emergere di notte per commettere azioni sgradevoli.",
 				{
 					"type": "quote",
 					"entries": [
-						"What?! A vampire who's sold their soul to Mephistopheles for even more power? Wound not my unbeating heart. Tell me it's not true! Oh, wait. Of course it is."
+						"Che cosa?! Un vampiro che ha venduto la propria anima a Mefistofele per avere ancora più potere? Non ferire il mio cuore immobile. Dimmi che non è vero! Oh, aspetta. Naturalmente lo è."
 					],
 					"by": "Astarion on Vampire Infernalists"
 				},
@@ -170,7 +170,7 @@
 							"type": "entries",
 							"name": "Vampire Infernalist Lairs",
 							"entries": [
-								"Vampire infernalists lurk in gloomy libraries or ritual chambers, far from the sun's light."
+								"I vampiri infernali si nascondono in tetre biblioteche o camere rituali, lontano dalla luce del sole."
 							]
 						}
 					]
@@ -191,11 +191,11 @@
 			"source": "ABH",
 			"entries": [
 				"{@i Stone-Skinned, Blood-Drinking Guardian}",
-				"Vampires need trusted guards for their lairs, minions, and treasures. After all, vampire familiars don't live for long and are inattentive while sleeping or simpering. Monstrous servants are often too unpredictable or simply unreliable. To keep their lairs safe, some vampires create more durable spawn to serve as watchful guardians. These vampire wardens appear to have the same pallid flesh as most vampires but, through sheer force of will, can shrug off blows that might fell others. When most vampires would be destroyed, a warden turns to stone, heals itself, and is ready for service once again.",
+				"I vampiri hanno bisogno di guardie fidate per le loro tane, servitori e tesori. Dopotutto, i famigli vampiri non vivono a lungo e sono disattenti mentre dormono o sorridono. I servitori mostruosi sono spesso troppo imprevedibili o semplicemente inaffidabili. Per mantenere le loro tane sicure, alcuni vampiri creano progenie più durevoli che fungano da guardiani vigili. Questi guardiani dei vampiri sembrano avere la stessa carne pallida della maggior parte dei vampiri ma, attraverso la pura forza di volontà, possono ignorare i colpi che potrebbero abbattere altri. Quando la maggior parte dei vampiri viene distrutta, un guardiano si trasforma in pietra, guarisce se stesso ed è nuovamente pronto per il servizio.",
 				{
 					"type": "quote",
 					"entries": [
-						"Ah, these stony-skinned prats: the insufferable watchdogs of vampirekind. I once tried to play fetch with one of ours. It didn't go well."
+						"Ah, questi idioti dalla pelle di pietra: gli insopportabili cani da guardia dei vampiri. Una volta ho provato a giocare a prendere con uno dei nostri. Non è andata bene."
 					],
 					"by": "Astarion on Vampire Wardens"
 				}

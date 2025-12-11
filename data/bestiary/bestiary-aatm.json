@@ -68,13 +68,13 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"If the animated coffin is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the coffin move or act, that creature must succeed on a {@dc 18} Intelligence ({@skill Investigation}) check to discern that the coffin is animate."
+						"Se la bara animata è immobile all'inizio del combattimento, ha vantaggio sul tiro di iniziativa. Inoltre, se una creatura non ha osservato il movimento o l'atto della bara, deve superare una prova di {@dc 18} Intelligenza ({@skill Investigation}) per discernere che la bara è animata."
 					]
 				},
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The animated coffin can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"La bara animata può arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica."
 					]
 				}
 			],
@@ -82,19 +82,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The animated coffin makes two Slam attacks."
+						"La bara animata effettua due attacchi Schianto."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d8 + 3}) bludgeoning damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}12 ({@damage 2d8 + 3}) danni contundenti."
 					]
 				},
 				{
 					"name": "Entrap",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one Large or smaller creature. {@h}The target has the {@condition grappled} condition (escape {@dc 13}). Until this grapple ends, if the target is not an Undead, the target has the {@condition restrained} condition and takes 14 ({@damage 4d6}) piercing damage at the start of each of its turns. The animated coffin can grapple only one creature at a time."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura Grande o più piccola. {@h}L'obiettivo ha la condizione {@condition grappled} (fuga {@dc 13}). Fino al termine della presa, se il bersaglio non è un non morto, ha la condizione {@condition restrained} e subisce 14 ({@damage 4d6}) danni perforanti all'inizio di ciascuno dei suoi turni. La bara animata può afferrare solo una creatura alla volta."
 					]
 				}
 			],
@@ -212,7 +212,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Skall casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 19}):"
+						"Skall lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 19}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -239,31 +239,31 @@
 				{
 					"name": "Aura of Death",
 					"entries": [
-						"Creatures within 30 feet of Skall have disadvantage on death saving throws."
+						"Le creature entro 9 metri da Skall subiscono svantaggio ai tiri salvezza dalla morte."
 					]
 				},
 				{
 					"name": "Cosmic Annihilation",
 					"entries": [
-						"A creature killed by Skall can be restored to life only by means of a true resurrection or {@spell wish} spell."
+						"Una creatura uccisa da Skall può essere riportata in vita solo tramite una vera resurrezione o un incantesimo {@spell wish}."
 					]
 				},
 				{
 					"name": "Legendary Resistance (4/Day)",
 					"entries": [
-						"If Skall fails a saving throw, he can choose to succeed instead."
+						"Se Skall fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Rejuvenation",
 					"entries": [
-						"If Skall dies, he turns to dust. If his orrery of souls hasn't been destroyed, Skall re-forms within the Mortuary in {@dice 1d10} days. He appears within 5 feet of the orrery."
+						"Se Skall muore, si trasforma in polvere. Se il suo planetario di anime non è stato distrutto, Skall si riforma all'interno dell'obitorio in {@dice 1d10} giorni. Appare entro 5 piedi dal planetario."
 					]
 				},
 				{
 					"name": "Turn Resistance",
 					"entries": [
-						"Skall has advantage on saving throws against any effect that turns Undead."
+						"Skall ha vantaggio ai tiri salvezza contro qualsiasi effetto che scaccia i non morti."
 					]
 				}
 			],
@@ -271,26 +271,26 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Skall makes one Withering Touch attack or uses Spellcasting. He also uses Death Knell twice."
+						"Skall effettua un attacco di tocco avvizzito o usa il lancio di incantesimi. Usa anche Death Knell due volte."
 					]
 				},
 				{
 					"name": "Withering Touch",
 					"entries": [
-						"{@atk ms} {@hit 11} to hit, reach 5 ft., one target. {@h}32 ({@damage 6d8 + 5}) cold damage plus 31 ({@damage 7d8}) necrotic damage, and if the target is a creature, it can't regain hit points until the start of Skall's next turn."
+						"{@atk ms} {@hit 11} per colpire, raggiungere 5 piedi, un bersaglio. {@h}32 ({@damage 6d8 + 5}) danni da freddo più 31 ({@damage 7d8}) danni necrotici e, se il bersaglio è una creatura, non può recuperare punti ferita fino all'inizio del turno successivo di Skall."
 					]
 				},
 				{
 					"name": "Death Knell",
 					"entries": [
-						"Skall points his finger at a creature he can see within 120 feet of himself, filling the target's mind with visions of death and the plangent toll of an iron bell. The target must succeed on a {@dc 19} Wisdom saving throw or take 14 ({@damage 4d6}) psychic damage and have the {@condition frightened} condition until the start of Skall's next turn."
+						"Skall punta il dito verso una creatura che può vedere entro 120 piedi da sé, riempiendo la mente del bersaglio con visioni di morte e il rintocco lamentoso di una campana di ferro. Il bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 19} o subire 14 ({@damage 4d6}) danni psichici e avere la condizione {@condition frightened} fino all'inizio del turno successivo di Skall."
 					]
 				},
 				{
 					"name": "Fog of Death (1/Day)",
 					"entries": [
-						"Skall exudes a killing fog in a 30-foot-radius sphere centered on himself. The sphere spreads around corners, and its area is heavily obscured. The fog lasts until the start of Skall's next turn, and it can't be dispersed by wind. It does not move with him.",
-						"Each creature that enters the fog for the first time on a turn or starts its turn there must make a {@dc 19} Constitution saving throw, taking 28 ({@damage 8d6}) necrotic damage and 28 ({@damage 8d6}) poison damage on a failed save, or half as much damage on a successful one. A Medium or smaller Humanoid killed by this damage becomes a zombie under Skall's control. The zombie acts on Skall's initiative but immediately after his turn. Absent any other command, the zombie tries to kill any non-Undead creature it encounters."
+						"Skall emana una nebbia mortale in una sfera del raggio di 9 metri centrata su se stesso. La sfera si estende attorno agli angoli e la sua area è fortemente oscurata. La nebbia dura fino all'inizio del turno successivo di Skall e non può essere dispersa dal vento. Non si muove con lui.",
+						"Ogni creatura che entra nella nebbia per la prima volta in un turno o inizia il suo turno lì deve effettuare un tiro salvezza su Costituzione {@dc 19} e subisce 28 ({@damage 8d6}) danni necrotici e 28 ({@damage 8d6}) danni da veleno se fallisce il tiro salvezza, o la metà di quei danni se lo riesce. Un Umanoide di taglia Media o inferiore ucciso da questo danno diventa uno zombi sotto il controllo di Skall. Lo zombie agisce su iniziativa di Skall ma immediatamente dopo il suo turno. In assenza di qualsiasi altro comando, lo zombi tenta di uccidere qualsiasi creatura non morta che incontra."
 					]
 				}
 			],
@@ -301,13 +301,13 @@
 				{
 					"name": "Baleful Counterspell",
 					"entries": [
-						"Skall chatters his teeth to interrupt a creature he can see within 60 feet of himself that is casting a spell. If the spell is 4th level or lower, it fails and has no effect. If the spell is 5th level or higher, Skall makes an Intelligence check ({@dc 10} + the spell's level). On a successful check, the spell fails and has no effect. Whatever the spell's level, the caster takes 10 ({@damage 3d6}) necrotic damage if the spell fails."
+						"Skall batte i denti per interrompere una creatura che può vedere entro 18 metri da lui e che sta lanciando un incantesimo. Se l'incantesimo è di 4° livello o inferiore, fallisce e non ha alcun effetto. Se l'incantesimo è di 5° livello o superiore, Skall effettua una prova di Intelligenza ({@dc 10} + il livello dell'incantesimo). Se la prova riesce, l'incantesimo fallisce e non ha alcun effetto. Qualunque sia il livello dell'incantesimo, l'incantatore subisce 10 ({@damage 3d6}) danni necrotici se l'incantesimo fallisce."
 					]
 				},
 				{
 					"name": "Near-Death Experience",
 					"entries": [
-						"In response to being hit by an attack, Skall teleports, along with any equipment he is wearing or carrying, up to 30 feet to an unoccupied space he can see."
+						"In risposta all'essere colpito da un attacco, Skall si teletrasporta, insieme a qualsiasi equipaggiamento che indossa o trasporta, fino a 9 metri in uno spazio non occupato che può vedere."
 					]
 				}
 			],
@@ -421,7 +421,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The exorcist casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 14}, {@hit 6} to hit with spell attacks):"
+						"L'esorcista lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimi):"
 					],
 					"will": [
 						"{@spell detect evil and good}",
@@ -447,7 +447,7 @@
 				{
 					"name": "Incorruptible Vessel",
 					"entries": [
-						"The exorcist can't be possessed by Celestials, Fiends, or Undead."
+						"L'esorcista non può essere posseduto da Celestiali, Demoni o Non Morti."
 					]
 				}
 			],
@@ -455,19 +455,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The exorcist makes two Grave Burst attacks."
+						"L'esorcista effettua due attacchi Grave Burst."
 					]
 				},
 				{
 					"name": "Grave Burst",
 					"entries": [
-						"{@atk ms,rs} {@hit 6} to hit, reach 5 ft. or range 120 ft., one target. {@h}19 ({@damage 3d10 + 3}) necrotic or radiant damage (exorcist's choice)."
+						"{@atk ms,rs} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}19 ({@damage 3d10 + 3}) danno necrotico o radiante (a scelta dell'esorcista)."
 					]
 				},
 				{
 					"name": "Admit Entity {@recharge 5}",
 					"entries": [
-						"The exorcist thins the veil of death for a creature it can see within 60 feet of itself, exposing the target to malevolent entities. The target must make a {@dc 14} Charisma saving throw. On a failed save, the target takes 36 ({@damage 8d8}) psychic damage and has the {@condition incapacitated} condition for 1 minute, during which time it retches and babbles incoherently in a voice that is not its own. On a successful save, the target takes half as much damage only. An {@condition incapacitated} target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"L'esorcista assottiglia il velo della morte per una creatura che può vedere entro 18 metri da sé, esponendo il bersaglio a entità malevoli. Il bersaglio deve effettuare un tiro salvezza su Carisma {@dc 14}. Se fallisce il tiro salvezza, il bersaglio subisce 36 ({@damage 8d8}) danni psichici e ha la condizione {@condition incapacitated} per 1 minuto, durante il quale vomita e balbetta in modo incoerente con una voce che non è la sua. Se il tiro salvezza riesce, il bersaglio subisce solo la metà dei danni. Un bersaglio {@condition incapacitated} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],

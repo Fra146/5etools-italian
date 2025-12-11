@@ -6,7 +6,7 @@
 			"page": 160,
 			"id": "000",
 			"entries": [
-				"\"{@creature Krenko|KKW}'s Way\" is a short adventure for a party of four to six 1st-level adventurers, who might advance to 2nd level by the adventure's conclusion. It is set in the Tenth District of Ravnica and serves as an introductory adventure to the setting. A balance of character classes is helpful, since the adventurers will face a variety of challenges. Adventurers can be affiliated with any of the guilds.",
+				"\"{@creature Krenko|KKW}'s Way\" è una breve avventura per un gruppo di quattro-sei avventurieri di 1° livello, che potrebbero avanzare al 2° livello alla conclusione dell'avventura. È ambientato nel Decimo Distretto di Ravnica e funge da avventura introduttiva all'ambientazione. Un equilibrio tra le classi dei personaggi è utile, poiché gli avventurieri dovranno affrontare una serie di sfide. Gli avventurieri possono essere affiliati a qualsiasi gilda.",
 				{
 					"type": "image",
 					"href": {
@@ -23,17 +23,17 @@
 					"page": 160,
 					"id": "001",
 					"entries": [
-						"{@creature Krenko|KKW} is the boss of a notorious goblin mob, and he has made his fortune and built his reputation by mostly staying out of the guilds' way. He has managed to cause no end of trouble for the citizens of the Tenth District, but not without attracting the attention of the guilds. A cunning opportunist, {@creature Krenko|KKW} has spent years consolidating goblin street rabble into his fiercely loyal gang. He cultivated connections among the ruthless and powerful, specializing in high-value theft and mayhem. At the apex of his influence, he got into a nasty turf war with the Shattergang Brothers, a rival goblin gang that often deals in illicit arms. Rumors swirled that {@creature Krenko|KKW} killed Dargig, the youngest of the three brothers, after a weapons drop went bad.",
-						"The remaining two brothers, Rikkig and Gardagig, attempted to kill {@creature Krenko|KKW} in retaliation for the death of their kin. Before they could do the deed, {@creature Krenko|KKW} was apprehended by the Boros Legion and thrown into Sawtooth Prison\u2014near the legion's headquarters of Sunhome\u2014to spend the rest of his life behind bars. But someone as well connected as {@creature Krenko|KKW} has ways of shortening his own sentence.",
-						"Inciting a riot in prison secured him a transfer to Udzec, a maximum-security facility in Precinct Two of the Tenth District, administered by the Azorius Senate. During the transfer, agents of a former associate of {@creature Krenko|KKW}'s created a distraction, and he was able to slip away to rendezvous with his gang. He now plots his next move as he reestablishes power over his criminal enterprise.",
-						"{@creature Krenko|KKW}'s escape is no small matter. The Chamber of the Guildpact gets involved, alarmed at the possibility of another goblin gang war that could threaten the tenuous peace between the guilds. During the adventure, the Shattergang Brothers catch wind of {@creature Krenko|KKW}'s freedom, and are desperate to make him pay.",
+						"{@creature Krenko|KKW} è il capo di una famigerata banda di goblin e ha fatto fortuna e costruito la sua reputazione restando per lo più alla larga dalle gilde. È riuscito a causare problemi senza fine ai cittadini del Decimo Distretto, ma non senza attirare l'attenzione delle gilde. Un astuto opportunista {@creature Krenko|KKW} ha passato anni a consolidare la plebaglia di goblin nella sua banda fieramente leale. Coltivava legami tra persone spietate e potenti, specializzandosi in furti e caos di alto valore. All'apice della sua influenza, si trovò coinvolto in una brutta guerra con i Fratelli Shattergang, una banda di goblin rivali che spesso commerciava in armi illecite. Circolavano voci che {@creature Krenko|KKW} avesse ucciso Dargig, il più giovane dei tre fratelli, dopo che un lancio di armi era andato a male.",
+						"I restanti due fratelli, Rikkig e Gardagig, hanno tentato di uccidere {@creature Krenko|KKW} come rappresaglia per la morte dei loro parenti. Prima che potessero compiere l'atto, {@creature Krenko|KKW} fu catturato dalla Legione Boros e gettato nella Prigione di Sawtooth, vicino al quartier generale della legione di Sunhome, per trascorrere il resto della sua vita dietro le sbarre. Ma qualcuno ben collegato come {@creature Krenko|KKW} ha modi per abbreviare la propria pena.",
+						"L'istigazione alla rivolta in prigione gli ha assicurato il trasferimento a Udzec, una struttura di massima sicurezza nel secondo distretto del decimo distretto, amministrata dal Senato Azorius. Durante il trasferimento, gli agenti di un ex socio di {@creature Krenko|KKW} hanno creato una distrazione e lui è riuscito a scappare per incontrarsi con la sua banda. Ora pianifica la sua prossima mossa mentre ristabilisce il potere sulla sua impresa criminale.",
+						"La fuga di {@creature Krenko|KKW} non è cosa da poco. Viene coinvolta la Camera del Patto delle Gilde, allarmata dalla possibilità di un'altra guerra tra bande di goblin che potrebbe minacciare la fragile pace tra le gilde. Durante l'avventura, i fratelli Shattergang vengono a conoscenza della libertà di {@creature Krenko|KKW} e cercano disperatamente di fargliela pagare.",
 						{
 							"type": "inset",
 							"name": "Guildless Villains",
 							"page": 160,
 							"id": "002",
 							"entries": [
-								"Not every villain in a Ravnica campaign is a member of a guild, and not every scheme originates in the guildhalls. As you build your own adventures in Ravnica, you can use the suggestions in the {@book Dungeon Master's Guide|DMG} for creating villains to craft a guildless villain, one who prefers the independence of operating outside the guild structure or even seeks to undermine that structure entirely. More often than not, though, the guilds turn out to be involved in the schemes of even minor villains."
+								"Non tutti i cattivi in ​​una campagna di Ravnica sono membri di una gilda, e non tutti gli schemi hanno origine nelle sedi delle gilde. Mentre costruisci le tue avventure a Ravnica, puoi utilizzare i suggerimenti nel {@book Dungeon Master's Guide|DMG} per creare cattivi per creare un cattivo senza gilda, uno che preferisce l'indipendenza di operare al di fuori della struttura della gilda o addirittura cerca di indebolire completamente quella struttura. Nella maggior parte dei casi, però, le gilde risultano coinvolte nei piani anche dei cattivi minori."
 							]
 						}
 					]
@@ -44,15 +44,15 @@
 					"page": 161,
 					"id": "003",
 					"entries": [
-						"This adventure requires the fifth edition D&D rulebooks ({@book Player's Handbook|PHB}, {@book Dungeon Master's Guide|DMG}, and {@book Monster Manual|MM}). You should read the entire adventure before attempting to run it. If you'd prefer to play, you shouldn't read any farther.",
+						"Questa avventura richiede la quinta edizione del regolamento di D&D ({@book Player's Handbook|PHB}, {@book Dungeon Master's Guide|DMG} e {@book Monster Manual|MM}). Dovresti leggere l'intera avventura prima di tentare di eseguirla. Se preferisci giocare, non dovresti leggere oltre.",
 						{
 							"type": "insetReadaloud",
 							"id": "004",
 							"entries": [
-								"Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as described in the text."
+								"Il testo che appare in un riquadro come questo deve essere letto ad alta voce o parafrasato per i giocatori quando i loro personaggi arrivano per la prima volta in un luogo o in una circostanza specifica, come descritto nel testo."
 							]
 						},
-						"The {@book Monster Manual|MM} contains statistics for many of the creatures found in this adventure. When a creature's name appears in {@b bold} type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM}. If the stat block appears elsewhere, the adventure's text tells you so.",
+						"Il {@book Monster Manual|MM} contiene le statistiche di molte delle creature trovate in questa avventura. Quando il nome di una creatura appare nel tipo {@b bold}, è un segnale visivo che ti indirizza al blocco delle statistiche della creatura nel tipo {@book Monster Manual|MM}. Se il blocco delle statistiche appare altrove, il testo dell'avventura te lo dice.",
 						{
 							"type": "entries",
 							"name": "Adventure Summary",
@@ -69,9 +69,9 @@
 									"height": 1455,
 									"credit": "Kev Walker"
 								},
-								"The adventure begins at Sawtooth Prison as the party is summoned by Nassius Ven, an official from the Chamber of the Guildpact. He explains that {@creature Krenko|KKW} has escaped during a prison transfer, and it's urgent that the characters locate him and bring him back to justice as soon as possible and with discretion.",
-								"The characters can retrace the route of the transfer, interview the guards for more information, and use their contacts in the city to find out more about {@creature Krenko|KKW}. If they are indiscreet in their investigation, they could attract the attention of the Shattergang Brothers, a rival gang intent on murdering {@creature Krenko|KKW}. Members of that gang will trail the party throughout the city in an attempt to find the goblin mob boss's location.",
-								"Eventually, the adventurers find {@creature Krenko|KKW}'s hideout: a warehouse near a canal. A final showdown with the goblin mob boss, his retinue, and possible Shattergang interlopers ensues. Then it's merely a matter of delivering {@creature Krenko|KKW} back to Nassius before more trouble breaks out."
+								"L'avventura inizia nella Prigione di Sawtooth quando il gruppo viene convocato da Nassius Ven, un funzionario della Camera del Patto delle Gilde. Spiega che {@creature Krenko|KKW} è scappato durante un trasferimento in prigione, ed è urgente che i personaggi lo localizzino e lo riportino alla giustizia il prima possibile e con discrezione.",
+								"I personaggi possono ripercorrere il percorso del trasferimento, intervistare le guardie per ulteriori informazioni e utilizzare i loro contatti in città per saperne di più su {@creature Krenko|KKW}. Se fossero indiscreti nelle loro indagini, potrebbero attirare l'attenzione dei Fratelli Shattergang, una banda rivale intenzionata a uccidere {@creature Krenko|KKW}. I membri di quella banda seguiranno il gruppo per tutta la città nel tentativo di trovare la posizione del boss mafioso goblin.",
+								"Alla fine, gli avventurieri trovano il nascondiglio di {@creature Krenko|KKW}: un magazzino vicino a un canale. Segue uno scontro finale con il boss della mafia goblin, il suo seguito e possibili intrusi di Shattergang. Quindi si tratta semplicemente di riconsegnare {@creature Krenko|KKW} a Nassius prima che scoppino altri problemi."
 							]
 						},
 						{
@@ -80,8 +80,8 @@
 							"page": 161,
 							"id": "006",
 							"entries": [
-								"{@creature Krenko|KKW} arranged a deal with a faction while in prison. During his transfer, members of that faction struck down his escort and freed him.",
-								"At the beginning of the adventure, you can roll a patron from the table below, or you can choose one (preferably a guild that isn't represented by an adventurer in the party). The patron affects the story of {@creature Krenko|KKW}'s escape in a specific way (as indicated following the table) and, if you so choose, might influence future adventures.",
+								"{@creature Krenko|KKW} ha stipulato un accordo con una fazione mentre era in prigione. Durante il suo trasferimento, membri di quella fazione abbatterono la sua scorta e lo liberarono.",
+								"All'inizio dell'avventura, puoi scegliere un mecenate dalla tabella sottostante, oppure sceglierne uno (preferibilmente una gilda che non sia rappresentata da un avventuriero nel gruppo). Il mecenate influenza la storia della fuga di {@creature Krenko|KKW} in un modo specifico (come indicato di seguito nella tabella) e, se lo desideri, potrebbe influenzare le avventure future.",
 								{
 									"type": "table",
 									"caption": "Krenko's Patron",
@@ -96,27 +96,27 @@
 									"rows": [
 										[
 											"1",
-											"{@b Dimir}. An impenetrable fog appeared, confusing the escort and obscuring their view. {@creature Krenko|KKW} slipped his restraints and scurried off in the mist."
+											"{@b Dimir}. Apparve una nebbia impenetrabile, che confondeva la scorta e impediva loro la vista. {@creature Krenko|KKW} si è liberato delle cinture e si è allontanato nella nebbia."
 										],
 										[
 											"2",
-											"{@b Golgari}. A swarm of centipedes burst out of a nearby sewer and overwhelmed the guards, knocking them {@condition unconscious} with venomous bites. When the guards were revived, {@creature Krenko|KKW} was gone."
+											"{@b Golgari}. Uno sciame di millepiedi esplose da una fogna vicina e travolse le guardie, colpendole {@condition unconscious} con morsi velenosi. Quando le guardie furono rianimate, {@creature Krenko|KKW} non c'era più."
 										],
 										[
 											"3",
-											"{@b Gruul}. A Gruul warband screamed through the streets, smashing anything that got in the way. The guards clashed with the Gruul; during the fight, one of them broke {@creature Krenko|KKW}'s bonds and the goblin fled the scene."
+											"{@b Gruul}. Una banda da guerra Gruul urlava per le strade, distruggendo qualunque cosa si frapponesse. Le guardie si scontrarono con i Gruul; durante il combattimento, uno di loro ha rotto i legami di {@creature Krenko|KKW} e il goblin è fuggito dalla scena."
 										],
 										[
 											"4",
-											"{@b Izzet}. A pair of armored mages descended from the sky on hovering discs. They aimed devices attached to their arms at the guards and blasted them back with a concussive wave. While the guards were recovering, the mages magically dissolved {@creature Krenko|KKW}'s bonds and he escaped."
+											"{@b Izzet}. Una coppia di maghi corazzati discese dal cielo su dischi sospesi. Puntarono contro le guardie i dispositivi attaccati alle loro braccia e li respinsero con un'onda concussiva. Mentre le guardie si stavano riprendendo, i maghi sciolsero magicamente i legami di {@creature Krenko|KKW} e lui fuggì."
 										],
 										[
 											"5",
-											"{@b Rakdos}. A troupe of performers crossed paths with the guards, who became transfixed by a fiery acrobatic street display. When the performance was over, {@creature Krenko|KKW} had gone missing."
+											"{@b Rakdos}. Una troupe di artisti ha incrociato la strada con le guardie, che sono rimaste paralizzate da un'infuocata esibizione acrobatica di strada. Al termine dello spettacolo, {@creature Krenko|KKW} era scomparso."
 										],
 										[
 											"6",
-											"{@b Simic}. A skyswimmer intercepted and attacked {@creature Krenko|KKW}'s escort. It unleashed a powerful discharge of lightning, which knocked out all the guards. When they woke up, {@creature Krenko|KKW} had disappeared."
+											"{@b Simic}. Uno skyswimmer ha intercettato e attaccato la scorta di {@creature Krenko|KKW}. Ha scatenato una potente scarica di fulmini, che ha messo fuori combattimento tutte le guardie. Quando si sono svegliati, {@creature Krenko|KKW} era scomparso."
 										]
 									]
 								}
@@ -130,25 +130,25 @@
 					"page": 162,
 					"id": "007",
 					"entries": [
-						"Once the players are ready to begin, read or paraphrase the following introductory text:",
+						"Una volta che i giocatori sono pronti per iniziare, leggi o parafrasa il seguente testo introduttivo:",
 						{
 							"type": "insetReadaloud",
 							"id": "008",
 							"entries": [
-								"Life in the Tenth District is never dull. A hub of constant activity, it always offers a new opportunity, a new challenge, a new intrigue. It is a place where a promising adventurer like you can find your path to glory, riches, or power through your allegiance to your guild. But first you'll need a job that will help you prove your worth.",
-								"Today is your lucky day. This afternoon, you received a brief note from one of your contacts: \"I heard today from someone who is looking for help finding something. Seems serious. Might be a good opportunity for you. Meet outside Sawtooth Prison at dusk.\"",
-								"At the appointed time, you find yourself gathered with other like-minded individuals outside the front door to the functional and unremarkable Sawtooth Prison."
+								"La vita nel Decimo Distretto non è mai noiosa. Centro di attività costante, offre sempre una nuova opportunità, una nuova sfida, un nuovo intrigo. È un luogo in cui un promettente avventuriero come te può trovare la strada verso la gloria, la ricchezza o il potere attraverso la fedeltà alla tua gilda. Ma prima avrai bisogno di un lavoro che ti aiuti a dimostrare il tuo valore.",
+								"Oggi è il tuo giorno fortunato. Questo pomeriggio hai ricevuto una breve nota da uno dei tuoi contatti: \"Ho sentito oggi qualcuno che sta cercando aiuto per trovare qualcosa. Sembra serio. Potrebbe essere una buona opportunità per te. Ci vediamo fuori dalla prigione di Sawtooth al crepuscolo.\"",
+								"All'ora stabilita, ti ritrovi riunito con altri individui che la pensano allo stesso modo fuori dalla porta principale della funzionale e insignificante Prigione di Sawtooth."
 							]
 						},
-						"Have the players introduce their characters to each other, if they aren't acquainted already. This might also be a time for the characters to identify or discover personal connections that might link them, such as common acquaintances or contacts, a shared background, or living in the same neighborhood. Once the characters have had a chance to get to know one another, read:",
+						"Chiedi ai giocatori di presentare i loro personaggi l'uno all'altro, se non si conoscono già. Questo potrebbe anche essere il momento in cui i personaggi identificano o scoprono connessioni personali che potrebbero unirli, come conoscenze o contatti comuni, un background condiviso o vivere nello stesso quartiere. Una volta che i personaggi hanno avuto la possibilità di conoscersi, leggi:",
 						{
 							"type": "insetReadaloud",
 							"id": "009",
 							"entries": [
-								"Light rain begins to patter on the cobblestones as the sun sets behind the spires and towers of the city. You see a male vedalken in well-tailored clothes approach your group from around the side of the prison. His deep blue face bears a gentle but concerned expression. He raises his hand to hail you and speaks in a low tone as his eyes take in your group and the nearby environs. \"Are you here to help us find something?\""
+								"Una pioggia leggera inizia a picchiettare sul selciato mentre il sole tramonta dietro le guglie e le torri della città. Vedi un vedalken maschio in abiti di buon taglio avvicinarsi al tuo gruppo da un lato della prigione. Il suo viso blu intenso ha un'espressione gentile ma preoccupata. Alza la mano per salutarti e parla a bassa voce mentre i suoi occhi osservano il tuo gruppo e i dintorni vicini. \"Sei qui per aiutarci a trovare qualcosa?\""
 							]
 						},
-						"This is Nassius Ven, a vedalken {@creature noble} and a proctor from the office of the Guildpact. While the Azorius and Boros help maintain the law and keep the peace, the office of the Guildpact tries to help quell disputes between the guilds while the Living Guildpact is away. Nassius is here to hire the characters to track down {@creature Krenko|KKW} because he suspects the involvement of one or more guilds in the goblin boss's escape but doesn't know who is involved.",
+						"Questo è Nassius Ven, un vedalken {@creature noble} e un procuratore dell'ufficio del Patto delle Gilde. Mentre gli Azorius e i Boros aiutano a mantenere la legge e la pace, l'ufficio del Patto delle Gilde cerca di aiutare a sedare le controversie tra le gilde mentre il Patto delle Gilde Vivente è assente. Nassius è qui per assumere i personaggi da rintracciare {@creature Krenko|KKW} perché sospetta il coinvolgimento di una o più gilde nella fuga del boss goblin ma non sa chi sia coinvolto.",
 						{
 							"type": "entries",
 							"name": "Roleplaying Nassius Ven",
@@ -165,21 +165,21 @@
 									"height": 888,
 									"credit": "Richard Wright"
 								},
-								"After receiving affirmative answers from the party, Nassius hands the characters a dossier from Sawtooth Prison with an image of a smug, tough-looking male goblin on it. Nassius offers up the following information, which can be conveyed through conversation with him:",
+								"Dopo aver ricevuto risposte affermative dal gruppo, Nassius consegna ai personaggi un dossier della Prigione di Sawtooth con sopra l'immagine di un goblin maschio compiaciuto e dall'aspetto duro. Nassius offre le seguenti informazioni, che possono essere trasmesse attraverso una conversazione con lui:",
 								{
 									"type": "list",
 									"items": [
-										"\"We have need of your particular skills to assist in the retrieval of a convict who got loose just before sunrise this morning. He escaped during his transfer to Udzec, a maximum-security prison where he would have spent the rest of his days.\"",
-										"\"His name is {@creature Krenko|KKW}. He's the boss of a large gang of goblins that operates around Foundry Street. He was apprehended to answer for a long list of crimes, including murder. He allegedly incited a riot that led to the deaths of a guard and two inmates at this prison a week ago. The warden decided enough was enough and put through his transfer.\"",
-										"\"{@creature Krenko|KKW} has made a lot of enemies, but the Shattergang Brothers are his biggest threat. They're a rival goblin gang specializing in illicit weapons, and they want {@creature Krenko|KKW} dead in reprisal for the murder of one of their lieutenants. The dead lieutenant also happens to be the youngest of the three siblings that run the gang. They'll tear apart the neighborhood to find him once they know he has escaped.\"",
-										"\"Normally, we'd let the Azorius deal with this situation, but we suspect that {@creature Krenko|KKW} might have had help from one of the other guilds when he escaped. We are enlisting others to investigate that connection, as it could point to a bigger problem.\"",
-										"\"We need you to track down {@creature Krenko|KKW} and bring him back alive. Then we can interrogate him and keep him off the streets for good.\"",
-										"\"I am prepared to give you ten zinos right now to cover any expenses you might incur during your investigation. Upon delivery of the criminal, you'll receive one hundred zinos and my gratitude, which I will convey to your guild leaders. Under no circumstances should you attempt to question {@creature Krenko|KKW} yourselves.\""
+										"\"Abbiamo bisogno delle vostre particolari capacità per assisterci nel recupero di un detenuto che si è liberato questa mattina poco prima dell'alba. È scappato durante il suo trasferimento a Udzec, un carcere di massima sicurezza dove avrebbe trascorso il resto dei suoi giorni.\"",
+										"\"Il suo nome è {@creature Krenko|KKW}. È il capo di una grande banda di goblin che opera intorno a Foundry Street. È stato arrestato per rispondere di una lunga lista di crimini, incluso l'omicidio. Presumibilmente ha incitato una rivolta che ha portato alla morte di una guardia e di due detenuti in questa prigione una settimana fa. Il direttore ha deciso che era troppo e ha disposto il suo trasferimento.\"",
+										"\"{@creature Krenko|KKW} si è fatto molti nemici, ma i Fratelli Shattergang sono la sua più grande minaccia. Sono una banda di goblin rivali specializzata in armi illecite e vogliono {@creature Krenko|KKW} morto come rappresaglia per l'omicidio di uno dei loro luogotenenti. Il luogotenente morto è anche il più giovane dei tre fratelli che gestiscono la banda. Faranno a pezzi il quartiere per trovarlo una volta che sapranno che è scappato.\"",
+										"\"Normalmente, lasceremmo che fossero gli Azorius a occuparsi di questa situazione, ma sospettiamo che {@creature Krenko|KKW} potrebbe aver ricevuto aiuto da una delle altre gilde quando è fuggito. Stiamo arruolando altri per indagare su questa connessione, poiché potrebbe indicare un problema più grande.\"",
+										"\"Abbiamo bisogno che tu rintracci {@creature Krenko|KKW} e lo riporti indietro vivo. Poi potremo interrogarlo e tenerlo lontano dalle strade per sempre.\"",
+										"\"Sono pronto a darti dieci zino adesso per coprire tutte le spese che potresti sostenere durante le tue indagini. Alla consegna del criminale, riceverai cento zino e la mia gratitudine, che trasmetterò ai capi della tua gilda. In nessun caso dovreste tentare di mettere in discussione {@creature Krenko|KKW} voi stessi.\""
 									]
 								},
-								"If he is asked, Nassius provides the guards' account of the circumstances of his escape (see \"{@creature Krenko|KKW}'s Patron\"). The guards have already been thoroughly questioned, and {@creature Krenko|KKW}'s trail has gone cold. Nassius is eager to get the characters started as soon as possible to prevent the Shattergang Brothers from learning of {@creature Krenko|KKW}'s escape.",
-								"Nassius asks the party to bring {@creature Krenko|KKW} to an old Selesnya granary that was damaged in a Gruul raid at the edge of the district. There, he'll take {@creature Krenko|KKW} into custody.",
-								"Nassius is evasive about any questions regarding why {@creature Krenko|KKW} shouldn't be interrogated or why the characters should bring him to the granary. His eyes dart back and forth when confronted with these sorts of questions. A character who succeeds on a {@dc 15} Wisdom ({@skill Insight}) check knows that Nassius isn't being completely forthright. Even if pressed, Nassius doesn't offer up any other information beyond the mission objectives."
+								"Se gli viene chiesto, Nassius fornisce il resoconto delle guardie sulle circostanze della sua fuga (vedi \"Il Patrono di {@creature Krenko|KKW}\"). Le guardie sono già state interrogate approfonditamente e le tracce di {@creature Krenko|KKW} si sono raffreddate. Nassius è ansioso di far iniziare i personaggi il prima possibile per impedire ai fratelli Shattergang di venire a conoscenza della fuga di {@creature Krenko|KKW}.",
+								"Nassius chiede al gruppo di portare {@creature Krenko|KKW} ad un vecchio granaio di Selesnya che è stato danneggiato durante un'incursione dei Gruul ai margini del distretto. Lì prenderà in custodia {@creature Krenko|KKW}.",
+								"Nassius è evasivo riguardo a qualsiasi domanda sul perché {@creature Krenko|KKW} non dovrebbe essere interrogato o sul perché i personaggi dovrebbero portarlo al granaio. I suoi occhi guizzano avanti e indietro quando si confrontano con questo tipo di domande. Un personaggio che supera una prova di Saggezza ({@skill Insight} {@dc 15} sa che Nassius non è del tutto schietto. Anche se pressato, Nassius non offre altre informazioni oltre agli obiettivi della missione."
 							]
 						}
 					]
@@ -190,14 +190,14 @@
 					"page": 163,
 					"id": "00b",
 					"entries": [
-						"Once Nassius has departed, the characters can get to work. They can conduct their investigation however they choose, but time is of the essence since eventually word on the street gets back to the Shattergang Brothers and they start another turf war to flush {@creature Krenko|KKW} out.",
+						"Una volta che Nassius se ne sarà andato, i personaggi potranno mettersi al lavoro. Possono condurre le indagini come preferiscono, ma il tempo è essenziale poiché alla fine la voce in strada torna agli Shattergang Brothers e iniziano un'altra guerra per il territorio per stanare {@creature Krenko|KKW}.",
 						{
 							"type": "entries",
 							"name": "Timeline of Events",
 							"page": 163,
 							"id": "00c",
 							"entries": [
-								"Here's a timeline of what has happened since {@creature Krenko|KKW} escaped and what happens in the future, absent interference. As soon as the adventurers get involved, events might change drastically, but the following timeline can still help you determine how the various NPCs involved in the story will react to the player characters' actions.",
+								"Ecco una cronologia di ciò che è accaduto da quando {@creature Krenko|KKW} è fuggito e cosa accadrà in futuro, in assenza di interferenze. Non appena gli avventurieri vengono coinvolti, gli eventi potrebbero cambiare drasticamente, ma la seguente sequenza temporale può comunque aiutarti a determinare come i vari NPC coinvolti nella storia reagiranno alle azioni dei personaggi giocanti.",
 								{
 									"type": "inset",
 									"id": "00d",
@@ -206,16 +206,16 @@
 											"type": "list",
 											"style": "list-hang-notitle",
 											"items": [
-												"{@b Early Morning, Day 1}: {@creature Krenko|KKW} escapes.",
-												"{@b Late Morning, Day 1}: {@creature Krenko|KKW} meets with his gang and prepares a disguise for himself.",
-												"{@b Noon, Day 1}: {@creature Krenko|KKW} and his gang secure an abandoned warehouse as a temporary hideout for the mob boss.",
-												"{@b Sunset, Day 1}: The adventurers receive the mission.",
-												"{@b Late Evening, Day 1}: {@creature Krenko|KKW} places a weapons order with Falish, a human arms dealer.",
-												"{@b Noon, Day 2}: Additional enforcers from {@creature Krenko|KKW}'s gang arrive at {@creature Krenko|KKW}'s hideout.",
-												"{@b Sunset, Day 2}: The Shattergang Brothers hear about {@creature Krenko|KKW}'s escape and mobilize to find him. Falish leaves a cache of weapons at a drop point on Foundry Street, and a goblin carries the weapons back to {@creature Krenko|KKW}'s hideout.",
-												"{@b Late Evening, Day 2}: Explosions rock Foundry Street as the Shattergang Brothers start violently coercing citizens who are known to have dealings with {@creature Krenko|KKW}. The Lyev Column (Azorius law enforcement) is dispatched to Foundry Street to investigate the disturbance.",
-												"{@b Predawn, Day 3}: The Shattergang Brothers find out {@creature Krenko|KKW}'s location, and a great explosion goes off there, leveling the building and killing many goblins ({@creature Krenko|KKW} survives).",
-												"{@b Noon, Day 3}: The Foundry Street vicinity is subject to terrible goblin gang violence. The Boros Legion is called in to pacify the area."
+												"{@b Early Morning, Day 1}: {@creature Krenko|KKW} fugge.",
+												"{@b Late Morning, Day 1}: {@creature Krenko|KKW} incontra la sua banda e prepara un travestimento.",
+												"{@b Noon, Day 1}: {@creature Krenko|KKW} e la sua banda mettono al sicuro un magazzino abbandonato come nascondiglio temporaneo per il boss mafioso.",
+												"{@b Sunset, Day 1}: Gli avventurieri ricevono la missione.",
+												"{@b Late Evening, Day 1}: {@creature Krenko|KKW} effettua un ordine di armi a Falish, un trafficante di armi umane.",
+												"{@b Noon, Day 2}: altri agenti della banda di {@creature Krenko|KKW} arrivano al nascondiglio di {@creature Krenko|KKW}.",
+												"{@b Sunset, Day 2}: I Fratelli Shattergang vengono a sapere della fuga di {@creature Krenko|KKW} e si mobilitano per trovarlo. Falish lascia un deposito di armi in un punto di consegna in Foundry Street e un goblin riporta le armi al nascondiglio di {@creature Krenko|KKW}.",
+												"{@b Late Evening, Day 2}: esplosioni sconvolgono Foundry Street mentre i fratelli Shattergang iniziano a costringere violentemente i cittadini che notoriamente hanno rapporti con {@creature Krenko|KKW}. La Colonna Lyev (forze dell'ordine Azorius) viene inviata a Foundry Street per indagare sul disturbo.",
+												"{@b Predawn, Day 3}: i fratelli Shattergang scoprono la posizione di {@creature Krenko|KKW} e lì avviene una grande esplosione, che livella l'edificio e uccide molti goblin ({@creature Krenko|KKW} sopravvive).",
+												"{@b Noon, Day 3}: I dintorni di Foundry Street sono soggetti a una terribile violenza da parte delle bande di goblin. La Legione Boros viene chiamata a pacificare l'area."
 											]
 										}
 									]
@@ -228,14 +228,14 @@
 							"page": 163,
 							"id": "00e",
 							"entries": [
-								"The adventurers can find the following information in the Sawtooth Prison dossier:",
+								"Gli avventurieri possono trovare le seguenti informazioni nel dossier della Prigione di Sawtooth:",
 								{
 									"type": "list",
 									"items": [
-										"{@creature Krenko|KKW} has been a goblin mob boss for several years. His turf was around Foundry Street. He has been a person of interest in numerous crimes befitting a mobster but managed to evade the law\u2014until recently.",
-										"{@creature Krenko|KKW} was brought into custody by Gideon Jura, a freelancer working with the Boros Legion at the time. {@creature Krenko|KKW} was found guilty of murdering Dargig, one of the Shattergang Brothers, and of assault with a deadly weapon against Gideon Jura.",
-										"The weapon on his person at the time of arrest was a magic shiv (a prison knife). Reportedly, it could punch through force barriers. It isn't known how {@creature Krenko|KKW} obtained the weapon.",
-										"{@creature Krenko|KKW}'s notable associates include the mysterious Mr. Taz (no other information provided) and a renegade Izzet weapons inventor named Falish (female human, seen around Tin Street). Both are also persons of interest to the Azorius."
+										"{@creature Krenko|KKW} è stato un boss della mafia goblin per diversi anni. Il suo territorio era intorno a Foundry Street. È stato interessato a numerosi crimini adatti a un mafioso, ma è riuscito a eludere la legge, fino a poco tempo fa.",
+										"{@creature Krenko|KKW} è stato arrestato da Gideon Jura, un libero professionista che all'epoca lavorava con la Legione Boros. {@creature Krenko|KKW} è stato giudicato colpevole dell'omicidio di Dargig, uno dei fratelli Shattergang, e di aggressione con un'arma mortale contro Gideon Jura.",
+										"L'arma che portava con sé al momento dell'arresto era un coltello magico (un coltello da prigione). Secondo quanto riferito, potrebbe perforare le barriere di forza. Non si sa come {@creature Krenko|KKW} abbia ottenuto l'arma.",
+										"I soci più importanti di {@creature Krenko|KKW} includono il misterioso signor Taz (nessuna altra informazione fornita) e un rinnegato inventore di armi Izzet di nome Falish (femmina umana, vista in Tin Street). Entrambi sono anche persone di interesse per gli Azorius."
 									]
 								}
 							]
@@ -246,14 +246,14 @@
 							"page": 163,
 							"id": "00f",
 							"entries": [
-								"The characters can take several approaches to investigating {@creature Krenko|KKW}'s whereabouts: meeting with contacts, sussing out rumors, or visiting important locations.",
+								"I personaggi possono adottare diversi approcci per indagare su dove si trova {@creature Krenko|KKW}: incontrare contatti, scoprire voci o visitare luoghi importanti.",
 								{
 									"type": "entries",
 									"name": "Meet with Contacts",
 									"page": 163,
 									"id": "010",
 									"entries": [
-										"If a character has an appropriate contact to press for information, they can reach out to that contact for assistance. It takes 1 hour to arrange a meeting with the contact and {@dice 1d6} hours for the contact to find one previously unknown piece of information, unless that contact would have the information on hand."
+										"Se un personaggio ha un contatto appropriato a cui chiedere informazioni, può rivolgersi a quel contatto per ricevere assistenza. È necessaria 1 ora per organizzare un incontro con il contatto e {@dice 1d6} ore affinché il contatto trovi un'informazione precedentemente sconosciuta, a meno che il contatto non abbia l'informazione a portata di mano."
 									]
 								},
 								{
@@ -262,17 +262,17 @@
 									"page": 163,
 									"id": "011",
 									"entries": [
-										"Characters can go to public gathering places to attempt to obtain information. After {@dice 1d6} hours, a character sifting through rumors makes a {@dc 15} Charisma ({@skill Persuasion}) check. On a success, they find out one previously unknown piece of information from among those given below:",
+										"I personaggi possono recarsi in luoghi di ritrovo pubblici per tentare di ottenere informazioni. Dopo {@dice 1d6} ore, un personaggio che vaglia le voci effettua una prova di {@dc 15} Carisma ({@skill Persuasion}). In caso di successo, scoprono un'informazione precedentemente sconosciuta tra quelle fornite di seguito:",
 										{
 											"type": "list",
 											"items": [
-												"{@creature Krenko|KKW}'s absence has hurt his gang's reputation. Other gangs have been encroaching on his territory, and it's only a matter of time before there's another power struggle played out in the streets.",
-												"Tin Street is a bustling center of trade and the territory of the Shattergang Brothers. They have become emboldened since {@creature Krenko|KKW} was put away and are readying for war to take out his gang once and for all.",
-												"Foundry Street is where you'll find manufacturing facilities for the Tenth District, and it's {@creature Krenko|KKW}'s gang's turf. His enforcers are still squabbling over who should lead. For now, they all have an uneasy truce with each other.",
-												"Some goblins were pulling up a sewer grate at a very early hour west of the plaza. They didn't look like maintenance workers and threatened anyone that came too close. The approximate location of this incident is obtained."
+												"L'assenza di {@creature Krenko|KKW} ha danneggiato la reputazione della sua banda. Altre bande hanno invaso il suo territorio, ed è solo questione di tempo prima che ci sia un'altra lotta per il potere nelle strade.",
+												"Tin Street è un vivace centro commerciale e il territorio dei Fratelli Shattergang. Si sono sentiti incoraggiati da quando {@creature Krenko|KKW} è stato messo dentro e si stanno preparando alla guerra per eliminare la sua banda una volta per tutte.",
+												"Foundry Street è il luogo in cui troverai gli impianti di produzione del Decimo Distretto ed è il territorio della banda di {@creature Krenko|KKW}. I suoi esecutori stanno ancora litigando su chi dovrebbe guidare. Per ora, hanno tutti una tregua difficile tra loro.",
+												"Alcuni goblin stavano sollevando una grata fognaria molto presto a ovest della piazza. Non sembravano addetti alla manutenzione e minacciavano chiunque si avvicinasse troppo. Si ottiene la posizione approssimativa di questo incidente."
 											]
 										},
-										"Three locations important to the adventure are mentioned in the information above: the sewers, Foundry Street, and Tin Street. Each site is described in detail below. The travel time (on foot) between any two of these locations is 30 minutes to 1 hour."
+										"Tre luoghi importanti per l'avventura sono menzionati nelle informazioni sopra: le fogne, Foundry Street e Tin Street. Ogni sito è descritto in dettaglio di seguito. Il tempo di viaggio (a piedi) tra due di questi luoghi va da 30 minuti a 1 ora."
 									]
 								}
 							]
@@ -283,26 +283,26 @@
 							"page": 164,
 							"id": "012",
 							"entries": [
-								"Characters heading west of the plaza on a tip they received earlier might look for a sewer grate that is out of place. It takes 1 hour and a successful {@dc 10} Wisdom ({@skill Perception}) check to find a grate with scrapes from a crowbar on it. Alternatively, the characters can interview residents in the area, in which case it takes half an hour and a successful {@dc 10} Charisma ({@skill Persuasion}) check to find the location of the grate.",
-								"The grate can be pulled up with a successful {@dc 15} Strength check. Once the grate is opened, read:",
+								"I personaggi che si dirigono a ovest della piazza sulla base di un suggerimento ricevuto in precedenza potrebbero cercare una grata fognaria fuori posto. È necessaria 1 ora e una prova riuscita di Saggezza {@dc 10} ({@skill Perception}) per trovare una grata con sopra i graffi di un piede di porco. In alternativa, i personaggi possono intervistare i residenti della zona, nel qual caso ci vuole mezz'ora e una prova riuscita di Carisma ({@skill Persuasion}) per trovare la posizione della grata.",
+								"La griglia può essere sollevata con una prova di Forza riuscita {@dc 15}. Una volta aperta la griglia leggere:",
 								{
 									"type": "insetReadaloud",
 									"id": "013",
 									"entries": [
-										"A circular maintenance shaft plunges down into the darkness. An iron ladder is bolted to one side of the shaft. The pungent smell of the sewers wafts up to your nose. A faint light is visible at the bottom, illuminating refuse-filled water."
+										"Un pozzo circolare di manutenzione precipita nell'oscurità. Una scala di ferro è imbullonata su un lato del pozzo. L'odore pungente delle fogne ti arriva fino al naso. Sul fondo è visibile una debole luce che illumina l'acqua piena di rifiuti."
 									]
 								},
-								"There is no light source in the shaft, which continues down 50 feet until it ends in a folding ladder with a dangling cord. When unfolded, the ladder reaches another 20 feet to the sewer tunnel floor. When the characters descend to the floor, read:",
+								"Non c'è alcuna fonte di luce nel pozzo, che prosegue giù per 50 piedi fino a terminare con una scala pieghevole con una corda penzolante. Una volta aperta, la scala raggiunge altri 20 piedi fino al pavimento del tunnel fognario. Quando i personaggi scendono a terra, leggi:",
 								{
 									"type": "insetReadaloud",
 									"id": "014",
 									"entries": [
-										"You stand shin-deep in sewer water, in a dimly lit tunnel. There's a raised walkway on either side that gets you out of the smelly, muck-filled water. Small lamps housing magical flames shed dim light. The walls are covered in moss and lichen."
+										"Ti trovi nell'acqua della fogna fino agli stinchi, in un tunnel poco illuminato. C'è una passerella rialzata su entrambi i lati che ti fa uscire dall'acqua puzzolente e piena di letame. Piccole lampade che ospitano fiamme magiche diffondono una luce fioca. Le pareti sono ricoperte di muschi e licheni."
 									]
 								},
-								"The tunnel is dimly lit by small {@spell continual flame} beacons positioned every 30 feet or so on alternating sides of the 20-foot-high tunnel. The sewer tunnel is 30 feet wide and continues in both directions. The tunnel has a raised walkway 5 feet wide and 5 feet tall along both sides. The main passage is flowing with 1-foot-deep water and smelly refuse.",
-								"{@creature Krenko|KKW} and three other goblins came this way, heading to his new hideout. The characters can spot signs of grimy boot prints made by Small creatures on one of the walkways by succeeding on a {@dc 10} Wisdom ({@skill Perception}) check. After finding the prints, they can continue to track them through the sewer tunnels by succeeding on a {@dc 15} Wisdom ({@skill Survival}) check. For every day since the goblins came through here, add 5 to the DC of the check. It takes 2 hours to navigate the twisting tunnels at normal walking speed. The tunnels are near Golgari territory, but above the undercity.",
-								"For each hour the party spends in the sewers, roll a {@dice d20}. On a 15 or higher, the party has an encounter determined by rolling on the Sewer Encounters table.",
+								"Il tunnel è debolmente illuminato da piccoli fari {@spell continual flame} posizionati ogni 30 piedi circa sui lati alternati del tunnel alto 20 piedi. Il tunnel fognario è largo 9 metri e prosegue in entrambe le direzioni. Il tunnel ha una passerella rialzata larga 1,5 metri e alta 1,5 metri lungo entrambi i lati. Nel passaggio principale scorre acqua profonda 30 centimetri e rifiuti maleodoranti.",
+								"{@creature Krenko|KKW} e altri tre goblin sono venuti da questa parte, diretti al suo nuovo nascondiglio. I personaggi possono individuare segni di impronte di stivali sporchi lasciate da creature Piccole su una delle passerelle superando una prova di Saggezza ({@skill Perception} {@dc 10}. Dopo aver trovato le impronte, possono continuare a seguirle attraverso i tunnel fognari superando una prova di Saggezza ({@skill Survival} {@dc 15}. Per ogni giorno da quando i goblin sono passati di qui, aggiungi 5 alla CD della prova. Ci vogliono 2 ore per percorrere i tunnel tortuosi a velocità normale. I tunnel sono vicino al territorio dei Golgari, ma sopra la città sotterranea.",
+								"Per ogni ora che il gruppo trascorre nelle fogne, tira un {@dice d20}. Con un risultato di 15 o più, il gruppo ha un incontro determinato tirando sulla tabella degli Incontri nelle Fogne.",
 								{
 									"type": "table",
 									"caption": "Sewer Encounters",
@@ -316,33 +316,33 @@
 									],
 									"rows": [
 										[
-											"1\u20134",
-											"{@dice 1d4} {@creature cultist||cultists} of Rakdos"
+											"1–4",
+											"{@dice 1d4} {@creature cultist||cultists} di Rakdos"
 										],
 										[
-											"5\u20139",
+											"5–9",
 											"{@dice 2d4} {@creature Giant Rat||giant rats}"
 										],
 										[
-											"10\u201311",
+											"10–11",
 											"1 {@creature gray ooze}"
 										],
 										[
-											"12\u201314",
+											"12–14",
 											"1 {@creature kraul warrior|GGR}"
 										],
 										[
-											"15\u201318",
+											"15–18",
 											"1 {@creature swarm of centipedes||swarm of insects (centipedes)}"
 										],
 										[
-											"19\u201320",
-											"{@dice 1d4} {@creature zombie||zombies} covered in fungus"
+											"19–20",
+											"{@dice 1d4} {@creature zombie||zombies} ricoperto di funghi"
 										]
 									]
 								},
-								"The tracks end at another maintenance shaft in the ceiling of the tunnel. A cord dangles down from the shaft; pulling on it releases a folding ladder that can easily be climbed. The shaft terminates in a grate, which can be pushed aside with a successful {@dc 15} Strength check.",
-								"The characters emerge in an alley beside an old warehouse on a canal dock near Foundry Street, in Precinct Six of the Tenth District. The tracks continue up to the warehouse."
+								"I binari terminano in un altro pozzo di manutenzione nel soffitto del tunnel. Una corda pende dall'asta; tirandolo si libera una scaletta pieghevole su cui si può salire facilmente. Il pozzo termina con una grata, che può essere spostata di lato con una prova di Forza {@dc 15} riuscita.",
+								"I personaggi emergono in un vicolo accanto a un vecchio magazzino su un molo del canale vicino a Foundry Street, nel sesto distretto del decimo distretto. I binari continuano fino al magazzino."
 							]
 						},
 						{
@@ -355,22 +355,22 @@
 									"type": "insetReadaloud",
 									"id": "016",
 									"entries": [
-										"This bustling market area is busy with the flow of merchants, entertainers, shoppers, and revelers. During daytime hours, Tin Street is a prime destination for shopping and dining. At night, theaters and taverns come alive."
+										"Questa vivace area del mercato è affollata dal flusso di mercanti, intrattenitori, acquirenti e festaioli. Durante le ore diurne, Tin Street è una destinazione privilegiata per lo shopping e i ristoranti. Di notte, i teatri e le taverne si animano."
 									]
 								},
-								"Tin Street is one of the two avenues that traverse the entire Tenth District (see {@book chapter 3|GGR|3|Major Trade Ways}). Where it passes through Precinct Six, the Shattergang Brothers have claimed much of it as their turf. They keep a keen eye out for Azorius arresters, rival gang members, and anyone who asks too many questions.",
-								"Tin Street is also the home of Falish, a renegade Izzet arms dealer who, for the right price, supplies criminals with weapons and explosives.",
+								"Tin Street è una delle due strade che attraversano l'intero Decimo Distretto (vedi {@book chapter 3|GGR|3|Major Trade Ways}). Nel punto in cui attraversa il sesto distretto, i fratelli Shattergang ne hanno rivendicato gran parte come loro territorio. Tengono gli occhi aperti contro gli arrestatori Azorius, i membri delle bande rivali e chiunque faccia troppe domande.",
+								"Tin Street è anche la casa di Falish, un rinnegato trafficante d'armi Izzet che, per il giusto prezzo, fornisce ai criminali armi ed esplosivi.",
 								{
 									"type": "entries",
 									"name": "Shattergang Eavesdropping",
 									"page": 164,
 									"id": "017",
 									"entries": [
-										"If a check to gather rumors fails by 5 or more, or the characters are otherwise indiscreet while investigating around Tin Street, word gets to the Shattergang Brothers that someone has been asking about {@creature Krenko|KKW}. They send an unremarkably dressed, beady-eyed {@creature goblin} named Erko to tail the characters (about 60 feet) and sneak up to eavesdrop on conversations. If a character's passive Wisdom ({@skill Perception}) score equals or exceeds the goblin's Dexterity ({@skill Stealth}) check, that character notices that they're being followed or observed.",
-										"If Erko notices the party has seen him, he tries to run away, back to one of his gang's hideouts. As he makes his way down the busy market of Tin Street, you can conduct this scene as a chase, using the chase rules and the Urban Chase Complications table in {@book chapter 8|DMG|8|Chase Complications} of the {@book Dungeon Master's Guide|DMG}.",
-										"In addition to his weapons, Erko carries a flask of alchemist's fire, which he hurls at the first creature that threatens him. See {@book chapter 5|PHB|5|Adventuring Gear} of the {@book Player's Handbook|PHB} for rules on using alchemist's fire.",
-										"If a character interrogates Erko and succeeds on a {@dc 10} Charisma ({@skill Intimidation}) check, the goblin reveals that he works for the Shattergang Brothers, and they have an interest in knowing what goes on in their turf. He doesn't reveal their hideout under any circumstances.",
-										"If Erko tails the adventurers long enough to discover {@creature Krenko|KKW}'s location, the Shattergang Brothers arrive at {@creature Krenko|KKW}'s hideout in force 2 hours later."
+										"Se un controllo per raccogliere voci fallisce di 5 o più, o se i personaggi sono altrimenti indiscreti mentre indagano in Tin Street, agli Shattergang Brothers arriva la voce che qualcuno ha chiesto informazioni {@creature Krenko|KKW}. Mandano un Erko vestito normalmente e con gli occhi piccoli {@creature goblin} a seguire i personaggi (a circa 60 piedi) e ad avvicinarsi di soppiatto per origliare le conversazioni. Se il punteggio passivo di Saggezza ({@skill Perception}) di un personaggio è pari o superiore alla prova di Destrezza ({@skill Stealth}) del goblin, quel personaggio si accorge di essere seguito o osservato.",
+										"Se Erko si accorge che il gruppo lo ha visto, cerca di scappare, tornando in uno dei nascondigli della sua banda. Mentre si fa strada lungo l'affollato mercato di Tin Street, puoi condurre questa scena come un inseguimento, utilizzando le regole dell'inseguimento e la tabella Complicazioni dell'inseguimento urbano in {@book chapter 8|DMG|8|Chase Complications} del {@book Dungeon Master's Guide|DMG}.",
+										"Oltre alle sue armi, Erko porta con sé un'ampolla di fuoco dell'alchimista, che scaglia contro la prima creatura che lo minaccia. Vedi {@book chapter 5|PHB|5|Adventuring Gear} del {@book Player's Handbook|PHB} per le regole sull'uso del fuoco dell'alchimista.",
+										"Se un personaggio interroga Erko e supera una prova di Carisma ({@skill Intimidation} {@dc 10}, il goblin rivela che lavora per i Fratelli Shattergang e loro sono interessati a sapere cosa succede nel loro territorio. Non rivela in nessun caso il loro nascondiglio.",
+										"Se Erko segue gli avventurieri abbastanza a lungo da scoprire la posizione di {@creature Krenko|KKW}, i fratelli Shattergang arrivano in forze al nascondiglio di {@creature Krenko|KKW} 2 ore dopo."
 									]
 								},
 								{
@@ -389,14 +389,14 @@
 											"height": 1024,
 											"credit": "Noah Bradley"
 										},
-										"The renegade Izzet arms dealer Falish lives and works on Tin Street. Characters can ask around the neighborhood to discover the location of her secret shop, but the information doesn't come easy.",
+										"Il rinnegato trafficante d'armi Izzet Falish vive e lavora in Tin Street. I personaggi possono chiedere in giro per il quartiere per scoprire l'ubicazione del suo negozio segreto, ma l'informazione non è facile.",
 										{
 											"type": "entries",
 											"name": "Taverns",
 											"page": 165,
 											"id": "019",
 											"entries": [
-												"Falish is a regular at the Millstone, a seedy tavern that caters to the rough and rowdy. The tavern's owner and barkeep is Wyroon, a male minotaur with a cracked horn and a surly disposition. He was drummed out of the Boros Legion for insubordination a few years ago. His starting attitude is indifferent, but if a character succeeds on a {@dc 10} Charisma ({@skill Persuasion}) check, he'll tell the characters that Falish comes down some nights for a drink or two. Falish stops by early in the evening of Day 2, without her flamethrower."
+												"Falish è un frequentatore abituale della Millstone, una squallida taverna che si rivolge ai rudi e turbolenti. Il proprietario e barista della taverna è Wyroon, un minotauro maschio con un corno rotto e un carattere scontroso. È stato espulso dalla Legione Boros per insubordinazione qualche anno fa. Il suo atteggiamento iniziale è indifferente, ma se un personaggio riesce in una prova di {@dc 10} Carisma ({@skill Persuasion}), dirà ai personaggi che Falish viene giù alcune sere per un drink o due. Falish si ferma la sera presto del secondo giorno, senza il suo lanciafiamme."
 											]
 										},
 										{
@@ -405,7 +405,7 @@
 											"page": 165,
 											"id": "01a",
 											"entries": [
-												"Very few merchants on Tin Street know Falish, except for a female goblin alchemist named Noggra, who runs an apothecary shop called Noggra's Remedies. Noggra often patches up injured gang members after their scuffles, and occasionally hides them from the law. She sometimes sells Falish alchemical substances to enhance her weapons. Her starting attitude toward the party is indifferent. If a character asks her about Falish and succeeds on a {@dc 20} Charisma ({@skill Intimidation} or {@skill Persuasion}) check, she gives up Falish's location. A character who offers Noggra 10 gp or more makes this check with advantage."
+												"Pochissimi commercianti in Tin Street conoscono Falish, ad eccezione di un'alchimista goblin di nome Noggra, che gestisce un negozio di farmacia chiamato Noggra's Remedies. Noggra spesso cura i membri delle bande feriti dopo i loro tafferugli e occasionalmente li nasconde alla legge. A volte vende sostanze alchemiche falish per potenziare le sue armi. Il suo atteggiamento iniziale nei confronti del partito è indifferente. Se un personaggio le chiede di Falish e riesce in una prova di {@dc 20} Carisma ({@skill Intimidation} o {@skill Persuasion}), rivela la posizione di Falish. Un personaggio che offre a Noggra 10 mo o più effettua questa prova con vantaggio."
 											]
 										},
 										{
@@ -414,7 +414,7 @@
 											"page": 165,
 											"id": "01b",
 											"entries": [
-												"Characters can simply ask around the neighborhood to try to find Falish. If so, use the rules for gathering rumors under \"Hitting the Streets.\""
+												"I personaggi possono semplicemente chiedere in giro per il quartiere per cercare di trovare Falish. Se è così, usa le regole per raccogliere voci nella sezione \"Colpire le strade\"."
 											]
 										}
 									]
@@ -425,40 +425,40 @@
 									"page": 165,
 									"id": "01c",
 									"entries": [
-										"Once the characters determine Falish's location and travel there, read:",
+										"Una volta che i personaggi determinano la posizione di Falish e si recano lì, leggi:",
 										{
 											"type": "insetReadaloud",
 											"id": "01d",
 											"entries": [
-												"Following the directions to Falish's shop, you find yourself in an alley behind a restaurant. Near the back door to the establishment is a smaller, padlocked iron door that looks as if it came from a vault."
+												"Seguendo le indicazioni per il negozio di Falish, vi troverete in un vicolo dietro un ristorante. Vicino alla porta sul retro dello stabilimento c'è una porta di ferro più piccola, chiusa con un lucchetto, che sembra provenire da un caveau."
 											]
 										},
-										"The door has a padlock that requires a successful {@dc 15} Dexterity check to pick with thieves' tools, or a successful {@dc 20} Strength check to force open. Once it is open, read:",
+										"La porta ha un lucchetto che richiede una prova di Destrezza riuscita {@dc 15} per scassinare con gli strumenti da ladro, o una prova di Forza riuscita {@dc 20} per forzare l'apertura. Una volta aperto, leggi:",
 										{
 											"type": "insetReadaloud",
 											"id": "01e",
 											"entries": [
-												"Beyond the door, you see a narrow staircase that leads twenty feet down to a green-tinged copper door, with a closed sliding peephole in its center."
+												"Oltre la porta, vedi una stretta scala che scende per sei metri fino a una porta di rame sfumata di verde, con uno spioncino scorrevole chiuso al centro."
 											]
 										},
-										"This copper door is locked and requires a successful {@dc 15} Dexterity check with thieves' tools to open. It can also be forced open with a successful {@dc 20} Strength check. The door is trapped with a {@spell glyph of warding} spell that triggers when a character attempts to pick the lock or force open the door. The triggered glyph casts {@spell sleep} at 3rd level, affecting {@dice 9d8} hit points of creatures. A character who searches the door for traps can detect the glyph with a successful {@dc 15} Intelligence ({@skill Investigation}) check.",
-										"When the characters enter the room, read:",
+										"Questa porta di rame è chiusa a chiave e richiede una prova di Destrezza riuscita {@dc 15} con gli strumenti da ladro per essere aperta. Può anche essere forzato con una prova di Forza riuscita {@dc 20}. La porta è intrappolata con un incantesimo {@spell glyph of warding} che si attiva quando un personaggio tenta di scassinare la serratura o di forzare la porta. Il glifo attivato viene lanciato {@spell sleep} al 3° livello, influenzando {@dice 9d8} i punti ferita delle creature. Un personaggio che cerca trappole nella porta può rilevare il glifo con una prova riuscita di {@dc 15} Intelligenza ({@skill Investigation}).",
+										"Quando i personaggi entrano nella stanza, leggi:",
 										{
 											"type": "insetReadaloud",
 											"id": "01f",
 											"entries": [
-												"The flickering glow of lanterns reveals a haphazard room that is thirty feet long and twenty feet wide, packed with equipment, tools, and materials. Hanging from the wall are all manner of weapons. Boxes and small crates are stuffed under tables that overflow with flasks. A workbench is piled high with tools. There's a small living area with a bed and a large iron stove in the back of the room."
+												"Il bagliore tremolante delle lanterne rivela una stanza casuale lunga nove metri e larga sei, piena di attrezzature, strumenti e materiali. Appese al muro ci sono armi di ogni genere. Scatole e cassette sono stipate sotto tavoli traboccanti di fiaschi. Un banco da lavoro è colmo di strumenti. C'è una piccola zona soggiorno con un letto e una grande stufa in ferro sul retro della stanza."
 											]
 										},
-										"This room serves as a laboratory, showroom, and living quarters for Falish, a human {@creature scorchbringer guard|GGR}. She deals in alchemically treated weapons and explosives. A renegade who was expelled from the Izzet League, Falish maintains contacts within the guild, who provide her with the materials she uses to upgrade weapons. She sells her wares to many of the gangs in the Tenth District.",
-										"If characters trigger the glyph trap on the door, Falish grabs her gear and heads out through a secret door in the back of her living quarters as quickly as possible, closing the door behind her. The secret door opens into a tunnel that leads down into the sewers. When closed, the secret door can be found with a successful {@dc 15} Wisdom ({@skill Perception}) check.",
-										"If the characters surprise Falish or manage to sneak in, she realizes she has no quick escape and is willing to cooperate to a certain extent to get the characters out of her home. In exchange for freedom, she reveals the following information:",
+										"Questa stanza funge da laboratorio, showroom e alloggio per Falish, un essere umano {@creature scorchbringer guard|GGR}. Si occupa di armi ed esplosivi trattati alchemicamente. Rinnegato espulso dalla Lega Izzet, Falish mantiene contatti all'interno della gilda, che le forniscono i materiali che usa per potenziare le armi. Vende la sua merce a molte bande del Decimo Distretto.",
+										"Se i personaggi attivano la trappola del glifo sulla porta, Falish afferra la sua attrezzatura e esce attraverso una porta segreta sul retro del suo alloggio il più rapidamente possibile, chiudendo la porta dietro di sé. La porta segreta si apre in un tunnel che conduce alle fogne. Quando è chiusa, la porta segreta può essere trovata con una prova riuscita di {@dc 15} Saggezza ({@skill Perception}).",
+										"Se i personaggi sorprendono Falish o riescono a intrufolarsi, lei si rende conto di non avere una via di fuga rapida ed è disposta a collaborare fino a un certo punto per far uscire i personaggi da casa sua. In cambio della libertà, rivela le seguenti informazioni:",
 										{
 											"type": "list",
 											"items": [
-												"{@creature Krenko|KKW} contacted her to deliver some weapons, explosives, and any magic items she had to a drop point on Foundry Street, outside the Smokehouse Inn. She's supposed to make the drop at sunset on the day after {@creature Krenko|KKW}'s escape.",
-												"{@creature Krenko|KKW} is planning on using the weapons to launch a preemptive attack on the Shattergang Brothers to reassert that he's back in power.",
-												"{@creature Krenko|KKW} is probably hiding somewhere near the drop point. Falish knows that {@creature Krenko|KKW} and his rescuers were spotted entering a sewer grate west of the plaza."
+												"{@creature Krenko|KKW} l'ha contattata per consegnarle alcune armi, esplosivi e tutti gli oggetti magici che aveva in un punto di raccolta in Foundry Street, fuori dalla Smokehouse Inn. Dovrebbe effettuare la consegna al tramonto del giorno successivo alla fuga di {@creature Krenko|KKW}.",
+												"{@creature Krenko|KKW} sta pianificando di usare le armi per lanciare un attacco preventivo contro i Fratelli Shattergang per riaffermare che è tornato al potere.",
+												"{@creature Krenko|KKW} probabilmente si nasconde da qualche parte vicino al punto di rilascio. Falish sa che {@creature Krenko|KKW} e i suoi soccorritori sono stati avvistati mentre entravano in una grata fognaria a ovest della piazza."
 											]
 										},
 										{
@@ -467,7 +467,7 @@
 											"page": 166,
 											"id": "020",
 											"entries": [
-												"Falish has one of each weapon in the {@book Player's Handbook|PHB} with a price of no more than 25 gp hanging from the walls of her quarters. On her work tables are three flasks of alchemist's fire, one vial of acid, alchemist's supplies, tinker's tools, a set of thieves' tools, and most of the components needed to assemble two bombs. Under one of the tables is a small, locked strongbox requiring thieves' tools and a successful {@dc 15} Dexterity check to open. Inside the strongbox are 200 zinos (gp), 3 strips of mizzium (a durable magical metal), and an {@item eversmoking bottle}."
+												"Falish ha un'arma di ogni arma nel {@book Player's Handbook|PHB} con un prezzo non superiore a 25 mo appesa alle pareti dei suoi alloggi. Sul suo tavolo da lavoro ci sono tre ampolle di fuoco dell'alchimista, una fiala di acido, provviste da alchimista, strumenti da armeggiatore, un set di strumenti da ladro e la maggior parte dei componenti necessari per assemblare due bombe. Sotto uno dei tavoli c'è una piccola cassaforte chiusa a chiave che richiede strumenti da ladro e una prova di Destrezza riuscita {@dc 15} per essere aperta. All'interno della cassaforte ci sono 200 zino (mo), 3 strisce di mizzium (un metallo magico durevole) e un {@item eversmoking bottle}."
 											]
 										}
 									]
@@ -480,7 +480,7 @@
 							"page": 166,
 							"id": "021",
 							"entries": [
-								"Foundry Street is where a lot of the manufacturing happens in the Tenth District. Workers toil day and night to make goods that Ravnicans buy in the market, and to supply the Boros Legion with armor and weapons.",
+								"Foundry Street è il luogo in cui avviene gran parte della produzione nel Decimo Distretto. I lavoratori lavorano giorno e notte per produrre i beni che i Ravnicani acquistano al mercato e per fornire armature e armi alla Legione Boros.",
 								{
 									"type": "image",
 									"href": {
@@ -491,16 +491,16 @@
 									"height": 735,
 									"credit": "Kirsten Zirngibl"
 								},
-								"Goblins are common in this part of the city, and it is {@creature Krenko|KKW}'s gang's turf. Most of the gang members now know that {@creature Krenko|KKW} has escaped, and the bickering between his enforcers has subsided with {@creature Krenko|KKW} back on the streets.",
-								"Most of the folk who live around Foundry Street know to report any Azorius presence or nosy outsiders to a goblin gang member that serves as the block captain. If the characters conduct their investigation here, {@creature Krenko|KKW}'s gang learns about it within half an hour and sends out a crew to deal with the situation.",
+								"I goblin sono comuni in questa parte della città ed è il territorio della banda di {@creature Krenko|KKW}. La maggior parte dei membri della banda ora sa che {@creature Krenko|KKW} è scappato e i litigi tra i suoi agenti si sono calmati con {@creature Krenko|KKW} di nuovo in strada.",
+								"La maggior parte delle persone che vivono intorno a Foundry Street sanno che è necessario segnalare qualsiasi presenza di Azorius o estranei ficcanaso a un membro della banda di goblin che funge da capitano dell'isolato. Se i personaggi conducono qui le loro indagini, la banda di {@creature Krenko|KKW} lo viene a sapere entro mezz'ora e invia una squadra per affrontare la situazione.",
 								{
 									"type": "entries",
 									"name": "Welcoming Party",
 									"page": 166,
 									"id": "022",
 									"entries": [
-										"{@creature Krenko|KKW}'s goblin gang approaches the characters. Their starting attitude is hostile, and they hurl insults and try to get the characters to leave their turf. If the adventurers don't comply, the goblins fight them. If more than half the goblins are defeated, the remaining gang members try to escape.",
-										"The gang that approaches the groups consists of six {@creature Goblin gang member|kkw|goblin gang members}. A character who interrogates a captured goblin and succeeds on a {@dc 20} Charisma ({@skill Intimidation}) check learns {@creature Krenko|KKW}'s location. Alternatively, a character who offers the goblins a bribe of 10 gp or more and succeeds on a {@dc 20} Charisma ({@skill Persuasion}) check can get the same information."
+										"La banda di goblin di {@creature Krenko|KKW} si avvicina ai personaggi. Il loro atteggiamento iniziale è ostile e lanciano insulti e cercano di convincere i personaggi a lasciare il loro territorio. Se gli avventurieri non obbediscono, i goblin li combattono. Se più della metà dei goblin vengono sconfitti, i restanti membri della banda tentano di scappare.",
+										"La gang che si avvicina ai gruppi è composta da sei {@creature Goblin gang member|kkw|goblin gang members}. Un personaggio che interroga un goblin catturato e supera una prova di Carisma {@dc 20} {@skill Intimidation} apprende la posizione di {@creature Krenko|KKW}. In alternativa, un personaggio che offre ai goblin una mazzetta di 10 mo o più e supera una prova di Carisma {@dc 20} ({@skill Persuasion}) può ottenere le stesse informazioni."
 									]
 								},
 								{
@@ -509,8 +509,8 @@
 									"page": 166,
 									"id": "023",
 									"entries": [
-										"Late in the evening on Day 2, the Shattergang Brothers blow up three of {@creature Krenko|KKW}'s safe houses along Foundry Street. The explosions attract the Azorius Senate, which sends twenty {@creature soldier|GGR|soldiers} to secure the area and question bystanders.",
-										"Characters who are causing trouble with the locals around Foundry Street during this time might be detained at the Foundry Street arrester station for questioning. Characters are detained for {@dice 1d4} hours unless one of them succeeds on a {@dc 20} Charisma ({@skill Persuasion}) check, which shortens the time to 10 minutes."
+										"Nella tarda serata del secondo giorno, i Fratelli Shattergang fanno saltare in aria tre dei rifugi di {@creature Krenko|KKW} lungo Foundry Street. Le esplosioni attirano il Senato Azorius, che ne invia venti {@creature soldier|GGR|soldiers} per mettere in sicurezza l'area e interrogare i passanti.",
+										"I personaggi che causano problemi con la gente del posto intorno a Foundry Street durante questo periodo potrebbero essere trattenuti presso la stazione di arresto di Foundry Street per essere interrogati. I personaggi vengono trattenuti per {@dice 1d4} ore a meno che uno di loro non superi una prova di {@dc 20} Carisma ({@skill Persuasion}), che riduce il tempo a 10 minuti."
 									]
 								}
 							]
@@ -523,23 +523,23 @@
 					"page": 167,
 					"id": "024",
 					"entries": [
-						"The characters can locate {@creature Krenko|KKW}'s hideout either by interrogating members of his gang, following the tracks from the sewer, or following a goblin back from the drop point where Falish leaves {@creature Krenko|KKW}'s weapons. Once they have found the warehouse, read:",
+						"I personaggi possono individuare il nascondiglio di {@creature Krenko|KKW} interrogando i membri della sua banda, seguendo le tracce lasciate nelle fogne o seguendo un goblin dal punto di raccolta dove Falish lascia le armi di {@creature Krenko|KKW}. Una volta trovato il magazzino, leggi:",
 						{
 							"type": "insetReadaloud",
 							"id": "025",
 							"entries": [
-								"A large, soot-stained wooden building with a faded symbol of the Boros Legion sits at the edge of a canal, its timbers cracked and singed. A closed bay door faces north toward the water, and a wooden track runs from the building all the way to the edge of a pier. A similar bay door faces south toward the main street. On the alley sides of the building are two doors\u2014a double door on the west side, and a single door on the east side."
+								"Un grande edificio di legno macchiato di fuliggine con un simbolo sbiadito della Legione Boros si trova sul bordo di un canale, le sue travi screpolate e bruciacchiate. Una porta chiusa è rivolta a nord, verso l'acqua, e una pista di legno corre dall'edificio fino al bordo di un molo. Una porta simile è rivolta a sud verso la strada principale. Ai lati del vicolo dell'edificio ci sono due porte: una doppia sul lato ovest e una porta singola sul lato est."
 							]
 						},
-						"This old warehouse used to store equipment finished from the nearby foundries for the Boros Legion's use. It was badly burned in a gang war a few years ago and has since been abandoned by the Boros. {@creature Krenko|KKW}'s gang has used it occasionally as a secret meeting spot, and now {@creature Krenko|KKW} is using it as his hideout.",
-						"The warehouse is 40 feet tall, 60 feet wide, and 120 feet long. It has no windows, but the outer walls are brittle and fire-damaged; a number of small holes, 1 or 2 feet in diameter, have opened up in various places. Dealing 5 damage to a section of the wall creates an opening that a Medium or smaller creature can walk through.",
+						"Questo vecchio magazzino veniva utilizzato per immagazzinare l'equipaggiamento finito dalle vicine fonderie ad uso della Legione Boros. È stato gravemente bruciato durante una guerra tra bande qualche anno fa e da allora è stato abbandonato dai Boros. La banda di {@creature Krenko|KKW} lo ha usato occasionalmente come punto d'incontro segreto e ora {@creature Krenko|KKW} lo usa come nascondiglio.",
+						"Il magazzino è alto 40 piedi, largo 60 piedi e lungo 120 piedi. Non ha finestre, ma i muri esterni sono fragili e danneggiati dal fuoco; in vari punti si sono aperti numerosi piccoli fori, del diametro di 1 o 2 piedi. Infliggere 5 danni a una sezione del muro crea un'apertura attraverso la quale una creatura di taglia Media o inferiore può attraversare.",
 						{
 							"type": "entries",
 							"name": "Krenko's Gang",
 							"page": 167,
 							"id": "026",
 							"entries": [
-								"All members of {@creature Krenko|KKW}'s gang are {@creature Goblin gang member|kkw|goblin gang members}. Each goblin carries a whistle (worn on a rope around its neck), which it can blow as an action to sound the alarm. A goblin might carry another item it obtained elsewhere, employing it in combat if an opportunity presents itself. You can roll or choose from the items on the Goblin Gang Possessions table. More information on these items can be found in {@book chapter 5|PHB|5|Adventuring Gear} of the {@book Player's Handbook|PHB}.",
+								"Tutti i membri della banda di {@creature Krenko|KKW} sono {@creature Goblin gang member|kkw|goblin gang members}. Ogni goblin porta un fischietto (indossato su una corda attorno al collo), che può suonare come azione per suonare l'allarme. Un goblin potrebbe portare con sé un altro oggetto ottenuto altrove, impiegandolo in combattimento se si presenta l'opportunità. Puoi tirare o scegliere tra gli oggetti sulla tabella Possedimenti della Gang di Goblin. Maggiori informazioni su questi elementi possono essere trovate in {@book chapter 5|PHB|5|Adventuring Gear} del {@book Player's Handbook|PHB}.",
 								{
 									"type": "table",
 									"caption": "Goblin Gang Possessions",
@@ -553,28 +553,28 @@
 									],
 									"rows": [
 										[
-											"1\u201310",
-											"No additional item"
+											"1–10",
+											"Nessun elemento aggiuntivo"
 										],
 										[
-											"11\u201312",
-											"Vial of acid"
+											"11–12",
+											"Fiala di acido"
 										],
 										[
-											"13\u201314",
-											"Flask of alchemist's fire"
+											"13–14",
+											"Fiala di fuoco dell'alchimista"
 										],
 										[
-											"15\u201316",
-											"Ball bearings"
+											"15–16",
+											"Cuscinetti a sfera"
 										],
 										[
-											"17\u201318",
-											"Caltrops"
+											"17–18",
+											"Triboli"
 										],
 										[
-											"19\u201320",
-											"Vial of basic poison"
+											"19–20",
+											"Fiala di veleno base"
 										]
 									]
 								}
@@ -586,15 +586,15 @@
 							"page": 167,
 							"id": "027",
 							"entries": [
-								"A {@creature goblin gang member|kkw} is posted outside each door. If a guard sees one or more characters approaching the warehouse, it signals the other guards by blowing a whistle around its neck. It remains vigilant but doesn't signal the others if the characters are visible on the street but don't make their way to the warehouse. The goblins don't use a light source at night, relying on their {@sense darkvision}.",
-								"Characters might take the time to observe the lookouts from afar. The rooftops of nearby buildings make excellent vantage points. The buildings across the main street are 50 feet away; those in the alleys are 20 feet away.",
+								"Un {@creature goblin gang member|kkw} è affisso fuori da ogni porta. Se una guardia vede uno o più personaggi avvicinarsi al magazzino, segnala alle altre guardie fischiando al collo. Resta vigile ma non segnala agli altri se i personaggi sono visibili per strada ma non si dirigono verso il magazzino. I goblin non usano una fonte di luce di notte, contando sulla loro {@sense darkvision}.",
+								"I personaggi potrebbero prendersi il tempo di osservare le vedette da lontano. I tetti degli edifici vicini costituiscono ottimi punti panoramici. Gli edifici dall'altra parte della strada principale sono a 50 piedi di distanza; quelli nei vicoli sono a 20 piedi di distanza.",
 								{
 									"type": "entries",
 									"name": "Changing of the Guard",
 									"page": 167,
 									"id": "028",
 									"entries": [
-										"Every 4 hours, new goblins from {@creature Krenko|KKW}'s gang arrive to relieve the lookouts. During this time, they're usually distracted as they chat among themselves for {@dice 1d10} minutes. While they're distracted, characters have advantage on any Dexterity ({@skill Stealth}) checks to hide or move quietly in the area."
+										"Ogni 4 ore, nuovi goblin della banda di {@creature Krenko|KKW} arrivano per dare il cambio alle vedette. Durante questo periodo, di solito sono distratti mentre chiacchierano tra loro per {@dice 1d10} minuti. Mentre sono distratti, i personaggi hanno vantaggio su qualsiasi prova di Destrezza ({@skill Stealth}) per nascondersi o muoversi silenziosamente nell'area."
 									]
 								}
 							]
@@ -605,7 +605,7 @@
 							"page": 167,
 							"id": "029",
 							"entries": [
-								"At noon on the second day, four more goblins arrive. Two position themselves inside on the catwalk, and two walk the warehouse floor."
+								"A mezzogiorno del secondo giorno arrivano altri quattro goblin. Due si posizionano all'interno sulla passerella e due camminano sul pavimento del magazzino."
 							]
 						},
 						{
@@ -614,9 +614,9 @@
 							"page": 167,
 							"id": "02a",
 							"entries": [
-								"In the small hours of the third day, the Shattergang Brothers finally manage to discover {@creature Krenko|KKW}'s whereabouts and send a team of ten {@creature goblin||goblins} to toss bombs at the warehouse and its occupants.",
-								"In addition to their normal gear, these goblins each carry one bomb. As an action, a goblin can light a bomb and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must succeed on a {@dc 12} Dexterity saving throw or take 10 ({@dice 3d6}) fire damage.",
-								"Any survivors of {@creature Krenko|KKW}'s gang flee the warehouse and scatter into the city after this assault."
+								"Nelle prime ore del terzo giorno, i fratelli Shattergang riescono finalmente a scoprire dove si trova {@creature Krenko|KKW} e inviano una squadra di dieci persone {@creature goblin||goblins} a lanciare bombe contro il magazzino e i suoi occupanti.",
+								"Oltre al loro normale equipaggiamento, questi goblin trasportano ciascuno una bomba. Come azione, un goblin può accendere una bomba e lanciarla in un punto fino a 18 metri di distanza. Ogni creatura entro 1,5 metri da quel punto deve riuscire un tiro salvezza di Destrezza {@dc 12} o subire 10 ({@dice 3d6}) danni da fuoco.",
+								"Tutti i sopravvissuti della banda di {@creature Krenko|KKW} fuggono dal magazzino e si disperdono in città dopo l'assalto."
 							]
 						}
 					]
@@ -627,7 +627,7 @@
 					"page": 168,
 					"id": "02b",
 					"entries": [
-						"The following locations are keyed to map 4.11, which shows the interior of the warehouse.",
+						"Le seguenti posizioni sono collegate alla mappa 4.11, che mostra l'interno del magazzino.",
 						{
 							"type": "image",
 							"href": {
@@ -654,22 +654,22 @@
 							"page": 168,
 							"id": "02c",
 							"entries": [
-								"This room is unlit. If the characters have {@sense darkvision} or a light source, describe the room as follows:",
+								"Questa stanza non è illuminata. Se i personaggi hanno {@sense darkvision} o una fonte di luce, descrivi la stanza come segue:",
 								{
 									"type": "insetReadaloud",
 									"id": "02d",
 									"entries": [
-										"This room is twenty feet square and has a ten-foot-high ceiling. It appears to be an office and makeshift living quarters. A heavy wooden table stands in the center of the room, ringed by six chairs. Under it is an iron box. To the south is a cot covered in blankets. Beside it is a sack full of clothes and the remains of several meals served on fine dinnerware. A door sits in the middle of the wall to the east, with a large window beside it offering a view of the warehouse beyond."
+										"Questa stanza è di venti piedi quadrati e ha un soffitto alto dieci piedi. Sembra essere un ufficio e un alloggio di fortuna. Al centro della stanza si trova un pesante tavolo di legno, circondato da sei sedie. Sotto c'è una scatola di ferro. A sud c'è un lettino coperto di coperte. Accanto c'è un sacco pieno di vestiti e resti di diversi pasti serviti su raffinate stoviglie. Una porta si trova al centro del muro a est, con una grande finestra accanto ad essa che offre una vista del magazzino oltre."
 									]
 								},
-								"{@b Krenko} (see below) is holed up here\u2014with two {@creature Goblin Boss||goblin bosses} that serve as his enforcers\u2014planning a preemptive strike on the Shattergang Brothers. In addition to his weapons, {@creature Krenko|KKW} carries a vial of acid, a flask of alchemist's fire, a bag of caltrops, a vial of basic poison, and the key to the iron strongbox (see \"Treasure\" below).",
+								"{@b Krenko} (vedi sotto) è rintanato qui, con due {@creature Goblin Boss||goblin bosses} che gli fanno da esecutori, e pianifica un attacco preventivo contro i Fratelli Shattergang. Oltre alle sue armi, {@creature Krenko|KKW} trasporta una fiala di acido, un'ampolla di fuoco dell'alchimista, un sacchetto di triboli, una fiala di veleno basico e la chiave della cassaforte di ferro (vedi \"Tesoro\" di seguito).",
 								{
 									"type": "entries",
 									"name": "Treasure",
 									"page": 168,
 									"id": "02e",
 									"entries": [
-										"The iron strongbox under a desk contains funds {@creature Krenko|KKW} was gathering to pay off Falish. It is locked and can be opened with the key in {@creature Krenko|KKW}'s possession, or with thieves' tools and a successful {@dc 15} Dexterity check. Inside the box are 350 zinos (gp), two gold rings inset with small rubies (worth 50 gp each), and a {@i potion of giant strength} (hill)."
+										"La cassaforte di ferro sotto una scrivania contiene i fondi che {@creature Krenko|KKW} stavano raccogliendo per ripagare Falish. È chiuso a chiave e può essere aperto con la chiave in possesso di {@creature Krenko|KKW} o con gli strumenti da ladro e una prova di Destrezza riuscita {@dc 15}. All'interno della scatola ci sono 350 zino (mo), due anelli d'oro con incastonati piccoli rubini (del valore di 50 mo ciascuno) e una {@i potion of giant strength} (collina)."
 									]
 								}
 							]
@@ -680,16 +680,16 @@
 							"page": 168,
 							"id": "02f",
 							"entries": [
-								"A 3-foot-wide wooden catwalk is attached to the inside walls of the warehouse 20 feet above the floor. A creaky, charred, narrow, wrap-around wooden staircase near the center of the east wall leads up to it.",
-								"Two {@creature Goblin gang member|kkw|goblin gang members} patrol the catwalk at all times, rotating in a similar way to the lookouts outside.",
+								"Una passerella di legno larga 90 cm è fissata alle pareti interne del magazzino a 6 metri dal pavimento. Una scala di legno scricchiolante, carbonizzata, stretta e avvolgente vicino al centro del muro est conduce ad essa.",
+								"Due {@creature Goblin gang member|kkw|goblin gang members} pattugliano costantemente la passerella, ruotando in modo simile alle vedette all'esterno.",
 								{
 									"type": "entries",
 									"name": "Weakened Staircase",
 									"page": 168,
 									"id": "030",
 									"entries": [
-										"One of the steps of the catwalk staircase is ready to collapse. This fragile board is located 10 feet off the ground and can be spotted by anyone on the stairs who has a passive Wisdom ({@skill Perception}) score of 13 or higher. A creature that weighs more than 100 pounds that steps on the board must succeed on a {@dc 10} Dexterity saving throw or fall 10 feet to the ground below. The gap that the collapsing board creates can be easily avoided by other creatures walking up the stairs.",
-										"If one side of the catwalk takes 10 or more damage, that side collapses. Creatures on the walkway when this happens fall 20 feet to the warehouse floor below."
+										"Uno dei gradini della scalinata della passerella è pronto a crollare. Questa fragile tavola si trova a 3 metri da terra e può essere individuata da chiunque sulle scale abbia un punteggio passivo di Saggezza ({@skill Perception}) pari a 13 o superiore. Una creatura che pesa più di 100 libbre che mette piede sul tabellone deve riuscire un tiro salvezza su Destrezza {@dc 10} o cadere da 3 metri al suolo sottostante. Lo spazio vuoto creato dall'asse crollante può essere facilmente evitato da altre creature che salgono le scale.",
+										"Se un lato della passerella subisce 10 o più danni, quel lato crolla. Quando ciò accade, le creature sulla passerella cadono da 20 piedi sul pavimento del magazzino sottostante."
 									]
 								}
 							]
@@ -700,20 +700,20 @@
 							"page": 168,
 							"id": "031",
 							"entries": [
-								"The warehouse is lit inside by lanterns placed on hooks located 5 feet up on the wall every 30 feet or so, below the catwalk. The goblins keep this area brightly lit, since their {@sense darkvision} only extends for 60 feet. When the characters enter, read:",
+								"Il magazzino è illuminato all'interno da lanterne poste su ganci situati a 5 piedi di altezza sul muro ogni 30 piedi circa, sotto la passerella. I goblin mantengono quest'area ben illuminata, poiché il loro {@sense darkvision} si estende solo per 60 piedi. Quando i personaggi entrano, leggi:",
 								{
 									"type": "insetReadaloud",
 									"id": "032",
 									"entries": [
-										"The glowing lantern light reveals a warehouse charred by a fire. To the north and south are large, iron-reinforced bay doors, operated from the ground by chains and pulleys. The western wall has a square room in the center that fills a twenty-foot-by-twenty-foot section of the warehouse floor. The room has a door and window on the side facing the center of the warehouse floor.",
-										"A catwalk encircles the interior twenty feet above the floor. Stairs lead up to it near the center of the eastern wall. Dozens of large boxes and crates are scattered around the warehouse, their integrity in question due to fire damage. A pair of wooden rails runs through the center of the room. On the rails sits a giant wooden wheeled cart. Towering over the cart is a ten-foot-high, soot-stained iron statue. It looks vaguely humanoid, with claw-like appendages at the ends of its arms. In place of its head is a cavity containing a seat with a series of levers all around it."
+										"La luce brillante della lanterna rivela un magazzino carbonizzato da un incendio. A nord e a sud ci sono grandi porte blindate rinforzate in ferro, azionate da terra tramite catene e carrucole. Il muro occidentale ha una stanza quadrata al centro che riempie una sezione di sei metri per venti del pavimento del magazzino. Il locale è dotato di porta e finestra sul lato rivolto al centro del pavimento del magazzino.",
+										"Una passerella circonda l'interno a venti piedi dal pavimento. Le scale vi conducono vicino al centro del muro orientale. Decine di grandi scatole e casse sono sparse per il magazzino, la cui integrità è messa in discussione a causa dei danni da incendio. Una coppia di binari di legno attraversa il centro della stanza. Sui binari si trova un gigantesco carro con ruote in legno. Sopra il carro troneggia una statua di ferro macchiata di fuliggine, alta tre metri. Ha un aspetto vagamente umanoide, con appendici simili ad artigli all'estremità delle braccia. Al posto della testa c'è una cavità contenente un sedile circondato da una serie di leve."
 									]
 								},
-								"Dealing 20 damage or more to a bay door creates a hole that a Medium or smaller creature can walk through. A character can use an action to open a bay door using its pulley system.",
-								"Charred and cracked wooden containers are scattered around the room. Nothing of value remains in any of them.",
-								"Resting on the rails that run through the center of the room is a Large cart. The north and south walls of the cart can be lowered to create ramps leading up to the cart's bed.",
-								"Near the cart is a {@creature loading rig|kkw} covered in soot and currently inactive. A seat cavity built into the top the rig contains a series of small plates and levers. A creature in the seat can attempt a {@dc 10} Intelligence ({@skill Arcana}) check to figure out how to press the plates in the correct sequence to activate or deactivate the rig. Pressing the plates requires an action. Once the rig is activated, a creature in the seat can pilot it using the levers. The rig moves as its controller directs it, and the controller can use an action to direct the rig to take the Dash, Disengage, or {@action Dodge} action, or the Multiattack or Slam actions as given in its stat block.",
-								"A creature with tinker's tools can try to repair damage to the rig. After spending 1 hour making repairs, the creature makes a {@dc 15} Intelligence ({@skill Arcana}) check. If the check succeeds, the rig regains {@dice 1d6} hit points.",
+								"Infliggere 20 o più danni a una porta del vano crea un buco attraverso il quale una creatura di taglia Media o inferiore può attraversare. Un personaggio può utilizzare un'azione per aprire una porta della baia utilizzando il suo sistema di carrucole.",
+								"Contenitori di legno carbonizzati e rotti sono sparsi per la stanza. In nessuno di essi rimane nulla di valore.",
+								"Appoggiato sui binari che attraversano il centro della stanza c'è un carro grande. Le pareti nord e sud del carro possono essere abbassate per creare rampe che portano al pianale del carro.",
+								"Vicino al carrello c'è un {@creature loading rig|kkw} coperto di fuliggine e attualmente inattivo. Una cavità del sedile integrata nella parte superiore del rig contiene una serie di piccole piastre e leve. Una creatura seduta può tentare una prova di {@dc 10} Intelligenza ({@skill Arcana}) per capire come premere le piastre nella sequenza corretta per attivare o disattivare l'attrezzatura. La pressione delle piastre richiede un'azione. Una volta attivato il rig, una creatura sul sedile può pilotarlo utilizzando le leve. Il rig si muove come indicato dal suo controllore, e il controllore può usare un'azione per dirigere il rig affinché effettui l'azione Scatto, Disimpegno o {@action Dodge} o le azioni Multiattacco o Schianto come indicato nel suo blocco delle statistiche.",
+								"Una creatura dotata degli strumenti da armeggiatore può provare a riparare i danni all'attrezzatura. Dopo aver trascorso 1 ora a effettuare riparazioni, la creatura effettua una prova di {@dc 15} Intelligenza ({@skill Arcana}). Se la prova ha successo, l'attrezzatura recupera {@dice 1d6} punti ferita.",
 								{
 									"type": "image",
 									"href": {
@@ -734,18 +734,18 @@
 					"page": 171,
 					"id": "033",
 					"entries": [
-						"{@creature Krenko|KKW} tries to escape if he is reduced to half his hit points or fewer, ordering his goblin enforcers cover him as he makes his getaway. He runs to the {@creature loading rig|KKW} on the warehouse floor and activates it in an effort to fight his way out and flee. If he can get outside, he makes his way to the dock and jumps into the canal to swim away.",
-						"If {@creature Krenko|KKW} is captured, he tries to convince the adventurers that bringing him to justice isn't in the best interest of the city. He might make any or all of the following arguments in his defense:",
+						"{@creature Krenko|KKW} cerca di scappare se i suoi punti ferita sono ridotti alla metà o meno, ordinando ai suoi goblin di coprirlo mentre fugge. Corre al {@creature loading rig|KKW} sul pavimento del magazzino e lo attiva nel tentativo di combattere per uscire e fuggire. Se riesce a uscire, si dirige verso il molo e salta nel canale per nuotare via.",
+						"Se {@creature Krenko|KKW} viene catturato, cerca di convincere gli avventurieri che consegnarlo alla giustizia non è nell'interesse della città. Potrebbe addurre uno o tutti i seguenti argomenti in sua difesa:",
 						{
 							"type": "list",
 							"items": [
-								"Without his leadership, the goblin gangs have been thrown into chaos, and the only thing keeping the Shattergang Brothers from blowing things up is his gang\u2014with him leading it.",
-								"He is emphatic that his killing of Dargig was an act of self-defense and that he was framed by the Boros Legion, which he suspects is in league with the Shattergang Brothers. Characters who succeed on a {@dc 16} Wisdom ({@skill Insight}) check sense he's lying, as he subtly looks past them while making his plea.",
-								"{@creature Krenko|KKW} is willing to offer the party a deal. He'll give them everything in his office strongbox if they tell Nassius they didn't find him.",
-								"{@creature Krenko|KKW} warns the party that Nassius isn't all he appears to be. {@creature Krenko|KKW} suspects that Nassius is in someone's pocket but doesn't know who that someone is."
+								"Senza la sua guida, le bande di goblin sono finite nel caos, e l'unica cosa che impedisce ai Fratelli Shattergang di far saltare in aria le cose è la sua banda, con lui alla guida.",
+								"Sottolinea che l'uccisione di Dargig è stato un atto di autodifesa e che è stato incastrato dalla Legione Boros, che sospetta sia in combutta con i Fratelli Shattergang. I personaggi che superano una prova di Saggezza ({@skill Insight} ({@dc 16}) sentono che sta mentendo, poiché guarda sottilmente alle loro spalle mentre fa la sua supplica.",
+								"{@creature Krenko|KKW} è disposto a offrire un accordo alla parte. Darà loro tutto ciò che è nella cassaforte del suo ufficio se dicono a Nassius che non l'hanno trovato.",
+								"{@creature Krenko|KKW} avverte il gruppo che Nassius non è ciò che sembra. {@creature Krenko|KKW} sospetta che Nassius sia nelle tasche di qualcuno ma non sa chi sia quel qualcuno."
 							]
 						},
-						"{@creature Krenko|KKW} doesn't offer up any information on the allies that aided him in his escape, but he identifies them if pressed. He also remains tight-lipped on the subject of Mr. Taz, offering only the following if a character makes a successful {@dc 20} Charisma ({@skill Persuasion}) check: \"Mr. Taz gave me a nice shiv as a present for a job once, and I'd love to get my mitts on another one someday."
+						"{@creature Krenko|KKW} non fornisce alcuna informazione sugli alleati che lo hanno aiutato nella fuga, ma li identifica se sollecitato. Inoltre rimane a bocca chiusa riguardo al signor Taz, offrendo solo quanto segue se un personaggio effettua con successo una prova di {@dc 20} Carisma ({@skill Persuasion}): \"Il signor Taz mi ha regalato un bel coltello per un lavoro una volta, e mi piacerebbe metterne le mani su un altro un giorno."
 					]
 				},
 				{
@@ -754,25 +754,25 @@
 					"page": 171,
 					"id": "034",
 					"entries": [
-						"When the characters reach the meeting point that Nassius specified, read the following:",
+						"Quando i personaggi raggiungono il punto d'incontro specificato da Nassius, leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "035",
 							"entries": [
-								"As the rain intensifies into a downpour, you head to the outskirts of the Tenth District. You're directed to the old granary that Nassius picked as the rendezvous point. The wet, crumbling clay building sits out in an untended field and is overgrown with all manner of vegetation, almost completely reclaimed by the wild. Nassius steps out of the entryway into the field, holding a small purse and flanked by two heavily armed guards."
+								"Mentre la pioggia si intensifica fino a diventare un acquazzone, ti dirigi alla periferia del Decimo Distretto. Verrai indirizzato al vecchio granaio che Nassius scelse come punto d'incontro. L'edificio di argilla bagnato e fatiscente si trova in un campo incolto ed è ricoperto da ogni tipo di vegetazione, quasi completamente bonificato dalla natura selvaggia. Nassius esce dall'ingresso del campo, con in mano una piccola borsa ed è affiancato da due guardie pesantemente armate."
 							]
 						},
-						"Nassius has asked for Azorius assistance but has also brought two human {@creature veteran||veterans} wearing no obvious guild identifiers to help take {@creature Krenko|KKW} into custody. Six Azorius {@creature Soldier|GGR|soldiers} are hidden in various spots between 50 and 100 feet of the front of the granary, ready to subdue characters who make a wrong move, or to take down {@creature Krenko|KKW} if he tries to flee.",
-						"Nassius wants the characters to complete the exchange without a fuss and head home. He asks them if they questioned {@creature Krenko|KKW}, and to recount what the goblin said to them. {@creature Krenko|KKW} attempts to call out Nassius as a liar and a corrupt official, but Nassius's veterans move to gag {@creature Krenko|KKW} to stop him from talking.",
-						"Nassius doesn't answer any questions about where he's taking {@creature Krenko|KKW}, nor does he address the veracity of any claims of corruption. He remarks that he serves the office of the Guildpact, and he's taking {@creature Krenko|KKW} in for the good of the city. The Shattergang Brothers might still take over the turf of {@creature Krenko|KKW}'s gang, but probably without a destructive gang war.",
+						"Nassius ha chiesto l'aiuto di Azorius ma ha anche portato due umani {@creature veteran||veterans} che non indossavano identificatori di gilda evidenti per aiutarli a prendere in custodia {@creature Krenko|KKW}. Sei Azorius {@creature Soldier|GGR|soldiers} sono nascosti in vari punti tra 50 e 100 piedi davanti al granaio, pronti a sottomettere i personaggi che fanno una mossa sbagliata o ad abbattere {@creature Krenko|KKW} se tentano di fuggire.",
+						"Nassius vuole che i personaggi completino lo scambio senza problemi e tornino a casa. Chiede loro se hanno fatto domande {@creature Krenko|KKW} e di raccontare cosa ha detto loro il goblin. {@creature Krenko|KKW} tenta di denunciare Nassius come bugiardo e funzionario corrotto, ma i veterani di Nassius cercano di imbavagliarlo {@creature Krenko|KKW} per impedirgli di parlare.",
+						"Nassius non risponde ad alcuna domanda sulla direzione che prenderà {@creature Krenko|KKW}, né affronta la veridicità di eventuali accuse di corruzione. Sottolinea che ricopre l'ufficio del Patto delle Gilde e che accetta {@creature Krenko|KKW} per il bene della città. I Fratelli Shattergang potrebbero ancora prendere il controllo della banda di {@creature Krenko|KKW}, ma probabilmente senza una guerra tra bande distruttiva.",
 						{
 							"type": "entries",
 							"name": "Nassius's Patron",
 							"page": 171,
 							"id": "036",
 							"entries": [
-								"{@creature Krenko|KKW} was right about one thing: Nassius Ven has been using his position to keep himself wealthy and protected. A patron approached Nassius and made a deal to have {@creature Krenko|KKW} delivered to them instead of to his rightful place in his new cell at Udzec. Nassius was assured that {@creature Krenko|KKW} would eventually make his way back to the prison alive, but the patron wanted to have a few words with him first.",
-								"To determine whom Nassius Ven cut a deal with, you can roll to determine a patron from the table below, or you can choose one. If the patron is a guild, you should select a guild that isn't represented by an adventurer in the party. The patron might influence future dealings with both Nassius Ven and {@creature Krenko|KKW}.",
+								"{@creature Krenko|KKW} aveva ragione su una cosa: Nassius Ven ha sfruttato la sua posizione per mantenersi ricco e protetto. Un mecenate si è avvicinato a Nassius e ha fatto un accordo per far consegnare {@creature Krenko|KKW} a loro invece che al posto che gli spettava nella sua nuova cella a Udzec. A Nassius era stato assicurato che {@creature Krenko|KKW} alla fine sarebbe tornato vivo in prigione, ma il cliente voleva prima scambiare qualche parola con lui.",
+								"Per determinare con chi Nassius Ven ha stretto un accordo, puoi tirare per determinare un mecenate dalla tabella sottostante, oppure puoi sceglierne uno. Se il patrono è una gilda, dovresti selezionare una gilda che non sia rappresentata da un avventuriero nel gruppo. Il mecenate potrebbe influenzare i rapporti futuri sia con Nassius Ven che con {@creature Krenko|KKW}.",
 								{
 									"type": "table",
 									"caption": "Nassius's Patron",
@@ -787,27 +787,27 @@
 									"rows": [
 										[
 											"1",
-											"Azorius Senate"
+											"Senato Azorius"
 										],
 										[
 											"2",
-											"Boros Legion"
+											"Legione Boros"
 										],
 										[
 											"3",
-											"Mr. Taz"
+											"Signor Taz"
 										],
 										[
 											"4",
-											"Orzhov Syndicate"
+											"Sindacato Orzhov"
 										],
 										[
 											"5",
-											"Shattergang Brothers"
+											"Fratelli Shattergang"
 										],
 										[
 											"6",
-											"Selesnya Conclave"
+											"Conclave di Selesnya"
 										]
 									]
 								}
@@ -821,15 +821,15 @@
 					"page": 171,
 					"id": "037",
 					"entries": [
-						"The characters earn 1 renown in their guild if they deliver {@creature Krenko|KKW} to Nassius.",
-						"In addition to the adventure seeds in the first part of this chapter, you can build on the events of this adventure to chart a course for the party's next adventures. Consider these questions:",
+						"I personaggi guadagnano 1 punto fama nella loro gilda se consegnano {@creature Krenko|KKW} a Nassius.",
+						"Oltre agli spunti dell'avventura contenuti nella prima parte di questo capitolo, puoi basarti sugli eventi di quest'avventura per tracciare un percorso per le prossime avventure del gruppo. Considera queste domande:",
 						{
 							"type": "list",
 							"items": [
-								"Who were {@creature Krenko|KKW}'s and Nassius's allies? How might they respond to the characters' actions?",
-								"What's the balance of power between {@creature Krenko|KKW}'s gang and the Shattergang Brothers? Is either gang likely to take revenge on the characters for what they did? Or did the characters earn the gratitude of either gang?",
-								"How might Nassius, {@creature Krenko|KKW}, Falish, and other NPCs interact with the adventurers in the future? Could one of them ask for the characters' help with a new crisis, or turn into a dangerous antagonist?",
-								"Did the characters use any of their contacts to gather information? Might those individuals' involvement cause them trouble that could involve the adventurers?"
+								"Chi erano gli alleati di {@creature Krenko|KKW} e Nassius? Come potrebbero rispondere alle azioni dei personaggi?",
+								"Qual è l'equilibrio di potere tra la banda di {@creature Krenko|KKW} e i Fratelli Shattergang? È probabile che una delle due bande si vendichi dei personaggi per quello che hanno fatto? Oppure i personaggi si sono guadagnati la gratitudine di entrambe le bande?",
+								"In che modo Nassius, {@creature Krenko|KKW}, Falish e gli altri NPC potrebbero interagire con gli avventurieri in futuro? Uno di loro potrebbe chiedere l'aiuto dei personaggi per affrontare una nuova crisi o trasformarsi in un pericoloso antagonista?",
+								"I personaggi hanno usato qualcuno dei loro contatti per raccogliere informazioni? Il coinvolgimento di quegli individui potrebbe causare loro problemi che potrebbero coinvolgere gli avventurieri?"
 							]
 						}
 					]
@@ -905,7 +905,7 @@
 							"type": "item",
 							"name": "Cartography",
 							"entries": [
-								"Dyson Logos"
+								"Loghi Dyson"
 							]
 						},
 						{
@@ -940,7 +940,7 @@
 							"type": "item",
 							"name": "Art Administration",
 							"entries": [
-								"David Gershman"
+								"David Gershmann"
 							]
 						},
 						{

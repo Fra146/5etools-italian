@@ -730,7 +730,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Spear|XPHB}, 2 {@item Dagger|XPHB|Daggers}, {@item Arcane Focus|XPHB} ({@item crystal|XPHB}), {@item Dungeoneer's Pack|XPHB}, and 28 GP; or (B) 50 GP"
+					"{@i Choose A or B:} (A) {@item Spear|XPHB}, 2 {@item Dagger|XPHB|Daggers}, {@item Arcane Focus|XPHB} ({@item crystal|XPHB}), {@item Dungeoneer's Pack|XPHB} e 28 GP; o (B) 50 GP"
 				]
 			},
 			"multiclassing": {},
@@ -2275,8 +2275,8 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Choose a sorcerous origin, which describes the source of your innate magical power, from the list of available origins.",
-				"Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level."
+				"Scegli un'origine stregonesca, che descriva la fonte del tuo potere magico innato, dall'elenco delle origini disponibili.",
+				"La tua scelta ti garantisce privilegi quando la scegli al 1° livello e di nuovo al 6°, 14° e 18° livello."
 			]
 		},
 		{
@@ -2288,36 +2288,36 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See {@book chapter 10|PHB|10} for the general rules of spellcasting and {@book chapter 11|PHB|11} for the {@filter sorcerer spell list|spells|class=sorcerer}.",
+				"Un evento nel tuo passato, o nella vita di un genitore o antenato, ha lasciato un segno indelebile in te, infondendoti di magia arcana. Questa fonte di magia, qualunque sia la sua origine, alimenta i tuoi incantesimi. Vedi {@book chapter 10|PHB|10} per le regole generali del lancio degli incantesimi e {@book chapter 11|PHB|11} per {@filter sorcerer spell list|spells|class=sorcerer}.",
 				{
 					"type": "entries",
 					"name": "Cantrips",
 					"entries": [
-						"At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn an additional sorcerer cantrip of your choice at 4th level and another at 10th level."
+						"Al 1° livello, conosci quattro trucchetti a tua scelta dalla lista degli incantesimi da stregone. Apprendi un trucchetto da stregone aggiuntivo di tua scelta al 4° livello e un altro al 10° livello."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Sorcerer table shows how many spell slots you have to cast your {@filter sorcerer spells|spells|class=sorcerer} of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
-						"For example, if you know the 1st-level spell {@spell burning hands} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell burning hands} using either slot."
+						"La tabella dello Stregone mostra quanti slot incantesimo hai per lanciare il tuo {@filter sorcerer spells|spells|class=sorcerer} di 1° livello e superiore. Per lanciare uno di questi incantesimi da stregone, devi spendere uno slot del livello dell'incantesimo o superiore. Riacquisti tutti gli slot incantesimo spesi quando termini un riposo lungo.",
+						"Ad esempio, se conosci l'incantesimo di 1° livello {@spell burning hands} e hai a disposizione uno slot incantesimo di 1° livello e uno di 2° livello, puoi lanciare {@spell burning hands} utilizzando uno qualsiasi degli slot."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spells Known of 1st Level and Higher",
 					"entries": [
-						"You know two 1st-level spells of your choice from the sorcerer spell list.",
-						"You learn an additional sorcerer spell of your choice at each level except 12th, 14th, 16th, 18th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.",
-						"Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots."
+						"Conosci due incantesimi di 1° livello a tua scelta dalla lista degli incantesimi da stregone.",
+						"Apprendi un incantesimo da stregone aggiuntivo di tua scelta ad ogni livello tranne il 12°, 14°, 16°, 18°, 19° e 20°. Ognuno di questi incantesimi deve essere di un livello per il quale disponi di slot incantesimo. Ad esempio, quando raggiungi il 3° livello in questa classe, puoi imparare un nuovo incantesimo di 1° o 2° livello.",
+						"Inoltre, quando guadagni un livello in questa classe, puoi scegliere uno degli incantesimi da stregone che conosci e sostituirlo con un altro incantesimo dalla lista degli incantesimi da stregone, che deve essere anch'esso di un livello per il quale disponi di slot incantesimo."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spellcasting Ability",
 					"entries": [
-						"Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.",
+						"Il carisma è la tua abilità da incantatore per i tuoi incantesimi da stregone, poiché il potere della tua magia si basa sulla tua capacità di proiettare la tua volontà nel mondo. Usi il tuo Carisma ogni volta che un incantesimo si riferisce alla tua abilità di incantatore. Inoltre, usi il tuo modificatore di Carisma quando imposti la CD del tiro salvezza per un incantesimo da stregone che lanci e quando effettui un tiro per colpire con uno.",
 						{
 							"type": "abilityDc",
 							"name": "Spell",
@@ -2338,7 +2338,7 @@
 					"type": "entries",
 					"name": "Spellcasting Focus",
 					"entries": [
-						"You can use an {@item arcane focus|phb} as a spellcasting focus for your sorcerer spells."
+						"Puoi usare un {@item arcane focus|phb} come focus di lancio degli incantesimi per i tuoi incantesimi da stregone."
 					]
 				}
 			]
@@ -2353,12 +2353,12 @@
 			"level": 2,
 			"header": 1,
 			"entries": [
-				"You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.",
+				"Puoi usare i tuoi punti stregoneria per ottenere slot incantesimo aggiuntivi o sacrificare slot incantesimo per guadagnare punti stregoneria aggiuntivi. Impari altri modi per usare i tuoi punti stregoneria quando raggiungi livelli più alti.",
 				{
 					"type": "entries",
 					"name": "Creating Spell Slots",
 					"entries": [
-						"You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.",
+						"Puoi trasformare i punti stregoneria non spesi in uno slot incantesimo come azione bonus durante il tuo turno. Gli slot incantesimo creati svaniscono alla fine di un riposo lungo. La tabella Creazione Slot Incantesimi mostra il costo per creare uno slot incantesimo di un dato livello. Puoi creare slot incantesimo di livello non superiore al 5°.",
 						{
 							"type": "table",
 							"caption": "Creating Spell Slots",
@@ -2399,7 +2399,7 @@
 					"type": "entries",
 					"name": "Converting a Spell Slot to Sorcery Points",
 					"entries": [
-						"As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level."
+						"Come azione bonus nel tuo turno, puoi spendere uno slot incantesimo e guadagnare un numero di punti stregoneria pari al livello dello slot."
 					]
 				}
 			]
@@ -2413,7 +2413,7 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.",
+				"Al 2° livello, attingi ad una profonda fonte di magia dentro di te. Questa fonte è rappresentata da punti stregoneria, che ti consentono di creare una varietà di effetti magici.",
 				{
 					"type": "refClassFeature",
 					"classFeature": "Sorcery Points|Sorcerer||2"
@@ -2434,7 +2434,7 @@
 			"level": 2,
 			"header": 1,
 			"entries": [
-				"You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest."
+				"Hai 2 punti stregoneria e guadagni un punto aggiuntivo ogni volta che sali di livello, fino a un massimo di 20 al livello 20. Non puoi mai avere più punti stregoneria di quelli mostrati sulla tabella per il tuo livello. Recuperi tutti i punti stregoneria spesi quando finisci un riposo lungo."
 			]
 		},
 		{
@@ -2446,8 +2446,8 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.",
-				"You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.",
+				"Al 3° livello, ottieni la capacità di distorcere i tuoi incantesimi per adattarli alle tue esigenze. Ottieni due delle seguenti opzioni di Metamagia a tua scelta. Ne ottieni un altro al 10° e al 17° livello.",
+				"Puoi usare solo un'opzione di Metamagia su un incantesimo quando lo lanci, a meno che diversamente specificato.",
 				{
 					"type": "options",
 					"count": 2,
@@ -2522,7 +2522,7 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 3rd-level sorcerer {@variantrule optional class features|tce|optional feature}}",
-				"When you choose Metamagic options, you have access to the following additional options.",
+				"Quando scegli le opzioni Metamagic, hai accesso alle seguenti opzioni aggiuntive.",
 				{
 					"type": "options",
 					"entries": [
@@ -2553,8 +2553,8 @@
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
-				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 4° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2567,12 +2567,12 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 4th-level sorcerer {@variantrule optional class features|tce|optional feature}}",
-				"Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:",
+				"Ogni volta che raggiungi un livello in questa classe che garantisce la caratteristica di miglioramento del punteggio di caratteristica, puoi eseguire una delle seguenti azioni, rappresentando la magia dentro di te che scorre in nuovi modi:",
 				{
 					"type": "list",
 					"items": [
-						"Replace one of the options you chose for the Metamagic feature with a different {@filter Metamagic option|optionalfeatures|Feature Type=MM} available to you.",
-						"Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the {@filter sorcerer spell list|spells|level=0|class=Sorcerer}."
+						"Sostituisci una delle opzioni che hai scelto per la funzione Metamagic con una diversa {@filter Metamagic option|optionalfeatures|Feature Type=MM} a tua disposizione.",
+						"Sostituisci un trucchetto che hai imparato dalla capacità di lancio degli incantesimi di questa classe con un altro trucchetto dal {@filter sorcerer spell list|spells|level=0|class=Sorcerer}."
 					]
 				}
 			]
@@ -2590,7 +2590,7 @@
 			},
 			"entries": [
 				"{@i 5th-level sorcerer {@variantrule optional class features|tce|optional feature}}",
-				"You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the {@dice d20}, and you must use the new roll, potentially turning the failure into a success."
+				"Puoi attingere alla tua fonte interiore di magia per cercare di evocare il successo dal fallimento. Quando effettui una prova di abilità che fallisce, puoi spendere 1 punto stregoneria per ripetere il tiro {@dice d20} e devi utilizzare il nuovo tiro, trasformando potenzialmente il fallimento in un successo."
 			]
 		},
 		{
@@ -2602,7 +2602,7 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"At 6th level, you gain a feature granted by your Sorcerous Origin."
+				"Al 6° livello, ottieni una capacità concessa dalla tua Origine Stregonesca."
 			]
 		},
 		{
@@ -2614,8 +2614,8 @@
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
-				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi l'8° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"At 10th level, you learn an additional metamagic option."
+				"Al 10° livello, apprendi un'opzione metamagica aggiuntiva."
 			]
 		},
 		{
@@ -2639,8 +2639,8 @@
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
-				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 12° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2652,7 +2652,7 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"At 14th level, you gain a feature granted by your Sorcerous Origin."
+				"Al 14° livello, ottieni una capacità concessa dalla tua Origine Stregonesca."
 			]
 		},
 		{
@@ -2664,8 +2664,8 @@
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
-				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 16° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
-				"At 17th level, you learn an additional metamagic option."
+				"Al 17° livello, apprendi un'opzione metamagica aggiuntiva."
 			]
 		},
 		{
@@ -2689,7 +2689,7 @@
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
-				"At 18th level, you gain a feature granted by your Sorcerous Origin."
+				"Al 18° livello, ottieni una capacità concessa dalla tua Origine Stregonesca."
 			]
 		},
 		{
@@ -2701,8 +2701,8 @@
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
-				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2714,7 +2714,7 @@
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
-				"At 20th level, you regain 4 expended sorcery points whenever you finish a short rest."
+				"Al 20° livello, recuperi 4 punti stregoneria spesi ogni volta che termini un riposo breve."
 			]
 		},
 		{
@@ -2727,15 +2727,15 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"An event in your past left an indelible mark on you, infusing you with simmering magic. As a {@variantrule Bonus Action|XPHB}, you can unleash that magic for 1 minute, during which you gain the following benefits:",
+				"Un evento del tuo passato ha lasciato un segno indelebile in te, infondendoti una magia latente. Come {@variantrule Bonus Action|XPHB}, puoi scatenare quella magia per 1 minuto, durante il quale ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"items": [
-						"The spell save DC of your Sorcerer spells increases by 1.",
-						"You have {@variantrule Advantage|XPHB} on the attack rolls of Sorcerer spells you cast."
+						"La CD del tiro salvezza degli incantesimi da Stregone aumenta di 1.",
+						"Hai {@variantrule Advantage|XPHB} sui tiri per colpire degli incantesimi da stregone che lanci."
 					]
 				},
-				"You can use this feature twice, and you regain all expended uses of it when you finish a {@variantrule Long Rest|XPHB}."
+				"Puoi utilizzare questa funzione due volte e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -2748,7 +2748,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Drawing from your innate magic, you can cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the {@filter Sorcerer spell list|spells|class=Sorcerer} later in the class's description.",
+				"Attingendo alla tua magia innata, puoi lanciare incantesimi. Vedi {@book chapter 7|XPHB|7} per le regole sul lancio degli incantesimi. Le informazioni seguenti descrivono dettagliatamente come usi quelle regole con gli incantesimi dello Stregone, che appaiono nel {@filter Sorcerer spell list|spells|class=Sorcerer} più avanti nella descrizione della classe.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2756,45 +2756,45 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know four Sorcerer cantrips of your choice. {@spell Light|XPHB}, {@spell Prestidigitation|XPHB}, {@spell Shocking Grasp|XPHB}, and {@spell Sorcerous Burst|XPHB} are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.",
-								"When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table."
+								"Conosci quattro trucchetti da Stregone a tua scelta. {@spell Light|XPHB}, {@spell Prestidigitation|XPHB}, {@spell Shocking Grasp|XPHB} e {@spell Sorcerous Burst|XPHB} sono consigliati. Ogni volta che guadagni un livello da Stregone, puoi sostituire uno dei tuoi trucchetti da questa funzione con un altro trucchetto da Stregone a tua scelta.",
+								"Quando raggiungi i livelli da Stregone 4 e 10, impari un altro trucchetto da Stregone a tua scelta, come mostrato nella colonna Trucchetti della tabella Caratteristiche dello Stregone."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"La tabella Caratteristiche dello stregone mostra quanti slot incantesimo hai a disposizione per lanciare i tuoi incantesimi di livello 1+. Riacquisti tutti gli slot spesi quando finisci un {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. {@spell Burning Hands|XPHB} and {@spell Detect Magic|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.",
-								"If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you."
+								"Prepari l'elenco degli incantesimi di livello 1+ che puoi lanciare con questa funzionalità. Per iniziare, scegli due incantesimi da Stregone di livello 1. {@spell Burning Hands|XPHB} e {@spell Detect Magic|XPHB} sono consigliati.",
+								"Il numero di incantesimi nella tua lista aumenta man mano che guadagni livelli da Stregone, come mostrato nella colonna Incantesimi Preparati della tabella Caratteristiche dello Stregone. Ogni volta che quel numero aumenta, scegli ulteriori incantesimi da Stregone finché il numero di incantesimi sulla tua lista non corrisponde al numero nella tabella Caratteristiche dello Stregone. Gli incantesimi scelti devono essere di un livello per il quale disponi di slot incantesimo. Ad esempio, se sei uno Stregone di livello 3, il tuo elenco di incantesimi preparati può includere sei incantesimi da Stregone di livello 1 o 2 in qualsiasi combinazione.",
+								"Se un'altra caratteristica dello Stregone ti fornisce incantesimi che hai sempre preparato, quegli incantesimi non contano nel numero di incantesimi che puoi preparare con questa caratteristica, ma per il resto contano come incantesimi da Stregone."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots."
+								"Ogni volta che ottieni un livello da Stregone, puoi sostituire un incantesimo sulla tua lista con un altro incantesimo da Stregone per il quale disponi di slot incantesimo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Charisma is your spellcasting ability for your Sorcerer spells."
+								"Il Carisma è la tua abilità da incantatore per i tuoi incantesimi da Stregone."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Sorcerer spells."
+								"Puoi usare un {@item Arcane Focus|XPHB} come {@variantrule Spellcasting Focus|XPHB} per i tuoi incantesimi da stregone."
 							]
 						}
 					]
@@ -2811,9 +2811,9 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.",
-				"You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a {@variantrule Long Rest|XPHB}.",
-				"You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.",
+				"Puoi attingere alla sorgente della magia dentro di te. Questa sorgente è rappresentata dai Punti Stregoneria, che ti permettono di creare una varietà di effetti magici.",
+				"Hai 2 Punti Stregoneria e ne guadagni di più man mano che raggiungi livelli più alti, come mostrato nella colonna Punti Stregoneria della tabella Caratteristiche dello Stregone. Non puoi avere più Punti Stregoneria del numero mostrato nella tabella per il tuo livello. Recuperi tutti i punti stregoneria spesi quando finisci un {@variantrule Long Rest|XPHB}.",
+				"Puoi usare i tuoi punti stregoneria per alimentare le opzioni seguenti, insieme ad altre funzionalità, come Metamagia, che utilizzano quei punti.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2821,15 +2821,15 @@
 							"type": "entries",
 							"name": "Converting Spell Slots to Sorcery Points",
 							"entries": [
-								"You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required)."
+								"Puoi spendere uno slot incantesimo per guadagnare un numero di Punti Stregoneria pari al livello dello slot (non è richiesta alcuna azione)."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Creating Spell Slots",
 							"entries": [
-								"As a {@variantrule Bonus Action|XPHB}, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.",
-								"Any spell slot you create with this feature vanishes when you finish a {@variantrule Long Rest|XPHB}.",
+								"Come {@variantrule Bonus Action|XPHB}, puoi trasformare i punti stregoneria non spesi in uno slot incantesimo. La tabella Creazione di slot incantesimo mostra il costo per creare uno slot incantesimo di un dato livello ed elenca il livello minimo da Stregone che devi avere per creare uno slot. Puoi creare uno slot incantesimo non superiore al livello 5.",
+								"Qualsiasi slot incantesimo creato con questa funzione svanisce quando finisci un {@variantrule Long Rest|XPHB}.",
 								{
 									"type": "table",
 									"caption": "Creating Spell Slots",
@@ -2887,9 +2887,9 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.",
-				"You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.",
-				"Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17."
+				"Poiché la tua magia fluisce dall'interno, puoi modificare i tuoi incantesimi in base alle tue esigenze; ottieni due opzioni di metamagia a tua scelta da \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" più avanti nella descrizione di questa classe. Utilizzi le opzioni scelte per modificare temporaneamente gli incantesimi che lanci. Per utilizzare un'opzione, devi spendere il numero di Punti Stregoneria che costa.",
+				"Puoi usare solo un'opzione di Metamagia su un incantesimo quando lo lanci, a meno che non sia diversamente indicato in una di quelle opzioni.",
+				"Ogni volta che ottieni un livello da Stregone, puoi sostituire una delle tue opzioni di Metamagia con una che non conosci. Ottieni altre due opzioni al livello Stregone 10 e altre due al livello Stregone 17."
 			]
 		},
 		{
@@ -2902,7 +2902,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"The following options are available to your Metamagic feature. The options are presented in alphabetical order.",
+				"Le seguenti opzioni sono disponibili per la tua funzione Metamagic. Le opzioni sono presentate in ordine alfabetico.",
 				{
 					"type": "options",
 					"count": 2,
@@ -2991,7 +2991,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower."
+				"Ottieni una sottoclasse dello Stregone a tua scelta. Una sottoclasse è una specializzazione che ti garantisce funzionalità a determinati livelli da Stregone. Per il resto della tua carriera, ottieni ciascuna delle caratteristiche della tua sottoclasse che sono del tuo livello da Stregone o inferiore."
 			]
 		},
 		{
@@ -3004,7 +3004,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. Ottieni nuovamente questa capacità ai livelli da Stregone 8, 12 e 16."
 			]
 		},
 		{
@@ -3017,7 +3017,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"When you finish a {@variantrule Short Rest|XPHB}, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
+				"Quando finisci un {@variantrule Short Rest|XPHB}, puoi recuperare i Punti Stregoneria spesi, ma non più di un numero pari alla metà del tuo livello da Stregone (arrotondato per difetto). Una volta utilizzata questa funzione, non potrai farlo di nuovo finché non avrai completato un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -3030,7 +3030,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Sorcerer subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse dello Stregone."
 			]
 		},
 		{
@@ -3047,8 +3047,8 @@
 				"amount": 2
 			},
 			"entries": [
-				"If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the {@variantrule Bonus Action|XPHB} to activate it.",
-				"In addition, while your Innate Sorcery feature is active, you can use up to two of your {@filter Metamagic options|optionalfeatures|feature type=MM} on each spell you cast."
+				"Se non ti restano più usi della stregoneria innata, puoi usarla se spendi 2 punti stregoneria quando prendi il {@variantrule Bonus Action|XPHB} per attivarla.",
+				"Inoltre, mentre la tua funzione Stregoneria innata è attiva, puoi utilizzare fino a due dei tuoi {@filter Metamagic options|optionalfeatures|feature type=MM} su ciascun incantesimo che lanci."
 			]
 		},
 		{
@@ -3061,7 +3061,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -3074,9 +3074,9 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" section later in this class's description.",
-				"You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.",
-				"Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know."
+				"Poiché la tua magia fluisce da dentro di te, puoi modificare i tuoi incantesimi in base alle tue esigenze; ottieni due opzioni di metamagia a tua scelta dalla sezione \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" più avanti nella descrizione di questa classe.",
+				"Puoi usare solo un'opzione di Metamagia su un incantesimo quando lo lanci, a meno che diversamente specificato in una di quelle opzioni.",
+				"Ogni volta che ottieni un livello da Stregone, puoi sostituire una delle tue opzioni di Metamagia con una che non conosci."
 			]
 		},
 		{
@@ -3089,7 +3089,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -3102,7 +3102,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Sorcerer subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse dello Stregone."
 			]
 		},
 		{
@@ -3115,7 +3115,7 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -3128,9 +3128,9 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" section later in this class's description.",
-				"You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.",
-				"Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know."
+				"Poiché la tua magia fluisce da dentro di te, puoi modificare i tuoi incantesimi in base alle tue esigenze; ottieni due opzioni di metamagia a tua scelta dalla sezione \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" più avanti nella descrizione di questa classe.",
+				"Puoi usare solo un'opzione di Metamagia su un incantesimo quando lo lanci, a meno che diversamente specificato in una di quelle opzioni.",
+				"Ogni volta che ottieni un livello da Stregone, puoi sostituire una delle tue opzioni di Metamagia con una che non conosci."
 			]
 		},
 		{
@@ -3143,7 +3143,7 @@
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"You gain a feature from your Sorcerer subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse dello Stregone."
 			]
 		},
 		{
@@ -3156,7 +3156,7 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Dimensional Travel|XPHB} is recommended."
+				"Ottieni un {@filter Epic Boon feat|feats|category=EB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. {@feat Boon of Dimensional Travel|XPHB} è consigliato."
 			]
 		},
 		{
@@ -3169,7 +3169,7 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turns without spending Sorcery Points on it."
+				"Mentre la tua funzione Stregoneria Innata è attiva, puoi utilizzare un'opzione Metamagia in ciascuno dei tuoi turni senza spendere Punti Stregoneria su di essa."
 			]
 		}
 	],
@@ -3184,8 +3184,8 @@
 			"subclassSource": "DSotDQ",
 			"level": 1,
 			"entries": [
-				"On many worlds, the moon is a revered celestial body with magical properties. On Krynn, the gods of magic are associated with the world's three moons. On the world of Toril, the god Selûne uses the light of the moon to battle darkness. On Eberron, scholars of the Draconic Prophecy decipher ancient secrets from the waxing and waning of that world's twelve moons.",
-				"You or someone from your lineage has been exposed to the concentrated magic of the moon (or moons) of your world, imbuing you with lunar magic. Perhaps your ancestor was involved in a druidic ritual involving an eclipse, or maybe a mystical fragment of a moon crashed near you. However you came to have your magic, your connection to the moon is obvious when you cast sorcerer spells\u2014perhaps making your pupils glow with the color of a moon from your world, causing spectral manifestations of lunar phases to orbit you, or some other effect.",
+				"Su molti mondi, la luna è un corpo celeste venerato con proprietà magiche. Su Krynn, gli dei della magia sono associati alle tre lune del mondo. Nel mondo di Toril, il dio Selûne usa la luce della luna per combattere l'oscurità. Su Eberron, gli studiosi della Profezia Draconica decifrano antichi segreti dal crescere e calare delle dodici lune di quel mondo.",
+				"Tu o qualcuno del tuo lignaggio siete stati esposti alla magia concentrata della luna (o delle lune) del vostro mondo, impregnandovi di magia lunare. Forse il tuo antenato è stato coinvolto in un rituale druidico che prevedeva un'eclissi, o forse un frammento mistico di luna si è schiantato vicino a te. Comunque tu sia arrivato ad avere la tua magia, la tua connessione con la luna è evidente quando lanci incantesimi da stregone, magari facendo brillare le tue pupille del colore di una luna del tuo mondo, facendo sì che manifestazioni spettrali delle fasi lunari ti orbitino attorno, o qualche altro effetto.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Lunar Embodiment|Sorcerer||Lunar|DSotDQ|1"
@@ -3208,7 +3208,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 1st-Level Lunar Sorcery Feature}",
-				"You learn additional spells when you reach certain levels in this class, as shown on the Lunar Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.",
+				"Apprendi incantesimi aggiuntivi quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi Lunari. Ciascuno di questi incantesimi conta come un incantesimo da stregone per te, ma non conta nel numero di incantesimi da stregone che conosci.",
 				{
 					"type": "table",
 					"caption": "Lunar Spells",
@@ -3257,7 +3257,7 @@
 						]
 					]
 				},
-				"Whenever you finish a long rest, you can choose what lunar phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon. While in the chosen phase, you can cast one 1st-level spell of the associated phase in the Lunar Spells table once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest."
+				"Ogni volta che finisci un riposo lungo, puoi scegliere in quale fase lunare manifesta il suo potere attraverso la tua magia: Luna Piena, Luna Nuova o Luna Crescente. Mentre sei nella fase scelta, puoi lanciare una volta un incantesimo di 1° livello della fase associata nella tabella degli incantesimi lunari senza spendere uno slot incantesimo. Una volta lanciato un incantesimo in questo modo, non puoi farlo nuovamente finché non termini un riposo lungo."
 			]
 		},
 		{
@@ -3272,7 +3272,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 1st-Level Lunar Sorcery Feature}",
-				"You can call down the radiant light of the moon on command. You learn the {@spell sacred flame} spell, which doesn't count against the number of sorcerer cantrips you know. When you cast the spell, you can target one creature as normal or target two creatures within range that are within 5 feet of each other."
+				"Puoi richiamare la luce radiosa della luna a comando. Impari l'incantesimo {@spell sacred flame}, che non conta nel numero di trucchetti da stregone che conosci. Quando lanci l'incantesimo, puoi prendere di mira una creatura normalmente o prendere di mira due creature entro il raggio d'azione che si trovino entro 1,5 metri l'una dall'altra."
 			]
 		},
 		{
@@ -3287,7 +3287,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 6th-Level Lunar Sorcery Feature}",
-				"The current phase of your Lunar Embodiment can affect your Metamagic feature. Each Lunar Embodiment phase is associated with certain schools of magic, as shown here:",
+				"La fase attuale della tua Incarnazione Lunare può influenzare la tua caratteristica Metamagia. Ogni fase di Incarnazione Lunare è associata a determinate scuole di magia, come mostrato qui:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -3315,7 +3315,7 @@
 						}
 					]
 				},
-				"Whenever you use Metamagic on a spell of a school of magic associated with your current Lunar Embodiment phase, you can reduce the sorcery points spent by 1 (minimum 0). You can reduce the sorcery points spent for your Metamagic a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+				"Ogni volta che usi Metamagia su un incantesimo di una scuola di magia associata alla tua attuale fase di Incarnazione Lunare, puoi ridurre i punti stregoneria spesi di 1 (minimo 0). Puoi ridurre i punti stregoneria spesi per la tua Metamagia un numero di volte pari al tuo bonus di competenza, e riacquisti tutti gli usi spesi quando termini un riposo lungo."
 			]
 		},
 		{
@@ -3333,8 +3333,8 @@
 			},
 			"entries": [
 				"{@i 6th-Level Lunar Sorcery Feature}",
-				"You gain greater control over the phases of your lunar magic. As a bonus action, you can spend 1 sorcery point to change your current Lunar Embodiment phase to a different one.",
-				"You can now cast one 1st-level spell from each lunar phase of the Lunar Spells table once without expending a spell slot, provided your current phase is the same as the lunar phase spell. Once you cast a lunar phase spell in this way, you can't do so again until you finish a long rest."
+				"Ottieni un maggiore controllo sulle fasi della tua magia lunare. Come azione bonus, puoi spendere 1 punto stregoneria per cambiare la tua attuale fase di Incarnazione Lunare in una diversa.",
+				"Ora puoi lanciare un incantesimo di 1° livello da ciascuna fase lunare della tabella degli incantesimi lunari una volta senza spendere uno slot incantesimo, a condizione che la tua fase attuale sia la stessa dell'incantesimo della fase lunare. Una volta lanciato un incantesimo di fase lunare in questo modo, non è possibile farlo nuovamente finché non si termina un riposo lungo."
 			]
 		},
 		{
@@ -3349,7 +3349,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 14th-Level Lunar Sorcery Feature}",
-				"The power of a lunar phase saturates your being. While you are in a Lunar Embodiment phase, you also gain the following benefit associated with that phase:",
+				"Il potere di una fase lunare satura il tuo essere. Mentre sei in una fase di Incarnazione Lunare, ottieni anche i seguenti benefici associati a quella fase:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -3358,21 +3358,21 @@
 							"type": "item",
 							"name": "Full Moon",
 							"entries": [
-								"You can use a bonus action to shed bright light in a 10-foot radius and dim light for an additional 10 feet or to douse the light. In addition, you and creatures of your choice have advantage on Intelligence ({@skill Investigation}) and Wisdom ({@skill Perception}) checks while within the bright light you shed."
+								"È possibile utilizzare un'azione bonus per diffondere luce intensa in un raggio di 3 metri e attenuare la luce per altri 3 metri o per spegnere la luce. Inoltre, tu e le creature di tua scelta avete vantaggio sulle prove di Intelligenza ({@skill Investigation}) e Saggezza ({@skill Perception}) mentre siete all'interno della luce intensa che diffondete."
 							]
 						},
 						{
 							"type": "item",
 							"name": "New Moon",
 							"entries": [
-								"You have advantage on Dexterity ({@skill Stealth}) checks. In addition, while you are entirely in darkness, attack rolls have disadvantage against you."
+								"Hai vantaggio sulle prove di Destrezza ({@skill Stealth}). Inoltre, mentre sei completamente al buio, i tiri per colpire hanno uno svantaggio contro di te."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Crescent Moon",
 							"entries": [
-								"You have resistance to necrotic and radiant damage."
+								"Hai resistenza ai danni necrotici e radiosi."
 							]
 						}
 					]
@@ -3391,7 +3391,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 18th-Level Lunar Sorcery feature}",
-				"As a bonus action, you can tap into a special power of your current Lunar Embodiment phase. Alternatively, as part of the bonus action you take to change your lunar phase using the Waxing and Waning feature, you can immediately use the power of the lunar phase you are entering:",
+				"Come azione bonus, puoi attingere a un potere speciale della tua attuale fase di Incarnazione Lunare. In alternativa, come parte dell'azione bonus che intraprendi per modificare la tua fase lunare utilizzando la funzione Crescente e Calante, puoi utilizzare immediatamente il potere della fase lunare in cui stai entrando:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -3400,26 +3400,26 @@
 							"type": "item",
 							"name": "Full Moon",
 							"entries": [
-								"You radiate moonlight for a moment. Each creature of your choice within 30 feet of you must succeed on a Constitution saving throw against your spell save DC or be {@condition blinded} until the end of its next turn. In addition, one creature of your choice in that area regains {@dice 3d8} hit points."
+								"Irradi la luce della luna per un momento. Ogni creatura di tua scelta entro 9 metri da te deve riuscire un tiro salvezza su Costituzione contro la tua CD del tiro salvezza dell'incantesimo o essere {@condition blinded} fino alla fine del suo turno successivo. Inoltre, una creatura a tua scelta in quell'area recupera {@dice 3d8} punti ferita."
 							]
 						},
 						{
 							"type": "item",
 							"name": "New Moon",
 							"entries": [
-								"You momentarily emanate gloom. Each creature of your choice within 30 feet of you must succeed on a Dexterity saving throw against your spell save DC or take {@damage 3d10} necrotic damage and have its speed reduced to 0 until the end of its next turn. In addition, you become {@condition invisible} until the end of your next turn, or until immediately after you make an attack roll or cast a spell."
+								"Emani momentaneamente oscurità. Ogni creatura di tua scelta entro 9 metri da te deve riuscire un tiro salvezza di Destrezza contro la CD del tiro salvezza dell'incantesimo o subire {@damage 3d10} danni necrotici e vedere la sua velocità ridotta a 0 fino alla fine del suo turno successivo. Inoltre, diventi {@condition invisible} fino alla fine del tuo turno successivo, o fino a subito dopo aver effettuato un tiro per colpire o lanciato un incantesimo."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Crescent Moon",
 							"entries": [
-								"You can magically teleport to an unoccupied space you can see within 60 feet of yourself. You can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice that you can see within 5 feet of your destination space. In addition, you and that creature gain resistance to all damage until the start of your next turn."
+								"Puoi teletrasportarti magicamente in uno spazio non occupato e visibile entro 18 metri da te. Puoi portare con te una creatura consenziente che puoi vedere entro 1,5 metri da te. Quella creatura si teletrasporta in uno spazio non occupato di tua scelta e che puoi vedere entro 1,5 metri dal tuo spazio di destinazione. Inoltre, tu e quella creatura guadagnate resistenza a tutti i danni fino all'inizio del tuo turno successivo."
 							]
 						}
 					]
 				},
-				"Once you use one of these bonus action benefits, you can't use that benefit again until you finish a long rest, unless you spend 5 sorcery points to use it again."
+				"Una volta utilizzato uno di questi benefici dell'azione bonus, non è possibile utilizzare nuovamente quel beneficio finché non si termina un riposo lungo, a meno che non si spendano 5 punti stregoneria per utilizzarlo nuovamente."
 			]
 		},
 		{
@@ -3433,7 +3433,7 @@
 			"subclassSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.",
+				"La tua magia innata deriva dalla magia draconica che è stata mescolata al tuo sangue o a quello dei tuoi antenati. Molto spesso, gli stregoni con questa origine fanno risalire la loro discendenza a un potente stregone dei tempi antichi che fece un patto con un drago o che potrebbe addirittura aver rivendicato un genitore drago. Alcune di queste linee di sangue sono ben radicate nel mondo, ma la maggior parte sono oscure. Qualunque stregone poteva essere il primo di una nuova stirpe, a seguito di un patto o di qualche altra circostanza eccezionale.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Dragon Ancestor|Sorcerer||Draconic||1"
@@ -3456,8 +3456,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.",
-				"Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier."
+				"Mentre la magia scorre attraverso il tuo corpo, fa emergere i tratti fisici dei tuoi antenati draghi. Al 1° livello, i tuoi punti ferita massimi aumentano di 1 e aumentano nuovamente di 1 ogni volta che guadagni un livello in questa classe.",
+				"Inoltre, parti della tua pelle sono coperte da una sottile lucentezza di scaglie simili a draghi. Quando non indossi l'armatura, la tua CA è pari a 13 + il tuo modificatore di Destrezza."
 			]
 		},
 		{
@@ -3472,7 +3472,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.",
+				"Al 1° livello, scegli un tipo di drago come tuo antenato. Il tipo di danno associato a ciascun drago viene utilizzato dalle funzionalità che otterrai in seguito.",
 				{
 					"type": "table",
 					"caption": "Draconic Ancestry",
@@ -3486,7 +3486,7 @@
 					],
 					"rows": [
 						[
-							"Black",
+							"Nero",
 							"{@filter Acid|spells|damage type=acid|class=sorcerer}"
 						],
 						[
@@ -3494,15 +3494,15 @@
 							"{@filter Lightning|spells|damage type=lightning|class=sorcerer}"
 						],
 						[
-							"Brass",
+							"Ottone",
 							"{@filter Fire|spells|damage type=fire|class=sorcerer}"
 						],
 						[
-							"Bronze",
+							"Bronzo",
 							"{@filter Lightning|spells|damage type=lightning|class=sorcerer}"
 						],
 						[
-							"Copper",
+							"Rame",
 							"{@filter Acid|spells|damage type=acid|class=sorcerer}"
 						],
 						[
@@ -3510,7 +3510,7 @@
 							"{@filter Fire|spells|damage type=fire|class=sorcerer}"
 						],
 						[
-							"Green",
+							"Verde",
 							"{@filter Poison|spells|damage type=poison|class=sorcerer}"
 						],
 						[
@@ -3518,16 +3518,16 @@
 							"{@filter Fire|spells|damage type=fire|class=sorcerer}"
 						],
 						[
-							"Silver",
+							"Argento",
 							"{@filter Cold|spells|damage type=cold|class=sorcerer}"
 						],
 						[
-							"White",
+							"Bianco",
 							"{@filter Cold|spells|damage type=cold|class=sorcerer}"
 						]
 					]
 				},
-				"You can speak, read, and write {@language Draconic}. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check."
+				"Puoi parlare, leggere e scrivere {@language Draconic}. Inoltre, ogni volta che effettui una prova di Carisma quando interagisci con i draghi, il tuo bonus di competenza viene raddoppiato se si applica alla prova."
 			]
 		},
 		{
@@ -3545,7 +3545,7 @@
 				"name": "Sorcery Point"
 			},
 			"entries": [
-				"Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour."
+				"A partire dal 6° livello, quando lanci un incantesimo che infligge danni del tipo associato alla tua stirpe draconica, puoi aggiungere il tuo modificatore di Carisma a un tiro per i danni di quell'incantesimo. Allo stesso tempo, puoi spendere 1 punto stregoneria per ottenere resistenza a quel tipo di danno per 1 ora."
 			]
 		},
 		{
@@ -3560,8 +3560,8 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.",
-				"You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them."
+				"Al 14° livello, ottieni la capacità di far spuntare un paio di ali di drago dalla tua schiena, ottenendo una velocità di volo pari alla tua velocità attuale. Puoi creare queste ali come azione bonus durante il tuo turno. Durano finché non li congedi come azione bonus nel tuo turno.",
+				"Non puoi manifestare le tue ali mentre indossi un'armatura a meno che l'armatura non sia fatta per accoglierle, e gli indumenti non fatti per accogliere le tue ali potrebbero essere distrutti quando le manifesti."
 			]
 		},
 		{
@@ -3580,7 +3580,7 @@
 				"amount": 5
 			},
 			"entries": [
-				"Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or {@condition frightened}. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your {@status concentration} (as if you were casting a {@status concentration} spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be {@condition charmed} (if you chose awe) or {@condition frightened} (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours."
+				"A partire dal 18° livello, puoi incanalare la terribile presenza del tuo antenato drago, facendo sì che coloro che ti circondano rimangano sbalorditi o {@condition frightened}. Con un'azione, puoi spendere 5 punti stregoneria per attingere a questo potere ed emanare un'aura di soggezione o paura (a tua scelta) fino a una distanza di 18 metri. Per 1 minuto o finché non perdi il tuo {@status concentration} (come se stessi lanciando un incantesimo {@status concentration}), ogni creatura ostile che inizia il suo turno in quest'aura deve riuscire un tiro salvezza su Saggezza o essere {@condition charmed} (se hai scelto soggezione) o {@condition frightened} (se hai scelto paura) fino al termine dell'aura. Una creatura che supera questo tiro salvezza è immune alla tua aura per 24 ore."
 			]
 		},
 		{
@@ -3593,7 +3593,7 @@
 			"subclassSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet.",
+				"La tua magia innata deriva dalle forze selvagge del caos che sono alla base dell'ordine della creazione. Potresti aver sopportato l'esposizione a qualche forma di magia pura, magari attraverso un portale planare che conduce al Limbo, ai Piani Elementali o al misterioso Reame Remoto. Forse sei stato benedetto da una potente creatura fatata o segnato da un demone. Oppure la tua magia potrebbe essere un colpo di fortuna della tua nascita, senza alcuna causa o motivo apparente. Comunque sia, questa magia caotica ribolle dentro di te, in attesa di uno sbocco.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Wild Magic Surge|Sorcerer||Wild||1"
@@ -3615,8 +3615,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.",
-				"Any time before you regain the use of this feature, the DM can have you roll on the {@table Wild Magic Surge|PHB} table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature."
+				"A partire dal 1° livello, puoi manipolare le forze del caso e del caos per ottenere vantaggio su un tiro per colpire, una prova di caratteristica o un tiro salvezza. Una volta fatto ciò, devi terminare un riposo lungo prima di poter utilizzare nuovamente questa capacità.",
+				"In qualsiasi momento prima che tu riacquisti l'uso di questa funzionalità, il DM può farti tirare sulla tabella {@table Wild Magic Surge|PHB} immediatamente dopo aver lanciato un incantesimo da stregone di 1° livello o superiore. Quindi riacquisti l'uso di questa funzionalità."
 			]
 		},
 		{
@@ -3630,8 +3630,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a {@dice d20}. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn.",
-				"If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires {@status concentration}, it doesn't require {@status concentration} in this case; the spell lasts for its full duration.",
+				"A partire da quando scegli questa origine al 1° livello, i tuoi incantesimi possono scatenare ondate di magia selvaggia. Immediatamente dopo aver lanciato un incantesimo da stregone di 1° livello o superiore, il DM può farti tirare un {@dice d20}. Se ottieni 1, tira sulla tabella Wild Magic Surge per creare un effetto magico casuale. Un'ondata di magia selvaggia può verificarsi una volta per turno.",
+				"Se un effetto di Magia Selvaggia è un incantesimo, è troppo selvaggio per essere influenzato dalla Metamagia. Se normalmente richiede {@status concentration}, in questo caso non richiede {@status concentration}; l'incantesimo dura per tutta la sua durata.",
 				{
 					"type": "table",
 					"caption": "Wild Magic Surge",
@@ -3646,203 +3646,203 @@
 					"rows": [
 						[
 							"01-02",
-							"Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls."
+							"Tira su questa tabella all'inizio di ciascuno dei tuoi turni per il minuto successivo, ignorando questo risultato nei tiri successivi."
 						],
 						[
 							"03-04",
-							"For the next minute, you can see any {@condition invisible} creature if you have line of sight to it."
+							"Per il minuto successivo, puoi vedere qualsiasi creatura {@condition invisible} se hai una linea di vista verso di essa."
 						],
 						[
 							"05-06",
-							"A {@filter modron|bestiary|source=mm|search=modron} chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later."
+							"Un {@filter modron|bestiary|source=mm|search=modron} scelto e controllato dal DM appare in uno spazio non occupato entro 5 piedi da te, quindi scompare 1 minuto dopo."
 						],
 						[
 							"07-08",
-							"You cast {@spell fireball} as a 3rd-level spell centered on yourself."
+							"Hai lanciato {@spell fireball} come incantesimo di 3° livello incentrato su te stesso."
 						],
 						[
 							"09-10",
-							"You cast {@spell magic missile} as a 5th-level spell."
+							"Hai lanciato {@spell magic missile} come incantesimo di 5° livello."
 						],
 						[
 							"11-12",
-							"Roll a {@dice d10}. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow."
+							"Tira un {@dice d10}. La tua altezza cambia di un numero di pollici pari al tiro. Se il tiro è dispari, ti rimpicciolisci. Se il tiro è pari, cresci."
 						],
 						[
 							"13-14",
-							"You cast {@spell confusion} centered on yourself."
+							"Hai lanciato {@spell confusion} centrato su te stesso."
 						],
 						[
 							"15-16",
-							"For the next minute, you regain 5 hit points at the start of each of your turns."
+							"Per il minuto successivo, recuperi 5 punti ferita all'inizio di ciascuno dei tuoi turni."
 						],
 						[
 							"17-18",
-							"You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face."
+							"Ti fai crescere una lunga barba fatta di piume che rimane finché non starnutisci, a quel punto le piume esplodono dal tuo viso."
 						],
 						[
 							"19-20",
-							"You cast {@spell grease} centered on yourself."
+							"Hai lanciato {@spell grease} centrato su te stesso."
 						],
 						[
 							"21-22",
-							"Creatures have disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw."
+							"Le creature hanno svantaggio ai tiri salvezza contro il successivo incantesimo lanciato nel minuto successivo che prevede un tiro salvezza."
 						],
 						[
 							"23-24",
-							"Your skin turns a vibrant shade of blue. A {@spell remove curse} spell can end this effect."
+							"La tua pelle assume una vibrante tonalità di blu. Un incantesimo {@spell remove curse} può porre fine a questo effetto."
 						],
 						[
 							"25-26",
-							"An eye appears on your forehead for the next minute. During that time, you have advantage on Wisdom ({@skill Perception}) checks that rely on sight."
+							"Un occhio appare sulla tua fronte per il minuto successivo. Durante questo periodo, hai vantaggio sulle prove di Saggezza ({@skill Perception}) che si basano sulla vista."
 						],
 						[
 							"27-28",
-							"For the next minute, all your spells with a casting time of 1 action have a casting time of 1 bonus action."
+							"Per il minuto successivo, tutti i tuoi incantesimi con un tempo di lancio di 1 azione hanno un tempo di lancio di 1 azione bonus."
 						],
 						[
 							"29-30",
-							"You teleport up to 60 feet to an unoccupied space of your choice that you can see."
+							"Ti teletrasporti fino a 18 metri in uno spazio non occupato a tua scelta e che puoi vedere."
 						],
 						[
 							"31-32",
-							"You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied."
+							"Vieni trasportato sul Piano Astrale fino alla fine del tuo turno successivo, dopodiché ritorni nello spazio che occupavi in ​​precedenza o nello spazio non occupato più vicino se quello spazio è occupato."
 						],
 						[
 							"33-34",
-							"Maximize the damage of the next damaging spell you cast within the next minute."
+							"Massimizza il danno del prossimo incantesimo dannoso che lancerai entro il minuto successivo."
 						],
 						[
 							"35-36",
-							"Roll a {@dice d10}. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older."
+							"Tira un {@dice d10}. La tua età cambia di un numero di anni pari al tiro. Se il risultato è dispari, diventi più giovane (minimo 1 anno). Se il tiro è pari, invecchi."
 						],
 						[
 							"37-38",
-							"{@dice 1d6} {@creature flumph||flumphs} controlled by the DM appear in unoccupied spaces within 60 feet of you and are {@condition frightened} of you. They vanish after 1 minute."
+							"{@dice 1d6} {@creature flumph||flumphs} controllati dal DM appaiono negli spazi non occupati entro 60 piedi da te e sono {@condition frightened} da te. Svaniscono dopo 1 minuto."
 						],
 						[
 							"39-40",
-							"You regain {@dice 2d10} hit points."
+							"Riacquisti {@dice 2d10} punti ferita."
 						],
 						[
 							"41-42",
-							"You turn into a potted plant until the start of your next turn. While a plant, you are {@condition incapacitated} and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts."
+							"Ti trasformi in una pianta in vaso fino all'inizio del tuo prossimo turno. Mentre sei una pianta, sei {@condition incapacitated} e sei vulnerabile a tutti i danni. Se scendi a 0 punti ferita, il tuo vaso si rompe e la tua forma ritorna."
 						],
 						[
 							"43-44",
-							"For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns."
+							"Per il minuto successivo, puoi teletrasportarti fino a 20 piedi come azione bonus in ciascuno dei tuoi turni."
 						],
 						[
 							"45-46",
-							"You cast {@spell levitate} on yourself."
+							"Hai lanciato {@spell levitate} su te stesso."
 						],
 						[
 							"47-48",
-							"A {@creature unicorn} controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later."
+							"Un {@creature unicorn} controllato dal DM appare in uno spazio entro 5 piedi da te, poi scompare 1 minuto dopo."
 						],
 						[
 							"49-50",
-							"You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth."
+							"Non puoi parlare per il prossimo minuto. Ogni volta che ci provi, delle bolle rosa ti escono dalla bocca."
 						],
 						[
 							"51-52",
-							"A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to {@spell magic missile}."
+							"Uno scudo spettrale aleggia vicino a te per il minuto successivo, garantendoti un bonus di +2 alla CA e immunità a {@spell magic missile}."
 						],
 						[
 							"53-54",
-							"You are immune to being intoxicated by alcohol for the next {@dice 5d6} days."
+							"Sei immune all'intossicazione da alcol per i prossimi {@dice 5d6} giorni."
 						],
 						[
 							"55-56",
-							"Your hair falls out but grows back within 24 hours."
+							"I tuoi capelli cadono ma ricrescono entro 24 ore."
 						],
 						[
 							"57-58",
-							"For the next minute, any flammable object you touch that isn't being worn or carried by another creature bursts into flame."
+							"Per il minuto successivo, qualsiasi oggetto infiammabile toccato dall'incantatore che non sia indossato o trasportato da un'altra creatura prende fuoco."
 						],
 						[
 							"59-60",
-							"You regain your lowest-level expended spell slot."
+							"Riacquisti lo slot incantesimo speso di livello più basso."
 						],
 						[
 							"61-62",
-							"For the next minute, you must shout when you speak."
+							"Per il minuto successivo, devi urlare quando parli."
 						],
 						[
 							"63-64",
-							"You cast {@spell fog cloud} centered on yourself."
+							"Hai lanciato {@spell fog cloud} centrato su te stesso."
 						],
 						[
 							"65-66",
-							"Up to three creatures you choose within 30 feet of you take {@damage 4d10} lightning damage."
+							"Fino a tre creature di tua scelta entro 9 metri da te subiscono {@damage 4d10} danni da fulmine."
 						],
 						[
 							"67-68",
-							"You are {@condition frightened} by the nearest creature until the end of your next turn."
+							"Sei {@condition frightened} vicino alla creatura più vicina fino alla fine del tuo prossimo turno."
 						],
 						[
 							"69-70",
-							"Each creature within 30 feet of you becomes {@condition invisible} for the next minute. The invisibility ends on a creature when it attacks or casts a spell."
+							"Ogni creatura entro 9 metri da te diventa {@condition invisible} per il minuto successivo. L'invisibilità termina su una creatura quando attacca o lancia un incantesimo."
 						],
 						[
 							"71-72",
-							"You gain resistance to all damage for the next minute."
+							"Ottieni resistenza a tutti i danni per il minuto successivo."
 						],
 						[
 							"73-74",
-							"A random creature within 60 feet of you becomes {@condition poisoned} for {@dice 1d4} hours."
+							"Una creatura casuale entro 60 piedi da te diventa {@condition poisoned} per {@dice 1d4} ore."
 						],
 						[
 							"75-76",
-							"You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you is {@condition blinded} until the end of its next turn."
+							"Brilli di luce intensa in un raggio di 9 metri per il minuto successivo. Qualsiasi creatura che termina il suo turno entro 5 piedi da te è {@condition blinded} fino alla fine del suo turno successivo."
 						],
 						[
 							"77-78",
-							"You cast {@spell polymorph} on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration."
+							"Hai lanciato {@spell polymorph} su te stesso. Se fallisci il tiro salvezza, ti trasformi in una pecora per la durata dell'incantesimo."
 						],
 						[
 							"79-80",
-							"Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute."
+							"Farfalle e petali di fiori illusori svolazzano nell'aria entro 3 metri da te per il minuto successivo."
 						],
 						[
 							"81-82",
-							"You can take one additional action immediately."
+							"Puoi eseguire immediatamente un'azione aggiuntiva."
 						],
 						[
 							"83-84",
-							"Each creature within 30 feet of you takes {@damage 1d10} necrotic damage. You regain hit points equal to the sum of the necrotic damage dealt."
+							"Ogni creatura entro 9 metri da te subisce {@damage 1d10} danni necrotici. Recuperi punti ferita pari alla somma dei danni necrotici inflitti."
 						],
 						[
 							"85-86",
-							"You cast {@spell mirror image}."
+							"Hai lanciato {@spell mirror image}."
 						],
 						[
 							"87-88",
-							"You cast {@spell fly} on a random creature within 60 feet of you."
+							"Lanci {@spell fly} su una creatura casuale entro 60 piedi da te."
 						],
 						[
 							"89-90",
-							"You become {@condition invisible} for the next minute. During that time, other creatures can't hear you. The invisibility ends if you attack or cast a spell."
+							"Diventi {@condition invisible} per il minuto successivo. Durante quel tempo, le altre creature non possono sentirti. L'invisibilità termina se attacchi o lanci un incantesimo."
 						],
 						[
 							"91-92",
-							"If you die within the next minute, you immediately come back to life as if by the {@spell reincarnate} spell."
+							"Se muori entro il minuto successivo, torni immediatamente in vita come per l'incantesimo {@spell reincarnate}."
 						],
 						[
 							"93-94",
-							"Your size increases by one size category for the next minute."
+							"La tua taglia aumenta di una categoria di taglia per il minuto successivo."
 						],
 						[
 							"95-96",
-							"You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute."
+							"Tu e tutte le creature entro 9 metri da te acquisite vulnerabilità ai danni perforanti per il minuto successivo."
 						],
 						[
 							"97-98",
-							"You are surrounded by faint, ethereal music for the next minute."
+							"Per il minuto successivo sei circondato da una musica debole ed eterea."
 						],
 						[
 							"99-00",
-							"You regain all expended sorcery points."
+							"Recuperi tutti i punti stregoneria spesi."
 						]
 					],
 					"data": {
@@ -3868,7 +3868,7 @@
 				"amount": 2
 			},
 			"entries": [
-				"Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll {@dice 1d4} and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur."
+				"A partire dal 6° livello, hai la capacità di distorcere il destino usando la tua magia selvaggia. Quando un'altra creatura che puoi vedere effettua un tiro per colpire, una prova di abilità o un tiro salvezza, puoi usare la tua reazione e spendere 2 punti stregoneria per tirare {@dice 1d4} e applicare il numero tirato come bonus o penalità (a tua scelta) al tiro della creatura. Puoi farlo dopo che la creatura ha tirato ma prima che si verifichi qualsiasi effetto del tiro."
 			]
 		},
 		{
@@ -3882,7 +3882,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the {@table Wild Magic Surge|PHB} table, you can roll twice and use either number."
+				"Al 14° livello, ottieni un minimo di controllo sugli impulsi della tua magia selvaggia. Ogni volta che tiri sulla tabella {@table Wild Magic Surge|PHB}, puoi lanciare due volte e utilizzare uno dei due numeri."
 			]
 		},
 		{
@@ -3896,7 +3896,7 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"Beginning at 18th level, the harmful energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn."
+				"A partire dal 18° livello, l'energia dannosa dei tuoi incantesimi si intensifica. Quando tiri il danno per un incantesimo e ottieni il numero più alto possibile su uno qualsiasi dei dadi, scegli uno di quei dadi, lancialo di nuovo e aggiungi quel tiro al danno. Puoi utilizzare la funzione solo una volta per turno."
 			]
 		},
 		{
@@ -3909,7 +3909,7 @@
 			"subclassSource": "PSK",
 			"level": 1,
 			"entries": [
-				"Your innate magic manifests in fire. You are your fire, and your fire is you.",
+				"La tua magia innata si manifesta nel fuoco. Tu sei il tuo fuoco e il tuo fuoco sei tu.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Heart of Fire|Sorcerer||Pyromancer (PSK)|PSK|1"
@@ -3927,7 +3927,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, whenever you start casting a spell of 1st level or higher that deals fire damage, fiery magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take fire damage equal to half your sorcerer level (minimum of 1)."
+				"Al 1° livello, ogni volta che inizi a lanciare un incantesimo di 1° livello o superiore che infligge danni da fuoco, da te fuoriesce una magia infuocata. Questa eruzione fa sì che le creature di tua scelta e visibili entro 3 metri da te subiscano danni da fuoco pari alla metà del tuo livello da Stregone (minimo 1)."
 			]
 		},
 		{
@@ -3941,7 +3941,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you gain resistance to fire damage. In addition, spells you cast ignore resistance to fire damage."
+				"Al 6° livello, ottieni resistenza ai danni da fuoco. Inoltre, gli incantesimi lanciati ignorano la resistenza ai danni da fuoco."
 			]
 		},
 		{
@@ -3955,7 +3955,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal fire damage to the attacker. The damage equals your sorcerer level, and ignores resistance to fire damage."
+				"A partire dal 14° livello, quando vieni colpito da un attacco in mischia, puoi usare la tua reazione per infliggere danni da fuoco all'attaccante. Il danno è pari al proprio livello da Stregone e ignora la resistenza al danno da fuoco."
 			]
 		},
 		{
@@ -3969,7 +3969,7 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"At 18th level, you gain immunity to fire damage. In addition, any spell or effect you create ignores resistance to fire damage and treats immunity to fire damage as resistance to fire damage."
+				"Al 18° livello, ottieni l'immunità ai danni da fuoco. Inoltre, qualsiasi incantesimo o effetto creato dall'incantatore ignora la resistenza ai danni da fuoco e considera l'immunità ai danni da fuoco come resistenza ai danni da fuoco."
 			]
 		},
 		{
@@ -3982,8 +3982,8 @@
 			"subclassSource": "TCE",
 			"level": 1,
 			"entries": [
-				"An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you by using it to control the magical energy of the multiverse. Will this power shine from you as a hopeful beacon to others? Or will you be a source of terror to those who feel the stab of your mind and witness the strange manifestations of your might?",
-				"As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you born with them? Or did an event later in life leave you shining with psionic awareness? Consult the Aberrant Origins table for a possible origin of your power.",
+				"Un'influenza aliena ha avvolto i suoi tentacoli attorno alla tua mente, conferendoti potere psionico. Ora puoi toccare altre menti con quel potere e alterare il mondo intorno a te usandolo per controllare l'energia magica del multiverso. Questo potere risplenderà da te come un faro di speranza per gli altri? O sarai una fonte di terrore per coloro che avvertono la fitta della tua mente e assistono alle strane manifestazioni della tua potenza?",
+				"In qualità di stregone della Mente Aberrante, sei tu a decidere come acquisire i tuoi poteri. Sei nato con loro? O un evento più avanti nella vita ti ha fatto brillare di consapevolezza psionica? Consulta la tabella Origini Aberranti per una possibile origine del tuo potere.",
 				{
 					"type": "table",
 					"caption": "Aberrant Origins",
@@ -3998,27 +3998,27 @@
 					"rows": [
 						[
 							"1",
-							"You were exposed to the Far Realm's warping influence. You are convinced that a tentacle is now growing on you, but no one else can see it."
+							"Sei stato esposto all'influenza deformante del Reame Remoto. Sei convinto che ora un tentacolo stia crescendo su di te, ma nessun altro può vederlo."
 						],
 						[
 							"2",
-							"A psychic wind from the Astral Plane carried psionic energy to you. When you use your powers, faint motes of light sparkle around you."
+							"Un vento psichico proveniente dal Piano Astrale ti ha portato energia psionica. Quando usi i tuoi poteri, deboli granelli di luce brillano intorno a te."
 						],
 						[
 							"3",
-							"You once suffered the dominating powers of an aboleth, leaving a psychic splinter in your mind."
+							"Un tempo hai subito i poteri dominanti di un aboleth, lasciando una scheggia psichica nella tua mente."
 						],
 						[
 							"4",
-							"You were implanted with a mind flayer tadpole, but the ceremorphosis never completed. And now its psionic power is yours. When you use it, your flesh shines with a strange mucus."
+							"Ti è stato impiantato un girino mind flayer, ma la ceremorfosi non è mai stata completata. E ora il suo potere psionico è tuo. Quando lo usi, la tua carne brilla di uno strano muco."
 						],
 						[
 							"5",
-							"As a child, you had an imaginary friend that looked like a flumph or a strange platypus-like creature. One day, it gifted you with psionic powers, which have ended up being not so imaginary."
+							"Da bambino avevi un amico immaginario che somigliava a un flumph o a una strana creatura simile a un ornitorinco. Un giorno ti ha regalato poteri psionici, che alla fine non erano poi così immaginari."
 						],
 						[
 							"6",
-							"Your nightmares whisper the truth to you: your psionic powers are not your own. You draw them from your parasitic twin!"
+							"I tuoi incubi ti sussurrano la verità: i tuoi poteri psionici non ti appartengono. Li disegni dal tuo gemello parassita!"
 						]
 					]
 				},
@@ -4044,8 +4044,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 1st-level Aberrant Mind feature}",
-				"You learn additional spells when you reach certain levels in this class, as shown on the Psionic Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.",
-				"Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be a {@filter divination or an enchantment spell from the sorcerer, warlock, or wizard spell list|spells|class=sorcerer;warlock;wizard|school=D;E|level=1;2;3;4;5}.",
+				"Apprendi incantesimi aggiuntivi quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi psionici. Ciascuno di questi incantesimi conta come un incantesimo da stregone per te, ma non conta nel numero di incantesimi da stregone che conosci.",
+				"Ogni volta che guadagni un livello da stregone, puoi sostituire un incantesimo ottenuto da questa capacità con un altro incantesimo dello stesso livello. Il nuovo incantesimo deve essere un {@filter divination or an enchantment spell from the sorcerer, warlock, or wizard spell list|spells|class=sorcerer;warlock;wizard|school=D;E|level=1;2;3;4;5}.",
 				{
 					"type": "table",
 					"caption": "Psionic Spells",
@@ -4094,8 +4094,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 1st-level Aberrant Mind feature}",
-				"You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.",
-				"The telepathic connection lasts for a number of minutes equal to your sorcerer level. It ends early if you are {@condition incapacitated} or die or if you use this ability to form a connection with a different creature."
+				"Puoi formare una connessione telepatica tra la tua mente e la mente di un altro. Come azione bonus, scegli una creatura che puoi vedere entro 9 metri da te. Tu e la creatura scelta potete parlare telepaticamente tra loro mentre vi trovate entro un numero di miglia l'uno dall'altro pari al vostro modificatore di Carisma (minimo 1 miglio). Per capirvi, ciascuno di voi deve parlare mentalmente in una lingua che l'altro conosce.",
+				"La connessione telepatica dura per un numero di minuti pari al proprio livello da Stregone. Termina presto se sei {@condition incapacitated} o muori o se usi questa abilità per formare una connessione con una creatura diversa."
 			]
 		},
 		{
@@ -4110,8 +4110,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 6th-level Aberrant Mind feature}",
-				"When you cast any spell of 1st level or higher from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of sorcery points equal to the spell's level.",
-				"If you cast the spell using sorcery points, it requires no verbal or somatic components, and it requires no material components, unless they are consumed by the spell."
+				"Quando lanci un qualsiasi incantesimo di 1° livello o superiore dal tuo privilegio Incantesimi psionici, puoi lanciarlo spendendo uno slot incantesimo normalmente o spendendo un numero di punti stregoneria pari al livello dell'incantesimo.",
+				"Se lanci l'incantesimo utilizzando punti stregoneria, non richiede componenti verbali o somatiche e non richiede componenti materiali, a meno che non vengano consumate dall'incantesimo."
 			]
 		},
 		{
@@ -4126,7 +4126,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 6th-level Aberrant Mind feature}",
-				"You gain resistance to psychic damage, and you have advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+				"Ottieni resistenza ai danni psichici e hai vantaggio sui tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}."
 			]
 		},
 		{
@@ -4141,14 +4141,14 @@
 			"header": 2,
 			"entries": [
 				"{@i 14th-level Aberrant Mind feature}",
-				"You can unleash the aberrant truth hidden within yourself. As a bonus action, you can spend 1 or more sorcery points to magically transform your body for 10 minutes. For each sorcery point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:",
+				"Puoi liberare la verità aberrante nascosta dentro di te. Come azione bonus, puoi spendere 1 o più punti stregoneria per trasformare magicamente il tuo corpo per 10 minuti. Per ogni punto stregoneria speso, puoi ottenere uno dei seguenti benefici a tua scelta, i cui effetti durano fino al termine della trasformazione:",
 				{
 					"type": "list",
 					"items": [
-						"You can see any {@condition invisible} creature within 60 feet of you, provided it isn't behind {@quickref Cover||3||total cover}. Your eyes also turn black or become writhing sensory tendrils.",
-						"You gain a flying speed equal to your walking speed, and you can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.",
-						"You gain a swimming speed equal to twice your walking speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.",
-						"Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of movement to escape from nonmagical restraints or being {@condition grappled}."
+						"Puoi vedere qualsiasi creatura {@condition invisible} entro 60 piedi da te, purché non sia dietro {@quickref Cover||3||total cover}. Anche i tuoi occhi diventano neri o diventano viticci sensoriali contorti.",
+						"Ottieni una velocità di volo pari alla tua velocità di camminata e puoi librarti. Mentre voli, la tua pelle brilla di muco o brilla di una luce ultraterrena.",
+						"Ottieni una velocità di nuoto pari al doppio della tua velocità di camminata e puoi respirare sott'acqua. Inoltre, le branchie crescono dal collo o si aprono a ventaglio da dietro le orecchie, le dita diventano palmate o crescono ciglia contorte che si estendono attraverso i vestiti.",
+						"Il tuo corpo, insieme a qualsiasi attrezzatura che indossi o trasporti, diventa viscido e flessibile. Puoi muoverti attraverso qualsiasi spazio stretto fino a 1 pollice senza stringerti e puoi spendere 5 piedi di movimento per sfuggire alle restrizioni non magiche o all'essere {@condition grappled}."
 					]
 				}
 			]
@@ -4165,8 +4165,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 18th-level Aberrant Mind feature}",
-				"You can unleash your aberrant power as a space-warping anomaly. As an action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes {@damage 3d10} force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn't pulled.",
-				"Once you use this feature, you can't do so again until you finish a long rest, unless you spend 5 sorcery points to use it again."
+				"Puoi liberare il tuo potere aberrante come un'anomalia che deforma lo spazio. Con un'azione, puoi teletrasportarti in uno spazio non occupato e visibile entro 36 metri da te. Immediatamente dopo la tua scomparsa, ogni creatura entro 9 metri dallo spazio che hai lasciato deve effettuare un tiro salvezza su Forza contro la CD del tuo tiro salvezza dell'incantesimo. In caso di tiro salvezza fallito, una creatura subisce {@damage 3d10} danni da forza e viene trascinata direttamente verso lo spazio che hai lasciato, finendo in uno spazio non occupato il più vicino possibile al tuo spazio precedente. Se il Tiro Salvezza riesce, la creatura subisce la metà dei danni e non viene trascinata.",
+				"Una volta che usi questa capacità, non puoi farlo di nuovo finché non finisci un riposo lungo, a meno che non spendi 5 punti stregoneria per usarla di nuovo."
 			]
 		},
 		{
@@ -4179,7 +4179,7 @@
 			"subclassSource": "TCE",
 			"level": 1,
 			"entries": [
-				"The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it-a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.",
+				"La forza cosmica dell'ordine ti ha soffuso di magia. Quel potere deriva da Mechanus o da un regno simile: un piano di esistenza modellato interamente dall'efficienza di un orologio. Tu, o qualcuno del tuo lignaggio, potreste essere rimasti intrappolati nelle macchinazioni dei modron, gli esseri ordinati che abitano Mechanus. Forse il tuo antenato ha anche preso parte alla Grande Marcia dei Modron. Qualunque sia la sua origine dentro di te, il potere dell'ordine può sembrare strano agli altri, ma per te è parte di un sistema vasto e glorioso.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Clockwork Magic|Sorcerer||Clockwork Soul|TCE|1"
@@ -4202,8 +4202,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 1st-level Clockwork Soul feature}",
-				"You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.",
-				"Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be an {@filter abjuration or a transmutation spell from the sorcerer, warlock, or wizard spell list|spells|class=sorcerer;warlock;wizard|school=A;T|level=1;2;3;4;5}.",
+				"Apprendi incantesimi aggiuntivi quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi Meccanici. Ciascuno di questi incantesimi conta come un incantesimo da stregone per te, ma non conta nel numero di incantesimi da stregone che conosci.",
+				"Ogni volta che guadagni un livello da stregone, puoi sostituire un incantesimo ottenuto da questa capacità con un altro incantesimo dello stesso livello. Il nuovo incantesimo deve essere un {@filter abjuration or a transmutation spell from the sorcerer, warlock, or wizard spell list|spells|class=sorcerer;warlock;wizard|school=A;T|level=1;2;3;4;5}.",
 				{
 					"type": "table",
 					"caption": "Clockwork Spells",
@@ -4238,7 +4238,7 @@
 						]
 					]
 				},
-				"In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.",
+				"Inoltre, consulta la tabella Manifestazioni dell'Ordine e scegli o determina casualmente un modo in cui si manifesta la tua connessione all'ordine mentre lanci uno qualsiasi dei tuoi incantesimi da stregone.",
 				{
 					"type": "table",
 					"caption": "Manifestations of Order",
@@ -4253,27 +4253,27 @@
 					"rows": [
 						[
 							"1",
-							"Spectral cogwheels hover behind you."
+							"Ruote dentate spettrali si librano dietro di te."
 						],
 						[
 							"2",
-							"The hands of a clock spin in your eyes."
+							"Le lancette di un orologio girano nei tuoi occhi."
 						],
 						[
 							"3",
-							"Your skin glows with a brassy sheen."
+							"La tua pelle risplende di una lucentezza color ottone."
 						],
 						[
 							"4",
-							"Floating equations and geometric objects overlay your body."
+							"Equazioni fluttuanti e oggetti geometrici si sovrappongono al tuo corpo."
 						],
 						[
 							"5",
-							"Your spellcasting focus temporarily takes the form of a Tiny clockwork mechanism."
+							"Il tuo focus da incantatore assume temporaneamente la forma di un minuscolo meccanismo a orologeria."
 						],
 						[
 							"6",
-							"The ticking of gears or ringing of a clock can be heard by you and those affected by your magic."
+							"Il ticchettio degli ingranaggi o il suono di un orologio possono essere uditi da te e da coloro che sono colpiti dalla tua magia."
 						]
 					]
 				}
@@ -4291,8 +4291,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 1st-level Clockwork Soul feature}",
-				"Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a {@dice d20} with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.",
-				"You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+				"La tua connessione al piano dell'ordine assoluto ti consente di equalizzare i momenti caotici. Quando una creatura che puoi vedere entro 60 piedi da te sta per lanciare un {@dice d20} con vantaggio o svantaggio, puoi usare la tua reazione per evitare che il tiro venga influenzato da vantaggio e svantaggio.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -4310,8 +4310,8 @@
 			},
 			"entries": [
 				"{@i 6th-level Clockwork Soul feature}",
-				"You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As an action, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again.",
-				"The ward is represented by a number of {@dice d8}s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice."
+				"Puoi attingere alla grande equazione dell'esistenza per infondere in una creatura uno scintillante scudo di ordine. Con un'azione, puoi spendere da 1 a 5 punti stregoneria per creare una protezione magica attorno a te o a un'altra creatura che puoi vedere entro 9 metri da te. La protezione dura finché non termini un riposo lungo o finché non usi nuovamente questa capacità.",
+				"La tutela è rappresentata da un numero di {@dice d8} pari al numero di punti stregoneria spesi per crearla. Quando la creatura protetta subisce danni, può spendere un certo numero di quei dadi, lanciarli e ridurre il danno subito dal totale tirato su quei dadi."
 			]
 		},
 		{
@@ -4326,8 +4326,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 14th-level Clockwork Soul feature}",
-				"You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the {@dice d20} as a 10.",
-				"Once you use this bonus action, you can't use it again until you finish a long rest, unless you spend 5 sorcery points to use it again."
+				"Ottieni la capacità di allineare la tua coscienza agli infiniti calcoli di Mechanus. Come azione bonus, puoi entrare in questo stato per 1 minuto. Per tutta la durata, i tiri per colpire contro di te non possono beneficiare del vantaggio e ogni volta che effettui un tiro per colpire, una prova di abilità o un tiro salvezza, puoi considerare un tiro di 9 o inferiore su {@dice d20} come un 10.",
+				"Una volta usata questa azione bonus, non puoi usarla di nuovo finché non finisci un riposo lungo, a meno che non spendi 5 punti stregoneria per usarla di nuovo."
 			]
 		},
 		{
@@ -4342,16 +4342,16 @@
 			"header": 2,
 			"entries": [
 				"{@i 18th-level Clockwork Soul feature}",
-				"You summon spirits of order to expunge disorder around you. As an action, you summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, and they create the following effects within the cube before vanishing:",
+				"Evochi gli spiriti dell'ordine per eliminare il disordine intorno a te. Con un'azione, evochi gli spiriti in un cubo di 9 metri proveniente da te. Gli spiriti sembrano modroni o altri costrutti a tua scelta. Gli spiriti sono immateriali e invulnerabili e creano i seguenti effetti all'interno del cubo prima di svanire:",
 				{
 					"type": "list",
 					"items": [
-						"The spirits restore up to 100 hit points, divided as you choose among any number of creatures of your choice in the cube.",
-						"Any damaged objects entirely in the cube are repaired instantly.",
-						"Every spell of 6th level or lower ends on creatures and objects of your choice in the cube."
+						"Gli spiriti ripristinano fino a 100 punti ferita, divisi a tua scelta tra un numero qualsiasi di creature a tua scelta nel cubo.",
+						"Tutti gli oggetti danneggiati interamente nel cubo vengono riparati immediatamente.",
+						"Ogni incantesimo di 6° livello o inferiore termina su creature e oggetti a tua scelta nel cubo."
 					]
 				},
-				"Once you use this action, you can't use it again until you finish a long rest, unless you spend 7 sorcery points to use it again."
+				"Una volta usata questa azione, non puoi usarla di nuovo finché non finisci un riposo lungo, a meno che non spendi 7 punti stregoneria per usarla di nuovo."
 			]
 		},
 		{
@@ -4365,8 +4365,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"The mysterious weave and flow of magic is feared by many folk across Exandria. But while some spellcasters must study the essence and nature of magic in the hope of learning to harness it, sorcerers possess an innate talent to sculpt and wield the errant strands of power that shape the world. For some sorcerers, the body becomes a conduit for this power, which is collected and stored in the form of natural runes\u2014and which sees a sorcerer named as a Runechild.",
-				"The talents of a Runechild are rare, and sorcerers with this origin are sought after for study by mages and scholars alike, driven by a prevalent belief that the secrets of their runes can help understand the mysteries of magic. Others sometimes seek to enslave Runechild sorcerers, using their bodies as tortured spell batteries for diabolic pursuits. Runechild sorcerers were subjugated throughout the {@book Age of Arcanum|TDCSR|1|Age of Arcanum}, and many of their contemporaries now search for ways to hide their essence\u2014a task that isn't easy given the revealing nature of their gifts.",
+				"La misteriosa trama e il flusso della magia sono temuti da molte persone in tutta Exandria. Ma mentre alcuni incantatori devono studiare l'essenza e la natura della magia nella speranza di imparare a sfruttarla, gli stregoni possiedono un talento innato per scolpire e maneggiare i fili erranti del potere che modellano il mondo. Per alcuni stregoni, il corpo diventa un canale per questo potere, che viene raccolto e immagazzinato sotto forma di rune naturali e che vede uno stregone chiamato Runechild.",
+				"I talenti di un Runechild sono rari, e gli stregoni con questa origine sono ricercati per lo studio sia da maghi che da studiosi, guidati dalla convinzione prevalente che i segreti delle loro rune possano aiutare a comprendere i misteri della magia. Altri a volte cercano di schiavizzare gli stregoni Runechild, usando i loro corpi come batterie di incantesimi torturati per scopi diabolici. Gli stregoni figli delle rune furono sottomessi in tutto il {@book Age of Arcanum|TDCSR|1|Age of Arcanum} e molti dei loro contemporanei ora cercano modi per nascondere la propria essenza, un compito non facile data la natura rivelatrice dei loro doni.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Essence Runes|Sorcerer|PHB|Runechild|TDCSR|1"
@@ -4392,11 +4392,11 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"At 1st level, your body begins to express your innate magic as runes traced out across your skin. You start with 1 essence rune, and gain an additional rune whenever you gain a level in this class. These runes can manifest anywhere on your body, though the first usually manifests on the forehead. Your essence runes remain invisible when inert.",
-				"At the end of a turn during which you spent one or more sorcery points, a number of your essence runes equal to the number of sorcery points you spent begin to glow with stored energy, becoming charged runes. You use these charged runes to power your Runechild subclass features. Also, as a bonus action, you may spend a sorcery point to convert two essence runes into two charged runes.",
-				"If you have no sorcery points and no charged runes, you can convert a single essence rune into a charged rune as an action.",
-				"If you have 5 or more charged runes, you emit bright light in a 5-foot radius and dim light for an additional 5 feet.",
-				"If you expend a charged rune to use one of your Runechild features, it returns to being an inert essence rune. Any charged runes also revert to inert essence runes after you finish a {@quickref resting|PHB|2|0|long rest}."
+				"Al 1° livello, il tuo corpo inizia a esprimere la tua magia innata mentre le rune tracciate sulla tua pelle. Inizi con 1 runa essenza e ottieni una runa aggiuntiva ogni volta che guadagni un livello in questa classe. Queste rune possono manifestarsi ovunque sul corpo, anche se le prime di solito si manifestano sulla fronte. Le tue rune essenziali rimangono invisibili quando sono inerti.",
+				"Alla fine di un turno durante il quale hai speso uno o più punti stregoneria, un numero delle tue rune essenza pari al numero di punti stregoneria che hai speso iniziano a brillare dell'energia immagazzinata, diventando rune cariche. Utilizzi queste rune caricate per potenziare le funzionalità della sottoclasse Runechild. Inoltre, come azione bonus, puoi spendere un punto stregoneria per convertire due rune essenza in due rune caricate.",
+				"Se non hai punti stregoneria né rune caricate, puoi convertire una singola runa essenza in una runa carica come azione.",
+				"Se possiedi 5 o più rune cariche, emetti luce intensa in un raggio di 1,5 metri e luce fioca per ulteriori 1,5 metri.",
+				"Se spendi una runa carica per utilizzare una delle tue funzionalità Runechild, ritorna ad essere una runa di essenza inerte. Anche le rune caricate ritornano alle rune dell'essenza inerte dopo aver completato un {@quickref resting|PHB|2|0|long rest}."
 			]
 		},
 		{
@@ -4410,7 +4410,7 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"Starting at 1st level, you can release the stored arcane power within your runes to absorb or deflect threatening attacks. Whenever you take damage, you can expend any number of charged runes as a reaction. Roll a number of {@dice d6|d6s} equal to the number of runes you expended, and reduce the damage by the total."
+				"A partire dal 1° livello, puoi liberare il potere arcano immagazzinato nelle tue rune per assorbire o deviare attacchi minacciosi. Ogni volta che subisci danni, puoi spendere un qualsiasi numero di rune caricate come reazione. Ottieni un numero di {@dice d6|d6s} pari al numero di rune che hai speso e riduci il danno del totale."
 			]
 		},
 		{
@@ -4424,8 +4424,8 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"Beginning at 1st level, you learn additional spells when you reach certain levels in this class, as shown on the Runic Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.",
-				"When you gain a level in this class, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be {@filter an abjuration or transmutation spell from the sorcerer, warlock, or wizard spell list|spells|school=A;T|class=Sorcerer;Warlock;Wizard}.",
+				"A partire dal 1° livello, apprendi incantesimi aggiuntivi quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi runici. Ciascuno di questi incantesimi conta come un incantesimo da stregone per te, ma non conta nel numero di incantesimi da stregone che conosci.",
+				"Quando guadagni un livello in questa classe, puoi sostituire un incantesimo ottenuto da questa capacità con un altro incantesimo dello stesso livello. Il nuovo incantesimo deve essere {@filter an abjuration or transmutation spell from the sorcerer, warlock, or wizard spell list|spells|school=A;T|class=Sorcerer;Warlock;Wizard}.",
 				{
 					"type": "table",
 					"caption": "Runic Spells",
@@ -4473,7 +4473,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"When you reach 6th level, you can touch a creature as an action and expend up to 3 charged runes to transfer your protective power to it for up to 1 hour. The next time that creature takes damage within the next hour, it rolls {@dice 1d6} per charged rune spent and reduces the damage by the total. You can't transfer this power to a creature already under the effect of Glyph of Aegis."
+				"Quando raggiungi il 6° livello, puoi toccare una creatura come azione e spendere fino a 3 rune caricate per trasferirle il tuo potere protettivo per un massimo di 1 ora. La prossima volta che quella creatura subisce danni entro l'ora successiva, tira {@dice 1d6} per runa caricata spesa e riduce il danno del totale. Non puoi trasferire questo potere a una creatura già sotto l'effetto del Glifo dell'Egida."
 			]
 		},
 		{
@@ -4487,8 +4487,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Also at 6th level, you can reveal hidden glyphs and enchantments that surround you. As an action, you expend one charged rune to reveal hidden or invisible arcane traps, marks, runes, wards, sensors, or glyphs within 60 feet of you. They glow with dim light in a 5-foot radius for 1 minute.",
-				"You have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on Intelligence ({@skill Arcana}) checks to discern the nature of any magic revealed in this way for the duration. If the glyphs you reveal mean something in a language you can't read, you can understand them while they are glowing as if you knew that language."
+				"Sempre al 6° livello, puoi rivelare glifi nascosti e incantesimi che ti circondano. Come azione, si spende una runa carica per rivelare trappole arcane, marchi, rune, protezioni, sensori o glifi nascosti o invisibili entro 18 metri da sé. Brillano di luce fioca in un raggio di 1,5 metri per 1 minuto.",
+				"Hai {@quickref Advantage and Disadvantage|PHB|2|0|advantage} sulle prove di Intelligenza ({@skill Arcana}) per discernere la natura di qualsiasi magia rivelata in questo modo per la durata. Se i glifi che riveli significano qualcosa in una lingua che non puoi leggere, puoi capirli mentre brillano come se conoscessi quella lingua."
 			]
 		},
 		{
@@ -4502,8 +4502,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you can channel your runes to temporarily bolster your physical capabilities. When you make a Strength, Dexterity, or Constitution ability check, you can expend a charged rune as a reaction to gain {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on the roll.",
-				"In addition, when you are forced to make a Strength, Dexterity, or Constitution {@quickref saving throws|PHB|2|1|saving throw}, you can use your reaction and expend a charged rune to gain {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on the {@quickref saving throws|PHB|2|1|saving throw}. Once you use this feature in this way, you can't use it in this way again until you complete a {@quickref resting|PHB|2|0|long rest}."
+				"Al 6° livello, puoi incanalare le tue rune per rafforzare temporaneamente le tue capacità fisiche. Quando effettui una prova di abilità di Forza, Destrezza o Costituzione, puoi spendere una runa caricata come reazione per ottenere {@quickref Advantage and Disadvantage|PHB|2|0|advantage} sul tiro.",
+				"Inoltre, quando sei costretto a creare Forza, Destrezza o Costituzione {@quickref saving throws|PHB|2|1|saving throw}, puoi usare la tua reazione e spendere una runa carica per ottenere {@quickref Advantage and Disadvantage|PHB|2|0|advantage} su {@quickref saving throws|PHB|2|1|saving throw}. Una volta utilizzata questa funzionalità in questo modo, non potrai utilizzarla nuovamente in questo modo finché non avrai completato un {@quickref resting|PHB|2|0|long rest}."
 			]
 		},
 		{
@@ -4517,7 +4517,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Your Glyph of Aegis die becomes a {@dice d8} at 14th level."
+				"Il tuo dado Glifo dell'Egida diventa {@dice d8} al 14° livello."
 			]
 		},
 		{
@@ -4531,8 +4531,8 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Upon reaching 14th level, you can channel runic energy to overpower even the staunchest defenses. When you cast a spell, you can expend 2 charged runes to cause the spell to deal force damage instead of its usual damage types. Additionally, all creatures targeted by the spell or within the spell's area must succeed on a Strength {@quickref saving throws|PHB|2|1|saving throw} against your spell save DC or be knocked prone or pushed up to 15 feet away from the spell's point of origin (your choice).",
-				"Once you use this feature, you can't do so again until you complete a {@quickref resting|PHB|2|0|short or long rest}."
+				"Una volta raggiunto il 14° livello, puoi incanalare l'energia runica per sopraffare anche le difese più tenaci. Quando lanci un incantesimo, puoi spendere 2 rune caricate per far sì che l'incantesimo infligga danni da forza invece dei normali tipi di danno. Inoltre, tutte le creature prese di mira dall'incantesimo o all'interno dell'area dell'incantesimo devono superare un punteggio di Forza {@quickref saving throws|PHB|2|1|saving throw} contro la CD del tiro salvezza dell'incantesimo o essere gettate prone o spinte fino a 15 piedi di distanza dal punto di origine dell'incantesimo (a tua scelta).",
+				"Una volta utilizzata questa funzione, non potrai farlo di nuovo finché non avrai completato un {@quickref resting|PHB|2|0|short or long rest}."
 			]
 		},
 		{
@@ -4546,18 +4546,18 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"Starting at 18th level, you can use a bonus action and expend a charged rune to become a being of pure magical energy. While in your exemplar form, you gain the following benefits:",
+				"A partire dal 18° livello, puoi utilizzare un'azione bonus e spendere una runa carica per diventare un essere di pura energia magica. Mentre sei nella tua forma esemplare, ottieni i seguenti benefici:",
 				{
 					"type": "list",
 					"items": [
-						"You have a flying speed of 60 feet.",
-						"Creatures have {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage} on {@quickref saving throws|PHB|2|1} against your sorcerer spells.",
-						"You have resistance to damage dealt by spells.",
-						"Whenever you cast a spell of 1st level or higher, you regain hit points equal to the spell's level."
+						"Hai una velocità di volo di 60 piedi.",
+						"Le creature hanno {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage} attivo {@quickref saving throws|PHB|2|1} contro i tuoi incantesimi da stregone.",
+						"Hai resistenza ai danni inflitti dagli incantesimi.",
+						"Ogni volta che lanci un incantesimo di 1° livello o superiore, recuperi punti ferita pari al livello dell'incantesimo."
 					]
 				},
-				"Your exemplar form lasts until the end of your turn. However, you can expend a charged rune at the end of your turn (no action required) to extend the duration until the end of your next turn. When your exemplar form ends, you are {@condition stunned} until the end of your next turn.",
-				"Once you use this feature, you can't use it again until you complete a {@quickref resting|PHB|2|0|long rest}."
+				"La tua forma esemplare dura fino alla fine del tuo turno. Tuttavia, puoi spendere una runa carica alla fine del tuo turno (non è richiesta alcuna azione) per estenderne la durata fino alla fine del tuo turno successivo. Quando la tua forma esemplare termina, sei {@condition stunned} fino alla fine del tuo turno successivo.",
+				"Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@quickref resting|PHB|2|0|long rest}."
 			]
 		},
 		{
@@ -4570,10 +4570,10 @@
 			"subclassSource": "XGE",
 			"level": 1,
 			"entries": [
-				"Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name.",
-				"Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.",
-				"A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.",
-				"In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.",
+				"A volte la scintilla di magia che alimenta uno stregone proviene da una fonte divina che brilla nell'anima. Avere un'anima così benedetta è un segno che la tua magia innata potrebbe provenire da una connessione familiare lontana ma potente con un essere divino. Forse il tuo antenato era un angelo, trasformato in mortale e mandato a combattere in nome di un dio.",
+				"Oppure la tua nascita potrebbe allinearsi con un'antica profezia, contrassegnandoti come un servitore degli dei o un vaso prescelto della magia divina.",
+				"Un'Anima Divina, dotata di un magnetismo naturale, è vista come una minaccia da alcune gerarchie religiose. In quanto estraneo che comanda il potere sacro, un'Anima Divina può minare un ordine esistente rivendicando un legame diretto con il divino.",
+				"In alcune culture, solo coloro che possono rivendicare il potere di un'Anima Divina possono comandare il potere religioso. In queste terre le posizioni ecclesiastiche sono dominate da poche stirpi e preservate per generazioni.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Divine Magic|Sorcerer||Divine Soul|XGE|1"
@@ -4595,8 +4595,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.",
-				"In addition, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn an additional spell based on that affinity, as shown below. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known. If you later replace this spell, you must replace it with a spell from the cleric spell list.",
+				"Il tuo legame con il divino ti consente di imparare gli incantesimi della classe del chierico. Quando la tua capacità di lanciare incantesimi ti consente di apprendere o sostituire un trucchetto da stregone o un incantesimo da stregone di 1° livello o superiore, puoi scegliere il nuovo incantesimo dalla lista degli incantesimi da chierico o dalla lista degli incantesimi da stregone. Altrimenti devi obbedire a tutte le restrizioni per la selezione dell'incantesimo, e per te diventerà un incantesimo da stregone.",
+				"Inoltre, scegli un'affinità per la fonte del tuo potere divino: bene, male, legge, caos o neutralità. Apprendi un incantesimo aggiuntivo basato su tale affinità, come mostrato di seguito. Per te è un incantesimo da stregone, ma non conta nel numero di incantesimi da stregone conosciuti. Se in seguito sostituisci questo incantesimo, devi sostituirlo con un incantesimo dalla lista degli incantesimi del chierico.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -4621,11 +4621,11 @@
 							"{@spell bless}"
 						],
 						[
-							"Chaos",
+							"Caos",
 							"{@spell bane}"
 						],
 						[
-							"Neutrality",
+							"Neutralità",
 							"{@spell protection from evil and good}"
 						]
 					]
@@ -4643,7 +4643,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll {@dice 2d4} and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest."
+				"A partire dal 1° livello, il potere divino custodisce il tuo destino. Se fallisci un tiro salvezza o manchi un tiro per colpire, puoi tirare {@dice 2d4} e aggiungerlo al totale, eventualmente cambiando il risultato. Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo breve o lungo."
 			]
 		},
 		{
@@ -4660,7 +4660,7 @@
 				"name": "Sorcery Point"
 			},
 			"entries": [
-				"Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't {@condition incapacitated}. You can use this feature only once per turn."
+				"A partire dal 6° livello, l'energia divina che scorre attraverso di te può potenziare incantesimi di guarigione. Ogni volta che tu o un alleato entro 1,5 piedi da te tirate i dadi per determinare il numero di punti ferita ripristinati da un incantesimo, puoi spendere 1 punto stregoneria per ripetere il lancio di un numero qualsiasi di quei dadi una volta, a condizione che tu non lo faccia {@condition incapacitated}. Puoi utilizzare questa funzione solo una volta per turno."
 			]
 		},
 		{
@@ -4674,8 +4674,8 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're {@condition incapacitated}, you die, or you dismiss them as a bonus action.",
-				"The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality."
+				"A partire dal 14° livello, puoi usare un'azione bonus per manifestare un paio di ali spettrali dalla tua schiena. Finché le ali sono presenti, hai una velocità di volo di 9 metri. Le ali durano finché non sei {@condition incapacitated}, muori o le elimini come azione bonus.",
+				"L'affinità che hai scelto per la tua caratteristica Magia Divina determina l'aspetto delle ali spettrali: ali d'aquila per il bene o la legge, ali di pipistrello per il male o il caos e ali di libellula per la neutralità."
 			]
 		},
 		{
@@ -4689,8 +4689,8 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.",
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Al 18° livello, ottieni la capacità di superare ferite gravi. Come azione bonus, quando hai meno della metà dei tuoi punti ferita rimanenti, puoi recuperare un numero di punti ferita pari alla metà dei tuoi punti ferita massimi.",
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -4703,8 +4703,8 @@
 			"subclassSource": "XGE",
 			"level": 1,
 			"entries": [
-				"You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.",
-				"The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.",
+				"Sei una creatura dell'ombra, poiché la tua magia innata proviene dalla stessa Coltre Oscura. Potresti far risalire il tuo lignaggio a un'entità di quel luogo, o forse sei stato esposto alla sua energia malvagia e trasformato da essa.",
+				"Il potere della magia dell'ombra getta uno strano velo sulla tua presenza fisica. La scintilla di vita che ti sostiene è ovattata, come se lottasse per rimanere vitale contro l’energia oscura che permea la tua anima. A tua scelta, puoi scegliere o tirare sulla tabella delle Quirk dello Stregone dell'Ombra per creare una peculiarità per il tuo personaggio.",
 				{
 					"type": "table",
 					"caption": "Shadow Sorcerer Quirks",
@@ -4719,27 +4719,27 @@
 					"rows": [
 						[
 							"1",
-							"You are always icy cold to the touch."
+							"Sei sempre ghiacciato al tatto."
 						],
 						[
 							"2",
-							"When you are asleep, you don't appear to breathe (though you must still breathe to survive)."
+							"Quando dormi, sembra che tu non respiri (anche se devi comunque respirare per sopravvivere)."
 						],
 						[
 							"3",
-							"You barely bleed, even when badly injured."
+							"Sanguini a malapena, anche se gravemente ferito."
 						],
 						[
 							"4",
-							"Your heart beats once per minute. This event sometimes surprises you."
+							"Il tuo cuore batte una volta al minuto. Questo evento a volte ti sorprende."
 						],
 						[
 							"5",
-							"You have trouble remembering that living creatures and corpses should be treated differently."
+							"Hai difficoltà a ricordare che le creature viventi e i cadaveri dovrebbero essere trattati diversamente."
 						],
 						[
 							"6",
-							"You blinked. Once. Last week."
+							"Hai sbattuto le palpebre. Una volta. La settimana scorsa."
 						]
 					]
 				},
@@ -4764,8 +4764,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, you have {@sense darkvision} with a range of 120 feet.",
-				"When you reach 3rd level in this class, you learn the {@spell darkness} spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the {@spell darkness} created by the spell."
+				"A partire dal 1° livello, hai {@sense darkvision} con un raggio di 120 piedi.",
+				"Quando raggiungi il 3° livello in questa classe, impari l'incantesimo {@spell darkness}, che non conta nel numero di incantesimi da stregone conosciuti. Inoltre, puoi lanciarlo spendendo 2 punti stregoneria o spendendo uno slot incantesimo. Se lo lanci con punti stregoneria, puoi vedere attraverso il {@spell darkness} creato dall'incantesimo."
 			]
 		},
 		{
@@ -4779,8 +4779,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw ({@dc 5} + the damage taken). On a success, you instead drop to 1 hit point. You can't use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.",
-				"After the saving throw succeeds, you can't use this feature again until you finish a long rest."
+				"A partire dal 1° livello, la tua esistenza in uno stato crepuscolare tra la vita e la morte ti rende difficile da sconfiggere. Quando il danno ti riduce a 0 punti ferita, puoi effettuare un tiro salvezza su Carisma ({@dc 5} + il danno subito). In caso di successo, scendi invece a 1 punto ferita. Non puoi usare questa capacità se vieni ridotto a 0 punti ferita da un danno radioso o da un colpo critico.",
+				"Dopo che il tiro salvezza ha avuto successo, non puoi utilizzare nuovamente questo privilegio finché non termini un riposo lungo."
 			]
 		},
 		{
@@ -4798,17 +4798,17 @@
 				"amount": 3
 			},
 			"entries": [
-				"At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a {@creature hound of ill omen|XGE} to target one creature you can see within 120 feet of you. The hound uses the {@creature dire wolf}'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:",
+				"Al 6° livello, ottieni la capacità di evocare una creatura ululante dell'oscurità per molestare i tuoi nemici. Come azione bonus, puoi spendere 3 punti stregoneria per evocare magicamente un {@creature hound of ill omen|XGE} per prendere di mira una creatura che puoi vedere entro 120 piedi da te. Il segugio utilizza le statistiche del {@creature dire wolf} (vedi il Manuale dei Mostri o l'appendice C nel Manuale del Giocatore), con le seguenti modifiche:",
 				{
 					"type": "list",
 					"items": [
-						"The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.",
-						"It appears with a number of temporary hit points equal to half your sorcerer level.",
-						"It can move through other creatures and objects as if they were {@quickref difficult terrain||3}. The hound takes 5 force damage if it ends its turn inside an object.",
-						"At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound."
+						"Il segugio è di taglia Media, non Grande, e conta come una mostruosità, non come una bestia.",
+						"Appare con un numero di punti ferita temporanei pari alla metà del tuo livello da stregone.",
+						"Può muoversi attraverso altre creature e oggetti come se lo fossero {@quickref difficult terrain||3}. Il segugio subisce 5 danni da forza se termina il suo turno all'interno di un oggetto.",
+						"All'inizio del suo turno, il segugio conosce automaticamente la posizione del suo bersaglio. Se il bersaglio era nascosto, non è più nascosto al segugio."
 					]
 				},
-				"The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only toward its target by the most direct route, and it can use its action only to attack its target. The hound can make opportunity attacks, but only against its target. Additionally, while the hound is within 5 feet of the target, the target has disadvantage on saving throws against any spell you cast. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes."
+				"Il segugio appare in uno spazio non occupato a tua scelta entro 9 metri dal bersaglio. Tira l'iniziativa per il segugio. Nel suo turno, può muoversi solo verso il suo bersaglio per la via più diretta e può usare la sua azione solo per attaccare il suo bersaglio. Il segugio può effettuare attacchi di opportunità, ma solo contro il suo bersaglio. Inoltre, finché il segugio si trova entro 1,5 metri dal bersaglio, il bersaglio ha svantaggio ai tiri salvezza contro qualsiasi incantesimo lanciato dall'incantatore. Il segugio scompare se viene ridotto a 0 punti ferita, se il suo bersaglio viene ridotto a 0 punti ferita o dopo 5 minuti."
 			]
 		},
 		{
@@ -4822,7 +4822,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"At 14th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action, you can magically teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness."
+				"Al 14° livello, ottieni la capacità di passare da un'ombra all'altra. Quando sei in penombra o nell'oscurità, come azione bonus, puoi teletrasportarti magicamente fino a 120 piedi in uno spazio non occupato che puoi vedere e che è anch'esso in penombra o nell'oscurità."
 			]
 		},
 		{
@@ -4840,8 +4840,8 @@
 				"amount": 6
 			},
 			"entries": [
-				"Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were {@quickref difficult terrain||3}. You take 5 force damage if you end your turn inside an object.",
-				"You remain in this form for 1 minute. It ends early if you are {@condition incapacitated}, if you die, or if you dismiss it as a bonus action."
+				"A partire dal 18° livello, puoi spendere 6 punti stregoneria come azione bonus per trasformarti magicamente in una forma oscura. In questa forma, hai resistenza a tutti i danni tranne quelli di forza e radianti, e puoi muoverti attraverso altre creature e oggetti come se lo fossero {@quickref difficult terrain||3}. Subisci 5 danni da forza se finisci il tuo turno all'interno di un oggetto.",
+				"Rimani in questa forma per 1 minuto. Termina presto se lo sei {@condition incapacitated}, se muori o se lo ignori come azione bonus."
 			]
 		},
 		{
@@ -4854,8 +4854,8 @@
 			"subclassSource": "XGE",
 			"level": 1,
 			"entries": [
-				"Your innate magic comes from the power of elemental air. Many with this power can trace their magic back to a near-death experience caused by the Great Rain, but perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as djinn. Whatever the case, the magic of the storm permeates your being.",
-				"Storm sorcerers are invaluable members of a ship's crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.",
+				"La tua magia innata deriva dal potere dell'aria elementale. Molti con questo potere possono far risalire la loro magia a un'esperienza di pre-morte causata dalla Grande Pioggia, ma forse sei nato durante una tempesta ululante così potente che la gente ne racconta ancora storie, o il tuo lignaggio potrebbe includere l'influenza di potenti creature dell'aria come i djinn. In ogni caso, la magia della tempesta permea il tuo essere.",
+				"Gli stregoni della tempesta sono membri inestimabili dell'equipaggio di una nave. La loro magia consente loro di esercitare il controllo sul vento e sul tempo nelle loro immediate vicinanze. Le loro abilità si rivelano utili anche per respingere gli attacchi di sahuagin, pirati e altre minacce marine.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Wind Speaker|Sorcerer||Storm|XGE|1"
@@ -4877,7 +4877,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, you can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks."
+				"A partire dal 1° livello, puoi utilizzare un'azione bonus nel tuo turno per far sì che folate vorticose di aria elementale ti circondino brevemente, immediatamente prima o dopo aver lanciato un incantesimo di 1° livello o superiore. Ciò ti consente di volare fino a 3 metri senza provocare attacchi di opportunità."
 			]
 		},
 		{
@@ -4891,7 +4891,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"The arcane magic you command is infused with elemental air. You can speak, read, and write {@language Primordial}. Knowing this language allows you to understand and be understood by those who speak its dialects: {@language Primordial||Aquan}, {@language Primordial||Auran}, {@language Primordial||Ignan}, and {@language Primordial||Terran}."
+				"La magia arcana che comandi è infusa con l'aria elementale. Puoi parlare, leggere e scrivere {@language Primordial}. Conoscere questa lingua permette di comprendere e farsi comprendere da chi ne parla i dialetti: {@language Primordial||Aquan}, {@language Primordial||Auran}, {@language Primordial||Ignan} e {@language Primordial||Terran}."
 			]
 		},
 		{
@@ -4905,7 +4905,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you gain resistance to lightning and thunder damage. In addition, whenever you start casting a spell of 1st level or higher that deals lightning or thunder damage, stormy magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level."
+				"Al 6° livello, ottieni resistenza ai danni da fulmine e tuono. Inoltre, ogni volta che inizi a lanciare un incantesimo di 1° livello o superiore che infligge danni da fulmine o tuono, da te erompe una magia tempestosa. Questa eruzione fa sì che le creature di tua scelta che puoi vedere entro 3 metri da te subiscano danni da fulmine o tuono (scegli ogni volta che questa capacità si attiva) pari alla metà del tuo livello da Stregone."
 			]
 		},
 		{
@@ -4919,9 +4919,9 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you gain the ability to subtly control the weather around you.",
-				"If it is raining, you can use an action to cause the rain to stop falling in a 20-foot-radius sphere centered on you. You can end this effect as a bonus action.",
-				"If it is windy, you can use a bonus action each round to choose the direction that the wind blows in a 100-foot-radius sphere centered on you. The wind blows in that direction until the end of your next turn. This feature doesn't alter the speed of the wind."
+				"Al 6° livello, ottieni la capacità di controllare astutamente il tempo intorno a te.",
+				"Se sta piovendo, puoi usare un'azione per far sì che la pioggia smetta di cadere in una sfera del raggio di 6 metri centrata su di te. Puoi porre fine a questo effetto come azione bonus.",
+				"Se c'è vento, puoi usare un'azione bonus ogni round per scegliere la direzione in cui soffia il vento in una sfera di 30 metri di raggio centrata su di te. Il vento soffia in quella direzione fino alla fine del tuo prossimo turno. Questa caratteristica non altera la velocità del vento."
 			]
 		},
 		{
@@ -4935,7 +4935,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker. The damage equals your sorcerer level. The attacker must also make a Strength saving throw against your sorcerer spell save DC. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you."
+				"A partire dal 14° livello, quando vieni colpito da un attacco in mischia, puoi usare la tua reazione per infliggere danni fulminei all'attaccante. Il danno è pari al tuo livello da stregone. L'attaccante deve anche effettuare un tiro salvezza su Forza contro la CD del tiro salvezza del tuo incantesimo da stregone. Se fallisce il Tiro Salvezza, l'attaccante viene spinto in linea retta fino a 6 metri di distanza da te."
 			]
 		},
 		{
@@ -4949,8 +4949,8 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"At 18th level, you gain immunity to lightning and thunder damage.",
-				"You also gain a magical flying speed of 60 feet. As an action, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can't do so again until you finish a short or long rest."
+				"Al 18° livello, ottieni l'immunità ai danni da fulmine e tuono.",
+				"Ottieni anche una velocità di volo magica di 18 metri. Come azione, puoi ridurre la tua velocità di volo a 9 metri per 1 ora e scegliere un numero di creature entro 9 metri da te pari a 3 + il tuo modificatore di Carisma. Le creature scelte ottengono una velocità di volo magica di 9 metri per 1 ora. Una volta ridotta la velocità di volo in questo modo, non è possibile farlo nuovamente finché non si termina un riposo breve o lungo."
 			]
 		},
 		{
@@ -4983,7 +4983,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"You or one creature you can see within 30 feet of yourself gains {@variantrule Temporary Hit Points|XPHB} equal to {@dice 1d4} plus your Charisma modifier."
+				"Tu o una creatura che puoi vedere entro 9 metri da te guadagnate {@variantrule Temporary Hit Points|XPHB} pari a {@dice 1d4} più il tuo modificatore di Carisma."
 			]
 		},
 		{
@@ -4995,7 +4995,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"One creature you can see within 30 feet of yourself takes {@damage 1d4} Fire or Radiant damage (your choice)."
+				"Una creatura che puoi vedere entro 9 metri da te subisce {@damage 1d4} danni da fuoco o radiosi (a tua scelta)."
 			]
 		},
 		{
@@ -5007,7 +5007,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"When you spend at least 1 Sorcery Point as part of the {@action Magic|XPHB} action or a {@variantrule Bonus Action|XPHB} on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.",
+				"Quando spendi almeno 1 punto stregoneria come parte dell'azione {@action Magic|XPHB} o {@variantrule Bonus Action|XPHB} nel tuo turno, puoi scatenare uno dei seguenti effetti magici a tua scelta. Puoi farlo solo una volta per turno.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bolstering Flames|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF"
@@ -5028,8 +5028,8 @@
 			"level": 3,
 			"entries": [
 				"{@i Wield Raw Magic}",
-				"Your innate power stems from the source of magic itself: the Weave. This connection manifests as a rare ability known as spellfire, and you surge with radiant bursts of this raw magic. Your talent with spellfire allows you to heal allies, sear enemies, and absorb powerful spells.",
-				"Wielders of spellfire tend to have a penchant for wandering. Many travel between cosmopolitan settlements, such as those along the Sword Coast, and wield their magic in service of the common good. Others realize their own strange powers by roaming equally strange lands, from the magic-blasted wastes of the desert of Anauroch to the god-touched wilds of the Old Empires. Wherever they go in the Realms, spellfire Sorcerers are courted by factions with interests in the arcane arts, such as the Harpers, Cult of the Dragon, and Red Wizards.",
+				"Il tuo potere innato deriva dalla fonte stessa della magia: la Trama. Questa connessione si manifesta come una rara abilità conosciuta come fuoco magico, e ti fa esplodere con esplosioni radiose di questa magia pura. Il tuo talento con il fuoco magico ti consente di curare gli alleati, bruciare i nemici e assorbire potenti incantesimi.",
+				"I detentori del fuoco magico tendono ad avere un debole per il vagabondare. Molti viaggiano tra insediamenti cosmopoliti, come quelli lungo la Costa della Spada, ed esercitano la loro magia al servizio del bene comune. Altri realizzano i propri strani poteri vagando per terre altrettanto strane, dalle distese magiche del deserto di Anauroch alle terre selvagge toccate dagli dei degli Antichi Imperi. Ovunque vadano nei Regni, gli Stregoni del Fuoco Magico sono corteggiati da fazioni interessate alle arti arcane, come gli Arpisti, il Culto del Drago e i Maghi Rossi.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Spellfire Burst|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF"
@@ -5049,7 +5049,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"When you reach a Sorcerer level specified in the Spellfire Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello da Stregone specificato nella tabella Incantesimi del Fuoco Magico, da quel momento in poi avrai sempre preparati gli incantesimi elencati.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -5091,8 +5091,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You always have {@spell Counterspell|XPHB} prepared.",
-				"Additionally, whenever a target fails the saving throw against a {@spell Counterspell|XPHB} you cast, you regain {@dice 1d4} Sorcery Points."
+				"Hai sempre {@spell Counterspell|XPHB} preparato.",
+				"Inoltre, ogni volta che un bersaglio fallisce il tiro salvezza contro un {@spell Counterspell|XPHB} da te lanciato, recuperi {@dice 1d4} punti stregoneria."
 			]
 		},
 		{
@@ -5105,7 +5105,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Your {@subclassFeature Spellfire Burst|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF} improves. You add your {@class Sorcerer|XPHB} level to the {@variantrule Temporary Hit Points|XPHB} gained from {@subclassFeature Bolstering Flames|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF}, and the damage of {@subclassFeature Radiant Fire|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF} increases to {@dice 1d8}."
+				"Il tuo {@subclassFeature Spellfire Burst|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF} migliora. Aggiungi il tuo livello {@class Sorcerer|XPHB} al {@variantrule Temporary Hit Points|XPHB} guadagnato da {@subclassFeature Bolstering Flames|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF} e il danno di {@subclassFeature Radiant Fire|Sorcerer|XPHB|Spellfire|FRHoF|3|FRHoF} aumenta a {@dice 1d8}."
 			]
 		},
 		{
@@ -5122,13 +5122,13 @@
 				"amount": 7
 			},
 			"entries": [
-				"When you use {@classFeature Innate Sorcery|Sorcerer|XPHB|1}, you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you spend 5 Sorcery Points (no action required) to restore your use of it.",
+				"Quando usi {@classFeature Innate Sorcery|Sorcerer|XPHB|1}, puoi alterarlo e infonderti con l'essenza del fuoco magico, ottenendo i seguenti benefici mentre questo uso della stregoneria innata è attivo. Una volta utilizzata questa funzione per alterare la stregoneria innata, non puoi usarla di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi 5 punti stregoneria (non è richiesta alcuna azione) per ripristinarne l'uso.",
 				{
 					"type": "entries",
 					"name": "Burning Life Force",
 					"page": 8,
 					"entries": [
-						"Once per turn when you are hit by an attack roll, you can expend a number of {@variantrule Hit Point Dice|XPHB}, up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice, and reduce the amount of damage from that attack equal to the total rolled."
+						"Una volta per turno, quando vieni colpito da un tiro per colpire, puoi spendere un numero di {@variantrule Hit Point Dice|XPHB}, fino a un massimo pari al tuo modificatore di Carisma (minimo uno). Lancia i dadi spesi e riduci l'ammontare dei danni derivanti da quell'attacco pari al totale tirato."
 					]
 				},
 				{
@@ -5136,7 +5136,7 @@
 					"name": "Flight",
 					"page": 8,
 					"entries": [
-						"You gain a {@variantrule Fly Speed|XPHB} of 60 feet and can hover."
+						"Guadagni un {@variantrule Fly Speed|XPHB} di 60 piedi e puoi restare librato."
 					]
 				},
 				{
@@ -5144,7 +5144,7 @@
 					"name": "Spell Avoidance",
 					"page": 8,
 					"entries": [
-						"When you're subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this benefit if you have the {@condition Incapacitated|XPHB} condition."
+						"Quando sei soggetto a un incantesimo o effetto magico che ti consente di effettuare un tiro salvezza per subire solo la metà dei danni, non subisci invece alcun danno se riesci nel tiro salvezza e solo la metà dei danni se fallisci. Non puoi utilizzare questo vantaggio se possiedi la condizione {@condition Incapacitated|XPHB}."
 					]
 				}
 			]
@@ -5350,8 +5350,8 @@
 			"level": 3,
 			"entries": [
 				"{@i Wield Unnatural Psionic Power}",
-				"An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?",
-				"Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm's warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole's psionic power is yours. However you acquired this power, your mind is aflame with it.",
+				"Un'influenza aliena ha avvolto i suoi tentacoli attorno alla tua mente, conferendoti potere psionico. Ora puoi toccare altre menti con quel potere e alterare il mondo intorno a te. Questo potere risplenderà da te come un faro di speranza per gli altri? O sarai un terrore per coloro che sentono la fitta della tua mente?",
+				"Forse un vento psichico proveniente dal Piano Astrale ti ha portato energia psionica, oppure sei stato esposto all'influenza deformante del Regno Remoto. In alternativa, ti è stato impiantato un girino mind flayer, ma la tua trasformazione in un mind flayer non è mai avvenuta; ora il potere psionico del girino è tuo. Comunque tu abbia acquisito questo potere, la tua mente ne è in fiamme.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Psionic Spells|Sorcerer|XPHB|Aberrant|XPHB|3"
@@ -5373,7 +5373,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Sorcerer level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello da Stregone specificato nella tabella degli incantesimi psionici, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Psionic Spells",
@@ -5417,8 +5417,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can form a telepathic connection between your mind and the mind of another. As a {@variantrule Bonus Action|XPHB}, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.",
-				"The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature."
+				"Puoi formare una connessione telepatica tra la tua mente e la mente di un altro. Come {@variantrule Bonus Action|XPHB}, scegli una creatura che puoi vedere entro 9 metri da te. Tu e la creatura scelta potete comunicare telepaticamente tra loro mentre vi trovate entro un numero di miglia l'uno dall'altro pari al vostro modificatore di Carisma (minimo 1 miglio). Per capirvi, ognuno di voi deve usare mentalmente una lingua che l'altro conosce.",
+				"La connessione telepatica dura un numero di minuti pari al tuo livello da Stregone. Termina presto se usi questa capacità per stabilire una connessione con una creatura diversa."
 			]
 		},
 		{
@@ -5432,7 +5432,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it."
+				"Quando lanci un qualsiasi incantesimo di livello 1+ dalla tua funzione Incantesimi psionici, puoi lanciarlo spendendo uno slot incantesimo normalmente o spendendo un numero di Punti Stregoneria pari al livello dell'incantesimo. Se lanci l'incantesimo usando Punti Stregoneria, non richiede componenti Verbali o Somatiche, e non richiede componenti Materiali a meno che non siano consumate dall'incantesimo o abbiano un costo specificato in esso."
 			]
 		},
 		{
@@ -5446,7 +5446,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You have {@variantrule Resistance|XPHB} to Psychic damage, and you have {@variantrule Advantage|XPHB} on saving throws to avoid or end the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} condition."
+				"Hai {@variantrule Resistance|XPHB} al danno psichico e hai {@variantrule Advantage|XPHB} ai tiri salvezza per evitare o terminare la condizione {@condition Charmed|XPHB} o {@condition Frightened|XPHB}."
 			]
 		},
 		{
@@ -5460,7 +5460,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"You can unleash the aberrant truth hidden within yourself. As a {@variantrule Bonus Action|XPHB}, you can spend 1 Sorcery Point or more to magically alter your body for 10 minutes. For each Sorcery Point you spend, you gain one of the following benefits of your choice, the effects of which last until the alteration ends.",
+				"Puoi liberare la verità aberrante nascosta dentro di te. Come {@variantrule Bonus Action|XPHB}, puoi spendere 1 punto stregoneria o più per alterare magicamente il tuo corpo per 10 minuti. Per ogni Punto Stregoneria speso, ottieni uno dei seguenti benefici a tua scelta, i cui effetti durano fino al termine dell'alterazione.",
 				{
 					"type": "entries",
 					"entries": [
@@ -5468,28 +5468,28 @@
 							"type": "entries",
 							"name": "Aquatic Adaptation",
 							"entries": [
-								"You gain a {@variantrule Swim Speed|XPHB} equal to twice your {@variantrule Speed|XPHB}, and you can breathe underwater. Gills grow from your neck or flare behind your ears, and your fingers become webbed or you grow wriggling cilia."
+								"Ottieni un {@variantrule Swim Speed|XPHB} pari al doppio del tuo {@variantrule Speed|XPHB} e puoi respirare sott'acqua. Le branchie crescono dal collo o si allargano dietro le orecchie e le dita diventano palmate o crescono ciglia contorte."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Glistening Flight",
 							"entries": [
-								"You gain a {@variantrule Fly Speed|XPHB} equal to your {@variantrule Speed|XPHB}, and you can hover. As you fly, your skin glistens with mucus or otherworldly light."
+								"Ottieni un {@variantrule Fly Speed|XPHB} pari al tuo {@variantrule Speed|XPHB} e puoi restare sospeso. Mentre voli, la tua pelle brilla di muco o di luce ultraterrena."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "See the Invisible",
 							"entries": [
-								"You can see any {@condition Invisible|XPHB} creature within 60 feet of yourself that isn't behind {@variantrule Cover|XPHB|Total Cover}. Your eyes also turn black or become writhing sensory tendrils."
+								"Puoi vedere qualsiasi creatura {@condition Invisible|XPHB} entro 60 piedi da te che non sia dietro {@variantrule Cover|XPHB|Total Cover}. Anche i tuoi occhi diventano neri o diventano viticci sensoriali contorti."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Wormlike Movement",
 							"entries": [
-								"Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch, and you can spend 5 feet of movement to escape from nonmagical restraints or the {@condition Grappled|XPHB} condition."
+								"Il tuo corpo, insieme a qualsiasi attrezzatura che indossi o trasporti, diventa viscido e flessibile. Puoi muoverti attraverso qualsiasi spazio stretto fino a 1 pollice e puoi spendere 1,5 metri di movimento per sfuggire alle restrizioni non magiche o alla condizione {@condition Grappled|XPHB}."
 							]
 						}
 					]
@@ -5511,8 +5511,8 @@
 				"amount": 5
 			},
 			"entries": [
-				"You can unleash a space-warping anomaly. As a {@action Magic|XPHB} action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes {@damage 3d10} Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB} unless you spend 5 Sorcery Points (no action required) to restore your use of it."
+				"Puoi scatenare un'anomalia che deforma lo spazio. Come azione {@action Magic|XPHB}, ti teletrasporti in uno spazio non occupato che puoi vedere entro 120 piedi da te. Immediatamente dopo la tua scomparsa, ogni creatura entro 9 metri dallo spazio che hai lasciato deve effettuare un tiro salvezza su Forza contro la CD del tuo tiro salvezza dell'incantesimo. In caso di tiro salvezza fallito, una creatura subisce {@damage 3d10} danni di Forza e viene trascinata direttamente verso lo spazio che hai lasciato, finendo in uno spazio non occupato il più vicino possibile al tuo spazio precedente. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni.",
+				"Una volta utilizzata questa funzione, non puoi farlo di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi 5 punti stregoneria (non è richiesta alcuna azione) per ripristinarne l'utilizzo."
 			]
 		},
 		{
@@ -5526,7 +5526,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Channel Cosmic Forces of Order}",
-				"The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it\u2014a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.",
+				"La forza cosmica dell'ordine ti ha soffuso di magia. Quel potere deriva da Mechanus o da un regno simile: un piano di esistenza modellato interamente dall'efficienza di un orologio. Tu o qualcuno del tuo lignaggio potreste essere rimasti intrappolati nelle macchinazioni dei modron, gli esseri ordinati che abitano Mechanus. Forse il tuo antenato ha anche preso parte alla Grande Marcia dei Modron. Qualunque sia la sua origine dentro di te, il potere dell'ordine può sembrare strano agli altri, ma per te è parte di un sistema vasto e glorioso.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Clockwork Spells|Sorcerer|XPHB|Clockwork|XPHB|3"
@@ -5548,7 +5548,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Sorcerer level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello da Stregone specificato nella tabella Incantesimi Meccanici, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Clockwork Spells",
@@ -5579,7 +5579,7 @@
 						]
 					]
 				},
-				"In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.",
+				"Inoltre, consulta la tabella Manifestazioni dell'Ordine e scegli o determina casualmente un modo in cui si manifesta la tua connessione all'ordine mentre lanci uno qualsiasi dei tuoi incantesimi da Stregone.",
 				{
 					"type": "table",
 					"caption": "Manifestations of Order",
@@ -5594,27 +5594,27 @@
 					"rows": [
 						[
 							"1",
-							"Spectral cogwheels hover behind you."
+							"Ruote dentate spettrali si librano dietro di te."
 						],
 						[
 							"2",
-							"The hands of a clock spin in your eyes."
+							"Le lancette di un orologio girano nei tuoi occhi."
 						],
 						[
 							"3",
-							"Your skin glows with a brassy sheen."
+							"La tua pelle risplende di una lucentezza color ottone."
 						],
 						[
 							"4",
-							"Floating equations and geometric objects overlay your body."
+							"Equazioni fluttuanti e oggetti geometrici si sovrappongono al tuo corpo."
 						],
 						[
 							"5",
-							"Your {@variantrule Spellcasting Focus|XPHB} temporarily takes the form of a Tiny clockwork mechanism."
+							"Il tuo {@variantrule Spellcasting Focus|XPHB} assume temporaneamente la forma di un minuscolo meccanismo a orologeria."
 						],
 						[
 							"6",
-							"The ticking of gears or ringing of a clock can be heard by you and those affected by your magic."
+							"Il ticchettio degli ingranaggi o il suono di un orologio possono essere uditi da te e da coloro che sono colpiti dalla tua magia."
 						]
 					]
 				}
@@ -5631,8 +5631,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a {@dice d20} with {@variantrule Advantage|XPHB} or {@variantrule Disadvantage|XPHB}, you can take a {@variantrule Reaction|XPHB} to prevent the roll from being affected by {@variantrule Advantage|XPHB} and {@variantrule Disadvantage|XPHB}.",
-				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"La tua connessione al piano dell'ordine assoluto ti consente di equalizzare i momenti caotici. Quando una creatura che puoi vedere entro 60 piedi da te sta per lanciare un {@dice d20} con {@variantrule Advantage|XPHB} o {@variantrule Disadvantage|XPHB}, puoi prendere un {@variantrule Reaction|XPHB} per evitare che il tiro venga influenzato da {@variantrule Advantage|XPHB} e {@variantrule Disadvantage|XPHB}.",
+				"Puoi utilizzare questa funzione un numero di volte pari al tuo modificatore di Carisma (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -5651,8 +5651,8 @@
 				"amountMax": 5
 			},
 			"entries": [
-				"You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a {@action Magic|XPHB} action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.",
-				"The ward lasts until you finish a {@variantrule Long Rest|XPHB} or until you use this feature again."
+				"Puoi attingere alla grande equazione dell'esistenza per infondere in una creatura uno scintillante scudo di ordine. Come azione {@action Magic|XPHB}, puoi spendere da 1 a 5 punti stregoneria per creare una protezione magica attorno a te o a un'altra creatura che puoi vedere entro 9 metri da te. La tutela è rappresentata da un numero di d8 pari al numero di Punti Stregoneria spesi per crearla. Quando la creatura protetta subisce danni, può spendere un certo numero di quei dadi, lanciarli e ridurre il danno subito dal totale tirato su quei dadi.",
+				"La protezione dura finché non finisci un {@variantrule Long Rest|XPHB} o finché non usi nuovamente questa funzione."
 			]
 		},
 		{
@@ -5670,8 +5670,8 @@
 				"amount": 5
 			},
 			"entries": [
-				"You gain the ability to align your consciousness with the endless calculations of Mechanus. As a {@variantrule Bonus Action|XPHB}, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from {@variantrule Advantage|XPHB}, and whenever you make a {@variantrule D20 Test|XPHB}, you can treat a roll of 9 or lower on the {@dice d20} as a 10.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you spend 5 Sorcery Points (no action required) to restore your use of it."
+				"Ottieni la capacità di allineare la tua coscienza con gli infiniti calcoli di Mechanus. Come {@variantrule Bonus Action|XPHB}, puoi entrare in questo stato per 1 minuto. Per tutta la durata, i tiri per colpire contro di te non possono beneficiare di {@variantrule Advantage|XPHB} e ogni volta che effettui un {@variantrule D20 Test|XPHB}, puoi considerare un tiro di 9 o inferiore su {@dice d20} come un 10.",
+				"Una volta utilizzata questa funzione, non puoi usarla di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi 5 punti stregoneria (non è richiesta alcuna azione) per ripristinarne l'uso."
 			]
 		},
 		{
@@ -5689,7 +5689,7 @@
 				"amount": 7
 			},
 			"entries": [
-				"You momentarily summon spirits of order to expunge disorder around you. As a {@action Magic|XPHB} action, you summon the spirits in a 30-foot {@variantrule Cube [Area of Effect]|XPHB|Cube} originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the {@variantrule Cube [Area of Effect]|XPHB|Cube} before vanishing. Once you use this action, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you spend 7 Sorcery Points (no action required) to restore your use of it.",
+				"Evochi momentaneamente gli spiriti dell'ordine per eliminare il disordine intorno a te. Come azione {@action Magic|XPHB}, evochi gli spiriti in un raggio di 9 metri {@variantrule Cube [Area of Effect]|XPHB|Cube} provenienti da te. Gli spiriti sembrano modroni o altri Costrutti a tua scelta. Gli spiriti sono immateriali e invulnerabili e creano gli effetti seguenti all'interno del {@variantrule Cube [Area of Effect]|XPHB|Cube} prima di svanire. Una volta utilizzata questa azione, non puoi utilizzarla di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi 7 punti stregoneria (nessuna azione richiesta) per ripristinarne l'utilizzo.",
 				{
 					"type": "entries",
 					"entries": [
@@ -5697,21 +5697,21 @@
 							"type": "entries",
 							"name": "Heal",
 							"entries": [
-								"The spirits restore up to 100 {@variantrule Hit Points|XPHB}, divided as you choose among any number of creatures of your choice in the {@variantrule Cube [Area of Effect]|XPHB|Cube}."
+								"Gli spiriti ripristinano fino a 100 {@variantrule Hit Points|XPHB}, divisi a tua scelta tra un numero qualsiasi di creature a tua scelta nel {@variantrule Cube [Area of Effect]|XPHB|Cube}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Repair",
 							"entries": [
-								"Any damaged objects entirely in the {@variantrule Cube [Area of Effect]|XPHB|Cube} are repaired instantly."
+								"Tutti gli oggetti danneggiati interamente nel {@variantrule Cube [Area of Effect]|XPHB|Cube} vengono riparati immediatamente."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Dispel",
 							"entries": [
-								"Every spell of level 6 and lower ends on creatures and objects of your choice in the {@variantrule Cube [Area of Effect]|XPHB|Cube}."
+								"Ogni incantesimo di livello 6 e inferiore termina su creature e oggetti di tua scelta nel {@variantrule Cube [Area of Effect]|XPHB|Cube}."
 							]
 						}
 					]
@@ -5731,7 +5731,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Breathe the Magic of Dragons}",
-				"Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.",
+				"La tua magia innata deriva dal dono di un drago. Forse un antico drago che sta affrontando la morte ha lasciato in eredità parte del suo potere magico a te o al tuo antenato. Potresti aver assorbito la magia da un sito intriso del potere dei draghi. O forse hai maneggiato un tesoro preso dal tesoro di un drago intriso di potere draconico. Oppure potresti avere un drago come antenato.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Draconic Resilience|Sorcerer|XPHB|Draconic|XPHB|3"
@@ -5755,7 +5755,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello da Stregone specificato nella tabella Incantesimi Draconici, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Draconic Spells",
@@ -5801,8 +5801,8 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"The magic in your body manifests physical traits of your draconic gift. Your {@variantrule Hit Points|XPHB|Hit Point} maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.",
-				"Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base {@variantrule Armor Class|XPHB} equals 10 plus your Dexterity and Charisma modifiers."
+				"La magia nel tuo corpo manifesta i tratti fisici del tuo dono draconico. Il tuo massimo {@variantrule Hit Points|XPHB|Hit Point} aumenta di 3 e aumenta di 1 ogni volta che guadagni un altro livello da Stregone.",
+				"Parti di te sono anche ricoperte da scaglie simili a draghi. Mentre non indossi un'armatura, la tua base {@variantrule Armor Class|XPHB} è pari a 10 più i tuoi modificatori di Destrezza e Carisma."
 			]
 		},
 		{
@@ -5818,8 +5818,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.",
-				"You have {@variantrule Resistance|XPHB} to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell."
+				"La tua magia draconica ha un'affinità con un tipo di danno associato ai draghi. Scegli uno di questi tipi: Acido, Freddo, Fuoco, Fulmine o Veleno.",
+				"Hai {@variantrule Resistance|XPHB} su quel tipo di danno e quando lanci un incantesimo che infligge danni di quel tipo, puoi aggiungere il tuo modificatore di Carisma a un tiro di danno di quell'incantesimo."
 			]
 		},
 		{
@@ -5839,8 +5839,8 @@
 				"amount": 3
 			},
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a {@variantrule Fly Speed|XPHB} of 60 feet.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you spend 3 Sorcery Points (no action required) to restore your use of it."
+				"Come {@variantrule Bonus Action|XPHB}, puoi far apparire delle ali draconiche sulla tua schiena. Le ali durano 1 ora o finché non le congedi (non è richiesta alcuna azione). Per tutta la durata, hai un {@variantrule Fly Speed|XPHB} di 60 piedi.",
+				"Una volta utilizzata questa funzione, non puoi usarla di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi 3 punti stregoneria (non è richiesta alcuna azione) per ripristinarne l'uso."
 			]
 		},
 		{
@@ -5856,8 +5856,8 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"You can cast {@spell Summon Dragon|XPHB} without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a {@variantrule Long Rest|XPHB}.",
-				"Whenever you start casting the spell, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting."
+				"Puoi lanciare {@spell Summon Dragon|XPHB} senza un componente Materiale. Puoi anche lanciarlo una volta senza uno slot incantesimo e riacquisti la capacità di lanciarlo in questo modo quando finisci un {@variantrule Long Rest|XPHB}.",
+				"Ogni volta che inizi a lanciare l'incantesimo, puoi modificarlo in modo che non richieda {@status Concentration|XPHB}. Se lo fai, la durata dell'incantesimo diventa 1 minuto per quel lancio."
 			]
 		},
 		{
@@ -5871,7 +5871,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Unleash Chaotic Magic}",
-				"Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.",
+				"La tua magia innata deriva dalle forze del caos che sono alla base dell'ordine della creazione. Tu o un tuo antenato potreste essere stati esposti alla magia pura, magari attraverso un portale planare che conduce al Limbo o ai Piani Elementali. Forse sei stato benedetto da un essere fatato o segnato da un demone. Oppure la tua magia potrebbe essere un colpo di fortuna senza una causa apparente. Qualunque sia la sua fonte, questa magia ribolle dentro di te, in attesa di uno sbocco.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Wild Magic Surge|Sorcerer|XPHB|Wild Magic|XPHB|3"
@@ -5893,8 +5893,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can manipulate chaos itself to give yourself {@variantrule Advantage|XPHB} on one {@variantrule D20 Test|XPHB} before you roll the {@dice d20}. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a {@variantrule Long Rest|XPHB} before you can use this feature again.",
-				"If you do cast a Sorcerer spell with a spell slot before you finish a {@variantrule Long Rest|XPHB}, you automatically roll on the {@table Wild Magic Surge|XPHB} table."
+				"Puoi manipolare il caos stesso per darti {@variantrule Advantage|XPHB} su uno {@variantrule D20 Test|XPHB} prima di tirare il {@dice d20}. Una volta fatto ciò, devi lanciare un incantesimo da Stregone con uno slot incantesimo o completare un {@variantrule Long Rest|XPHB} prima di poter utilizzare nuovamente questa funzione.",
+				"Se lanci un incantesimo da Stregone con uno slot incantesimo prima di finire un {@variantrule Long Rest|XPHB}, tiri automaticamente sulla tabella {@table Wild Magic Surge|XPHB}."
 			]
 		},
 		{
@@ -5908,8 +5908,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll {@dice 1d20} immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect.",
-				"If the magical effect is a spell, it is too wild to be affected by your Metamagic.",
+				"I tuoi incantesimi possono scatenare ondate di magia selvaggia. Una volta per turno, puoi tirare {@dice 1d20} immediatamente dopo aver lanciato un incantesimo da Stregone con uno slot incantesimo. Se ottieni 20, tira sulla tabella Wild Magic Surge per creare un effetto magico.",
+				"Se l'effetto magico è un incantesimo, è troppo selvaggio per essere influenzato dalla tua Metamagia.",
 				{
 					"type": "table",
 					"caption": "Wild Magic Surge",
@@ -5923,104 +5923,104 @@
 					],
 					"rows": [
 						[
-							"01\u201304",
-							"Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls."
+							"01–04",
+							"Tira su questa tabella all'inizio di ciascuno dei tuoi turni per il minuto successivo, ignorando questo risultato nei tiri successivi."
 						],
 						[
-							"05\u201308",
-							"A creature that is Friendly toward you appears in a random unoccupied space within 60 feet of you. The creature is under the DM's control and disappears 1 minute later. Roll {@dice 1d4} to determine the creature: on a 1, a Modron Duodrone appears; on a 2, a Flumph appears; on a 3, a Modron Monodrone appears; on a 4, a Unicorn appears. See the Monster Manual for the creature's stat block."
+							"05–08",
+							"Una creatura che ti è Amichevole appare in uno spazio casuale non occupato entro 60 piedi da te. La creatura è sotto il controllo del DM e scompare 1 minuto dopo. Tira {@dice 1d4} per determinare la creatura: con 1 appare un Modron Duodrone; con un risultato di 2 appare un Flumph; con un risultato di 3 appare un Modron Monodrone; con un risultato di 4 appare un Unicorno. Vedi il Manuale dei Mostri per il blocco delle statistiche della creatura."
 						],
 						[
-							"09\u201312",
-							"For the next minute, you regain 5 {@variantrule Hit Points|XPHB} at the start of each of your turns."
+							"09–12",
+							"Per il minuto successivo, recuperi 5 {@variantrule Hit Points|XPHB} all'inizio di ogni tuo turno."
 						],
 						[
-							"13\u201316",
-							"Creatures have {@variantrule Disadvantage|XPHB} on saving throws against the next spell you cast in the next minute that involves a saving throw."
+							"13–16",
+							"Le creature hanno {@variantrule Disadvantage|XPHB} sui tiri salvezza contro il prossimo incantesimo che lancerai nel minuto successivo che prevede un tiro salvezza."
 						],
 						[
-							"17\u201320",
-							"You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll {@dice 1d8} to determine the effect: on a 1, you're surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a 2, your size increases by one size category; on a 3, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a 4, you must shout when you speak; on a 5, illusory butterflies flutter in the air within 10 feet of you; on a 6, an eye appears on your forehead, granting you {@variantrule Advantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks; on an 7, pink bubbles float out of your mouth whenever you speak; on an 8, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a {@spell Remove Curse|XPHB} spell."
+							"17–20",
+							"Si è soggetti a un effetto che dura 1 minuto, a meno che la descrizione non indichi diversamente. Tira {@dice 1d8} per determinare l'effetto: con 1, sei circondato da una musica debole ed eterea che solo tu e le creature entro 1,5 piedi da te potete sentire; con 2, la tua taglia aumenta di una categoria di taglia; con un 3 ti fai crescere una lunga barba fatta di piume che rimane finché non starnutisci, a quel punto le piume esplodono dal tuo viso e svaniscono; con 4 devi gridare quando parli; Con un risultato di 5, farfalle illusorie svolazzano nell'aria entro 3 metri da te; con un 6, un occhio appare sulla tua fronte, garantendoti {@variantrule Advantage|XPHB} alle prove di Saggezza ({@skill Perception|XPHB}); con un 7, bolle rosa escono dalla tua bocca ogni volta che parli; con un 8, la tua pelle diventa di una vibrante tonalità di blu per 24 ore o finché l'effetto non viene interrotto da un incantesimo {@spell Remove Curse|XPHB}."
 						],
 						[
-							"21\u201324",
-							"For the next minute, all your spells with a casting time of an action have a casting time of a {@variantrule Bonus Action|XPHB}."
+							"21–24",
+							"Per il minuto successivo, tutti i tuoi incantesimi con un tempo di lancio pari a un'azione avranno un tempo di lancio pari a {@variantrule Bonus Action|XPHB}."
 						],
 						[
-							"25\u201328",
-							"You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied."
+							"25–28",
+							"Verrai trasportato nel Piano Astrale fino alla fine del tuo prossimo turno. Quindi ritorni nello spazio che occupavi in ​​precedenza o nello spazio non occupato più vicino se quello spazio è occupato."
 						],
 						[
-							"29\u201332",
-							"The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die."
+							"29–32",
+							"La prossima volta che lanci un incantesimo che infligge danni entro il minuto successivo, non tirare i dadi di danno dell'incantesimo per il danno. Usa invece il numero più alto possibile per ogni dado di danno."
 						],
 						[
-							"33\u201336",
-							"You have {@variantrule Resistance|XPHB} to all damage for the next minute."
+							"33–36",
+							"Hai {@variantrule Resistance|XPHB} a tutti i danni per il minuto successivo."
 						],
 						[
-							"37\u201340",
-							"You turn into a potted plant until the start of your next turn. While you're a plant, you have the {@condition Incapacitated|XPHB} condition and have {@variantrule Vulnerability|XPHB} to all damage. If you drop to 0 {@variantrule Hit Points|XPHB}, your pot breaks, and your form reverts."
+							"37–40",
+							"Ti trasformi in una pianta in vaso fino all'inizio del tuo prossimo turno. Mentre sei una pianta, hai la condizione {@condition Incapacitated|XPHB} e hai {@variantrule Vulnerability|XPHB} a tutti i danni. Se scendi a 0 {@variantrule Hit Points|XPHB}, il tuo piatto si rompe e la tua forma viene ripristinata."
 						],
 						[
-							"41\u201344",
-							"For the next minute, you can teleport up to 20 feet as a {@variantrule Bonus Action|XPHB} on each of your turns."
+							"41–44",
+							"Per il minuto successivo, puoi teletrasportarti fino a 20 piedi come {@variantrule Bonus Action|XPHB} in ciascuno dei tuoi turni."
 						],
 						[
-							"45\u201348",
-							"You and up to three creatures you choose within 30 feet of you have the {@condition Invisible|XPHB} condition for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell."
+							"45–48",
+							"Tu e fino a tre creature da te scelte entro 9 metri da te avrete la condizione {@condition Invisible|XPHB} per 1 minuto. Questa invisibilità termina su una creatura immediatamente dopo che ha effettuato un tiro per colpire, inflitto danni o lanciato un incantesimo."
 						],
 						[
-							"49\u201352",
-							"A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to {@spell Magic Missile|XPHB}."
+							"49–52",
+							"Uno scudo spettrale aleggia vicino a te per il minuto successivo, garantendoti un bonus di +2 alla CA e immunità a {@spell Magic Missile|XPHB}."
 						],
 						[
-							"53\u201356",
-							"You can take one extra action on this turn."
+							"53–56",
+							"Puoi effettuare un'azione extra in questo turno."
 						],
 						[
-							"57\u201360",
-							"You cast a random spell. If the spell normally requires {@status Concentration|XPHB}, it doesn't require {@status Concentration|XPHB} in this case; the spell lasts for its full duration. Roll {@dice 1d10} to determine the spell: on a 1, {@spell Confusion|XPHB}; on a 2, {@spell Fireball|XPHB}; on a 3, {@spell Fog Cloud|XPHB}; on a 4, {@spell Fly|XPHB} (cast on a random creature within 60 feet of you), on a 5, {@spell Grease|XPHB}; on a 6, {@spell Levitate|XPHB} (cast on yourself); on a 7, {@spell Magic Missile|XPHB} (cast as a level 5 spell); on an 8, {@spell Mirror Image|XPHB}; on a 9, {@spell Polymorph|XPHB} (cast on yourself), and if you fail the saving throw, you turn into a Goat (see appendix B); on a 10, {@spell See Invisibility|XPHB}."
+							"57–60",
+							"Lanci un incantesimo casuale. Se l'incantesimo normalmente richiede {@status Concentration|XPHB}, in questo caso non richiede {@status Concentration|XPHB}; l'incantesimo dura per tutta la sua durata. Tira {@dice 1d10} per determinare l'incantesimo: con 1, {@spell Confusion|XPHB}; su un 2, {@spell Fireball|XPHB}; su 3, {@spell Fog Cloud|XPHB}; con 4, {@spell Fly|XPHB} (lanciato su una creatura casuale entro 60 piedi da te), con 5, {@spell Grease|XPHB}; con un 6, {@spell Levitate|XPHB} (lancia su te stesso); con 7, {@spell Magic Missile|XPHB} (lanciato come incantesimo di livello 5); su un 8, {@spell Mirror Image|XPHB}; con 9, {@spell Polymorph|XPHB} (lancia su te stesso), e se fallisci il tiro salvezza, ti trasformi in una Capra (vedi appendice B); su un 10, {@spell See Invisibility|XPHB}."
 						],
 						[
-							"61\u201364",
-							"For the next minute, any flammable, nonmagical object you touch that isn't being worn or carried by another creature bursts into flame, takes {@damage 1d4} Fire damage, and is burning."
+							"61–64",
+							"Per il minuto successivo, qualsiasi oggetto infiammabile e non magico che tocchi e che non sia indossato o trasportato da un'altra creatura prende fuoco, subisce {@damage 1d4} danni da fuoco e brucia."
 						],
 						[
-							"65\u201368",
-							"If you die within the next hour, you immediately revive as if by the {@spell Reincarnate|XPHB} spell."
+							"65–68",
+							"Se muori entro l'ora successiva, rinascerai immediatamente come tramite l'incantesimo {@spell Reincarnate|XPHB}."
 						],
 						[
-							"69\u201372",
-							"You have the {@condition Frightened|XPHB} condition until the end of your next turn. The DM determines the source of your fear."
+							"69–72",
+							"Hai la condizione {@condition Frightened|XPHB} fino alla fine del tuo prossimo turno. Il DM determina la fonte della tua paura."
 						],
 						[
-							"73\u201376",
-							"You teleport up to 60 feet to an unoccupied space you can see."
+							"73–76",
+							"Ti teletrasporti fino a 18 metri in uno spazio non occupato che puoi vedere."
 						],
 						[
-							"77\u201380",
-							"A random creature within 60 feet of you has the {@condition Poisoned|XPHB} condition for {@dice 1d4} hours."
+							"77–80",
+							"Una creatura casuale entro 60 piedi da te ha la condizione {@condition Poisoned|XPHB} per {@dice 1d4} ore."
 						],
 						[
-							"81\u201384",
-							"You radiate {@variantrule Bright Light|XPHB} in a 30-foot radius for the next minute. Any creature that ends its turn within 5 feet of you has the {@condition Blinded|XPHB} condition until the end of its next turn."
+							"81–84",
+							"Irradi {@variantrule Bright Light|XPHB} in un raggio di 9 metri per il minuto successivo. Qualsiasi creatura che termina il suo turno entro 5 piedi da te ha la condizione {@condition Blinded|XPHB} fino alla fine del suo turno successivo."
 						],
 						[
-							"85\u201388",
-							"Up to three creatures of your choice that you can see within 30 feet of you take {@damage 1d10} Necrotic damage. You regain {@variantrule Hit Points|XPHB} equal to the sum of the Necrotic damage dealt."
+							"85–88",
+							"Fino a tre creature a tua scelta che puoi vedere entro 9 metri da te subiscono {@damage 1d10} danni necrotici. Recuperi {@variantrule Hit Points|XPHB} pari alla somma del danno necrotico inflitto."
 						],
 						[
-							"89\u201392",
-							"Up to three creatures of your choice that you can see within 30 feet of you take {@damage 4d10} Lightning damage."
+							"89–92",
+							"Fino a tre creature a tua scelta che puoi vedere entro 9 metri da te subiscono {@damage 4d10} danni da fulmine."
 						],
 						[
-							"93\u201396",
-							"You and all creatures within 30 feet of you have {@variantrule Vulnerability|XPHB} to Piercing damage for the next minute."
+							"93–96",
+							"Tu e tutte le creature entro 9 metri da te subite {@variantrule Vulnerability|XPHB} danni da perforazione per il minuto successivo."
 						],
 						[
-							"97\u201300",
-							"Roll {@dice 1d6} On a 1, you regain {@dice 2d10} {@variantrule Hit Points|XPHB}; on a 2, one ally of your choice within 300 feet of you regains {@dice 2d10} {@variantrule Hit Points|XPHB}; on a 3, you regain your lowest-level expended spell slot; on a 4, one ally of your choice within 300 feet of you regains their lowest-level expended spell slot; on a 5, you regain all your expended Sorcery Points; on a 6, all the effects of row 17\u201320 affect you simultaneously."
+							"97–00",
+							"Tira {@dice 1d6} Con 1, riacquisti {@dice 2d10} {@variantrule Hit Points|XPHB}; con 2, un alleato a tua scelta entro 300 piedi da te recupera {@dice 2d10} {@variantrule Hit Points|XPHB}; con 3, riacquisti lo slot incantesimo speso di livello più basso; con 4, un alleato di tua scelta entro 90 metri da te riacquista il suo slot incantesimo speso di livello più basso; con 5, recuperi tutti i Punti Stregoneria spesi; con un 6, tutti gli effetti delle righe 17-20 ti influenzano simultaneamente."
 						]
 					],
 					"data": {
@@ -6045,7 +6045,7 @@
 				"name": "Sorcery Point"
 			},
 			"entries": [
-				"You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the {@dice d20} for a {@variantrule D20 Test|XPHB}, you can take a {@variantrule Reaction|XPHB} and spend 1 Sorcery Point to roll {@dice 1d4} and apply the number rolled as a bonus or penalty (your choice) to the {@dice d20} roll."
+				"Hai la capacità di distorcere il destino usando la tua magia selvaggia. Immediatamente dopo che un'altra creatura che puoi vedere lancia il {@dice d20} per un {@variantrule D20 Test|XPHB}, puoi prendere un {@variantrule Reaction|XPHB} e spendere 1 punto stregoneria per tirare {@dice 1d4} e applicare il numero ottenuto come bonus o penalità (a tua scelta) al tiro {@dice d20}."
 			]
 		},
 		{
@@ -6059,7 +6059,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild {@action Magic|XPHB} Surge table, you can roll twice and use either number."
+				"Ottieni un minimo di controllo sugli impulsi della tua magia selvaggia. Ogni volta che tiri sulla tabella Wild {@action Magic|XPHB} Surge, puoi lanciare due volte e utilizzare uno dei due numeri."
 			]
 		},
 		{
@@ -6073,8 +6073,8 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the {@table Wild Magic Surge|XPHB} table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
+				"Immediatamente dopo aver lanciato un incantesimo da Stregone con uno slot incantesimo, puoi creare un effetto a tua scelta dalla tabella {@table Wild Magic Surge|XPHB} invece di tirare su quella tabella. Puoi scegliere qualsiasi effetto nella tabella tranne la riga finale, e se l'effetto scelto prevede un tiro, devi effettuarlo.",
+				"Una volta utilizzata questa funzione, non potrai farlo di nuovo finché non avrai completato un {@variantrule Long Rest|XPHB}."
 			]
 		}
 	]

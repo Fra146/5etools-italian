@@ -10,8 +10,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Abyssal chickens are carnivorous, temperamental, tasty bottom-feeders native to the Abyss. They beat their leathery wings to scare predators and to help them run faster, and they taste like fatty chicken.",
-								"With your permission, a character who casts the {@spell find familiar} spell can henceforth choose to conjure an abyssal chicken instead of a raven."
+								"I polli dell'Abisso sono carnivori, capricciosi e gustosi che si nutrono di fondo, originari dell'Abisso. Sbattono le ali coriacee per spaventare i predatori e aiutarli a correre più velocemente, e hanno il sapore del pollo grasso.",
+								"Con il tuo permesso, un personaggio che lancia l'incantesimo {@spell find familiar} potrà d'ora in poi scegliere di evocare un pollo abissale invece di un corvo."
 							]
 						}
 					]
@@ -37,7 +37,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients' drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see \"Poisons\" in chapter 8 of the Dungeon Master's Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal."
+								"Secondo figlio del duca Thalamra Vanthampur di Baldur's Gate. Amrik ama scambiarsi convenevoli davanti a un drink prima di condurre affari. Ha addestrato lo staff di Laraelra a riconoscere una serie di gesti innocui delle mani che segnalano loro di portare da bere al tavolo. Se vuole che venga aggiunto del veleno alle bevande dei suoi clienti, ha un segno segreto per farlo. Nascosta dietro il bancone c'è una piccola bottiglia contenente quattro dosi di torpore (vedi \"Veleni\" nel capitolo 8 della Guida del Dungeon Master), che il barista kenku può usare per arricchire le bevande quando Amrik dà il segnale."
 							]
 						}
 					]
@@ -63,14 +63,14 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulership of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.",
-								"Zariel's \"rise\" came at the expense of Bel, her pit fiend predecessor. Zariel and Bel hate each other. To keep Bel busy and out of her sight, Zariel tasks him with forging weapons, armor, and gruesome demon-slaying machines.",
-								"To replenish her legions, Zariel needs the souls of mortals to create lemures, which she can then promote to higher forms of devils. Only by tempting mortals with power on the Material Plane and striking bargains with them can she bind them to her in the afterlife.",
+								"Zariel, un tempo potente angelo incaricato di osservare le sorti della Guerra del Sangue, cedette all'influenza corruttrice dei Nove Inferni e cadde in disgrazia. Asmodeus ammirava la passione di Zariel per la guerra e le offrì il governo dell'Averno. Ha accettato la sua offerta ed è stata trasformata da Asmodeus in un arcidiavolo.",
+								"L'ascesa di Zariel è avvenuta a scapito di Bel, il suo predecessore, il diavolo della fossa. Zariel e Bel si odiano. Per tenere Bel occupato e lontano dalla sua vista, Zariel gli affida il compito di forgiare armi, armature e raccapriccianti macchine ammazza-demoni.",
+								"Per ricostituire le sue legioni, Zariel ha bisogno delle anime dei mortali per creare lemuri, che potrà poi promuovere a forme superiori di diavoli. Solo tentando i mortali con il potere sul Piano Materiale e stringendo patti con loro può legarli a sé nell'aldilà.",
 								{
 									"type": "entries",
 									"name": "Matalotok",
 									"entries": [
-										"Zariel recently defeated the demon lord Kostchtchie and took his hammer, Matalotok, which grants Zariel immunity to cold damage. Without this hammer, Zariel has resistance to cold damage instead."
+										"Zariel ha recentemente sconfitto il signore dei demoni Kostchtchie e ha preso il suo martello, Matalotok, che garantisce a Zariel l'immunità ai danni da freddo. Senza questo martello, Zariel ha invece resistenza ai danni da freddo."
 									]
 								}
 							]
@@ -98,9 +98,9 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Arkhan the Cruel is an evil dragonborn champion of Tiamat. Arkhan believes he can use the Hand of Vecna to unlock the means of freeing Tiamat from her prison in the Nine Hells, but only if the hand doesn't kill him first. The hand is slowly corrupting Arkhan's flesh and decomposing his body on one side.",
-								"In battle, Arkhan uses branding smite to channel the radiant power of Tiamat into his weapon attacks. If a fight turns against him, he uses the teleport power of the Hand of Vecna to return to his tower with as many allies as possible. Should one or more of his comrades fall in battle, Arkhan uses {@spell revivify} and {@spell raise dead} spells to bring them back to life as soon as possible.",
-								"If Arkhan finds himself overwhelmed with opposition, he orders the abishai to attack. Arkhan can also use a bonus action to call forth Asojano, a chimera lairing in the depths of the colossal dragon skull."
+								"Arkhan il Crudele è un malvagio campione dragonide di Tiamat. Arkhan crede di poter usare la Mano di Vecna ​​per sbloccare i mezzi per liberare Tiamat dalla sua prigione nei Nove Inferni, ma solo se la mano non lo uccide prima. La mano sta lentamente corrompendo la carne di Arkhan e decomponendo il suo corpo da un lato.",
+								"In battaglia, Arkhan usa la punizione marchiante per incanalare il potere radioso di Tiamat nei suoi attacchi con l'arma. Se la battaglia si volge a suo sfavore, usa il potere di teletrasporto della Mano di Vecna ​​per tornare alla sua torre con quanti più alleati possibile. Se uno o più dei suoi compagni cadono in battaglia, Arkhan usa gli incantesimi {@spell revivify} e {@spell raise dead} per riportarli in vita il prima possibile.",
+								"Se Arkhan si trova sopraffatto dall'opposizione, ordina all'abishai di attaccare. Arkhan può anche usare un'azione bonus per evocare Asojano, una chimera che si annida nelle profondità del colossale teschio di drago."
 							]
 						}
 					]
@@ -126,8 +126,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.",
-								"Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Zariel's rulership of the layer of the Nine Hells that was once his, but he won't challenge her directly as long as he thinks Asmodeus supports Zariel."
+								"Dal suo bastione, il secondo in comando di Zariel ed ex signore dell'Avernus, supervisiona le fucine che forniscono armi e armature per la Guerra del Sangue. Sebbene Asmodeus abbia incaricato Zariel di accettare Bel come suo consigliere, Bel e Zariel si detestano a vicenda e inventano distrazioni per tenerli separati.",
+								"Bel interpreta esteriormente il ruolo del fedele vassallo di Zariel. Tuttavia, Bel si irrita per il dominio di Zariel sullo strato dei Nove Inferni che una volta era suo, ma non la sfiderà direttamente finché pensa che Asmodeus supporti Zariel."
 							]
 						}
 					]
@@ -166,26 +166,26 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.",
+								"I devoti seguaci di Bane sono guerrieri che cercano di governare attraverso la forza marziale e l'intimidazione, tiranni crudeli che usano minacce e doni secondo necessità per assicurarsi la lealtà. Schiavizzano coloro che sono troppo deboli per resistere e inondano i forti di doni e promesse di potere per trasformarli in vassalli leali.",
 								{
 									"type": "entries",
 									"name": "Cruel Tyrants",
 									"entries": [
-										"Whenever Bane's followers gain power, they institute draconian measures to ensure that their rule is unquestioned. They stamp out all opposition while richly rewarding those who swear fealty."
+										"Ogni volta che i seguaci di Bane ottengono il potere, istituiscono misure draconiane per garantire che il loro dominio sia indiscusso. Eliminano ogni opposizione e ricompensano riccamente coloro che giurano fedeltà."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Warrior Cult",
 									"entries": [
-										"Cultists of Bane are warriors who wear heavy armor and wield maces, swords, spears, and crossbows. They paint the right gauntlet of their armor black in honor of their patron. Bane's clerics wield black maces with heads shaped to look like a closed fist."
+										"I cultisti di Bane sono guerrieri che indossano armature pesanti e brandiscono mazze, spade, lance e balestre. Dipingono di nero il guanto destro della loro armatura in onore del loro patrono. I chierici di Bane brandiscono mazze nere con teste modellate in modo da sembrare un pugno chiuso."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"Bane's cultists operate according to strict military hierarchies. The lowest rank consists of the fists of Bane, foot soldiers who obey all orders without hesitation. They are led by iron consuls, cunning field officers who excel at coordinating the fists in combat. The black gauntlets are the priests who command the consuls."
+										"I cultisti di Bane operano secondo rigide gerarchie militari. Il grado più basso è costituito dai pugni di Bane, soldati di fanteria che obbediscono a tutti gli ordini senza esitazione. Sono guidati da consoli di ferro, astuti ufficiali sul campo che eccellono nel coordinare i pugni in combattimento. I guanti neri sono i sacerdoti che comandano i consoli."
 									]
 								}
 							]
@@ -213,7 +213,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Bone whelks are large mollusks that excrete an adhesive to attach skulls, bones, and other detritus to their bodies for protection."
+								"Le buccine ossee sono grandi molluschi che secernono un adesivo per attaccare teschi, ossa e altri detriti ai loro corpi per proteggerli."
 							]
 						}
 					]
@@ -265,7 +265,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek'toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx's terrible waters."
+								"Crokek'toeck è l'animale demoniaco di Yeenoghu. Somigliante a un gigantesco saltafango con i denti, la pelliccia, le orecchie e la risata di una iena, questo demone unico può contenere demoni più piccoli nella sua gola e rigurgitarli ovunque Yeenoghu desideri. Immune agli effetti sconvolgenti del fiume Stige, Crokek'toeck viene spesso utilizzato per trasportare demoni più piccoli (e talvolta lo stesso Yeenoghu) attraverso le terribili acque dello Stige."
 							]
 						}
 					]
@@ -291,26 +291,26 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.",
+								"I cultisti di Bhaal emulano la loro divinità, commettendo raccapriccianti omicidi per diffondere paura e orrore. Sono affascinanti e disarmanti quando lo desiderano, ma in combattimento la loro vera natura assetata di sangue viene alla ribalta.",
 								{
 									"type": "entries",
 									"name": "Bloodletters",
 									"entries": [
-										"All cultists of Bhaal learn to call upon their god's power to leave their victims vulnerable to their long-bladed knives. When Bhaal's magic works its power, stab wounds erupt in terrible gouts of blood. Seemingly minor wounds plunge deep into a victim's body and cause terrible pain and bleeding."
+										"Tutti i cultisti di Bhaal imparano a invocare il potere del loro dio per lasciare le loro vittime vulnerabili ai loro coltelli a lama lunga. Quando la magia di Bhaal fa effetto, le ferite da taglio esplodono in terribili fiotti di sangue. Ferite apparentemente minori penetrano in profondità nel corpo della vittima e causano dolore e sanguinamento terribili."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Killers from the Shadows",
 									"entries": [
-										"Bhaal's followers are cunning murderers who kill to strike fear and thrive on sowing terror in the cities they inhabit. They can call upon their god's power to blend into the shadows with ease, or even turn {@condition invisible} for a crucial moment."
+										"I seguaci di Bhaal sono astuti assassini che uccidono per incutere paura e prosperano seminando il terrore nelle città in cui vivono. Possono invocare il potere del loro dio per mimetizzarsi facilmente nell'ombra o addirittura voltarsi {@condition invisible} per un momento cruciale."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with {@sense darkvision} and superior stealth. Reapers are the next rank up. They gain the ability to turn {@condition invisible} and can use Bhaal's magic to evade suspicion. The highest rank are the death's heads, who can take on the skull-faced guise of their deity to terrify their prey. In combat, they intimidate foes by shrugging off the deadliest attacks with ease, showing that resisting Bhaal's schemes is futile."
+										"I cultisti di Bhaal di basso rango sono chiamati lame notturne, che Bhaal benedice con {@sense darkvision} e furtività superiore. I Mietitori sono il livello successivo. Ottengono la capacità di girarsi {@condition invisible} e possono usare la magia di Bhaal per eludere i sospetti. Il rango più alto sono le teste di morto, che possono assumere l'aspetto con la faccia da teschio della loro divinità per terrorizzare la preda. In combattimento, intimidiscono i nemici ignorando con facilità gli attacchi più letali, dimostrando che resistere ai piani di Bhaal è inutile."
 									]
 								}
 							]
@@ -329,9 +329,9 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.",
-								"Years of political dealing, blame shuffling, and bribery paid off when Thalamra was elected to the Council of Four. Although she has served on the council for the shortest amount of time, Duke Vanthampur is easily the most politically savvy council member. She speaks little during meetings of the council, preferring to further her political agenda through meetings in her private offices and at her family estate. When she does choose to debate, she speaks with a strength beyond what it seems like her age should allow, and is known for leveling insults that land unsettlingly close to (supposedly) hidden truths.",
-								"Thalamra Vanthampur is a cunning, devil-worshiping beast of a woman in her late sixties who can stare down a hell hound without flinching. She is barrel-bodied, with strong hands and forearms that speak to her beginnings as a manual laborer. Her youth was spent in the cellars and sewers of Baldur's Gate, repairing pipes and clearing out the city's filth. Thalamra rose from such lowly work to become the minister of the city's sewers and waterworks. Now she dresses in the finery that suits her station as a duke of Baldur's Gate."
+								"Dalla lingua acida, scaltro e aggressivo, il duca Thalamra Vanthampur è la matriarca della famiglia Vanthampur. Nata senza nulla, ha trascorso anni sguazzando nell'oscurità, riparando e rinnovando l'antico sistema fognario della città. Seguirono una promozione dopo l'altra finché non fu nominata Master of Drains and Underways. A quel punto si era sposata tre volte e aveva dato alla luce tre figli. Il suo obiettivo per tutta la vita è stato quello di sollevare se stessa e la sua famiglia dalle fogne e nell'alta società.",
+								"Anni di trattative politiche, di scambio di colpe e di corruzione hanno dato i loro frutti quando Thalamra è stata eletta nel Consiglio dei Quattro. Sebbene abbia prestato servizio nel consiglio per il minor periodo di tempo, il duca Vanthampur è senza dubbio il membro del consiglio più esperto politicamente. Parla poco durante le riunioni del consiglio, preferendo promuovere la sua agenda politica attraverso incontri nei suoi uffici privati ​​e nella tenuta di famiglia. Quando sceglie di discutere, parla con una forza che va oltre ciò che sembra che la sua età dovrebbe consentirle, ed è nota per lanciare insulti che si avvicinano in modo inquietante a verità (presumibilmente) nascoste.",
+								"Thalamra Vanthampur è una donna astuta e adoratrice del diavolo, sulla sessantina, che può fissare un segugio infernale senza battere ciglio. Ha un corpo a botte, con mani e avambracci forti che parlano dei suoi inizi come lavoratrice manuale. La sua giovinezza è stata trascorsa nelle cantine e nelle fogne di Baldur's Gate, riparando tubature e ripulendo la sporcizia della città. Thalamra è passato da un lavoro così umile per diventare il ministro delle fogne e degli acquedotti della città. Ora indossa abiti eleganti che si adattano alla sua posizione di duca di Baldur's Gate."
 							]
 						}
 					]
@@ -370,8 +370,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"A fiendish flesh golem is a particularly big flesh golem made of stitched-together body parts from devils, demons, yugoloths, and other fiends. As these parts can come from different creatures and be combined in different ways, no two fiendish flesh golems look exactly alike. Night hags guard the secret to making such golems, rarely sharing it with anyone else.",
-								"Some fiendish flesh golems have wings. However, the magic used to create these golems allows them to fly and hover even without wings."
+								"Un golem di carne immondo è un golem di carne particolarmente grande fatto di parti del corpo di diavoli, demoni, yugoloth e altri immondi cucite insieme. Poiché queste parti possono provenire da creature diverse ed essere combinate in modi diversi, non esistono due golem di carne diabolici che siano esattamente uguali. Le streghe notturne custodiscono il segreto per creare tali golem, raramente condividendolo con qualcun altro.",
+								"Alcuni diabolici golem di carne hanno le ali. Tuttavia, la magia utilizzata per creare questi golem permette loro di volare e librarsi anche senza ali."
 							]
 						}
 					]
@@ -388,26 +388,26 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.",
+								"I devoti seguaci di Bane sono guerrieri che cercano di governare attraverso la forza marziale e l'intimidazione, tiranni crudeli che usano minacce e doni secondo necessità per assicurarsi la lealtà. Schiavizzano coloro che sono troppo deboli per resistere e inondano i forti di doni e promesse di potere per trasformarli in vassalli leali.",
 								{
 									"type": "entries",
 									"name": "Cruel Tyrants",
 									"entries": [
-										"Whenever Bane's followers gain power, they institute draconian measures to ensure that their rule is unquestioned. They stamp out all opposition while richly rewarding those who swear fealty."
+										"Ogni volta che i seguaci di Bane ottengono il potere, istituiscono misure draconiane per garantire che il loro dominio sia indiscusso. Eliminano ogni opposizione e ricompensano riccamente coloro che giurano fedeltà."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Warrior Cult",
 									"entries": [
-										"Cultists of Bane are warriors who wear heavy armor and wield maces, swords, spears, and crossbows. They paint the right gauntlet of their armor black in honor of their patron. Bane's clerics wield black maces with heads shaped to look like a closed fist."
+										"I cultisti di Bane sono guerrieri che indossano armature pesanti e brandiscono mazze, spade, lance e balestre. Dipingono di nero il guanto destro della loro armatura in onore del loro patrono. I chierici di Bane brandiscono mazze nere con teste modellate in modo da sembrare un pugno chiuso."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"Bane's cultists operate according to strict military hierarchies. The lowest rank consists of the fists of Bane, foot soldiers who obey all orders without hesitation. They are led by iron consuls, cunning field officers who excel at coordinating the fists in combat. The black gauntlets are the priests who command the consuls."
+										"I cultisti di Bane operano secondo rigide gerarchie militari. Il grado più basso è costituito dai pugni di Bane, soldati di fanteria che obbediscono a tutti gli ordini senza esitazione. Sono guidati da consoli di ferro, astuti ufficiali sul campo che eccellono nel coordinare i pugni in combattimento. I guanti neri sono i sacerdoti che comandano i consoli."
 									]
 								}
 							]
@@ -426,8 +426,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Gideon Lightward was a priest of Lathander who served Elturel and his deity proudly. Zariel saw that his fervor could be an asset to her, so she sent devils to corrupt him in the months leading up to the fall of Elturel. The devils posed as angels, offering Gideon increased power if he would dedicate himself to fighting the ever-present threat of demons.",
-								"Gideon slowly gave up his sanity and free will to the devils, leaving him corrupted by Zariel and fully serving her in the months leading up to Elturel's fall. He died during the destruction wrought as the city was drawn to Avernus, but the priest rose as an undead creature. Even as an undead, Gideon remains his mistress's most loyal servant in Elturel. He sees his cause as a noble one\u2014fighting the demons whose chaos marks the end of all things. But his mind is broken and filled with hatred for those who refuse to follow his commands."
+								"Gideon Lightward era un sacerdote di Lathander che serviva con orgoglio Elturel e la sua divinità. Zariel vide che il suo fervore poteva essere una risorsa per lei, quindi mandò dei diavoli a corromperlo nei mesi precedenti la caduta di Elturel. I diavoli si atteggiavano a angeli, offrendo a Gideon maggiori poteri se si fosse dedicato a combattere la minaccia sempre presente dei demoni.",
+								"Gideon cedette lentamente la sua sanità mentale e il libero arbitrio ai diavoli, lasciandolo corrotto da Zariel e servendola pienamente nei mesi precedenti la caduta di Elturel. Morì durante la distruzione provocata quando la città fu attratta dall'Averno, ma il sacerdote risorse come creatura non morta. Anche da non morto, Gideon rimane il servitore più fedele della sua padrona a Elturel. Considera la sua causa nobile: combattere i demoni il cui caos segna la fine di tutte le cose. Ma la sua mente è distrutta e piena di odio per coloro che rifiutano di seguire i suoi comandi."
 							]
 						}
 					]
@@ -453,20 +453,20 @@
 						{
 							"type": "entries",
 							"entries": [
-								"A hellwasp is an intelligent, malevolent insect native to the Nine Hells. It has a thick protective carapace, thin metallic wings, and strong legs ending in swordlike talons. It uses its stinger to inject a chemical admixture similar to alchemist's fire into its victims. This same solution carries a paralytic enzyme that renders the victim helpless long enough for the hellwasp to grab its prey and flee.",
-								"Hellwasps thrive in hot weather, but extreme cold causes their shells to crack and their metabolisms to shut down. Consequently, they avoid the icy layers of the Nine Hells (Stygia and Cania).",
+								"Una vespa infernale è un insetto intelligente e malevolo originario dei Nove Inferni. Ha uno spesso carapace protettivo, sottili ali metalliche e gambe forti che terminano con artigli simili a spade. Usa il suo pungiglione per iniettare nelle sue vittime una miscela chimica simile al fuoco dell'alchimista. Questa stessa soluzione trasporta un enzima paralitico che rende la vittima indifesa abbastanza a lungo da permettere alla vespa infernale di afferrare la sua preda e fuggire.",
+								"Le vespe infernali prosperano nella stagione calda, ma il freddo estremo fa sì che i loro gusci si spezzino e il loro metabolismo si spenga. Di conseguenza evitano gli strati ghiacciati dei Nove Inferni (Stygia e Cania).",
 								{
 									"type": "entries",
 									"name": "Nests",
 									"entries": [
-										"Hellwasps spew a golden bile similar to amber, which they use to craft enormous nests riddled with chambers and passages. The hellwasps use these nests as communal shelters and food storage. A typical nest is large enough to support a commune of {@dice 1d10 + 10} hellwasps, with each hellwasp having an equal voice and role in the society."
+										"Le vespe infernali sputano una bile dorata simile all'ambra, che usano per creare enormi nidi pieni di camere e passaggi. Le vespe infernali usano questi nidi come rifugi comuni e come deposito di cibo. Un nido tipico è abbastanza grande da supportare una comune di {@dice 1d10 + 10} vespe infernali, con ciascuna vespa infernale che ha la stessa voce e ruolo nella società."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Hellwasp Telepathy",
 									"entries": [
-										"Hellwasps communicate with one another via a form of telepathy perceptible only to their kind."
+										"Le vespe infernali comunicano tra loro tramite una forma di telepatia percepibile solo dalla loro specie."
 									]
 								}
 							]
@@ -494,8 +494,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Hollyphants are gentle, stalwart creatures native to the Upper Planes. Good-aligned deities and angels use them as messengers and helpers. Hollyphants treasure friendship and honesty.",
-								"A hollyphant looks like a miniature elephant with luminous gold fur and small, rapidly fluttering wings that not only hold it aloft but also propel it at great speed. Although kind, a hollyphant won't bear witness to an evil act without punishing the malefactor. Its pearlescent tusks are far from formidable, but it can unleash trumpet blasts from its trunk that can deafen creatures or engulf evildoers in radiant sparkles of positive energy. A hollyphant is also blessed with powerful innate magic to help it combat evil and protect its friends."
+								"Gli Hollyphant sono creature gentili e coraggiose originarie dei Piani Superiori. Le divinità e gli angeli di allineamento buono li usano come messaggeri e aiutanti. Gli Hollyphant apprezzano l’amicizia e l’onestà.",
+								"Un olifante sembra un elefante in miniatura con una luminosa pelliccia dorata e piccole ali che svolazzano rapidamente che non solo lo tengono in alto ma lo spingono anche a grande velocità. Sebbene gentile, un olifante non testimonierà un atto malvagio senza punire il malfattore. Le sue zanne perlescenti sono tutt'altro che formidabili, ma può scatenare squilli di tromba dalla sua proboscide in grado di assordare le creature o inghiottire i malfattori con radiose scintille di energia positiva. Un olifante è anche benedetto da una potente magia innata che lo aiuta a combattere il male e a proteggere i suoi amici."
 							]
 						}
 					]
@@ -521,26 +521,26 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.",
+								"I devoti seguaci di Bane sono guerrieri che cercano di governare attraverso la forza marziale e l'intimidazione, tiranni crudeli che usano minacce e doni secondo necessità per assicurarsi la lealtà. Schiavizzano coloro che sono troppo deboli per resistere e inondano i forti di doni e promesse di potere per trasformarli in vassalli leali.",
 								{
 									"type": "entries",
 									"name": "Cruel Tyrants",
 									"entries": [
-										"Whenever Bane's followers gain power, they institute draconian measures to ensure that their rule is unquestioned. They stamp out all opposition while richly rewarding those who swear fealty."
+										"Ogni volta che i seguaci di Bane ottengono il potere, istituiscono misure draconiane per garantire che il loro dominio sia indiscusso. Eliminano ogni opposizione e ricompensano riccamente coloro che giurano fedeltà."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Warrior Cult",
 									"entries": [
-										"Cultists of Bane are warriors who wear heavy armor and wield maces, swords, spears, and crossbows. They paint the right gauntlet of their armor black in honor of their patron. Bane's clerics wield black maces with heads shaped to look like a closed fist."
+										"I cultisti di Bane sono guerrieri che indossano armature pesanti e brandiscono mazze, spade, lance e balestre. Dipingono di nero il guanto destro della loro armatura in onore del loro patrono. I chierici di Bane brandiscono mazze nere con teste modellate in modo da sembrare un pugno chiuso."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"Bane's cultists operate according to strict military hierarchies. The lowest rank consists of the fists of Bane, foot soldiers who obey all orders without hesitation. They are led by iron consuls, cunning field officers who excel at coordinating the fists in combat. The black gauntlets are the priests who command the consuls."
+										"I cultisti di Bane operano secondo rigide gerarchie militari. Il grado più basso è costituito dai pugni di Bane, soldati di fanteria che obbediscono a tutti gli ordini senza esitazione. Sono guidati da consoli di ferro, astuti ufficiali sul campo che eccellono nel coordinare i pugni in combattimento. I guanti neri sono i sacerdoti che comandano i consoli."
 									]
 								}
 							]
@@ -559,8 +559,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"The demon lord Kostchtchie resembles a squat hill giant with short, bandy legs and a grossly shaped head.",
-								"Frost giants who forsake their gods and turn to demon worship can summon Kostchtchie with bloody offerings left on altars of hewn ice. If the demon lord chooses to answer the giants' call, he hunts and fights alongside them for a time, infecting the frost giants with savage madness and bloodlust before disappearing back to the Abyss."
+								"Il signore dei demoni Kostchtchie assomiglia a un gigante delle colline tozzo con gambe corte e arcuate e una testa dalla forma grossolana.",
+								"I giganti del gelo che abbandonano i loro dei e si dedicano al culto dei demoni possono evocare Kostchtchie con offerte insanguinate lasciate su altari di ghiaccio scolpito. Se il signore dei demoni sceglie di rispondere alla chiamata dei giganti, caccia e combatte al loro fianco per un po', infettando i giganti del gelo con follia selvaggia e sete di sangue prima di scomparire nell'Abisso."
 							]
 						}
 					]
@@ -625,11 +625,11 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn't believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he's privy to all manner of dealings that might otherwise escape the attention of his patron.",
-								"In his role as the master of the Wandering Emporium, Mahadi has received special dispensation from Asmodeus to travel freely between the Material Plane and the Nine Hells to operate his business, as well as to pursue information and broker contracts and other such arrangements as needed.",
-								"In addition to managing the Wandering Emporium, Mahadi is also the proprietor and host of Infernal Rapture, a restaurant and spa. Since the establishment exists within a demiplane, patrons can comfortably visit it at any time, even while the caravan is on the move. As long as they can pay for services rendered, guests need not fear being trapped within, since Mahadi is very serious about maintaining the contract between host and guest. Each guest must agree to this formal arrangement prior to gaining entrance.",
-								"Mahadi presents himself as a charismatic and gracious host. He makes each guest of Infernal Rapture feel as though they're the most important person in all the planes of existence, catering to their every whim and desire. While he is equally cordial to all guests of the Wandering Emporium, those entering his establishment fall under a special contract and therefore rank most highly in his esteem.",
-								"Of course, guests leaving Infernal Rapture are expected to pay their bills in full prior to departure. If a guest cannot pay for whatever reason, the contract they signed on entry clearly stipulates their soul is forfeit. They're required to pay off their debt through service. All such individuals fall under the effect of a geas cast as a 9th-level spell, which cannot be willingly broken by the affected individual until their debt is paid in full. What Mahadi does with such defaulters depends on their capabilities. Some become indentured servants, working at Infernal Rapture. If they possess a talent for sales, they might eventually obtain a business to run within the Wandering Emporium."
+								"Mahadi appare come un ricco signore mercantile. Sebbene estremamente potente, Mahadi non crede nel correre rischi inutili, in particolare nei Nove Inferni dove può essere ucciso permanentemente. Mahadi funge da occhi e orecchie di Asmodeus nell'Averno. In qualità di mediatore e moderatore di affari, è a conoscenza di tutti i tipi di affari che altrimenti potrebbero sfuggire all'attenzione del suo mecenate.",
+								"Nel suo ruolo di padrone dell'Emporio Errante, Mahadi ha ricevuto una dispensa speciale da Asmodeus per viaggiare liberamente tra il Piano Materiale e i Nove Inferni per gestire i suoi affari, nonché per perseguire informazioni e contratti di intermediazione e altri accordi simili necessari.",
+								"Oltre a gestire l'Emporio Errante, Mahadi è anche proprietario e ospite di Infernal Rapture, un ristorante e spa. Poiché lo stabilimento si trova all'interno di un semipiano, i clienti possono visitarlo comodamente in qualsiasi momento, anche mentre la carovana è in movimento. Finché possono pagare per i servizi resi, gli ospiti non devono temere di rimanere intrappolati all'interno, poiché Mahadi è molto serio nel mantenere il contratto tra ospite e ospite. Ogni ospite deve accettare questo accordo formale prima di poter entrare.",
+								"Mahadi si presenta come un ospite carismatico e gentile. Fa sentire ogni ospite di Infernal Rapture come se fosse la persona più importante su tutti i piani dell'esistenza, soddisfacendo ogni suo capriccio e desiderio. Sebbene sia altrettanto cordiale con tutti gli ospiti dell'Emporio Errante, coloro che entrano nel suo locale sono vincolati da un contratto speciale e quindi occupano la massima considerazione nella sua stima.",
+								"Naturalmente, gli ospiti che lasciano Infernal Rapture sono tenuti a pagare l'intero conto prima della partenza. Se un ospite non può pagare per qualsiasi motivo, il contratto firmato all'ingresso prevede chiaramente che la sua anima sarà perduta. Sono tenuti a ripagare il loro debito attraverso il servizio. Tutti questi individui cadono sotto l'effetto di una costrizione lanciata come incantesimo di 9° livello, che non può essere spezzato volontariamente dall'individuo colpito finché il suo debito non viene completamente saldato. Ciò che Mahadi fa con questi inadempienti dipende dalle loro capacità. Alcuni diventano servitori a contratto, lavorando a Infernal Rapture. Se possiedono un talento per le vendite, potrebbero eventualmente ottenere un'attività da gestire all'interno dell'Emporio Errante."
 							]
 						}
 					]
@@ -655,19 +655,19 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.",
+								"Coloro che seguono Myrkul sono maghi o coloro che cercano di padroneggiare le arti necromantiche.",
 								{
 									"type": "entries",
 									"name": "Delvers into Lore",
 									"entries": [
-										"Cultists of Myrkul study rituals that allow them to force the souls of the dead into service, compelling them to answer questions and share forgotten lore. They seek out arcane secrets in ancient ruins, and attempt to steal spellbooks and other tomes from wizards outside of the cult."
+										"I cultisti di Myrkul studiano rituali che consentono loro di costringere le anime dei morti al servizio, costringendole a rispondere a domande e a condividere conoscenze dimenticate. Cercano segreti arcani nelle antiche rovine e tentano di rubare libri di incantesimi e altri tomi da maghi esterni al culto."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"A follower of Myrkul wields a flail that has a skull replacing the normal flail's striking head. Necromites are initiates who have not yet mastered arcane magic and rely on their flails in battle. Skull lashers are spellcasters who use magic to augment their combat abilities. The Masters of Souls delve deep into Myrkul's secrets, allowing them to animate the dead and perform other grave magic."
+										"Un seguace di Myrkul brandisce un mazzafrusto che ha un teschio che sostituisce la normale testa del mazzafrusto. I Necromiti sono iniziati che non hanno ancora padroneggiato la magia arcana e fanno affidamento sui loro mazzafrusti in battaglia. I sferzatori di teschi sono incantatori che usano la magia per aumentare le loro abilità di combattimento. I Maestri delle Anime scavano in profondità nei segreti di Myrkul, permettendo loro di animare i morti ed eseguire altre magie funerarie."
 									]
 								}
 							]
@@ -686,7 +686,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance."
+								"Mortlock è tollerato da sua madre, il duca Thalamra Vanthampur, e disprezzato dai suoi fratelli maggiori, Thurstwell e Amrik, che lo vedono come un sempliciotto e un abominio. Metà del volto di Mortlock è stato segnato dal fuoco quando era bambino, e la sua deturpazione gli conferisce un aspetto spaventoso."
 							]
 						}
 					]
@@ -712,19 +712,19 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.",
+								"Coloro che seguono Myrkul sono maghi o coloro che cercano di padroneggiare le arti necromantiche.",
 								{
 									"type": "entries",
 									"name": "Delvers into Lore",
 									"entries": [
-										"Cultists of Myrkul study rituals that allow them to force the souls of the dead into service, compelling them to answer questions and share forgotten lore. They seek out arcane secrets in ancient ruins, and attempt to steal spellbooks and other tomes from wizards outside of the cult."
+										"I cultisti di Myrkul studiano rituali che consentono loro di costringere le anime dei morti al servizio, costringendole a rispondere a domande e a condividere conoscenze dimenticate. Cercano segreti arcani nelle antiche rovine e tentano di rubare libri di incantesimi e altri tomi da maghi esterni al culto."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"A follower of Myrkul wields a flail that has a skull replacing the normal flail's striking head. Necromites are initiates who have not yet mastered arcane magic and rely on their flails in battle. Skull lashers are spellcasters who use magic to augment their combat abilities. The Masters of Souls delve deep into Myrkul's secrets, allowing them to animate the dead and perform other grave magic."
+										"Un seguace di Myrkul brandisce un mazzafrusto che ha un teschio che sostituisce la normale testa del mazzafrusto. I Necromiti sono iniziati che non hanno ancora padroneggiato la magia arcana e fanno affidamento sui loro mazzafrusti in battaglia. I sferzatori di teschi sono incantatori che usano la magia per aumentare le loro abilità di combattimento. I Maestri delle Anime scavano in profondità nei segreti di Myrkul, permettendo loro di animare i morti ed eseguire altre magie funerarie."
 									]
 								}
 							]
@@ -752,26 +752,26 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.",
+								"I cultisti di Bhaal emulano la loro divinità, commettendo raccapriccianti omicidi per diffondere paura e orrore. Sono affascinanti e disarmanti quando lo desiderano, ma in combattimento la loro vera natura assetata di sangue viene alla ribalta.",
 								{
 									"type": "entries",
 									"name": "Bloodletters",
 									"entries": [
-										"All cultists of Bhaal learn to call upon their god's power to leave their victims vulnerable to their long-bladed knives. When Bhaal's magic works its power, stab wounds erupt in terrible gouts of blood. Seemingly minor wounds plunge deep into a victim's body and cause terrible pain and bleeding."
+										"Tutti i cultisti di Bhaal imparano a invocare il potere del loro dio per lasciare le loro vittime vulnerabili ai loro coltelli a lama lunga. Quando la magia di Bhaal fa effetto, le ferite da taglio esplodono in terribili fiotti di sangue. Ferite apparentemente minori penetrano in profondità nel corpo della vittima e causano dolore e sanguinamento terribili."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Killers from the Shadows",
 									"entries": [
-										"Bhaal's followers are cunning murderers who kill to strike fear and thrive on sowing terror in the cities they inhabit. They can call upon their god's power to blend into the shadows with ease, or even turn {@condition invisible} for a crucial moment."
+										"I seguaci di Bhaal sono astuti assassini che uccidono per incutere paura e prosperano seminando il terrore nelle città in cui vivono. Possono invocare il potere del loro dio per mimetizzarsi facilmente nell'ombra o addirittura voltarsi {@condition invisible} per un momento cruciale."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with {@sense darkvision} and superior stealth. Reapers are the next rank up. They gain the ability to turn {@condition invisible} and can use Bhaal's magic to evade suspicion. The highest rank are the death's heads, who can take on the skull-faced guise of their deity to terrify their prey. In combat, they intimidate foes by shrugging off the deadliest attacks with ease, showing that resisting Bhaal's schemes is futile."
+										"I cultisti di Bhaal di basso rango sono chiamati lame notturne, che Bhaal benedice con {@sense darkvision} e furtività superiore. I Mietitori sono il livello successivo. Ottengono la capacità di girarsi {@condition invisible} e possono usare la magia di Bhaal per eludere i sospetti. Il rango più alto sono le teste di morto, che possono assumere l'aspetto con la faccia da teschio della loro divinità per terrorizzare la preda. In combattimento, intimidiscono i nemici ignorando con facilità gli attacchi più letali, dimostrando che resistere ai piani di Bhaal è inutile."
 									]
 								}
 							]
@@ -790,8 +790,8 @@
 						{
 							"type": "entries",
 							"entries": [
-								"The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene's leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild\u2014provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.",
-								"Keene has become increasingly intolerant of the populous tide turning against her organization. While the occasional rabble-rouser has always impeded criminal business, the rise of organized crews and vigilantes is interfering with Guild operations. After a carefully coordinated attack on a patriar's estate fell to pieces when a vigilante clumsily alerted the estate guards, Keene declared open season on do-gooders of all stripes."
+								"L'attuale leader della Gilda, Nine-Fingers Keene, disdegna gli abiti appariscenti e la magia illusoria. Appare al mondo così com'è: una donna senza pretese di età e corporatura di mezza età. Il suo aspetto dimenticabile si è dimostrato la sua più grande risorsa come ladra, poiché le sue vittime hanno difficoltà a riconoscerla anche quando la incontrano di nuovo faccia a faccia. La leadership di Keene nel corso degli anni le è valsa la reputazione di premuroso pragmatismo. Quando necessario, cerca vendetta per le offese contro la Gilda, a condizione che ciò sia redditizio. I suoi metodi sono crudeli quando necessario, ed è tanto temuta quanto rispettata.",
+								"Keene è diventata sempre più intollerante nei confronti della marea popolosa che si rivolta contro la sua organizzazione. Anche se occasionali sobillatori hanno sempre ostacolato gli affari criminali, l'ascesa di bande organizzate e vigilantes sta interferendo con le operazioni della Gilda. Dopo che un attacco attentamente coordinato alla tenuta di un patrizio è andato in pezzi quando un vigilante ha allertato goffamente le guardie della tenuta, Keene ha dichiarato aperta la caccia ai benefattori di ogni tipo."
 							]
 						}
 					]
@@ -843,26 +843,26 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.",
+								"I cultisti di Bhaal emulano la loro divinità, commettendo raccapriccianti omicidi per diffondere paura e orrore. Sono affascinanti e disarmanti quando lo desiderano, ma in combattimento la loro vera natura assetata di sangue viene alla ribalta.",
 								{
 									"type": "entries",
 									"name": "Bloodletters",
 									"entries": [
-										"All cultists of Bhaal learn to call upon their god's power to leave their victims vulnerable to their long-bladed knives. When Bhaal's magic works its power, stab wounds erupt in terrible gouts of blood. Seemingly minor wounds plunge deep into a victim's body and cause terrible pain and bleeding."
+										"Tutti i cultisti di Bhaal imparano a invocare il potere del loro dio per lasciare le loro vittime vulnerabili ai loro coltelli a lama lunga. Quando la magia di Bhaal fa effetto, le ferite da taglio esplodono in terribili fiotti di sangue. Ferite apparentemente minori penetrano in profondità nel corpo della vittima e causano dolore e sanguinamento terribili."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Killers from the Shadows",
 									"entries": [
-										"Bhaal's followers are cunning murderers who kill to strike fear and thrive on sowing terror in the cities they inhabit. They can call upon their god's power to blend into the shadows with ease, or even turn {@condition invisible} for a crucial moment."
+										"I seguaci di Bhaal sono astuti assassini che uccidono per incutere paura e prosperano seminando il terrore nelle città in cui vivono. Possono invocare il potere del loro dio per mimetizzarsi facilmente nell'ombra o addirittura voltarsi {@condition invisible} per un momento cruciale."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with {@sense darkvision} and superior stealth. Reapers are the next rank up. They gain the ability to turn {@condition invisible} and can use Bhaal's magic to evade suspicion. The highest rank are the death's heads, who can take on the skull-faced guise of their deity to terrify their prey. In combat, they intimidate foes by shrugging off the deadliest attacks with ease, showing that resisting Bhaal's schemes is futile."
+										"I cultisti di Bhaal di basso rango sono chiamati lame notturne, che Bhaal benedice con {@sense darkvision} e furtività superiore. I Mietitori sono il livello successivo. Ottengono la capacità di girarsi {@condition invisible} e possono usare la magia di Bhaal per eludere i sospetti. Il rango più alto sono le teste di morto, che possono assumere l'aspetto con la faccia da teschio della loro divinità per terrorizzare la preda. In combattimento, intimidiscono i nemici ignorando con facilità gli attacchi più letali, dimostrando che resistere ai piani di Bhaal è inutile."
 									]
 								}
 							]
@@ -890,7 +890,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city\u2014and the best place to fence stolen gems, as it's also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity."
+								"Il re della gilda di Piccolo Calimshan. Tra i luoghi più famosi di Little Calimshan c'è il Calim Jewel Emporium, ampiamente considerato come il miglior gioielliere della città e il posto migliore per custodire le gemme rubate, poiché è anche il quartier generale della gilda locale. Oltre a ospitare regolarmente forum pubblici nel suo negozio, Rael supervisiona tacitamente il Giardino dei Sussurri, un labirinto di schermi di legno e carta dove le persone provenienti da tutta la città possono acquistare e vendere segreti con gli agenti della Gilda e tra loro, parlando attraverso le barriere in modo da mantenere l'anonimato."
 							]
 						}
 					]
@@ -916,19 +916,19 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.",
+								"Coloro che seguono Myrkul sono maghi o coloro che cercano di padroneggiare le arti necromantiche.",
 								{
 									"type": "entries",
 									"name": "Delvers into Lore",
 									"entries": [
-										"Cultists of Myrkul study rituals that allow them to force the souls of the dead into service, compelling them to answer questions and share forgotten lore. They seek out arcane secrets in ancient ruins, and attempt to steal spellbooks and other tomes from wizards outside of the cult."
+										"I cultisti di Myrkul studiano rituali che consentono loro di costringere le anime dei morti al servizio, costringendole a rispondere a domande e a condividere conoscenze dimenticate. Cercano segreti arcani nelle antiche rovine e tentano di rubare libri di incantesimi e altri tomi da maghi esterni al culto."
 									]
 								},
 								{
 									"type": "entries",
 									"name": "Cult Ranks",
 									"entries": [
-										"A follower of Myrkul wields a flail that has a skull replacing the normal flail's striking head. Necromites are initiates who have not yet mastered arcane magic and rely on their flails in battle. Skull lashers are spellcasters who use magic to augment their combat abilities. The Masters of Souls delve deep into Myrkul's secrets, allowing them to animate the dead and perform other grave magic."
+										"Un seguace di Myrkul brandisce un mazzafrusto che ha un teschio che sostituisce la normale testa del mazzafrusto. I Necromiti sono iniziati che non hanno ancora padroneggiato la magia arcana e fanno affidamento sui loro mazzafrusti in battaglia. I sferzatori di teschi sono incantatori che usano la magia per aumentare le loro abilità di combattimento. I Maestri delle Anime scavano in profondità nei segreti di Myrkul, permettendo loro di animare i morti ed eseguire altre magie funerarie."
 									]
 								}
 							]
@@ -947,11 +947,11 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Smiler has an unnerving smile\u2014hence his name.",
-								"A more apt name for this eladrin would be Smiler the Beguiler, as he's constantly trying to intoxicate others with his relentless optimism and shocking recklessness. Smiler thinks he can accomplish anything with a positive attitude and some death-defying stunt. Although he admits others might end up getting killed by his actions, he believes he can bend the multiverse to his whims if he tries hard enough. He's really quite insane.",
-								"One of Smiler's favorite antics is to use a {@spell hallucinatory terrain} spell to create a little bit of the Feywild in Avernus: a beautiful woodland glade in which to lose himself for a few hours while he meditates and plots.",
-								"This eladrin adventurer from the Feywild became stranded in Avernus after his companions abandoned him. He has spent the past seventy years roaming Avernus, making deals with fiends to survive. Smiler eventually sold his soul to a pit fiend, who gave him the means to topple a nycaloth warlord named Yarrasto. Smiler took control of the nycaloth's warband and their infernal war machines. Smiler's gang came to be known as Smiler's Defilers, and their ferocity terrified the other warlords of Avernus for a while.",
-								"Three of Smiler's rivals\u2014Bitter Breath, Feonor, and Princeps Kovik\u2014joined forces to wipe out Smiler's Defilers. Smiler escaped and tears around Avernus on a Devil's Ride, looking for adventurers willing to help him get revenge on the warlords who ganged up on him. Mad Maggie remains his only ally, though he refuses to join her gang."
+								"Smiler ha un sorriso inquietante, da qui il suo nome.",
+								"Un nome più appropriato per questo eladrin sarebbe Smiler the Beguiler, poiché cerca costantemente di inebriare gli altri con il suo implacabile ottimismo e la scioccante incoscienza. Smiler pensa di poter realizzare qualsiasi cosa con un atteggiamento positivo e qualche acrobazia che sfida la morte. Anche se ammette che altri potrebbero finire per essere uccisi dalle sue azioni, crede di poter piegare il multiverso ai suoi capricci se si impegna abbastanza. E' davvero abbastanza pazzo.",
+								"Una delle buffonate preferite di Smiler è quella di usare un incantesimo {@spell hallucinatory terrain} per creare un pezzetto di Feywild nell'Avernus: una bellissima radura boschiva in cui perdersi per qualche ora mentre medita e complotta.",
+								"Questo avventuriero eladrin della Selva dei Folletti rimase bloccato nell'Avernus dopo che i suoi compagni lo abbandonarono. Ha trascorso gli ultimi settant'anni vagando per l'Avernus, stringendo accordi con i demoni per sopravvivere. Smiler alla fine vendette la sua anima a un diavolo della fossa, che gli diede i mezzi per rovesciare un signore della guerra nycaloth di nome Yarrasto. Smiler prese il controllo della banda da guerra dei nycaloth e delle loro macchine da guerra infernali. La banda di Smiler divenne nota come i Contaminatori di Smiler e la loro ferocia terrorizzò per un po' gli altri signori della guerra dell'Avernus.",
+								"Tre dei rivali di Smiler, Bitter Breath, Feonor e Princeps Kovik, hanno unito le forze per spazzare via i Contaminatori di Smiler. Smiler è scappato e si è messo a girare per l'Avernus durante la Cavalcata del Diavolo, alla ricerca di avventurieri disposti ad aiutarlo a vendicarsi dei signori della guerra che si sono alleati contro di lui. Mad Maggie rimane la sua unica alleata, anche se rifiuta di unirsi alla sua banda."
 							]
 						}
 					]
@@ -997,7 +997,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he uses imps to spy on his brothers, Amrik and Mortlock. Thurstwell resents both of them\u2014Amrik for being their mother's favorite, and Mortlock for being a monstrous dolt."
+								"Thurstwell è un recluso pallido e scontroso sulla quarantina. Un vero e proprio recluso, usa i folletti per spiare i suoi fratelli, Amrik e Mortlock. Thurstwell si risente di entrambi: Amrik perché è il preferito della madre e Mortlock perché è un mostruoso idiota."
 							]
 						}
 					]
@@ -1050,10 +1050,10 @@
 						{
 							"type": "entries",
 							"entries": [
-								"Ulder Ravengard is a fearless soldier who rose up through the ranks of the Flaming Fist to become its supreme marshal. Ravengard used his military position and influence to secure for himself a seat on the Council of Four. Following the deaths of two council members amid a cloud of corruption and scandal, he persuaded the Parliament of Peers to back his election to grand duke.",
-								"Upon ascending to the highest position in the city government, Ravengard refused to relinquish command of the Flaming Fist, making him the most powerful figure in the city by far. This decision has not endeared him to anyone, but Ravengard could care less about his popularity. His only concerns are the stability and prosperity of Baldur's Gate, and he doesn't trust any of the other dukes or anyone in the Parliament of Peers to put the city's interests before their own.",
-								"Ravengard rose to grand duke on a platform largely backed by idealistic commoners and enemies of the other established dukes. While he won election handily, Ravengard has struggled in performing his duties, finding his hands tied at every turn by both overt and {@condition invisible} bureaucracy. Despite this, he's been a voice of reason and common sense on the Council of Four\u2014if not the egalitarianism some hoped. He's also proven largely resistant to scandal and corruption, though many of his fellow dukes and those in the Parliament of Peers still regularly outmaneuver him politically. One of his only obvious pleasures remains the surprise inspections he regularly visits upon the troops at Wyrm's Rock.",
-								"Ravengard was recently tricked into attending a diplomatic summit in Elturel, unaware that his political enemies in Baldur's Gate orchestrated this meeting in a fiendish plot to remove him from power. In his absence, the Flaming Fist is leaderless, the council rudderless."
+								"Ulder Ravengard è un soldato impavido che ha scalato i ranghi del Pugno Fiammeggiante per diventarne il maresciallo supremo. Ravengard usò la sua posizione militare e la sua influenza per assicurarsi un seggio nel Consiglio dei Quattro. Dopo la morte di due membri del consiglio in una nube di corruzione e scandalo, convinse il Parlamento dei Pari a sostenere la sua elezione a granduca.",
+								"Dopo essere salito alla posizione più alta nel governo della città, Ravengard si rifiutò di cedere il comando del Pugno Fiammeggiante, rendendolo di gran lunga la figura più potente della città. Questa decisione non lo ha reso caro a nessuno, ma a Ravengard potrebbe importare di meno della sua popolarità. Le sue uniche preoccupazioni sono la stabilità e la prosperità di Baldur's Gate, e non si fida di nessuno degli altri duchi o di chiunque nel Parlamento dei Pari che anteponga gli interessi della città ai propri.",
+								"Ravengard salì al rango di granduca su una piattaforma in gran parte sostenuta da cittadini comuni idealisti e nemici degli altri duchi affermati. Sebbene abbia vinto facilmente le elezioni, Ravengard ha faticato a svolgere i suoi compiti, trovandosi con le mani legate ad ogni turno dalla burocrazia sia palese che {@condition invisible}. Nonostante ciò, è stato una voce della ragione e del buon senso nel Consiglio dei Quattro, se non dell'egualitarismo che alcuni speravano. Si è anche dimostrato ampiamente resistente allo scandalo e alla corruzione, anche se molti dei suoi colleghi duchi e quelli del Parlamento dei Pari continuano a sconfiggerlo politicamente in astuzia. Uno dei suoi unici piaceri evidenti rimangono le ispezioni a sorpresa che effettua regolarmente sulle truppe a Wyrm's Rock.",
+								"Ravengard è stato recentemente indotto con l'inganno a partecipare a un vertice diplomatico a Elturel, ignaro che i suoi nemici politici a Baldur's Gate avevano orchestrato questo incontro in un diabolico complotto per rimuoverlo dal potere. In sua assenza, il Pugno Fiammeggiante è senza leader, il consiglio senza timone."
 							]
 						}
 					]

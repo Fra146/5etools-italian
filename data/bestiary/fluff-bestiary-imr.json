@@ -18,7 +18,7 @@
 			"name": "Banrion",
 			"source": "IMR",
 			"entries": [
-				"Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight. They allow good-hearted creatures to enter their woods to hunt or gather food, but they hold evil ever at bay."
+				"Non imparentato con i cavalli a cui assomiglia, un unicorno è una creatura celestiale che vaga per i regni silvani, con la sua forma bianca che brilla come la luce delle stelle. Consentono alle creature di buon cuore di entrare nei loro boschi per cacciare o raccogliere cibo, ma tengono sempre a bada il male."
 			],
 			"images": [
 				{
@@ -49,7 +49,7 @@
 											"type": "inset",
 											"name": "Out on Loan",
 											"entries": [
-												"The powerful relics possessed by Lynx Creatlach and Sir Ursas (see the \"Special Equipment\" section of their stat blocks) have been granted to them by their diabolical masters, and are not meant to be claimed as treasure. If either agent is killed in the course of the adventure, their special equipment vanishes, returning to Bel or Zariel."
+												"Le potenti reliquie possedute da Lynx Creatlach e Sir Ursas (vedi la sezione \"Equipaggiamento speciale\" dei loro blocchi statistiche) sono state concesse loro dai loro diabolici padroni e non devono essere rivendicate come tesoro. Se uno degli agenti viene ucciso nel corso dell'avventura, il suo equipaggiamento speciale svanisce, tornando da Bel o Zariel."
 											]
 										}
 									]
@@ -87,7 +87,7 @@
 								{
 									"type": "entries",
 									"entries": [
-										"A neo-otyugh is a stronger, more intelligent version of an otyugh\u2014a grotesque aberration sporting three legs, snake-like tentacles, and a perpetually ravenous maw. Like an otyugh, a neo-otyugh buries itself under mounds of offal and carrion to ambush prey. Their improved intellect and innate spellcasting makes them especially effective against humanoid targets, as they use their powers of control to split off a straggler from a party, then attack."
+										"Un neo-otyugh è una versione più forte e intelligente di un otyugh: un'aberrazione grottesca dotata di tre gambe, tentacoli simili a serpenti e fauci perennemente fameliche. Come un otyugh, un neo-otyugh si nasconde sotto cumuli di frattaglie e carogne per tendere un'imboscata alla preda. Il loro intelletto migliorato e il lancio di incantesimi innati li rendono particolarmente efficaci contro i bersagli umanoidi, poiché usano i loro poteri di controllo per separare un ritardatario da un gruppo, quindi attaccare."
 									]
 								}
 							]
@@ -123,7 +123,7 @@
 											"type": "inset",
 											"name": "Out on Loan",
 											"entries": [
-												"The powerful relics possessed by Lynx Creatlach and Sir Ursas (see the \"Special Equipment\" section of their stat blocks) have been granted to them by their diabolical masters, and are not meant to be claimed as treasure. If either agent is killed in the course of the adventure, their special equipment vanishes, returning to Bel or Zariel."
+												"Le potenti reliquie possedute da Lynx Creatlach e Sir Ursas (vedi la sezione \"Equipaggiamento speciale\" dei loro blocchi statistiche) sono state concesse loro dai loro diabolici padroni e non devono essere rivendicate come tesoro. Se uno degli agenti viene ucciso nel corso dell'avventura, il suo equipaggiamento speciale svanisce, tornando da Bel o Zariel."
 											]
 										}
 									]
@@ -147,9 +147,9 @@
 								{
 									"type": "entries",
 									"entries": [
-										"Thessalar was a master alchemist and creator of monsters, whose own blood was said to possess dire magical properties.",
-										"He is vainglorious, egotistical, and utterly ruthless in furthering his research. His career began as a priest in the service of Moloch, where he rose through the ranks before eventually taking over the temple as a working laboratory. Most of his experiments have involved the pursuit of new forms of life, resulting in such creatures as the thessalhydra and the owlbear. In recent years, he has also researched the prolonging of life\u2014namely his own. Thessalar hopes that by becoming a lich, his research and experiments can continue indefinitely.",
-										"Over time, Thessalar has subjected himself to so many of his own experiments that his blood has taken on alchemical and magical properties. He regularly uses it as the basis for many of the reagents used throughout his labs."
+										"Thessalar era un maestro alchimista e creatore di mostri, il cui sangue si diceva possedesse terribili proprietà magiche.",
+										"È vanaglorioso, egoista e assolutamente spietato nel portare avanti la sua ricerca. La sua carriera iniziò come sacerdote al servizio di Moloch, dove scalò i ranghi prima di assumere il controllo del tempio come laboratorio funzionante. La maggior parte dei suoi esperimenti hanno coinvolto la ricerca di nuove forme di vita, dando vita a creature come la Tessalidra e l'Orsogufo. Negli ultimi anni ha anche studiato il prolungamento della vita, in particolare la propria. Thessalar spera che, diventando un lich, le sue ricerche e i suoi esperimenti possano continuare indefinitamente.",
+										"Nel corso del tempo, Thessalar si è sottoposto a così tanti esperimenti che il suo sangue ha assunto proprietà alchemiche e magiche. Lo usa regolarmente come base per molti dei reagenti utilizzati nei suoi laboratori."
 									]
 								}
 							]
@@ -195,7 +195,7 @@
 								{
 									"type": "entries",
 									"entries": [
-										"A thessalheart construct is created with a connection to the life energy of another creature, allowing that creature to regenerate back from the dead as long as the construct is not destroyed. The artificer Thessalar created this crafty construct, and uses it to imbue his greater monstrous creations with even more power."
+										"Un costrutto thessalheart viene creato con una connessione all'energia vitale di un'altra creatura, consentendo a quella creatura di rigenerarsi dalla morte finché il costrutto non viene distrutto. L'artefice Thessalar ha creato questo astuto costrutto e lo usa per infondere ancora più potere nelle sue creazioni mostruose più grandi."
 									]
 								}
 							]
@@ -227,8 +227,8 @@
 								{
 									"type": "entries",
 									"entries": [
-										"The alchemist Thessalar created unknown numbers of misshapen magical creatures, including his many thessalbeasts. Among the largest was the thessalkraken\u2014a slightly smaller variant of the legendary kraken, resembling that great tentacled titan but with a jagged-toothed maw that drips constantly with acid.",
-										"A thessalkraken lives in the dark depths, usually a sunken rift or a cavern filled with detritus, treasure, and the remains of sacrificial victims."
+										"L'alchimista Thessalar creò un numero imprecisato di creature magiche deformi, comprese le sue numerose bestie di Thessalar. Tra i più grandi c'era il thessalkraken, una variante leggermente più piccola del leggendario kraken, somigliante al grande titano tentacolato ma con fauci dai denti seghettati che grondano costantemente acido.",
+										"Un thessalkraken vive nelle profondità oscure, solitamente in una spaccatura scavata o in una caverna piena di detriti, tesori e resti di vittime sacrificali."
 									]
 								}
 							]

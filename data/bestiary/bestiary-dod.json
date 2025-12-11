@@ -68,7 +68,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Yarnspinner casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 17}):"
+						"Yarnspinner lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando Saggezza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 17}):"
 					],
 					"will": [
 						"{@spell faerie fire}",
@@ -93,37 +93,37 @@
 				{
 					"name": "Fey Rebirth",
 					"entries": [
-						"If Yarnspinner dies in his Domain of Delight, he revives with all his hit points {@dice 1d4} days later in a safe location in that domain."
+						"Se Yarnspinner muore nel suo Dominio della Delizia, resuscita con tutti i suoi punti ferita {@dice 1d4} giorni dopo in un luogo sicuro in quel dominio."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Yarnspinner fails a saving throw, he can choose to succeed instead."
+						"Se Yarnspinner fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"Yarnspinner can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"Filatore può arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica."
 					]
 				},
 				{
 					"name": "Web Walker",
 					"entries": [
-						"Yarnspinner ignores movement restrictions caused by webbing."
+						"Yarnspinner ignora le restrizioni di movimento causate dalla tessitura."
 					]
 				},
 				{
 					"name": "Web Weaver (3/Day)",
 					"entries": [
-						"Yarnspinner can take 1 minute to craft one of the following structures out of webbing:",
+						"Yarnspinner può impiegare 1 minuto per creare una delle seguenti strutture dalla tela:",
 						{
 							"type": "list",
 							"items": [
-								"A 3-inch-thick, opaque wall of webbing consisting of up to three 10-foot-square sections, each of which must be anchored on at least two sides by other walls or surfaces. Each section has AC 12; 20 hit points; vulnerability to fire damage; and immunity to bludgeoning, poison, and psychic damage.",
-								"A hut small enough to fit in a 10-foot cube. The hut comes with a closable door and a comfortable bed made of webbing, sized for a Tiny, Small, or Medium creature.",
-								"A message consisting of no more than twenty-five characters, anchored at various points so it hangs in the air."
+								"Una parete di tela opaca, spessa 3 pollici, composta da un massimo di tre sezioni di 3 metri quadrati, ciascuna delle quali deve essere ancorata su almeno due lati ad altre pareti o superfici. Ogni sezione ha CA 12; 20 punti ferita; vulnerabilità ai danni da incendio; e immunità ai danni contundenti, veleni e psichici.",
+								"Una capanna abbastanza piccola da stare in un cubo di 3 metri. La capanna è dotata di una porta chiudibile e di un comodo letto fatto di tela, delle dimensioni di una creatura Minuscola, Piccola o Media.",
+								"Un messaggio composto da non più di venticinque caratteri, ancorato in vari punti in modo da restare sospeso nell'aria."
 							]
 						}
 					]
@@ -133,19 +133,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Yarnspinner makes two Bite attacks and uses Spellcasting or Web once."
+						"Yarnspinner effettua due attacchi con il morso e usa Incantesimi o Ragnatela una volta."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 11} to hit, reach 10 ft., one target. {@h}17 ({@damage 3d6 + 7}) piercing damage plus 11 ({@damage 2d10}) poison damage."
+						"{@atk mw} {@hit 11} per colpire, raggiungere 10 piedi, un bersaglio. {@h}17 ({@damage 3d6 + 7}) danni perforanti più 11 ({@damage 2d10}) danni da veleno."
 					]
 				},
 				{
 					"name": "Web",
 					"entries": [
-						"Yarnspinner shoots webbing at one creature he can see within 120 feet of himself. The target must succeed on a {@dc 17} Strength saving throw or be {@condition restrained} for 1 hour. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+						"Yarnspinner spara la ragnatela a una creatura che può vedere entro 120 piedi da lui. Il bersaglio deve riuscire in un tiro salvezza sulla Forza {@dc 17} o essere {@condition restrained} per 1 ora. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],

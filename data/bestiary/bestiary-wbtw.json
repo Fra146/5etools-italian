@@ -87,13 +87,13 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If Agdon is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw and only half damage if he fails, provided he isn't {@condition incapacitated}."
+						"Se Agdon è soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisce invece alcun danno se riesce nel tiro salvezza e solo la metà dei danni se fallisce, a condizione che non lo sia {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"Agdon's long jump is up to 20 feet and his high jump is up to 10 feet, with or without a running start."
+						"Il salto in lungo di Agdon arriva fino a 20 piedi e il suo salto in alto arriva fino a 10 piedi, con o senza rincorsa."
 					]
 				}
 			],
@@ -101,19 +101,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Agdon makes two Branding Iron or Dagger attacks."
+						"Agdon effettua due attacchi con Ferro o Pugnale."
 					]
 				},
 				{
 					"name": "Branding Iron",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}10 ({@damage 3d6}) fire damage, and the target is magically branded. Agdon is {@condition invisible} to creatures branded in this way. The brand disappears after 24 hours, or it can be removed from a creature or object by any spell that ends a curse."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 3d6}) danni da fuoco e il bersaglio viene marchiato magicamente. Agdon è {@condition invisible} alle creature marchiate in questo modo. Il marchio scompare dopo 24 ore, oppure può essere rimosso da una creatura o da un oggetto tramite qualsiasi incantesimo che ponga fine a una maledizione."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 7} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}7 ({@damage 1d4 + 5}) piercing damage."
+						"{@atk mw,rw} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}7 ({@damage 1d4 + 5}) danno perforante."
 					]
 				}
 			],
@@ -121,7 +121,7 @@
 				{
 					"name": "Quick Fingers",
 					"entries": [
-						"Agdon targets one creature within 5 feet of him that he can see and makes a Dexterity ({@skill Sleight of Hand}) check, with a DC equal to 1 + the target's passive Wisdom ({@skill Perception}) score. On a successful check, Agdon pilfers one object weighing 1 pound or less that the target has in its possession but not in its grasp, without the target noticing the theft."
+						"Agdon prende di mira una creatura entro 1,5 metri da lui che può vedere ed effettua una prova di Destrezza ({@skill Sleight of Hand}), con una CD pari a 1 + il punteggio passivo di Saggezza ({@skill Perception}) del bersaglio. Con una prova riuscita, Agdon ruba un oggetto di peso pari o inferiore a 1 libbra che il bersaglio ha in suo possesso ma non nella sua presa, senza che il bersaglio si accorga del furto."
 					]
 				}
 			],
@@ -129,7 +129,7 @@
 				{
 					"name": "Uncanny Dodge",
 					"entries": [
-						"Agdon halves the damage that he takes from an attack that hits him. He must be able to see the attacker."
+						"Agdon dimezza il danno che subisce da un attacco che lo colpisce. Deve essere in grado di vedere l'aggressore."
 					]
 				}
 			],
@@ -210,13 +210,13 @@
 				{
 					"name": "Brave",
 					"entries": [
-						"Alagarthas has advantage on saving throws against being {@condition frightened}."
+						"Alagarthas ha vantaggio ai tiri salvezza contro l'essere {@condition frightened}."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Alagarthas has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Alagarthas ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				}
 			],
@@ -224,19 +224,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Alagarthas makes two melee attacks."
+						"Alagarthas effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 bludgeoning damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 danni contundenti."
 					]
 				},
 				{
 					"name": "Leadership (Recharges after a Short or Long Rest)",
 					"entries": [
-						"For 1 minute, Alagarthas can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a {@dice d4} to its roll provided it can hear and understand him. A creature can benefit from only one Leadership die at a time. This effect ends if Alagarthas is {@condition incapacitated}."
+						"Per 1 minuto, Alagarthas può pronunciare un comando speciale o un avvertimento ogni volta che una creatura non ostile che può vedere entro 9 metri da lui effettua un tiro per colpire o un tiro salvezza. La creatura può aggiungere un {@dice d4} al suo tiro purché possa ascoltarlo e capirlo. Una creatura può beneficiare di un solo dado Leadership alla volta. Questo effetto termina se Alagarthas è {@condition incapacitated}."
 					]
 				}
 			],
@@ -313,7 +313,7 @@
 				{
 					"name": "Speak with Beasts and Plants",
 					"entries": [
-						"Amidor can communicate with Beasts and Plants as if it shared a language with them."
+						"Amidor può comunicare con Animali e Piante come se condividesse un linguaggio con loro."
 					]
 				}
 			],
@@ -321,13 +321,13 @@
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Seed Sling",
 					"entries": [
-						"{@atk rw} {@hit 4} to hit, range 30/120 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage."
+						"{@atk rw} {@hit 4} da colpire, portata 30/120 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danni contundenti."
 					]
 				}
 			],
@@ -335,7 +335,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"Amidor adds 2 to its AC against one melee attack that would hit it. To do so, Amidor must see the attacker and be wielding a melee weapon."
+						"Amidor aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per fare ciò, Amidor deve vedere l'attaccante e impugnare un'arma da mischia."
 					]
 				}
 			],
@@ -431,7 +431,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Bavlorna casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 14}):"
+						"Bavlorna lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell detect magic}"
@@ -454,19 +454,19 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Bavlorna can breathe air and water."
+						"Bavlorna può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Boon of Immortality",
 					"entries": [
-						"Bavlorna is immune to any effect that would age her, and she can't die from old age."
+						"Bavlorna è immune a qualsiasi effetto che la faccia invecchiare e non può morire di vecchiaia."
 					]
 				},
 				{
 					"name": "Widdershins Allergy",
 					"entries": [
-						"If a creature within 10 feet of Bavlorna uses at least 10 feet of movement to run in place counterclockwise, Bavlorna is overcome by a fit of sneezing and can't cast spells until the end of her next turn. In addition, any creature Bavlorna has swallowed is immediately expelled and falls {@condition prone} in an unoccupied space within 5 feet of her."
+						"Se una creatura entro 3 metri da Bavlorna usa almeno 3 metri di movimento per correre sul posto in senso antiorario, Bavlorna viene sopraffatta da un attacco di starnuti e non può lanciare incantesimi fino alla fine del suo turno successivo. Inoltre, qualsiasi creatura che Bavlorna abbia inghiottito viene immediatamente espulsa e cade {@condition prone} in uno spazio non occupato entro 1,5 metri da lei."
 					]
 				}
 			],
@@ -474,25 +474,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Bavlorna makes one Bite attack and one Withering Ray attack."
+						"Bavlorna effettua un attacco con il morso e un attacco con il raggio avvizzito."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) piercing damage, and the target is {@condition grappled} (escape {@dc 16}) if it is a Medium or smaller creature. Until the grapple ends, the target is {@condition restrained}, and Bavlorna can't use her Bite attack on another target."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}13 ({@damage 2d6 + 6}) danni perforanti e il bersaglio è {@condition grappled} (fuga {@dc 16}) se è una creatura Media o inferiore. Fino al termine della presa, il bersaglio è {@condition restrained} e Bavlorna non può usare il suo attacco con il morso su un altro bersaglio."
 					]
 				},
 				{
 					"name": "Withering Ray",
 					"entries": [
-						"{@atk rs} {@hit 6} to hit, range 60 ft., one target. {@h}17 ({@damage 4d6 + 3}) necrotic damage."
+						"{@atk rs} {@hit 6} per colpire, portata 60 piedi, un bersaglio. {@h}17 ({@damage 4d6 + 3}) danno necrotico."
 					]
 				},
 				{
 					"name": "Create Lornlings {@recharge 5}",
 					"entries": [
-						"Bavlorna creates one or two 1-foot-tall duplicates of herself, called lornlings (use the Quickling stat block in appendix C). Each lornling appears in an unoccupied space within 5 feet of Bavlorna, obeys her commands, and takes its turn immediately after hers. A lornling lasts for 1 hour, until it or Bavlorna dies, or until Bavlorna dismisses it as an action. Bavlorna can have no more than eight lornlings in existence at a time."
+						"Bavlorna crea uno o due duplicati di se stessa alti 30 centimetri, chiamati lornlings (usa il blocco statistiche Quickling nell'appendice C). Ogni lornling appare in uno spazio non occupato entro 1,5 metri da Bavlorna, obbedisce ai suoi comandi e svolge il suo turno immediatamente dopo il suo. Un lornling dura 1 ora, finché lui o Bavlorna non muoiono, o finché Bavlorna non lo congeda con un'azione. Bavlorna non può avere più di otto lornling alla volta."
 					]
 				}
 			],
@@ -500,8 +500,8 @@
 				{
 					"name": "Swallow",
 					"entries": [
-						"Bavlorna swallows a Small or smaller creature she is grappling, ending the grapple on it. The swallowed creature is {@condition blinded} and {@condition restrained}, it has {@quickref Cover||3||total cover} against attacks and other effects outside Bavlorna, and it takes 10 ({@damage 3d6}) acid damage at the start of each of its turns. If the swallowed creature is one of Bavlorna's lornlings, Bavlorna gains all the lornling's memories when the acid damage reduces it to 0 hit points.",
-						"Bavlorna can have only one creature swallowed at a time. If Bavlorna dies, a swallowed creature is no longer {@condition restrained} and can escape from the corpse using 5 feet of movement, exiting {@condition prone}."
+						"Bavlorna inghiotte una creatura di taglia Piccola o inferiore con cui è in lotta, ponendo fine alla lotta su di essa. La creatura ingoiata è {@condition blinded} e {@condition restrained}, ha {@quickref Cover||3||total cover} contro attacchi e altri effetti al di fuori di Bavlorna e subisce 10 ({@damage 3d6}) danni da acido all'inizio di ciascuno dei suoi turni. Se la creatura ingoiata è uno dei lornling di Bavlorna, Bavlorna ottiene tutti i ricordi del lornling quando il danno da acido lo riduce a 0 punti ferita.",
+						"Bavlorna può far inghiottire solo una creatura alla volta. Se Bavlorna muore, una creatura inghiottita non esiste più {@condition restrained} e può scappare dal cadavere utilizzando 5 piedi di movimento, uscendo {@condition prone}."
 					]
 				}
 			],
@@ -590,7 +590,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The brigganock casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 11}):"
+						"Il brigantino lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 11}):"
 					],
 					"will": [
 						"{@spell minor illusion}",
@@ -612,19 +612,19 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"The brigganock has advantage on saving throws against being {@condition charmed}, and magic can't put it to sleep."
+						"Il briganock ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				},
 				{
 					"name": "Soul Light",
 					"entries": [
-						"The brigganock is accompanied by an insubstantial, invulnerable ball of light that contains its soul. The brigganock can't turn off the light or control its brightness. The soul light sheds bright light in a 10-foot radius and dim light for an additional 10 feet. If the brigganock dies, its soul light fades away."
+						"Il briganock è accompagnato da una sfera di luce inconsistente e invulnerabile che ne contiene l'anima. Il brigantino non può spegnere la luce o controllarne la luminosità. La luce dell'anima emette luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri. Se il briganock muore, la luce della sua anima svanisce."
 					]
 				},
 				{
 					"name": "Tunneler",
 					"entries": [
-						"Using a pickaxe or similar tool, a brigganock can burrow through solid rock at a speed of 5 feet, leaving a 6-inch-diameter tunnel in its wake."
+						"Usando un piccone o uno strumento simile, un briganock può scavare nella roccia solida a una velocità di 1,5 metri, lasciando dietro di sé un tunnel del diametro di 6 pollici."
 					]
 				}
 			],
@@ -632,13 +632,13 @@
 				{
 					"name": "Pickaxe",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Time Lapse (Recharges after a Short or Long Rest)",
 					"entries": [
-						"The brigganock accelerates the passage of time around itself, enabling it to accomplish up to 1 hour of work in a matter of seconds. This work can't affect any creature other than the brigganock, or any object being worn or carried by another creature, and the activity must take place within a 10-foot cube. For example, the brigganock could use this action to rapidly carve a pumpkin, cook and eat dinner, move a pile of stones, or tie a dozen knots in a length of rope."
+						"Il brigantino accelera lo scorrere del tempo attorno a sé, permettendogli di compiere fino a 1 ora di lavoro in pochi secondi. Questo lavoro non può influenzare alcuna creatura diversa dal briganock, o qualsiasi oggetto indossato o trasportato da un'altra creatura, e l'attività deve svolgersi all'interno di un cubo di 3 metri. Ad esempio, il briganock potrebbe usare questa azione per intagliare rapidamente una zucca, cucinare e consumare la cena, spostare un mucchio di pietre o fare una dozzina di nodi a un pezzo di corda."
 					]
 				}
 			],
@@ -646,7 +646,7 @@
 				{
 					"name": "Move Soul Light",
 					"entries": [
-						"The brigganock moves its soul light up to 30 feet in any direction to an unoccupied space it can see. At the end of the current turn, the light returns to the brigganock."
+						"Il briganock muove la sua luce dell'anima fino a 9 metri in qualsiasi direzione, in uno spazio non occupato che può vedere. Alla fine del turno in corso, la luce ritorna al brigantino."
 					]
 				}
 			],
@@ -733,19 +733,19 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"The knight can breathe air and water."
+						"Il cavaliere può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Speak with Frogs and Toads",
 					"entries": [
-						"The knight can communicate simple concepts to frogs and toads when it speaks in Bullywug."
+						"Il cavaliere può comunicare concetti semplici a rane e rospi quando parla in Bullywug."
 					]
 				},
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"The knight's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
+						"Il salto in lungo del cavaliere è fino a 20 piedi e il suo salto in alto fino a 10 piedi, con o senza rincorsa."
 					]
 				}
 			],
@@ -753,13 +753,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The knight makes two Glaive attacks."
+						"Il cavaliere effettua due attacchi con il falcione."
 					]
 				},
 				{
 					"name": "Glaive",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 10 ft., one target. {@h}8 ({@damage 1d10 + 3}) slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 10 piedi, un bersaglio. {@h}8 ({@damage 1d10 + 3}) danni taglienti."
 					]
 				}
 			],
@@ -767,7 +767,7 @@
 				{
 					"name": "Croak of Charming (Recharges after a Short or Long Rest)",
 					"entries": [
-						"The knight makes a loud croak while targeting one creature it can see within 30 feet of it. The target must succeed on a {@dc 12} Wisdom saving throw or be {@condition charmed} until the end of its next turn."
+						"Il cavaliere emette un forte gracidio mentre prende di mira una creatura che può vedere entro 9 metri da lui. Il bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 12} o essere {@condition charmed} fino alla fine del suo turno successivo."
 					]
 				}
 			],
@@ -849,7 +849,7 @@
 				{
 					"name": "Mimicry",
 					"entries": [
-						"The campestri can mimic any voice or song it has heard, albeit in a nasal falsetto."
+						"Il campestri può imitare qualunque voce o canto abbia udito, anche se in falsetto nasale."
 					]
 				}
 			],
@@ -857,13 +857,13 @@
 				{
 					"name": "Head Butt",
 					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 bludgeoning damage."
+						"{@atk mw} {@hit 0} per colpire, raggiungere 5 piedi, un bersaglio. {@h}1 danno contundente."
 					]
 				},
 				{
 					"name": "Spores (1/Day)",
 					"entries": [
-						"A 5-foot radius of spores extends from the campestri. These spores can go around corners, and they have no effect on Constructs, Elementals, Plants, or Undead. Each other creature in the area must make a {@dc 10} Wisdom saving throw. On a failed save, the creature is {@condition incapacitated} and its speed is halved, both for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Dai campestri si estende un raggio di spore di 1,5 metri. Queste spore possono aggirare gli angoli e non hanno alcun effetto su costrutti, elementali, piante o non morti. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Saggezza {@dc 10}. Se il tiro salvezza fallisce, la creatura è {@condition incapacitated} e la sua velocità viene dimezzata, entrambi per 1 minuto. Una creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -959,7 +959,7 @@
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"Clapperclaw doesn't require air, food, drink, or sleep."
+						"Clapperclaw non necessita di aria, cibo, bevande o sonno."
 					]
 				}
 			],
@@ -967,13 +967,13 @@
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d4 + 2}) slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 2d4 + 2}) danni taglienti."
 					]
 				},
 				{
 					"name": "Stuffing",
 					"entries": [
-						"Clapperclaw stuffs straw or other dead plant matter into itself and regains {@dice 2d4 + 2} hit points. Roll a {@dice d6}; on a 1 or 2, Clapperclaw runs out of stuffing and must spend 8 hours foraging for more before it can use this action again."
+						"Clapperclaw riempie sé stesso di paglia o altra materia vegetale morta e recupera {@dice 2d4 + 2} punti ferita. Tira un {@dice d6}; con 1 o 2, Clapperclaw esaurisce il ripieno e deve trascorrere 8 ore a cercarne altro prima di poter utilizzare nuovamente questa azione."
 					]
 				}
 			],
@@ -981,7 +981,7 @@
 				{
 					"name": "Unsettling Presence {@recharge}",
 					"entries": [
-						"Clapperclaw targets one creature it can see within 15 feet of it. The target must succeed on a {@dc 11} Wisdom saving throw or be magically {@condition frightened} until the end of Clapperclaw's next turn."
+						"Clapperclaw prende di mira una creatura che può vedere entro 15 piedi da esso. Il bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 11} o essere magicamente {@condition frightened} fino alla fine del turno successivo di Clapperclaw."
 					]
 				}
 			],
@@ -1024,7 +1024,7 @@
 				{
 					"name": "Strength Drain",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}9 ({@damage 2d6 + 2}) necrotic damage, and the target's Strength score is reduced by {@dice 1d4}. The target falls {@condition unconscious} if this reduces its Strength to 0. The creature regains consciousness and the reduction to its Strength score disappears after it finishes a short or long rest."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}9 ({@damage 2d6 + 2}) danni necrotici e il punteggio di Forza del bersaglio viene ridotto del {@dice 1d4}. Il bersaglio cade {@condition unconscious} se questo riduce la sua Forza a 0. La creatura riprende conoscenza e la riduzione del suo punteggio di Forza scompare dopo aver terminato un riposo breve o lungo."
 					]
 				}
 			],
@@ -1076,7 +1076,7 @@
 				{
 					"name": "Displacement",
 					"entries": [
-						"The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is {@condition incapacitated} or has a speed of 0."
+						"La bestia distorcente proietta un'illusione magica che la fa sembrare vicina alla sua posizione reale, causando svantaggio ai tiri per colpire contro di essa. Se viene colpito da un attacco, questo tratto viene interrotto fino alla fine del suo turno successivo. Questa caratteristica viene interrotta anche mentre la bestia distorcente è {@condition incapacitated} o ha una velocità pari a 0."
 					]
 				}
 			],
@@ -1084,7 +1084,7 @@
 				{
 					"name": "Tentacles",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}2 bludgeoning damage plus 2 piercing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 danni contundenti più 2 danni perforanti."
 					]
 				}
 			],
@@ -1169,7 +1169,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Elkhorn wields a {@item +1 longsword}."
+						"Elkhorn brandisce un {@item +1 longsword}."
 					]
 				}
 			],
@@ -1177,19 +1177,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Elkhorn makes two Dagger or +1 Longsword attacks."
+						"Elkhorn effettua due attacchi con il pugnale o con la spada lunga +1."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 3} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing damage. If the target is a creature that is Large or bigger, it takes an extra 5 ({@damage 1d10}) piercing damage."
+						"{@atk mw,rw} {@hit 3} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}3 ({@damage 1d4 + 1}) danno perforante. Se il bersaglio è una creatura Grande o più grande, subisce 5 ({@damage 1d10}) danni perforanti aggiuntivi."
 					]
 				},
 				{
 					"name": "+1 Longsword",
 					"entries": [
-						"{@atk mw}  {@hit 2} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d8}) slashing damage, or 5 ({@damage 1d10}) slashing damage when used with two hands. If the target is a creature that is Large or bigger, it takes an extra 5 ({@damage 1d10}) slashing damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d8}) danni da taglio o 5 ({@damage 1d10}) danni da taglio se usato con due mani. Se il bersaglio è una creatura Grande o più grande, subisce 5 ({@damage 1d10}) danni taglienti aggiuntivi."
 					]
 				}
 			],
@@ -1197,13 +1197,13 @@
 				{
 					"name": "Feint {@recharge 5}",
 					"entries": [
-						"Elkhorn targets one creature that he can see within 5 feet of him. Elkhorn has advantage on the next attack roll he makes against that target before the end of his turn. If that attack hits, the target takes an extra 7 ({@damage 2d6}) damage of the weapon's type."
+						"Elkhorn prende di mira una creatura che può vedere entro 1,5 metri da lui. Elkhorn ha vantaggio al successivo tiro per colpire che effettua contro quel bersaglio prima della fine del suo turno. Se l'attacco va a segno, il bersaglio subisce 7 ({@damage 2d6}) danni aggiuntivi in ​​base al tipo di arma."
 					]
 				},
 				{
 					"name": "Second Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Elkhorn regains 12 hit points."
+						"Elkhorn recupera 12 punti ferita."
 					]
 				}
 			],
@@ -1303,7 +1303,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Endelyn casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 14}):"
+						"Endelyn lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -1326,19 +1326,19 @@
 				{
 					"name": "Boon of Immortality",
 					"entries": [
-						"Endelyn is immune to any effect that would age her, and she can't die from old age."
+						"Endelyn è immune a qualsiasi effetto che la invecchierebbe e non può morire di vecchiaia."
 					]
 				},
 				{
 					"name": "Eclipsed Doom",
 					"entries": [
-						"Endelyn can be killed only if she is reduced to 0 hit points during a solar eclipse or while she is within 60 feet of a symbolic representation of one. Otherwise, Endelyn disappears in a cloud of inky smoke when she drops to 0 hit points, along with anything she was wearing or carrying, and reappears 24 hours later in the same location or the nearest unoccupied space."
+						"Endelyn può essere uccisa solo se viene ridotta a 0 punti ferita durante un'eclissi solare o mentre si trova entro 18 metri da una rappresentazione simbolica di un'eclissi solare. Altrimenti, Endelyn scompare in una nuvola di fumo d'inchiostro quando scende a 0 punti ferita, insieme a tutto ciò che indossava o trasportava, e riappare 24 ore dopo nella stessa posizione o nello spazio non occupato più vicino."
 					]
 				},
 				{
 					"name": "Uncanny Awareness",
 					"entries": [
-						"Endelyn can't be {@status surprised}."
+						"Endelyn non può essere {@status surprised}."
 					]
 				}
 			],
@@ -1346,13 +1346,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Endelyn makes two Puppeteer's Lash attacks"
+						"Endelyn effettua due attacchi con Sferzata del Burattinaio"
 					]
 				},
 				{
 					"name": "Puppeteer's Lash",
 					"entries": [
-						"{@atk ms,rs} {@hit 6} to hit, reach 5 ft. or range 60 ft., one creature. {@h}17 ({@damage 4d6 + 3}) psychic damage, and if the target is Large or smaller, Endelyn telekinetically moves it up to 10 feet in any direction horizontally."
+						"{@atk ms,rs} {@hit 6} per colpire, raggiungere 5 piedi o un raggio di 60 piedi, una creatura. {@h}17 ({@damage 4d6 + 3}) danni psichici e, se il bersaglio è Grande o inferiore, Endelyn lo sposta telecineticamente fino a 3 metri in qualsiasi direzione in orizzontale."
 					]
 				}
 			],
@@ -1434,7 +1434,7 @@
 				{
 					"name": "Trampling Charge",
 					"entries": [
-						"If Envy moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a {@dc 16} Strength saving throw or be knocked {@condition prone}. If the target is {@condition prone}, Envy can make one attack with its claws against it as a bonus action."
+						"Se l'Invidia si muove di almeno 20 piedi verso una creatura e poi la colpisce con un attacco con il morso nello stesso turno, quel bersaglio deve superare un tiro salvezza su Forza {@dc 16} o essere buttato giù {@condition prone}. Se il bersaglio è {@condition prone}, Envy può effettuare un attacco con i suoi artigli contro di esso come azione bonus."
 					]
 				}
 			],
@@ -1442,19 +1442,19 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}18 ({@damage 2d12 + 5}) piercing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}18 ({@damage 2d12 + 5}) danni perforanti."
 					]
 				},
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}16 ({@damage 2d10 + 5}) bludgeoning damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}16 ({@damage 2d10 + 5}) danni contundenti."
 					]
 				},
 				{
 					"name": "Petrifying Breath {@recharge 5}",
 					"entries": [
-						"Envy exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a {@dc 13} Constitution saving throw. On a failed save, a target begins to turn to stone and is {@condition restrained}. The {@condition restrained} target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is {@condition petrified} until freed by the {@spell greater restoration} spell or other magic."
+						"L'invidia esala gas pietrificante in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un tiro salvezza su Costituzione {@dc 13}. Se il tiro salvezza fallisce, il bersaglio comincia a trasformarsi in pietra e diventa {@condition restrained}. Il bersaglio {@condition restrained} deve ripetere il tiro salvezza alla fine del suo turno successivo. In caso di successo, l'effetto termina sul bersaglio. In caso di fallimento, il bersaglio è {@condition petrified} finché non viene liberato dall'incantesimo {@spell greater restoration} o da altra magia."
 					]
 				}
 			],
@@ -1549,19 +1549,19 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"If the rocking horse is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the rocking horse move or act, that creature must succeed on a {@dc 18} Intelligence ({@skill Investigation}) check to discern that the rocking horse is animate."
+						"Se il cavallo a dondolo è immobile all'inizio del combattimento, ha vantaggio sul tiro di iniziativa. Inoltre, se una creatura non ha osservato il movimento o l'azione del cavallo a dondolo, deve superare una prova di {@dc 18} Intelligenza ({@skill Investigation}) per discernere che il cavallo a dondolo è animato."
 					]
 				},
 				{
 					"name": "Flying Mount",
 					"entries": [
-						"The rocking horse can serve as a mount for a Medium or smaller creature and can fly only while mounted."
+						"Il cavallo a dondolo può fungere da cavalcatura per una creatura di taglia Media o inferiore e può volare solo mentre è in sella."
 					]
 				},
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"The rocking horse doesn't require air, food, drink, or sleep, and it regains no hit points or Hit Dice at the end of a long rest."
+						"Il cavallo a dondolo non necessita di aria, cibo, bevande o sonno, e non recupera punti ferita o Dadi Vita alla fine di un riposo lungo."
 					]
 				}
 			],
@@ -1569,7 +1569,7 @@
 				{
 					"name": "Head Butt",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d6}) danni contundenti."
 					]
 				}
 			],
@@ -1628,7 +1628,7 @@
 				{
 					"name": "Drone",
 					"entries": [
-						"When it beats its wings, the dragonfly emits a loud droning sound that can be heard out to a range of 120 feet."
+						"Quando batte le ali, la libellula emette un forte ronzio che può essere udito fino a una distanza di 120 piedi."
 					]
 				}
 			],
@@ -1636,7 +1636,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d4 + 4}) danno perforante."
 					]
 				}
 			],
@@ -1644,7 +1644,7 @@
 				{
 					"name": "Uncanny Dodge",
 					"entries": [
-						"The dragonfly halves the damage it takes from an attack made against it, provided it can see the attacker."
+						"La libellula dimezza i danni che subisce da un attacco effettuato contro di essa, a condizione che possa vedere l'attaccante."
 					]
 				}
 			],
@@ -1700,7 +1700,7 @@
 				{
 					"name": "Salt Osmosis",
 					"entries": [
-						"Whenever the snail starts its turn in contact with a pound or more of salt, it takes {@damage 1d4} necrotic damage. Using an action to sprinkle a pound of salt on the snail deals {@damage 1d4} necrotic damage to it immediately and another {@damage 1d4} necrotic damage to it at the start of its next turn (after which the salt rubs off), provided the snail has not withdrawn into its shell."
+						"Ogni volta che la lumaca inizia il suo turno a contatto con mezzo chilo o più di sale, subisce {@damage 1d4} danni necrotici. Usare un'azione per cospargere mezzo chilo di sale sulla lumaca le infligge {@damage 1d4} danno necrotico immediatamente e un altro {@damage 1d4} danno necrotico all'inizio del suo turno successivo (dopodiché il sale viene rimosso), a condizione che la lumaca non si sia ritirata nel suo guscio."
 					]
 				}
 			],
@@ -1708,13 +1708,13 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Shell Defense",
 					"entries": [
-						"The snail withdraws into its shell, gaining a +4 bonus to its AC until it emerges. It can emerge from its shell as a bonus action on its turn."
+						"La lumaca si ritira nel suo guscio, ottenendo bonus +4 alla sua CA finché non emerge. Può emergere dal suo guscio come azione bonus nel suo turno."
 					]
 				}
 			],
@@ -1773,7 +1773,7 @@
 				{
 					"name": "Keen Sight",
 					"entries": [
-						"The swan has advantage on Wisdom ({@skill Perception}) checks that rely on sight."
+						"Il cigno dispone di vantaggio alle prove di Saggezza ({@skill Perception}) basate sulla vista."
 					]
 				}
 			],
@@ -1781,13 +1781,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The swan makes two attacks with its beak."
+						"Il cigno effettua due attacchi con il becco."
 					]
 				},
 				{
 					"name": "Beak",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danno perforante."
 					]
 				}
 			],
@@ -1868,7 +1868,7 @@
 				{
 					"name": "Hooves",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) bludgeoning damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni contundenti."
 					]
 				}
 			],
@@ -1947,25 +1947,25 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"If the golem is embedded in a window and motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the golem move or act, that creature must succeed on a {@dc 18} Intelligence ({@skill Investigation}) check to discern that the golem is animate."
+						"Se il golem è incastonato in una finestra e immobile all'inizio del combattimento, ha vantaggio sul tiro di iniziativa. Inoltre, se una creatura non ha osservato il movimento o l'azione del golem, quella creatura deve superare una prova di {@dc 18} Intelligenza ({@skill Investigation}) per discernere che il golem è animato."
 					]
 				},
 				{
 					"name": "Immutable Form",
 					"entries": [
-						"The golem is immune to any spell or effect that would alter its form."
+						"Il golem è immune a qualsiasi incantesimo o effetto che ne alteri la forma."
 					]
 				},
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The golem regains 10 hit points at the start of its turn. If the golem takes bludgeoning or thunder damage, this trait doesn't function at the start of the golem's next turn. The golem is destroyed only if it starts its turn with 0 hit points and doesn't regenerate."
+						"Il golem recupera 10 punti ferita all'inizio del suo turno. Se il golem subisce danni contundenti o da tuono, questo tratto non funziona all'inizio del turno successivo del golem. Il golem viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera."
 					]
 				},
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"The golem doesn't require air, food, drink, or sleep."
+						"Il golem non ha bisogno di aria, cibo, bevande o sonno."
 					]
 				}
 			],
@@ -1973,13 +1973,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The golem makes two Glass Sword attacks."
+						"Il golem effettua due attacchi con la spada di vetro."
 					]
 				},
 				{
 					"name": "Glass Sword",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danni taglienti."
 					]
 				}
 			],
@@ -1987,7 +1987,7 @@
 				{
 					"name": "Dazzling Light {@recharge 5}",
 					"entries": [
-						"Magical, colored light springs from the golem in a 15-foot cone. Each creature in the cone must succeed on a {@dc 10} Constitution saving throw or be {@condition blinded} for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Una luce magica e colorata scaturisce dal golem in un cono di 4,5 metri. Ogni creatura nel cono deve riuscire in un tiro salvezza su Costituzione {@dc 10} o essere {@condition blinded} per 1 minuto. Una creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -2066,7 +2066,7 @@
 				{
 					"name": "Keen Smell",
 					"entries": [
-						"The cat has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
+						"Il gatto ha vantaggio alle prove di Saggezza ({@skill Perception}) basate sull'olfatto."
 					]
 				}
 			],
@@ -2074,13 +2074,13 @@
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 slashing damage."
+						"{@atk mw} {@hit 0} per colpire, raggiungere 5 piedi, un bersaglio. {@h}1 danno tagliente."
 					]
 				},
 				{
 					"name": "Cloud of Dust",
 					"entries": [
-						"On its first turn in combat or when it is reduced to 0 hit points, the cat expels a cloud of dust that acts as dust of sneezing and choking"
+						"Al suo primo turno in combattimento o quando è ridotto a 0 punti ferita, il gatto espelle una nuvola di polvere che agisce come polvere di starnuti e soffocamento"
 					]
 				}
 			],
@@ -2144,13 +2144,13 @@
 				{
 					"name": "Pack Tactics",
 					"entries": [
-						"The harengon has advantage on an attack roll against a creature if at least one of the harengon's allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
+						"L'harengon ha vantaggio su un tiro per colpire contro una creatura se almeno uno degli alleati dell'harengon si trova entro 1,5 piedi dalla creatura e l'alleato no {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"The harengon's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
+						"Il salto in lungo dell'harengon arriva fino a 20 piedi e il suo salto in alto arriva fino a 3 metri, con o senza rincorsa."
 					]
 				}
 			],
@@ -2158,13 +2158,13 @@
 				{
 					"name": "Club",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Sling",
 					"entries": [
-						"{@atk rw} {@hit 5} to hit, range 30/120 ft., one target. {@h}5 ({@damage 1d4 + 3}) bludgeoning damage."
+						"{@atk rw} {@hit 5} da colpire, portata 30/120 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danni contundenti."
 					]
 				}
 			],
@@ -2241,7 +2241,7 @@
 				{
 					"name": "Standing Leap",
 					"entries": [
-						"The harengon's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
+						"Il salto in lungo dell'harengon arriva fino a 20 piedi e il suo salto in alto arriva fino a 3 metri, con o senza rincorsa."
 					]
 				}
 			],
@@ -2249,13 +2249,13 @@
 				{
 					"name": "Club",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danni contundenti."
 					]
 				},
 				{
 					"name": "Light Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 5} to hit (the target gains no benefit from less than {@quickref Cover||3||total cover}), range 320 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage. {@hom}Immediately after making this attack, the harengon can use the Hide action."
+						"{@atk rw} {@hit 5} per colpire (il bersaglio non ottiene alcun beneficio da meno di {@quickref Cover||3||total cover}), portata 320 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danno perforante. {@hom}Immediatamente dopo aver effettuato questo attacco, l'harengon può usare l'azione Nascondersi."
 					]
 				}
 			],
@@ -2358,7 +2358,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Iggwilv casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 24}, {@hit 16} to hit with spell attacks):"
+						"Iggwilv lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 24}, {@hit 16} per colpire con attacchi con incantesimi):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -2391,25 +2391,25 @@
 				{
 					"name": "Boon of Immortality",
 					"entries": [
-						"Iggwilv is immune to any effect that would age her, and she can't die from old age."
+						"Iggwilv è immune a qualsiasi effetto che la faccia invecchiare e non può morire di vecchiaia."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Iggwilv fails a saving throw, she can choose to succeed instead."
+						"Se Iggwilv fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Iggwilv has advantage on saving throws against spells and other magical effects. (This trait is bestowed by her robe of the archmagi.)"
+						"Iggwilv ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici. (Questo tratto le è conferito dalla sua veste da arcimago.)"
 					]
 				},
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Iggwilv wears an {@item amulet of the planes} and a {@item robe of the archmagi}."
+						"Iggwilv indossa un {@item amulet of the planes} e un {@item robe of the archmagi}."
 					]
 				}
 			],
@@ -2417,19 +2417,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Iggwilv makes two Bewitching Bolt attacks."
+						"Iggwilv effettua due attacchi Dardo Ammaliante."
 					]
 				},
 				{
 					"name": "Bewitching Bolt",
 					"entries": [
-						"{@atk ms,rs} {@hit 16} to hit, reach 5 ft. or range 120 ft., one target. {@h}25 ({@damage 5d6 + 8}) lightning damage, and if the target is a creature, it must succeed on a {@dc 22} Wisdom saving throw or be {@condition charmed} by Iggwilv until the start of her next turn."
+						"{@atk ms,rs} {@hit 16} per colpire, raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}25 ({@damage 5d6 + 8}) danni da fulmine e, se il bersaglio è una creatura, deve riuscire un tiro salvezza su Saggezza {@dc 22} o essere {@condition charmed} da Iggwilv fino all'inizio del suo turno successivo."
 					]
 				},
 				{
 					"name": "Abyssal Rift {@recharge 5}",
 					"entries": [
-						"Iggwilv opens a momentary Abyssal rift within 120 feet of her. The rift is a 20-foot-radius sphere. Each creature in that area must make a {@dc 22} Constitution saving throw, taking 40 ({@damage 9d8}) necrotic damage on a failed save, or half as much damage on a successful one. In addition, there is a 50 percent chance that 3 {@creature hezrou||hezrous} then appear in unoccupied spaces in the sphere. They act as Iggwilv's allies, take their turns immediately after hers, and can't summon other demons. They remain until they die or until Iggwilv dismisses them as an action."
+						"Iggwilv apre una spaccatura abissale temporanea entro 120 piedi da lei. La spaccatura è una sfera del raggio di 20 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 22} e subisce 40 ({@damage 9d8}) danni necrotici se fallisce il tiro salvezza, o la metà di quei danni se lo riesce. Inoltre, c'è una probabilità del 50% che 3 {@creature hezrou||hezrous} appaiano negli spazi non occupati della sfera. Agiscono come alleati di Iggwilv, svolgono il loro turno immediatamente dopo il suo e non possono evocare altri demoni. Rimangono finché non muoiono o finché Iggwilv non li congeda con un'azione."
 					]
 				}
 			],
@@ -2437,7 +2437,7 @@
 				{
 					"name": "Fey Step",
 					"entries": [
-						"Iggwilv teleports, along with any equipment she is wearing or carrying, to an unoccupied space she can see within 30 feet of her."
+						"Iggwilv si teletrasporta, insieme a qualsiasi equipaggiamento che indossa o trasporta, in uno spazio non occupato che può vedere entro 9 metri da lei."
 					]
 				}
 			],
@@ -2445,7 +2445,7 @@
 				{
 					"name": "Negate Spell (2/Day)",
 					"entries": [
-						"When Iggwilv sees a creature within 60 feet of her casting a spell, she tries to interrupt it. If the creature is casting a spell using a spell slot of 8th level or lower, its spell fails and has no effect. If it is casting a 9th-level spell, it must succeed on a {@dc 22} Intelligence saving throw, or the spells fails and has no effect."
+						"Quando Iggwilv vede una creatura entro 18 metri da lei che lancia un incantesimo, cerca di interromperlo. Se la creatura sta lanciando un incantesimo utilizzando uno slot incantesimo di 8° livello o inferiore, il suo incantesimo fallisce e non ha alcun effetto. Se sta lanciando un incantesimo di 9° livello, deve riuscire un tiro salvezza su Intelligenza {@dc 22} altrimenti l'incantesimo fallisce e non ha effetto."
 					]
 				}
 			],
@@ -2453,19 +2453,19 @@
 				{
 					"name": "Witchcraft",
 					"entries": [
-						"Iggwilv uses Spellcasting or Fey Step."
+						"Iggwilv usa Incantesimi o Passo Fatato."
 					]
 				},
 				{
 					"name": "Dark Speech (Costs 2 Actions)",
 					"entries": [
-						"Iggwilv utters a phrase in a forbidden language and targets one or two creatures she can see within 60 feet of her. Each target must succeed on a {@dc 22} Wisdom saving throw or take 11 ({@damage 2d10}) psychic damage and be {@condition frightened} of Iggwilv for 1 minute. A target can repeat the save at the end of each of its turns, ending the effect on itself on a success and thereby becoming immune to Iggwilv's Dark Speech for 24 hours."
+						"Iggwilv pronuncia una frase in una lingua proibita e prende di mira una o due creature che può vedere entro 18 metri da lui. Ogni bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 22} o subire 11 ({@damage 2d10}) danni psichici ed essere {@condition frightened} di Iggwilv per 1 minuto. Un bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, ponendo fine all'effetto su se stesso in caso di successo e diventando così immune al Linguaggio Oscuro di Iggwilv per 24 ore."
 					]
 				},
 				{
 					"name": "Fey Beguilement (Costs 3 Actions)",
 					"entries": [
-						"Iggwilv targets one creature she can see within 60 feet of her. The target must succeed on a {@dc 22} Charisma saving throw or be possessed by a fey spirit. While possessed, the target must obey Iggwilv's commands. The target can repeat the saving throw at the end of each of its turns, banishing the fey spirit and ending the effect on itself on a success."
+						"Iggwilv prende di mira una creatura che può vedere entro 18 metri da sé. Il bersaglio deve riuscire in un tiro salvezza su Carisma {@dc 22} o essere posseduto da uno spirito fatato. Mentre è posseduto, il bersaglio deve obbedire ai comandi di Iggwilv. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, bandendo lo spirito fatato e terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -2600,7 +2600,7 @@
 				{
 					"name": "Confusing Burble",
 					"entries": [
-						"The jabberwock burbles to itself unless it is {@condition incapacitated}. Any creature that starts its turn within 30 feet of the jabberwock and is able to hear its burbling must make a {@dc 18} Charisma saving throw. On a failed saving throw, the creature can't take reactions until the start of its next turn, and it rolls a {@dice d4} to determine what it does during its current turn:",
+						"Il ciciarampa borbotta tra sé e sé a meno che non lo sia {@condition incapacitated}. Qualsiasi creatura che inizia il suo turno entro 9 metri dal ciciarampa ed è in grado di sentirne il borbottio deve effettuare un tiro salvezza su Carisma {@dc 18}. Se fallisce il tiro salvezza, la creatura non può effettuare reazioni fino all'inizio del suo turno successivo e lancia un {@dice d4} per determinare cosa farà durante il suo turno attuale:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -2608,17 +2608,17 @@
 								{
 									"type": "item",
 									"name": "1-2",
-									"entry": "The creature does nothing."
+									"entry": "La creatura non fa nulla."
 								},
 								{
 									"type": "item",
 									"name": "3",
-									"entry": "The creature does nothing except use all its movement to move in a random direction."
+									"entry": "La creatura non fa altro che usare tutto il suo movimento per muoversi in una direzione casuale."
 								},
 								{
 									"type": "item",
 									"name": "4",
-									"entry": "The creature either makes one melee attack against a random creature it can see or does nothing if no visible creature is within its reach."
+									"entry": "La creatura effettua un attacco in mischia contro una creatura casuale che può vedere oppure non fa nulla se nessuna creatura visibile è alla sua portata."
 								}
 							]
 						}
@@ -2627,19 +2627,19 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the jabberwock fails a saving throw, it can choose to succeed instead."
+						"Se il ciciarampa fallisce il tiro salvezza, può invece scegliere di superarlo."
 					]
 				},
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The jabberwock regains 10 hit points at the start of its turn. If the jabberwock takes slashing damage, this trait doesn't function at the start of its next turn. The jabberwock dies only if it starts its turn with 0 hit points and doesn't regenerate."
+						"Il ciciarampa recupera 10 punti ferita all'inizio del suo turno. Se il ciciarampa subisce danni taglienti, questo tratto non funziona all'inizio del suo turno successivo. Il ciciarampa muore solo se inizia il suo turno con 0 punti ferita e non si rigenera."
 					]
 				},
 				{
 					"name": "Uncanny Tracker",
 					"entries": [
-						"The jabberwock can unerringly track any creature it has wounded in the last 24 hours, and it knows the distance and direction to its quarry as long as the two of them are on the same plane of existence."
+						"Il Ciciarampa può seguire infallibilmente qualsiasi creatura che abbia ferito nelle ultime 24 ore, e conosce la distanza e la direzione della sua preda fintanto che i due si trovano sullo stesso piano di esistenza."
 					]
 				}
 			],
@@ -2647,25 +2647,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The jabberwock makes two Rend attacks."
+						"Il ciciarampa effettua due attacchi Rend."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atk mw} {@hit 10} to hit, reach 10 ft., one target. {@h}21 ({@damage 3d10 + 5}) slashing damage."
+						"{@atk mw} {@hit 10} per colpire, raggiungere 10 piedi, un bersaglio. {@h}21 ({@damage 3d10 + 5}) danni taglienti."
 					]
 				},
 				{
 					"name": "Tail",
 					"entries": [
-						"{@atk mw} {@hit 10} to hit, reach 15 ft., one target. {@h}10 ({@damage 1d10 + 5}) bludgeoning damage."
+						"{@atk mw} {@hit 10} per colpire, raggiungere 15 piedi, un bersaglio. {@h}10 ({@damage 1d10 + 5}) danni contundenti."
 					]
 				},
 				{
 					"name": "Fiery Gaze {@recharge 5}",
 					"entries": [
-						"Unless it is {@condition blinded}, the jabberwock emits a 120-foot-long, 5-foot-wide line of fire from its eyes. Each creature in that line must make a {@dc 18} Dexterity saving throw, taking 31 ({@damage 7d8}) fire damage on a failed save, or half as much damage on a successful one."
+						"A meno che non lo sia {@condition blinded}, il ciciarampa emette una linea di fuoco lunga 32 metri e larga 1,5 dai suoi occhi. Ogni creatura in quella linea deve effettuare un tiro salvezza su Destrezza {@dc 18} e subisce 31 ({@damage 7d8}) danni da fuoco se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -2673,19 +2673,19 @@
 				{
 					"name": "Tail Attack",
 					"entries": [
-						"The jabberwock makes one Tail attack."
+						"Il ciciarampa effettua un attacco con la coda."
 					]
 				},
 				{
 					"name": "Rend Attack (2 Actions)",
 					"entries": [
-						"The jabberwock makes one Rend attack."
+						"Il ciciarampa effettua un attacco Rend."
 					]
 				},
 				{
 					"name": "Wing Attack (3 Actions)",
 					"entries": [
-						"The jabberwock beats its wings. Each creature within 10 feet of the jabberwock must succeed on a {@dc 18} Dexterity saving throw or take 8 ({@damage 1d6 + 5}) bludgeoning damage and be knocked {@condition prone}."
+						"Il ciciarampa batte le ali. Ogni creatura entro 3 metri dal ciciarampa deve riuscire un tiro salvezza su Destrezza {@dc 18} o subire 8 ({@damage 1d6 + 5}) danni contundenti ed essere colpita {@condition prone}."
 					]
 				}
 			],
@@ -2777,7 +2777,7 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"Jingle Jangle can take the Disengage or Hide action as a bonus action on each of her turns."
+						"Jingle Jangle può eseguire l'azione Disimpegno o Nascondersi come azione bonus in ciascuno dei suoi turni."
 					]
 				}
 			],
@@ -2785,7 +2785,7 @@
 				{
 					"name": "Flail of Locks",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 3d4}) bludgeoning damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 3d4}) danni contundenti."
 					]
 				}
 			],
@@ -2868,7 +2868,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Kelek casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 14}):"
+						"Kelek lancia uno dei seguenti incantesimi, usando Carisma come abilità da lanciatore (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell light}",
@@ -2891,7 +2891,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Kelek wears {@item bracers of defense} and carries a {@item staff of striking} with 10 charges. The staff regains {@dice 1d6 + 4} expended charges daily at dawn. If its last charge is expended, roll a {@dice d20}; on a 1, the staff becomes a nonmagical quarterstaff."
+						"Kelek indossa {@item bracers of defense} e trasporta un {@item staff of striking} con 10 cariche. Il personale recupera {@dice 1d6 + 4} le spese spese ogni giorno all'alba. Se la sua ultima carica viene spesa, tira un {@dice d20}; Con 1, il bastone diventa un bastone ferrato non magico."
 					]
 				}
 			],
@@ -2899,25 +2899,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Kelek makes three attacks using Sorcerer's Bolt, Staff of Striking, or a combination of them. He can replace one of the attacks with a use of Spellcasting."
+						"Kelek effettua tre attacchi usando Dardo dello Stregone, Bastone del Colpo o una combinazione di essi. Può sostituire uno degli attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Sorcerer's Bolt",
 					"entries": [
-						"{@atk ms,rs} {@hit 6} to hit, reach 5 ft. or range 60 ft., one target. {@h}13 ({@damage 2d12}) force damage."
+						"{@atk ms,rs} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}13 ({@damage 2d12}) danni fisici."
 					]
 				},
 				{
 					"name": "Staff of Striking",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d6 + 5}) bludgeoning damage, or 9 ({@damage 1d8 + 5}) bludgeoning damage when used with two hands, and Kelek can expend up to 3 of the staff's charges, dealing an extra 3 ({@damage 1d6}) force damage for each expended charge."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d6 + 5}) danni contundenti o 9 ({@damage 1d8 + 5}) danni contundenti se usato con due mani e Kelek può spendere fino a 3 cariche del bastone, infliggendo 3 ({@damage 1d6}) danni di forza aggiuntivi per ogni carica spesa."
 					]
 				},
 				{
 					"name": "Fiery Explosion {@recharge 4}",
 					"entries": [
-						"Kelek creates a magical explosion of fire centered on a point he can see within 120 feet of him. Each creature in a 20-foot-radius sphere centered on that point must make a {@dc 14} Dexterity saving throw, taking 35 ({@damage 10d6}) fire damage on a failed save, or half as much damage on a successful one."
+						"Kelek crea una magica esplosione di fuoco centrata su un punto che può vedere entro 120 piedi da lui. Ogni creatura in una sfera di 20 piedi di raggio centrata su quel punto deve effettuare un tiro salvezza su Destrezza {@dc 14} e subisce 35 ({@damage 10d6}) danni da fuoco se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -2925,7 +2925,7 @@
 				{
 					"name": "Arcane Defense (3/Day)",
 					"entries": [
-						"When he is hit by an attack, Kelek protects himself with an {@condition invisible} barrier of magical force. Until the end of his next turn, he gains a +5 bonus to AC, including against the triggering attack."
+						"Quando viene colpito da un attacco, Kelek si protegge con una barriera {@condition invisible} di forza magica. Fino alla fine del suo turno successivo, ottiene un bonus di +5 alla CA, anche contro l'attacco attivante."
 					]
 				}
 			],
@@ -3025,7 +3025,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Kettlesteam casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Kettlesteam lancia uno dei seguenti incantesimi, utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell disguise self}",
@@ -3048,7 +3048,7 @@
 				{
 					"name": "Mimicry",
 					"entries": [
-						"Kettlesteam can mimic any sounds she has heard, including voices. A creature that hears the sounds can tell they are imitations only with a successful {@dc 13} Wisdom ({@skill Insight}) check."
+						"Kettlesteam può imitare tutti i suoni che ha sentito, comprese le voci. Una creatura che sente i suoni può dire che sono imitazioni solo con una prova riuscita di Saggezza ({@skill Insight} {@dc 13}."
 					]
 				}
 			],
@@ -3056,19 +3056,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Kettlesteam makes two Dagger attacks."
+						"Kettlesteam effettua due attacchi con il pugnale."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."
+						"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danno perforante."
 					]
 				},
 				{
 					"name": "Twilight Sleep (2/Day)",
 					"entries": [
-						"Kettlesteam targets one creature she can see within 10 feet of her. The target is engulfed in a cloud of magical, sleep-inducing gas and must succeed on a {@dc 13} Constitution saving throw or fall {@condition unconscious} for 1 minute. A creature put to sleep by this gas awakens instantly if it takes damage, or if someone uses an action to shake or slap the sleeper awake."
+						"Kettlesteam prende di mira una creatura che può vedere entro 3 metri da lui. Il bersaglio viene avvolto in una nuvola di gas magico che induce il sonno e deve riuscire un tiro salvezza su Costituzione {@dc 13} o cadere {@condition unconscious} per 1 minuto. Una creatura addormentata da questo gas si risveglia istantaneamente se subisce danni o se qualcuno usa un'azione per scuotere o schiaffeggiare il dormiente."
 					]
 				}
 			],
@@ -3173,19 +3173,19 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"If the doll is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the doll move or act, that creature must succeed on a {@dc 18} Intelligence ({@skill Investigation}) check to discern that the doll is animate."
+						"Se la bambola è immobile all'inizio del combattimento, ha vantaggio sul tiro di iniziativa. Inoltre, se una creatura non ha osservato i movimenti o le azioni della bambola, deve superare una prova di Intelligenza {@dc 18} ({@skill Investigation}) per discernere che la bambola è animata."
 					]
 				},
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The doll regains 5 hit points at the start of its turn. If the doll takes fire or psychic damage, this trait doesn't function at the start of the doll's next turn. The doll is destroyed only if it starts its turn with 0 hit points and doesn't regenerate."
+						"La bambola recupera 5 punti ferita all'inizio del suo turno. Se la bambola subisce danni da fuoco o psichici, questo tratto non funziona all'inizio del turno successivo della bambola. La bambola viene distrutta solo se inizia il suo turno con 0 punti ferita e non si rigenera."
 					]
 				},
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"The doll doesn't require air, food, drink, or sleep."
+						"La bambola non ha bisogno di aria, cibo, bevande o sonno."
 					]
 				}
 			],
@@ -3193,7 +3193,7 @@
 				{
 					"name": "Grabby Hands",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one creature. {@h}The target is {@condition grappled} (escape {@dc 6}) and takes 11 ({@damage 2d10}) psychic damage at the start of each of its turns until this grapple ends. The doll can grapple only one creature at a time."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, una creatura. {@h}Il bersaglio è {@condition grappled} (fuga {@dc 6}) e subisce 11 ({@damage 2d10}) danni psichici all'inizio di ciascuno dei suoi turni fino al termine della presa. La bambola può afferrare solo una creatura alla volta."
 					]
 				}
 			],
@@ -3201,7 +3201,7 @@
 				{
 					"name": "Cackle {@recharge 4}",
 					"entries": [
-						"The doll cackles as it targets one or two creatures it can see within 30 feet of it. Each target that can hear the doll's cackling must make a {@dc 11} Wisdom saving throw, succeeding automatically if it has an Intelligence of 4 or lower. On a failed saving throw, the creature takes 5 ({@damage 2d4}) psychic damage and is {@condition incapacitated} for 1 minute as it is overcome by a fit of laughter. At the end of each of its turns, the creature can repeat the saving throw, ending the effect on itself on a success. A creature that succeeds on this saving throw is immune to this doll's Cackle for 24 hours."
+						"La bambola ridacchia mentre prende di mira una o due creature che può vedere entro 9 metri da essa. Ogni bersaglio che può sentire la risatina della bambola deve effettuare un tiro salvezza su Saggezza {@dc 11}, superandolo automaticamente se ha un'Intelligenza pari o inferiore a 4. Se fallisce il tiro salvezza, la creatura subisce 5 ({@damage 2d4}) danni psichici ed è {@condition incapacitated} per 1 minuto mentre viene sopraffatta da uno scoppio di risate. Alla fine di ciascuno dei suoi turni, la creatura può ripetere il tiro salvezza, ponendo fine all'effetto su se stessa in caso di successo. Una creatura che supera il tiro salvezza è immune al Rischio di questa bambola per 24 ore."
 					]
 				}
 			],
@@ -3293,7 +3293,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Mercion casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 13}):"
+						"Mercion lancia uno dei seguenti incantesimi, usando Saggezza come abilità da lanciatore (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell light}",
@@ -3320,7 +3320,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Mercion wields a {@item +1 quarterstaff}."
+						"Mercion brandisce un {@item +1 quarterstaff}."
 					]
 				}
 			],
@@ -3328,25 +3328,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Mercion makes one Divine Radiance attack and one +1 Quarterstaff attack. She can replace one of these attacks with a use of Spellcasting."
+						"Mercion effettua un attacco con Radianza Divina e un attacco con bastone ferrato +1. Può sostituire uno di questi attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Divine Radiance",
 					"entries": [
-						"{@atk ms,rs} {@hit 5} to hit, reach 5 ft. or range 60 ft., one target. {@h}13 ({@damage 3d8}) radiant damage."
+						"{@atk ms,rs} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}13 ({@damage 3d8}) danno radiante."
 					]
 				},
 				{
 					"name": "+1 Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning damage, or 7 ({@damage 1d8 + 3}) bludgeoning damage when used with two hands."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni contundenti o 7 ({@damage 1d8 + 3}) danni contundenti se usato con due mani."
 					]
 				},
 				{
 					"name": "Radiant Fire {@recharge 5}",
 					"entries": [
-						"Mercion creates a magical explosion of fiery radiance centered on a point she can see within 120 feet of her. Each creature in a 20-foot-radius sphere centered on that point must make a {@dc 13} Dexterity saving throw, taking 28 ({@damage 8d6}) radiant damage on a failed save, or half as much damage on a successful one."
+						"Mercion crea un'esplosione magica di splendore infuocato centrata su un punto che può vedere entro 120 piedi da sé. Ogni creatura in una sfera di 20 piedi di raggio centrata su quel punto deve effettuare un tiro salvezza su Destrezza {@dc 13} e subisce 28 ({@damage 8d6}) danni radiosi se fallisce il tiro salvezza, o la metà di questi danni se lo riesce."
 					]
 				}
 			],
@@ -3459,7 +3459,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While carrying the {@item Witchlight vane|WbtW}, Light casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 13}, {@hit 5} to hit with spell attacks):"
+						"Mentre trasporta il {@item Witchlight vane|WbtW}, Light lancia uno dei seguenti incantesimi, senza richiedere componenti di incantesimi e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimi):"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -3474,13 +3474,13 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Light has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"La luce ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				},
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Light carries and is attuned to the {@item Witchlight vane|WbtW}. In Light's hands, the vane is a finesse weapon."
+						"La luce trasporta ed è in sintonia con il {@item Witchlight vane|WbtW}. Nelle mani di Light, la banderuola è un'arma di precisione."
 					]
 				}
 			],
@@ -3488,13 +3488,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Light makes two {@item Witchlight vane|WbtW} attacks."
+						"La luce effettua due {@item Witchlight vane|WbtW} attacchi."
 					]
 				},
 				{
 					"name": "Witchlight Vane",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning damage plus 4 ({@damage 1d8}) radiant damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni contundenti più 4 ({@damage 1d8}) danni radianti."
 					]
 				}
 			],
@@ -3502,7 +3502,7 @@
 				{
 					"name": "Blessing of the Raven Queen (1/Day)",
 					"entries": [
-						"Light magically teleports, along with any equipment he is wearing or carrying, up to 30 feet to an unoccupied space he can see. Until the start of his next turn, he appears ghostly and gains resistance to all damage."
+						"La luce si teletrasporta magicamente, insieme a qualsiasi equipaggiamento che indossa o trasporta, fino a 9 metri in uno spazio non occupato che può vedere. Fino all'inizio del suo turno successivo, appare spettrale e ottiene resistenza a tutti i danni."
 					]
 				}
 			],
@@ -3603,7 +3603,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"While carrying the {@item Witchlight watch|WbtW}, Witch casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 13}, {@hit 5} to hit with spell attacks):"
+						"Mentre trasporta il {@item Witchlight watch|WbtW}, la Strega lancia uno dei seguenti incantesimi, senza richiedere componenti di incantesimi e utilizzando l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimi):"
 					],
 					"will": [
 						"{@spell fire bolt}",
@@ -3618,13 +3618,13 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Witch has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"La strega ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarla."
 					]
 				},
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Witch carries and is attuned to the {@item Witchlight watch|WbtW}."
+						"La strega trasporta ed è in sintonia con il {@item Witchlight watch|WbtW}."
 					]
 				}
 			],
@@ -3632,13 +3632,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Witch makes two Cane attacks."
+						"La strega effettua due attacchi con il bastone."
 					]
 				},
 				{
 					"name": "Cane",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage plus 6 ({@damage 1d12}) necrotic damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danni contundenti più 6 ({@damage 1d12}) danni necrotici."
 					]
 				}
 			],
@@ -3646,7 +3646,7 @@
 				{
 					"name": "Blessing of the Raven Queen (1/Day)",
 					"entries": [
-						"Witch magically teleports, along with any equipment he is wearing or carrying, up to 30 feet to an unoccupied space he can see. Until the start of his next turn, he appears ghostly and gains resistance to all damage."
+						"La strega si teletrasporta magicamente, insieme a qualsiasi equipaggiamento che indossa o trasporta, fino a 9 metri in uno spazio non occupato che può vedere. Fino all'inizio del suo turno successivo, appare spettrale e ottiene resistenza a tutti i danni."
 					]
 				}
 			],
@@ -3742,13 +3742,13 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"When subjected to an effect that allows a Dexterity saving throw to take only half damage, Molliver takes no damage on a successful save or half damage on a failed one, provided Molliver is not {@condition incapacitated}."
+						"Quando soggetto a un effetto che consente a un tiro salvezza di Destrezza di subire solo la metà dei danni, Molliver non subisce danni se il tiro salvezza riesce o metà danno se lo fallisce, a condizione che Molliver non lo sia {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Molliver wears {@item +1 leather armor} and {@item boots of levitation}."
+						"Molliver indossa {@item +1 leather armor} e {@item boots of levitation}."
 					]
 				}
 			],
@@ -3756,25 +3756,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Molliver makes two Dagger or Shortsword attacks, or one of each."
+						"Molliver effettua due attacchi con il pugnale o con la spada corta, o uno di ciascuno."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage. The attack deals an extra 7 ({@damage 2d6}) piercing damage if Molliver has advantage on the attack roll or if the target is within 5 feet of one of Molliver's allies."
+						"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danno perforante. L'attacco infligge 7 ({@damage 2d6}) danni perforanti aggiuntivi se Molliver ha vantaggio sul tiro per colpire o se il bersaglio si trova entro 1,5 metri da uno degli alleati di Molliver."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}6 ({@damage 1d6 + 3}) piercing damage. The attack deals an extra 7 ({@damage 2d6}) piercing damage if Molliver has advantage on the attack roll or if the target is within 5 feet of one of Molliver's allies."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}6 ({@damage 1d6 + 3}) danno perforante. L'attacco infligge 7 ({@damage 2d6}) danni perforanti aggiuntivi se Molliver ha vantaggio sul tiro per colpire o se il bersaglio si trova entro 1,5 metri da uno degli alleati di Molliver."
 					]
 				},
 				{
 					"name": "Levitate",
 					"entries": [
-						"While wearing boots of levitation, Molliver casts {@spell levitate} (self only)."
+						"Mentre indossa gli stivali di levitazione, Molliver lancia {@spell levitate} (solo su se stesso)."
 					]
 				}
 			],
@@ -3782,7 +3782,7 @@
 				{
 					"name": "Uncanny Dodge",
 					"entries": [
-						"Molliver halves the damage they take from an attack made against them, provided they can see the attacker."
+						"Molliver dimezza i danni che subiscono da un attacco effettuato contro di loro, a condizione che possano vedere l'attaccante."
 					]
 				}
 			],
@@ -3859,7 +3859,7 @@
 				{
 					"name": "Keen Sight",
 					"entries": [
-						"The paper bird has advantage on Wisdom ({@skill Perception}) checks that rely on sight."
+						"L'uccello di carta ha vantaggio alle prove di Saggezza ({@skill Perception}) basate sulla vista."
 					]
 				}
 			],
@@ -3867,7 +3867,7 @@
 				{
 					"name": "Sharp Edges",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}1 slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}1 danno tagliente."
 					]
 				}
 			],
@@ -3920,7 +3920,7 @@
 				{
 					"name": "Sting",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}3 piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 danni perforanti."
 					]
 				}
 			],
@@ -4001,19 +4001,19 @@
 				{
 					"name": "Cunning Action",
 					"entries": [
-						"On each of her turns, Raezil can use a bonus action to take the Dash, Disengage, or Hide action."
+						"In ciascuno dei suoi turni, Raezil può utilizzare un'azione bonus per eseguire l'azione Scattare, Disimpegnarsi o Nascondersi."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Raezil has advantage on saving throws against being {@condition charmed}, and magic can't put her to sleep."
+						"Raezil ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarla."
 					]
 				},
 				{
 					"name": "Sneak Attack (1/Turn)",
 					"entries": [
-						"Raezil deals an extra 7 ({@damage 2d6}) damage when she hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of hers that isn't incapacitated and Raezil doesn't have disadvantage on the attack roll."
+						"Raezil infligge 7 ({@damage 2d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio al tiro per colpire, o quando il bersaglio si trova entro 1,5 metri da un suo alleato che non è incapacitato e Raezil non ha svantaggio al tiro per colpire."
 					]
 				}
 			],
@@ -4021,19 +4021,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Raezil makes two melee attacks."
+						"Raezil effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Hand Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 4} to hit, range 30/120 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk rw} {@hit 4} da colpire, portata 30/120 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -4133,7 +4133,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Ringlerun casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 14}):"
+						"Ringlerun lancia uno dei seguenti incantesimi, utilizzando l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell light}",
@@ -4161,7 +4161,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Ringlerun wields a {@item staff of power}. It has 20 charges when fully charged and regains {@dice 2d8 + 4} expended charges daily at dawn. If its last charge is expended, roll a {@dice d20}. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses its other properties; on a 20, it regains {@dice 1d8 + 2} charges."
+						"Ringlerun brandisce un {@item staff of power}. Dispone di 20 ricariche quando è completamente carico e recupera {@dice 2d8 + 4} le cariche spese ogni giorno all'alba. Se la sua ultima carica viene spesa, tira un {@dice d20}. Con 1, il bastone mantiene il suo bonus +2 ai tiri per colpire e per i danni, ma perde le altre proprietà; con 20, recupera {@dice 1d8 + 2} cariche."
 					]
 				}
 			],
@@ -4169,25 +4169,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ringlerun makes three {@item staff of power} or Freezing Ray attacks. He can replace one of those attacks with a use of Spellcasting."
+						"Ringlerrun effettua tre attacchi {@item staff of power} o Raggio Congelante. Può sostituire uno di questi attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Staff of Power",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning damage, or 5 ({@damage 1d8 + 1}) bludgeoning damage when used with two hands, and Ringlerun can expend 1 of the staff's charges to deal an extra 3 ({@damage 1d6}) force damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d6 + 1}) danni contundenti o 5 ({@damage 1d8 + 1}) danni contundenti se usato con due mani e Ringlerun può spendere 1 delle cariche del bastone per infliggere 3 ({@damage 1d6}) danni di forza aggiuntivi."
 					]
 				},
 				{
 					"name": "Freezing Ray",
 					"entries": [
-						"{@atk rs} {@hit 8} to hit, range 120 ft., one creature. {@h}27 ({@damage 6d8}) cold damage."
+						"{@atk rs} {@hit 8} per colpire, portata 120 piedi, una creatura. {@h}27 ({@damage 6d8}) danni da freddo."
 					]
 				},
 				{
 					"name": "Staff Spell",
 					"entries": [
-						"While holding his {@item staff of power}, Ringlerun can expend 1 or more of its charges to cast one of the following spells from it (spell save {@dc 14}, {@hit 8} to hit with spell attacks): cone of cold ({@damage 8d8} cold damage; 5 charges), fireball ({@damage 10d6} fire damage; 5 charges), globe of invulnerability (6 charges), hold monster (5 charges), levitate (2 charges), lightning bolt ({@damage 10d6} lightning damage; 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges)."
+						"Mentre tiene in mano il suo {@item staff of power}, Ringlerun può spendere 1 o più delle sue cariche per lanciare uno dei seguenti incantesimi (salvezza incantesimo {@dc 14}, {@hit 8} per colpire con attacchi con incantesimi): cono di freddo ({@damage 8d8} danno da freddo; 5 cariche), palla di fuoco ({@damage 10d6} danno da fuoco; 5 cariche), globo di invulnerabilità (6 cariche), blocca mostro (5 cariche), levitazione (2 cariche), fulmine ({@damage 10d6} danno da fulmine; 5 cariche), magia missile (1 carica), raggio di indebolimento (1 carica) o muro di forza (5 cariche)."
 					]
 				}
 			],
@@ -4282,19 +4282,19 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"The Selenelion twins, Gleam and Glister, have advantage on saving throws against being {@condition charmed}, and magic can't put them to sleep."
+						"I gemelli Selenelion, Gleam e Glister, hanno vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarli."
 					]
 				},
 				{
 					"name": "Regeneration",
 					"entries": [
-						"A Selenelion twin regains 5 hit points at the start of her turn as long as both twins are alive and within 60 feet of each other. A twin dies only if she starts her turn with 0 hit points and doesn't regenerate."
+						"Un gemello Selenelion recupera 5 punti ferita all'inizio del suo turno finché entrambi i gemelli sono vivi e entro 18 metri l'uno dall'altro. Un gemello muore solo se inizia il suo turno con 0 punti ferita e non si rigenera."
 					]
 				},
 				{
 					"name": "Twin Bond",
 					"entries": [
-						"While both Selenelion twins are alive and on the same plane of existence, each is aware of the other's emotions."
+						"Sebbene entrambi i gemelli Selenelion siano vivi e sullo stesso piano di esistenza, ciascuno è consapevole delle emozioni dell'altro."
 					]
 				}
 			],
@@ -4302,25 +4302,25 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
+						"{@atk mw,rw} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}6 ({@damage 1d4 + 4}) danno perforante."
 					]
 				},
 				{
 					"name": "Moon Ray (Gleam Only; 3/Day)",
 					"entries": [
-						"{@atk rs} {@hit 5} to hit, range 60 ft., one creature. {@h}12 ({@damage 2d8 + 3}) radiant damage, and the target must succeed on a {@dc 13} Wisdom saving throw or be transformed into a bat for 1 minute, as though affected by a {@spell polymorph} spell. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"{@atk rs} {@hit 5} per colpire, portata 60 piedi, una creatura. {@h}12 ({@damage 2d8 + 3}) danni radiosi e il bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 13} o essere trasformato in un pipistrello per 1 minuto, come se fosse affetto da un incantesimo {@spell polymorph}. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 					]
 				},
 				{
 					"name": "Sun Ray (Glister Only; 3/Day)",
 					"entries": [
-						"{@atk rs} {@hit 5} to hit, range 60 ft., one creature. {@h}12 ({@damage 2d8 + 3}) radiant damage, and the target must succeed on a {@dc 13} Wisdom saving throw or be {@condition blinded} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"{@atk rs} {@hit 5} per colpire, portata 60 piedi, una creatura. {@h}12 ({@damage 2d8 + 3}) danni radiosi e il bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 13} o essere {@condition blinded} per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 					]
 				},
 				{
 					"name": "Twin Sight (Recharges after a Short or Long Rest)",
 					"entries": [
-						"In her mind's eye, a Selenelion twin can see what the other twin sees for up to 1 minute, provided both twins are alive and on the same plane of existence. Maintaining this effect requires {@status concentration} (as if {@status concentration||concentrating} on a spell)."
+						"Nella sua mente, un gemello Selenelion può vedere ciò che vede l'altro gemello per un massimo di 1 minuto, a condizione che entrambi i gemelli siano vivi e sullo stesso piano di esistenza. Il mantenimento di questo effetto richiede {@status concentration} (come se {@status concentration||concentrating} su un incantesimo)."
 					]
 				}
 			],
@@ -4410,7 +4410,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sir Talavar's innate spellcasting ability is Charisma (spell save {@dc 13}). It can innately cast a number of spells, requiring no material components. As the dragon ages and changes color, it gains additional spells as shown below."
+						"L'abilità innata da incantatore di Sir Talavar è il Carisma (salvataggio incantesimo {@dc 13}). Può lanciare in modo innato una serie di incantesimi, senza richiedere componenti materiali. Man mano che il drago invecchia e cambia colore, ottiene incantesimi aggiuntivi come mostrato di seguito."
 					],
 					"daily": {
 						"1": [
@@ -4434,19 +4434,19 @@
 				{
 					"name": "Superior Invisibility",
 					"entries": [
-						"As a bonus action, Sir Talavar can magically turn {@condition invisible} until his {@status concentration} ends (as if {@status concentration||concentrating} on a spell). Any equipment Sir Talavar wears or carries is {@condition invisible} with him."
+						"Come azione bonus, Sir Talavar può trasformarsi magicamente {@condition invisible} finché il suo {@status concentration} non termina (come se {@status concentration||concentrating} su un incantesimo). Qualsiasi equipaggiamento che Sir Talavar indossa o trasporta è {@condition invisible} con lui."
 					]
 				},
 				{
 					"name": "Limited Telepathy",
 					"entries": [
-						"Using telepathy, Sir Talavar can magically communicate with any other faerie dragon within 60 feet of him."
+						"Usando la telepatia, Sir Talavar può comunicare magicamente con qualsiasi altro drago fatato entro 18 metri da lui."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Sir Talavar has advantage on saving throws against spells and other magical effects."
+						"Sir Talavar ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -4454,19 +4454,19 @@
 				{
 					"name": "+1 Tiny Sword",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d4 + 6}) piercing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d4 + 6}) danno perforante."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}1 piercing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, una creatura. {@h}1 danno perforante."
 					]
 				},
 				{
 					"name": "Euphoria Breath {@recharge 5}",
 					"entries": [
-						"Sir Talavar exhales a puff of euphoria gas at one creature within 5 feet of him. The target must succeed on a {@dc 11} Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a {@dice d6} at the start of each of its turns to determine its behavior during the turn:",
+						"Sir Talavar esala uno sbuffo di gas euforico contro una creatura entro 1,5 metri da lui. Il bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 11} oppure, per 1 minuto, il bersaglio non può effettuare reazioni e deve tirare un {@dice d6} all'inizio di ciascuno dei suoi turni per determinare il suo comportamento durante il turno:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -4475,14 +4475,14 @@
 									"type": "item",
 									"name": "1-4",
 									"entries": [
-										"The target takes no action or bonus action and uses all of its movement to move in a random direction."
+										"Il bersaglio non effettua alcuna azione o azione bonus e utilizza tutto il suo movimento per muoversi in una direzione casuale."
 									]
 								},
 								{
 									"type": "item",
 									"name": "5-6",
 									"entries": [
-										"The target doesn't move, and the only thing it can do on its turn is make a {@dc 11} Wisdom saving throw, ending the effect on itself on a success."
+										"Il bersaglio non si muove e l'unica cosa che può fare nel suo turno è effettuare un tiro salvezza su Saggezza {@dc 11} e, in caso di successo, l'effetto su se stesso termina."
 									]
 								}
 							]
@@ -4598,7 +4598,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Skabatha casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 14}):"
+						"Skabatha lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando Saggezza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -4624,13 +4624,13 @@
 				{
 					"name": "Boon of Immortality",
 					"entries": [
-						"Skabatha is immune to any effect that would age her, and she can't die from old age."
+						"Skabatha è immune a qualsiasi effetto che la faccia invecchiare e non può morire di vecchiaia."
 					]
 				},
 				{
 					"name": "Forgetfulness",
 					"entries": [
-						"The first creature that Skabatha sees after she finishes a long rest is {@condition invisible} to her. She can't remember seeing the creature or perceive it using her truesight until the end of her next long rest."
+						"La prima creatura che Skabatha vede dopo aver terminato un riposo lungo è {@condition invisible} sua. Non riesce a ricordare di aver visto la creatura o di percepirla usando la sua vera vista fino alla fine del suo successivo riposo lungo."
 					]
 				}
 			],
@@ -4638,13 +4638,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Skabatha makes two Claw attacks."
+						"Skabatha effettua due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one creature. {@h}25 ({@damage 6d6 + 4}) poison damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, una creatura. {@h}25 ({@damage 6d6 + 4}) danni da veleno."
 					]
 				}
 			],
@@ -4652,8 +4652,8 @@
 				{
 					"name": "Alter Size",
 					"entries": [
-						"Skabatha magically shrinks herself to Tiny size (between 4 and 8 inches tall) or returns to her normal size. If Skabatha lacks the room to return to her normal size, she attains the maximum size possible in the space available. Anything she is wearing or carrying changes size along with her.",
-						"As a Tiny creature, Skabatha deals 2 ({@damage 1d4}) poison damage when she hits with a Claw attack. She has advantage on Dexterity ({@skill Stealth}) checks, and disadvantage on Strength checks and Strength saving throws. Her statistics otherwise remain unchanged."
+						"Skabatha si rimpicciolisce magicamente fino a raggiungere le dimensioni Minuscole (tra 4 e 8 pollici di altezza) o ritorna alle sue dimensioni normali. Se Skabatha non ha abbastanza spazio per ritornare alla sua taglia normale, raggiunge la taglia massima possibile nello spazio disponibile. Tutto ciò che indossa o trasporta cambia dimensione insieme a lei.",
+						"Essendo una creatura Minuscola, Skabatha infligge 2 ({@damage 1d4}) danni da veleno quando colpisce con un attacco con gli artigli. Ha vantaggio alle prove di Destrezza ({@skill Stealth}) e svantaggio alle prove di Forza e ai tiri salvezza su Forza. Per il resto le sue statistiche rimangono invariate."
 					]
 				}
 			],
@@ -4749,7 +4749,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Skylla casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Skylla lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"daily": {
 						"1e": [
@@ -4770,7 +4770,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Skylla carries an {@item Eldritch Staff|WBtW} (see appendix A) with 10 charges. The staff regains {@dice 1d6 + 4} expended charges daily at dawn. If its last charge is expended, roll a {@dice d20}; on a 1, the staff is destroyed."
+						"Skylla trasporta un {@item Eldritch Staff|WBtW} (vedi appendice A) con 10 cariche. Lo staff recupera {@dice 1d6 + 4} le spese spese ogni giorno all'alba. Se la sua ultima carica viene spesa, tira un {@dice d20}; con 1 il bastone viene distrutto."
 					]
 				}
 			],
@@ -4778,13 +4778,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Skylla makes two Eldritch Staff attacks. She can replace one of the attacks with a use of Spellcasting."
+						"Skylla effettua due attacchi con il Bastone Eldritch. Può sostituire uno degli attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Eldritch Staff",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage, or 4 ({@damage 1d8}) bludgeoning damage when used with two hands, and Skylla can expend up to 3 of the staff's charges, dealing an extra 4 ({@damage 1d8}) lightning damage for each expended charge."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d6}) danni contundenti o 4 ({@damage 1d8}) danni contundenti se usato con due mani e Skylla può spendere fino a 3 cariche del bastone, infliggendo 4 ({@damage 1d8}) danni da fulmine extra per ogni carica spesa."
 					]
 				}
 			],
@@ -4792,7 +4792,7 @@
 				{
 					"name": "Eldritch Escape",
 					"entries": [
-						"When Skylla takes damage, she can expend 3 charges of her eldritch staff to turn {@condition invisible} and teleport, along with any equipment she's wearing or carrying, up to 60 feet to an unoccupied space she can see. She remains {@condition invisible} until the start of her next turn or until she attacks or casts a spell."
+						"Quando Skylla subisce danni, può spendere 3 cariche del suo bastone mistico per trasformarsi {@condition invisible} e teletrasportarsi, insieme a qualsiasi equipaggiamento che indossa o trasporta, fino a 18 metri in uno spazio non occupato che può vedere. Rimane {@condition invisible} fino all'inizio del suo turno successivo o finché non attacca o lancia un incantesimo."
 					]
 				}
 			],
@@ -4889,13 +4889,13 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"If Squirt is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed Squirt move or act, that creature must succeed on a {@dc 18} Intelligence ({@skill Investigation}) check to discern that Squirt is animate."
+						"Se Squirt è immobile all'inizio del combattimento, ha vantaggio sul tiro di iniziativa. Inoltre, se una creatura non ha osservato Squirt muoversi o agire, quella creatura deve superare una prova di {@dc 18} Intelligenza ({@skill Investigation}) per discernere che Squirt è animato."
 					]
 				},
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"Squirt doesn't require air, food, drink, or sleep."
+						"Squirt non richiede aria, cibo, bevande o sonno."
 					]
 				}
 			],
@@ -4903,13 +4903,13 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Boggle Oil (3 Applications)",
 					"entries": [
-						"Squirt expends 1 application of boggle oil to create a 10-foot-square puddle of slippery, non-flammable oil on the ground within 5 feet of it. The puddle is {@quickref difficult terrain||3} and lasts for 1 hour. Each creature that enters the puddle's area or starts its turn there must succeed on a {@dc 11} Dexterity saving throw or fall {@condition prone}. Boggles are unaffected by the oil. After it expends all 3 applications, Squirt can't use this action again until its supply of boggle oil is replenished."
+						"Squirt spende 1 applicazione di olio boggle per creare una pozza quadrata di 3 metri di olio scivoloso e non infiammabile sul terreno entro 1,5 metri da esso. La pozzanghera è {@quickref difficult terrain||3} e dura 1 ora. Ogni creatura che entra nell'area della pozzanghera o inizia il suo turno lì deve riuscire in un tiro salvezza di Destrezza {@dc 11} o cadere {@condition prone}. I boggle non sono influenzati dall'olio. Dopo aver consumato tutte e 3 le applicazioni, Squirt non può utilizzare nuovamente questa azione finché la sua scorta di olio boggle non viene ripristinata."
 					]
 				}
 			],
@@ -5002,7 +5002,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Strongheart casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Strongheart lancia uno dei seguenti incantesimi, utilizzando Carisma come abilità da incantatore (salvezza incantesimo {@dc 13}):"
 					],
 					"daily": {
 						"3e": [
@@ -5024,7 +5024,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Strongheart wields {@item Steel|WBtW}, a sentient, lawful good longsword (see appendix A)."
+						"Strongheart brandisce {@item Steel|WBtW} una spada lunga senziente e legale (vedi appendice A)."
 					]
 				}
 			],
@@ -5032,19 +5032,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Strongheart makes three Steel attacks."
+						"Strongheart effettua tre attacchi Acciaio."
 					]
 				},
 				{
 					"name": "Steel",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage, or 9 ({@damage 1d10 + 4}) slashing damage when used with two hands. Once on each of his turns, Strongheart can also cause the blade to gleam with holy light. If he does so, the target is {@condition blinded} until the start of Strongheart's next turn."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d8 + 4}) danni da taglio o 9 ({@damage 1d10 + 4}) danni da taglio se usato con due mani. Una volta per ciascuno dei suoi turni, Strongheart può anche far brillare la lama di luce sacra. Se lo fa, l'obiettivo è {@condition blinded} fino all'inizio del turno successivo di Strongheart."
 					]
 				},
 				{
 					"name": "Revivify (Recharges at the Next Dawn)",
 					"entries": [
-						"While holding Steel, Strongheart casts {@spell revivify}."
+						"Mentre tieni Acciaio, Strongheart lancia {@spell revivify}."
 					]
 				}
 			],
@@ -5052,7 +5052,7 @@
 				{
 					"name": "Protect Another",
 					"entries": [
-						"When a creature Strongheart can see attacks another creature that is within 5 feet of him, Strongheart can use his reaction to impose disadvantage on the attack roll, provided he is carrying a shield."
+						"Quando una creatura Strongheart può vedere attaccare un'altra creatura che si trova entro 1,5 metri da lui, Strongheart può usare la sua reazione per imporre uno svantaggio al tiro per colpire, a condizione che porti uno scudo."
 					]
 				}
 			],
@@ -5153,13 +5153,13 @@
 				{
 					"name": "Mimicry",
 					"entries": [
-						"Each campestri in the swarm can mimic any voice or song it has heard, albeit in a nasal falsetto."
+						"Ogni campestri dello sciame può imitare qualsiasi voce o canto abbia sentito, anche se in falsetto nasale."
 					]
 				},
 				{
 					"name": "Swarm",
 					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough to accommodate an individual campestri. The swarm can't regain hit points or gain temporary hit points."
+						"Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e lo sciame può muoversi attraverso qualsiasi apertura abbastanza grande da accogliere un singolo campestri. Lo sciame non può recuperare punti ferita o guadagnare punti ferita temporanei."
 					]
 				}
 			],
@@ -5167,13 +5167,13 @@
 				{
 					"name": "Head Butts",
 					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}10 ({@damage 4d4}) bludgeoning damage, or 5 ({@damage 2d4}) bludgeoning damage if the swarm has half its hit points or fewer."
+						"{@atk mw} {@hit 0} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 4d4}) danni contundenti o 5 ({@damage 2d4}) danni contundenti se lo sciame ha la metà dei suoi punti ferita o meno."
 					]
 				},
 				{
 					"name": "Spores (1/Day)",
 					"entries": [
-						"A 20-foot radius of spores extends from the swarm. These spores can go around corners, and they have no effect on Constructs, Elementals, Plants, or Undead. Each other creature in the area must make a {@dc 10} Wisdom saving throw. On a failed save, the creature is {@condition incapacitated} and its speed is halved, both for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Dallo sciame si estende un raggio di spore di 20 piedi. Queste spore possono aggirare gli angoli e non hanno alcun effetto su costrutti, elementali, piante o non morti. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Saggezza {@dc 10}. Se il tiro salvezza fallisce, la creatura è {@condition incapacitated} e la sua velocità viene dimezzata, entrambi per 1 minuto. Una creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -5224,7 +5224,7 @@
 						"items": {
 							"name": "Change Shape",
 							"entries": [
-								"Thinnings can make himself as flat as a piece of parchment or revert to his normal thickness. In his flattened form, he can slide under doors, roll himself up, or even fold himself into the pages of a book."
+								"Gli assottigliamenti possono diventare piatti come un pezzo di pergamena o tornare al suo spessore normale. Nella sua forma appiattita può scivolare sotto le porte, arrotolarsi o addirittura ripiegarsi nelle pagine di un libro."
 							]
 						}
 					}
@@ -5301,13 +5301,13 @@
 				{
 					"name": "Antimagic Susceptibility",
 					"entries": [
-						"The tin soldier is incapacitated while in the area of an {@spell antimagic field}. If targeted by {@spell dispel magic}, the tin soldier must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute."
+						"Il soldatino di stagno è inabile mentre si trova nell'area di un {@spell antimagic field}. Se preso di mira da {@spell dispel magic}, il soldatino di stagno deve riuscire un tiro salvezza su Costituzione contro la CD del tiro salvezza dell'incantesimo dell'incantatore o cadere privo di sensi per 1 minuto."
 					]
 				},
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the tin soldier remains motionless, it is indistinguishable from a normal suit of armor."
+						"Finché il soldatino di stagno rimane immobile, è indistinguibile da una normale armatura."
 					]
 				}
 			],
@@ -5315,13 +5315,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The tin soldier makes two melee attacks."
+						"Il soldatino di stagno effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni contundenti."
 					]
 				}
 			],
@@ -5398,7 +5398,7 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"If the treant is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the treant move or act, that creature must succeed on a {@dc 18} Intelligence ({@skill Investigation}) check to discern that the treant is animate."
+						"Se il treant è immobile all'inizio del combattimento, ha vantaggio sul tiro di iniziativa. Inoltre, se una creatura non ha osservato il movimento o l'azione del treant, quella creatura deve superare una prova di {@dc 18} Intelligenza ({@skill Investigation}) per discernere che il treant è animato."
 					]
 				}
 			],
@@ -5406,25 +5406,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The treant makes two Slam attacks."
+						"Il treant effettua due attacchi Schianto."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d10 + 3}) bludgeoning damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d10 + 3}) danni contundenti."
 					]
 				},
 				{
 					"name": "Rock",
 					"entries": [
-						"{@atk rw} {@hit 5} to hit, range 20/60 ft., one target. {@h}14 ({@damage 2d10 + 3}) bludgeoning damage."
+						"{@atk rw} {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}14 ({@damage 2d10 + 3}) danni contundenti."
 					]
 				},
 				{
 					"name": "Animate Trees (1/Day)",
 					"entries": [
-						"The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as an awakened tree (see the Monster Manual), except they can't speak. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies, until the treant dies or is more than 120 feet from the tree, or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible."
+						"Il treant anima magicamente uno o due alberi che può vedere entro 18 metri da lui. Questi alberi hanno le stesse statistiche di un albero risvegliato (vedi Manuale dei Mostri), tranne che non possono parlare. Un albero animato funge da alleato del treant. L'albero rimane animato per 1 giorno o finché non muore, finché il treant non muore o si trova a più di 32 metri dall'albero, o finché il treant non effettua un'azione bonus per trasformarlo di nuovo in un albero inanimato. L'albero poi mette radici, se possibile."
 					]
 				}
 			],
@@ -5508,7 +5508,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Warduke wears a {@item dread helm|XGE} (see appendix A) and wields a {@item flame tongue longsword}."
+						"Warduke indossa un {@item dread helm|XGE} (vedi appendice A) e brandisce un {@item flame tongue longsword}."
 					]
 				}
 			],
@@ -5516,19 +5516,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Warduke makes three Flame Tongue or Dagger attacks."
+						"Warduke effettua tre attacchi con Lingua di Fiamma o Pugnale."
 					]
 				},
 				{
 					"name": "Flame Tongue",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing damage, or 8 ({@damage 1d10 + 3}) slashing damage when used with two hands, plus 7 ({@damage 2d6}) fire damage if the weapon is aflame."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni da taglio o 8 ({@damage 1d10 + 3}) danni da taglio se usata con due mani, più 7 ({@damage 2d6}) danni da fuoco se l'arma è in fiamme."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."
+						"{@atk mw,rw} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danno perforante."
 					]
 				}
 			],
@@ -5536,13 +5536,13 @@
 				{
 					"name": "Flaming Blade",
 					"entries": [
-						"Warduke ignites or extinguishes his flame tongue longsword. While aflame, it sheds bright light in a 40-foot radius and dim light for an additional 40 feet."
+						"Warduke accende o spegne la sua spada lunga con lingua di fiamma. Mentre è in fiamme, emette luce intensa in un raggio di 40 piedi e luce fioca per altri 40 piedi."
 					]
 				},
 				{
 					"name": "Second Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Warduke regains 13 hit points."
+						"Warduke recupera 13 punti ferita."
 					]
 				}
 			],
@@ -5589,7 +5589,7 @@
 						"items": {
 							"name": "Magic Boon (Recharges after a Long Rest)",
 							"entries": [
-								"The will-o'-wells grants a boon to one creature it can see within 5 feet of it that isn't an Undead. The boon's recipient gains a {@dice d4} and can, at any time within the next 24 hours, roll this die and add the number rolled to one ability check, attack roll, or saving throw made by it. No creature can have more than one of these magic boons at a time."
+								"I fuochi d'artificio concedono un vantaggio a una creatura che può vedere entro 1,5 piedi da esso e che non sia un non morto. Il destinatario del vantaggio ottiene un {@dice d4} e può, in qualsiasi momento entro le prossime 24 ore, lanciare questo dado e aggiungere il numero ottenuto a una prova di abilità, tiro di attacco o tiro salvezza effettuato da esso. Nessuna creatura può avere più di uno di questi benefici magici alla volta."
 							]
 						}
 					}
@@ -5641,7 +5641,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The hand casts one of the following spells, using Charisma as the spellcasting ability:"
+						"La mano lancia uno dei seguenti incantesimi, utilizzando Carisma come abilità da incantatore:"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -5656,7 +5656,7 @@
 				{
 					"name": "Secret Expertise",
 					"entries": [
-						"The hand has one of these additional skills: {@skill Acrobatics} {@skillCheck acrobatics 6}, {@skill Animal Handling} {@skillCheck animal_handling 5}, {@skill Arcana} {@skillCheck arcana 5}, {@skill Athletics} {@skillCheck athletics 4}, {@skill Medicine} {@skillCheck medicine 5}, or {@skill Performance} {@skillCheck performance 5}."
+						"La mano ha una di queste abilità aggiuntive: {@skill Acrobatics} {@skillCheck acrobatics 6}, {@skill Animal Handling} {@skillCheck animal_handling 5}, {@skill Arcana} {@skillCheck arcana 5}, {@skill Athletics} {@skillCheck athletics 4}, {@skill Medicine} {@skillCheck medicine 5} o {@skill Performance} {@skillCheck performance 5}."
 					]
 				}
 			],
@@ -5664,13 +5664,13 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Pixie Dust (1/Day)",
 					"entries": [
-						"The hand sprinkles a pinch of pixie dust on itself or another creature it can see within 5 feet of it. The recipient gains a flying speed of 30 feet for 1 minute. If the creature is airborne when this effect ends, it falls safely to the ground, taking no damage and landing on its feet."
+						"La mano cosparge un pizzico di polvere magica su se stessa o su un'altra creatura che può vedere entro 1,5 metri da essa. Il destinatario ottiene una velocità di volo di 9 metri per 1 minuto. Se la creatura è in volo al termine dell'effetto, cade sana e salva a terra, senza subire danni e atterrando in piedi."
 					]
 				}
 			],
@@ -5783,7 +5783,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Zarak carries a {@item potion of invisibility}."
+						"Zarak porta un {@item potion of invisibility}."
 					]
 				}
 			],
@@ -5791,19 +5791,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Zarak makes two Dagger attacks."
+						"Zarak effettua due attacchi con il pugnale."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage, plus an extra 5 ({@damage 2d4}) piercing damage if the target is a creature and Zarak has at least 18 hit points."
+						"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danni perforanti, più 5 {@damage 2d4}) danni perforanti extra se il bersaglio è una creatura e Zarak ha almeno 18 punti ferita."
 					]
 				},
 				{
 					"name": "Garrote",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one Humanoid. {@h}8 ({@damage 2d4 + 3}) slashing damage, and the target is {@condition grappled} (escape {@dc 11}). Until this grapple ends, the target takes 8 ({@damage 2d4 + 3}) slashing damage at the start of each of its turns, and Zarak can't grapple another creature or use Assassin's Whim."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un umanoide. {@h}8 ({@damage 2d4 + 3}) danni taglienti e il bersaglio è {@condition grappled} (fuga {@dc 11}). Fino al termine della presa, il bersaglio subisce 8 ({@damage 2d4 + 3}) danni taglienti all'inizio di ciascuno dei suoi turni e Zarak non può afferrare un'altra creatura o usare Capriccio dell'assassino."
 					]
 				}
 			],
@@ -5811,7 +5811,7 @@
 				{
 					"name": "Assassin's Whim",
 					"entries": [
-						"Zarak takes the Dash, Disengage, or Hide action."
+						"Zarak effettua l'azione Scattare, Disingaggiare o Nascondersi."
 					]
 				}
 			],
@@ -5819,7 +5819,7 @@
 				{
 					"name": "Uncanny Dodge",
 					"entries": [
-						"Zarak halves the damage he takes from an attack made against him, provided he can see the attacker."
+						"Zarak dimezza i danni che subisce da un attacco effettuato contro di lui, a condizione che possa vedere l'attaccante."
 					]
 				}
 			],
@@ -5912,7 +5912,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Zargash casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 13}):"
+						"Zargash lancia uno dei seguenti incantesimi, usando Saggezza come abilità da lanciatore (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell light}",
@@ -5935,13 +5935,13 @@
 				{
 					"name": "Cling to Life (Recharges after a Long Rest)",
 					"entries": [
-						"The first time Zargash would drop to 0 hit points as a result of taking damage, he instead drops to 1 hit point."
+						"La prima volta che Zargash scenderebbe a 0 punti ferita a seguito dei danni subiti, scende invece a 1 punto ferita."
 					]
 				},
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Zargash wears a bat-shaped amulet that has the properties of a {@item ring of feather falling}."
+						"Zargash indossa un amuleto a forma di pipistrello che ha le proprietà di un {@item ring of feather falling}."
 					]
 				}
 			],
@@ -5949,13 +5949,13 @@
 				{
 					"name": "Warhammer",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage, or 7 ({@damage 1d10 + 2}) bludgeoning damage when used with two hands."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni contundenti o 7 ({@damage 1d10 + 2}) danni contundenti se usato con due mani."
 					]
 				},
 				{
 					"name": "Deathly Ray",
 					"entries": [
-						"{@atk rs} {@hit 5} to hit, range 60 ft., one creature. {@h}25 ({@damage 4d10 + 3}) necrotic damage."
+						"{@atk rs} {@hit 5} per colpire, portata 60 piedi, una creatura. {@h}25 ({@damage 4d10 + 3}) danno necrotico."
 					]
 				}
 			],
@@ -5963,7 +5963,7 @@
 				{
 					"name": "Animate Corpse (1/Day)",
 					"entries": [
-						"Zargash targets the lifeless corpse of one Humanoid he can see within 30 feet of him and commands it to rise, transforming it into a zombie under his control. The zombie takes its turn immediately after Zargash. Animating the zombie requires Zargash's {@status concentration} (as if {@status concentration||concentrating} on a spell). The zombie reverts to an inanimate corpse after 10 minutes, when it drops to 0 hit points, or when Zargash's {@status concentration} ends."
+						"Zargash prende di mira il cadavere senza vita di un umanoide che può vedere entro 9 metri da lui e gli ordina di alzarsi, trasformandolo in uno zombi sotto il suo controllo. Lo zombie gioca il suo turno immediatamente dopo Zargash. L'animazione dello zombi richiede Zargash {@status concentration} (come se {@status concentration||concentrating} su un incantesimo). Lo zombi ritorna ad un cadavere inanimato dopo 10 minuti, quando scende a 0 punti ferita o quando termina l'effetto di Zargash {@status concentration}."
 					]
 				}
 			],

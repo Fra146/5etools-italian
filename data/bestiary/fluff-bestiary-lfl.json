@@ -13,9 +13,9 @@
 					"type": "section",
 					"name": "Giants",
 					"entries": [
-						"The giants of the realm of Lorwyn-Shadowmoor are wise, ancient beings wandering their homeland in search of wondrous things or simply a place to rest. They are deeply in tune with nature but care little for the smaller denizens around them. At best, this makes a giant aloof and disinterested in the squabbles of boggarts, kithkin, elves, and others. At worst, giants might be wrathful toward smaller folk, seeing them as invasive pests to be squashed.",
-						"When a giant in the realm of Lorwyn-Shadowmoor sleeps, it often has vivid, dramatic dreams. Giants see their dreams as powerful augurs or important messages that border on divine inspiration. These giants mark their resting spots with enormous stone archways to ensure their respites go uninterrupted.",
-						"Smart adventurers avoid these archways for fear of evoking the sleeping giant's ire. Treasure hunters might search for the archways in hopes of finding the place abandoned but still stocked with a giant's valuable relics. Such treasure hunters do well to tread carefully, for when angered, these giants can unleash the might of mountains and crush foes with the force of an avalanche."
+						"I giganti del regno di Lorwyn-Shadowmoor sono esseri antichi e saggi che vagano per la loro terra natale alla ricerca di cose meravigliose o semplicemente di un posto dove riposare. Sono profondamente in sintonia con la natura ma si preoccupano poco degli abitanti più piccoli che li circondano. Nella migliore delle ipotesi, questo rende un gigante distaccato e disinteressato ai battibecchi tra mollicci, kithkin, elfi e altri. Nel peggiore dei casi, i giganti potrebbero essere adirati nei confronti delle persone più piccole, considerandoli come parassiti invasivi da schiacciare.",
+						"Quando un gigante del regno di Lorwyn-Shadowmoor dorme, spesso fa sogni vividi e drammatici. I giganti vedono i loro sogni come potenti auspici o messaggi importanti che rasentano l'ispirazione divina. Questi giganti contrassegnano i loro luoghi di riposo con enormi archi di pietra per garantire che la loro tregua non venga interrotta.",
+						"Gli avventurieri intelligenti evitano questi archi per paura di evocare l'ira del gigante addormentato. I cacciatori di tesori potrebbero cercare gli archi nella speranza di trovare il luogo abbandonato ma ancora pieno di preziose reliquie di un gigante. Questi cacciatori di tesori fanno bene a procedere con cautela, poiché quando sono arrabbiati, questi giganti possono scatenare la potenza delle montagne e schiacciare i nemici con la forza di una valanga."
 					]
 				}
 			]
@@ -63,7 +63,7 @@
 							{
 								"type": "section",
 								"entries": [
-									"The incarnations of vibrance each resemble a titanic canine with a body of colorful foliage and horns like the branches of a blossoming cherry tree. When vibrance incarnations are in Lorwyn, meadows flourish and crop fields ripen in their presence, and kithkin rejoice when these incarnations pay their clachan a visit. In Shadowmoor, these same creatures are an ill omen\u2014gruesome wolfhounds often accompanied by invasive plant species and frenzied wild beasts."
+									"The incarnations of vibrance each resemble a titanic canine with a body of colorful foliage and horns like the branches of a blossoming cherry tree. When vibrance incarnations are in Lorwyn, meadows flourish and crop fields ripen in their presence, and kithkin rejoice when these incarnations pay their clachan a visit. In Shadowmoor, these same creatures are an ill omen—gruesome wolfhounds often accompanied by invasive plant species and frenzied wild beasts."
 								]
 							}
 						]
@@ -88,9 +88,9 @@
 					"type": "section",
 					"name": "Incarnations of Nature",
 					"entries": [
-						"Incarnations of nature embody abstract ideas such as curiosity, relief, or terror. Incarnations of nature are beyond the ken of most mortal beings\u2014untamable, primal, and awe inspiring.",
-						"In the realm of Lorwyn-Shadowmoor, these beings take the forms of chimeric behemoths that combine the features of three or more creatures. In Lorwyn, incarnations of nature often embody positive, exhilarating emotions. In Shadowmoor, they often manifest dour, violent impulses.",
-						"An incarnation of nature that wanders from Lorwyn to Shadowmoor or vice versa retains its core identity but might transform physically. An incarnation of hope in Lorwyn, for example, might resemble a giant dove with a lizard's tail and leonine legs; in Shadowmoor, this same being might instead resemble a giant crow with a rattlesnake's tail, its leonine legs stained with blood."
+						"Le incarnazioni della natura incarnano idee astratte come curiosità, sollievo o terrore. Le incarnazioni della natura vanno oltre la comprensione della maggior parte degli esseri mortali: indomabili, primordiali e maestose.",
+						"Nel regno di Lorwyn-Shadowmoor, questi esseri assumono le forme di colossi chimerici che combinano le caratteristiche di tre o più creature. A Lorwyn, le incarnazioni della natura spesso incarnano emozioni positive ed esilaranti. Nella Landa Tenebrosa spesso manifestano impulsi cupi e violenti.",
+						"Un'incarnazione della natura che vaga da Lorwyn a Landa Tenebrosa o viceversa mantiene la sua identità principale ma potrebbe trasformarsi fisicamente. Un'incarnazione della speranza in Lorwyn, ad esempio, potrebbe somigliare a una colomba gigante con la coda di lucertola e le zampe leonine; nella Landa Tenebrosa, questo stesso essere potrebbe invece somigliare a un corvo gigante con la coda di serpente a sonagli e le zampe leonine macchiate di sangue."
 					]
 				}
 			]
@@ -133,7 +133,7 @@
 					"type": "section",
 					"name": "Merrow",
 					"entries": [
-						"Merrow are primarily water-dwelling people who exploit the realm of Lorwyn-Shadowmoor's land-dwelling species. They resemble large fish with humanoid torsos and arms, though their forms vary widely. Merrow are often capable warriors, but most prefer to duel with cutting words before resorting to physical violence."
+						"I Merrow sono principalmente popoli che vivono nell'acqua e sfruttano il regno delle specie terrestri di Lorwyn-Shadowmoor. Assomigliano a grandi pesci con torsi e braccia umanoidi, sebbene le loro forme varino ampiamente. I Merrow sono spesso abili guerrieri, ma la maggior parte preferisce duellare con parole taglienti prima di ricorrere alla violenza fisica."
 					]
 				}
 			]
@@ -211,7 +211,7 @@
 							{
 								"type": "section",
 								"entries": [
-									"Noggles don't burglarize\u2014they ransack. Still, despite their indiscretion, many noggles choose to wear masks, bandannas, or flimsy disguises to obscure their identities."
+									"Noggles don't burglarize—they ransack. Still, despite their indiscretion, many noggles choose to wear masks, bandannas, or flimsy disguises to obscure their identities."
 								]
 							}
 						]
@@ -257,7 +257,7 @@
 					"type": "section",
 					"name": "Noggles",
 					"entries": [
-						"Noggles are bipedal, donkey-like Fey that delight in thievery and mischief. They enjoy stealing from other creatures not out of necessity, but out of principle. This principle can be summarized by a common Sylvan expression that roughly translates to \"that's mine!\" Noggles are found only in Shadowmoor, where they roam and cause chaos."
+						"I Noggle sono Fate bipedi, simili ad asini, che si dilettano nel furto e nel male. A loro piace rubare ad altre creature non per necessità, ma per principio. Questo principio può essere riassunto da una comune espressione silvana che si traduce approssimativamente in \"quello è mio!\" I Noggle si trovano solo nella Landa Tenebrosa, dove vagano e causano il caos."
 					]
 				}
 			]

@@ -18,83 +18,83 @@
 					"rows": [
 						[
 							1,
-							"Absentminded"
+							"Distratto"
 						],
 						[
 							2,
-							"Arrogant"
+							"Arrogante"
 						],
 						[
 							3,
-							"Boorish"
+							"Rozzo"
 						],
 						[
 							4,
-							"Chews something"
+							"Mastica qualcosa"
 						],
 						[
 							5,
-							"Clumsy"
+							"Goffo"
 						],
 						[
 							6,
-							"Curious"
+							"Curioso"
 						],
 						[
 							7,
-							"Dim-witted"
+							"Ottuso"
 						],
 						[
 							8,
-							"Fiddles and fidgets nervously"
+							"Giocherella e si agita nervosamente"
 						],
 						[
 							9,
-							"Frequently uses the wrong word"
+							"Usa spesso la parola sbagliata"
 						],
 						[
 							10,
-							"Friendly"
+							"Amichevole"
 						],
 						[
 							11,
-							"Irritable"
+							"Irritabile"
 						],
 						[
 							12,
-							"Prone to predictions of certain doom"
+							"Incline a previsioni di morte certa"
 						],
 						[
 							13,
-							"Pronounced scar"
+							"Cicatrice pronunciata"
 						],
 						[
 							14,
-							"Slurs words, lisps, or stutters"
+							"Impreca le parole, balbetta o balbetta"
 						],
 						[
 							15,
-							"Speaks loudly or whispers"
+							"Parla ad alta voce o sussurra"
 						],
 						[
 							16,
-							"Squints"
+							"Strizza gli occhi"
 						],
 						[
 							17,
-							"Stares into distance"
+							"Guarda in lontananza"
 						],
 						[
 							18,
-							"Suspicious"
+							"Sospettoso"
 						],
 						[
 							19,
-							"Uses colorful oaths and exclamations"
+							"Utilizza giuramenti ed esclamazioni coloriti"
 						],
 						[
 							20,
-							"Uses flowery speech or long words"
+							"Utilizza un linguaggio fiorito o parole lunghe"
 						]
 					],
 					"data": {
@@ -117,83 +117,83 @@
 					"rows": [
 						[
 							1,
-							"Aspiration (any)"
+							"Aspirazione (qualsiasi)"
 						],
 						[
 							2,
-							"Charity (good)"
+							"Carità (buono)"
 						],
 						[
 							3,
-							"Community (lawful)"
+							"Comunità (lecito)"
 						],
 						[
 							4,
-							"Creativity (chaotic)"
+							"Creatività (caotico)"
 						],
 						[
 							5,
-							"Discovery (any)"
+							"Scoperta (qualsiasi)"
 						],
 						[
 							6,
-							"Fairness (lawful)"
+							"Correttezza (lecito)"
 						],
 						[
 							7,
-							"Freedom (chaotic)"
+							"Libertà (caotico)"
 						],
 						[
 							8,
-							"Glory (any)"
+							"Gloria (qualsiasi)"
 						],
 						[
 							9,
-							"Greater good (good)"
+							"Bene maggiore (buono)"
 						],
 						[
 							10,
-							"Greed (evil)"
+							"Avidità (malvagia)"
 						],
 						[
 							11,
-							"Honor (lawful)"
+							"Onore (lecito)"
 						],
 						[
 							12,
-							"Independence (chaotic)"
+							"Indipendenza (caotico)"
 						],
 						[
 							13,
-							"Knowledge (neutral)"
+							"Conoscenza (neutrale)"
 						],
 						[
 							14,
-							"Life (good)"
+							"Vita (buona)"
 						],
 						[
 							15,
-							"Live and let live (neutral)"
+							"Vivi e lascia vivere (neutro)"
 						],
 						[
 							16,
-							"Might (evil)"
+							"Potrebbe (malvagio)"
 						],
 						[
 							17,
-							"Nation (any)"
+							"Nazione (qualsiasi)"
 						],
 						[
 							18,
-							"People (neutral)"
+							"Persone (neutrali)"
 						],
 						[
 							19,
-							"Power (evil)"
+							"Potere (malvagio)"
 						],
 						[
 							20,
-							"Redemption (any)"
+							"Riscatto (qualsiasi)"
 						]
 					],
 					"data": {
@@ -216,43 +216,43 @@
 					"rows": [
 						[
 							1,
-							"Personal goal or achievement"
+							"Obiettivo o risultato personale"
 						],
 						[
 							2,
-							"Family member"
+							"Membro della famiglia"
 						],
 						[
 							3,
-							"Colleagues or compatriots"
+							"Colleghi o connazionali"
 						],
 						[
 							4,
-							"Benefactor, patron, or employer"
+							"Benefattore, mecenate o datore di lavoro"
 						],
 						[
 							5,
-							"Romantic interest"
+							"Interesse romantico"
 						],
 						[
 							6,
-							"Special place"
+							"Posto speciale"
 						],
 						[
 							7,
-							"Keepsake"
+							"Ricordo"
 						],
 						[
 							8,
-							"Valuable possession"
+							"Possesso di valore"
 						],
 						[
 							9,
-							"Revenge"
+							"Vendetta"
 						],
 						[
 							10,
-							"Roll twice, ignoring further rolls of 10"
+							"Lancia due volte, ignorando ulteriori tiri di 10"
 						]
 					],
 					"data": {
@@ -275,51 +275,51 @@
 					"rows": [
 						[
 							1,
-							"Forbidden love or romantic susceptibility"
+							"Amore proibito o suscettibilità romantica"
 						],
 						[
 							2,
-							"Dependence"
+							"Dipendenza"
 						],
 						[
 							3,
-							"Arrogance"
+							"Arroganza"
 						],
 						[
 							4,
-							"Envy of another person's possessions or station"
+							"Invidia dei possedimenti o della posizione di un'altra persona"
 						],
 						[
 							5,
-							"Overpowering greed"
+							"Avidità travolgente"
 						],
 						[
 							6,
-							"Prone to rage"
+							"Incline alla rabbia"
 						],
 						[
 							7,
-							"Powerful enemy"
+							"Nemico potente"
 						],
 						[
 							8,
-							"Specific phobia"
+							"Fobia specifica"
 						],
 						[
 							9,
-							"Shameful or scandalous history"
+							"Storia vergognosa o scandalosa"
 						],
 						[
 							10,
-							"Secret crime or misdeed"
+							"Crimine segreto o misfatto"
 						],
 						[
 							11,
-							"Possession of forbidden lore"
+							"Possesso di conoscenze proibite"
 						],
 						[
 							12,
-							"Foolhardy bravery"
+							"Un coraggio temerario"
 						]
 					],
 					"data": {
@@ -347,25 +347,25 @@
 					"rows": [
 						[
 							1,
-							"\u2014",
+							"—",
 							"bar",
-							"\u2014"
+							"—"
 						],
 						[
 							2,
-							"\u2014",
+							"—",
 							"ched",
 							"-a"
 						],
 						[
 							3,
-							"\u2014",
+							"—",
 							"dell",
 							"-ac"
 						],
 						[
 							4,
-							"\u2014",
+							"—",
 							"far",
 							"-ai"
 						],
@@ -488,23 +488,23 @@
 							],
 							"rows": [
 								[
-									"Arctic, desert, farmland, or grassland",
+									"Artico, deserto, terreno agricolo o prateria",
 									"{@dice 6d6 × 10} feet"
 								],
 								[
-									"Forest, swamp, or woodland",
+									"Foresta, palude o bosco",
 									"{@dice 2d8 × 10} feet"
 								],
 								[
-									"Hills or wastelands",
+									"Colline o terre desolate",
 									"{@dice 2d10 × 10} feet"
 								],
 								[
-									"Jungle",
+									"Giungla",
 									"{@dice 2d6 × 10} feet"
 								],
 								[
-									"Mountains",
+									"Montagne",
 									"{@dice 4d10 × 10} feet"
 								]
 							]
@@ -521,15 +521,15 @@
 							],
 							"rows": [
 								[
-									"Trying to be quiet",
+									"Cercando di stare zitto",
 									"{@dice 2d6 × 5} feet"
 								],
 								[
-									"Normal noise level",
+									"Livello di rumore normale",
 									"{@dice 2d6 × 10} feet"
 								],
 								[
-									"Very loud",
+									"Molto rumoroso",
 									"{@dice 2d6 × 50} feet"
 								]
 							]
@@ -546,8 +546,8 @@
 							],
 							"rows": [
 								[
-									"Clear day, no obstructions",
-									"2 miles"
+									"Giornata limpida, senza ostacoli",
+									"2 miglia"
 								],
 								[
 									"Rain",
@@ -555,10 +555,10 @@
 								],
 								[
 									"Fog",
-									"100 to 300 feet"
+									"Da 100 a 300 piedi"
 								],
 								[
-									"From a height",
+									"Da un'altezza",
 									"× 20"
 								]
 							]
@@ -584,83 +584,83 @@
 					"rows": [
 						[
 							1,
-							"A door opens."
+							"Una porta si apre."
 						],
 						[
 							2,
-							"A fire starts."
+							"Inizia un incendio."
 						],
 						[
 							3,
-							"A meteor shoots across the sky."
+							"Una meteora attraversa il cielo."
 						],
 						[
 							4,
-							"A monster appears."
+							"Appare un mostro."
 						],
 						[
 							5,
-							"A screech pierces the air."
+							"Uno strillo squarcia l'aria."
 						],
 						[
 							6,
-							"A storm begins."
+							"Inizia una tempesta."
 						],
 						[
 							7,
-							"A strange star appears in the sky."
+							"Nel cielo appare una strana stella."
 						],
 						[
 							8,
-							"A strong gust oif wind blows through."
+							"Soffia un forte colpo di vento."
 						],
 						[
 							9,
-							"A tremor shakes the ground."
+							"Un tremore scuote la terra."
 						],
 						[
 							10,
-							"Someone experiences déjà vu."
+							"Qualcuno sperimenta un déjà vu."
 						],
 						[
 							11,
-							"Someone gets angry."
+							"Qualcuno si arrabbia."
 						],
 						[
 							12,
-							"Someone glimpses the future."
+							"Qualcuno intravede il futuro."
 						],
 						[
 							13,
-							"Someone has a sense of foreboding."
+							"Qualcuno ha un senso di presentimento."
 						],
 						[
 							14,
-							"Someone has to go to the bathroom."
+							"Qualcuno deve andare in bagno."
 						],
 						[
 							15,
-							"Something spills or falls to the ground."
+							"Qualcosa si rovescia o cade a terra."
 						],
 						[
 							16,
-							"Something isn't where it's supposed to be."
+							"Qualcosa non è dove dovrebbe essere."
 						],
 						[
 							17,
-							"The lights go out."
+							"Le luci si spengono."
 						],
 						[
 							18,
-							"The sun comes out."
+							"Esce il sole."
 						],
 						[
 							19,
-							"There's a foul smell in the air."
+							"C'è un cattivo odore nell'aria."
 						],
 						[
 							20,
-							"Unexplained magic occurs."
+							"Si verifica una magia inspiegabile."
 						]
 					],
 					"data": {
@@ -683,7 +683,7 @@
 					"rows": [
 						[
 							1,
-							"Artwork"
+							"Opera d'arte"
 						],
 						[
 							2,
@@ -691,11 +691,11 @@
 						],
 						[
 							3,
-							"Food or drink"
+							"Cibo o bevanda"
 						],
 						[
 							4,
-							"Jewelry"
+							"Gioielli"
 						],
 						[
 							5,
@@ -703,11 +703,11 @@
 						],
 						[
 							6,
-							"Letter"
+							"Lettera"
 						],
 						[
 							7,
-							"Magic herbs"
+							"Erbe magiche"
 						],
 						[
 							8,
@@ -715,15 +715,15 @@
 						],
 						[
 							9,
-							"Monster parts"
+							"Parti di mostri"
 						],
 						[
 							10,
-							"Secret message"
+							"Messaggio segreto"
 						],
 						[
 							11,
-							"Signet or insignia"
+							"Sigillo o insegna"
 						],
 						[
 							12,
@@ -762,28 +762,28 @@
 							"{@item Lamp|phb}",
 							"15 ft.",
 							"+ 30 ft.",
-							"6 hours"
+							"6 ore"
 						],
 						[
 							"{@item Bullseye Lantern|phb|Lantern, bullseye}",
-							"60 ft. cone",
+							"Cono da 60 piedi",
 							"+ 60 ft.",
-							"6 hours"
+							"6 ore"
 						],
 						[
 							"{@item Hooded Lantern|phb|Lantern, hooded}",
 							"30 ft.",
 							"+ 30 ft.",
-							"6 hours"
+							"6 ore"
 						],
 						{
 							"type": "row",
 							"style": "row-indent-first",
 							"row": [
 								"Lowered hood",
-								"\u2014",
+								"—",
 								"+ 5 ft.",
-								"\u2014"
+								"—"
 							]
 						},
 						[

@@ -84,7 +84,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The zealot casts one of the following spells, requiring no components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
+						"Lo zelota lancia uno dei seguenti incantesimi, che non richiede componenti e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell detect thoughts}",
@@ -104,13 +104,13 @@
 				{
 					"name": "Aberrant Form",
 					"entries": [
-						"The zealot exudes the chaos of the Far Realm. Any non-Aberration creature that starts its turn within 5 feet of the zealot must succeed on a {@dc 15} Wisdom saving throw or take 7 ({@damage 2d6}) psychic damage."
+						"Il fanatico trasuda il caos del Reame Remoto. Qualsiasi creatura non Aberrazione che inizi il suo turno entro 1,5 metri dallo zelota deve riuscire un tiro salvezza su Saggezza {@dc 15} o subire 7 ({@damage 2d6}) danni psichici."
 					]
 				},
 				{
 					"name": "Weirdly Pliable",
 					"entries": [
-						"The zealot, along with any equipment it is wearing or carrying, is unnaturally flexible. The zealot can move through any space as narrow as 1 inch without squeezing."
+						"Il fanatico, insieme a qualsiasi equipaggiamento che indossa o trasporta, è innaturalmente flessibile. Il fanatico può muoversi attraverso qualsiasi spazio stretto fino a 1 pollice senza stringersi."
 					]
 				}
 			],
@@ -118,19 +118,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The zealot makes one Psychic Rend attack and two Shortsword attacks."
+						"Lo zelota effettua un attacco di Strappo Psichico e due attacchi con la spada corta."
 					]
 				},
 				{
 					"name": "Psychic Rend",
 					"entries": [
-						"{@atk ms,rs} {@hit 7} to hit, reach 15 ft. or range 120 ft., one target. {@h}14 ({@damage 3d6 + 4}) psychic damage, and the target must succeed on a {@dc 15} Wisdom saving throw or have the {@condition stunned} condition until the start of the zealot's next turn."
+						"{@atk ms,rs} {@hit 7} per colpire, raggiungere 15 piedi o una portata di 120 piedi, un bersaglio. {@h}14 ({@damage 3d6 + 4}) danni psichici e il bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 15} o avere la condizione {@condition stunned} fino all'inizio del turno successivo del fanatico."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 15 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage plus 7 ({@damage 2d6}) psychic damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 15 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni perforanti più 7 ({@damage 2d6}) danni psichici."
 					]
 				}
 			],
@@ -138,7 +138,7 @@
 				{
 					"name": "Void Warp {@recharge 5}",
 					"entries": [
-						"The zealot teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 120 feet of itself, leaving a churning void in the space it left. Immediately after it teleports, each creature within 30 feet of the void other than the zealot must make a {@dc 15} Strength saving throw. On a failed save, a creature takes 18 ({@damage 4d8}) force damage and is pulled to the unoccupied space closest to the void. On a successful save, the creature takes half as much damage only. The void then disappears."
+						"Lo zelota si teletrasporta, insieme a qualsiasi equipaggiamento che indossa o trasporta, in uno spazio non occupato che può vedere entro 36 metri da sé, lasciando un vuoto ribollente nello spazio lasciato. Immediatamente dopo il teletrasporto, ogni creatura entro 9 metri dal vuoto, eccetto lo zelota, deve effettuare un tiro salvezza su Forza {@dc 15}. Se il tiro salvezza fallisce, una creatura subisce 18 ({@damage 4d8}) danni da forza e viene trascinata nello spazio non occupato più vicino al vuoto. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni. Il vuoto poi scompare."
 					]
 				}
 			],
@@ -205,7 +205,7 @@
 						"items": {
 							"name": "Mind Blast {@recharge 5}",
 							"entries": [
-								"The zealot magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a {@dc 15} Intelligence saving throw or take 22 ({@damage 4d8 + 4}) psychic damage and have the {@condition stunned} condition for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the {@condition stunned} condition on itself on a success."
+								"Il fanatico emette magicamente energia psichica in un cono di 18 metri. Ogni creatura in quell'area deve riuscire un tiro salvezza su Intelligenza {@dc 15} o subire 22 ({@damage 4d8 + 4}) danni psichici e mantenere la condizione {@condition stunned} per 1 minuto. Un bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, ponendo fine alla condizione {@condition stunned} su se stesso in caso di successo."
 							]
 						}
 					}
@@ -227,7 +227,7 @@
 						"items": {
 							"name": "Ash Cloud",
 							"entries": [
-								"When the zombie dies, it leaves a cloud of ash that lasts for 5 minutes but does not obscure vision."
+								"Quando lo zombi muore, lascia una nuvola di cenere che dura 5 minuti ma non oscura la vista."
 							]
 						}
 					}
@@ -293,7 +293,7 @@
 						"items": {
 							"name": "Severed Head",
 							"entries": [
-								"Chishinix is always accompanied by a {@creature Chishinix' Head|PaBTSO|severed head}."
+								"Chishinix è sempre accompagnato da un {@creature Chishinix' Head|PaBTSO|severed head}."
 							]
 						}
 					}
@@ -389,13 +389,13 @@
 				{
 					"name": "Avoidance",
 					"entries": [
-						"If the mutate is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+						"Se il mutante è soggetto a un effetto che gli consente di effettuare un tiro salvezza per subire solo la metà dei danni, invece non subisce danni se riesce nel tiro salvezza, e solo la metà dei danni se fallisce."
 					]
 				},
 				{
 					"name": "Light Sensitivity",
 					"entries": [
-						"While in bright light, the mutate has disadvantage on attack rolls."
+						"Mentre si trova in piena luce, il mutante ha svantaggio ai tiri per colpire."
 					]
 				}
 			],
@@ -403,19 +403,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The mutate makes one Corpse Swipe attack and two Tail attacks, or it makes four Tail attacks."
+						"Il mutato effettua un attacco con la Scivolata cadaverica e due attacchi con la coda, oppure effettua quattro attacchi con la coda."
 					]
 				},
 				{
 					"name": "Corpse Swipe",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}20 ({@damage 3d10 + 4}) bludgeoning damage. If the target is a creature, it must succeed on a {@dc 16} Constitution saving throw or have the {@condition poisoned} condition for 1 minute. While {@condition poisoned} in this way, a creature can't regain hit points."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}20 ({@damage 3d10 + 4}) danni contundenti. Se il bersaglio è una creatura, deve riuscire un tiro salvezza su Costituzione {@dc 16} o avere la condizione {@condition poisoned} per 1 minuto. Mentre {@condition poisoned} in questo modo, una creatura non può recuperare punti ferita."
 					]
 				},
 				{
 					"name": "Tail",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 10 ft., one target. {@h}13 ({@damage 2d8 + 4}) slashing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 10 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni taglienti."
 					]
 				}
 			],
@@ -423,13 +423,13 @@
 				{
 					"name": "Phantasmal Duplicates",
 					"entries": [
-						"The mutate magically projects up to four illusory copies of itself. These duplicates make it difficult to ascertain the mutate's true location and last until the end of the mutate's next turn. While the copies exist, attack rolls against the mutate are made with disadvantage."
+						"Il mutante proietta magicamente fino a quattro copie illusorie di se stesso. Questi duplicati rendono difficile accertare la vera posizione del mutato e durano fino alla fine del turno successivo del mutato. Finché le copie esistono, i tiri per colpire contro il mutato vengono effettuati con svantaggio."
 					]
 				},
 				{
 					"name": "Psychic Moan {@recharge}",
 					"entries": [
-						"The mutate lets out a moan charged with psychic energy. Each creature within 60 feet of the mutate that isn't an Aberration must succeed on a {@dc 16} Wisdom saving throw or take 17 ({@damage 5d6}) psychic damage and have the {@condition frightened} condition until the end of the mutate's next turn."
+						"Il mutante emette un gemito carico di energia psichica. Ogni creatura entro 18 metri dal mutato che non sia un'aberrazione deve riuscire un tiro salvezza su Saggezza {@dc 16} o subire 17 ({@damage 5d6}) danni psichici e avere la condizione {@condition frightened} fino alla fine del turno successivo del mutato."
 					]
 				}
 			],
@@ -523,7 +523,7 @@
 				{
 					"name": "Sure-Footed",
 					"entries": [
-						"The skeleton has advantage on Strength and Dexterity saving throws made against effects that make it have the {@condition prone} condition."
+						"Lo scheletro ha vantaggio ai tiri salvezza su Forza e Destrezza effettuati contro effetti che gli fanno avere la condizione {@condition prone}."
 					]
 				}
 			],
@@ -531,7 +531,7 @@
 				{
 					"name": "Battleaxe",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing damage, or 8 ({@damage 1d10 + 3}) slashing damage if used with two hands."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni da taglio o 8 ({@damage 1d10 + 3}) danni da taglio se usato con due mani."
 					]
 				}
 			],
@@ -602,13 +602,13 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the cluster fails a saving throw, it can choose to succeed instead."
+						"Se il gruppo fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The cluster has advantage on saving throws against spells and other magical effects."
+						"L'ammasso ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -616,19 +616,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The cluster makes two Slam attacks. It can replace one of these attacks with Spawn Progeny if available."
+						"Il gruppo effettua due attacchi Schianto. Può sostituire uno di questi attacchi con Spawn Progeny, se disponibile."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}17 ({@damage 2d10 + 6}) bludgeoning damage plus 10 ({@damage 3d6}) psychic damage, and if the target is a creature, the target must succeed on a {@dc 18} Strength saving throw or have the {@condition prone} condition. If this attack reduces the target to 0 hit points, the target immediately dies and is consumed by the cluster."
+						"{@atk mw} {@hit 10} per colpire, raggiungere 5 piedi, un bersaglio. {@h}17 ({@damage 2d10 + 6}) danni contundenti più 10 ({@damage 3d6}) danni psichici e, se il bersaglio è una creatura, deve riuscire un tiro salvezza su Forza {@dc 18} o avere la condizione {@condition prone}. Se questo attacco riduce il bersaglio a 0 punti ferita, il bersaglio muore immediatamente e viene consumato dal grappolo."
 					]
 				},
 				{
 					"name": "Spawn Progeny (Recharges after a Short or Long Rest)",
 					"entries": [
-						"The cluster bulges and spews {@dice 1d4} mature eggs. Each egg lands in an unoccupied space of the cluster's choice within 30 feet of itself and immediately transforms into an {@creature encephalon gemmule|PaBTSO}. The gemmules obey the cluster's commands and take their turns immediately after it."
+						"Il grappolo si gonfia e sputa {@dice 1d4} uova mature. Ogni uovo atterra in uno spazio non occupato a scelta del grappolo entro 9 metri da se stesso e si trasforma immediatamente in un {@creature encephalon gemmule|PaBTSO}. Le gemmule obbediscono ai comandi del grappolo e svolgono il loro turno subito dopo."
 					]
 				}
 			],
@@ -636,7 +636,7 @@
 				{
 					"name": "Aggressive Hunger",
 					"entries": [
-						"Immediately after being hit by an attack, the cluster moves up to its speed toward the attacker. This movement doesn't provoke opportunity attacks. If the cluster ends this movement within 5 feet of the attacker, it then makes one Slam attack against that attacker."
+						"Immediatamente dopo essere stato colpito da un attacco, l'ammasso si muove alla sua velocità verso l'attaccante. Questo movimento non provoca attacchi di opportunità. Se il gruppo termina questo movimento entro 1,5 metri dall'attaccante, effettua un attacco con Schianto contro quell'attaccante."
 					]
 				}
 			],
@@ -709,13 +709,13 @@
 				{
 					"name": "Encephalon Progeny",
 					"entries": [
-						"The gemmule matures into an encephalon cluster if not killed within 30 ({@dice 4d12 + 4}) days of its creation."
+						"La gemmula matura in un ammasso encefalico se non viene uccisa entro 30 ({@dice 4d12 + 4}) giorni dalla sua creazione."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The gemmule has advantage on saving throws against spells and other magical effects."
+						"La gemmula dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -723,7 +723,7 @@
 				{
 					"name": "Psychic Slam",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}16 ({@damage 3d10}) psychic damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}16 ({@damage 3d10}) danni psichici."
 					]
 				}
 			],
@@ -731,7 +731,7 @@
 				{
 					"name": "Leech",
 					"entries": [
-						"The gemmule targets one creature within 5 feet of itself and forces the target to make a {@dc 14} Dexterity saving throw. On a failed save, the gemmule enters the target's space and attaches to the target. While the gemmule is attached, the target takes 7 ({@damage 3d4}) piercing damage at the start of each of its turns, and the gemmule can't use Leech again until it detaches. It can detach itself by spending 5 feet of its movement. As an action, the target or a creature within 5 feet of the target can detach the gemmule by succeeding on a {@dc 15} Strength check."
+						"La gemmula prende di mira una creatura entro 1,5 metri da sé e costringe il bersaglio a effettuare un tiro salvezza su Destrezza {@dc 14}. Se fallisce il Tiro Salvezza, la gemmula entra nello spazio del bersaglio e si attacca ad esso. Mentre la gemmula è attaccata, il bersaglio subisce 7 ({@damage 3d4}) danni perforanti all'inizio di ciascuno dei suoi turni, e la gemmula non può usare nuovamente Sanguisuga finché non si stacca. Può staccarsi spendendo 5 piedi del suo movimento. Come azione, il bersaglio o una creatura entro 1,5 metri dal bersaglio può staccare la gemmula superando una prova di Forza {@dc 15}."
 					]
 				}
 			],
@@ -817,13 +817,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The ashenwight makes two Necrotic Shard attacks."
+						"Lo spettro delle ceneri effettua due attacchi con la Scheggia Necrotica."
 					]
 				},
 				{
 					"name": "Necrotic Shard",
 					"entries": [
-						"{@atk mw,rw} {@hit 7} to hit, reach 5 ft. or range 60 ft., one target. {@h}7 ({@damage 1d6 + 4}) necrotic damage. If the target is a creature, it has disadvantage on the next attack roll it makes before the end of its next turn."
+						"{@atk mw,rw} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danno necrotico. Se il bersaglio è una creatura, ha svantaggio al successivo tiro per colpire che effettua prima della fine del suo turno successivo."
 					]
 				}
 			],
@@ -906,13 +906,13 @@
 				{
 					"name": "Siege Monster",
 					"entries": [
-						"The auger deals double damage to objects and structures."
+						"La trivella infligge danni doppi a oggetti e strutture."
 					]
 				},
 				{
 					"name": "Tunneler",
 					"entries": [
-						"The auger can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake."
+						"La trivella può scavare nella roccia solida alla metà della sua velocità di scavo e lascia nella sua scia un tunnel del diametro di 3 metri."
 					]
 				}
 			],
@@ -920,7 +920,7 @@
 				{
 					"name": "Flaming Drill",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}17 ({@damage 2d10 + 6}) piercing damage plus 7 ({@damage 2d6}) fire damage. If the auger moves at least 20 feet in a straight line toward the target immediately before the hit, the target takes an additional 11 ({@damage 2d10}) piercing damage, and if the target is a creature, it must succeed on a {@dc 17} Strength saving throw or have the {@condition prone} condition."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}17 ({@damage 2d10 + 6}) danni perforanti più 7 ({@damage 2d6}) danni da fuoco. Se la trivella si muove di almeno 20 piedi in linea retta verso il bersaglio immediatamente prima del colpo, il bersaglio subisce 11 ({@damage 2d10}) danni perforanti aggiuntivi e, se il bersaglio è una creatura, deve riuscire un tiro salvezza su Forza {@dc 17} o avere la condizione {@condition prone}."
 					]
 				}
 			],
@@ -928,7 +928,7 @@
 				{
 					"name": "Burst of Heat {@recharge 5}",
 					"entries": [
-						"The auger releases an intense burst of heat in a 30-foot-radius sphere centered on itself. This heat spreads around corners. Each creature in this area must make a {@dc 17} Constitution saving throw, taking 13 ({@damage 3d8}) fire damage on a failed save, or half as much damage on a successful one."
+						"La trivella rilascia un'intensa esplosione di calore in una sfera del raggio di 9 metri centrata su se stessa. Questo calore si diffonde dietro gli angoli. Ogni creatura in quest'area deve effettuare un tiro salvezza su Costituzione {@dc 17} e subisce 13 ({@damage 3d8}) danni da fuoco se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -1008,25 +1008,25 @@
 				{
 					"name": "Amorphous",
 					"entries": [
-						"The flesh meld can move through a space as narrow as 1 inch without squeezing."
+						"La fusione di carne può muoversi attraverso uno spazio stretto fino a 1 pollice senza comprimersi."
 					]
 				},
 				{
 					"name": "Aura of Death",
 					"entries": [
-						"At the start of each of the flesh meld's turns, each creature within 5 feet of it must succeed on a {@dc 15} Constitution saving throw or take 3 ({@damage 1d6}) necrotic damage and have the {@condition poisoned} condition until the start of the flesh meld's next turn."
+						"All'inizio di ogni turno della fusione con la carne, ogni creatura entro 5 piedi da essa deve riuscire un tiro salvezza su Costituzione {@dc 15} o subire 3 ({@damage 1d6}) danni necrotici e avere la condizione {@condition poisoned} fino all'inizio del turno successivo della fusione con la carne."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The flesh meld has advantage on saving throws against spells and other magical effects."
+						"La fusione della carne ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The flesh meld can climb difficult surfaces, including ceilings, without needing to make an ability check."
+						"La fusione di carne può arrampicarsi su superfici difficili, compresi i soffitti, senza bisogno di effettuare una prova di caratteristica."
 					]
 				}
 			],
@@ -1034,13 +1034,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The flesh meld makes two Bite attacks."
+						"La fusione con la carne effettua due attacchi con il morso."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 30 ft., one target. {@h}16 ({@damage 2d10 + 5}) piercing damage, and if the target is a Large or smaller creature, it has the {@condition grappled} condition (escape {@dc 15}) and is pulled up to 15 feet toward the flesh meld."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 9 metri, un bersaglio. {@h}16 ({@damage 2d10 + 5}) danni perforanti e, se il bersaglio è una creatura Grande o più piccola, ha la condizione {@condition grappled} (fuga {@dc 15}) e viene trascinato fino a 15 piedi verso la fusione di carne."
 					]
 				}
 			],
@@ -1048,9 +1048,9 @@
 				{
 					"name": "Consume Creature",
 					"entries": [
-						"The flesh meld targets one Large or smaller creature within 5 feet of itself that it's grappling. The target must succeed on a {@dc 15} Dexterity saving throw or be swallowed by the flesh meld. The flesh meld can have one creature swallowed at a time.",
-						"A swallowed creature no longer has the {@condition grappled} condition. While swallowed, it has the {@condition blinded} and {@condition restrained} conditions, has {@quickref Cover||3||total cover} against attacks and other effects outside the flesh meld, and takes 10 ({@damage 3d6}) necrotic damage at the start of each of the flesh meld's turns. If this damage reduces a swallowed creature to 0 hit points, the creature dies, and the flesh meld consumes its body.",
-						"If the flesh meld takes 30 damage or more on a single turn from the swallowed creature, the flesh meld must succeed on a {@dc 15} Constitution saving throw at the end of that turn or regurgitate the creature, which falls with the {@condition prone} condition in a space within 5 feet of the flesh meld. If the flesh meld dies, the swallowed creature is no longer {@condition restrained} by it and can escape from the corpse by using 10 feet of movement, exiting with the {@condition prone} condition."
+						"La fusione di carne prende di mira una creatura Grande o più piccola entro 1,5 metri da se stessa con cui è in lotta. Il bersaglio deve riuscire in un tiro salvezza di Destrezza {@dc 15} o essere inghiottito dalla fusione della carne. La fusione di carne può far inghiottire una creatura alla volta.",
+						"Una creatura ingoiata non presenta più la condizione {@condition grappled}. Mentre viene ingoiato, ha le condizioni {@condition blinded} e {@condition restrained}, ha {@quickref Cover||3||total cover} contro attacchi e altri effetti esterni alla fusione con la carne e subisce 10 ({@damage 3d6}) danni necrotici all'inizio di ciascuno dei turni della fusione con la carne. Se questo danno riduce una creatura inghiottita a 0 punti ferita, la creatura muore e la fusione della carne ne consuma il corpo.",
+						"Se la fusione di carne subisce 30 o più danni in un singolo turno dalla creatura ingoiata, la fusione di carne deve riuscire un tiro salvezza su Costituzione {@dc 15} alla fine di quel turno o rigurgitare la creatura, che cade con la condizione {@condition prone} in uno spazio entro 5 piedi dalla fusione di carne. Se la fusione di carne muore, la creatura inghiottita non è più {@condition restrained} da essa e può fuggire dal cadavere utilizzando 10 piedi di movimento, uscendo con la condizione {@condition prone}."
 					]
 				}
 			],
@@ -1103,7 +1103,7 @@
 						"items": {
 							"name": "Shortbow",
 							"entries": [
-								"{@atk rw} {@hit 4} to hit, range 80 ft./320 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+								"{@atk rw} {@hit 4} da colpire, portata 80 piedi/320 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 							]
 						}
 					}
@@ -1173,13 +1173,13 @@
 				{
 					"name": "Mental Burst",
 					"entries": [
-						"When the goblin dies, its pent-up mental energy explodes in a psychic blast. Each creature within 5 feet of it must succeed on a {@dc 13} Intelligence saving throw or take 5 ({@damage 2d4}) psychic damage."
+						"Quando il goblin muore, la sua energia mentale repressa esplode in un'esplosione psichica. Ogni creatura entro 1,5 metri da esso deve riuscire un tiro salvezza su Intelligenza {@dc 13} o subire 5 ({@damage 2d4}) danni psichici."
 					]
 				},
 				{
 					"name": "Mental Fortitude",
 					"entries": [
-						"The goblin has advantage on saving throws against effects that would make it have the {@condition charmed} or {@condition frightened} condition."
+						"Il goblin ha vantaggio ai tiri salvezza contro gli effetti che gli farebbero avere la condizione {@condition charmed} o {@condition frightened}."
 					]
 				}
 			],
@@ -1187,13 +1187,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The goblin makes two Unarmed Strike attacks."
+						"Il goblin effettua due attacchi di Colpo Senz'Armi."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) bludgeoning damage plus 3 ({@damage 1d6}) psychic damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danni contundenti più 3 ({@damage 1d6}) danni psichici."
 					]
 				}
 			],
@@ -1201,13 +1201,13 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"The goblin takes the Disengage or Hide action."
+						"Il goblin effettua l'azione Disingaggiarsi o Nascondersi."
 					]
 				},
 				{
 					"name": "Telekinetic Shove",
 					"entries": [
-						"The goblin targets one creature it can see within 30 feet of itself with a thrust of telekinetic force. The target must succeed on a {@dc 13} Strength saving throw or have the {@condition prone} condition."
+						"Il goblin prende di mira una creatura che può vedere entro 9 metri da sé con un impulso di forza telecinetica. Il bersaglio deve riuscire in un tiro salvezza sulla Forza {@dc 13} o avere la condizione {@condition prone}."
 					]
 				}
 			],
@@ -1303,7 +1303,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The goblin casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 13}):"
+						"Il goblin lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell mage hand} (the hand is invisible)",
@@ -1324,13 +1324,13 @@
 				{
 					"name": "Mental Burst",
 					"entries": [
-						"When the goblin dies, its pent-up mental energy explodes in a psychic blast. Each creature within 5 feet of it must succeed on a {@dc 13} Intelligence saving throw or take 10 ({@damage 4d4}) psychic damage."
+						"Quando il goblin muore, la sua energia mentale repressa esplode in un'esplosione psichica. Ogni creatura entro 1,5 metri da esso deve riuscire un tiro salvezza su Intelligenza {@dc 13} o subire 10 ({@damage 4d4}) danni psichici."
 					]
 				},
 				{
 					"name": "Mental Fortitude",
 					"entries": [
-						"The goblin has advantage on saving throws against effects that would make it have the {@condition charmed} or {@condition frightened} conditions."
+						"Il goblin ha vantaggio ai tiri salvezza contro gli effetti che gli farebbero avere le condizioni {@condition charmed} o {@condition frightened}."
 					]
 				}
 			],
@@ -1338,19 +1338,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The goblin makes three Psychic Blade attacks."
+						"Il goblin effettua tre attacchi con la lama psichica."
 					]
 				},
 				{
 					"name": "Psychic Blade",
 					"entries": [
-						"{@atk mw,rw} {@hit 6} to hit, reach 5 ft. or range 60 ft., one creature. {@h}11 ({@damage 2d6 + 4}) psychic damage, and the target must subtract {@dice 1d4} from the next attack roll or saving throw it makes before the end of the goblin's next turn."
+						"{@atk mw,rw} {@hit 6} per colpire, raggiungere 5 piedi o un raggio di 60 piedi, una creatura. {@h}11 ({@damage 2d6 + 4}) danni psichici e il bersaglio deve sottrarre {@dice 1d4} dal successivo tiro per colpire o tiro salvezza effettuato prima della fine del turno successivo del goblin."
 					]
 				},
 				{
 					"name": "Synaptic Rend {@recharge 5}",
 					"entries": [
-						"The goblin unleashes a 30-foot-radius sphere of psychic energy, centered on a point the goblin can see within 60 feet of itself. Each creature in that area must make a {@dc 13} Intelligence saving throw. On a failed save, a creature takes 14 ({@damage 4d6}) psychic damage and has the {@condition incapacitated} condition until the end of the goblin's next turn. On a successful save, a creature takes half as much damage only."
+						"Il goblin libera una sfera di energia psichica del raggio di 9 metri, centrata su un punto che il goblin può vedere entro 18 metri da sé. Ogni creatura in quell'area deve effettuare un tiro salvezza su Intelligenza {@dc 13}. Se il tiro salvezza fallisce, una creatura subisce 14 ({@damage 4d6}) danni psichici e ha la condizione {@condition incapacitated} fino alla fine del turno successivo del goblin. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni."
 					]
 				}
 			],
@@ -1358,7 +1358,7 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"The goblin takes the Disengage or Hide action."
+						"Il goblin effettua l'azione Disingaggiarsi o Nascondersi."
 					]
 				}
 			],
@@ -1366,7 +1366,7 @@
 				{
 					"name": "Psionic Shield",
 					"entries": [
-						"When the goblin or one of its allies within 15 feet of it is hit by an attack roll, the goblin conjures a shield of force. The target of the attack gains a +3 bonus to its AC against the triggering attack roll, potentially causing it to miss."
+						"Quando il goblin o uno dei suoi alleati entro 4,5 metri da lui viene colpito da un tiro per colpire, il goblin evoca uno scudo di forza. Il bersaglio dell'attacco ottiene bonus +3 alla sua CA contro il tiro per colpire attivante, facendolo potenzialmente fallire."
 					]
 				}
 			],
@@ -1496,7 +1496,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The grell psychic casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 12}):"
+						"Il grell psichico lancia uno dei seguenti incantesimi, senza richiedere componenti di incantesimo e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 12}):"
 					],
 					"will": [
 						"{@spell detect thoughts}",
@@ -1517,19 +1517,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The grell psychic makes one Tentacle attack and one Beak attack."
+						"Il grell psichico effettua un attacco con il tentacolo e un attacco con il becco."
 					]
 				},
 				{
 					"name": "Beak",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 ({@damage 3d4 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 3d4 + 3}) danni perforanti."
 					]
 				},
 				{
 					"name": "Tentacle",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 10 ft., one target. {@h}8 ({@damage 1d10 + 3}) piercing damage, and the target must succeed on a {@dc 11} Constitution saving throw or have the {@condition poisoned} condition for 1 minute. While the target is {@condition poisoned}, it also has the {@condition paralyzed} condition. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The target also has the {@condition grappled} condition (escape {@dc 16}). While grappling the target, the grell can't make Tentacle attacks against other targets. When the grell moves, any Medium or smaller target it is grappling moves with it."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 10 piedi, un bersaglio. {@h}8 ({@damage 1d10 + 3}) danni perforanti e il bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 11} o avere la condizione {@condition poisoned} per 1 minuto. Sebbene l'obiettivo sia {@condition poisoned}, presenta anche la condizione {@condition paralyzed}. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo. L'obiettivo ha anche la condizione {@condition grappled} (fuga {@dc 16}). Mentre afferra il bersaglio, il grell non può effettuare attacchi con tentacoli contro altri bersagli. Quando il grell si muove, qualsiasi bersaglio di taglia Media o inferiore con cui sta afferrando si muove con esso."
 					]
 				}
 			],
@@ -1742,7 +1742,7 @@
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the mutate has disadvantage on attack rolls."
+						"Mentre è alla luce del sole, il mutante ha svantaggio ai tiri per colpire."
 					]
 				}
 			],
@@ -1750,19 +1750,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The mutate makes two Unarmed Strike or Nightmare Blast attacks."
+						"Il mutato effettua due attacchi Unarmed Strike o Nightmare Blast."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) bludgeoning damage plus 10 ({@damage 3d6}) psychic damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni contundenti più 10 ({@damage 3d6}) danni psichici."
 					]
 				},
 				{
 					"name": "Nightmare Blast",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 60 ft., one creature. {@h}7 ({@damage 2d6}) psychic damage, and the target must succeed on a {@dc 12} Wisdom saving throw or have the {@condition frightened} condition until the start of the mutate's next turn."
+						"{@atk rw} {@hit 6} per colpire, portata 60 piedi, una creatura. {@h}7 ({@damage 2d6}) danni psichici e il bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 12} o avere la condizione {@condition frightened} fino all'inizio del turno successivo della mutazione."
 					]
 				}
 			],
@@ -1770,7 +1770,7 @@
 				{
 					"name": "Defensive Flight",
 					"entries": [
-						"Immediately after taking damage, the mutate flies up to its speed. This movement doesn't provoke opportunity attacks."
+						"Immediatamente dopo aver subito danni, il mutante vola alla sua velocità. Questo movimento non provoca attacchi di opportunità."
 					]
 				}
 			],
@@ -1867,7 +1867,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Glasstaff casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 13}):"
+						"Glasstaff lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell light}",
@@ -1888,7 +1888,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Glasstaff wields a {@item staff of defense|PaBTSO} (see appendix B). With the staff in hand, he can use an action to cast the {@spell mage armor} spell and use his reaction to cast the {@spell shield} spell."
+						"Glasstaff brandisce un {@item staff of defense|PaBTSO} (vedi appendice B). Con il bastone in mano, può usare un'azione per lanciare l'incantesimo {@spell mage armor} e usare la sua reazione per lanciare l'incantesimo {@spell shield}."
 					]
 				}
 			],
@@ -1896,13 +1896,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Glasstaff makes two Shocking Burst attacks."
+						"Glasstaff effettua due attacchi Shocking Burst."
 					]
 				},
 				{
 					"name": "Shocking Burst",
 					"entries": [
-						"{@atk ms,rs} {@hit 5} to hit, reach 5 ft. or range 120 ft., one target. {@h}6 ({@damage 1d6 + 3}) lightning damage."
+						"{@atk ms,rs} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni da fulmine."
 					]
 				}
 			],
@@ -1910,7 +1910,7 @@
 				{
 					"name": "Teleport (2/Day)",
 					"entries": [
-						"Glasstaff magically teleports, along with any equipment he is wearing or carrying, up to 30 feet to an unoccupied space he can see."
+						"Glasstaff si teletrasporta magicamente, insieme a qualsiasi equipaggiamento che indossa o trasporta, fino a 9 metri in uno spazio non occupato che può vedere."
 					]
 				}
 			],
@@ -2002,7 +2002,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The elder brain casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 17}):"
+						"Il cervello antico lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 17}):"
 					],
 					"will": [
 						"{@spell detect thoughts}",
@@ -2016,19 +2016,19 @@
 				{
 					"name": "Creature Sense",
 					"entries": [
-						"The elder brain is aware of creatures within 1 mile of itself that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's Intelligence score, but can't sense anything else about it. A creature protected by a {@spell mind blank} spell, a {@spell nondetection} spell, or similar magic can't be perceived in this manner."
+						"Il cervello antico è consapevole della presenza di creature entro 1 miglio da sé che abbiano un punteggio di Intelligenza pari o superiore a 4. Conosce la distanza e la direzione di ciascuna creatura, così come il punteggio di Intelligenza di ciascuna, ma non riesce a percepire nient'altro al riguardo. Una creatura protetta da un incantesimo {@spell mind blank}, un incantesimo {@spell nondetection} o una magia simile non può essere percepita in questo modo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The elder brain has advantage on saving throws against spells and other magical effects."
+						"Il cervello antico dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Telepathic Hub",
 					"entries": [
-						"The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way."
+						"Il cervello antico può usare la sua telepatia per avviare e mantenere conversazioni telepatiche con un massimo di dieci creature alla volta. Il cervello più antico può consentire a quelle creature di sentirsi telepaticamente tra loro mentre sono connesse in questo modo."
 					]
 				}
 			],
@@ -2036,19 +2036,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The elder brain makes two Tentacle attacks."
+						"Il cervello più antico effettua due attacchi con tentacoli."
 					]
 				},
 				{
 					"name": "Tentacle",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 30 ft., one target. {@h}15 ({@damage 3d8 + 2}) bludgeoning damage. If the target is a Huge or smaller creature, it has the {@condition grappled} condition (escape {@dc 14}) and takes 9 ({@damage 1d8 + 5}) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets {@condition grappled} at a time."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 9 metri, un bersaglio. {@h}15 ({@damage 3d8 + 2}) danni contundenti. Se il bersaglio è una creatura Enorme o più piccola, ha la condizione {@condition grappled} (fuga {@dc 14}) e subisce 9 ({@damage 1d8 + 5}) danni psichici all'inizio di ciascuno dei suoi turni fino al termine della presa. Il cervello più anziano può avere fino a quattro target {@condition grappled} alla volta."
 					]
 				},
 				{
 					"name": "Mind Blast {@recharge 5}",
 					"entries": [
-						"Creatures of the elder brain's choice within 60 feet of itself must succeed on a {@dc 17} Intelligence saving throw or take 32 ({@damage 5d10 + 5}) psychic damage and have the {@condition stunned} condition for 1 minute. A {@condition stunned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Le creature scelte dal cervello antico entro 60 piedi da esso devono riuscire un tiro salvezza su Intelligenza {@dc 17} o subire 32 ({@damage 5d10 + 5}) danni psichici e mantenere la condizione {@condition stunned} per 1 minuto. Una creatura {@condition stunned} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -2056,7 +2056,7 @@
 				{
 					"name": "Psychic Link",
 					"entries": [
-						"The elder brain targets one creature with the {@condition incapacitated} condition that the elder brain senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it no longer has the {@condition incapacitated} condition, and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful {@dc 17} Charisma check. If the target breaks the link this way, the target takes 10 ({@damage 3d6}) psychic damage. The link also ends if the target and the elder brain are more than 1 mile apart. The elder brain can form psychic links with up to ten creatures at a time."
+						"Il cervello antico prende di mira una creatura con la condizione {@condition incapacitated} che il cervello antico percepisce con il suo tratto Senso della creatura e stabilisce un collegamento psichico con il bersaglio. Fino al termine del collegamento, il cervello più antico può percepire tutto ciò che il bersaglio percepisce. Il bersaglio si rende conto che qualcosa è collegato alla sua mente una volta che non ha più la condizione {@condition incapacitated} e il cervello più anziano può interrompere il collegamento in qualsiasi momento (non è richiesta alcuna azione). Il bersaglio può usare un'azione nel suo turno per tentare di rompere il collegamento, facendolo con una prova di Carisma riuscita {@dc 17}. Se il bersaglio interrompe il collegamento in questo modo, subisce 10 ({@damage 3d6}) danni psichici. Il collegamento termina anche se il bersaglio e il cervello antico si trovano a più di 1 miglio di distanza. Il cervello più antico può formare legami psichici con un massimo di dieci creature alla volta."
 					]
 				}
 			],
@@ -2118,7 +2118,7 @@
 						"items": {
 							"name": "Psychic Slam",
 							"entries": [
-								"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) bludgeoning damage plus 3 ({@damage 1d6}) psychic damage."
+								"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni contundenti più 3 ({@damage 1d6}) danni psichici."
 							]
 						}
 					}
@@ -2188,13 +2188,13 @@
 				{
 					"name": "Cacophony of Minds",
 					"entries": [
-						"Any creature that starts its turn within 30 feet of the intellect snare must succeed on a {@dc 17} Wisdom saving throw or have the {@condition incapacitated} condition for 1 minute. An {@condition incapacitated} creature can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success. A creature that succeeds on the saving throw is immune to this intellect snare's Cacophony of Minds for 24 hours."
+						"Qualsiasi creatura che inizia il suo turno entro 9 metri dalla trappola dell'intelletto deve riuscire un tiro salvezza su Saggezza {@dc 17} o avere la condizione {@condition incapacitated} per 1 minuto. Una creatura {@condition incapacitated} può ripetere il tiro salvezza all'inizio di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo. Una creatura che supera il Tiro Salvezza è immune alla Cacofonia delle Menti di questa trappola dell'intelletto per 24 ore."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The intellect snare has advantage on saving throws against spells and other magical effects."
+						"La trappola dell'intelletto dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -2202,13 +2202,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The intellect snare makes two Tentacle attacks."
+						"La trappola dell'intelletto effettua due attacchi con tentacoli."
 					]
 				},
 				{
 					"name": "Tentacle",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 15 ft., one target. {@h}10 ({@damage 1d8 + 6}) force damage, and if the target is a Medium or smaller creature, the target has the {@condition grappled} condition (escape {@dc 17})."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 15 piedi, un bersaglio. {@h}10 ({@damage 1d8 + 6}) danni di forza e, se il bersaglio è una creatura di taglia Media o inferiore, il bersaglio ha la condizione {@condition grappled} (fuga {@dc 17})."
 					]
 				}
 			],
@@ -2216,7 +2216,7 @@
 				{
 					"name": "Siphon Thoughts",
 					"entries": [
-						"The intellect snare targets one creature it is grappling. The target must make a {@dc 17} Intelligence saving throw, taking 21 ({@damage 6d6}) psychic damage on a failed save, or half as much damage on a successful one. The intellect snare then regains a number of hit points equal to the amount of damage taken."
+						"La trappola dell'intelletto prende di mira una creatura con cui è in lotta. Il bersaglio deve effettuare un tiro salvezza su Intelligenza {@dc 17} e subisce 21 ({@damage 6d6}) danni psichici se fallisce il tiro salvezza, o la metà di questi danni se lo riesce. La trappola dell'intelletto poi riguadagna un numero di punti ferita pari all'ammontare dei danni subiti."
 					]
 				}
 			],
@@ -2352,7 +2352,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Lowarnizel casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 16}):"
+						"Lowarnizel lancia uno dei seguenti incantesimi, senza richiedere componenti di incantesimo e utilizzando l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 16}):"
 					],
 					"daily": {
 						"1e": [
@@ -2370,7 +2370,7 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Lowarnizel can breathe both air and water."
+						"Lowarnizel può respirare sia aria che acqua."
 					]
 				}
 			],
@@ -2378,25 +2378,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Lowarnizel makes one Bite attack and two Claw attacks."
+						"Lowarnizel effettua un attacco con il morso e due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}16 ({@damage 2d10 + 5}) piercing damage plus 4 ({@damage 1d8}) force damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 10 piedi, un bersaglio. {@h}16 ({@damage 2d10 + 5}) danni perforanti più 4 ({@damage 1d8}) danni fisici."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) slashing damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 1d8 + 5}) danni taglienti."
 					]
 				},
 				{
 					"name": "Singularity Breath {@recharge 5}",
 					"entries": [
-						"Lowarnizel creates a shining bead of gravitational force, then releases the energy in a 30-foot cone. Each creature in that area must make a {@dc 17} Strength saving throw. On a failed save, a creature takes 36 ({@damage 8d8}) force damage, and its speed becomes 0 until the start of the dragon's next turn. On a successful save, a creature takes half as much damage only."
+						"Lowarnizel crea una scintillante sfera di forza gravitazionale, quindi rilascia l'energia in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza sulla Forza {@dc 17}. Se il tiro salvezza fallisce, una creatura subisce 36 ({@damage 8d8}) danni da forza e la sua velocità diventa 0 fino all'inizio del turno successivo del drago. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni."
 					]
 				}
 			],
@@ -2404,7 +2404,7 @@
 				{
 					"name": "Change Shape",
 					"entries": [
-						"Lowarnizel magically transforms into any creature that is Medium or Small, while retaining his game statistics (other than his size). This transformation ends if the dragon is reduced to 0 hit points or uses a bonus action to end it."
+						"Lowarnizel si trasforma magicamente in qualsiasi creatura di taglia Media o Piccola, pur mantenendo le sue statistiche di gioco (a parte la sua taglia). Questa trasformazione termina se il drago viene ridotto a 0 punti ferita o utilizza un'azione bonus per porvi termine."
 					]
 				}
 			],
@@ -2540,7 +2540,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 17}):"
+						"Il mind flayer lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 17}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -2564,13 +2564,13 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the mind flayer fails a saving throw, it can choose to succeed instead."
+						"Se il mind flayer fallisce il tiro salvezza, può invece scegliere di superarlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The mind flayer has advantage on saving throws against spells and other magical effects."
+						"Il mind flayer dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -2578,25 +2578,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The mind flayer makes two Tentacle attacks."
+						"Il mind flayer effettua due attacchi con tentacoli."
 					]
 				},
 				{
 					"name": "Tentacle",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one creature. {@h}21 ({@damage 3d10 + 5}) psychic damage. If the target is Medium or smaller, it has the {@condition grappled} condition (escape {@dc 17}) and must succeed on a {@dc 17} Intelligence saving throw or have the {@condition incapacitated} condition until the grapple ends."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, una creatura. {@h}21 ({@damage 3d10 + 5}) danni psichici. Se il bersaglio è di taglia Media o inferiore, ha la condizione {@condition grappled} (fuga {@dc 17}) e deve riuscire un tiro salvezza su Intelligenza {@dc 17} o avere la condizione {@condition incapacitated} fino al termine della presa."
 					]
 				},
 				{
 					"name": "Extract Brain",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one {@condition incapacitated} Humanoid {@condition grappled} by the mind flayer. {@h}55 ({@damage 10d10}) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills it by extracting and devouring its brain."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un {@condition incapacitated} umanoide {@condition grappled} dal mind flayer. {@h}55 ({@damage 10d10}) danni perforanti. Se questo danno riduce il bersaglio a 0 punti ferita, il mind flayer lo uccide estraendo e divorandone il cervello."
 					]
 				},
 				{
 					"name": "Unleash Void {@recharge 5}",
 					"entries": [
-						"The mind flayer opens a rift into the Far Realm, centered on a point the mind flayer can see within 60 feet of itself, and a tentacle lashes across creatures near the rift. Each creature other than mind flayers within 30 feet of the rift must make a {@dc 17} Intelligence saving throw, after which the tentacle disappears and the rift closes. On a failed save, a creature takes 18 ({@damage 4d8}) cold damage from the rift plus 18 ({@damage 4d8}) psychic damage from the tentacle and has the {@condition stunned} condition for 1 minute. On a successful save, a creature takes half as much damage only. A {@condition stunned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Il mind flayer apre uno squarcio nel Reame Remoto, centrato su un punto che il mind flayer può vedere entro 18 metri da sé, e un tentacolo sferza le creature vicine allo squarcio. Ogni creatura diversa dai mind flayer entro 9 metri dalla spaccatura deve effettuare un tiro salvezza su Intelligenza {@dc 17}, dopodiché il tentacolo scompare e la spaccatura si chiude. Se il tiro salvezza fallisce, una creatura subisce 18 ({@damage 4d8}) danni da freddo dalla spaccatura più 18 ({@damage 4d8}) danni psichici dal tentacolo e mantiene la condizione {@condition stunned} per 1 minuto. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni. Una creatura {@condition stunned} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -2604,7 +2604,7 @@
 				{
 					"name": "Warp Reality",
 					"entries": [
-						"When hit by an attack roll, the mind flayer gains a +4 bonus to its AC against that attack roll, potentially causing it to miss. Then the mind flayer, along with any equipment it is wearing or carrying, magically teleports up to 60 feet to an unoccupied space it can see."
+						"Quando viene colpito da un tiro per colpire, il mind flayer ottiene un bonus di +4 alla sua CA contro quel tiro per colpire, facendolo potenzialmente fallire. Quindi il mind flayer, insieme a qualsiasi equipaggiamento che indossa o trasporta, si teletrasporta magicamente fino a 18 metri in uno spazio non occupato che può vedere."
 					]
 				}
 			],
@@ -2666,7 +2666,7 @@
 						"items": {
 							"name": "Mind Blast {@recharge 5}",
 							"entries": [
-								"The nothic magically emits psychic energy in a 30-foot cone. Each creature in that area must succeed on a {@dc 12} Intelligence saving throw or take 10 ({@damage 2d8 + 1}) psychic damage and have the {@condition stunned} condition until the end of its next turn."
+								"Il nochic emette magicamente energia psichica in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un tiro salvezza su Intelligenza {@dc 12} o subire 10 ({@damage 2d8 + 1}) danni psichici e avere la condizione {@condition stunned} fino alla fine del suo turno successivo."
 							]
 						}
 					}
@@ -2739,7 +2739,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mind flayer casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 16}):"
+						"Il mind flayer lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 16}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -2761,13 +2761,13 @@
 				{
 					"name": "Awareness",
 					"entries": [
-						"The mind flayer has advantage on initiative rolls and can't be surprised as long as it doesn't have the {@condition incapacitated} condition."
+						"Il mind flayer ha vantaggio sui tiri di iniziativa e non può essere sorpreso finché non ha la condizione {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The mind flayer has advantage on saving throws against spells and other magical effects."
+						"Il mind flayer dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -2775,19 +2775,19 @@
 				{
 					"name": "Tentacles",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one creature. {@h}16 ({@damage 2d10 + 5}) psychic damage. If the target is Medium or smaller, it has the {@condition grappled} condition (escape {@dc 16}) and must succeed on a {@dc 16} Intelligence saving throw or have the {@condition stunned} condition until the grapple ends."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, una creatura. {@h}16 ({@damage 2d10 + 5}) danni psichici. Se il bersaglio è di taglia Media o inferiore, ha la condizione {@condition grappled} (fuga {@dc 16}) e deve riuscire un tiro salvezza su Intelligenza {@dc 16} o avere la condizione {@condition stunned} fino al termine della presa."
 					]
 				},
 				{
 					"name": "Extract Brain",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one Humanoid {@condition grappled} by the mind flayer. {@h}55 ({@damage 10d10}) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills it by extracting and devouring its brain."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un umanoide {@condition grappled} dal mind flayer. {@h}55 ({@damage 10d10}) danni perforanti. Se questo danno riduce il bersaglio a 0 punti ferita, il mind flayer lo uccide estraendo e divorandone il cervello."
 					]
 				},
 				{
 					"name": "Mind Whip {@recharge 5}",
 					"entries": [
-						"The mind flayer lashes out with psychic energy, targeting up to two creatures it can see within 60 feet of itself. Each target must succeed on a {@dc 16} Intelligence saving throw or take 23 ({@damage 4d8 + 5}) psychic damage and have the {@condition stunned} condition for 1 minute. A {@condition stunned} target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Il mind flayer scaglia energia psichica, prendendo di mira fino a due creature che può vedere entro 18 metri da sé. Ogni bersaglio deve riuscire un tiro salvezza su Intelligenza {@dc 16} o subire 23 ({@damage 4d8 + 5}) danni psichici e mantenere la condizione {@condition stunned} per 1 minuto. Un bersaglio {@condition stunned} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -2877,7 +2877,7 @@
 						"items": {
 							"name": "Greataxe",
 							"entries": [
-								"{@atk mw} {@hit 10} to hit, reach 5 ft., one target. {@h}19 ({@damage 2d12 + 6}) slashing damage; if the target is an Aberration, it takes an additional 6 ({@damage 1d12}) slashing damage, and if it is grappling a creature, it must succeed on a {@dc 15} Strength saving throw or its grapple ends."
+								"{@atk mw} {@hit 10} per colpire, raggiungere 5 piedi, un bersaglio. {@h}19 ({@damage 2d12 + 6}) danni taglienti; se il bersaglio è un'aberrazione, subisce 6 ({@damage 1d12}) danni taglienti aggiuntivi e, se sta afferrando una creatura, deve riuscire in un tiro salvezza di Forza {@dc 15} altrimenti la sua presa termina."
 							]
 						}
 					}
@@ -2951,7 +2951,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Nezznar casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 13} unless otherwise noted):"
+						"Nezznar lancia uno dei seguenti incantesimi, utilizzando Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13} se non diversamente specificato):"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -2977,19 +2977,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Nezznar has a fully charged {@item spider staff|LMoP} (see appendix B)."
+						"Nezznar ha una carica completa {@item spider staff|LMoP} (vedi appendice B)."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Nezznar has advantage on saving throws to avoid or end the {@condition charmed} condition on himself, and magic can't put him to sleep."
+						"Nezznar ha vantaggio ai tiri salvezza per evitare o porre fine alla condizione {@condition charmed} su se stesso, e la magia non può addormentarlo."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"Nezznar has disadvantage on attack rolls while he or his target is in sunlight."
+						"Nezznar ha svantaggio ai tiri per colpire mentre lui o il suo bersaglio sono alla luce del sole."
 					]
 				}
 			],
@@ -2997,13 +2997,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Nezznar makes two Poison Blast attacks."
+						"Nezznar effettua due attacchi con Esplosione Velenosa."
 					]
 				},
 				{
 					"name": "Poison Blast",
 					"entries": [
-						"{@atk ms,rs} {@hit 5} to hit, reach 5 ft. or range 120 ft., one creature. {@h}9 ({@damage 2d8}) poison damage."
+						"{@atk ms,rs} {@hit 5} per colpire, raggiungere 5 piedi o un raggio di 120 piedi, una creatura. {@h}9 ({@damage 2d8}) danni da veleno."
 					]
 				}
 			],
@@ -3155,13 +3155,13 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The oculorb has advantage on saving throws against spells and other magical effects."
+						"L'oculorb dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Watchful Eyes",
 					"entries": [
-						"The oculorb has advantage on initiative rolls and can't be surprised."
+						"L'oculorb ha vantaggio sui tiri di iniziativa e non può essere sorpreso."
 					]
 				}
 			],
@@ -3169,37 +3169,37 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The oculorb makes two Dreadful Contact attacks or four Eye Beam attacks."
+						"L'oculorb effettua due attacchi con Contatto Terrificante o quattro attacchi con Raggio Oculare."
 					]
 				},
 				{
 					"name": "Dreadful Contact",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}14 ({@damage 3d6 + 4}) psychic damage, or 25 ({@damage 6d6 + 4}) psychic damage if the target has the {@condition frightened} condition."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}14 ({@damage 3d6 + 4}) danni psichici o 25 ({@damage 6d6 + 4}) danni psichici se il bersaglio ha la condizione {@condition frightened}."
 					]
 				},
 				{
 					"name": "Eye Beam",
 					"entries": [
-						"{@atk rs} {@hit 8} to hit, range 120 ft., one creature. {@h}14 ({@damage 3d6 + 4}) psychic damage."
+						"{@atk rs} {@hit 8} per colpire, portata 120 piedi, una creatura. {@h}14 ({@damage 3d6 + 4}) danni psichici."
 					]
 				},
 				{
 					"name": "Antipathic Flood {@recharge 5}",
 					"entries": [
-						"The oculorb releases a wave of negative emotions, choosing one of the following options:"
+						"L'oculorb rilascia un'ondata di emozioni negative, scegliendo una delle seguenti opzioni:"
 					]
 				},
 				{
 					"name": "Weeping Eyes",
 					"entries": [
-						"The oculorb weeps, releasing a wave of crushing despair. Each creature within 30 feet of the oculorb must make a {@dc 16} Constitution saving throw. On a failed save, a creature's speed is reduced to 0 feet until the end of the oculorb's next turn, and if the creature was {@status concentration||concentrating}, its {@status concentration} is broken."
+						"L'oculorb piange, liberando un'ondata di schiacciante disperazione. Ogni creatura entro 9 metri dall'oculorb deve effettuare un tiro salvezza su Costituzione {@dc 16}. Se il tiro salvezza fallisce, la velocità di una creatura viene ridotta a 0 piedi fino alla fine del turno successivo dell'oculorb e, se la creatura era {@status concentration||concentrating}, il suo {@status concentration} viene rotto."
 					]
 				},
 				{
 					"name": "Withering Glare",
 					"entries": [
-						"The oculorb's eyes unleash furious scarlet energy in a 60-foot cone. Each creature in that area must make a {@dc 16} Wisdom saving throw. On a failed save, a creature takes 33 ({@damage 6d10}) necrotic damage and has the {@condition frightened} condition for 1 minute. On a successful save, a creature takes half as much damage and isn't {@condition frightened}. A {@condition frightened} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save."
+						"Gli occhi dell'oculorb rilasciano una furiosa energia scarlatta in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza su Saggezza {@dc 16}. Se il tiro salvezza fallisce, una creatura subisce 33 ({@damage 6d10}) danni necrotici e mantiene la condizione {@condition frightened} per 1 minuto. Se il tiro salvezza riesce, una creatura subisce la metà dei danni e non lo subisce {@condition frightened}. Una creatura {@condition frightened} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa se il tiro salvezza riesce."
 					]
 				}
 			],
@@ -3207,7 +3207,7 @@
 				{
 					"name": "Obsessive Rebuke",
 					"entries": [
-						"When the oculorb is damaged by a creature it can see within 60 feet of itself, it forces the creature to make a {@dc 16} Wisdom saving throw. The creature takes 10 ({@damage 3d6}) psychic damage on a failed save, or half as much damage on a successful one."
+						"Quando l'oculorb viene danneggiato da una creatura che può vedere entro 60 piedi da sé, costringe la creatura a effettuare un tiro salvezza su Saggezza {@dc 16}. La creatura subisce 10 ({@damage 3d6}) danni psichici se fallisce il tiro salvezza, o la metà di questi danni se lo supera."
 					]
 				}
 			],
@@ -3353,7 +3353,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Oshundo casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 16}):"
+						"Oshundo lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 16}):"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -3381,7 +3381,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Oshundo has advantage on saving throws against spells and other magical effects."
+						"Oshundo ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -3389,25 +3389,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Oshundo makes two Chilling Grasp or Arcane Bolt attacks."
+						"Oshundo effettua due attacchi Presa Gelida o Dardo Arcano."
 					]
 				},
 				{
 					"name": "Chilling Grasp",
 					"entries": [
-						"{@atk ms} {@hit 8} to hit, reach 5 ft., one target. {@h}14 ({@damage 4d6}) cold damage, and Oshundo regains 14 hit points if the target is a creature."
+						"{@atk ms} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}14 ({@damage 4d6}) danni da freddo e Oshundo recupera 14 punti ferita se il bersaglio è una creatura."
 					]
 				},
 				{
 					"name": "Arcane Bolt",
 					"entries": [
-						"{@atk rs} {@hit 8} to hit, range 120 ft., one target. {@h}28 ({@damage 8d6}) force damage."
+						"{@atk rs} {@hit 8} per colpire, portata 120 piedi, un bersaglio. {@h}28 ({@damage 8d6}) danni fisici."
 					]
 				},
 				{
 					"name": "Thundering Blast {@recharge 5}",
 					"entries": [
-						"Oshundo emits a wave of domineering energy in a 60-foot cone. Each creature in that area must succeed on a {@dc 16} Intelligence saving throw or take 22 ({@damage 4d8 + 4}) thunder damage and have the {@condition stunned} condition for 1 minute. A {@condition stunned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Oshundo emette un'ondata di energia prepotente in un cono di 18 metri. Ogni creatura in quell'area deve riuscire un tiro salvezza su Intelligenza {@dc 16} o subire 22 ({@damage 4d8 + 4}) danni da tuono e mantenere la condizione {@condition stunned} per 1 minuto. Una creatura {@condition stunned} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -3415,7 +3415,7 @@
 				{
 					"name": "Negate Spell (3/Day)",
 					"entries": [
-						"Oshundo targets one creature it can perceive within 60 feet of itself that is casting a spell. If the spell is 3rd level or lower, the spell fails, but any spell slots or charges aren't wasted."
+						"Oshundo prende di mira una creatura che può percepire entro 18 metri da sé e che sta lanciando un incantesimo. Se l'incantesimo è di 3° livello o inferiore, l'incantesimo fallisce, ma eventuali slot incantesimo o cariche non vengono sprecati."
 					]
 				}
 			],
@@ -3520,7 +3520,7 @@
 				{
 					"name": "Virulent Breath",
 					"entries": [
-						"Noxious gas from the mutate's digestion of previous meals spews from its mouth. At the start of the mutate's turn, each creature within 5 feet of it must succeed on a {@dc 15} Constitution saving throw or take 3 ({@damage 1d6}) poison damage."
+						"Il gas nocivo derivante dalla digestione dei pasti precedenti del mutato fuoriesce dalla sua bocca. All'inizio del turno del mutante, ogni creatura entro 5 piedi da esso deve riuscire un tiro salvezza su Costituzione {@dc 15} o subire 3 ({@damage 1d6}) danni da veleno."
 					]
 				}
 			],
@@ -3528,25 +3528,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The mutate makes two Bite or Tentacle attacks. It can replace one of these attacks with Chitin Slam."
+						"Il mutato effettua due attacchi con morso o tentacolo. Può sostituire uno di questi attacchi con Chitin Slam."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d8 + 4}) piercing damage. If the target is a creature, it must succeed on a {@dc 15} Constitution saving throw or have the {@condition poisoned} condition. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 ({@dice 1d10}) on a failure. On a successful save, the target is no longer {@condition poisoned}. The target dies if its hit point maximum is reduced to 0. This reduction to the target's hit point maximum lasts until it no longer has the {@condition poisoned} condition."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni perforanti. Se il bersaglio è una creatura, deve riuscire un tiro salvezza su Costituzione {@dc 15} o avere la condizione {@condition poisoned}. Ogni 24 ore che trascorrono, il bersaglio deve ripetere il tiro salvezza, riducendo i suoi punti ferita massimi di 5 ({@dice 1d10}) in caso di fallimento. In caso di salvataggio riuscito, il bersaglio non è più {@condition poisoned}. Il bersaglio muore se i suoi punti ferita massimi vengono ridotti a 0. Questa riduzione dei punti ferita massimi del bersaglio dura finché non ha più la condizione {@condition poisoned}."
 					]
 				},
 				{
 					"name": "Tentacle",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 10 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning damage, and if the target is a Medium or smaller creature, it has the {@condition grappled} condition (escape {@dc 15}) and the {@condition restrained} condition until this grapple ends. The mutate has two tentacles that can grapple one target each."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 10 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni contundenti e, se il bersaglio è una creatura di taglia Media o inferiore, ha la condizione {@condition grappled} (fuga {@dc 15}) e la condizione {@condition restrained} fino al termine della presa. Il mutante ha due tentacoli che possono afferrare un bersaglio ciascuno."
 					]
 				},
 				{
 					"name": "Chitin Slam",
 					"entries": [
-						"The mutate targets one creature it is grappling, slamming the creature against its chitinous plating. The creature must succeed on a {@dc 15} Constitution saving throw or take 16 ({@damage 3d10}) bludgeoning damage and have the {@condition stunned} condition until the end of the mutate's next turn."
+						"Il mutante prende di mira una creatura con cui sta afferrando, sbattendola contro la sua placca chitinosa. La creatura deve riuscire un tiro salvezza su Costituzione {@dc 15} o subire 16 ({@damage 3d10}) danni contundenti e avere la condizione {@condition stunned} fino alla fine del turno successivo della mutazione."
 					]
 				}
 			],
@@ -3646,7 +3646,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The ashenwight casts one of the following spells, requiring no spellcasting components and using Intelligence as the spellcasting ability (spell save {@dc 14}):"
+						"Lo spettro delle ceneri lancia uno dei seguenti incantesimi, senza richiedere componenti per lanciare incantesimi e utilizzando l'Intelligenza come capacità di lanciare incantesimi (salvataggio incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell mage hand} (the hand is invisible)"
@@ -3664,19 +3664,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The ashenwight makes two Necrotic Shard attacks. It also uses Psionic Crown if available."
+						"Lo spettro delle ceneri effettua due attacchi con la Scheggia Necrotica. Utilizza anche la corona psionica se disponibile."
 					]
 				},
 				{
 					"name": "Necrotic Shard",
 					"entries": [
-						"{@atk mw,rw} {@hit 7} to hit, reach 5 ft. or range 60 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage plus 9 ({@damage 2d8}) necrotic damage. If the target is a creature, it has disadvantage on the next attack roll it makes before the end of its next turn."
+						"{@atk mw,rw} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni perforanti più 9 ({@damage 2d8}) danni necrotici. Se il bersaglio è una creatura, ha svantaggio al successivo tiro per colpire che effettua prima della fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Psionic Crown {@recharge 5}",
 					"entries": [
-						"The ashenwight wreathes the head of a creature it can see within 60 feet of itself with a crown of jagged, spectral crystals. The target must succeed on a {@dc 14} Wisdom saving throw or have the {@condition charmed} condition for 1 minute. While {@condition charmed} in this way, the target's thoughts are sluggish; it can't take reactions, its speed is halved, and it takes 9 ({@damage 2d8}) psychic damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Lo spettro cinereo avvolge la testa di una creatura che può vedere entro 18 metri da sé con una corona di cristalli spettrali frastagliati. Il bersaglio deve riuscire un tiro salvezza su Saggezza {@dc 14} o mantenere la condizione {@condition charmed} per 1 minuto. Mentre {@condition charmed} in questo modo, i pensieri del bersaglio sono lenti; non può effettuare reazioni, la sua velocità è dimezzata e subisce 9 ({@damage 2d8}) danni psichici all'inizio di ciascuno dei suoi turni. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -3726,7 +3726,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The shambling mound casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 8}):"
+						"Il tumulo barcollante lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 8}):"
 					],
 					"will": [
 						"{@spell minor illusion}"
@@ -3816,7 +3816,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Qunbraxel casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 16}):"
+						"Qunbraxel lancia uno dei seguenti incantesimi, senza richiedere componenti di incantesimo e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 16}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -3845,7 +3845,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Qunbraxel has advantage on saving throws against spells and other magical effects."
+						"Qunbraxel dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -3853,31 +3853,31 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Qunbraxel makes two Eldritch Bolt attacks, or one Eldritch Bolt attack and one Tentacle attack."
+						"Qunbraxel effettua due attacchi con Dardo Eldritch o un attacco con Dardo Eldritch e un attacco con Tentacolo."
 					]
 				},
 				{
 					"name": "Tentacle",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one creature. {@h}15 ({@damage 2d10 + 4}) psychic damage. If the target is Medium or smaller, it has the {@condition grappled} condition (escape {@dc 16}) and must succeed on a {@dc 16} Intelligence saving throw or have the {@condition stunned} condition until the grapple ends."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, una creatura. {@h}15 ({@damage 2d10 + 4}) danni psichici. Se il bersaglio è di taglia Media o inferiore, ha la condizione {@condition grappled} (fuga {@dc 16}) e deve riuscire un tiro salvezza su Intelligenza {@dc 16} o avere la condizione {@condition stunned} fino al termine della presa."
 					]
 				},
 				{
 					"name": "Eldritch Bolt",
 					"entries": [
-						"{@atk rs} {@hit 8} to hit, range 120 ft., one target. {@h}20 ({@damage 3d10 + 4}) force damage."
+						"{@atk rs} {@hit 8} per colpire, portata 120 piedi, un bersaglio. {@h}20 ({@damage 3d10 + 4}) danni fisici."
 					]
 				},
 				{
 					"name": "Extract Brain",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one Humanoid with the {@condition stunned} condition who is {@condition grappled} by Qunbraxel. {@h}55 ({@damage 10d10}) piercing damage. If this damage reduces the target to 0 hit points, Qunbraxel kills it by extracting and devouring its brain."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un umanoide con la condizione {@condition stunned} che è {@condition grappled} di Qunbraxel. {@h}55 ({@damage 10d10}) danni perforanti. Se questo danno riduce il bersaglio a 0 punti ferita, Qunbraxel lo uccide estraendo e divorandone il cervello."
 					]
 				},
 				{
 					"name": "Mind Blast {@recharge 5}",
 					"entries": [
-						"Qunbraxel magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a {@dc 16} Intelligence saving throw or take 26 ({@damage 5d8 + 4}) psychic damage and have the {@condition stunned} condition for 1 minute. A {@condition stunned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Qunbraxel emette magicamente energia psichica in un cono di 18 metri. Ogni creatura in quell'area deve riuscire un tiro salvezza su Intelligenza {@dc 16} o subire 26 ({@damage 5d8 + 4}) danni psichici e mantenere la condizione {@condition stunned} per 1 minuto. Una creatura {@condition stunned} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -3973,7 +3973,7 @@
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -4088,7 +4088,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The refraction casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 19}):"
+						"La rifrazione lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 19}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -4112,25 +4112,25 @@
 				{
 					"name": "Creature Sense",
 					"entries": [
-						"The refraction is aware of creatures within 100 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's Intelligence score, but can't sense anything else about it. A creature protected by a {@spell mind blank} spell, a {@spell nondetection} spell, or similar magic can't be perceived in this manner."
+						"La rifrazione rileva le creature entro 100 miglia da essa che hanno un punteggio di Intelligenza pari o superiore a 4. Conosce la distanza e la direzione di ciascuna creatura, così come il punteggio di Intelligenza di ciascuna, ma non riesce a percepire nient'altro al riguardo. Una creatura protetta da un incantesimo {@spell mind blank}, un incantesimo {@spell nondetection} o una magia simile non può essere percepita in questo modo."
 					]
 				},
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The refraction can move through other creatures and objects as if they were difficult terrain. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"La rifrazione può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 ({@damage 1d10}) danni da forza se termina il suo turno all'interno di un oggetto."
 					]
 				},
 				{
 					"name": "Legendary Resistance (5/Day)",
 					"entries": [
-						"If the refraction fails a saving throw, it can choose to succeed instead."
+						"Se la rifrazione fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The refraction has advantage on saving throws against spells and other magical effects."
+						"La rifrazione dispone di vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -4138,25 +4138,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The refraction makes two Dissonant Claw attacks."
+						"La rifrazione effettua due attacchi con Artigli Dissonanti."
 					]
 				},
 				{
 					"name": "Dissonant Claw",
 					"entries": [
-						"{@atk mw} {@hit 11} to hit, reach 10 ft. or range 120 ft., one creature. {@h}25 ({@damage 3d12 + 6}) psychic damage. If the target is a creature {@status concentration||concentrating} on a spell, its {@status concentration} is broken."
+						"{@atk mw} {@hit 11} per colpire, raggiungere 10 piedi o un raggio di 120 piedi, una creatura. {@h}25 ({@damage 3d12 + 6}) danni psichici. Se il bersaglio è una creatura {@status concentration||concentrating} su un incantesimo, il suo {@status concentration} viene rotto."
 					]
 				},
 				{
 					"name": "Mind Blast {@recharge 5}",
 					"entries": [
-						"Creatures of the refraction's choice within 60 feet of it must succeed on a {@dc 19} Intelligence saving throw or take 33 ({@damage 5d10 + 6}) psychic damage and have the {@condition stunned} condition for 1 minute. A {@condition stunned} creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Le creature a scelta della rifrazione entro 60 piedi da essa devono riuscire un tiro salvezza su Intelligenza {@dc 19} o subire 33 ({@damage 5d10 + 6}) danni psichici e avere la condizione {@condition stunned} per 1 minuto. Una creatura {@condition stunned} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"The refraction teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied place that it can see."
+						"La rifrazione si teletrasporta, insieme a qualsiasi attrezzatura che indossa o trasporta, fino a 120 piedi in un luogo non occupato che può vedere."
 					]
 				}
 			],
@@ -4164,13 +4164,13 @@
 				{
 					"name": "Mindbreaker",
 					"entries": [
-						"The refraction targets a creature within 120 feet of itself and disrupts its mental processes, causing the target to have disadvantage on all ability checks, attack rolls, and saving throws until the end of the target's next turn."
+						"La rifrazione prende di mira una creatura entro 32 metri da se stessa e interrompe i suoi processi mentali, causando al bersaglio uno svantaggio su tutte le prove di caratteristica, tiri per colpire e tiri salvezza fino alla fine del turno successivo del bersaglio."
 					]
 				},
 				{
 					"name": "Projected Claw (Costs 2 Actions)",
 					"entries": [
-						"The refraction makes one Dissonant Claw attack."
+						"La rifrazione effettua un attacco con Artiglio Dissonante."
 					]
 				}
 			],
@@ -4317,13 +4317,13 @@
 				{
 					"name": "Legendary Resistance (2/Day)",
 					"entries": [
-						"When Ruxithid fails a saving throw, he can choose to succeed instead."
+						"Quando Ruxithid fallisce un tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Mental Fortitude",
 					"entries": [
-						"Ruxithid has advantage on saving throws against the {@condition charmed} and {@condition frightened} conditions."
+						"Ruxithid ha vantaggio ai tiri salvezza contro le condizioni {@condition charmed} e {@condition frightened}."
 					]
 				}
 			],
@@ -4331,13 +4331,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ruxithid makes two Psi-Charged Scimitar attacks."
+						"Ruxithid effettua due attacchi con la Scimitarra caricata Psi."
 					]
 				},
 				{
 					"name": "Psi-Charged Scimitar",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage plus 7 ({@damage 2d6}) psychic damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni taglienti più 7 ({@damage 2d6}) danni psichici."
 					]
 				}
 			],
@@ -4345,13 +4345,13 @@
 				{
 					"name": "Brain Tendrils {@recharge 5}",
 					"entries": [
-						"Ruxithid unleashes a flurry of crystalline psychic tendrils from his brain, targeting one creature that he can see within 30 feet of himself. The target must succeed on a {@dc 15} Dexterity saving throw or take 9 ({@damage 2d8}) psychic damage and have the {@condition stunned} condition until the start of Ruxithid's next turn."
+						"Ruxithid scatena una raffica di tentacoli psichici cristallini dal suo cervello, prendendo di mira una creatura che può vedere entro 9 metri da lui. Il bersaglio deve riuscire un tiro salvezza su Destrezza {@dc 15} o subire 9 ({@damage 2d8}) danni psichici e avere la condizione {@condition stunned} fino all'inizio del turno successivo di Ruxithid."
 					]
 				},
 				{
 					"name": "Combat Command",
 					"entries": [
-						"Ruxithid commands one allied creature he can see within 60 feet of himself to strike. The creature can immediately use its reaction to make one melee weapon attack against a target within its reach."
+						"Ruxithid ordina a una creatura alleata che può vedere entro 18 metri da sé di colpire. La creatura può usare immediatamente la sua reazione per effettuare un attacco con arma da mischia contro un bersaglio alla sua portata."
 					]
 				}
 			],
@@ -4464,19 +4464,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Sildar makes two Longsword attacks."
+						"Sildar effettua due attacchi con la spada lunga."
 					]
 				},
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage, or 6 ({@damage 1d10 + 1}) slashing damage if used with two hands."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danni da taglio o 6 ({@damage 1d10 + 1}) danni da taglio se usato con due mani."
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 2} to hit, range 100/400 ft., one target. {@h}5 ({@damage 1d10}) piercing damage."
+						"{@atk rw} {@hit 2} da colpire, portata 100/400 piedi, un bersaglio. {@h}5 ({@damage 1d10}) danno perforante."
 					]
 				}
 			],
@@ -4484,7 +4484,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"When an attacker Sildar can see would hit him with a melee attack, he can roll a {@dice d6} and add the number rolled to his AC against the triggering attack, provided he's wielding a melee weapon."
+						"Quando un attaccante che Sildar può vedere lo colpirà con un attacco in mischia, può tirare un {@dice d6} e aggiungere il numero ottenuto alla sua CA contro l'attacco innescante, a condizione che stia impugnando un'arma da mischia."
 					]
 				}
 			],

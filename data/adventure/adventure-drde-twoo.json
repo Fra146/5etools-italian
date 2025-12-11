@@ -19,9 +19,9 @@
 					"name": "Dragons in Dungeons",
 					"id": "001",
 					"entries": [
-						"Nothing is more quintessentially Dungeons & Dragons than gathering a group of heroes to face a mighty dragon in a mysterious dungeon. These classic elements link players across time and space, from the first adventurers who forayed into the gloom more than 50 years ago to players beginning their first adventure now.",
-						"{@i Dragon Delves} is a celebration of this shared tradition. Each of the ten adventures in this book features a dragon in a lair. Designed for characters of levels 1 through 12, the adventures offer a range of challenges, from defeating evil dragons to working with good dragons, as well as navigating more complicated moral dilemmas. The dungeons where the dragons make their lairs range from cavern complexes to ruined cities and more.",
-						"Where there are dragons in dungeons, there's always adventure!"
+						"Non c'è niente di più tipico di Dungeons & Dragons che riunire un gruppo di eroi per affrontare un potente drago in un misterioso dungeon. Questi elementi classici collegano i giocatori attraverso il tempo e lo spazio, dai primi avventurieri che fecero incursioni nell'oscurità più di 50 anni fa ai giocatori che iniziano ora la loro prima avventura.",
+						"{@i Dragon Delves} è una celebrazione di questa tradizione condivisa. Ognuna delle dieci avventure di questo libro presenta un drago in una tana. Progettate per personaggi di livello da 1 a 12, le avventure offrono una serie di sfide, dallo sconfiggere i draghi malvagi alla collaborazione con i draghi buoni, oltre ad affrontare dilemmi morali più complicati. I sotterranei in cui i draghi costruiscono le loro tane vanno da complessi di caverne a città in rovina e altro ancora.",
+						"Dove ci sono draghi nei sotterranei, c'è sempre avventura!"
 					]
 				},
 				{
@@ -29,14 +29,14 @@
 					"name": "Using This Book",
 					"id": "002",
 					"entries": [
-						"The adventures in an anthology such as {@i Dragon Delves} are versatile resources that can fill a variety of needs at your gaming table: as one-shot adventures, as \"filler episodes\" in an ongoing campaign, or as a series that forms a campaign, bringing characters from level 1 to a climactic conclusion at level 12.",
-						"These adventures are designed to require minimal preparation (see {@area Running the Adventures|009|x} later in this introduction).",
+						"Le avventure in un'antologia come {@i Dragon Delves} sono risorse versatili che possono soddisfare una varietà di esigenze sul tuo tavolo da gioco: come avventure one-shot, come \"episodi di riempimento\" in una campagna in corso o come serie che forma una campagna, portando i personaggi dal livello 1 a una conclusione culminante al livello 12.",
+						"Queste avventure sono progettate per richiedere una preparazione minima (vedi {@area Running the Adventures|009|x} più avanti in questa introduzione).",
 						{
 							"type": "entries",
 							"name": "One-Shot Adventure",
 							"id": "003",
 							"entries": [
-								"Maybe you're normally a player in an ongoing campaign, but you want to try your hand at being the Dungeon Master. Maybe you're trying to pull a new group together, and you want to see how all the players get along before you start a whole campaign. Maybe your regular DM is sick or has a scheduling conflict, but everyone else is ready to play. Or maybe your group needs a break or a diversion from the ongoing campaign. In any of these cases, you can pick an adventure from this book and run it."
+								"Forse normalmente sei un giocatore in una campagna in corso, ma vuoi provare a diventare il Dungeon Master. Forse stai cercando di mettere insieme un nuovo gruppo e vuoi vedere come vanno d'accordo tutti i giocatori prima di iniziare un'intera campagna. Forse il tuo DM abituale è malato o ha un conflitto di programmazione, ma tutti gli altri sono pronti a giocare. O forse il tuo gruppo ha bisogno di una pausa o di un diversivo dalla campagna in corso. In ognuno di questi casi, puoi scegliere un'avventura da questo libro ed eseguirla."
 							]
 						},
 						{
@@ -44,7 +44,7 @@
 							"name": "In an Ongoing Campaign",
 							"id": "004",
 							"entries": [
-								"Maybe your players' characters know what they have to do to foil the evil boss's plans, but they're not quite high enough level to accomplish their goal. Or they've just hit a significant milestone in the campaign, and you want to give them a change of pace before they get immersed in the next act of the unfolding drama. Or they're traveling halfway around the world, and you're looking for something to keep the journey interesting\u2014a little adventure along the way. Or you're not prepared for the next adventure, and you need a diversion! In any of these cases, you can pick an adventure from this book to serve as a \"filler\" episode or side quest in the ongoing campaign.",
+								"Forse i personaggi dei tuoi giocatori sanno cosa devono fare per sventare i piani del boss malvagio, ma non sono di livello abbastanza alto per raggiungere il loro obiettivo. Oppure hanno appena raggiunto un traguardo significativo nella campagna e vuoi dare loro un cambio di ritmo prima che si immergano nell'atto successivo del dramma in corso. Oppure stanno viaggiando dall'altra parte del mondo e tu stai cercando qualcosa per rendere il viaggio interessante: una piccola avventura lungo il percorso. Oppure non sei preparato per la prossima avventura e hai bisogno di un diversivo! In ognuno di questi casi, puoi scegliere un'avventura da questo libro da utilizzare come episodio \"riempitivo\" o missione secondaria nella campagna in corso.",
 								{
 									"type": "image",
 									"href": {
@@ -54,8 +54,8 @@
 									"width": 850,
 									"height": 2286
 								},
-								"When the characters are the appropriate level for the adventure you wish to run, simply narrate how the characters end up in the adventure's locale. Each adventure's beginning includes a simple setting description, such as \"a village with a nearby forest.\" Beyond these basic details, feel free to alter the adventure's location to match your campaign.",
-								"But if you do have time to prepare, you can incorporate the adventure you're running into the themes and threats of your campaign. You can alter the names of people and places in the adventure to fit better into your world, link the adventure villains to organizations and events that are important in your campaign, and plant clues to the themes of your campaign in the dragon's treasure hoard."
+								"Quando i personaggi sono al livello appropriato per l'avventura che desideri svolgere, racconta semplicemente come i personaggi finiscono nel luogo dell'avventura. L'inizio di ogni avventura include una semplice descrizione dell'ambientazione, come \"un villaggio con una foresta vicina\". Oltre a questi dettagli di base, sentiti libero di modificare il luogo dell'avventura per adattarlo alla tua campagna.",
+								"Ma se hai tempo per prepararti, puoi incorporare l'avventura che stai affrontando nei temi e nelle minacce della tua campagna. Puoi modificare i nomi delle persone e dei luoghi dell'avventura per adattarli meglio al tuo mondo, collegare i cattivi dell'avventura a organizzazioni ed eventi importanti nella tua campagna e piantare indizi sui temi della tua campagna nel tesoro del drago."
 							]
 						}
 					]
@@ -65,15 +65,15 @@
 					"name": "Creating a Campaign",
 					"id": "005",
 					"entries": [
-						"These adventures can be strung together as a complete dragon-themed campaign. Simply guide your players through the adventures in the order presented in this book and award story-based level advancement at each adventure's end, so their characters are the appropriate level for the next challenge they'll face. (No level advancement is necessary before the final adventure.) You can also use one of the following narrative frameworks to connect the adventures to one another.",
+						"Queste avventure possono essere messe insieme come una campagna completa a tema drago. Guida semplicemente i tuoi giocatori attraverso le avventure nell'ordine presentato in questo libro e premia l'avanzamento di livello basato sulla storia alla fine di ogni avventura, in modo che i loro personaggi raggiungano il livello appropriato per la prossima sfida che dovranno affrontare. (Non è necessario alcun avanzamento di livello prima dell'avventura finale.) Puoi anche utilizzare una delle seguenti strutture narrative per collegare le avventure tra loro.",
 						{
 							"type": "entries",
 							"name": "Option 1: Mysterious Patron",
 							"id": "006",
 							"entries": [
-								"Have a friendly patron whose true identity is somewhat mysterious befriend the adventurers early in their careers and send them on each adventure in sequence. The patron might be a charismatic young monk, a kindly teacher, a diminutive scamp, or a scatter-brained elder, and might or might not be accompanied by seven golden canaries or dazzling yellow butterflies, which are actually ancient gold dragons in disguise\u2014the companions of the dragon god Bahamut, which is the patron's true identity.",
-								"Perhaps foreseeing that they are destined to become mighty heroes, Bahamut takes the adventurers under his metaphorical wing and sends them on adventures to deal with draconic concerns, great and small, across the world. The patron might feign surprise when an adventure that doesn't at first seem to involve a dragon (such as \"{@adventure The Will of Orcus|DrDe-TWoO|1},\" chapter 3) turns out to revolve around one, but of course that's exactly the reason Bahamut sent the characters to investigate.",
-								"You can use each adventure as written, with the characters' patron steering them in the general direction of the adventure hook without spoiling any surprises in the adventure ahead. Alternatively, the patron could let the characters in on the secret early on, telling them that dragons will be a particular focus of their adventures and altering some of the adventure hooks along the way."
+								"Chiedi a un mecenate amichevole la cui vera identità è alquanto misteriosa di fare amicizia con gli avventurieri all'inizio della loro carriera e di inviarli in ogni avventura in sequenza. Il patrono potrebbe essere un giovane monaco carismatico, un insegnante gentile, un minuscolo furfante o un anziano sventato, e potrebbe o meno essere accompagnato da sette canarini dorati o abbaglianti farfalle gialle, che in realtà sono antichi draghi d'oro sotto mentite spoglie: i compagni del dio drago Bahamut, che è la vera identità del patrono.",
+								"Forse prevedendo che sarebbero destinati a diventare potenti eroi, Bahamut prende gli avventurieri sotto la sua metaforica ala protettrice e li manda all'avventura per affrontare problemi draconiani, grandi e piccoli, in tutto il mondo. Il cliente potrebbe fingere sorpresa quando un'avventura che a prima vista non sembra coinvolgere un drago (come \"{@adventure The Will of Orcus|DrDe-TWoO|1}\" capitolo 3) si scopre che ruota attorno a uno di essi, ma ovviamente questo è esattamente il motivo per cui Bahamut ha inviato i personaggi a indagare.",
+								"Puoi utilizzare ogni avventura così come è scritta, con il patrono dei personaggi che li guida nella direzione generale dell'avventura senza rovinare alcuna sorpresa nell'avventura successiva. In alternativa, il mecenate potrebbe far conoscere il segreto ai personaggi fin dall'inizio, dicendo loro che i draghi saranno il fulcro particolare delle loro avventure e alterando alcuni degli agganci dell'avventura lungo il percorso."
 							]
 						},
 						{
@@ -81,8 +81,8 @@
 							"name": "Option 2: Brazen Egg",
 							"id": "007",
 							"entries": [
-								"Begin the campaign with the introductory encounter of chapter 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1},\" ending with Eldemere entrusting the Brazen Egg to the characters. Eldemere's instructions are different, though: she explains that the egg must be \"steeped\" in the hoards of ten dragons, one of each chromatic and metallic kind, to activate its power. She also suggests that the egg will lead the characters toward suitable hoards. In fact, any character who sleeps within 15 feet of the egg has vivid dreams leading them toward the start of the next adventure.",
-								"To draw power from a dragon's hoard, the egg must spend 8 hours in the midst of the treasure, covered with coins and surrounded by other items. However, as soon as the empowered egg is brought within Anthradusk's hoard chamber ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} in chapter 10), it reaches its full potential and begins to crack open, as described in that adventure."
+								"Inizia la campagna con l'incontro introduttivo del capitolo 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1}\", che termina con Eldemere che affida l'Uovo di Bronzo ai personaggi. Le istruzioni di Eldemere sono diverse, però: spiega che l'uovo deve essere \"immerso\" nelle orde di dieci draghi, uno per ogni tipo cromatico e metallico, per attivare il suo potere. Suggerisce anche che l'uovo condurrà i personaggi verso i tesori adatti. In effetti, qualsiasi personaggio che dorme entro 15 piedi dall'uovo fa sogni vividi che lo portano verso l'inizio della prossima avventura.",
+								"Per trarre potere dal tesoro di un drago, l'uovo deve trascorrere 8 ore in mezzo al tesoro, coperto di monete e circondato da altri oggetti. Tuttavia, non appena l'uovo potenziato viene portato nella camera del tesoro di Anthradusk ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} nel capitolo 10), raggiunge il suo pieno potenziale e inizia ad aprirsi, come descritto in quell'avventura."
 							]
 						},
 						{
@@ -90,7 +90,7 @@
 							"name": "Option 3: Hoard Magic Items",
 							"id": "008",
 							"entries": [
-								"If you have {@book Fizban's Treasury of Dragons|FTD|4}, the hoard of magic items described in that book can provide an incentive for characters to seek out dragons of increasing power and different kinds. Add the following items to the rewards acquired in the first three adventures: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1},\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1},\" and a {@item Dragon's Wrath Weapon|FTD} and a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" All four items are Slumbering when the characters first acquire them, but in later adventures, the items can be awakened by steeping them in dragons' hoards."
+								"Se hai {@book Fizban's Treasury of Dragons|FTD|4}, il tesoro di oggetti magici descritti in quel libro può fornire un incentivo ai personaggi a cercare draghi di crescente potenza e di diverso tipo. Aggiungi i seguenti oggetti alle ricompense acquisite nelle prime tre avventure: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1}\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1}\" e a {@item Dragon's Wrath Weapon|FTD} e a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" Tutti e quattro gli oggetti sono addormentati quando i personaggi li acquisiscono per la prima volta, ma nelle avventure successive gli oggetti possono essere risvegliati immergendoli nei tesori dei draghi."
 							]
 						}
 					]
@@ -100,14 +100,14 @@
 					"name": "Running the Adventures",
 					"id": "009",
 					"entries": [
-						"To run each of these adventures, you need the fifth edition core rulebooks: the {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|XMM}. Spells and equipment mentioned in the adventures are described in the {@book Player's Handbook|XPHB}. Magic items are detailed in the {@book Dungeon Master's Guide|XDMG}, and monsters appear in the {@book Monster Manual|XMM}.",
-						"The table of contents summarizes the adventures in this anthology. Each adventure is designed for four to six characters of a particular level, but you can adjust for larger or smaller groups by changing the number of foes in an encounter and giving a small group additional resources, as explained in the {@book Dungeon Master's Guide|XDMG}. Each of the adventures can take place in any world you choose, as long as the location has the basic elements listed at the beginning of each adventure.",
+						"Per eseguire ciascuna di queste avventure, sono necessari i regolamenti base della quinta edizione: {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|XMM}. Gli incantesimi e l'equipaggiamento menzionati nelle avventure sono descritti nel {@book Player's Handbook|XPHB}. Gli oggetti magici sono dettagliati in {@book Dungeon Master's Guide|XDMG} e i mostri appaiono in {@book Monster Manual|XMM}.",
+						"Il sommario riassume le avventure di questa antologia. Ogni avventura è progettata per quattro-sei personaggi di un particolare livello, ma puoi adattarti a gruppi più o meno grandi modificando il numero di nemici in un incontro e fornendo a un piccolo gruppo risorse aggiuntive, come spiegato nel {@book Dungeon Master's Guide|XDMG}. Ognuna delle avventure può svolgersi in qualsiasi mondo tu scelga, purché il luogo contenga gli elementi di base elencati all'inizio di ogni avventura.",
 						{
 							"type": "entries",
 							"name": "Preparation",
 							"id": "00a",
 							"entries": [
-								"Every adventure in this book begins with a page that helps you prepare and run the adventure. It includes the following elements:",
+								"Ogni avventura in questo libro inizia con una pagina che ti aiuta a preparare e gestire l'avventura. Comprende i seguenti elementi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -115,17 +115,17 @@
 										{
 											"type": "item",
 											"name": "Key Plot Points",
-											"entry": "A summary of the key elements in the adventure's story"
+											"entry": "Un riassunto degli elementi chiave della storia dell'avventura"
 										},
 										{
 											"type": "item",
 											"name": "Preparation",
-											"entry": "Steps to get yourself ready to run the adventure, including a list of all the stat blocks from the {@book Monster Manual|XMM} you might need"
+											"entry": "Passaggi per prepararti a vivere l'avventura, incluso un elenco di tutti i blocchi delle statistiche del {@book Monster Manual|XMM} di cui potresti aver bisogno"
 										},
 										{
 											"type": "item",
 											"name": "Key NPCs",
-											"entry": "A table summarizing key nonplayer characters in the adventure\u2014their names, roles, stat blocks, and locations\u2014to help you keep track of them during play"
+											"entry": "Una tabella che riassume i principali personaggi non giocanti dell'avventura (i loro nomi, ruoli, blocchi delle statistiche e posizioni) per aiutarti a tenerne traccia durante il gioco"
 										}
 									]
 								}
@@ -136,7 +136,7 @@
 							"name": "Player Assistance",
 							"id": "00b",
 							"entries": [
-								"As described in the {@book Dungeon Master's Guide|XDMG}, you can streamline your role as Dungeon Master by delegating certain tasks to the other players, especially if this is your first time behind the DM's screen. Before play begins, work with the other players to divide any or all of the following tasks among them:",
+								"Come descritto nel {@book Dungeon Master's Guide|XDMG}, puoi semplificare il tuo ruolo di Dungeon Master delegando determinati compiti agli altri giocatori, soprattutto se è la prima volta dietro lo schermo del DM. Prima che il gioco inizi, collabora con gli altri giocatori per dividere tra loro alcuni o tutti i seguenti compiti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,17 +144,17 @@
 										{
 											"type": "item",
 											"name": "Initiative Tracker",
-											"entry": "In combat, one player tracks Initiative for the characters and monsters."
+											"entry": "In combattimento, un giocatore tiene traccia dell'iniziativa dei personaggi e dei mostri."
 										},
 										{
 											"type": "item",
 											"name": "Monster Wranglers",
-											"entry": "Whenever the characters enter combat with Hostile monsters, one or two players run these monsters using the stat blocks in the {@book Monster Manual|XMM}. (Two players can share this role.)"
+											"entry": "Ogni volta che i personaggi entrano in combattimento con mostri ostili, uno o due giocatori gestiscono questi mostri utilizzando i blocchi delle statistiche nel {@book Monster Manual|XMM}. (Due giocatori possono condividere questo ruolo.)"
 										},
 										{
 											"type": "item",
 											"name": "Rules Consultant",
-											"entry": "One player references rules in the {@book Player's Handbook|XPHB} or other books as needed."
+											"entry": "Un giocatore fa riferimento alle regole nel {@book Player's Handbook|XPHB} o in altri libri secondo necessità."
 										}
 									]
 								}
@@ -165,15 +165,15 @@
 							"name": "Adventures for One Character",
 							"id": "00c",
 							"entries": [
-								"While the {@book Dungeon Master's Guide|XDMG} explains how to adjust adventures for different party sizes, three of the adventures (indicated in the table of contents) are particularly well-suited for play with a single adventurer. Each of these adventures includes instructions for ensuring the character faces an appropriate challenge.",
-								"Central to those instructions is the {@i Blessing of the Lone Champion}, a supernatural gift that bolsters the solo character's abilities.",
+								"Mentre il {@book Dungeon Master's Guide|XDMG} spiega come adattare le avventure alle diverse dimensioni del gruppo, tre delle avventure (indicate nel sommario) sono particolarmente adatte per essere giocate con un singolo avventuriero. Ognuna di queste avventure include istruzioni per garantire che il personaggio affronti una sfida adeguata.",
+								"Al centro di queste istruzioni c'è il {@i Blessing of the Lone Champion}, un dono soprannaturale che rafforza le abilità del personaggio solista.",
 								{
 									"type": "statblock",
 									"name": "Blessing of the Lone Champion",
 									"source": "DrDe",
 									"tag": "reward"
 								},
-								"The blessing lasts for the duration of the adventure."
+								"La benedizione dura per tutta la durata dell'avventura."
 							]
 						},
 						{
@@ -181,10 +181,10 @@
 							"name": "A Draconic History",
 							"id": "00e",
 							"entries": [
-								"In addition to ten adventures, this book includes special sections that feature art of each dragon variety, drawing from almost the whole 50-year history of Dungeons & Dragons, from the 1977 Monster Manual to the one published in 2025. The appearance of all ten dragon types has evolved significantly over the past fifty years, but close examination of these images reveals points of continuity as well, from the blue dragon's nose horn to the silver dragon's crest.",
-								"Artist Todd Lockwood spearheaded a thorough revision of all ten dragon types for the release of D&D's third edition in 2000, basing his designs on the anatomy of real-world animals and certain points of continuity with earlier designs. With a few variations, those designs set the standard for D&D's dragons for over 20 years.",
-								"In preparation for the release of the {@book Monster Manual|XMM} (2025), art director Josh Herman led a comprehensive refresh of all the dragon looks as D&D began its second half-century. With the goal of ensuring each dragon's distinct identity\u2014its personality, preferred habitat, and combat style\u2014shines through in its look, this redesign showcases visually what's unique about each type of dragon.",
-								"In the same way, this book highlights how an adventure featuring one kind of dragon can feel distinct from all the others."
+								"Oltre a dieci avventure, questo libro include sezioni speciali che presentano illustrazioni di ciascuna varietà di drago, attingendo da quasi tutti i 50 anni di storia di Dungeons & Dragons, dal Manuale dei Mostri del 1977 a quello pubblicato nel 2025. L'aspetto di tutti e dieci i tipi di drago si è evoluto in modo significativo negli ultimi cinquant'anni, ma un attento esame di queste immagini rivela anche punti di continuità, dal corno nasale del drago blu alla cresta del drago d'argento.",
+								"L'artista Todd Lockwood ha guidato una revisione approfondita di tutti e dieci i tipi di drago per l'uscita della terza edizione di D&D nel 2000, basando i suoi progetti sull'anatomia degli animali del mondo reale e su alcuni punti di continuità con i progetti precedenti. Con poche variazioni, questi design stabiliscono lo standard per i draghi di D&D per oltre 20 anni.",
+								"In preparazione all'uscita di {@book Monster Manual|XMM} (2025), il direttore artistico Josh Herman ha condotto un aggiornamento completo di tutti i look dei draghi mentre D&D iniziava la sua seconda metà di secolo. Con l'obiettivo di garantire che l'identità distinta di ogni drago (la sua personalità, l'habitat preferito e lo stile di combattimento) traspaia nel suo aspetto, questa riprogettazione mostra visivamente ciò che rende unico ogni tipo di drago.",
+								"Allo stesso modo, questo libro evidenzia come un’avventura che abbia come protagonista un tipo di drago possa sembrare distinta da tutti gli altri."
 							]
 						}
 					]
@@ -243,7 +243,7 @@
 					"name": "Key Plot Points",
 					"id": "0cb",
 					"entries": [
-						"The following information is key to the adventure's story:",
+						"Le seguenti informazioni sono fondamentali per la storia dell'avventura:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -251,17 +251,17 @@
 								{
 									"type": "item",
 									"name": "Disturbing Activity",
-									"entry": "An aasimar innkeeper named Oriann Solaris asks the characters to investigate evil cultists who have taken up residence in a nearby temple to Orcus. The cultists have been stealing goods, which Oriann asks the characters to find and return."
+									"entry": "Un locandiere aasimar di nome Oriann Solaris chiede ai personaggi di indagare sui cultisti malvagi che si sono stabiliti in un vicino tempio dedicato a Orcus. I cultisti hanno rubato dei beni, che Oriann chiede ai personaggi di trovare e restituire."
 								},
 								{
 									"type": "item",
 									"name": "Temple Invasion",
-									"entry": "To foil the cultists, the characters must foray into the temple. In so doing, they learn that a silver dragon has been trying to sow division in the cult and keep it from doing too much evil in the world\u2014until heroes arrive who can help the dragon slay the cult's leader."
+									"entry": "Per sventare i cultisti, i personaggi devono fare incursioni nel tempio. Così facendo, apprendono che un drago d'argento ha cercato di seminare divisione nel culto e impedirgli di fare troppo male nel mondo, finché non arrivano degli eroi che possono aiutare il drago a uccidere il leader del culto."
 								},
 								{
 									"type": "item",
 									"name": "Meeting the Dragon",
-									"entry": "If the characters don't prove themselves in battle against the cult, the silver dragon tests them with commands. The characters must either fulfill three commands or realize the dragon's deception. The dragon tells his story if the characters win his trust."
+									"entry": "Se i personaggi non si dimostrano efficaci nella battaglia contro il culto, il drago d'argento li mette alla prova con dei comandi. I personaggi devono eseguire tre comandi o realizzare l'inganno del drago. Il drago racconta la sua storia se i personaggi conquistano la sua fiducia."
 								}
 							]
 						}
@@ -272,7 +272,7 @@
 					"name": "Preparation",
 					"id": "0cc",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -280,22 +280,22 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "Read the \"{@area Adventure Background|0cd|x}\" section."
+									"entry": "Leggi la sezione \"{@area Adventure Background|0cd|x}\"."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Familiarize yourself with the {@adventure Key NPCs|DrDe-TWoO|1|Key NPCs} table below. The characters will interact with these individuals throughout the adventure."
+									"entry": "Acquisisci familiarità con la tabella {@adventure Key NPCs|DrDe-TWoO|1|Key NPCs} riportata di seguito. I personaggi interagiranno con questi individui durante l'avventura."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Make a copy of the {@area Temple Map|0d0|x} handout. (You will share this with the other players shortly after the adventure starts.)"
+									"entry": "Fai una copia del volantino {@area Temple Map|0d0|x}. (Lo condividerai con gli altri giocatori subito dopo l'inizio dell'avventura.)"
 								},
 								{
 									"type": "item",
 									"name": "Step 4",
-									"entry": "Bookmark the following stat blocks in the {@book Monster Manual|XMM} or on D&D Beyond:"
+									"entry": "Aggiungi ai segnalibri i seguenti blocchi di statistiche in {@book Monster Manual|XMM} o su D&D Beyond:"
 								}
 							]
 						},
@@ -339,44 +339,44 @@
 							"rows": [
 								[
 									"Akira Norixius",
-									"Fanatically devout dragonborn cultist",
-									"{@creature Cultist Fanatic|XMM} (Medium, Chaotic Evil)",
+									"Cultista dragonide fanaticamente devoto",
+									"{@creature Cultist Fanatic|XMM} (Medio, Caotico Malvagio)",
 									"{@area T1|0e2|x}"
 								],
 								[
-									"Eleith Brittlebones",
-									"Deluded dwarf cultist",
-									"{@creature Cultist Fanatic|XMM} (Medium, Chaotic Evil)",
+									"Eleith Ossa Fragili",
+									"Cultista nano illuso",
+									"{@creature Cultist Fanatic|XMM} (Medio, Caotico Malvagio)",
 									"{@area T6|0fa|x}"
 								],
 								[
 									"Melindra Vox",
-									"Cult librarian",
-									"{@creature Ghost|XMM} (Chaotic Evil)",
+									"Bibliotecario di culto",
+									"{@creature Ghost|XMM} (Malvagio caotico)",
 									"{@area T6|0fa|x}"
 								],
 								[
 									"Oriann Solaris",
-									"Aasimar innkeeper and quest giver",
-									"{@creature Commoner|XMM} (Medium, Lawful Good)",
+									"Locandiere Aasimar e donatore di missioni",
+									"{@creature Commoner|XMM} (Medio, Legale Buono)",
 									"\"{@area Beginning the Adventure|0ce|x}\""
 								],
 								[
 									"Nezzarum",
-									"Dragon tricking Orcus cultists",
+									"Drago che inganna i cultisti dell'Orcus",
 									"{@creature Silver Dragon Wyrmling|XMM}",
 									"{@area T13|11b|x}"
 								],
 								[
 									"Xia",
-									"Cult leader",
+									"Leader del culto",
 									"{@creature Ghast Gravecaller|XMM}",
 									"{@area T12|117|x}"
 								],
 								[
 									"Yondis Morgrin",
-									"Questioning human cultist",
-									"{@creature Cultist Fanatic|XMM} (Medium, Chaotic Neutral)",
+									"Interrogare il cultista umano",
+									"{@creature Cultist Fanatic|XMM} (Medio, Caotico Neutrale)",
 									"{@area T7|101|x}"
 								]
 							]
@@ -388,10 +388,10 @@
 					"name": "Adventure Background",
 					"id": "0cd",
 					"entries": [
-						"An evil cult has reclaimed an abandoned temple hidden in the mountains. Although time and neglect have taken their toll on the place, the cultists were pleased to find an undamaged statue of Orcus, the Demon Prince of Undeath, in the temple's heart.",
-						"The cult's ghastly leader, Xia, was doubly pleased that she could hear the voice of the demon lord issuing from the statue. Orcus promised to reveal secret knowledge that will make {@area Xia's Cult|0d5|x} a powerful force.",
-						"Unbeknownst to Xia and her fellow cultists, the voice issuing from the statue is not that of Orcus but that of a silver dragon named Nezzarum. Nezzarum was exploring the temple as a possible lair when Xia and her cultists showed up. Using a secret door in the base of the statue, Nezzarum crawled inside the statue. The dragon is using trickery to prevent the cult from doing anything too terrible and to draw possible allies to the temple to help him defeat the cult leader.",
-						"Even as he sends the cult leader on relatively harmless missions to steal goods, he whispers to the non-Undead members of the cult to undermine their loyalty to Xia. The gullible cultists are in disarray, and the characters' arrival sets the stage for the final phase of Nezzarum's plan."
+						"Un culto malvagio ha riconquistato un tempio abbandonato nascosto tra le montagne. Sebbene il tempo e l'incuria abbiano lasciato il segno sul luogo, i cultisti sono stati lieti di trovare una statua intatta di Orcus, il Principe Demone della Non Morte, nel cuore del tempio.",
+						"L'orrendo leader del culto, Xia, fu doppiamente felice di poter sentire la voce del signore dei demoni uscire dalla statua. Orcus ha promesso di rivelare la conoscenza segreta che renderà {@area Xia's Cult|0d5|x} una forza potente.",
+						"All'insaputa di Xia e dei suoi compagni cultisti, la voce che esce dalla statua non è quella di Orcus ma quella di un drago d'argento chiamato Nezzarum. Nezzarum stava esplorando il tempio come possibile rifugio quando Xia e i suoi cultisti si presentarono. Usando una porta segreta alla base della statua, Nezzarum strisciò all'interno della statua. Il drago usa l'inganno per impedire al culto di fare qualcosa di troppo terribile e per attirare possibili alleati nel tempio per aiutarlo a sconfiggere il leader del culto.",
+						"Anche quando invia il leader del culto in missioni relativamente innocue per rubare beni, sussurra ai membri non morti del culto di minare la loro lealtà verso Xia. Gli ingenui cultisti sono allo sbando e l'arrivo dei personaggi pone le basi per la fase finale del piano di Nezzarum."
 					]
 				},
 				{
@@ -399,15 +399,15 @@
 					"name": "Beginning the Adventure",
 					"id": "0ce",
 					"entries": [
-						"To begin the adventure, read the following aloud:",
+						"Per iniziare l'avventura, leggi ad alta voce quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "0cf",
 							"entries": [
-								"The Deathsbane Tavern in the remote mountain village of Greysmere is a local marvel. It was established by a couple who retired from adventuring after their heroic effort to defeat a cult of Orcus that had established a temple in the nearby mountains. The tavern is now run by their heir and decorated with trophies of their adventures.Your visit to this local attraction takes a somber turn when the aasimar innkeeper, Oriann Solaris, asks you for help. Oriann is a silver-haired, golden-eyed aasimar with a serious countenance.\"Evil has returned to the temple,\" they tell you. \"Shambling corpses rove the area at night and dig up old graves, accompanied by ominous figures wearing crimson robes and goat masks. They're stealing food, tools, and paint for some sinister purpose, and I'm sure it's just a matter of time until they unleash a new reign of terror, as the cult did in my parents' day. I didn't follow in my parents' illustrious footsteps, but you have the power to stop this evil.\""
+								"La Deathsbane Tavern nel remoto villaggio di montagna di Greysmere è una meraviglia locale. Fu fondato da una coppia che si ritirò dalle avventure dopo il loro eroico sforzo di sconfiggere un culto di Orcus che aveva fondato un tempio sulle montagne vicine. La taverna è ora gestita dal loro erede e decorata con i trofei delle loro avventure. La tua visita a questa attrazione locale prende una svolta cupa quando il locandiere aasimar, Oriann Solaris, ti chiede aiuto. Oriann è un aasimar dai capelli argentati e dagli occhi dorati con un'espressione seria. \"Il male è tornato nel tempio\", ti dicono. \"Cadaveri dinoccolati vagano per la zona di notte e dissotterrano vecchie tombe, accompagnati da figure minacciose che indossano abiti cremisi e maschere di capra. Stanno rubando cibo, strumenti e vernice per qualche scopo sinistro, e sono sicuro che sia solo questione di tempo prima che scatenino un nuovo regno di terrore, come fece il culto ai tempi dei miei genitori. Non ho seguito le orme illustri dei miei genitori, ma tu hai il potere di fermare questo male.\""
 							]
 						},
-						"Oriann Solaris is a Friendly innkeeper (Medium, Lawful Good {@creature Commoner|XMM}) who gives the characters free lodging for the night and urges them to visit the temple at daybreak.",
+						"Oriann Solaris è un locandiere Amichevole (Medio, Legale Buono {@creature Commoner|XMM}) che offre ai personaggi alloggio gratuito per la notte e li esorta a visitare il tempio all'alba.",
 						{
 							"type": "entries",
 							"name": "Temple Map",
@@ -423,15 +423,15 @@
 									"width": 1700,
 									"height": 2301
 								},
-								"When the characters are ready to travel to the temple, give the players copies of the Temple Map hand-out and read the following aloud:",
+								"Quando i personaggi sono pronti per recarsi al tempio, consegna ai giocatori copie del volantino della Mappa del Tempio e leggi ad alta voce quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"id": "0d1",
 									"entries": [
-										"Oriann's parents drew a rough map of the temple, which the innkeeper now entrusts to your care. Oriann attests to the map's accuracy but admits it might be incomplete. They have also added a list of the stolen items to the map."
+										"I genitori di Oriann hanno disegnato una mappa approssimativa del tempio, che il locandiere ora affida alle tue cure. Oriann attesta l'accuratezza della mappa ma ammette che potrebbe essere incompleta. Hanno anche aggiunto un elenco degli oggetti rubati alla mappa."
 									]
 								},
-								"In exchange for the characters ridding the temple of evil and returning as many of the stolen items as possible, Oriann will take up a collection from the townsfolk to pay the adventurers 200 GP each."
+								"In cambio del fatto che i personaggi liberino il tempio dal male e restituiscano il maggior numero possibile di oggetti rubati, Oriann raccoglierà una colletta dai cittadini per pagare agli avventurieri 200 GP ciascuno."
 							]
 						},
 						{
@@ -439,15 +439,15 @@
 							"name": "Travel to the Temple",
 							"id": "0d2",
 							"entries": [
-								"Summarize the trip to the temple with this description:",
+								"Riassumi il viaggio al tempio con questa descrizione:",
 								{
 									"type": "insetReadaloud",
 									"id": "0d3",
 									"entries": [
-										"The journey to the temple is short and uneventful. A crust of snow covers the ground, and the biting wind is the only foe you encounter.Clouds obscure the peak of the windswept mountain before you. Carved into its base, the old temple's entrance yawns ten feet wide by twenty feet high. A few feet inside, a rough-hewn staircase descends into the cold bedrock. Eerie green light emanates from goat skulls embedded in the walls at regular intervals."
+										"Il viaggio al tempio è breve e senza incidenti. Una crosta di neve copre il terreno e il vento pungente è l'unico nemico che incontri. Le nuvole oscurano la cima della montagna spazzata dal vento davanti a te. Scolpito nella base, l'ingresso del vecchio tempio è largo dieci piedi e alto venti. Pochi metri all'interno, una scala sbozzata scende nella fredda roccia. Una luce verde inquietante emana da teschi di capra incastonati nelle pareti a intervalli regolari."
 									]
 								},
-								"No guards are posted at the entrance. The staircase descends 50 feet to the entry (area {@area T1|0e2|x}), where guardians await."
+								"All'ingresso non sono presenti guardie. La scala scende per 50 piedi fino all'ingresso (area {@area T1|0e2|x}), dove attendono i guardiani."
 							]
 						}
 					]
@@ -457,20 +457,20 @@
 					"name": "The Temple of Orcus",
 					"id": "0d4",
 					"entries": [
-						"The temple was carved over a century ago by devout followers of Orcus. Twenty years ago, adventurers stormed the temple, slew the cult leaders, and scared away the remaining cultists.",
-						"The place stood abandoned until a few weeks ago, when Nezzarum the silver dragon discovered it and started exploring it as a potential lair. By sheer coincidence, Xia and her followers arrived days later to reclaim the temple in Orcus's name.",
+						"Il tempio fu scolpito più di un secolo fa dai devoti seguaci di Orcus. Vent'anni fa, gli avventurieri presero d'assalto il tempio, uccisero i leader del culto e spaventarono i restanti cultisti.",
+						"Il luogo è rimasto abbandonato fino a poche settimane fa, quando Nezzarum il drago d'argento lo ha scoperto e ha iniziato ad esplorarlo come potenziale tana. Per pura coincidenza, Xia e i suoi seguaci arrivarono giorni dopo per reclamare il tempio in nome di Orcus.",
 						{
 							"type": "entries",
 							"name": "Xia's Cult",
 							"id": "0d5",
 							"entries": [
-								"Xia, the cult's leader, is a {@creature ghast|XMM}\u2014an Undead servant of Orcus. A few ghouls serve as her personal assistants, and zombies under Xia's control perform menial labor for the cult. The rest of the cult consists of three people who range from fanatical to deluded in serving the Demon Prince of Undeath.",
+								"Xia, il leader del culto, è un {@creature ghast|XMM} un servitore non morto di Orcus. Alcuni ghoul servono come suoi assistenti personali e gli zombi sotto il controllo di Xia svolgono lavori umili per il culto. Il resto del culto è composto da tre persone che vanno dal fanatico all'illuso nel servire il Principe Demone della Non Morte.",
 								{
 									"type": "entries",
 									"name": "Talking to Cultists",
 									"id": "0d6",
 									"entries": [
-										"Three non-Undead cultists inhabit the temple, serving as intermediaries between Xia and the zombies she has animated. The descriptions of the rooms where the cultists are found include details on whether the characters can talk to them to acquire information about the cult. If willing to talk, cultists share the information below."
+										"Tre cultisti non morti abitano nel tempio, fungendo da intermediari tra Xia e gli zombi che ha animato. Le descrizioni delle stanze in cui si trovano i cultisti includono dettagli sulla possibilità che i personaggi possano parlare con loro per acquisire informazioni sul culto. Se disposti a parlare, i cultisti condividono le informazioni di seguito."
 									]
 								},
 								{
@@ -478,7 +478,7 @@
 									"name": "Speaking Statue",
 									"id": "0d7",
 									"entries": [
-										"Xia thinks Orcus speaks to her through the statue in the main temple (area {@area T13|11b|x}). Xia obeys the statue's orders without question, though she finds them perplexing. While the statue gives Xia orders, it sows doubts in the minds of her mortal followers."
+										"Xia pensa che Orcus le parli attraverso la statua nel tempio principale (area {@area T13|11b|x}). Xia obbedisce senza fare domande agli ordini della statua, anche se li trova perplessi. Mentre la statua dà ordini a Xia, semina dubbi nelle menti dei suoi seguaci mortali."
 									]
 								},
 								{
@@ -486,7 +486,7 @@
 									"name": "Temple Secrets",
 									"id": "0d8",
 									"entries": [
-										"Xia believes the temple holds many secrets. When not performing chores for the statue of Orcus, her followers busily search for hidden secrets."
+										"Xia crede che il tempio contenga molti segreti. Quando non svolgono lavori per la statua dell'Orco, i suoi seguaci cercano attivamente segreti nascosti."
 									]
 								},
 								{
@@ -494,7 +494,7 @@
 									"name": "Xia's Goals",
 									"id": "0d9",
 									"entries": [
-										"While the refurbishment is underway, Xia steals corpses from nearby graveyards to fill her larder and bolster the ranks of her laborers. When work on the temple is complete, she plans to sacrifice all the people and animals within ten miles of the temple to consecrate the temple and unlock its latent power."
+										"Mentre i lavori di ristrutturazione sono in corso, Xia ruba i cadaveri dai cimiteri vicini per riempire la sua dispensa e rafforzare le fila dei suoi lavoratori. Una volta completati i lavori sul tempio, progetta di sacrificare tutte le persone e gli animali entro dieci miglia dal tempio per consacrare il tempio e sbloccare il suo potere latente."
 									]
 								},
 								{
@@ -502,16 +502,16 @@
 									"name": "Orcus's Orders",
 									"id": "0da",
 									"entries": [
-										"The cultists are perplexed by the orders issuing from the demon lord's statue, which include the following:",
+										"I cultisti sono perplessi dagli ordini emessi dalla statua del signore dei demoni, che includono quanto segue:",
 										{
 											"type": "list",
 											"items": [
-												"Topple and destroy all the ghoul statues in the temple, and destroy all symbols and representations of the demon lord. (This work has begun in area {@area T1|0e2|x}.)",
-												"Paint silver and white clouds on the walls. (This work is happening in area {@area T12|117|x}.)",
-												"Leave a dragonchess set in the main temple (area {@area T13|11b|x}). (The set disappeared shortly after being placed before the statue of Orcus.)"
+												"Abbatti e distruggi tutte le statue dei ghoul nel tempio e distruggi tutti i simboli e le rappresentazioni del signore dei demoni. (Questo lavoro è iniziato nell'area {@area T1|0e2|x}.)",
+												"Dipingi nuvole bianche e argentate sulle pareti. (Questo lavoro si sta svolgendo nell'area {@area T12|117|x}.)",
+												"Lascia un set della scacchiera del drago nel tempio principale (area {@area T13|11b|x}). (Il set scomparve poco dopo essere stato collocato davanti alla statua dell'Orco.)"
 											]
 										},
-										"By directing the cultists to steal supplies from the nearby town for their renovation work, Nezzarum hopes to attract attention to the cult."
+										"Ordinando ai cultisti di rubare provviste dalla vicina città per i loro lavori di ristrutturazione, Nezzarum spera di attirare l'attenzione sul culto."
 									]
 								}
 							]
@@ -521,13 +521,13 @@
 							"name": "Temple Features",
 							"id": "0db",
 							"entries": [
-								"Unless otherwise specified, the temple has the following features.",
+								"Se non diversamente specificato, il tempio ha le seguenti caratteristiche.",
 								{
 									"type": "entries",
 									"name": "Ceilings",
 									"id": "0dc",
 									"entries": [
-										"The temple's passages and rooms are 20 feet high everywhere except area {@area T13|11b|x}, where the ceiling is 30 feet high."
+										"I passaggi e le stanze del tempio sono alti 20 piedi ovunque tranne nell'area {@area T13|11b|x}, dove il soffitto è alto 9 metri."
 									]
 								},
 								{
@@ -535,7 +535,7 @@
 									"name": "Dim Light",
 									"id": "0dd",
 									"entries": [
-										"Eerie green light emanates from goat skulls embedded in the temple's walls. These skulls cast {@variantrule Dim Light|XPHB} throughout the temple."
+										"Una misteriosa luce verde emana dai teschi di capra incastonati nelle pareti del tempio. Questi teschi vengono proiettati {@variantrule Dim Light|XPHB} in tutto il tempio."
 									]
 								},
 								{
@@ -543,7 +543,7 @@
 									"name": "Doors and Secret Doors",
 									"id": "0de",
 									"entries": [
-										"Temple doors are unlocked and made of iron with carved bone handles. Secret doors are made of stone and blend into the surrounding walls ({@dc 15} to notice). Secret doors are unlocked and swing open on hidden iron hinges."
+										"Le porte del tempio sono aperte e sono realizzate in ferro con maniglie in osso intagliato. Le porte segrete sono fatte di pietra e si fondono con i muri circostanti ({@dc 15} da notare). Le porte segrete vengono sbloccate e si aprono su cardini di ferro nascosti."
 									]
 								},
 								{
@@ -551,7 +551,7 @@
 									"name": "Rubble",
 									"id": "0df",
 									"entries": [
-										"Rubble marked on {@adventure Map: Temple of Orcus|DrDe-TWoO|1|Map: Temple of Orcus} is {@variantrule Difficult Terrain|XPHB}."
+										"Le macerie contrassegnate su {@adventure Map: Temple of Orcus|DrDe-TWoO|1|Map: Temple of Orcus} sono {@variantrule Difficult Terrain|XPHB}."
 									]
 								},
 								{
@@ -559,7 +559,7 @@
 									"name": "Skeletal Remains",
 									"id": "0e0",
 									"entries": [
-										"The skeletal remains of the original cultists are marked on Map: Temple of Orcus. Searching a cultist's remains requires a {@action Search|XPHB} action and yields a tattered crimson Robe, a rusty {@item Shortsword|XPHB}, an old {@item Shortbow|XPHB}, a {@item Quiver|XPHB} with {@dice 1d10} {@item Arrows (20)|XPHB|Arrows}, and {@dice 1d10} GP."
+										"I resti scheletrici dei cultisti originali sono segnati sulla mappa: Tempio di Orcus. La ricerca dei resti di un cultista richiede un'azione {@action Search|XPHB} e restituisce una veste cremisi sbrindellata, una veste cremisi arrugginita {@item Shortsword|XPHB}, una vecchia {@item Shortbow|XPHB}, una {@item Quiver|XPHB} con {@dice 1d10} {@item Arrows (20)|XPHB|Arrows} e {@dice 1d10} GP."
 									]
 								}
 							]
@@ -571,7 +571,7 @@
 					"name": "Temple Locations",
 					"id": "0e1",
 					"entries": [
-						"The following locations are keyed to Map: Temple of Orcus.",
+						"Le seguenti posizioni sono collegate alla mappa: Tempio di Orcus.",
 						{
 							"type": "gallery",
 							"images": [
@@ -1438,15 +1438,15 @@
 							"name": "T1: Temple Entry",
 							"id": "0e2",
 							"entries": [
-								"As the characters descend the staircase leading to this room, read or paraphrase the following:",
+								"Mentre i personaggi scendono le scale che conducono a questa stanza, leggi o parafrasa quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"id": "0e3",
 									"entries": [
-										"The stairs end at a wide chamber. Two gaunt creatures with sharp claws and long tongues crouch near the bottom of the stairs, licking their lips unsettlingly as you approach.In the northeast corner of the room, three disheveled figures wearing crimson robes tug on a pair of ropes fastened around a statue of a ghoul. Groaning in inhuman voices, they try to topple it as a robed dragonborn yells instructions at them.The floor is covered with broken tiles, and more shards fill two wheelbarrows in the middle of the room. Two brooms lean against the far wall near a passageway that heads west."
+										"Le scale terminano in un'ampia camera. Due creature scarne con artigli affilati e lunghe lingue si accovacciano vicino al fondo delle scale, leccandosi le labbra in modo inquietante mentre ti avvicini. Nell'angolo nord-est della stanza, tre figure scarmigliate che indossano abiti cremisi tirano un paio di corde legate attorno alla statua di un ghoul. Gemendo con voci disumane, cercano di rovesciarlo mentre un dragonide vestito urla loro istruzioni. Il pavimento è coperto di piastrelle rotte e altri frammenti riempiono due carriole al centro della stanza. Due scope sono appoggiate al muro più lontano, vicino a un passaggio che si dirige a ovest."
 									]
 								},
-								"Two {@creature Ghoul|XMM|Ghouls} keep watch on the stairs while Akira Norixius (Medium, Chaotic Evil {@creature Cultist Fanatic|XMM})\u2014a fanatical dragonborn devotee of Orcus\u2014supervises the inept labor of three {@creature Zombie|XMM|Zombies}. Xia ordered the group to topple the statues in this room and sweep up the rubble for removal. Akira and the ghouls are Hostile and fight anyone not wearing the crimson robes of {@area Xia's Cult|0d5|x}. The zombies attack at Akira's command.",
+								"Due {@creature Ghoul|XMM|Ghouls} vegliano sulle scale mentre Akira Norixius (Medio, Caotico Malvagio {@creature Cultist Fanatic|XMM}), un fanatico dragonide devoto di Orcus, supervisiona il lavoro inetto di tre {@creature Zombie|XMM|Zombies}. Xia ha ordinato al gruppo di abbattere le statue in questa stanza e di spazzare via le macerie per rimuoverle. Akira e i ghoul sono ostili e combattono chiunque non indossi le vesti cremisi di {@area Xia's Cult|0d5|x}. Gli zombi attaccano al comando di Akira.",
 								{
 									"type": "entries",
 									"id": "0e4",
@@ -1456,7 +1456,7 @@
 											"name": "Cultist",
 											"id": "0e5",
 											"entries": [
-												"Akira Norixius believes unquestioningly in the cause of Orcus' cult; she looks forward to her own death because she expects to be transformed into an Undead when it occurs. She therefore fights to the death and is entirely unwilling to share information with the characters."
+												"Akira Norixius crede incondizionatamente nella causa del culto di Orcus; attende con ansia la propria morte perché si aspetta di essere trasformata in un non morto quando ciò accadrà. Combatte quindi fino alla morte ed è del tutto riluttante a condividere informazioni con i personaggi."
 											]
 										},
 										{
@@ -1464,7 +1464,7 @@
 											"name": "Broken Tiles",
 											"id": "0e6",
 											"entries": [
-												"Until recently, the floor had a painted tile mosaic set into it. The mosaic depicted Orcus slaying a legion of human knights and reanimating their corpses. Xia ordered her servants to destroy the mosaic, sweep up the tiles, and place them in the wheelbarrows. Any character who takes the {@action Study|XPHB} action to inspect the broken tiles and succeeds on a {@dc 13} Intelligence ({@skill Investigation|XPHB}) check determines the mosaic once depicted Orcus, the Demon Prince of Undeath."
+												"Fino a poco tempo fa, sul pavimento era incastonato un mosaico di piastrelle dipinte. Il mosaico raffigurava Orcus che uccideva una legione di cavalieri umani e rianimava i loro cadaveri. Xia ordinò ai suoi servi di distruggere il mosaico, spazzare via le tessere e metterle nelle carriole. Qualsiasi personaggio che intraprende l'azione {@action Study|XPHB} per ispezionare le tessere rotte e supera una prova di {@dc 13} Intelligenza ({@skill Investigation|XPHB}) determina il mosaico una volta raffigurato Orcus, il Principe Demone della Non Morte."
 											]
 										},
 										{
@@ -1472,7 +1472,7 @@
 											"name": "Secret Door",
 											"id": "0e7",
 											"entries": [
-												"Set into the wall behind the southwest pile of rubble is a secret door (see \"{@area Temple Features|0db|x}\"). Behind it lies a sloped passageway (area {@area T3|0ed|x})."
+												"Incastonata nel muro dietro il mucchio di macerie a sud-ovest c'è una porta segreta (vedi \"{@area Temple Features|0db|x}\"). Dietro si trova un passaggio inclinato (area {@area T3|0ed|x})."
 											]
 										},
 										{
@@ -1480,7 +1480,7 @@
 											"name": "Stolen Goods to Recover",
 											"id": "0e8",
 											"entries": [
-												"The brooms, {@item Rope|XPHB|Ropes}, and wheelbarrows are all stolen goods (see \"Stolen Goods\")."
+												"Le scope {@item Rope|XPHB|Ropes} e le carriole sono tutti beni rubati (vedi \"Bene rubato\")."
 											]
 										}
 									]
@@ -1496,7 +1496,7 @@
 									"type": "insetReadaloud",
 									"id": "0ea",
 									"entries": [
-										"This branching passage ends in iron double doors to the west and to the north. On the floor near the intersection lie three sets of skeletal remains in dust-shrouded crimson robes."
+										"Questo passaggio ramificato termina con doppie porte di ferro a ovest e a nord. Sul pavimento vicino all'incrocio giacciono tre serie di resti scheletrici in abiti cremisi avvolti dalla polvere."
 									]
 								},
 								{
@@ -1508,7 +1508,7 @@
 											"name": "Skeletal Remains",
 											"id": "0ec",
 											"entries": [
-												"See \"{@area Temple Features|0db|x}\" for more on the skeletal remains here."
+												"Vedi \"{@area Temple Features|0db|x}\" per ulteriori informazioni sui resti scheletrici qui."
 											]
 										}
 									]
@@ -1520,7 +1520,7 @@
 							"name": "T3: Sloped Passageway",
 							"id": "0ed",
 							"entries": [
-								"This dusty, 5-foot-wide tunnel slopes steeply down toward the west; the west end of the tunnel is 10 feet lower than the east end.",
+								"Questo tunnel polveroso, largo 1,5 metri, scende ripidamente verso ovest; l'estremità ovest del tunnel è 10 piedi più bassa dell'estremità est.",
 								{
 									"type": "entries",
 									"id": "0ee",
@@ -1530,7 +1530,7 @@
 											"name": "Doors",
 											"id": "0ef",
 											"entries": [
-												"From within the tunnel, the doors to areas {@area T1|0e2|x} and {@area T4|0f0|x} are plainly visible."
+												"Dall'interno del tunnel, le porte delle aree {@area T1|0e2|x} e {@area T4|0f0|x} sono chiaramente visibili."
 											]
 										}
 									]
@@ -1546,10 +1546,10 @@
 									"type": "insetReadaloud",
 									"id": "0f1",
 									"entries": [
-										"Lining the west and east walls of this room, six statues depict ghoulish humanoids, their claws outstretched, their mouths agape, and their stony tongues extended. Lying on the floor are the skeletal remains of five humans in dusty crimson robes.Carved into the south wall is the skull of a giant goat, which measures ten feet across."
+										"Lungo le pareti ovest ed est di questa stanza, sei statue raffigurano umanoidi macabri, con gli artigli protesi, la bocca spalancata e la lingua di pietra estesa. Sul pavimento ci sono i resti scheletrici di cinque umani in polverose vesti cremisi. Scolpito nella parete sud c'è il teschio di una capra gigante, che misura tre metri di diametro."
 									]
 								},
-								"The giant goat skull carved on the wall is a symbol of Orcus.",
+								"Il gigantesco teschio di capra scolpito sul muro è un simbolo dell'Orcus.",
 								{
 									"type": "entries",
 									"id": "0f2",
@@ -1559,7 +1559,7 @@
 											"name": "Skeletal Remains",
 											"id": "0f3",
 											"entries": [
-												"This room holds five piles of skeletal remains (see \"{@area Temple Features|0db|x}\"). The first time someone opens one of the secret doors to the vaults (area {@area T14|123|x}) in this room, one set of remains animates, ignites in unholy fire, and becomes a {@creature Flaming Skeleton|XMM}, while the other four piles animate and each form a {@creature Skeleton|XMM}. The skeletons are Hostile toward all creatures except Undead."
+												"Questa stanza contiene cinque pile di resti scheletrici (vedi \"{@area Temple Features|0db|x}\"). La prima volta che qualcuno apre una delle porte segrete delle casseforti (area {@area T14|123|x}) in questa stanza, una serie di resti si anima, si accende in un fuoco empio e diventa un {@creature Flaming Skeleton|XMM}, mentre le altre quattro pile si animano e formano ciascuna un {@creature Skeleton|XMM}. Gli scheletri sono ostili verso tutte le creature tranne i non morti."
 											]
 										},
 										{
@@ -1567,8 +1567,8 @@
 											"name": "Secret Doors and Statues",
 											"id": "0f4",
 											"entries": [
-												"This room contains three secret doors (see \"{@area Temple Features|0db|x}\"), each one located behind a ghoul statue. The area between a statue and a secret door is wide enough for only a Tiny creature to fit comfortably. For a Small or Medium creature, those areas are {@variantrule Difficult Terrain|XPHB}.",
-												"Whenever a non-Undead creature tries to pass through a secret door, the statue in front of that door swivels on its base and swipes a claw at the creature. The creature must succeed on a {@dc 12} Dexterity saving throw or take 7 ({@dice 2d6}) Slashing damage. As a {@action Utilize|XPHB} action, a character can disable a swiveling statue by jamming a {@item Dagger|XPHB}, an Iron Spike, or a similar object into the slight gap between the statue's base and the floor."
+												"Questa stanza contiene tre porte segrete (vedi \"{@area Temple Features|0db|x}\"), ognuna situata dietro una statua di un ghoul. L'area tra una statua e una porta segreta è abbastanza ampia da consentire il passaggio confortevole solo di una creatura Minuscola. Per una creatura Piccola o Media, quelle aree sono {@variantrule Difficult Terrain|XPHB}.",
+												"Ogni volta che una creatura non morta tenta di passare attraverso una porta segreta, la statua davanti a quella porta ruota sulla sua base e colpisce con un artiglio la creatura. La creatura deve riuscire un tiro salvezza di Destrezza {@dc 12} o subire 7 ({@dice 2d6}) danni taglienti. Come azione {@action Utilize|XPHB}, un personaggio può disattivare una statua girevole conficcando un {@item Dagger|XPHB}, un Iron Spike o un oggetto simile nel leggero spazio tra la base della statua e il pavimento."
 											]
 										}
 									]
@@ -1584,7 +1584,7 @@
 									"type": "insetReadaloud",
 									"id": "0f6",
 									"entries": [
-										"Four stone pillars buttress the vaulted ceiling of this otherwise empty hall. Two wide tunnels lead north. Iron double doors stand closed on the north, west, and east walls. Inscribed in the northern double door is the vile visage of Orcus, the horned demon lord. He fixes his evil gaze on a staircase of polished black marble at the south end of the room, which descends ten feet to another double door. Stone railings flank the staircase."
+										"Quattro pilastri di pietra sostengono il soffitto a volta di questa sala altrimenti vuota. Due ampi tunnel conducono a nord. Doppie porte di ferro sono chiuse sulle pareti nord, ovest ed est. Inscritto nella doppia porta settentrionale c'è il volto vile di Orcus, il signore dei demoni cornuto. Fissa il suo sguardo malvagio su una scala di marmo nero lucido all'estremità sud della stanza, che scende di tre metri fino a un'altra doppia porta. Ringhiere in pietra fiancheggiano la scala."
 									]
 								},
 								{
@@ -1596,7 +1596,7 @@
 											"name": "Hidden Lever",
 											"id": "0f8",
 											"entries": [
-												"A character who takes the {@action Search|XPHB} action to examine the southwest pillar automatically finds a loose panel, behind which is an iron lever (marked with an L on {@adventure Map: Temple of Orcus|DrDe-TWoO|1|Map: Temple of Orcus}). As a {@action Utilize|XPHB} action, a creature can pull this lever to reset the trap described below."
+												"Un personaggio che esegue l'azione {@action Search|XPHB} per esaminare il pilastro sud-ovest trova automaticamente un pannello allentato, dietro il quale si trova una leva di ferro (contrassegnata con una L su {@adventure Map: Temple of Orcus|DrDe-TWoO|1|Map: Temple of Orcus}). Come azione {@action Utilize|XPHB}, una creatura può tirare questa leva per ripristinare la trappola descritta di seguito."
 											]
 										},
 										{
@@ -1604,9 +1604,9 @@
 											"name": "Trap",
 											"id": "0f9",
 											"entries": [
-												"The stairs collapse to form a slide whenever a creature that isn't an Undead steps on them. At the same time, the stone lid concealing a hidden pit at the bottom of the stairs snaps open.",
-												"The first time a non-Undead creature steps on the stairs, the creature must succeed on a {@dc 16} Dexterity saving throw or fall down the slide into the pit, which is 20 feet deep and lined with rusty spikes. The creature takes 7 ({@dice 2d6}) Bludgeoning damage from the fall plus 9 ({@dice 2d8}) Piercing damage from the spikes.",
-												"Pulling the hidden lever closes the pit's lid and resets the stairs. The lid opens only when the trap is triggered and otherwise is safe to move on. As a {@action Utilize|XPHB} action, a character can try to force the lid open (from inside or outside the pit), doing so with a successful {@dc 20} Strength ({@skill Athletics|XPHB}) check."
+												"Le scale collassano per formare uno scivolo ogni volta che una creatura che non sia un Non Morto ci cammina sopra. Allo stesso tempo, il coperchio di pietra che nasconde una fossa nascosta in fondo alle scale si apre di scatto.",
+												"La prima volta che una creatura non morta sale le scale, deve riuscire in un tiro salvezza di Destrezza {@dc 16} o cadere dallo scivolo nella fossa, profonda 20 piedi e fiancheggiata da punte arrugginite. La creatura subisce 7 ({@dice 2d6}) danni contundenti dalla caduta più 9 ({@dice 2d8}) danni perforanti dagli spuntoni.",
+												"Tirando la leva nascosta si chiude il coperchio della fossa e si ripristinano le scale. Il coperchio si apre solo quando la trappola viene attivata e altrimenti è sicuro spostarsi. Come azione {@action Utilize|XPHB}, un personaggio può provare a forzare l'apertura del coperchio (dall'interno o dall'esterno della fossa), facendolo con una prova riuscita di {@dc 20} Forza ({@skill Athletics|XPHB})."
 											]
 										}
 									]
@@ -1618,7 +1618,7 @@
 							"name": "T6: Occult Library",
 							"id": "0fa",
 							"entries": [
-								"Characters who listen at either entrance to this room notice heavy footfalls within and the sound of furniture being smashed.",
+								"I personaggi che ascoltano alle due entrate di questa stanza notano dei passi pesanti all'interno e il rumore di mobili che vengono rotti.",
 								{
 									"type": "image",
 									"href": {
@@ -1632,11 +1632,11 @@
 									"type": "insetReadaloud",
 									"id": "0fb",
 									"entries": [
-										"A putrid stench greets you here\u2014its source is two zombified ogres that are smashing all the furniture in this room, apparently obeying the commands of a dwarf wearing a red robe. Desks and chairs made of black wood and adorned with skulls lie splintered amid the skeletal remains of four long-dead humans in dusty crimson robes. Tall stone bookshelves line deep alcoves to the north, south, and west. Floating in the alcove opposite you, a spectral human woman beseeches the ogres to halt their destructive rampage."
+										"Un fetore putrido ti accoglie qui: la sua fonte sono due orchi zombificati che stanno distruggendo tutti i mobili di questa stanza, apparentemente obbedendo ai comandi di un nano che indossa una veste rossa. Scrivanie e sedie fatte di legno nero e adornate con teschi giacciono scheggiate tra i resti scheletrici di quattro umani morti da tempo in polverose vesti cremisi. Alte librerie in pietra fiancheggiano profonde nicchie a nord, sud e ovest. Fluttuando nell'alcova di fronte a te, una donna umana spettrale implora gli orchi di fermare la loro furia distruttiva."
 									]
 								},
-								"Following the statue of Orcus's instructions, Xia commanded the cultist\u2014a dwarf named Eleith Brittlebones (Medium, Chaotic Evil {@creature Cultist Fanatic|XMM})\u2014to destroy everything in this library. Eleith commands two {@creature Ogre Zombie|XMM|Ogre Zombies} to do the heavy labor. The cultist and zombies are Hostile and fight anyone not wearing the crimson robes of Xia's cult.",
-								"{@b Cultist} Eleith Brittlebones has been duped into following the cult of Orcus. Xia convinced the dwarf that the world is nearing its end, the gods are dead, and the demonic forces of death are close to their ultimate triumph, persuading him to join the \"winning side\" in this cosmic conflict. As soon as Eleith notices a character use obvious divine magic\u2014healing an ally or turning undead, for example\u2014the dwarf surrenders. In this case, Eleith becomes willing to share information about the cult in exchange for information about living deities and the state of the cosmos. See \"{@area Xia's Cult|0d5|x}\" above for information Eleith can share.",
+								"Seguendo le istruzioni della statua di Orcus, Xia ordinò al cultista, un nano di nome Eleith Brittlebones (Medio, Caotico Malvagio {@creature Cultist Fanatic|XMM}), di distruggere tutto in questa biblioteca. Eleith ordina a due {@creature Ogre Zombie|XMM|Ogre Zombies} di svolgere il lavoro pesante. Il cultista e gli zombi sono ostili e combattono chiunque non indossi le vesti cremisi del culto di Xia.",
+								"{@b Cultist} Eleith Brittlebones è stata indotta a seguire il culto di Orcus. Xia convinse il nano che il mondo si stava avvicinando alla fine, che gli dei erano morti e che le forze demoniache della morte erano vicine al loro trionfo finale, convincendolo a unirsi alla \"parte vincente\" in questo conflitto cosmico. Non appena Eleith nota che un personaggio usa una magia divina evidente, ad esempio curando un alleato o scacciando non morti, il nano si arrende. In questo caso, Eleith diventa disposta a condividere informazioni sul culto in cambio di informazioni sulle divinità viventi e sullo stato del cosmo. Vedi \"{@area Xia's Cult|0d5|x}\" qui sopra per le informazioni che Eleith può condividere.",
 								{
 									"type": "entries",
 									"id": "0fc",
@@ -1646,7 +1646,7 @@
 											"name": "Alcoves",
 											"id": "0fd",
 											"entries": [
-												"Each alcove contains {@dice 4d10 + 20} barely legible books and scrolls, all of them brittle and flammable. A character who takes the {@action Study|XPHB} action and succeeds on a {@dc 15} Intelligence ({@skill Religion|XPHB}) check discerns that these materials describe various rites practiced by Orcus worshipers."
+												"Ogni alcova contiene {@dice 4d10 + 20} libri e pergamene appena leggibili, tutti fragili e infiammabili. Un personaggio che intraprende l'azione {@action Study|XPHB} e supera una prova di {@dc 15} Intelligenza ({@skill Religion|XPHB}) discerne che questi materiali descrivono vari riti praticati dagli adoratori dell'Orcus."
 											]
 										},
 										{
@@ -1654,9 +1654,9 @@
 											"name": "Ghostly Librarian",
 											"id": "0fe",
 											"entries": [
-												"The spectral figure in the alcove is the {@creature Ghost|XMM} of Melindra Vox, the librarian of the earlier Orcus cult. She is Chaotic Evil and initially Indifferent toward visitors. She is furious that the zombies are ruining her collection of books and scrolls but can't stop them herself, as she has vowed never to harm cult allies. When she notices the characters, Melindra assumes they are intruders who aren't subject to such vows, and she beseeches them to destroy the {@creature Ogre Zombie|XMM|Ogre Zombies}. If the characters oblige, Melindra becomes Friendly toward them. If they refuse to help, she remains Indifferent.",
-												"If the characters converse with Melindra while she is Friendly, she reveals that adventurers slew her many years ago during their raid on the temple, after she refused to abandon her library. If the characters ask about treasure or secret knowledge, Melindra advises them to search for secret doors behind every statue, claiming there are \"secret vaults throughout.\"",
-												"Melindra doesn't know how to find peace in the afterlife. A character who takes the {@action Study|XPHB} action and makes a successful {@dc 15} Intelligence ({@skill Religion|XPHB}) check discerns the way to lay her spirit to rest: either by removing all the books and scrolls from the library or by destroying them. Melindra becomes Hostile toward and fights anyone who tries to remove or destroy her collection."
+												"La figura spettrale nell'alcova è {@creature Ghost|XMM} di Melindra Vox, la bibliotecaria del precedente culto dell'Orcus. È caotica malvagia e inizialmente indifferente nei confronti dei visitatori. È furiosa perché gli zombi stanno rovinando la sua collezione di libri e pergamene, ma non riesce a fermarli da sola, poiché ha giurato di non danneggiare mai gli alleati del culto. Quando nota i personaggi, Melindra presume che siano intrusi non soggetti a tali voti e li supplica di distruggere il {@creature Ogre Zombie|XMM|Ogre Zombies}. Se i personaggi obbediscono, Melindra diventa Amichevole nei loro confronti. Se si rifiutano di aiutare, lei rimane indifferente.",
+												"Se i personaggi conversano con Melindra mentre è Amichevole, lei rivela che gli avventurieri l'hanno uccisa molti anni fa durante la loro incursione al tempio, dopo che si era rifiutata di abbandonare la sua biblioteca. Se i personaggi chiedono informazioni su tesori o conoscenze segrete, Melindra consiglia loro di cercare porte segrete dietro ogni statua, sostenendo che ci sono \"segrete segrete ovunque\".",
+												"Melindra non sa come trovare la pace nell'aldilà. Un personaggio che intraprende l'azione {@action Study|XPHB} ed effettua con successo una prova di Intelligenza {@dc 15} ({@skill Religion|XPHB}) discerne il modo per far riposare il suo spirito: rimuovendo tutti i libri e le pergamene dalla biblioteca o distruggendoli. Melindra diventa ostile e combatte chiunque tenti di rimuovere o distruggere la sua collezione."
 											]
 										},
 										{
@@ -1664,7 +1664,7 @@
 											"name": "Secret Door.",
 											"id": "0ff",
 											"entries": [
-												"A bookshelf in the north alcove conceals a secret door (see \"{@area Temple Features|0db|x}\"), behind which lies the dining hall (area {@area T7|101|x})."
+												"Una libreria nell'alcova nord nasconde una porta segreta (vedi \"{@area Temple Features|0db|x}\"), dietro la quale si trova la sala da pranzo (area {@area T7|101|x})."
 											]
 										},
 										{
@@ -1672,7 +1672,7 @@
 											"name": "Skeletal Remains",
 											"id": "100",
 											"entries": [
-												"See \"Temple Features\" for more on the skeletal remains here."
+												"Vedi \"Caratteristiche del tempio\" per ulteriori informazioni sui resti scheletrici qui."
 											]
 										}
 									]
@@ -1688,10 +1688,10 @@
 									"type": "insetReadaloud",
 									"id": "102",
 									"entries": [
-										"This chamber contains a rectangular table with clawed feet surrounded by twelve high-backed chairs. Hanging off the backs of the chairs are hideous masks made from goat skulls. A sallow-faced young human in a crimson robe sits at one end of the table, eating some meat that looks undercooked and smells unappetizing. A broom leans against the table next to him."
+										"Questa camera contiene un tavolo rettangolare con piedi artigliati circondato da dodici sedie dallo schienale alto. Appese agli schienali delle sedie ci sono maschere orribili fatte con teschi di capra. Un giovane umano dal viso giallastro e con una veste cremisi siede a un'estremità del tavolo e mangia della carne che sembra cruda e ha un odore poco appetitoso. Una scopa è appoggiata al tavolo accanto a lui."
 									]
 								},
-								"Xia and her cultists wear the goat-skull masks when they venture out in public. The masks are terrifying but worthless.",
+								"Xia e i suoi seguaci indossano maschere di teschi di capra quando escono in pubblico. Le maschere sono terrificanti ma inutili.",
 								{
 									"type": "entries",
 									"id": "103",
@@ -1701,9 +1701,9 @@
 											"name": "Cultist",
 											"id": "104",
 											"entries": [
-												"The young man sitting at the table (facing the secret door in the south wall) is Yondis Morgrin (Medium, Chaotic Neutral {@creature Cultist Fanatic|XMM}), a member of {@area Xia's Cult|0d5|x} who is questioning his participation in it. He was initially attracted to the promise of being transformed into an Undead creature even more powerful than Xia, and he likes to pretend he is Undead already. He wears pasty makeup, shambles like a zombie, and eats undercooked and spoiling meat, but the disguise fools no one.",
-												"Yondis is Indifferent toward the characters, whether or not they wear the crimson robes of Xia's cult. If the characters combat him, Yondis fights until he is {@status Bloodied|XPHB}, at which point he surrenders.",
-												"The whisperings of Nezzarum through the Orcus statue have thrown Yondis into confusion. He can't understand why Orcus would be ordering Xia to destroy the iconography of Orcus around the temple, and when Yondis is alone in the presence of the statue, it whispers to him of the beauty of life and the pleasures of fresh air, well-cooked meals, and heroic deeds. His doubts make him susceptible to being drawn away from the cult. A character who takes the {@action Influence|XPHB} action can make a {@dc 10} Charisma ({@skill Deception|XPHB} or {@skill Intimidation|XPHB}) check to try to coax information from him (see \"{@area Xia's Cult|0d5|x}\" above for information Yondis can share about the cult)."
+												"Il giovane seduto al tavolo (di fronte alla porta segreta nel muro sud) è Yondis Morgrin (Medio, Caotico Neutrale {@creature Cultist Fanatic|XMM}), un membro di {@area Xia's Cult|0d5|x} che mette in dubbio la sua partecipazione al tavolo. Inizialmente era attratto dalla promessa di essere trasformato in una creatura non morta ancora più potente di Xia, e gli piace fingere di essere già un non morto. Indossa un trucco pastoso, si trascina come uno zombie e mangia carne poco cotta e rovinata, ma il travestimento non inganna nessuno.",
+												"Yondis è indifferente verso i personaggi, indipendentemente dal fatto che indossino o meno le vesti cremisi del culto di Xia. Se i personaggi lo combattono, Yondis combatte finché non è {@status Bloodied|XPHB}, a quel punto si arrende.",
+												"I sussurri di Nezzarum attraverso la statua dell'Orcus hanno gettato Yondis nella confusione. Non riesce a capire perché Orcus abbia ordinato a Xia di distruggere l'iconografia di Orcus attorno al tempio, e quando Yondis è solo al cospetto della statua, questa gli sussurra la bellezza della vita e i piaceri dell'aria fresca, dei pasti ben cucinati e delle gesta eroiche. I suoi dubbi lo rendono suscettibile di essere allontanato dalla setta. Un personaggio che esegue l'azione {@action Influence|XPHB} può effettuare una prova di Carisma {@dc 10} ({@skill Deception|XPHB} o {@skill Intimidation|XPHB}) per cercare di ottenere informazioni da lui (vedi \"{@area Xia's Cult|0d5|x}\" sopra per informazioni che Yondis può condividere sul culto)."
 											]
 										},
 										{
@@ -1711,7 +1711,7 @@
 											"name": "Secret Door",
 											"id": "105",
 											"entries": [
-												"A secret door in the south wall (see \"{@area Temple Features|0db|x}\") pulls open to reveal the library beyond (area {@area T6|0fa|x})."
+												"Una porta segreta nel muro sud (vedi \"{@area Temple Features|0db|x}\") si apre per rivelare la biblioteca al di là (area {@area T6|0fa|x})."
 											]
 										},
 										{
@@ -1719,7 +1719,7 @@
 											"name": "Stolen Goods to Recover",
 											"id": "106",
 											"entries": [
-												"Yondis's broom is a stolen item (see \"Stolen Goods\")."
+												"La scopa di Yondis è un oggetto rubato (vedi \"Merci rubate\")."
 											]
 										}
 									]
@@ -1731,7 +1731,7 @@
 							"name": "T8: Living Quarters",
 							"id": "107",
 							"entries": [
-								"Six bedchambers open off the dining hall (area {@area T7|101|x}). Each contains two plain wooden cots with straw-stuffed mattresses and woolen blankets. Next to each bed are wall hooks for hanging apparel. Only three of the chambers show any sign of recent use."
+								"Sei camere da letto si aprono sulla sala da pranzo (superficie {@area T7|101|x}). Ciascuno contiene due semplici brande di legno con materassi imbottiti di paglia e coperte di lana. Accanto a ogni letto ci sono ganci a muro per appendere gli abiti. Solo tre delle camere mostrano segni di utilizzo recente."
 							]
 						},
 						{
@@ -1739,7 +1739,7 @@
 							"name": "T9: West Tunnel",
 							"id": "108",
 							"entries": [
-								"This {@i L}-shaped hall leads from area {@area T5|0f5|x} to a double door into the dining hall (area {@area T7|101|x}).",
+								"Questo corridoio a forma di {@i L} conduce dall'area {@area T5|0f5|x} ad una doppia porta nella sala da pranzo (area {@area T7|101|x}).",
 								{
 									"type": "entries",
 									"id": "109",
@@ -1749,7 +1749,7 @@
 											"name": "Secret Door",
 											"id": "10a",
 											"entries": [
-												"A secret door in the north wall stands ajar and requires no ability check to spot. Yondis (see area {@area T7|101|x}) found it recently and jammed an old finger bone into the doorway to prevent the door from closing all the way and make it easy for him to find."
+												"Una porta segreta nel muro nord è socchiusa e non richiede prove di abilità per essere individuata. Yondis (vedi area {@area T7|101|x}) l'ha trovato di recente e ha incastrato un vecchio osso di un dito nella soglia per impedire che la porta si chiudesse completamente e facilitarne la ricerca."
 											]
 										}
 									]
@@ -1765,10 +1765,10 @@
 									"type": "insetReadaloud",
 									"id": "10c",
 									"entries": [
-										"This tunnel is littered with the dusty bones of four dead humans wearing tattered crimson robes. One of the skeletons slumps in a corner next to a double door. It wears an amulet shaped like a goat's rotting head and clutches a ring of keys."
+										"Questo tunnel è disseminato delle ossa polverose di quattro umani morti che indossano abiti cremisi logori. Uno degli scheletri si accascia in un angolo accanto a una doppia porta. Indossa un amuleto a forma di testa putrefatta di capra e stringe un anello di chiavi."
 									]
 								},
-								"This L-shaped hall leads from area {@area T5|0f5|x} to a double door into the ritual chamber (area {@area T11|111|x}).",
+								"Questa sala a forma di L conduce dall'area {@area T5|0f5|x} a una doppia porta nella camera rituale (area {@area T11|111|x}).",
 								{
 									"type": "entries",
 									"id": "10d",
@@ -1778,7 +1778,7 @@
 											"name": "Secret Door",
 											"id": "10e",
 											"entries": [
-												"Set into the north wall, a secret door (see \"{@area Temple Features|0db|x}\") leads to the main temple (area {@area T13|11b|x})."
+												"Incastonata nel muro nord, una porta segreta (vedi \"{@area Temple Features|0db|x}\") conduce al tempio principale (area {@area T13|11b|x})."
 											]
 										},
 										{
@@ -1786,7 +1786,7 @@
 											"name": "Skeletal Remains",
 											"id": "10f",
 											"entries": [
-												"See \"Temple Features\" for more on the skeletal remains here."
+												"Vedi \"Caratteristiche del tempio\" per ulteriori informazioni sui resti scheletrici qui."
 											]
 										},
 										{
@@ -1794,7 +1794,7 @@
 											"name": "Treasure",
 											"id": "110",
 											"entries": [
-												"The inanimate skeleton next to the double door is all that remains of the temple's high priest. It clutches a ring holding three iron keys, which unlock the cell doors in area {@area T11|111|x}, and wears an amulet shaped like a goat's rotting head (the symbol of Orcus) on a chain around its neck. The silver amulet is worth 25 GP and has a hidden compartment containing a folded-up {@item Spell Scroll|XDMG} of {@spell Animate Dead|XPHB}. A character who takes the {@action Search|XPHB} action to examine the amulet finds the hidden compartment with a successful {@dc 15} Wisdom ({@skill Perception|XPHB}) check."
+												"Lo scheletro inanimato accanto alla doppia porta è tutto ciò che resta del sommo sacerdote del tempio. Stringe un anello con tre chiavi di ferro, che aprono le porte delle celle nell'area {@area T11|111|x}, e indossa un amuleto a forma di testa putrescente di capra (il simbolo di Orcus) appeso a una catena intorno al collo. L'amuleto d'argento vale 25 GP e ha uno scomparto nascosto contenente un {@item Spell Scroll|XDMG} di {@spell Animate Dead|XPHB} piegato. Un personaggio che intraprende l'azione {@action Search|XPHB} per esaminare l'amuleto trova lo scomparto nascosto con una prova riuscita di {@dc 15} Saggezza ({@skill Perception|XPHB})."
 											]
 										}
 									]
@@ -1810,10 +1810,10 @@
 									"type": "insetReadaloud",
 									"id": "112",
 									"entries": [
-										"Rusty shackles dangle from this chamber's walls. In the middle of the room sit two stone slabs. Draped over the northern slab is a human skeleton wearing a dusty crimson robe and an eye patch. It clutches a whip in one bony hand.Along the east wall are three rusty gates with mold-covered cells beyond them. "
+										"Dalle pareti di questa camera pendono catene arrugginite. Al centro della stanza si trovano due lastre di pietra. Drappeggiato sulla lastra settentrionale c'è uno scheletro umano che indossa una veste cremisi polverosa e una benda sull'occhio. Stringe una frusta in una mano ossuta. Lungo il muro est ci sono tre cancelli arrugginiti con celle coperte di muffa al di là."
 									]
 								},
-								"Cultists used to perform ghastly rites here. Human prisoners were confined to the cells (see below) until they were sacrificed. After death, they would be brought back to this room, where the high priest would animate them as zombies.",
+								"Qui i cultisti eseguivano riti orribili. I prigionieri umani venivano confinati nelle celle (vedi sotto) finché non venivano sacrificati. Dopo la morte, sarebbero stati riportati in questa stanza, dove il sommo sacerdote li avrebbe animati come zombie.",
 								{
 									"type": "entries",
 									"id": "113",
@@ -1823,13 +1823,13 @@
 											"name": "Cells",
 											"id": "114",
 											"entries": [
-												"All three cell doors are locked; a skeleton in the east tunnel (area {@area T10|10b|x}) holds the keys. The DC to pick one of these locks is 15. The cells' contents are as follows:",
+												"Tutte e tre le porte delle celle sono chiuse; uno scheletro nel tunnel est (area {@area T10|10b|x}) contiene le chiavi. La CD per scassinare una di queste serrature è 15. Il contenuto delle celle è il seguente:",
 												{
 													"type": "list",
 													"items": [
-														"{@b Cell A} holds the skeletal remains of two humans.",
-														"{@b Cell B} appears empty but contains a hidden compartment behind a loose stone in the east wall. A character who takes the {@action Search|XPHB} action and succeeds on a {@dc 13} Wisdom ({@skill Perception|XPHB}) check discovers the loose stone and the treasure hidden behind it (see \"Treasure\" below).",
-														"{@b Cell C} contains the bones of a treacherous tiefling cultist who tried and failed to overthrow the temple's high priest. Disturbing this skeleton causes the traitor's spirit to manifest as a {@creature Wraith|XMM} and fight the characters."
+														"{@b Cell A} contiene i resti scheletrici di due esseri umani.",
+														"{@b Cell B} appare vuoto ma contiene uno scomparto nascosto dietro una pietra sciolta nel muro est. Un personaggio che esegue l'azione {@action Search|XPHB} e supera una prova di Saggezza {@dc 13} ({@skill Perception|XPHB}) scopre la pietra sciolta e il tesoro nascosto dietro di essa (vedi \"Tesoro\" di seguito).",
+														"{@b Cell C} contiene le ossa di un perfido cultista tiefling che tentò, senza riuscirci, di rovesciare il sommo sacerdote del tempio. Disturbare questo scheletro fa sì che lo spirito del traditore si manifesti come {@creature Wraith|XMM} e combatta i personaggi."
 													],
 													"style": "list-hang-notitle"
 												}
@@ -1840,7 +1840,7 @@
 											"name": "Skeletal Remains",
 											"id": "115",
 											"entries": [
-												"The skeletal remains in the cells are clad in tattered rags and have no equipment or treasure. The skeleton draped over the northern slab is that of the high priest's torturer (see \"Treasure\" below and \"{@area Temple Features|0db|x}\" for details)."
+												"I resti scheletrici nelle celle sono ricoperti di stracci laceri e non contengono attrezzature o tesori. Lo scheletro steso sulla lastra settentrionale è quello del torturatore del sommo sacerdote (vedi \"Tesoro\" di seguito e \"{@area Temple Features|0db|x}\" per i dettagli)."
 											]
 										},
 										{
@@ -1848,7 +1848,7 @@
 											"name": "Treasure",
 											"id": "116",
 											"entries": [
-												"The dead torturer clutches a {@item +1 Whip|XDMG}. Behind the loose stone in cell B lies a {@item Wand of Secrets|XDMG}."
+												"Il torturatore morto stringe un {@item +1 Whip|XDMG}. Dietro la pietra sciolta nella cella B si trova un {@item Wand of Secrets|XDMG}."
 											]
 										}
 									]
@@ -1875,12 +1875,12 @@
 									"type": "insetReadaloud",
 									"id": "118",
 									"entries": [
-										"The stench of death fills this pillared hall. Two ten-foot ladders lean against the west wall. A rotting figure in a crimson robe clings to each ladder, clumsily painting the wall with a brush, while another animated corpse stands at the bottom of each ladder, holding it steady. It's hard to tell what the zombies are painting.A scowling woman with pallid skin stands in the middle of the hall, presiding over the work. She wears a crimson robe and a horned headdress. Surrounding her are four gaunt creatures with sharp claws, long tongues, and hungry eyes.The double door at the northern end of the hall stands open, revealing a vast chamber beyond. Swathed in shadows at the back of this large chamber towers a massive statue of a goatish fiend."
+										"Il fetore della morte riempie questa sala dalle colonne. Due scale alte dieci piedi sono appoggiate al muro ovest. Una figura in decomposizione con una veste cremisi si aggrappa a ciascuna scala, dipingendo goffamente il muro con un pennello, mentre un altro cadavere animato si trova alla base di ciascuna scala, tenendola ferma. È difficile dire cosa stiano dipingendo gli zombie. Una donna accigliata con la pelle pallida sta al centro della sala, presiedendo l'opera. Indossa una veste cremisi e un copricapo cornuto. Intorno a lei ci sono quattro creature scarne con artigli affilati, lunghe lingue e occhi affamati. La doppia porta all'estremità settentrionale della sala è aperta, rivelando una vasta camera al di là. Avvolta nell'ombra sul retro di questa grande camera troneggia un'enorme statua di un demone caprino."
 									]
 								},
-								"The woman is Xia, a {@creature Ghast Gravecaller|XMM}. Accompanying her are four {@creature Ghoul|XMM|Ghouls}. Xia has tasked four {@creature Zombie|XMM|Zombies} in crimson Robes to paint fluffy white clouds and silver dragons on the wall, in accordance with instructions given to her by the statue of Orcus in the next room (area {@area T13|11b|x}). One zombie steadies each {@item Ladder|XPHB} while another zombie perches precariously near the top, paintbrush and paint pot in hand. Xia bitterly admonishes the zombies for their shabby work.",
-								"At the first sign of trouble, Xia commands her ghouls to fight intruders while she withdraws to area T13 and asks the statue of Orcus for guidance. A booming voice from the statue replies, \"This is your final test, Xia. Do not fail me!\" Xia then rejoins her ghouls and fights to the bitter end. Roll Initiative for Nezzarum. On his turn, he emerges from the secret door in the back of the statue in area T13 and comes to join the fray, trusting that the adventurers are the heroes he's been waiting for.",
-								"Meanwhile, the zombies continue painting and holding Ladders until a character engages them in combat. If either a zombie holding a Ladder or a zombie on a Ladder takes damage, the zombie on the Ladder falls. That zombie falls 10 feet and spills its pot of paint.",
+								"La donna è Xia, una {@creature Ghast Gravecaller|XMM}. Ad accompagnarla sono quattro {@creature Ghoul|XMM|Ghouls}. Xia ha incaricato quattro {@creature Zombie|XMM|Zombies} in vesti cremisi di dipingere soffici nuvole bianche e draghi d'argento sul muro, in conformità con le istruzioni fornitele dalla statua dell'Orco nella stanza accanto (area {@area T13|11b|x}). Uno zombi si stabilizza ciascuno {@item Ladder|XPHB} mentre un altro zombi si appollaia precariamente vicino alla cima, con pennello e barattolo di vernice in mano. Xia ammonisce aspramente gli zombi per il loro lavoro meschino.",
+								"Al primo segno di guai, Xia ordina ai suoi ghoul di combattere gli intrusi mentre lei si ritira nell'area T13 e chiede consiglio alla statua di Orcus. Una voce tonante dalla statua risponde: \"Questa è la tua prova finale, Xia. Non deludermi!\" Xia poi si unisce ai suoi ghoul e combatte fino alla fine. Tirate l'Iniziativa per Nezzarum. Nel suo turno, emerge dalla porta segreta sul retro della statua nell'area T13 e si unisce alla mischia, confidando che gli avventurieri siano gli eroi che stava aspettando.",
+								"Nel frattempo, gli zombi continuano a dipingere e a tenere le scale finché un personaggio non li affronta in combattimento. Se uno zombi che tiene una scala o uno zombi su una scala subisce danni, lo zombi sulla scala cade. Quello zombi cade da 3 metri e rovescia il barattolo di vernice.",
 								{
 									"type": "entries",
 									"id": "119",
@@ -1890,7 +1890,7 @@
 											"name": "Stolen Goods to Recover",
 											"id": "11a",
 											"entries": [
-												"The {@item Ladder|XPHB|Ladders}, pots of paint, and paintbrushes are all stolen goods (see \"Stolen Goods\")."
+												"Il {@item Ladder|XPHB|Ladders}, i barattoli di vernice e i pennelli sono tutti beni rubati (vedi \"Beni rubati\")."
 											]
 										}
 									]
@@ -1906,11 +1906,11 @@
 									"type": "insetReadaloud",
 									"id": "11c",
 									"entries": [
-										"A great statue of Orcus scrapes the thirty-foot-high ceiling of this chamber. The rich smell of incense rises from a large stone brazier at the statue's base, overpowering the faint lingering odor of death. The demon lord's goat-skull visage glowers at you as statues of cultists gaze outward from the shadowed corners of the hall."
+										"Una grande statua di Orcus gratta il soffitto alto nove metri di questa camera. Il ricco odore dell'incenso sale da un grande braciere di pietra alla base della statua, sopraffacendo il debole e persistente odore di morte. Il volto a forma di teschio di capra del signore dei demoni ti guarda torvo mentre le statue dei cultisti guardano verso l'esterno dagli angoli in ombra della sala."
 									]
 								},
-								"The burning incense in the main temple mostly masks the odor of decay that permeates the hall.",
-								"Nezzarum, a {@creature Silver Dragon Wyrmling|XMM} who knows Common, lurks inside the statue of Orcus. The dragon can gaze out into the hall through the statue's hollow eyes, nostrils, and mouth. When not manipulating Xia into doing his bidding, Nezzarum passes the time by playing games of dragonchess against himself. The dragonchess set in his possession is stolen (see \"Stolen Goods\" below).",
+								"L'incenso che brucia nel tempio principale maschera per lo più l'odore di decomposizione che permea la sala.",
+								"Nezzarum, un {@creature Silver Dragon Wyrmling|XMM} che conosce il Comune, si nasconde all'interno della statua di Orcus. Il drago può guardare nella sala attraverso gli occhi cavi, le narici e la bocca della statua. Quando non manipola Xia affinché esegua i suoi ordini, Nezzarum passa il tempo giocando a scacchi del drago contro se stesso. Il set della scacchiera del drago in suo possesso viene rubato (vedi \"Bene rubato\" di seguito).",
 								{
 									"type": "entries",
 									"id": "11d",
@@ -1920,7 +1920,7 @@
 											"name": "Roleplaying Nezzarum",
 											"id": "11e",
 											"entries": [
-												"Nezzarum has been waiting here in the hope that adventurers would come and defeat Xia and her cult, knowing that he isn't strong enough to defeat them on his own. If combat breaks out in {@area T12|117|x} and Nezzarum is aware of it (either because Xia comes and implores the statue of Orcus for aid or because he notices the battle unfolding from his hiding place in the statue), he emerges from the statue and joins the fray. If the characters defeat Xia and Nezzarum survives the encounter, the dragon is Friendly toward them. If the characters approach Nezzarum without first fighting Xia, the dragon is initially Indifferent."
+												"Nezzarum ha aspettato qui nella speranza che gli avventurieri arrivassero e sconfiggessero Xia e il suo culto, sapendo che non è abbastanza forte per sconfiggerli da solo. Se scoppia un combattimento tra {@area T12|117|x} e Nezzarum ne è consapevole (o perché Xia arriva e implora aiuto dalla statua di Orcus o perché nota lo svolgersi della battaglia dal suo nascondiglio nella statua), emerge dalla statua e si unisce alla mischia. Se i personaggi sconfiggono Xia e Nezzarum sopravvive all'incontro, il drago è Amichevole nei loro confronti. Se i personaggi si avvicinano a Nezzarum senza prima combattere Xia, il drago inizialmente sarà Indifferente."
 											]
 										},
 										{
@@ -1928,8 +1928,8 @@
 											"name": "Indifferent Dragon",
 											"id": "11f",
 											"entries": [
-												"If Nezzarum hasn't seen the characters prove themselves in battle, he errs on the side of caution and decides to test them. He issues a random command, determined by rolling on the Nezzarum's Commands table, and judges them based on their consequent actions. If they fulfill his wishes, he seems pleased; if they refuse a command, he remains Indifferent toward them.",
-												"Each time the characters leave the hall and return, Nezzarum issues a new command until he has issued three of them. He never repeats a command, so if you roll the same result twice, roll again or choose a different option from the table. If the characters fulfill all three of his commands, Nezzarum's attitude toward them shifts to Friendly.",
+												"Se Nezzarum non ha visto i personaggi mettersi alla prova in battaglia, pecca per eccesso di cautela e decide di metterli alla prova. Immette un comando casuale, determinato tirando sulla tabella dei Comandi di Nezzarum, e li giudica in base alle azioni conseguenti. Se soddisfano i suoi desideri, sembra contento; se rifiutano un comando, rimane indifferente nei loro confronti.",
+												"Ogni volta che i personaggi lasciano la sala e ritornano, Nezzarum impartisce un nuovo comando finché non ne ha impartiti tre. Non ripete mai un comando, quindi se ottieni lo stesso risultato due volte, tira di nuovo o scegli un'opzione diversa dalla tabella. Se i personaggi soddisfano tutti e tre i suoi comandi, l'atteggiamento di Nezzarum nei loro confronti diventa Amichevole.",
 												{
 													"type": "table",
 													"caption": "Nezzarum's Commands",
@@ -1944,31 +1944,31 @@
 													"rows": [
 														[
 															"1",
-															"\"Bring me a banquet of cooked meat, steamed vegetables, and fresh fruit!\" (Characters can buy the food and have it prepared in town for 3 GP.)"
+															"\"Portatemi un banchetto di carne cotta, verdure al vapore e frutta fresca!\" (I personaggi possono acquistare il cibo e farlo preparare in città per 3 GP.)"
 														],
 														[
 															"2",
-															"\"Bring me a wheel of cheese!\" (Characters can buy the cheese in town for 5 SP.)"
+															"\"Portami una forma di formaggio!\" (I personaggi possono acquistare il formaggio in città per 5 SP.)"
 														],
 														[
 															"3",
-															"\"Bring me treasure worthy of a dragon!\" (Nezzarum expects at least 100 GP worth of treasure or something of historical value.)"
+															"\"Portami un tesoro degno di un drago!\" (Nezzarum si aspetta un tesoro del valore di almeno 100 GP o qualcosa di valore storico.)"
 														],
 														[
 															"4",
-															"\"Bring four nice rugs to cover my cold stone floor!\" (Characters can buy the rugs in town for 5 GP each.)"
+															"\"Porta quattro bei tappeti per coprire il mio freddo pavimento di pietra!\" (I personaggi possono acquistare i tappeti in città per 5 GP ciascuno.)"
 														],
 														[
 															"5",
-															"\"Bring me two more pots of silver paint!\" (Characters can buy the paint in town for 2 SP per pot.)"
+															"\"Portami altri due barattoli di vernice argentata!\" (I personaggi possono acquistare la vernice in città per 2 SP per vaso.)"
 														],
 														[
 															"6",
-															"\"Bring me the head of something evil!\" (If the characters ask for suggestions, he replies, \"Zombies are evil, aren't they? Bring me the head of a zombie!\")"
+															"\"Portami la testa di qualcosa di malvagio!\" (Se i personaggi chiedono suggerimenti, lui risponde: \"Gli zombi sono malvagi, vero? Portami la testa di uno zombi!\")"
 														]
 													]
 												},
-												"Characters struck by the bizarre nature of \"Orcus's\" commands can take the {@action Search|XPHB} action and make a {@dc 15} Wisdom ({@skill Insight|XPHB}) check. On a success, the character realizes a deception is afoot."
+												"I personaggi colpiti dalla natura bizzarra dei comandi di \"Orcus\" possono eseguire l'azione {@action Search|XPHB} ed effettuare una prova di {@dc 15} Saggezza ({@skill Insight|XPHB}). In caso di successo, il personaggio si rende conto che è in atto un inganno."
 											]
 										},
 										{
@@ -1976,8 +1976,8 @@
 											"name": "Friendly Dragon",
 											"id": "120",
 											"entries": [
-												"If he becomes Friendly, Nezzarum tells the story of his coming to the temple and the cult's subsequent arrival (see \"{@area Adventure Background|0cd|x}\"). If the characters haven't defeated Xia yet, that's the dragon's highest priority, and he promises to help them fight the ghast and any remaining cultists.",
-												"Nezzarum hasn't searched the temple thoroughly enough to locate any other secret doors (besides the one in the base of the statue). He has no objection to the characters searching the temple for treasure if they agree to give him an equal share."
+												"Se diventa Amichevole, Nezzarum racconta la storia della sua venuta al tempio e del successivo arrivo del culto (vedi \"{@area Adventure Background|0cd|x}\"). Se i personaggi non hanno ancora sconfitto Xia, questa è la massima priorità del drago e lui promette di aiutarli a combattere il ghast e tutti i cultisti rimasti.",
+												"Nezzarum non ha perquisito il tempio abbastanza a fondo da individuare altre porte segrete (oltre a quella alla base della statua). Non ha obiezioni al fatto che i personaggi cerchino tesori nel tempio se accettano di dargli una parte uguale."
 											]
 										},
 										{
@@ -1985,7 +1985,7 @@
 											"name": "Secret Doors",
 											"id": "121",
 											"entries": [
-												"This hall contains seven secret doors (see \"{@area Temple Features|0db|x}\"):",
+												"Questa sala contiene sette porte segrete (vedi \"{@area Temple Features|0db|x}\"):",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -1993,17 +1993,17 @@
 														{
 															"type": "item",
 															"name": "Statue Access",
-															"entry": "A secret door in the base of the Orcus statue pulls open to reveal a winding staircase that ascends to a 10-foot-diameter chamber in the statue's head."
+															"entry": "Una porta segreta alla base della statua dell'Orcus si apre per rivelare una scala a chiocciola che sale fino a una camera del diametro di 3 metri nella testa della statua."
 														},
 														{
 															"type": "item",
 															"name": "South Wall Exits",
-															"entry": "Two secret doors in the south wall lead to hallways (areas {@area T9|108|x} and {@area T10|10b|x}). The door on the west side (to area {@area T9|108|x}) is ajar and doesn't require an ability check to locate."
+															"entry": "Due porte segrete nel muro sud conducono ai corridoi (aree {@area T9|108|x} e {@area T10|10b|x}). La porta sul lato ovest (nell'area {@area T9|108|x}) è socchiusa e non richiede una prova di abilità per essere individuata."
 														},
 														{
 															"type": "item",
 															"name": "To the Vaults",
-															"entry": "Four secret doors hidden behind statues each lead to a different vault (see area {@area T14|123|x}). The area between a statue and a secret door is wide enough for only a Tiny creature to fit comfortably. For a Small or Medium creature, those areas are {@variantrule Difficult Terrain|XPHB}."
+															"entry": "Quattro porte segrete nascoste dietro le statue conducono ciascuna a un caveau diverso (vedi area {@area T14|123|x}). L'area tra una statua e una porta segreta è abbastanza ampia da consentire il passaggio confortevole solo di una creatura Minuscola. Per una creatura Piccola o Media, quelle aree sono {@variantrule Difficult Terrain|XPHB}."
 														}
 													]
 												}
@@ -2014,7 +2014,7 @@
 											"name": "Stolen Goods to Recover",
 											"id": "122",
 											"entries": [
-												"The dragonchess Gaming Set and incense are stolen goods (see \"Stolen Goods\"). If Nezzarum is Friendly, he allows the characters to return the goods the cultists stole to the rightful owners."
+												"Il set da gioco della scacchiera del drago e l'incenso sono beni rubati (vedi \"Beni rubati\"). Se Nezzarum è Amichevole, permette ai personaggi di restituire i beni rubati dai cultisti ai legittimi proprietari."
 											]
 										}
 									]
@@ -2026,12 +2026,12 @@
 							"name": "T14: Secret Vaults",
 							"id": "123",
 							"entries": [
-								"Four secret vaults are connected to the main temple (area {@area T13|11b|x}), and two more are connected to the hall of statues (area {@area T4|0f0|x}). The vaults are basically identical, but each contains a different statue, a different treasure, and a different guardian for that treasure.",
+								"Quattro cripte segrete sono collegate al tempio principale (area {@area T13|11b|x}) e altre due sono collegate alla sala delle statue (area {@area T4|0f0|x}). Le cripte sono sostanzialmente identiche, ma ognuna contiene una statua diversa, un tesoro diverso e un guardiano diverso per quel tesoro.",
 								{
 									"type": "insetReadaloud",
 									"id": "124",
 									"entries": [
-										"A tunnel leads to a five-sided room. A cobweb-covered statue stands in one corner."
+										"Un tunnel conduce ad una stanza a cinque lati. In un angolo si trova una statua ricoperta di ragnatele."
 									]
 								},
 								{
@@ -2043,7 +2043,7 @@
 											"name": "Vault Contents",
 											"id": "126",
 											"entries": [
-												"Use the Statues table to determine each statue's form, the Creatures table to determine the guardian of each vault, and the Treasure table to determine the items stored within (see \"Accessing the Vaults' Treasure\" below)."
+												"Usa la tabella delle Statue per determinare la forma di ciascuna statua, la tabella delle Creature per determinare il guardiano di ciascuna cripta e la tabella del Tesoro per determinare gli oggetti conservati al suo interno (vedi \"Accesso al tesoro delle cripte\" di seguito)."
 											]
 										},
 										{
@@ -2051,7 +2051,7 @@
 											"name": "Accessing the Vaults' Treasure",
 											"id": "127",
 											"entries": [
-												"Under each statue lies a cylindrical compartment 3 feet across and 3 feet deep. To get at the treasure within, characters must topple or destroy the statue. Each statue is a Medium object with AC 17, HP 18, and {@variantrule Immunity|XPHB} to Poison and Psychic damage. As a {@action Utilize|XPHB} action, a character can try to topple a statue, doing so with a successful {@dc 17} Strength ({@skill Athletics|XPHB}) check.",
+												"Sotto ogni statua si trova un compartimento cilindrico largo 3 piedi e profondo 3 piedi. Per arrivare al tesoro al suo interno, i personaggi devono rovesciare o distruggere la statua. Ogni statua è un oggetto medio con CA 17, HP 18 e {@variantrule Immunity|XPHB} danni da veleno e psichici. Come azione {@action Utilize|XPHB}, un personaggio può provare a far cadere una statua, facendolo con una prova riuscita di {@dc 17} Forza ({@skill Athletics|XPHB}).",
 												{
 													"type": "table",
 													"caption": "Statues",
@@ -2066,7 +2066,7 @@
 													"rows": [
 														[
 															"1",
-															"Cloaked {@creature vampire|XMM}"
+															"Nascosto {@creature vampire|XMM}"
 														],
 														[
 															"2",
@@ -2082,7 +2082,7 @@
 														],
 														[
 															"5",
-															"Skeletal goat"
+															"Capra scheletrica"
 														],
 														[
 															"6",
@@ -2104,27 +2104,27 @@
 													"rows": [
 														[
 															"1",
-															"A Hostile {@creature Swarm of Crawling Claws|XMM} nests in the statue's nooks and crannies, emerging to attack when the statue is disturbed."
+															"Un ostile {@creature Swarm of Crawling Claws|XMM} si annida negli angoli e nelle fessure della statua, emergendo per attaccare quando la statua viene disturbata."
 														],
 														[
 															"2",
-															"Disturbing the statue causes its head to split open, releasing a Hostile {@creature Flameskull|XMM}."
+															"Disturbare la statua fa spaccare la sua testa, liberando un ostile {@creature Flameskull|XMM}."
 														],
 														[
 															"3",
-															"The statue acts as a sarcophagus. Disturbing the statue causes it to break apart, freeing the Hostile {@creature Mummy|XMM} inside."
+															"La statua funge da sarcofago. Disturbare la statua la farà crollare, liberando l'Ostile {@creature Mummy|XMM} al suo interno."
 														],
 														[
 															"4",
-															"Disturbing the statue causes four {@creature Specter|XMM|Specters} to emerge from cavities behind the walls. They pass through the walls and engage the characters in combat."
+															"Se si disturba la statua, quattro {@creature Specter|XMM|Specters} emergono dalle cavità dietro le pareti. Passano attraverso i muri e ingaggiano i personaggi in combattimento."
 														],
 														[
 															"5",
-															"Disturbing the statue causes it to disgorge a Hostile {@creature Black Pudding|XMM}."
+															"Disturbare la statua le fa vomitare un Ostile {@creature Black Pudding|XMM}."
 														],
 														[
 															"6",
-															"There is no guardian."
+															"Non c'è nessun tutore."
 														]
 													]
 												},
@@ -2142,27 +2142,27 @@
 													"rows": [
 														[
 															"1",
-															"Basket containing what appears to be the {@item Wand of Orcus|XDMG} but is actually a powerless replica (worth 50 GP) that radiates a false magical aura when subjected to a {@spell Detect Magic|XPHB} spell"
+															"Cesto contenente quello che sembra essere il {@item Wand of Orcus|XDMG} ma in realtà è una replica impotente (del valore di 50 GP) che irradia una falsa aura magica quando sottoposto a un incantesimo {@spell Detect Magic|XPHB}"
 														],
 														[
 															"2",
-															"Malachite skull (worth 250 GP) resting on a bed of {@dice 2d6 × 100} GP"
+															"Teschio di malachite (del valore di 250 GP) appoggiato su un letto di {@dice 2d6 × 100} GP"
 														],
 														[
 															"3",
-															"3-foot-tall statue of Orcus made of crimson marble (worth 750 GP and weighing 75 pounds)"
+															"Statua dell'Orco alta 90 cm, realizzata in marmo cremisi (del valore di 750 GP e del peso di 75 libbre)"
 														],
 														[
 															"4",
-															"Basket containing a randomly determined Common magic item (see the {@book Dungeon Master's Guide|XDMG})"
+															"Cesto contenente un oggetto magico comune determinato casualmente (vedi {@book Dungeon Master's Guide|XDMG})"
 														],
 														[
 															"5",
-															"Casket containing a mummified human corpse in the fetal position wearing a gold necklace (worth 750 GP)"
+															"Scrigno contenente un cadavere umano mummificato in posizione fetale con indosso una collana d'oro (del valore di 750 GP)"
 														],
 														[
 															"6",
-															"Basket containing a randomly determined Uncommon magic item (see the {@book Dungeon Master's Guide|XDMG})"
+															"Cesto contenente un oggetto magico non comune determinato casualmente (vedi {@book Dungeon Master's Guide|XDMG})"
 														]
 													]
 												}
@@ -2179,8 +2179,8 @@
 					"name": "Conclusion",
 					"id": "128",
 					"entries": [
-						"After ridding the temple of {@area Xia's Cult|0d5|x}, the characters can return to Greysmere to collect their reward. Even if they didn't remove every threat, Oriann trusts the characters accomplished their mission and pays them accordingly. The innkeeper gladly takes custody of any stolen goods the characters retrieved from the temple and ensures that they are returned to their proper owners.",
-						"Should the characters reveal that a silver dragon was behind the cult's bizarre activities, Oriann recalls observing a wyrmling soaring among the clouds from time to time, but they know nothing more about it.",
+						"Dopo aver liberato il tempio da {@area Xia's Cult|0d5|x}, i personaggi possono tornare a Greysmere per ritirare la loro ricompensa. Anche se non hanno rimosso ogni minaccia, Oriann ha fiducia che i personaggi abbiano portato a termine la loro missione e li paga di conseguenza. Il locandiere prende volentieri in custodia tutti i beni rubati che i personaggi hanno recuperato dal tempio e si assicura che vengano restituiti ai legittimi proprietari.",
+						"Se i personaggi dovessero rivelare che dietro le bizzarre attività del culto c'era un drago d'argento, Oriann ricorda di aver osservato di tanto in tanto un cucciolo che volteggiava tra le nuvole, ma non ne sanno più nulla.",
 						{
 							"type": "image",
 							"href": {
@@ -2203,7 +2203,7 @@
 							"type": "insetReadaloud",
 							"id": "12a",
 							"entries": [
-								"For all the many changes in the look of dragons over the years, the silver dragon's distinctive crest is visible in every incarnation."
+								"Nonostante tutti i numerosi cambiamenti nell'aspetto dei draghi nel corso degli anni, la caratteristica cresta del drago d'argento è visibile in ogni incarnazione."
 							]
 						},
 						{
@@ -2371,22 +2371,22 @@
 						{
 							"type": "item",
 							"name": "Designers:",
-							"entry": "Justice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
+							"entry": "Il giudice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
 						},
 						{
 							"type": "item",
 							"name": "Rules Developers:",
-							"entry": "Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen"
+							"entry": "Makenzie De Armas (protagonista), Jeremy Crawford, Ron Lundeen"
 						},
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Judy Bauer (lead), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
+							"entry": "Judy Bauer (protagonista), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
 						},
 						{
 							"type": "item",
 							"name": "Art Directors:",
-							"entry": "Matt Cole (lead), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
+							"entry": "Matt Cole (protagonista), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
 						},
 						{
 							"type": "item",
@@ -2416,7 +2416,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
+							"entry": "Rob Hawkey (protagonista), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
 						}
 					]
 				},

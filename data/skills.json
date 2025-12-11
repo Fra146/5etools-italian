@@ -11,7 +11,7 @@
 			],
 			"ability": "dex",
 			"entries": [
-				"Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The DM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips."
+				"La tua prova di Destrezza (Acrobazia) copre il tuo tentativo di rimanere in piedi in una situazione difficile, come quando stai cercando di correre su una lastra di ghiaccio, restare in equilibrio su una corda o rimanere in piedi sul ponte di una nave che oscilla. Il DM potrebbe anche richiedere una prova di Destrezza (Acrobazia) per vedere se sei in grado di eseguire acrobazie, inclusi tuffi, capriole, capriole e capriole."
 			]
 		},
 		{
@@ -21,7 +21,7 @@
 			"srd52": true,
 			"ability": "dex",
 			"entries": [
-				"Stay on your feet in a tricky situation, or perform an acrobatic stunt."
+				"Rimani in piedi in una situazione difficile o esegui un'acrobazia."
 			]
 		},
 		{
@@ -35,7 +35,7 @@
 			],
 			"ability": "wis",
 			"entries": [
-				"When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal's intentions, the DM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver."
+				"Quando c'è qualche dubbio sulla tua capacità di calmare un animale addomesticato, evitare che una cavalcatura si spaventi o intuire le intenzioni di un animale, il DM potrebbe richiedere una prova di Saggezza (Maneggiamento di Animali). Si effettua anche una prova di Saggezza (Addestramento di Animali) per controllare la propria cavalcatura quando si tenta una manovra rischiosa."
 			]
 		},
 		{
@@ -45,7 +45,7 @@
 			"srd52": true,
 			"ability": "wis",
 			"entries": [
-				"Calm or train an animal, or get an animal to behave in a certain way."
+				"Calma o addestra un animale o fai in modo che si comporti in un certo modo."
 			]
 		},
 		{
@@ -59,7 +59,7 @@
 			],
 			"ability": "int",
 			"entries": [
-				"Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes."
+				"La tua prova di Intelligenza (Arcana) misura la tua capacità di ricordare conoscenze su incantesimi, oggetti magici, simboli arcani, tradizioni magiche, piani dell'esistenza e abitanti di quei piani."
 			]
 		},
 		{
@@ -69,7 +69,7 @@
 			"srd52": true,
 			"ability": "int",
 			"entries": [
-				"Recall lore about spells, magic items, and the planes of existence."
+				"Ricorda la tradizione sugli incantesimi, sugli oggetti magici e sui piani dell'esistenza."
 			]
 		},
 		{
@@ -83,13 +83,13 @@
 			],
 			"ability": "str",
 			"entries": [
-				"Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:",
+				"La tua prova di Forza (Atletica) copre le situazioni difficili che incontri mentre ti arrampichi, salti o nuoti. Gli esempi includono le seguenti attività:",
 				{
 					"type": "list",
 					"items": [
-						"You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.",
-						"You try to jump an unusually long distance or pull off a stunt mid jump.",
-						"You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming."
+						"Tenti di scalare una scogliera ripida o scivolosa, di evitare pericoli mentre scali un muro o di aggrapparti a una superficie mentre qualcosa sta cercando di farti cadere.",
+						"Cerchi di saltare una distanza insolitamente lunga o di eseguire un'acrobazia a metà salto.",
+						"Fai fatica a nuotare o a rimanere a galla in correnti insidiose, onde battute dalla tempesta o aree di fitte alghe. Oppure un'altra creatura tenta di spingerti o trascinarti sott'acqua o di interferire in altro modo con il tuo nuoto."
 					]
 				}
 			]
@@ -101,7 +101,7 @@
 			"srd52": true,
 			"ability": "str",
 			"entries": [
-				"Jump farther than normal, stay afloat in rough water, or break something."
+				"Salta più lontano del normale, resta a galla in acque agitate o rompi qualcosa."
 			]
 		},
 		{
@@ -115,7 +115,7 @@
 			],
 			"ability": "cha",
 			"entries": [
-				"Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie."
+				"La tua prova di Carisma (Inganno) determina se puoi nascondere in modo convincente la verità, verbalmente o attraverso le tue azioni. Questo inganno può comprendere qualsiasi cosa, dall'inganno degli altri attraverso l'ambiguità al dire vere e proprie bugie. Situazioni tipiche includono tentare di parlare velocemente con una guardia, truffare un commerciante, guadagnare denaro giocando d'azzardo, spacciarsi sotto mentite spoglie, smorzare i sospetti di qualcuno con false assicurazioni o mantenere un'espressione seria mentre si racconta una palese bugia."
 			]
 		},
 		{
@@ -125,7 +125,7 @@
 			"srd52": true,
 			"ability": "cha",
 			"entries": [
-				"Tell a convincing lie, or wear a disguise convincingly."
+				"Racconta una bugia convincente o indossa un travestimento in modo convincente."
 			]
 		},
 		{
@@ -139,7 +139,7 @@
 			],
 			"ability": "int",
 			"entries": [
-				"Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations."
+				"La tua prova di Intelligenza (Storia) misura la tua capacità di ricordare conoscenze su eventi storici, personaggi leggendari, antichi regni, controversie passate, guerre recenti e civiltà perdute."
 			]
 		},
 		{
@@ -149,7 +149,7 @@
 			"srd52": true,
 			"ability": "int",
 			"entries": [
-				"Recall lore about historical events, people, nations, and cultures."
+				"Richiamare la tradizione su eventi storici, persone, nazioni e culture."
 			]
 		},
 		{
@@ -163,7 +163,7 @@
 			],
 			"ability": "wis",
 			"entries": [
-				"Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms."
+				"La tua prova di Saggezza (Intuizione) decide se puoi determinare le vere intenzioni di una creatura, ad esempio quando scopri una bugia o prevedi la prossima mossa di qualcuno. Per farlo è necessario raccogliere indizi dal linguaggio del corpo, dalle abitudini linguistiche e dai cambiamenti nei manierismi."
 			]
 		},
 		{
@@ -173,7 +173,7 @@
 			"srd52": true,
 			"ability": "wis",
 			"entries": [
-				"Discern a person's mood and intentions."
+				"Discernere l'umore e le intenzioni di una persona."
 			]
 		},
 		{
@@ -187,7 +187,7 @@
 			],
 			"ability": "cha",
 			"entries": [
-				"When you attempt to influence someone through overt threats, hostile actions, and physical violence, the DM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision."
+				"Quando tenti di influenzare qualcuno attraverso minacce palesi, azioni ostili e violenza fisica, il DM potrebbe chiederti di effettuare una prova di Carisma (Intimidazione). Gli esempi includono il tentativo di estorcere informazioni a un prigioniero, convincere i delinquenti di strada a tirarsi indietro da uno scontro o usare il bordo di una bottiglia rotta per convincere un visir beffardo a riconsiderare una decisione."
 			]
 		},
 		{
@@ -197,7 +197,7 @@
 			"srd52": true,
 			"ability": "cha",
 			"entries": [
-				"Awe or threaten someone into doing what you want."
+				"Impressionare o minacciare qualcuno affinché faccia quello che vuoi."
 			]
 		},
 		{
@@ -211,7 +211,7 @@
 			],
 			"ability": "int",
 			"entries": [
-				"When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check."
+				"Quando cerchi indizi e fai deduzioni basate su di essi, effettui una prova di Intelligenza (Indagare). Potresti dedurre la posizione di un oggetto nascosto, discernere dall'aspetto di una ferita che tipo di arma l'ha inflitta o determinare il punto più debole in un tunnel che potrebbe causarne il collasso. Studiare attentamente antiche pergamene alla ricerca di un frammento nascosto di conoscenza potrebbe anche richiedere una prova di Intelligenza (Indagare)."
 			]
 		},
 		{
@@ -221,7 +221,7 @@
 			"srd52": true,
 			"ability": "int",
 			"entries": [
-				"Find obscure information in books, or deduce how something works."
+				"Trova informazioni oscure nei libri o deduci come funziona qualcosa."
 			]
 		},
 		{
@@ -235,7 +235,7 @@
 			],
 			"ability": "wis",
 			"entries": [
-				"A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness."
+				"Una prova di Saggezza (Medicina) ti consente di provare a stabilizzare un compagno morente o diagnosticare una malattia."
 			]
 		},
 		{
@@ -245,7 +245,7 @@
 			"srd52": true,
 			"ability": "wis",
 			"entries": [
-				"Diagnose an illness, or determine what killed the recently slain."
+				"Diagnosticare una malattia o determinare cosa ha ucciso le persone recentemente uccise."
 			]
 		},
 		{
@@ -259,7 +259,7 @@
 			],
 			"ability": "int",
 			"entries": [
-				"Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles."
+				"La tua prova di Intelligenza (Natura) misura la tua capacità di ricordare conoscenze su terreno, piante e animali, tempo atmosferico e cicli naturali."
 			]
 		},
 		{
@@ -269,7 +269,7 @@
 			"srd52": true,
 			"ability": "int",
 			"entries": [
-				"Recall lore about terrain, plants, animals, and weather."
+				"Richiamare conoscenze su terreno, piante, animali e tempo meteorologico."
 			]
 		},
 		{
@@ -283,8 +283,8 @@
 			],
 			"ability": "wis",
 			"entries": [
-				"Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses.",
-				"For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door."
+				"La tua prova di Saggezza (Percezione) ti consente di individuare, udire o rilevare in altro modo la presenza di qualcosa. Misura la tua consapevolezza generale di ciò che ti circonda e l'acutezza dei tuoi sensi.",
+				"Ad esempio, potresti provare ad ascoltare una conversazione attraverso una porta chiusa, origliare sotto una finestra aperta o sentire i mostri che si muovono furtivamente nella foresta. Oppure potresti provare a individuare cose che sono oscurate o facili da perdere, che siano orchi in agguato su una strada, teppisti nascosti nell'ombra di un vicolo o la luce di una candela sotto una porta segreta chiusa."
 			]
 		},
 		{
@@ -294,7 +294,7 @@
 			"srd52": true,
 			"ability": "wis",
 			"entries": [
-				"Using a combination of senses, notice something that's easy to miss."
+				"Utilizzando una combinazione di sensi, nota qualcosa che è facile non notare."
 			]
 		},
 		{
@@ -308,7 +308,7 @@
 			],
 			"ability": "cha",
 			"entries": [
-				"Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment."
+				"La tua prova di Carisma (Prestazione) determina quanto bene riesci a deliziare il pubblico con musica, danza, recitazione, narrazione o qualche altra forma di intrattenimento."
 			]
 		},
 		{
@@ -318,7 +318,7 @@
 			"srd52": true,
 			"ability": "cha",
 			"entries": [
-				"Act, tell a story, perform music, or dance."
+				"Recita, racconta una storia, esegui musica o balla."
 			]
 		},
 		{
@@ -332,7 +332,7 @@
 			],
 			"ability": "cha",
 			"entries": [
-				"When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk."
+				"Quando tenti di influenzare qualcuno o un gruppo di persone con tatto, buone maniere o buona natura, il DM potrebbe chiederti di effettuare una prova di Carisma (Persuasione). In genere, si usa la persuasione quando si agisce in buona fede, per promuovere amicizie, fare richieste cordiali o esibire un'etichetta adeguata. Esempi di persuasione includono convincere un ciambellano a permettere al tuo gruppo di vedere il re, negoziare la pace tra tribù in guerra o ispirare una folla di cittadini."
 			]
 		},
 		{
@@ -342,7 +342,7 @@
 			"srd52": true,
 			"ability": "cha",
 			"entries": [
-				"Honestly and graciously convince someone of something."
+				"Convinci qualcuno di qualcosa con onestà e gentilezza."
 			]
 		},
 		{
@@ -356,7 +356,7 @@
 			],
 			"ability": "int",
 			"entries": [
-				"Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults."
+				"La tua prova di Intelligenza (Religione) misura la tua capacità di ricordare conoscenze su divinità, riti e preghiere, gerarchie religiose, simboli sacri e pratiche di culti segreti."
 			]
 		},
 		{
@@ -366,7 +366,7 @@
 			"srd52": true,
 			"ability": "int",
 			"entries": [
-				"Recall lore about gods, religious rituals, and holy symbols."
+				"Ricorda la tradizione degli dei, dei rituali religiosi e dei simboli sacri."
 			]
 		},
 		{
@@ -380,7 +380,7 @@
 			],
 			"ability": "dex",
 			"entries": [
-				"Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The DM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket."
+				"Ogni volta che si tenta un atto di prestidigitazione o di inganno manuale, come piantare qualcosa addosso a qualcun altro o nascondere un oggetto addosso a se stessi, effettuare una prova di Destrezza (Rapidità di Mano). Il DM potrebbe anche richiedere una prova di Destrezza (rapidità di mano) per determinare se puoi sollevare un portamonete dalle mani di un'altra persona o far scivolare qualcosa fuori dalla tasca di un'altra persona."
 			]
 		},
 		{
@@ -390,7 +390,7 @@
 			"srd52": true,
 			"ability": "dex",
 			"entries": [
-				"Pick a pocket, conceal a handheld object, or perform legerdemain."
+				"Svuotare una tasca, nascondere un oggetto tenuto in mano o eseguire giochi di prestigio."
 			]
 		},
 		{
@@ -404,7 +404,7 @@
 			],
 			"ability": "dex",
 			"entries": [
-				"Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard."
+				"Effettua una prova di Destrezza (Furtività) quando tenti di nasconderti dai nemici, sgusciare oltre le guardie, scivolare via senza essere notato o avvicinarti di soppiatto a qualcuno senza essere visto o sentito."
 			]
 		},
 		{
@@ -414,7 +414,7 @@
 			"srd52": true,
 			"ability": "dex",
 			"entries": [
-				"Escape notice by moving quietly and hiding behind things."
+				"Sfuggi all'attenzione muovendoti silenziosamente e nascondendoti dietro le cose."
 			]
 		},
 		{
@@ -428,7 +428,7 @@
 			],
 			"ability": "wis",
 			"entries": [
-				"The DM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards."
+				"Il DM potrebbe chiederti di effettuare una prova di Saggezza (Sopravvivenza) per seguire tracce, cacciare selvaggina, guidare il tuo gruppo attraverso terre desolate ghiacciate, identificare segni che indicano che gli orsigufo vivono nelle vicinanze, prevedere il tempo o evitare sabbie mobili e altri pericoli naturali."
 			]
 		},
 		{
@@ -438,7 +438,7 @@
 			"srd52": true,
 			"ability": "wis",
 			"entries": [
-				"Follow tracks, forage, find a trail, or avoid natural hazards."
+				"Segui le tracce, cerca il cibo, trova un sentiero o evita i pericoli naturali."
 			]
 		}
 	]

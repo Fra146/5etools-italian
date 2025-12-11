@@ -5,7 +5,7 @@
 			"name": "Tarot Deck",
 			"page": 1,
 			"entries": [
-				"Dungeons & Dragons is a fantasy role-playing game that takes place in the mind of its players. Tarot is an ancient form of divination that accesses the magical dimension of our world. Together they create an adventure of the imagination\u2014a treasure hunt to help you unravel the mysteries of life and discover the secrets of yourself.",
+				"Dungeons & Dragons è un gioco di ruolo fantasy ambientato nella mente dei suoi giocatori. I Tarocchi sono un'antica forma di divinazione che accede alla dimensione magica del nostro mondo. Insieme creano un'avventura dell'immaginazione: una caccia al tesoro per aiutarti a svelare i misteri della vita e scoprire i segreti di te stesso.",
 				{
 					"type": "hr"
 				},
@@ -17,15 +17,15 @@
 							"name": "How to Read Tarot",
 							"page": 1,
 							"entries": [
-								"Traditionally tarot is played by a reader and a seeker, but feel free to switch roles as the reading carries on. To read your own tarot, you take on both the roles of reader and seeker. Most tarot readings start with a question, and the quality of the question will determine the quality of the answer. For example, instead of asking {@i Why am I always sad?} try {@i How do I bring more joy to my life?}",
-								"Each card that is revealed adds to the unique tapestry of meaning, helping the seeker make inquiries into their own life and psyche to gain clarity about their current situation and conclude what might be possible for their future.",
-								"Although the root meaning of each card is explained in this booklet, the true meaning of each card can only be discovered within the context of the reading, as the cards begin to influence one another to create a story. And so it's best to allow the reading to unfold (five cards is a good number) without trying to define the answer.",
+								"Tradizionalmente i tarocchi vengono interpretati da un lettore e da un cercatore, ma sentiti libero di scambiare i ruoli man mano che la lettura prosegue. Per leggere i tuoi tarocchi, assumi entrambi i ruoli di lettore e cercatore. La maggior parte delle letture dei tarocchi iniziano con una domanda e la qualità della domanda determinerà la qualità della risposta. Ad esempio, invece di chiedere {@i Why am I always sad?} prova {@i How do I bring more joy to my life?}",
+								"Ogni carta rivelata si aggiunge all'arazzo unico di significato, aiutando il cercatore a indagare sulla propria vita e psiche per ottenere chiarezza sulla propria situazione attuale e concludere cosa potrebbe essere possibile per il proprio futuro.",
+								"Sebbene il significato principale di ciascuna carta sia spiegato in questo opuscolo, il vero significato di ciascuna carta può essere scoperto solo nel contesto della lettura, poiché le carte iniziano a influenzarsi a vicenda per creare una storia. E quindi è meglio lasciare che la lettura si svolga (cinque carte è un buon numero) senza cercare di definire la risposta.",
 								{
 									"type": "entries",
 									"name": "The Major Arcana,",
 									"page": 2,
 									"entries": [
-										"denoted by the cards numbered from 0 to 21 represent the archetypal life lessons all human beings experience, such as love, loss, change, and consciousness. The Major Arcana are challenges we revisit throughout our lives, but in different places; our life experience is continually expanding with time, so our capacity for understanding gives us a deeper insight into these lessons."
+										"denotati dalle carte numerate da 0 a 21 rappresentano le lezioni di vita archetipiche che tutti gli esseri umani sperimentano, come l'amore, la perdita, il cambiamento e la coscienza. Gli Arcani Maggiori sono sfide che rivisitiamo nel corso della nostra vita, ma in luoghi diversi; la nostra esperienza di vita si espande continuamente nel tempo, quindi la nostra capacità di comprensione ci dà una visione più profonda di queste lezioni."
 									],
 									"id": "003"
 								},
@@ -34,8 +34,8 @@
 									"name": "The Minor Arcana,",
 									"page": 2,
 									"entries": [
-										"is made of 56 cards divided into four suits. These cards represent life's temporary highs and lows that pop up and fade away, unlike the enduring and evolving transformations of the Major Arcana.",
-										"In this tarot deck, we have mapped the traditional suits of the Minor Arcana\u2014Wands, Swords, Cups, and Pentacles\u2014to abilities within the game of D&D.",
+										"è composto da 56 carte divise in quattro semi. Queste carte rappresentano gli alti e bassi temporanei della vita che compaiono e svaniscono, a differenza delle trasformazioni durature e in evoluzione degli Arcani Maggiori.",
+										"In questo mazzo di tarocchi, abbiamo mappato i semi tradizionali degli Arcani Minori – Bacchette, Spade, Coppe e Denari – in abilità all'interno del gioco di D&D.",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -46,7 +46,7 @@
 													"name": "Strength",
 													"nameDot": false,
 													"entries": [
-														"signifies your physical ability to move and change your environment. It is also your passion, creativity, inner resolve, and heart. These cards show seekers that they need to take action and focus on their inner strength to bring about change in the world."
+														"indica la tua capacità fisica di muoverti e cambiare il tuo ambiente. È anche la tua passione, creatività, determinazione interiore e cuore. Queste carte mostrano ai cercatori che devono agire e concentrarsi sulla propria forza interiore per realizzare il cambiamento nel mondo."
 													]
 												},
 												{
@@ -54,7 +54,7 @@
 													"name": "Intelligence",
 													"nameDot": false,
 													"entries": [
-														"represents how the power of the intellect can shape our world. These cards show seekers how they can use their thoughts to shape their attitude and their reality. Rarely do we see the world as it is without our mind creating a story around it."
+														"rappresenta come il potere dell'intelletto può modellare il nostro mondo. Queste carte mostrano ai cercatori come possono usare i propri pensieri per modellare il proprio atteggiamento e la propria realtà. Raramente vediamo il mondo così com’è senza che la nostra mente crei una storia attorno ad esso."
 													]
 												},
 												{
@@ -62,7 +62,7 @@
 													"name": "Wisdom",
 													"nameDot": false,
 													"entries": [
-														"represents not only your external perception but also your capacity to look into your internal world and see all the subtleties within yourself. These cards tell seekers to turn within and listen to the nonverbal language of the heart and the body in order to gain access to the wisdom of insight and intuition."
+														"rappresenta non solo la tua percezione esterna ma anche la tua capacità di guardare nel tuo mondo interno e vedere tutte le sottigliezze dentro di te. Queste carte dicono ai cercatori di rivolgersi all'interno e di ascoltare il linguaggio non verbale del cuore e del corpo per accedere alla saggezza dell'intuizione profonda e dell'intuizione."
 													]
 												},
 												{
@@ -70,7 +70,7 @@
 													"name": "Charisma",
 													"nameDot": false,
 													"entries": [
-														"denotes a person's confidence, eloquence, and their ability to influence the material world with their energy. These cards show seekers that a flowering of their inner beauty and power is taking place or that they have an opportunity to grow their self- esteem and expand their capacity for fun and joy."
+														"denota la fiducia, l'eloquenza e la capacità di una persona di influenzare il mondo materiale con la propria energia. Queste carte mostrano ai cercatori che è in atto una fioritura della loro bellezza e del loro potere interiori o che hanno l'opportunità di far crescere la loro autostima ed espandere la loro capacità di divertimento e gioia."
 													]
 												}
 											]
@@ -89,7 +89,7 @@
 							"name": "Upright and Reversed Meanings",
 							"page": 3,
 							"entries": [
-								"Many tarot readers give upside-down (reversed) cards an opposite meaning of the upright version. In this booklet, there is no reversed meaning, but as the reader of tarot, feel free to follow your intuition. If you feel that the seeker needs a bit of a wake-up call, then a reversed interpretation can often do the trick."
+								"Molti lettori di tarocchi attribuiscono alle carte capovolte (invertite) un significato opposto rispetto alla versione verticale. In questo opuscolo non c'è significato invertito, ma come lettore di tarocchi, sentiti libero di seguire il tuo intuito. Se ritieni che la persona in cerca abbia bisogno di un campanello d’allarme, allora un’interpretazione invertita può spesso fare al caso tuo."
 							],
 							"id": "005"
 						},
@@ -98,13 +98,13 @@
 							"name": "Card Spreads",
 							"page": 3,
 							"entries": [
-								"There are many popular spreads for reading tarot cards. Here are some basic ones. Feel free to make up your own!",
+								"Esistono molti spread popolari per la lettura dei tarocchi. Eccone alcuni fondamentali. Sentiti libero di crearne uno tuo!",
 								{
 									"type": "entries",
 									"name": "One-Card Spread",
 									"page": 3,
 									"entries": [
-										"A one-card reading is good for a quick check-in. It can be used to obtain clarity on a choice that you need to make or to keep a message in the forefront of your mind for the day."
+										"La lettura di una sola carta è utile per un rapido check-in. Può essere utilizzato per ottenere chiarezza su una scelta che devi fare o per mantenere un messaggio in primo piano nella tua mente per la giornata."
 									],
 									"id": "007"
 								},
@@ -113,7 +113,7 @@
 									"name": "Three-Card Spread",
 									"page": 4,
 									"entries": [
-										"Three-card readings are most usually used to explain the past, present, and future, but they can also mean \"Problem, Obstacle, Solution\" or \"Thoughts, Feelings, Action.\"",
+										"Le letture di tre carte vengono solitamente utilizzate per spiegare il passato, il presente e il futuro, ma possono anche significare \"Problema, Ostacolo, Soluzione\" o \"Pensieri, sentimenti, Azione\".",
 										{
 											"type": "image",
 											"href": {
@@ -132,18 +132,18 @@
 									"name": "Five-Card Spread",
 									"page": 4,
 									"entries": [
-										"A five-card spread allows the reading to unfold fully and gives a deeper message with more complexity and nuance.",
-										"This is an example of a five-card spread (see opposite page) with some D&D flavor:",
+										"Una disposizione di cinque carte consente alla lettura di svolgersi completamente e trasmette un messaggio più profondo con maggiore complessità e sfumatura.",
+										"Questo è un esempio di una disposizione di cinque carte (vedi pagina accanto) con un po' di sapore D&D:",
 										{
 											"type": "list",
 											"style": "list-decimal",
 											"page": 4,
 											"items": [
-												"This card represents the current situation, problem, and/or objective.",
-												"This card shows what is working behind the scenes in the psyche. Rooted in the past, this influence must be brought to light to be utilized or released.",
-												"This card represents things that you need to focus on as you resolve your quest.",
-												"This card denotes something to develop or let go of so you can advance your quest.",
-												"This card is the resolution of the answer or shows what is needed to resolve the problem fully."
+												"Questa carta rappresenta la situazione, il problema e/o l'obiettivo attuale.",
+												"Questa carta mostra ciò che accade dietro le quinte nella psiche. Radicata nel passato, questa influenza deve essere portata alla luce per essere utilizzata o rilasciata.",
+												"Questa carta rappresenta le cose su cui devi concentrarti mentre risolvi la tua ricerca.",
+												"Questa carta indica qualcosa da sviluppare o lasciare andare per poter avanzare nella tua ricerca.",
+												"Questa carta è la risoluzione della risposta o mostra ciò che è necessario per risolvere completamente il problema."
 											]
 										},
 										{
@@ -167,7 +167,7 @@
 							"name": "D&D Encounters",
 							"page": 6,
 							"entries": [
-								"In this booklet you will see a section with the ampersand symbol {@note (in italic text)}. This section is a way for you to use the tarot deck in your D&D game. You can draw a card before an adventure to give you a plot device to work a story around or you can draw a card during an ongoing adventure to throw in a fun twist. Feel free to invent your own ways to use this deck for your game!"
+								"In questo opuscolo vedrai una sezione con il simbolo della e commerciale {@note (in italic text)}. Questa sezione ti offre un modo per utilizzare il mazzo dei tarocchi nella tua partita a D&D. Puoi pescare una carta prima di un'avventura per darti uno strumento di trama su cui elaborare una storia oppure puoi pescare una carta durante un'avventura in corso per aggiungere una svolta divertente. Sentiti libero di inventare i tuoi modi per utilizzare questo mazzo per il tuo gioco!"
 							],
 							"id": "00a"
 						},
@@ -176,7 +176,7 @@
 							"name": "An Adventure in a Spread",
 							"page": 6,
 							"entries": [
-								"With the D&D encounter prompts, you can create fun adventure hooks or add some spice to a game already in progress. With multiple cards, you can get creative and mash UP the D&D encounters to invent a unique scenario for your players! Here's a three-card spread and their D&D encounters:",
+								"Con le istruzioni per gli incontri di D&D, puoi creare divertenti avventure o aggiungere un po' di pepe a un gioco già in corso. Con più carte, puoi diventare creativo e mescolare gli incontri di D&D per inventare uno scenario unico per i tuoi giocatori! Ecco una disposizione di tre carte e i loro incontri in D&D:",
 								{
 									"type": "gallery",
 									"images": [
@@ -249,7 +249,7 @@
 							"name": "Creating the Story",
 							"page": 7,
 							"entries": [
-								"Here are examples of how you can make adventures from any or all of the D&D encounter prompts on the opposing page:"
+								"Ecco alcuni esempi di come puoi creare avventure da uno o tutti i suggerimenti sugli incontri di D&D nella pagina opposta:"
 							],
 							"id": "00c"
 						},
@@ -261,7 +261,7 @@
 							"name": "Diplomatic Escort",
 							"page": 7,
 							"entries": [
-								"The party is asked to escort an elf diplomat from the Seelie Court into the Forest of Dread. In the forest is a magic portal that will take her back to the Feywild. It is known that an evil archfey wants the diplomat captured. Deep within the forest, they finally find the circle of stones, but an ambush is triggered. The earth erupts around them in a violent earthquake as a fey wizard conjures several earth elementals to stop the elf diplomat from entering."
+								"Al gruppo viene chiesto di scortare un elfo diplomatico dalla Corte Seelie nella Foresta del Terrore. Nella foresta c'è un portale magico che la riporterà nella Selva dei Folletti. È noto che un arcifeta malvagio vuole che il diplomatico venga catturato. Nel profondo della foresta trovano finalmente il cerchio di pietre, ma viene innescata un'imboscata. La terra intorno a loro esplode in un violento terremoto mentre un mago folletto evoca diversi elementali della terra per impedire all'elfo diplomatico di entrare."
 							],
 							"id": "00d"
 						},
@@ -270,7 +270,7 @@
 							"name": "The Nether Portal",
 							"page": 7,
 							"entries": [
-								"Caught in the middle of a devastating earthquake, the party finds themselves in a city on fire and in ruins. As they move for safety, they are approached by a priest. She is mortally wounded but with her dying act, she hands one of the party members a sealed scroll and begs them to keep it safe. If the party opens the scroll, they find an ancient map that highlights a mountain peak. If the party climbs the mountain, they find at its summit a ring of standing stones that encircle a glowing portal."
+								"Preso nel mezzo di un devastante terremoto, il gruppo si ritrova in una città in fiamme e in rovina. Mentre si muovono per mettersi in salvo, vengono avvicinati da un prete. È ferita a morte ma con il suo atto di morte consegna a uno dei membri del gruppo un rotolo sigillato e lo implora di tenerlo al sicuro. Se il gruppo apre la pergamena, trova un'antica mappa che evidenzia la cima di una montagna. Se il gruppo scala la montagna, trova sulla sua sommità un anello di pietre erette che circondano un portale luminoso."
 							],
 							"id": "00e"
 						},
@@ -279,7 +279,7 @@
 							"name": "Stranded!",
 							"page": 7,
 							"entries": [
-								"While adventuring, the party comes across a circle of standing stones with a magic portal in the middle. If they choose to go through the portal, they emerge in a strange world. As they explore, a violent earthquake demolishes the portal!"
+								"Durante l'avventura, il gruppo si imbatte in un cerchio di pietre erette con un portale magico al centro. Se scelgono di attraversare il portale, emergono in uno strano mondo. Mentre esplorano, un violento terremoto demolisce il portale!"
 							],
 							"id": "00f"
 						}
@@ -316,7 +316,7 @@
 									"width": 720,
 									"height": 1248
 								},
-								"Following your heart with innocence and wonder.",
+								"Seguire il tuo cuore con innocenza e meraviglia.",
 								"{@i You encounter a gnome who says that if you follow him, he'll lead you to a wondrous treasure.}"
 							],
 							"id": "012"
@@ -337,7 +337,7 @@
 									"width": 720,
 									"height": 1247
 								},
-								"Tapping into your genius to find new ways of looking at the world.",
+								"Attingere al tuo genio per trovare nuovi modi di guardare il mondo.",
 								"{@i You meet a sage who gives you a key that opens a magical lock.}"
 							],
 							"id": "013"
@@ -358,7 +358,7 @@
 									"width": 720,
 									"height": 1247
 								},
-								"Accessing your intuition and tuning in to the source of feminine power.",
+								"Accedere alla tua intuizione e sintonizzarti con la fonte del potere femminile.",
 								"{@i You encounter a holy woman who offers you each a gift.}"
 							],
 							"id": "014"
@@ -379,7 +379,7 @@
 									"width": 720,
 									"height": 1245
 								},
-								"Realizing your capacity to express beauty and to nurture others from a place of power.",
+								"Realizzare la tua capacità di esprimere bellezza e di nutrire gli altri da un luogo di potere.",
 								"{@i You encounter the queen of a nation with an important mission for you.}"
 							],
 							"id": "015"
@@ -400,7 +400,7 @@
 									"width": 720,
 									"height": 1247
 								},
-								"Finding the source of your inner authority.",
+								"Trovare la fonte della tua autorità interiore.",
 								"{@i You encounter a king of a far-off land who seeks your aid.}"
 							],
 							"id": "016"
@@ -421,7 +421,7 @@
 									"width": 720,
 									"height": 1250
 								},
-								"Using spiritual understanding and wisdom to perceive the world",
+								"Usare la comprensione spirituale e la saggezza per percepire il mondo",
 								"{@i You find a holy book written by a wise sage that contains a cryptic secret hidden within it.}"
 							],
 							"id": "017"
@@ -442,7 +442,7 @@
 									"width": 720,
 									"height": 1246
 								},
-								"Finding harmony in relating with yourself and others while honoring your values.",
+								"Trovare armonia nel relazionarsi con te stesso e con gli altri onorando i tuoi valori.",
 								"{@i A mysterious person presents you with a tempting offer.}"
 							],
 							"id": "018"
@@ -463,7 +463,7 @@
 									"width": 720,
 									"height": 1245
 								},
-								"Following through on your intentions and manifesting your desires.",
+								"Seguire le tue intenzioni e manifestare i tuoi desideri.",
 								"{@i You find a trapped efreet who offers you his services for a year if you can find a way to free him.}"
 							],
 							"id": "019"
@@ -484,7 +484,7 @@
 									"width": 720,
 									"height": 1244
 								},
-								"Your ability to move through fear to find the unshakable power within yourself.",
+								"La tua capacità di superare la paura per trovare il potere incrollabile dentro di te.",
 								"{@i A burly warrior bars the way and challenges anyone to hand-to-hand combat.}"
 							],
 							"id": "01a"
@@ -505,7 +505,7 @@
 									"width": 720,
 									"height": 1246
 								},
-								"Being a light unto yourself and finding your own way through the darkness.",
+								"Essere una luce per te stesso e trovare la tua strada attraverso l'oscurità.",
 								"{@i You meet a monk who is looking for worthy adventurers to defeat a magical monster.}"
 							],
 							"id": "01b"
@@ -526,8 +526,8 @@
 									"width": 720,
 									"height": 1250
 								},
-								"A turning point in your destiny and your ability to adapt to change.",
-								"{@i You meet a halfling wizard who\u2014If you treat him kindly\u2014gives you a \"wink of good luck.\" You gain advantage on your next role.}"
+								"Un punto di svolta nel tuo destino e nella tua capacità di adattarti al cambiamento.",
+								"{@i You meet a halfling wizard who—If you treat him kindly—gives you a \"wink of good luck.\" You gain advantage on your next role.}"
 							],
 							"id": "01c"
 						},
@@ -547,7 +547,7 @@
 									"width": 720,
 									"height": 1249
 								},
-								"Your capacity to create a new reality through shattering old, limiting beliefs.",
+								"La tua capacità di creare una nuova realtà distruggendo vecchie convinzioni limitanti.",
 								"{@i A poor villager comes to you seeking aid and offers you a rare magic item in compensation.}"
 							],
 							"id": "01d"
@@ -568,7 +568,7 @@
 									"width": 720,
 									"height": 1250
 								},
-								"The necessity to look at something from a different perspective.",
+								"La necessità di guardare qualcosa da una prospettiva diversa.",
 								"{@i You have a strange dream of talking about life with an otyugh. When you wake up, you gain one permanent point of Wisdom.}"
 							],
 							"id": "01e"
@@ -589,7 +589,7 @@
 									"width": 720,
 									"height": 1247
 								},
-								"The transformation from one perceptual reality to another and the ending of habitual patterns",
+								"La trasformazione da una realtà percettiva ad un'altra e la fine degli schemi abituali",
 								"{@i A vampire Lord offers you the gift of eternal undeath in exchange for a single favor.}"
 							],
 							"id": "01f"
@@ -610,8 +610,8 @@
 									"width": 720,
 									"height": 1251
 								},
-								"Our capacity to deal with something in a measured and patient way.",
-								"{@i You gain advantage on your next {@dice 1d6} Wisdom saving throws.}"
+								"La nostra capacità di affrontare qualcosa in modo misurato e paziente.",
+								"{@i You gain advantage on your next {@dice 1d6} Tiri salvezza sulla saggezza.}"
 							],
 							"id": "020"
 						},
@@ -631,7 +631,7 @@
 									"width": 720,
 									"height": 1248
 								},
-								"How we deal with our shadow self. This card calls us to cut through lies and see how honest we can be with ourselves.",
+								"Come gestiamo il nostro sé ombra. Questa carta ci invita a eliminare le bugie e a vedere quanto possiamo essere onesti con noi stessi.",
 								"{@i You encounter a devil who offers you a rare magic item in exchange for a favor.}"
 							],
 							"id": "021"
@@ -652,7 +652,7 @@
 									"width": 720,
 									"height": 1248
 								},
-								"The collapse of beliefs or material structures that we hold dear. It is in the nonresistance where we can find peace and wisdom.",
+								"Il crollo delle credenze o delle strutture materiali che ci stanno a cuore. È nella non resistenza che possiamo trovare pace e saggezza.",
 								"{@i The Earth around you mysteriously begins to shake in a violent earthquake.}"
 							],
 							"id": "022"
@@ -673,7 +673,7 @@
 									"width": 720,
 									"height": 1251
 								},
-								"Finding something to focus on that can guide us through life. Our internal guidance system. Our North Star.",
+								"Trovare qualcosa su cui concentrarci può guidarci nella vita. Il nostro sistema di guida interno. La nostra stella polare.",
 								"{@i You find a mechanical toy puppet that always walks to the nearest tavern.}"
 							],
 							"id": "023"
@@ -694,7 +694,7 @@
 									"width": 720,
 									"height": 1247
 								},
-								"Facing and allowing deep-seated fears to dissolve in the light of your awareness. Remove words from the mind and breathe.",
+								"Affrontare e permettere a paure profondamente radicate di dissolversi alla luce della tua consapevolezza. Togli le parole dalla mente e respira.",
 								"{@i You encounter a sorcerer who wants you to look into her crystal ball.}"
 							],
 							"id": "024"
@@ -715,8 +715,8 @@
 									"width": 720,
 									"height": 1247
 								},
-								"Returning to the innocence and vitality of childhood.",
-								"{@i Roll {@dice 1d6+6} that is now your age for the next seventy-two hours.}"
+								"Ritornare all'innocenza e alla vitalità dell'infanzia.",
+								"{@i Roll {@dice 1d6+6} che corrisponde alla tua età per le prossime settantadue ore.}"
 							],
 							"id": "025"
 						},
@@ -736,7 +736,7 @@
 									"width": 720,
 									"height": 1251
 								},
-								"Our capability to discern what is truly important and to use it to weed the garden of our life.",
+								"La nostra capacità di discernere ciò che è veramente importante e di usarlo per estirpare il giardino della nostra vita.",
 								"{@i A hill giant is sleeping off a night of drinking. Inside a chain mail pouch on its belt, you can hear someone whispering for help.}"
 							],
 							"id": "026"
@@ -757,7 +757,7 @@
 									"width": 720,
 									"height": 1247
 								},
-								"Endings. Coming to a place of completion and power internally and externally.",
+								"Finali. Arrivare ad un luogo di completamento e potere internamente ed esternamente.",
 								"{@i You see someone weeping at the side of the road. They are being forced to marry someone they don't want to.}"
 							],
 							"id": "027"
@@ -791,7 +791,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"The source of all creative energy is within you. You have the power to imagine, begin and complete any project you set your mind to.",
+										"La fonte di tutta l’energia creativa è dentro di te. Hai il potere di immaginare, iniziare e completare qualsiasi progetto ti venga in mente.",
 										"{@i A nobleman's children have run away to join the Lord Montague's Monstrous Circus. He begs that you find and return them.}"
 									],
 									"id": "02a"
@@ -812,7 +812,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Growing and making progress toward a future goal. Enjoy discovering what you love to do.",
+										"Crescere e progredire verso un obiettivo futuro. Divertiti a scoprire cosa ami fare.",
 										"{@i A drunken beggar in an alley swears to you he saw the king's son turn into a werewolf. There have been grisly killings in the city.}"
 									],
 									"id": "02b"
@@ -833,7 +833,7 @@
 											"width": 720,
 											"height": 1250
 										},
-										"Expanding your circle of influence and communicating your ideas. Making progress",
+										"Ampliare la tua cerchia di influenza e comunicare le tue idee. Fare progressi",
 										"{@i A young paladin-in-training says that his order has stolen an object sacred to hobgoblins. He feels guilty and wants to steal it and give it back to them.}"
 									],
 									"id": "02c"
@@ -854,7 +854,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"The whole is greater than the sum of its parts. Seek out others to collaborate with.",
+										"Il tutto è maggiore della somma delle sue parti. Cerca altri con cui collaborare.",
 										"{@i The mayor of a small town has declared tieflings a \"threat to moral decency\" and wants them rounded up and detained.}"
 									],
 									"id": "02d"
@@ -875,7 +875,7 @@
 											"width": 720,
 											"height": 1251
 										},
-										"Being focused totally on being in the moment to work together effectively. Letting go of competition.",
+										"Concentrarsi totalmente sull'essere nel momento per lavorare insieme in modo efficace. Abbandonare la concorrenza.",
 										"{@i A traveling circus's giant spider has died, leaving its owner distraught. Can you get some giant spider eggs for him to hatch?}"
 									],
 									"id": "02e"
@@ -896,7 +896,7 @@
 											"width": 720,
 											"height": 1250
 										},
-										"Enjoy the success, but don't get attached to it. What's your definition of success? Riding the highs and lows.",
+										"Godetevi il successo, ma non affezionatevi ad esso. Qual è la tua definizione di successo? Cavalcando gli alti e bassi.",
 										"{@i The party is asked to have a young person accompany the group on their next adventure as a coming-of-age ceremony.}"
 									],
 									"id": "02f"
@@ -917,8 +917,8 @@
 											"width": 720,
 											"height": 1243
 										},
-										"Dealing with the overwhelming. Letting go of what causes stress\u2014perfectionism, desire, fear, future-tripping.",
-										"{@i You find a magical sword. Roll a {@dice d6}. 1\u20133: It's a +1 sword. 4\u20136: It's a +1 sword that when unsheathed sings loudly.}"
+										"Affrontare il travolgente. Lasciare andare ciò che causa stress: perfezionismo, desiderio, paura, inciampi nel futuro.",
+										"{@i You find a magical sword. Roll a {@dice d6}. 1–3: è una spada +1. 4–6: È una spada +1 che quando sguainata canta forte.}"
 									],
 									"id": "030"
 								},
@@ -938,7 +938,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Going with the flow and adapting to change. Hold the goal loosely and enjoy the journey.",
+										"Seguire il flusso e adattarsi al cambiamento. Mantieni l'obiettivo liberamente e goditi il ​​viaggio.",
 										"{@i During a lightning storm, the adventurers see an entrance to a cavern. It is home to a coven of hags.}"
 									],
 									"id": "031"
@@ -959,7 +959,7 @@
 											"width": 720,
 											"height": 1246
 										},
-										"Finding the wellspring of resolve to push through hardship. A test of faith.",
+										"Trovare la fonte della determinazione per superare le difficoltà. Una prova di fede.",
 										"{@i Evil from a haunted house has begun to blight the village farms in the valley below. Farmers have taken a collection to pay you to clear out the evil.}"
 									],
 									"id": "032"
@@ -980,7 +980,7 @@
 											"width": 720,
 											"height": 1250
 										},
-										"Making sure to speak up. Don't try to do it all. Delegate responsibility where you can. Express yourself.",
+										"Assicurati di parlare apertamente. Non provare a fare tutto. Delega la responsabilità dove puoi. Esprimi te stesso.",
 										"{@i A benevolent order of druids wants their sacred stone back. It's in the crown of a pompous but powerful king.}"
 									],
 									"id": "033"
@@ -1001,7 +1001,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"It takes energy to do something awesome. Go for it! Engage your free spirit and follow your passion.",
+										"Ci vuole energia per fare qualcosa di fantastico. Fallo! Coinvolgi il tuo spirito libero e segui la tua passione.",
 										"{@i A \"holy\" order of priests (actually evil) want you to retrieve a sacred object stolen from them. It's a unicorn's horn that was stolen by a real holy person.}"
 									],
 									"id": "034"
@@ -1022,7 +1022,7 @@
 											"width": 720,
 											"height": 1241
 										},
-										"Going full out and not looking back. Following your gut. Doing what it takes to make it happen.",
+										"Andare al massimo e non guardare indietro. Seguendo il tuo istinto. Fare quello che serve per realizzarlo.",
 										"{@i The adventurers find a sending stone. On the other end is someone who is in deep trouble and is pleading for help.}"
 									],
 									"id": "035"
@@ -1043,7 +1043,7 @@
 											"width": 720,
 											"height": 1246
 										},
-										"Spreading the love and letting your light shine. Having courage to take it to the next level.",
+										"Diffondere l'amore e lasciare che la tua luce splenda. Avere il coraggio di portarlo al livello successivo.",
 										"{@i The party is asked to escort a political figure across a hostile terrain.}"
 									],
 									"id": "036"
@@ -1064,7 +1064,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Fully expressing your powers of leadership and realising your vision. Teaching others.",
+										"Esprimere pienamente i tuoi poteri di leadership e realizzare la tua visione. Insegnare agli altri.",
 										"{@i While traveling, the party comes across a nest of yuan-ti that are planning on enslaving a nearby village.}"
 									],
 									"id": "037"
@@ -1093,7 +1093,7 @@
 											"width": 720,
 											"height": 1250
 										},
-										"Finding your inner wizard and using your genius to discover new ideas and have breakthroughs.",
+										"Trovare il tuo mago interiore e usare il tuo genio per scoprire nuove idee e fare scoperte.",
 										"{@i The party meets a powerful Wizard whom they may ask one question and get a truthful answer from.}"
 									],
 									"id": "039"
@@ -1114,7 +1114,7 @@
 											"width": 720,
 											"height": 1249
 										},
-										"How our inner monologue causes confusion, and how we must find a way to listen to our heart.",
+										"Come il nostro monologo interiore crea confusione e come dobbiamo trovare un modo per ascoltare il nostro cuore.",
 										"{@i You see a lever that is inscribed with magical symbols. Do you pull it?}"
 									],
 									"id": "03a"
@@ -1135,7 +1135,7 @@
 											"width": 720,
 											"height": 1244
 										},
-										"Finding a way to heal and learn from anxiety and emotional pain.",
+										"Trovare un modo per guarire e imparare dall’ansia e dal dolore emotivo.",
 										"{@i A weeping dryad asks you to save her forest from destruction at the hands of orcs.}"
 									],
 									"id": "03b"
@@ -1156,7 +1156,7 @@
 											"width": 720,
 											"height": 1249
 										},
-										"Taking time to meditate before moving forward while making sure you are not avoiding action.",
+										"Prenderti del tempo per meditare prima di andare avanti assicurandoti di non evitare l'azione.",
 										"{@i The next short rest you take acts as a long rest instead.}"
 									],
 									"id": "03c"
@@ -1177,7 +1177,7 @@
 											"width": 720,
 											"height": 1252
 										},
-										"The ways in which competition breeds conflict and divides us to create suffering.",
+										"I modi in cui la competizione genera conflitto e ci divide fino a creare sofferenza.",
 										"{@i The adventurers encounter two nobles fighting over a magical (but cursed) item.}"
 									],
 									"id": "03d"
@@ -1198,7 +1198,7 @@
 											"width": 720,
 											"height": 1252
 										},
-										"Freeing yourself from burdens and old ways of thinking.",
+										"Liberarsi dai fardelli e dai vecchi modi di pensare.",
 										"{@i A ghost approaches a member of the party claiming to be a long-dead relative. It seeks vengeance.}"
 									],
 									"id": "03e"
@@ -1219,7 +1219,7 @@
 											"width": 720,
 											"height": 1253
 										},
-										"How we play games, hide our real selves, and mask our intentions out of fear or hurt.",
+										"Come giochiamo, nascondiamo il nostro vero sé e mascheriamo le nostre intenzioni per paura o dolore.",
 										"{@i A doppelgänger has infiltrated the king's court and the king seeks someone who can root him out.}"
 									],
 									"id": "03f"
@@ -1240,7 +1240,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Entangling ourselves from guilty thoughts and self-punishment.",
+										"Intrappolarci tra pensieri di colpa e autopunizioni.",
 										"{@i A nearby village has been invaded by the drow and seeks aid.}"
 									],
 									"id": "040"
@@ -1261,7 +1261,7 @@
 											"width": 720,
 											"height": 1247
 										},
-										"Looking at how thoughts can create turmoil and finding a way to observe them from a dispassionate space of stillness.",
+										"Osservando come i pensieri possono creare tumulto e trovando un modo per osservarli da uno spazio di quiete imparziale.",
 										"{@i A mind flayer has used an intellect devourer to take over the prison warden. It uses him to prey on the prisoners.}"
 									],
 									"id": "041"
@@ -1282,7 +1282,7 @@
 											"width": 720,
 											"height": 1246
 										},
-										"How we deal with what shows up in our lives. Do we avoid and deny? Do we react in anger? Do we remain conscious and aware?",
+										"Come affrontiamo ciò che si presenta nella nostra vita. Evitiamo e neghiamo? Reagiamo con rabbia? Rimaniamo coscienti e consapevoli?",
 										"{@i The mayor of the town is missing. She has been charmed by a vampire.}"
 									],
 									"id": "042"
@@ -1303,7 +1303,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Discovering new ways of communicating your ideas and putting them into action.",
+										"Scoprire nuovi modi di comunicare le tue idee e metterle in pratica.",
 										"{@i A wizard wants you to find her some rare spell components.}"
 									],
 									"id": "043"
@@ -1324,7 +1324,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Channelling raw ambition into a constructive thoughtful and focused plan.",
+										"Incanalare la pura ambizione in un piano costruttivo, ponderato e mirato.",
 										"{@i A holy order needs your aid to sanctify a place defiled by demons.}"
 									],
 									"id": "044"
@@ -1345,7 +1345,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"The necessity to clearly communicate what you desire from a space of loving-kindness.",
+										"La necessità di comunicare chiaramente ciò che desideri da uno spazio di gentilezza amorevole.",
 										"{@i Someone comes to you with a murder mystery that they want you to solve.}"
 									],
 									"id": "045"
@@ -1366,7 +1366,7 @@
 											"width": 720,
 											"height": 1249
 										},
-										"Using the panels of your intellect clearly without letting it override your heart.",
+										"Usando chiaramente i pannelli del tuo intelletto senza lasciare che prevalgano sul tuo cuore.",
 										"{@i A queen has fallen under a witch's curse. You have been asked to help break the spell.}"
 									],
 									"id": "046"
@@ -1395,7 +1395,7 @@
 											"width": 720,
 											"height": 1247
 										},
-										"Our ability to access the power of insight to heal emotions and love ourselves.",
+										"La nostra capacità di accedere al potere dell’intuizione per guarire le emozioni e amare noi stessi.",
 										"{@i A group of elves asks if the party would aid them in recovering a sacred artifact.}"
 									],
 									"id": "048"
@@ -1416,7 +1416,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Being able to be with someone\u2014whether a friend or lover\u2014and still retain your own sense of individuality.",
+										"Essere in grado di stare con qualcuno, che sia un amico o un amante, e mantenere comunque il proprio senso di individualità.",
 										"{@i You are approached by the captain of the city guard to see if you will track down and capture a dangerous criminal.}"
 									],
 									"id": "049"
@@ -1437,7 +1437,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Taking time to celebrate the simple joy of aliveness with your friends.",
+										"Prenderti del tempo per celebrare la semplice gioia della vita con i tuoi amici.",
 										"{@i You were invited by the mayor of a nearby town to take part in their \"Festival of Monsters\".}"
 									],
 									"id": "04a"
@@ -1458,7 +1458,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Taking time to meditate and let go of all the noisy thoughts that are in your head.",
+										"Prenditi del tempo per meditare e lascia andare tutti i pensieri rumorosi che sono nella tua testa.",
 										"{@i You discover a treasure map within an ornate box in the hollow of an old tree.}"
 									],
 									"id": "04b"
@@ -1479,7 +1479,7 @@
 											"width": 720,
 											"height": 1249
 										},
-										"Keeping a bright outlook and not letting past pain affect your interpretation of the present moment.",
+										"Mantenere una visione brillante e non lasciare che il dolore passato influisca sulla tua interpretazione del momento presente.",
 										"{@i A revenant tells you its story and asks for aid in completing its act of vengeance.}"
 									],
 									"id": "04c"
@@ -1500,7 +1500,7 @@
 											"width": 720,
 											"height": 1247
 										},
-										"Our ability to become a child and play in the world. A return to innocence.",
+										"La nostra capacità di diventare bambini e giocare nel mondo. Un ritorno all'innocenza.",
 										"{@i You find a gem. When you turn toward a distant mountain, the gem pulsates and glows.}"
 									],
 									"id": "04d"
@@ -1521,7 +1521,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Our capacity to be discerning in our decisions and to choose from a place of clarity and wisdom.",
+										"La nostra capacità di discernere nelle nostre decisioni e di scegliere da un luogo di chiarezza e saggezza.",
 										"{@i A librarian has discovered a hidden stone door covered with magical glyphs in the library's basement.}"
 									],
 									"id": "04e"
@@ -1542,7 +1542,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Finding a way out of past pain by having faith that something better is waiting for you.",
+										"Trovare una via d’uscita dal dolore passato avendo fiducia che qualcosa di meglio ti stia aspettando.",
 										"{@i Graves of a cemetery appear to be robbed, but some say it was the dead that dug their way out.}"
 									],
 									"id": "04f"
@@ -1563,7 +1563,7 @@
 											"width": 720,
 											"height": 1246
 										},
-										"Finding the balance between enjoying our accomplishments and not slipping into complacency.",
+										"Trovare l’equilibrio tra il godere dei nostri risultati e il non scivolare nell’autocompiacimento.",
 										"{@i A horde of marauders is rumoured to be en route to a village. The townsfolk ask the party for help.}"
 									],
 									"id": "050"
@@ -1584,7 +1584,7 @@
 											"width": 720,
 											"height": 1247
 										},
-										"Uniting the head and the heart. Relating to others and your environment in emotional balance.",
+										"Unire testa e cuore. Relazionarsi con gli altri e con l’ambiente in equilibrio emotivo.",
 										"{@i The party comes across a magical portal with a ring of standing stones.}"
 									],
 									"id": "051"
@@ -1605,7 +1605,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Embarking on a new path sparked by your curiosity and creativity.",
+										"Intraprendere un nuovo percorso stimolato dalla tua curiosità e creatività.",
 										"{@i A man staggers toward you and hands you a silver key. He gasps, \"find the fish,\" before falling over dead. He smells of brine.}"
 									],
 									"id": "052"
@@ -1626,7 +1626,7 @@
 											"width": 720,
 											"height": 1251
 										},
-										"Trusting your passion, allowing yourself to dream big, and imagining the best happening for you.",
+										"Avere fiducia nella tua passione, permetterti di sognare in grande e immaginare il meglio che accada per te.",
 										"{@i There were whispers that the mayor of the town was seen signing a pact with an imp.}"
 									],
 									"id": "053"
@@ -1647,7 +1647,7 @@
 											"width": 720,
 											"height": 1253
 										},
-										"Going into the depth of compassion and quieting the critical mind to create emotional stability.",
+										"Andare nella profondità della compassione e calmare la mente critica per creare stabilità emotiva.",
 										"{@i A duck waddles up and says that he has witnessed a murder and wants you to catch the culprit.}"
 									],
 									"id": "054"
@@ -1668,7 +1668,7 @@
 											"width": 720,
 											"height": 1243
 										},
-										"Fully accepting this moment. Allowing complaints to dissolve. Being kind to yourself.",
+										"Accettare pienamente questo momento. Consentire lo scioglimento delle denunce. Essere gentile con te stesso.",
 										"{@i A noble approaches you and says that an assassin has been sent to kill him and he needs your help.}"
 									],
 									"id": "055"
@@ -1697,7 +1697,7 @@
 											"width": 720,
 											"height": 1245
 										},
-										"A new opportunity and a time of manifestation and abundance.",
+										"Una nuova opportunità e un momento di manifestazione e abbondanza.",
 										"{@i A mysterious order of assassins begins to hunt down a member of the party.}"
 									],
 									"id": "057"
@@ -1718,7 +1718,7 @@
 											"width": 720,
 											"height": 1246
 										},
-										"Our ability to manage our time with grace and ease by getting clear on our priorities.",
+										"La nostra capacità di gestire il nostro tempo con grazia e facilità chiarendo le nostre priorità.",
 										"{@i A group of Viking Warriors are in a longboat. They claim to found a way to the river Styx, and they're going to fight devils.}"
 									],
 									"id": "058"
@@ -1739,7 +1739,7 @@
 											"width": 720,
 											"height": 1247
 										},
-										"Using the power of a team and learning how to collaborate.",
+										"Utilizzare il potere di un team e imparare a collaborare.",
 										"{@i A shy ogre asks the party to rescue his pet goat from an evil cyclops.}"
 									],
 									"id": "059"
@@ -1760,7 +1760,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Being careful with finances while not falling into fear or greed.",
+										"Fare attenzione alle finanze senza cadere nella paura o nell’avidità.",
 										"{@i A dwarf claims to have discovered a vein of mithral in his mine, but now monsters have moved in, and he needs help reclaiming it.}"
 									],
 									"id": "05a"
@@ -1781,7 +1781,7 @@
 											"width": 720,
 											"height": 1250
 										},
-										"Finding out how to move out of lack mentality and to enjoy the abundance, in whatever form, showing up in our lives.",
+										"Scoprire come uscire dalla mentalità della mancanza e godere dell'abbondanza, in qualunque forma, che si manifesta nelle nostre vite.",
 										"{@i A kobold asks if the party wishes to join him on an adventure to the Dragon's Teeth mountains to find the fabled Eye of Tiamat.}"
 									],
 									"id": "05b"
@@ -1802,7 +1802,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Giving and receiving fully while not sacrificing your values or exhausting your energy.",
+										"Dare e ricevere pienamente senza sacrificare i tuoi valori o esaurire la tua energia.",
 										"{@i An old Mariner tells you the precise location of a legendary shipwreck off the coast.}"
 									],
 									"id": "05c"
@@ -1823,7 +1823,7 @@
 											"width": 720,
 											"height": 1246
 										},
-										"The power of allowing your plans to develop and unfold without urgency or restlessness.",
+										"Il potere di permettere ai tuoi piani di svilupparsi e realizzarsi senza urgenza o irrequietezza.",
 										"{@i The town mayor is rumoured to be possessed by an evil spirit. The mayor is secretly preparing to sacrifice the entire town.}"
 									],
 									"id": "05d"
@@ -1844,7 +1844,7 @@
 											"width": 720,
 											"height": 1247
 										},
-										"Paying attention to doing the simple things well. Slow and steady wins the race.",
+										"Prestando attenzione a fare bene le cose semplici. Lento e costante vince la gara.",
 										"{@i A dwarven forgemaster has had her magical hammer stolen and is asking for your help. In return, she'll forge you a weapon.}"
 									],
 									"id": "05e"
@@ -1865,7 +1865,7 @@
 											"width": 720,
 											"height": 1247
 										},
-										"The capability to come out of \"survival mode\" and enjoy the abundance and self-sufficiency that we do have. Appreciate the good.",
+										"La capacità di uscire dalla “modalità sopravvivenza” e godere dell’abbondanza e dell’autosufficienza di cui disponiamo. Apprezza il bene.",
 										"{@i Something is digging tunnels under the city and your party has been asked to investigate.}"
 									],
 									"id": "05f"
@@ -1886,7 +1886,7 @@
 											"width": 720,
 											"height": 1246
 										},
-										"The security that comes with having a network of people who support you and your dreams. Long-term success.",
+										"La sicurezza che deriva dall'avere una rete di persone che supportano te e i tuoi sogni. Successo a lungo termine.",
 										"{@i A Paladin requests aid to recover the body of his fallen companion.}"
 									],
 									"id": "060"
@@ -1907,7 +1907,7 @@
 											"width": 720,
 											"height": 1250
 										},
-										"Getting into action and rekindling a sense of adventure with even the small things. Realize what isn't working.",
+										"Entrare in azione e ravvivare il senso dell'avventura anche con le piccole cose. Renditi conto di cosa non funziona.",
 										"{@i Something has torn down the rope bridge that spans the chasm. The villagers need help rebuilding it.}"
 									],
 									"id": "061"
@@ -1928,7 +1928,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Finding a way to enjoy routine, take responsibility for our own success, and let go of expectations. Good work speaks for itself.",
+										"Trovare un modo per godersi la routine, assumersi la responsabilità del proprio successo e lasciare andare le aspettative. Un buon lavoro parla da solo.",
 										"{@i The local mad wizard wants basilisk or cockatrice eggs and is willing to pay handsomely.}"
 									],
 									"id": "062"
@@ -1949,7 +1949,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Creating a nurturing space for yourself and others to achieve greatness. Maintaining work/life balance.",
+										"Creare uno spazio di nutrimento per te stesso e gli altri per raggiungere la grandezza. Mantenere l’equilibrio tra lavoro e vita privata.",
 										"{@i A farmer claims that his goose that lays golden eggs has been stolen by a cyclops and is asking for your help in getting it back.}"
 									],
 									"id": "063"
@@ -1970,7 +1970,7 @@
 											"width": 720,
 											"height": 1248
 										},
-										"Reaping the fruits of your endeavours. Enjoying abundance while not getting lost in acquiring.",
+										"Raccogli i frutti dei tuoi sforzi. Godere dell'abbondanza senza perdersi nell'acquisizione.",
 										"{@i Is there a bard in the party? The king is having a ball and the entertainment has not shown up.}"
 									],
 									"id": "064"
@@ -1989,14 +1989,14 @@
 			"name": "Credits",
 			"page": 48,
 			"entries": [
-				"TM & Copyright © 2022 by Wizards of the Coast LLC",
-				"All rights reserved.",
-				"Published in the United States by Clarkson Potter/Publishers, an imprint of Random House, a division of Penguin Random House LLC, New York.",
+				"TM e copyright © 2022 di Wizards of the Coast LLC",
+				"Tutti i diritti riservati.",
+				"Pubblicato negli Stati Uniti da Clarkson Potter/Publishers, una casa editrice di Random House, una divisione di Penguin Random House LLC, New York.",
 				"{@link clarksonpotter.com}",
-				"CLARKSON POTTER is a trademark and POTTER with colophon is a registered trademark of Penguin Random House LLC.",
-				"Dungeons & Dragons, its logo, D&D, and the dragon ampersand are trademarks of Wizards of the Coast LLC. © 2022 Wizards",
+				"CLARKSON POTTER è un marchio e POTTER con il colofone è un marchio registrato di Penguin Random House LLC.",
+				"Dungeons & Dragons, il suo logo, D&D e la e commerciale del drago sono marchi di fabbrica di Wizards of the Coast LLC. © 2022 Maghi",
 				"ISBN 978-1-9848-2466-0",
-				"Printed in China",
+				"Stampato in Cina",
 				{
 					"type": "list",
 					"style": "list-no-bullets",
@@ -2005,7 +2005,7 @@
 							"type": "item",
 							"name": "Writer:",
 							"entries": [
-								"Adam Lee"
+								"Adamo Lee"
 							]
 						},
 						{
@@ -2026,7 +2026,7 @@
 							"type": "item",
 							"name": "Designer:",
 							"entries": [
-								"Nicole Block"
+								"Nicola Blocco"
 							]
 						},
 						{
@@ -2060,7 +2060,7 @@
 					]
 				},
 				"10 9 8 7 6",
-				"First Edition"
+				"Prima edizione"
 			],
 			"id": "065"
 		}

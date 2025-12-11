@@ -13,7 +13,7 @@
 					"width": 850,
 					"height": 291
 				},
-				"A handful of characters from the film {@i Dungeons & Dragons: Honor Among Thieves} are presented here as NPCs you can include in your D&D campaigns. The stat blocks in this collection use a presentation similar to that which is found in the {@book Monster Manual|MM}. If you are unfamiliar with the stat block format, read the introduction of the Monster Manual before proceeding further. That book explains stat block terminology and gives rules for various monster traits\u2014information that isn't repeated here.",
+				"Una manciata di personaggi del film {@i Dungeons & Dragons: Honor Among Thieves} sono presentati qui come NPC che puoi includere nelle tue campagne di D&D. I blocchi statistiche in questa raccolta utilizzano una presentazione simile a quella che si trova in {@book Monster Manual|MM}. Se non hai familiarità con il formato del blocco delle statistiche, leggi l'introduzione del Manuale dei Mostri prima di procedere oltre. Quel libro spiega la terminologia dei blocchi delle statistiche e fornisce regole per vari tratti dei mostri: informazioni che non vengono ripetute qui.",
 				{
 					"type": "image",
 					"href": {
@@ -28,7 +28,7 @@
 					"type": "entries",
 					"name": "Unusual Attacks and Magic",
 					"entries": [
-						"Some creatures have weapons that deal unusual damage types and spellcasting that functions in an atypical way. For example, {@creature Forge Fitzwilliam|HAT-TG} deals extra poison damage with his heavy crossbow. This extra damage isn't a feature of the weapon. Such an exception is a special feature of a stat block and represents how the creature uses its weapon or casts its spells; the exception has no effect on how a weapon or spell functions for a different creature."
+						"Alcune creature sono dotate di armi che infliggono tipi di danni insoliti e di incantesimi che funzionano in modo atipico. Ad esempio, {@creature Forge Fitzwilliam|HAT-TG} infligge danni da veleno extra con la sua balestra pesante. Questo danno extra non è una caratteristica dell'arma. Tale eccezione è una caratteristica speciale di un blocco delle statistiche e rappresenta il modo in cui la creatura usa la sua arma o lancia i suoi incantesimi; l'eccezione non ha effetto su come funziona un'arma o un incantesimo per una creatura diversa."
 					],
 					"id": "001"
 				},
@@ -145,7 +145,7 @@
 							"type": "item",
 							"name": "D&D Beyond Product Manager",
 							"entries": [
-								"Patrick Backmann"
+								"Patrizio Backman"
 							]
 						},
 						{

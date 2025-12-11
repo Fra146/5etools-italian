@@ -892,7 +892,7 @@
 							"type": "entries",
 							"name": "Ending the Effect",
 							"entries": [
-								"If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a [[/save ability=wis format=long]]. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again."
+								"Se la creatura Spaventata o Ammaliata termina il suo turno a più di 120 piedi di distanza dal bersaglio, la creatura effettua un [[/saveability=wis format=long]]. Se il tiro salvezza riesce, la creatura non è più influenzata dal bersaglio. Una creatura che supera il tiro salvezza contro questo effetto ne è immune per 1 minuto, dopodiché può essere nuovamente influenzata."
 							]
 						}
 					]
@@ -912,7 +912,7 @@
 							"type": "entries",
 							"name": "Ending the Effect",
 							"entries": [
-								"If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again."
+								"Se la creatura Spaventata o Ammaliata termina il suo turno a più di 32 metri di distanza dal bersaglio, la creatura effettua un tiro salvezza su Saggezza. Se il tiro salvezza riesce, la creatura non è più influenzata dal bersaglio. Una creatura che supera il tiro salvezza contro questo effetto ne è immune per 1 minuto, dopodiché può essere nuovamente influenzata."
 							]
 						}
 					]
@@ -2960,19 +2960,19 @@
 							"rows": [
 								[
 									"1",
-									"The target doesn't take an action, and it uses all its movement to move. Roll {@dice 1d4} for the direction: {@b 1}, north; {@b 2}, east; {@b 3}, south; or {@b 4}, west."
+									"Il bersaglio non esegue alcuna azione e utilizza tutto il suo movimento per muoversi. Rotola {@dice 1d4} per la direzione: {@b 1}, nord; {@b 2}, est; {@b 3}, sud; o {@b 4}, ovest."
 								],
 								[
 									"2-6",
-									"The target doesn't move or take actions."
+									"Il bersaglio non si muove né esegue azioni."
 								],
 								[
 									"7-8",
-									"The target doesn't move, and it takes the {@action Attack|XPHB} action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action."
+									"Il bersaglio non si muove e serve l'azione {@action Attack|XPHB} per effettuare un attacco in mischia contro una creatura casuale entro la portata. Se nessuno è a portata di mano, il bersaglio non esegue alcuna azione."
 								],
 								[
 									"9-10",
-									"The target chooses its behavior."
+									"Il bersaglio sceglie il suo comportamento."
 								]
 							]
 						},
@@ -3427,9 +3427,9 @@
 						{
 							"type": "list",
 							"items": [
-								"While &Reference[Poisoned apply=false], the target has Disadvantage on saving throws made with the chosen ability.",
-								"The target must repeat the [[/save ability=con format=long]] at the end of each of its turns until it gets three successes or failures.",
-								"Whenever the target receives an effect that would end the Poisoned condition, the target must succeed on a [[/save ability=con format=long]], or the condition doesn't end on it."
+								"Mentre &Riferimento[Applicazione avvelenata=falso], il bersaglio ha Svantaggio ai tiri salvezza effettuati con l'abilità scelta.",
+								"Il bersaglio deve ripetere il [[/saveability=con format=long]] alla fine di ciascuno dei suoi turni finché non ottiene tre successi o fallimenti.",
+								"Ogni volta che il bersaglio riceve un effetto che porrebbe fine alla condizione Avvelenato, il bersaglio deve riuscire in un [[/saveability=con format=long]], altrimenti la condizione non termina."
 							]
 						}
 					]
@@ -3447,9 +3447,9 @@
 						{
 							"type": "list",
 							"items": [
-								"While &Reference[Poisoned apply=false], the target has Disadvantage on saving throws made with the chosen ability.",
-								"The target must repeat the [[/save ability=con format=long]] at the end of each of its turns until it gets three successes or failures.",
-								"Whenever the target receives an effect that would end the Poisoned condition, the target must succeed on a [[/save ability=con format=long]], or the condition doesn't end on it."
+								"Mentre &Riferimento[Applicazione avvelenata=falso], il bersaglio ha Svantaggio ai tiri salvezza effettuati con l'abilità scelta.",
+								"Il bersaglio deve ripetere il [[/saveability=con format=long]] alla fine di ciascuno dei suoi turni finché non ottiene tre successi o fallimenti.",
+								"Ogni volta che il bersaglio riceve un effetto che porrebbe fine alla condizione Avvelenato, il bersaglio deve riuscire in un [[/saveability=con format=long]], altrimenti la condizione non termina."
 							]
 						}
 					]
@@ -3467,9 +3467,9 @@
 						{
 							"type": "list",
 							"items": [
-								"While &Reference[Poisoned apply=false], the target has Disadvantage on saving throws made with the chosen ability.",
-								"The target must repeat the [[/save ability=con format=long]] at the end of each of its turns until it gets three successes or failures.",
-								"Whenever the target receives an effect that would end the Poisoned condition, the target must succeed on a [[/save ability=con format=long]], or the condition doesn't end on it."
+								"Mentre &Riferimento[Applicazione avvelenata=falso], il bersaglio ha Svantaggio ai tiri salvezza effettuati con l'abilità scelta.",
+								"Il bersaglio deve ripetere il [[/saveability=con format=long]] alla fine di ciascuno dei suoi turni finché non ottiene tre successi o fallimenti.",
+								"Ogni volta che il bersaglio riceve un effetto che porrebbe fine alla condizione Avvelenato, il bersaglio deve riuscire in un [[/saveability=con format=long]], altrimenti la condizione non termina."
 							]
 						}
 					]
@@ -3487,9 +3487,9 @@
 						{
 							"type": "list",
 							"items": [
-								"While &Reference[Poisoned apply=false], the target has Disadvantage on saving throws made with the chosen ability.",
-								"The target must repeat the [[/save ability=con format=long]] at the end of each of its turns until it gets three successes or failures.",
-								"Whenever the target receives an effect that would end the Poisoned condition, the target must succeed on a [[/save ability=con format=long]], or the condition doesn't end on it."
+								"Mentre &Riferimento[Applicazione avvelenata=falso], il bersaglio ha Svantaggio ai tiri salvezza effettuati con l'abilità scelta.",
+								"Il bersaglio deve ripetere il [[/saveability=con format=long]] alla fine di ciascuno dei suoi turni finché non ottiene tre successi o fallimenti.",
+								"Ogni volta che il bersaglio riceve un effetto che porrebbe fine alla condizione Avvelenato, il bersaglio deve riuscire in un [[/saveability=con format=long]], altrimenti la condizione non termina."
 							]
 						}
 					]
@@ -3507,9 +3507,9 @@
 						{
 							"type": "list",
 							"items": [
-								"While &Reference[Poisoned apply=false], the target has Disadvantage on saving throws made with the chosen ability.",
-								"The target must repeat the [[/save ability=con format=long]] at the end of each of its turns until it gets three successes or failures.",
-								"Whenever the target receives an effect that would end the Poisoned condition, the target must succeed on a [[/save ability=con format=long]], or the condition doesn't end on it."
+								"Mentre &Riferimento[Applicazione avvelenata=falso], il bersaglio ha Svantaggio ai tiri salvezza effettuati con l'abilità scelta.",
+								"Il bersaglio deve ripetere il [[/saveability=con format=long]] alla fine di ciascuno dei suoi turni finché non ottiene tre successi o fallimenti.",
+								"Ogni volta che il bersaglio riceve un effetto che porrebbe fine alla condizione Avvelenato, il bersaglio deve riuscire in un [[/saveability=con format=long]], altrimenti la condizione non termina."
 							]
 						}
 					]
@@ -3527,9 +3527,9 @@
 						{
 							"type": "list",
 							"items": [
-								"While &Reference[Poisoned apply=false], the target has Disadvantage on saving throws made with the chosen ability.",
-								"The target must repeat the [[/save ability=con format=long]] at the end of each of its turns until it gets three successes or failures.",
-								"Whenever the target receives an effect that would end the Poisoned condition, the target must succeed on a [[/save ability=con format=long]], or the condition doesn't end on it."
+								"Mentre &Riferimento[Applicazione avvelenata=falso], il bersaglio ha Svantaggio ai tiri salvezza effettuati con l'abilità scelta.",
+								"Il bersaglio deve ripetere il [[/saveability=con format=long]] alla fine di ciascuno dei suoi turni finché non ottiene tre successi o fallimenti.",
+								"Ogni volta che il bersaglio riceve un effetto che porrebbe fine alla condizione Avvelenato, il bersaglio deve riuscire in un [[/saveability=con format=long]], altrimenti la condizione non termina."
 							]
 						}
 					]
@@ -5995,7 +5995,7 @@
 							"value": "1d4"
 						}
 					],
-					"description": "The target's size increases by one category\u2014from Medium to Large, for example. The target also has Advantage on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit."
+					"description": "The target's size increases by one category—from Medium to Large, for example. The target also has Advantage on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit."
 				},
 				{
 					"foundryId": "enlargereduce1",
@@ -6025,7 +6025,7 @@
 							"value": 1
 						}
 					],
-					"description": "The target's size decreases by one category\u2014from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1)."
+					"description": "The target's size decreases by one category—from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1)."
 				}
 			],
 			"migrationVersion": 3
@@ -6203,7 +6203,7 @@
 							"value": -10
 						}
 					],
-					"description": "The target has a \u221210 penalty to [[/check ability=wis skill=prc]] checks and Passive Perception until the spell ends."
+					"description": "The target has a −10 penalty to [[/check ability=wis skill=prc]] checks and Passive Perception until the spell ends."
 				}
 			],
 			"migrationVersion": 3
@@ -12654,7 +12654,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				},
 				{
 					"foundryId": "raiseDead1",
@@ -12696,7 +12696,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				},
 				{
 					"foundryId": "raiseDead3",
@@ -12738,7 +12738,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				},
 				{
 					"foundryId": "raiseDead2",
@@ -12780,7 +12780,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				}
 			],
 			"migrationVersion": 3
@@ -13299,7 +13299,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				},
 				{
 					"foundryId": "resurrection1",
@@ -13341,7 +13341,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				},
 				{
 					"foundryId": "resurrection2",
@@ -13383,7 +13383,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				},
 				{
 					"foundryId": "resurrection3",
@@ -13425,7 +13425,7 @@
 							"value": -1
 						}
 					],
-					"description": "Coming back from the dead is an ordeal. The target takes a \u22124 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
+					"description": "Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0."
 				},
 				{
 					"foundryId": "resurrection4",
@@ -14768,7 +14768,7 @@
 							"value": -2
 						}
 					],
-					"description": "An affected target's Speed is halved, it takes a \u22122 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a [[/r 1d100cs>25#Slowed spell cast success]]{25 percent} chance the spell fails as a result of the target making the spell's gestures too slowly. An affected target repeats the [[/save ability=wis]] save at the end of each of its turns, ending the spell on itself on a success."
+					"description": "An affected target's Speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a [[/r 1d100cs>25#Slowed spell cast success]]{25 percent} chance the spell fails as a result of the target making the spell's gestures too slowly. An affected target repeats the [[/save ability=wis]] save at the end of each of its turns, ending the spell on itself on a success."
 				}
 			],
 			"migrationVersion": 3

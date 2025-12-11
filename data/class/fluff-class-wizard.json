@@ -8,37 +8,37 @@
 					"name": "Wizard",
 					"type": "section",
 					"entries": [
-						"Clad in the silver robes that denote her station, an elf closes her eyes to shut out the distractions of the battlefield and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a tiny bead of fire toward the enemy ranks, where it erupts into a conflagration that engulfs the soldiers.",
-						"Checking and rechecking his work, a human scribes an intricate magic circle in chalk on the bare stone floor, then sprinkles powdered iron along every line and graceful curve. When the circle is complete, he drones a long incantation. A hole opens in space inside the circle, bringing a whiff of brimstone from the otherworldly plane beyond.",
-						"Crouching on the floor in a dungeon intersection, a gnome tosses a handful of small bones inscribed with mystic symbols, muttering a few words of power over them. Closing his eyes to see the visions more clearly, he nods slowly, then opens his eyes and points down the passage to his left.",
-						"Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, and brute-force mind control. Their magic conjures monsters from other planes of existence, glimpses the future, or turns slain foes into zombies. Their mightiest spells change one substance into another, call meteors down from the sky, or open portals to other worlds.",
+						"Vestita con le vesti argentate che denotano la sua posizione, un'elfa chiude gli occhi per escludere le distrazioni del campo di battaglia e inizia il suo canto tranquillo. Con le dita che si intrecciano davanti a lei, completa il suo incantesimo e lancia una minuscola goccia di fuoco verso le fila nemiche, dove esplode in un incendio che travolge i soldati.",
+						"Controllando e ricontrollando il suo lavoro, uno scriba umano traccia un intricato cerchio magico con il gesso sul nudo pavimento di pietra, quindi cosparge ferro in polvere lungo ogni linea e curva aggraziata. Quando il cerchio è completo, pronuncia un lungo incantesimo. Un buco si apre nello spazio all'interno del cerchio, portando un soffio di zolfo dal piano ultraterreno.",
+						"Accovacciato sul pavimento all'incrocio di un dungeon, uno gnomo lancia una manciata di piccole ossa su cui sono incisi simboli mistici, mormorando alcune parole di potere su di esse. Chiudendo gli occhi per vedere le visioni più chiaramente, annuisce lentamente, poi apre gli occhi e indica il passaggio alla sua sinistra.",
+						"I maghi sono utilizzatori di magia supremi, definiti e uniti come classe dagli incantesimi che lanciano. Attingendo alla sottile trama della magia che permea il cosmo, i maghi lanciano incantesimi di fuoco esplosivo, fulmini arcuati, inganno sottile e controllo mentale con la forza bruta. La loro magia evoca mostri da altri piani di esistenza, intravede il futuro o trasforma i nemici uccisi in zombi. I loro incantesimi più potenti trasformano una sostanza in un'altra, richiamano meteore dal cielo o aprono portali verso altri mondi.",
 						{
 							"type": "entries",
 							"name": "Scholars of the Arcane",
 							"entries": [
-								"Wild and enigmatic, varied in form and function, the power of magic draws students who seek to master its mysteries. Some aspire to become like the gods, shaping reality itself. Though the casting of a typical spell requires merely the utterance of a few strange words, fleeting gestures, and sometimes a pinch or clump of exotic materials, these surface components barely hint at the expertise attained after years of apprenticeship and countless hours of study.",
-								"Wizards live and die by their spells. Everything else is secondary. They learn new spells as they experiment and grow in experience. They can also learn them from other wizards, from ancient tomes or inscriptions, and from ancient creatures (such as the fey) that are steeped in magic."
+								"Selvaggio ed enigmatico, vario nella forma e nella funzione, il potere della magia attira gli studenti che cercano di padroneggiarne i misteri. Alcuni aspirano a diventare come gli dei, plasmando la realtà stessa. Sebbene il lancio di un tipico incantesimo richieda semplicemente la pronuncia di poche parole strane, gesti fugaci e talvolta un pizzico o un ciuffo di materiali esotici, questi componenti superficiali suggeriscono a malapena l'esperienza raggiunta dopo anni di apprendistato e innumerevoli ore di studio.",
+								"I maghi vivono e muoiono grazie ai loro incantesimi. Tutto il resto è secondario. Imparano nuovi incantesimi mentre sperimentano e crescono in esperienza. Possono anche impararli da altri maghi, da antichi tomi o iscrizioni e da antiche creature (come le fate) immerse nella magia."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "The Lure of Knowledge",
 							"entries": [
-								"Wizards' lives are seldom mundane. The closest a wizard is likely to come to an ordinary life is working as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. Other wizards sell their services as diviners, serve in military forces, or pursue lives of crime or domination.",
-								"But the lure of knowledge and power calls even the most unadventurous wizards out of the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age."
+								"Le vite dei maghi raramente sono banali. L'esperienza più vicina a una vita ordinaria per un mago è lavorare come saggio o docente in una biblioteca o università, insegnando agli altri i segreti del multiverso. Altri maghi vendono i loro servizi come divinatori, prestano servizio nelle forze militari o perseguono una vita di crimine o dominio.",
+								"Ma il richiamo della conoscenza e del potere attira anche i maghi meno avventurosi fuori dalla sicurezza delle loro biblioteche e dei loro laboratori e verso rovine fatiscenti e città perdute. La maggior parte dei maghi crede che le loro controparti nelle antiche civiltà conoscessero segreti della magia che sono andati perduti nei secoli, e la scoperta di questi segreti potrebbe aprire la strada verso un potere più grande di qualsiasi magia disponibile nell'era presente."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Creating a Wizard",
 							"entries": [
-								"Creating a wizard character demands a backstory dominated by at least one extraordinary event. How did your character first come into contact with magic? How did you discover you had an aptitude for it? Do you have a natural talent, or did you simply study hard and practice incessantly? Did you encounter a magical creature or an ancient tome that taught you the basics of magic?",
-								"What drew you forth from your life of study? Did your first taste of magical knowledge leave you hungry for more? Have you received word of a secret repository of knowledge not yet plundered by any other wizard? Perhaps you're simply eager to put your newfound magical skills to the test in the face of danger.",
+								"Creare un personaggio mago richiede un retroscena dominato da almeno un evento straordinario. Come è entrato in contatto per la prima volta con la magia il tuo personaggio? Come hai scoperto di avere un'attitudine per questo? Hai un talento naturale o semplicemente studi duramente e ti alleni incessantemente? Hai incontrato una creatura magica o un tomo antico che ti ha insegnato le basi della magia?",
+								"Cosa ti ha tirato fuori dalla tua vita di studio? Il tuo primo assaggio di conoscenza magica ti ha lasciato fame di più? Hai ricevuto notizia di un deposito segreto di conoscenza non ancora saccheggiato da nessun altro mago? Forse sei semplicemente ansioso di mettere alla prova le tue nuove abilità magiche di fronte al pericolo.",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the {@background sage} background. Third, choose the {@spell mage hand}, {@spell light}, and {@spell ray of frost} cantrips, along with the following 1st-level spells for your spellbook: {@spell burning hands}, {@spell charm person}, {@spell feather fall}, {@spell mage armor}, {@spell magic missile}, and {@spell sleep}."
+										"Puoi creare rapidamente una procedura guidata seguendo questi suggerimenti. Innanzitutto, l'Intelligenza dovrebbe essere il tuo punteggio di caratteristica più alto, seguito da Costituzione o Destrezza. Se hai intenzione di iscriverti alla Scuola dell'Incanto, fai di Carisma il tuo prossimo miglior punteggio. In secondo luogo, scegli lo sfondo {@background sage}. Terzo, scegli i trucchetti {@spell mage hand}, {@spell light} e {@spell ray of frost}, insieme ai seguenti incantesimi di 1° livello per il tuo libro degli incantesimi: {@spell burning hands}, {@spell charm person}, {@spell feather fall}, {@spell mage armor}, {@spell magic missile} e {@spell sleep}."
 									]
 								}
 							]
@@ -53,18 +53,18 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Wizardry requires understanding. The knowledge of how and why magic works, and our efforts to broaden that understanding, have brought about the key advances in civilization over the centuries."
+								"La magia richiede comprensione. La conoscenza di come e perché funziona la magia, e i nostri sforzi per ampliare tale comprensione, hanno portato ai progressi chiave della civiltà nel corso dei secoli."
 							],
 							"by": "Gimble the illusionist"
 						},
-						"Only a select few people in the world are wielders of magic. Of all those, wizards stand at the pinnacle of the craft. Even the least of them can manipulate forces that flout the laws of nature, and the most accomplished among them can cast spells with world-shaking effects.",
-						"The price that wizards pay for their mastery is that most valuable of commodities: time. It takes years of study, instruction, and experimentation to learn how to harness magical energy and carry spells around in one's own mind. For adventuring wizards and other spellcasters who aspire to the highest echelons of the profession, the studying never ends, nor does the quest for knowledge and power.",
-						"If you're playing a wizard, take advantage of the opportunity to make your character more than just a stereotypical spell-slinger. Use the advice that follows to add some intriguing details to how your wizard interacts with the world.",
+						"Solo poche persone selezionate al mondo sono detentrici della magia. Tra tutti questi, i maghi rappresentano l'apice del mestiere. Anche i più piccoli possono manipolare forze che si fanno beffe delle leggi della natura, e i più esperti tra loro possono lanciare incantesimi con effetti sconvolgenti.",
+						"Il prezzo che i maghi pagano per la loro maestria è il bene più prezioso: il tempo. Ci vogliono anni di studio, istruzione e sperimentazione per imparare a sfruttare l'energia magica e trasportare gli incantesimi nella propria mente. Per i maghi avventurieri e gli altri incantatori che aspirano ai livelli più alti della professione, lo studio non finisce mai, così come la ricerca della conoscenza e del potere.",
+						"Se stai interpretando un mago, sfrutta l'opportunità di rendere il tuo personaggio qualcosa di più di un semplice lanciatore di incantesimi stereotipato. Usa i consigli che seguono per aggiungere alcuni dettagli intriganti al modo in cui il tuo mago interagisce con il mondo.",
 						{
 							"type": "quote",
 							"entries": [
-								"Watch. I love this trick.",
-								"Hey, wizard! You can't do magic. Oops, now you can. Oops, now you can't anymore. Ha ha ha!"
+								"Orologio. Adoro questo trucco.",
+								"Ehi, mago! Non puoi fare magie. Ops, ora puoi. Ops, ora non puoi più. Ah ah ah!"
 							],
 							"by": "Xanathar"
 						},
@@ -72,7 +72,7 @@
 							"type": "entries",
 							"name": "Spellbook",
 							"entries": [
-								"Your wizard character's most prized possession\u2014your spellbook\u2014might be an innocuous-looking volume whose covers show no hint of what's inside. Or you might display some flair, as many wizards do, by carrying a spellbook of an unusual sort. If you don't own such an item already, one of your goals might be to find a spellbook that sets you apart by its appearance or its means of manufacture.",
+								"Il bene più prezioso del tuo personaggio mago, il tuo libro degli incantesimi, potrebbe essere un volume dall'aspetto innocuo le cui copertine non mostrano alcun accenno a ciò che contiene. Oppure potresti mostrare un certo talento, come fanno molti maghi, portando con sé un libro degli incantesimi di tipo insolito. Se non possiedi già un oggetto del genere, uno dei tuoi obiettivi potrebbe essere quello di trovare un libro degli incantesimi che ti distingua per il suo aspetto o per i suoi mezzi di fabbricazione.",
 								{
 									"type": "table",
 									"caption": "Spellbooks",
@@ -92,7 +92,7 @@
 													"exact": 1
 												}
 											},
-											"A tome with pages that are thin sheets of metal, spells etched into them with acid"
+											"Un tomo con pagine costituite da sottili fogli di metallo, su cui sono incisi incantesimi con l'acido"
 										],
 										[
 											{
@@ -101,7 +101,7 @@
 													"exact": 2
 												}
 											},
-											"Long straps of leather on which spells are written, wrapped around a staff for ease of transport"
+											"Lunghe cinghie di cuoio su cui sono scritti gli incantesimi, avvolte attorno a un bastone per facilitarne il trasporto"
 										],
 										[
 											{
@@ -110,7 +110,7 @@
 													"exact": 3
 												}
 											},
-											"A battered tome filled with pictographs that only you can understand"
+											"Un tomo malconcio pieno di pittogrammi che solo tu puoi capire"
 										],
 										[
 											{
@@ -119,7 +119,7 @@
 													"exact": 4
 												}
 											},
-											"Small stones inscribed with spells and kept in a cloth bag"
+											"Piccole pietre inscritte con incantesimi e conservate in un sacchetto di stoffa"
 										],
 										[
 											{
@@ -128,7 +128,7 @@
 													"exact": 5
 												}
 											},
-											"A scorched book, ravaged by dragon fire, with the script of your spells barely visible on its pages"
+											"Un libro bruciacchiato, devastato dal fuoco del drago, con la scrittura dei tuoi incantesimi appena visibile sulle sue pagine"
 										],
 										[
 											{
@@ -137,7 +137,7 @@
 													"exact": 6
 												}
 											},
-											"A tome full of black pages whose writing is visible only in dim light or darkness"
+											"Un tomo pieno di pagine nere la cui scrittura è visibile solo in penombra o nell'oscurità"
 										]
 									]
 								}
@@ -147,8 +147,8 @@
 							"type": "entries",
 							"name": "Ambition",
 							"entries": [
-								"Few aspiring wizards undertake the study of magic without some personal goal in mind. Many wizards use their spells as a tool to produce a tangible benefit, in material goods or in status, for themselves or their companions. For others, the theoretical aspect of magic might have a strong appeal, pushing those wizards to seek out knowledge that supports new theories of the arcane or confirms old ones.",
-								"Beyond the obvious, why does your wizard character study magic, and what do you want to achieve? If you haven't given these questions much thought, you can do so now, and the answers you come up with will likely affect how your future unfolds.",
+								"Pochi aspiranti maghi intraprendono lo studio della magia senza avere in mente un obiettivo personale. Molti maghi usano i loro incantesimi come strumento per produrre un beneficio tangibile, in beni materiali o status, per se stessi o per i propri compagni. Per altri, l’aspetto teorico della magia potrebbe avere un forte fascino, spingendo i maghi a cercare la conoscenza che supporti nuove teorie sull’arcano o confermi quelle vecchie.",
+								"Al di là dell'ovvio, perché il tuo personaggio mago studia la magia e cosa vuoi ottenere? Se non hai riflettuto molto su queste domande, puoi farlo ora e le risposte che fornirai probabilmente influenzeranno il modo in cui si svolgerà il tuo futuro.",
 								{
 									"type": "table",
 									"caption": "Ambitions",
@@ -168,7 +168,7 @@
 													"exact": 1
 												}
 											},
-											"You will prove that the gods aren't as powerful as folk believe."
+											"Dimostrerai che gli dei non sono così potenti come crede la gente."
 										],
 										[
 											{
@@ -177,7 +177,7 @@
 													"exact": 2
 												}
 											},
-											"Immortality is the end goal of your studies."
+											"L’immortalità è l’obiettivo finale dei tuoi studi."
 										],
 										[
 											{
@@ -186,7 +186,7 @@
 													"exact": 3
 												}
 											},
-											"If you can fully understand magic, you can unlock its use for all and usher in an era of equality."
+											"Se riesci a comprendere appieno la magia, puoi sbloccarne l’uso per tutti e inaugurare un’era di uguaglianza."
 										],
 										[
 											{
@@ -195,7 +195,7 @@
 													"exact": 4
 												}
 											},
-											"Magic is a dangerous tool. You use it to protect what you treasure."
+											"La magia è uno strumento pericoloso. Lo usi per proteggere ciò che fai tesoro."
 										],
 										[
 											{
@@ -204,7 +204,7 @@
 													"exact": 5
 												}
 											},
-											"Arcane power must be taken away from those who would abuse it."
+											"Il potere arcano deve essere sottratto a coloro che ne abusano."
 										],
 										[
 											{
@@ -213,7 +213,7 @@
 													"exact": 6
 												}
 											},
-											"You will become the greatest wizard the world has seen in generations."
+											"Diventerai il più grande mago che il mondo abbia visto da generazioni."
 										]
 									]
 								}
@@ -223,8 +223,8 @@
 							"type": "entries",
 							"name": "Eccentricity",
 							"entries": [
-								"Endless hours of solitary study and research can have a negative effect on anyone's social skills. Wizards, who are a breed apart to begin with, are no exception. An odd mannerism or two is not necessarily a drawback, though; an eccentricity of this sort is usually harmless and could provide a source of amusement or serve as a calling card of sorts.",
-								"If your character has an eccentricity, is it a physical tic or a mental one? Are you well known in some circles because of it? Do you fight to overcome it, or do you embrace this minor claim to fame of yours?",
+								"Infinite ore di studio e ricerca solitaria possono avere un effetto negativo sulle abilità sociali di chiunque. I maghi, che sono una razza a parte, non fanno eccezione. Tuttavia, uno o due strani manierismi non sono necessariamente uno svantaggio; un'eccentricità di questo tipo è solitamente innocua e potrebbe fornire una fonte di divertimento o servire come una sorta di biglietto da visita.",
+								"Se il tuo personaggio ha un'eccentricità, è un tic fisico o mentale? Sei molto conosciuto in alcuni ambienti per questo? Combatti per superarlo o abbracci questa tua piccola pretesa di fama?",
 								{
 									"type": "table",
 									"caption": "Eccentricities",
@@ -244,7 +244,7 @@
 													"exact": 1
 												}
 											},
-											"You have the habit of tapping your foot incessantly, which often annoys those around you."
+											"Hai l'abitudine di battere incessantemente il piede, cosa che spesso infastidisce chi ti circonda."
 										],
 										[
 											{
@@ -253,7 +253,7 @@
 													"exact": 2
 												}
 											},
-											"Your memory is quite good, but you have no trouble pretending to be absentminded when it suits your purposes."
+											"La tua memoria è abbastanza buona, ma non hai problemi a fingere di essere distratto quando fa comodo ai tuoi scopi."
 										],
 										[
 											{
@@ -262,7 +262,7 @@
 													"exact": 3
 												}
 											},
-											"You never enter a room without looking to see what's hanging from the ceiling."
+											"Non entri mai in una stanza senza guardare cosa c'è appeso al soffitto."
 										],
 										[
 											{
@@ -271,7 +271,7 @@
 													"exact": 4
 												}
 											},
-											"Your most prized possession is a dead worm that you keep inside a potion vial."
+											"Il tuo bene più prezioso è un verme morto che conservi all'interno di una fiala di pozione."
 										],
 										[
 											{
@@ -280,7 +280,7 @@
 													"exact": 5
 												}
 											},
-											"When you want people to leave you alone, you start talking to yourself. That usually does the trick."
+											"Quando vuoi che le persone ti lascino in pace, inizi a parlare da solo. Di solito questo risolve il problema."
 										],
 										[
 											{
@@ -289,7 +289,7 @@
 													"exact": 6
 												}
 											},
-											"Your fashion sense and grooming, or more accurately lack thereof, sometimes cause others to assume you are a beggar."
+											"Il tuo senso della moda e della tua acconciatura, o più precisamente la tua mancanza, a volte inducono gli altri a presumere che tu sia un mendicante."
 										]
 									]
 								}
@@ -322,10 +322,10 @@
 					"source": "XPHB",
 					"page": 164,
 					"entries": [
-						"Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.",
-						"Most Wizards share a scholarly approach to magic. They examine the theoretical underpinnings of magic, particularly the categorization of spells into schools of magic. Renowned Wizards such as Bigby, Tasha, Mordenkainen, and Yolande have built on their studies to invent iconic spells now used across the multiverse.",
-						"The closest a Wizard is likely to come to an ordinary life is working as a sage or lecturer. Other Wizards sell their services as advisers, serve in military forces, or pursue lives of crime or domination.",
-						"But the lure of knowledge calls even the most unadventurous Wizards from the safety of their libraries and laboratories and into crumbling ruins and lost cities. Most Wizards believe that their counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and discovering those secrets could unlock the path to a power greater than any magic available in the present age."
+						"I maghi sono definiti dal loro studio approfondito dei meccanismi interni della magia. Lanciano incantesimi di fuoco esplosivo, fulmini arcuati, inganni subdoli e trasformazioni spettacolari. La loro magia evoca mostri da altri piani di esistenza, intravede il futuro o forma barriere protettive. I loro incantesimi più potenti trasformano una sostanza in un'altra, richiamano meteore dal cielo o aprono portali verso altri mondi.",
+						"La maggior parte dei maghi condivide un approccio accademico alla magia. Esaminano le basi teoriche della magia, in particolare la categorizzazione degli incantesimi in scuole di magia. Maghi famosi come Bigby, Tasha, Mordenkainen e Yolande hanno sviluppato i loro studi per inventare incantesimi iconici ora utilizzati in tutto il multiverso.",
+						"L'esperienza più vicina a una vita ordinaria per un Mago è lavorare come saggio o conferenziere. Altri maghi vendono i loro servizi come consiglieri, prestano servizio nelle forze militari o perseguono una vita criminale o di dominio.",
+						"Ma il richiamo della conoscenza richiama anche i Maghi meno avventurosi dalla sicurezza delle loro biblioteche e dei loro laboratori verso rovine fatiscenti e città perdute. La maggior parte dei maghi crede che le loro controparti nelle antiche civiltà conoscessero segreti della magia che sono andati perduti nei secoli, e la scoperta di questi segreti potrebbe aprire la strada verso un potere più grande di qualsiasi magia disponibile nell'era presente."
 					]
 				}
 			],
@@ -386,7 +386,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"War magic? Does that make you a War Wizard? I've heard about them. They dress in purple, I think. But you're not dressed in purple. That's disappointing. Go change."
+						"Magia di guerra? Questo fa di te un mago della guerra? Ne ho sentito parlare. Si vestono di viola, credo. Ma non sei vestito di viola. È deludente. Vai a cambiarti."
 					],
 					"by": "Xanathar"
 				}

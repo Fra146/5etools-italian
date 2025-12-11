@@ -8,37 +8,37 @@
 					"name": "Ranger",
 					"type": "section",
 					"entries": [
-						"Rough and wild looking, a human stalks alone through the shadows of trees, hunting the orcs he knows are planning a raid on a nearby farm. Clutching a shortsword in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.",
-						"After tumbling away from a cone of freezing air, an elf finds her feet and draws back her bow to loose an arrow at the white dragon. Shrugging off the wave of fear that emanates from the dragon like the cold of its breath, she sends one arrow after another to find the gaps between the dragon's thick scales.",
-						"Holding his hand high, a half-elf whistles to the hawk that circles high above him, calling the bird back to his side. Whispering instructions in Elvish, he points to the owlbear he's been tracking and sends the hawk to distract the creature while he readies his bow.",
-						"Far from the bustle of cities and towns, past the hedges that shelter the most distant farms from the terrors of the wild, amid the dense-packed trees of trackless forests and across wide and empty plains, rangers keep their unending watch.",
+						"Dall'aspetto rude e selvaggio, un umano si aggira da solo tra le ombre degli alberi, dando la caccia agli orchi che sa stanno pianificando un'incursione in una fattoria vicina. Stringendo una spada corta in ciascuna mano, diventa un turbine d'acciaio, abbattendo un nemico dopo l'altro.",
+						"Dopo essere caduto da un cono di aria gelida, un elfo ritrova i suoi piedi e tende l'arco per scagliare una freccia contro il drago bianco. Scrollandosi di dosso l'ondata di paura che emana dal drago come il freddo del suo respiro, lancia una freccia dopo l'altra per trovare gli spazi tra le spesse scaglie del drago.",
+						"Tenendo la mano alta, un mezzelfo fischia al falco che volteggia in alto sopra di lui, richiamando l'uccello al suo fianco. Sussurrando istruzioni in elfico, indica l'orsogufo che sta seguendo e manda il falco a distrarre la creatura mentre prepara il suo arco.",
+						"Lontano dal trambusto di città e paesi, oltre le siepi che proteggono le fattorie più lontane dai terrori della natura selvaggia, tra gli alberi fitti di foreste senza sentieri e attraverso pianure ampie e deserte, i ranger mantengono la loro guardia incessante.",
 						{
 							"type": "entries",
 							"name": "Deadly Hunters",
 							"entries": [
-								"Warriors of the wilderness, rangers specialize in hunting the monsters that threaten the edges of civilization\u2014humanoid raiders, rampaging beasts and monstrosities, terrible giants, and deadly dragons. They learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble. Rangers focus their combat training on techniques that are particularly useful against their specific favored foes.",
-								"Thanks to their familiarity with the wilds, rangers acquire the ability to cast spells that harness nature's power, much as a druid does. Their spells, like their combat abilities, emphasize speed, stealth, and the hunt. A ranger's talents and abilities are honed with deadly focus on the grim task of protecting the borderlands."
+								"Guerrieri delle terre selvagge, i ranger sono specializzati nella caccia ai mostri che minacciano i confini della civiltà: predoni umanoidi, bestie e mostruosità infuriate, terribili giganti e draghi letali. Imparano a seguire le tracce della loro preda come fanno i predatori, muovendosi furtivamente nelle zone selvagge e nascondendosi tra cespugli e macerie. I ranger concentrano il loro addestramento al combattimento su tecniche particolarmente utili contro i loro specifici nemici preferiti.",
+								"Grazie alla loro familiarità con le terre selvagge, i ranger acquisiscono la capacità di lanciare incantesimi che sfruttano il potere della natura, proprio come fa un druido. I loro incantesimi, come le loro abilità di combattimento, enfatizzano la velocità, la furtività e la caccia. I talenti e le abilità di un ranger vengono affinati concentrandosi mortalmente sul triste compito di proteggere le terre di confine."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Independent Adventurers",
 							"entries": [
-								"Though a ranger might make a living as a hunter, a guide, or a tracker, a ranger's true calling is to defend the outskirts of civilization from the ravages of monsters and humanoid hordes that press in from the wild. In some places, rangers gather in secretive orders or join forces with druidic circles. Many rangers, though, are independent almost to a fault, knowing that, when a dragon or a band of orcs attacks, a ranger might be the first\u2014and possibly the last\u2014line of defense.",
-								"This fierce independence makes rangers well suited to adventuring, since they are accustomed to life far from the comforts of a dry bed and a hot bath. Faced with city-bred adventurers who grouse and whine about the hardships of the wild, rangers respond with some mixture of amusement, frustration, and compassion. But they quickly learn that other adventurers who can carry their own weight in a fight against civilization's foes are worth any extra burden. Coddled city folk might not know how to feed themselves or find fresh water in the wild, but they make up for it in other ways."
+								"Sebbene un ranger possa guadagnarsi da vivere come cacciatore, guida o inseguitore, la vera vocazione di un ranger è difendere la periferia della civiltà dalle devastazioni di mostri e orde di umanoidi che incalzano dalle terre selvagge. In alcuni luoghi, i ranger si riuniscono in ordini segreti o uniscono le forze con i circoli druidici. Molti ranger, però, sono quasi completamente indipendenti, sapendo che, quando un drago o una banda di orchi attaccano, un ranger potrebbe essere la prima, e forse l'ultima, linea di difesa.",
+								"Questa feroce indipendenza rende i ranger particolarmente adatti all'avventura, poiché sono abituati a vivere lontano dalle comodità di un letto asciutto e di un bagno caldo. Di fronte agli avventurieri cresciuti in città che si lamentano e si lamentano delle difficoltà della natura selvaggia, i ranger rispondono con un misto di divertimento, frustrazione e compassione. Ma imparano presto che gli altri avventurieri che possono portare il proprio peso in una lotta contro i nemici della civiltà valgono qualsiasi fardello aggiuntivo. I viziati cittadini di città potrebbero non sapere come nutrirsi o trovare acqua fresca nella natura, ma compensano in altri modi."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Creating a Ranger",
 							"entries": [
-								"As you create your ranger character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, wandering the wilds together until you mastered the ranger's ways? Did you leave your apprenticeship, or was your mentor slain\u2014perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of rangers affiliated with a druidic circle, trained in mystic paths as well as wilderness lore. You might be self-taught, a recluse who learned combat skills, tracking, and even a magical connection to nature through the necessity of surviving in the wilds.",
-								"What's the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work in protecting the borderlands, or a significant change? What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?",
+								"Mentre crei il tuo personaggio ranger, considera la natura dell'addestramento che ti ha dato le tue particolari capacità. Ti sei allenato con un unico mentore, vagando insieme per le terre selvagge finché non hai imparato le vie del ranger? Hai abbandonato il tuo apprendistato o il tuo mentore è stato ucciso, forse dallo stesso tipo di mostro che è diventato il tuo nemico preferito? O forse hai imparato le tue abilità come parte di una banda di ranger affiliati a un circolo druidico, addestrati in percorsi mistici e nelle conoscenze della natura selvaggia. Potresti essere un autodidatta, un recluso che ha imparato abilità di combattimento, localizzazione e persino una connessione magica con la natura attraverso la necessità di sopravvivere nella natura selvaggia.",
+								"Qual è l'origine del tuo particolare odio verso un certo tipo di nemico? Un mostro ha ucciso qualcuno che amavi o ha distrutto il tuo villaggio natale? Oppure hai visto troppa distruzione causata da questi mostri e ti sei impegnato a frenare le loro depredazioni? La tua carriera da avventuriero è una continuazione del tuo lavoro nella protezione delle terre di confine o un cambiamento significativo? Cosa ti ha spinto a unirti a un gruppo di avventurieri? Trovi difficile insegnare ai nuovi alleati le vie della natura selvaggia o accogli con favore il sollievo dalla solitudine che offrono?",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the {@background outlander} background."
+										"Puoi creare rapidamente un ranger seguendo questi suggerimenti. Innanzitutto, rendi la Destrezza il tuo punteggio di abilità più alto, seguito da Saggezza. (Alcuni ranger che si concentrano sul combattimento con due armi rendono la Forza superiore alla Destrezza.) Secondo, scegli lo sfondo {@background outlander}."
 									]
 								}
 							]
@@ -53,17 +53,17 @@
 						{
 							"type": "quote",
 							"entries": [
-								"I spend a lot of my life away from civilization, keeping to its fringes to protect it. Don't assume that because I don't bend the knee to your king that I haven't done more to protect him than all his knights put together."
+								"Trascorro gran parte della mia vita lontano dalla civiltà, mantenendomi ai suoi margini per proteggerla. Non dare per scontato che, poiché non mi inginocchio davanti al tuo re, non ho fatto di più per proteggerlo di quanto abbiano fatto tutti i suoi cavalieri messi insieme."
 							],
 							"by": "Soveliss"
 						},
-						"Rangers are free-minded wanderers and seekers who patrol the edges of civilized territory, turning back the denizens of the wild lands beyond. It is a thankless job, since their efforts are rarely understood and almost never rewarded. Yet rangers persist in their duties, never doubting that their work makes the world a safer place.",
-						"A relationship with civilization informs every ranger's personality and history. Some rangers see themselves as enforcers of the law and bringers of justice on civilization's frontier, answering to no sovereign power. Others are survivalists who eschew civilization altogether. They vanquish monsters to keep themselves safe while they live in and travel through the perilous wild areas of the world. If their efforts also benefit the kingdoms and other civilized realms that they avoid, so be it.",
-						"If you're creating or playing a ranger character, the following sections offer ideas for embellishing the character and enhancing your roleplaying experience.",
+						"I ranger sono vagabondi e cercatori dalla mente libera che pattugliano i confini del territorio civilizzato, respingendo gli abitanti delle terre selvagge al di là. È un lavoro ingrato, poiché i loro sforzi sono raramente compresi e quasi mai ricompensati. Eppure i ranger persistono nel loro compito, senza mai dubitare che il loro lavoro renda il mondo un posto più sicuro.",
+						"Un rapporto con la civiltà informa la personalità e la storia di ogni ranger. Alcuni ranger si considerano guardiani della legge e portatori di giustizia ai confini della civiltà, senza rispondere ad alcun potere sovrano. Altri sono sopravvissuti che evitano del tutto la civiltà. Sconfiggono i mostri per mantenersi al sicuro mentre vivono e viaggiano attraverso le pericolose aree selvagge del mondo. Se i loro sforzi avvantaggiano anche i regni e gli altri regni civilizzati che evitano, così sia.",
+						"Se stai creando o interpretando un personaggio ranger, le sezioni seguenti offrono idee per abbellire il personaggio e migliorare la tua esperienza di gioco di ruolo.",
 						{
 							"type": "quote",
 							"entries": [
-								"I'm a monster. Are you going to try to kill me? Didn't think so. Go kill some goblins or something. On second thought, goblins aren't monsters - they're people. So maybe you should call yourself a people killer."
+								"Sono un mostro. Cercherai di uccidermi? Non la pensavo così. Vai a uccidere qualche goblin o qualcosa del genere. Ripensandoci, i goblin non sono mostri: sono persone. Quindi forse dovresti definirti un assassino di persone."
 							],
 							"by": "Xanathar"
 						},
@@ -71,8 +71,8 @@
 							"type": "entries",
 							"name": "View of the World",
 							"entries": [
-								"A ranger's view of the world begins (and sometimes ends) with that character's outlook toward civilized folk and the places they occupy. Some rangers have an attitude toward civilization that's deeply rooted in disdain, while others pity the people they have sworn to protect\u2014though on the battlefield, it's impossible to tell the difference between one ranger and another. Indeed, to those who have seen them operate and been the beneficiaries of their prowess, it scarcely matters why rangers do what they do. That said, no two rangers are likely to express their opinions on any matter in the same way.",
-								"If you haven't yet thought about the details of your character's worldview, consider putting a finer point on things by summarizing that viewpoint in a short statement (such as the entries on the following table). How might that feeling affect the way you conduct yourself?",
+								"La visione del mondo di un ranger inizia (e talvolta finisce) con la visione di quel personaggio nei confronti delle persone civilizzate e dei luoghi che occupano. Alcuni ranger hanno un atteggiamento nei confronti della civiltà profondamente radicato nel disprezzo, mentre altri provano compassione per le persone che hanno giurato di proteggere, anche se sul campo di battaglia è impossibile distinguere tra un ranger e un altro. In effetti, per coloro che li hanno visti operare e sono stati i beneficiari della loro abilità, poco importa il motivo per cui i ranger fanno quello che fanno. Detto questo, è improbabile che due ranger esprimano le loro opinioni su qualsiasi argomento allo stesso modo.",
+								"Se non hai ancora pensato ai dettagli della visione del mondo del tuo personaggio, valuta la possibilità di approfondire le cose riassumendo quel punto di vista in una breve dichiarazione (come le voci nella tabella seguente). In che modo questa sensazione potrebbe influenzare il modo in cui ti comporti?",
 								{
 									"type": "table",
 									"caption": "View of the World",
@@ -92,7 +92,7 @@
 													"exact": 1
 												}
 											},
-											"Towns and cities are the best places for those who can't survive on their own."
+											"I paesi e le città sono i posti migliori per coloro che non possono sopravvivere da soli."
 										],
 										[
 											{
@@ -101,7 +101,7 @@
 													"exact": 2
 												}
 											},
-											"The advancement of civilization is the best way to thwart chaos, but its reach must be monitored."
+											"Il progresso della civiltà è il modo migliore per contrastare il caos, ma la sua portata deve essere monitorata."
 										],
 										[
 											{
@@ -110,7 +110,7 @@
 													"exact": 3
 												}
 											},
-											"Towns and cities are a necessary evil, but once the wilderness is purged of supernatural threats, we will need them no more."
+											"I paesi e le città sono un male necessario, ma una volta che le terre selvagge saranno epurate dalle minacce soprannaturali, non ne avremo più bisogno."
 										],
 										[
 											{
@@ -119,7 +119,7 @@
 													"exact": 4
 												}
 											},
-											"Walls are for cowards, who huddle behind them while others do the work of making the world safe."
+											"I muri sono per i codardi, che si rannicchiano dietro di essi mentre altri fanno il lavoro per rendere il mondo sicuro."
 										],
 										[
 											{
@@ -128,7 +128,7 @@
 													"exact": 5
 												}
 											},
-											"Visiting a town is not unpleasant, but after a few days I feel the irresistible call to return to the wild."
+											"Visitare una cittadina non è spiacevole, ma dopo qualche giorno sento il richiamo irresistibile di ritornare alla natura."
 										],
 										[
 											{
@@ -137,7 +137,7 @@
 													"exact": 6
 												}
 											},
-											"Cities breed weakness by isolating folk from the harsh lessons of the wild."
+											"Le città generano debolezza isolando le persone dalle dure lezioni della natura selvaggia."
 										]
 									]
 								}
@@ -147,8 +147,8 @@
 							"type": "entries",
 							"name": "Homelands",
 							"entries": [
-								"All rangers, regardless of how they came to take up the profession, have a strong connection to the natural world and its various terrains. For some rangers, the wilderness is where they grew up, either as a result of being born there or moving there at a young age. For other rangers, civilization was originally home, but the wilderness became a second homeland.",
-								"Think of your character's backstory and decide what terrain feels most like home, whether or not you were born there. What does that terrain say about your personality? Does it influence which spells you choose to learn? Have your experiences there shaped who your favored enemies are?",
+								"Tutti i ranger, indipendentemente da come hanno intrapreso la professione, hanno un forte legame con il mondo naturale e i suoi vari terreni. Per alcuni ranger, la natura selvaggia è il luogo in cui sono cresciuti, sia perché vi sono nati sia perché vi si sono trasferiti in giovane età. Per altri ranger, la civiltà era originariamente la casa, ma la natura selvaggia divenne una seconda patria.",
+								"Pensa al passato del tuo personaggio e decidi quale terreno ti fa sentire più a casa, indipendentemente dal fatto che tu sia nato lì o meno. Cosa dice quel terreno sulla tua personalità? Influisce sugli incantesimi che scegli di imparare? Le tue esperienze lì hanno plasmato chi sono i tuoi nemici preferiti?",
 								{
 									"type": "table",
 									"caption": "Homelands",
@@ -168,7 +168,7 @@
 													"exact": 1
 												}
 											},
-											"You patrolled an ancient forest, darkened and corrupted by several crossings to the Shadowfell."
+											"Hai pattugliato un'antica foresta, oscurata e corrotta dai numerosi attraversamenti della Coltre Oscura."
 										],
 										[
 											{
@@ -177,7 +177,7 @@
 													"exact": 2
 												}
 											},
-											"As part of a group of nomads, you acquired the skills for surviving in the desert."
+											"Come parte di un gruppo di nomadi, hai acquisito le abilità per sopravvivere nel deserto."
 										],
 										[
 											{
@@ -186,7 +186,7 @@
 													"exact": 3
 												}
 											},
-											"Your early life in the Underdark prepared you for the challenges of combating its denizens."
+											"I tuoi primi anni di vita nel Sottosuolo ti hanno preparato per le sfide legate alla lotta contro i suoi abitanti."
 										],
 										[
 											{
@@ -195,7 +195,7 @@
 													"exact": 4
 												}
 											},
-											"You dwelled on the edge of a swamp, in an area imperiled by land creatures as well as aquatic ones."
+											"Vivevi sul bordo di una palude, in un'area messa in pericolo sia dalle creature terrestri che da quelle acquatiche."
 										],
 										[
 											{
@@ -204,7 +204,7 @@
 													"exact": 5
 												}
 											},
-											"Because you grew up among the peaks, finding the best path through the mountains is second nature to you."
+											"Poiché sei cresciuto tra le vette, trovare il percorso migliore attraverso le montagne è per te una seconda natura."
 										],
 										[
 											{
@@ -213,7 +213,7 @@
 													"exact": 6
 												}
 											},
-											"You wandered the far north, learning how to protect yourself and prosper in a realm overrun by ice."
+											"Hai vagato per l'estremo nord, imparando a proteggerti e a prosperare in un regno invaso dal ghiaccio."
 										]
 									]
 								}
@@ -223,8 +223,8 @@
 							"type": "entries",
 							"name": "Sworn Enemy",
 							"entries": [
-								"Every ranger begins with a favored enemy (or two). The determination of a favored enemy might be tied to a specific event in the character's early life, or it might be entirely a matter of choice.",
-								"What spurred your character to select a particular enemy? Was the choice made because of tradition or curiosity, or do you have a grudge to settle?",
+								"Ogni ranger inizia con un nemico preferito (o due). La determinazione di un nemico favorito potrebbe essere legata a un evento specifico nei primi anni di vita del personaggio, oppure potrebbe essere interamente una questione di scelta.",
+								"Cosa ha spinto il tuo personaggio a selezionare un particolare nemico? La scelta è stata fatta per tradizione, curiosità oppure hai un rancore da saldare?",
 								{
 									"type": "table",
 									"caption": "Sworn Enemies",
@@ -244,7 +244,7 @@
 													"exact": 1
 												}
 											},
-											"You seek revenge on nature's behalf for the great transgressions your foe has committed."
+											"Cerchi vendetta in nome della natura per le grandi trasgressioni commesse dal tuo nemico."
 										],
 										[
 											{
@@ -253,7 +253,7 @@
 													"exact": 2
 												}
 											},
-											"Your forebears or predecessors fought these creatures, and so shall you."
+											"I tuoi antenati o predecessori hanno combattuto queste creature, e così farai anche tu."
 										],
 										[
 											{
@@ -262,7 +262,7 @@
 													"exact": 3
 												}
 											},
-											"You bear no enmity toward your foe. You stalk such creatures as a hunter tracks down a wild animal."
+											"Non nutri inimicizia verso il tuo nemico. Insegui queste creature come un cacciatore rintraccia un animale selvatico."
 										],
 										[
 											{
@@ -271,7 +271,7 @@
 													"exact": 4
 												}
 											},
-											"You find your foe fascinating, and you collect books of tales and history concerning it."
+											"Trovi il tuo nemico affascinante e raccogli libri di racconti e di storia che lo riguardano."
 										],
 										[
 											{
@@ -280,7 +280,7 @@
 													"exact": 5
 												}
 											},
-											"You collect tokens of your fallen enemies to remind you of each kill."
+											"Raccogli gettoni dei tuoi nemici caduti per ricordarti di ogni uccisione."
 										],
 										[
 											{
@@ -289,7 +289,7 @@
 													"exact": 6
 												}
 											},
-											"You respect your chosen enemy, and you see your battles as a test of respective skills."
+											"Rispetti il ​​nemico prescelto e vedi le tue battaglie come una prova delle rispettive abilità."
 										]
 									]
 								}
@@ -322,8 +322,8 @@
 					"source": "XPHB",
 					"page": 118,
 					"entries": [
-						"Far from bustling cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch in the wilderness. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.",
-						"Thanks to their connection with nature, Rangers can also cast spells that harness primal powers of the wilderness. A Ranger's talents and magic are honed with deadly focus to protect the world from the ravages of monsters and tyrants."
+						"Lontano dalle città frenetiche, tra gli alberi di foreste impervie e attraverso ampie pianure, i Rangers vigilano incessantemente nelle terre selvagge. I ranger imparano a seguire le tracce della loro preda come fanno i predatori, muovendosi furtivamente nelle terre selvagge e nascondendosi tra cespugli e macerie.",
+						"Grazie al loro legame con la natura, i Ranger possono anche lanciare incantesimi che sfruttano i poteri primordiali della natura selvaggia. I talenti e la magia di un Ranger sono affinati con una concentrazione letale per proteggere il mondo dalle devastazioni di mostri e tiranni."
 					]
 				}
 			],
@@ -362,7 +362,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"So you sneak around in the dark? You know most everything but humans can see in the dark, right? We all see you. Tiptoeing doesn't turn you {@condition invisible}."
+						"Quindi te ne vai in giro nell'oscurità? Conosci quasi tutto, ma gli umani possono vedere al buio, giusto? Ti vediamo tutti. Andare in punta di piedi non ti trasforma {@condition invisible}."
 					],
 					"by": "Xanathar"
 				}
@@ -378,7 +378,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"You can't walk to the horizon, because it keeps on getting farther away. Boom! Did I just blow your mind? I did, didn't I?"
+						"Non puoi camminare fino all'orizzonte, perché continua ad allontanarsi. Boom! Ti ho appena sbalordito? L'ho fatto, vero?"
 					],
 					"by": "Xanathar"
 				}

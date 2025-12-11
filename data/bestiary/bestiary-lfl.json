@@ -63,13 +63,13 @@
 				{
 					"name": "Ephemeral Movement",
 					"entries": [
-						"The incarnation can move through other creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}, and its movement doesn't provoke Opportunity Attacks. It takes 5 ({@damage 1d10}) Force damage if it ends its turn inside an object."
+						"L'incarnazione può muoversi attraverso altre creature e oggetti come se lo fossero {@variantrule Difficult Terrain|XPHB} e il suo movimento non provoca Attacchi di Opportunità. Subisce 5 ({@damage 1d10}) danni Forza se termina il suo turno all'interno di un oggetto."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The incarnation has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"L'incarnazione ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -77,25 +77,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The incarnation makes three attacks, using Bite or Miasmic Globule in any combination."
+						"L'incarnazione effettua tre attacchi, usando Morso o Globulo Miasmico in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atkr m} {@hit 8}, reach 5 ft. {@h}14 ({@damage 2d8 + 5}) Piercing damage."
+						"{@atkr m} {@hit 8}, portata 5 piedi {@h}14 ({@damage 2d8 + 5}) Danno perforante."
 					]
 				},
 				{
 					"name": "Miasmic Globule",
 					"entries": [
-						"{@atkr r} {@hit 8}, range 60/120 ft. {@h}15 ({@damage 6d4}) Acid damage, and the target's {@variantrule Speed|XPHB} is reduced by 10 feet until the end of the incarnation's next turn."
+						"{@atkr r} {@hit 8}, portata 60/120 piedi. {@h}15 ({@damage 6d4}) Danni da acido e il danno da acido {@variantrule Speed|XPHB} del bersaglio viene ridotto di 3 metri fino alla fine del turno successivo dell'incarnazione."
 					]
 				},
 				{
 					"name": "Spectral Stampede",
 					"entries": [
-						"The incarnation moves up to 80 feet in a straight line. Each creature whose space the incarnation enters is targeted once by the following effect. {@actSave dex} {@dc 16}. {@actSaveFail} 18 ({@damage 4d8}) Force damage. If the target is the incarnation's size or smaller, it has the {@condition Prone|XPHB} condition. {@actSaveSuccess} Half damage only."
+						"L'incarnazione si muove fino a 80 piedi in linea retta. Ogni creatura nel cui spazio entra l'incarnazione viene presa di mira una volta dal seguente effetto. {@actSave dex} {@dc 16}. {@actSaveFail} 18 ({@damage 4d8}) Danno di forza. Se il bersaglio ha le stesse dimensioni dell'incarnazione o è inferiore, ha la condizione {@condition Prone|XPHB}. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -103,7 +103,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The incarnation changes its size to Medium, Large, or Huge."
+						"L'incarnazione cambia la sua taglia in Media, Grande o Enorme."
 					]
 				}
 			],
@@ -200,7 +200,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The incarnation casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability:"
+						"L'incarnazione lancia uno dei seguenti incantesimi, che non richiedono componenti di incantesimi e utilizzano Carisma come capacità di lancio degli incantesimi:"
 					],
 					"will": [
 						"{@spell Daylight|XPHB}",
@@ -220,7 +220,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The incarnation has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"L'incarnazione ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -228,19 +228,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The incarnation makes two Vine attacks and uses Radiant Blast. It can replace one vine attack with a use of Spellcasting to cast {@spell Blindness/Deafness|XPHB} if available."
+						"L'incarnazione effettua due attacchi Vine e usa Radiant Blast. Può sostituire un attacco della vite con l'uso del lancio di incantesimi {@spell Blindness/Deafness|XPHB} se disponibile."
 					]
 				},
 				{
 					"name": "Vine",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 20 ft. {@h}18 ({@damage 3d8 + 5}) Bludgeoning damage. If the target is the incarnation's size or smaller, it has the {@condition Grappled|XPHB} condition (escape {@dc 15}) from one of two vines."
+						"{@atkr m} {@hit 9}, portata 20 piedi {@h}18 ({@damage 3d8 + 5}) Danni contundenti. Se il bersaglio ha le stesse dimensioni dell'incarnazione o è inferiore, ha la condizione {@condition Grappled|XPHB} (fuga {@dc 15}) da uno dei due rampicanti."
 					]
 				},
 				{
 					"name": "Radiant Blast",
 					"entries": [
-						"{@actSave con} {@dc 17}, each creature of the incarnation's choice in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the incarnation. {@actSaveFail} The creature takes 14 ({@damage 2d8 + 5}) Radiant damage. {@actSaveSuccess} Half damage."
+						"{@actSave con} {@dc 17}, ogni creatura scelta dall'incarnazione in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originaria dell'incarnazione. {@actSaveFail} La creatura subisce 14 ({@damage 2d8 + 5}) danni radiosi. {@actSaveSuccess} Danno dimezzato."
 					]
 				}
 			],
@@ -248,13 +248,13 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The incarnation changes its size to Medium, Large, or Huge."
+						"L'incarnazione cambia la sua taglia in Media, Grande o Enorme."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"The incarnation teleports up to 60 feet to an unoccupied space it can see. The incarnation can't teleport while it has a creature {@condition Grappled|XPHB}."
+						"L'incarnazione si teletrasporta fino a 18 metri in uno spazio non occupato che può vedere. L'incarnazione non può teletrasportarsi mentre ha una creatura {@condition Grappled|XPHB}."
 					]
 				}
 			],
@@ -344,19 +344,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The giant makes two attacks, using Stone Sword or Boulder in any combination."
+						"Il gigante effettua due attacchi, usando Stone Sword o Boulder in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Stone Sword",
 					"entries": [
-						"{@atkr m} {@hit 8}, reach 15 ft. {@h}21 ({@damage 3d10 + 5}) Slashing damage."
+						"{@atkr m} {@hit 8}, portata 15 piedi {@h}21 ({@damage 3d10 + 5}) Danno tagliente."
 					]
 				},
 				{
 					"name": "Boulder",
 					"entries": [
-						"{@atkr r} {@hit 8}, range 60/240 ft. {@h}14 ({@damage 2d8 + 5}) Bludgeoning damage. If the target is a Large or smaller creature, it has the {@condition Prone|XPHB} condition."
+						"{@atkr r} {@hit 8}, portata 60/240 piedi. {@h}14 ({@damage 2d8 + 5}) Danni contundenti. Se il bersaglio è una creatura Grande o più piccola, ha la condizione {@condition Prone|XPHB}."
 					]
 				}
 			],
@@ -364,7 +364,7 @@
 				{
 					"name": "Name Sleep {@recharge 5}",
 					"entries": [
-						"The giant falls into a deep, restorative slumber. The giant gains 20 {@variantrule Temporary Hit Points|XPHB} and has the {@condition Unconscious|XPHB} condition until it takes damage or the end of its next turn. The giant has {@variantrule Advantage|XPHB} on ability checks and saving throws for 1 minute."
+						"Il gigante cade in un sonno profondo e ristoratore. Il gigante guadagna 20 {@variantrule Temporary Hit Points|XPHB} e mantiene la condizione {@condition Unconscious|XPHB} finché non subisce danni o fino alla fine del suo turno successivo. Il gigante ha {@variantrule Advantage|XPHB} sulle prove di abilità e sui tiri salvezza per 1 minuto."
 					]
 				}
 			],
@@ -448,7 +448,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The merrow casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Il merrow lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell Command|XPHB}",
@@ -463,13 +463,13 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"The merrow can breathe air and water."
+						"Il merrow può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Mimicry",
 					"entries": [
-						"The merrow can mimic voices and animal sounds. A creature that hears the mimicries can tell they are imitations with a successful {@dc 15} Wisdom ({@skill Insight|XPHB}) check."
+						"Il merrow può imitare voci e versi degli animali. Una creatura che sente le imitazioni può dire che sono imitazioni con una prova riuscita di Saggezza ({@skill Insight|XPHB} {@dc 15}."
 					]
 				}
 			],
@@ -477,13 +477,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The merrow makes three Spined Tail attacks. It can replace one of these attacks with a use of Spellcasting to cast {@spell Command|XPHB}."
+						"Il merrow effettua tre attacchi Spined Tail. Può sostituire uno di questi attacchi con l'uso del lancio di incantesimi {@spell Command|XPHB}."
 					]
 				},
 				{
 					"name": "Spined Tail",
 					"entries": [
-						"{@atkr m,r} {@hit 6}, reach 5 ft. or range 20/60 ft. {@h}14 ({@damage 3d6 + 4}) Piercing damage."
+						"{@atkr m,r} {@hit 6}, portata 5 piedi o portata 20/60 piedi {@h}14 ({@damage 3d6 + 4}) Danno perforante."
 					]
 				}
 			],
@@ -574,7 +574,7 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"The merrow can breathe air and water."
+						"Il merrow può respirare aria e acqua."
 					]
 				}
 			],
@@ -582,25 +582,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The merrow makes three attacks, using Coral Scepter and {@condition Poisoned|XPHB} Longbow in any combination."
+						"Il merrow effettua tre attacchi, usando Coral Scepter e {@condition Poisoned|XPHB} Longbow in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Coral Scepter",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 5 ft. {@h}14 ({@damage 2d10 + 4}) Bludgeoning damage."
+						"{@atkr m} {@hit 7}, portata 5 piedi {@h}14 ({@damage 2d10 + 4}) Danni contundenti."
 					]
 				},
 				{
 					"name": "Poisoned Longbow",
 					"entries": [
-						"{@atkr r} {@hit 7}, range 150/600 ft. {@h}8 ({@damage 1d8 + 4}) Piercing damage plus 7 ({@damage 2d6}) Poison damage."
+						"{@atkr r} {@hit 7}, portata 150/600 piedi. {@h}8 ({@damage 1d8 + 4}) Danni perforanti più 7 ({@damage 2d6}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Invective",
 					"entries": [
-						"{@actSave wis} {@dc 15}, up to three creatures the merrow can see within 60 feet. {@actSaveFail} 14 ({@damage 4d6}) Psychic damage, and the creature has {@variantrule Disadvantage|XPHB} on its next attack roll before the end of the merrow's next turn. {@actSaveSuccess} Half damage only."
+						"{@actSave wis} {@dc 15}, fino a tre creature che il merrow può vedere entro 18 metri. {@actSaveFail} 14 ({@damage 4d6}) Danni psichici e la creatura ha {@variantrule Disadvantage|XPHB} sul suo prossimo tiro per colpire prima della fine del turno successivo del merrow. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -682,7 +682,7 @@
 				{
 					"name": "Siege Monster",
 					"entries": [
-						"The noggle deals double damage to objects and structures."
+						"Il noggle infligge danni doppi a oggetti e strutture."
 					]
 				}
 			],
@@ -690,7 +690,7 @@
 				{
 					"name": "Sabotaging Swipe",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}6 ({@damage 1d8 + 2}) Slashing damage. If the target is wearing armor, it is subjected to the following effect. {@actSave dex} {@dc 12}. {@actSaveFail} The armor takes a -1 penalty to the AC it offers. The target can take an action to remove the penalty from its armor."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}6 ({@damage 1d8 + 2}) Danno tagliente. Se il bersaglio indossa un'armatura, è soggetto al seguente effetto. {@actSave dex} {@dc 12}. {@actSaveFail} L'armatura subisce una penalità di -1 alla CA che offre. Il bersaglio può intraprendere un'azione per rimuovere la penalità dalla sua armatura."
 					]
 				}
 			],
@@ -698,7 +698,7 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"The noggle takes the Disengage or Hide action."
+						"Il noggle esegue l'azione Disingaggiarsi o Nascondersi."
 					]
 				}
 			],
@@ -775,7 +775,7 @@
 				{
 					"name": "Bloodied Wild Magic",
 					"entries": [
-						"While {@status Bloodied|XPHB}, the noggle has a {@variantrule Fly Speed|XPHB} of 30 feet and it can choose for any damage it deals to be Force damage."
+						"Mentre {@status Bloodied|XPHB}, il noggle ha un {@variantrule Fly Speed|XPHB} di 9 metri e può scegliere che qualsiasi danno inflitto sia danno di Forza."
 					]
 				}
 			],
@@ -783,19 +783,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The noggle makes two attacks, using Noggling Stick or Befuddling Ray in any combination."
+						"Il noggle effettua due attacchi, usando Noggling Stick o Befuddling Ray in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Noggling Stick",
 					"entries": [
-						"{@atkr m} {@hit 5}, reach 5 ft. {@h}5 ({@damage 1d4 + 3}) Bludgeoning damage plus 2 ({@damage 1d4}) Psychic damage."
+						"{@atkr m} {@hit 5}, portata 5 piedi {@h}5 ({@damage 1d4 + 3}) Danni contundenti più 2 ({@damage 1d4}) danni psichici."
 					]
 				},
 				{
 					"name": "Befuddling Ray",
 					"entries": [
-						"{@atkr r} {@hit 5}, range 60 ft. {@h}6 ({@damage 1d6 + 3}) Psychic damage, and the target subtracts {@dice 1d4} from the next saving throw it makes before the end of the noggle's next turn."
+						"{@atkr r} {@hit 5}, portata 60 piedi. {@h}6 ({@damage 1d6 + 3}) Danni psichici e il bersaglio sottrae {@dice 1d4} dal successivo tiro salvezza effettuato prima della fine del turno successivo del noggle."
 					]
 				}
 			],
@@ -870,25 +870,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The giant makes three attacks, using Tree Club or Boulder in any combination."
+						"Il gigante effettua tre attacchi, usando Tree Club o Boulder in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Tree Club",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 15 ft. {@h}17 ({@damage 2d10 + 6}) Bludgeoning damage."
+						"{@atkr m} {@hit 9}, portata 15 piedi {@h}17 ({@damage 2d10 + 6}) Danni contundenti."
 					]
 				},
 				{
 					"name": "Boulder",
 					"entries": [
-						"{@atkr r} {@hit 9}, range 60/240 ft. {@h}13 ({@damage 2d6 + 6}) Bludgeoning damage. If the target is a Large or smaller creature, it has the {@condition Prone|XPHB} condition."
+						"{@atkr r} {@hit 9}, portata 60/240 piedi. {@h}13 ({@damage 2d6 + 6}) Danni contundenti. Se il bersaglio è una creatura Grande o più piccola, ha la condizione {@condition Prone|XPHB}."
 					]
 				},
 				{
 					"name": "Wild Magic Cataclysm {@recharge 5}",
 					"entries": [
-						"{@actSave dex} {@dc 15}, each creature in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within 120 feet. {@actSaveFail} 28 ({@damage 8d6}) damage (roll {@dice 1d4} to determine damage type: 1\u2014Acid; 2\u2014Fire; 3\u2014Lightning; 4\u2014Thunder). {@actSaveSuccess} Half damage."
+						"{@actSave dex} {@dc 15}, ogni creatura in un raggio di 20 piedi {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centrata su un punto entro 120 piedi. {@actSaveFail} 28 ({@damage 8d6}) danni (tira {@dice 1d4} per determinare il tipo di danno: 1—Acido; 2—Fuoco; 3—Fulmine; 4—Tuono). {@actSaveSuccess} Danno dimezzato."
 					]
 				}
 			],

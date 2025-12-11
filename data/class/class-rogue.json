@@ -558,7 +558,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Leather Armor|XPHB}, 2 {@item Dagger|XPHB|Daggers}, {@item Shortsword|XPHB}, {@item Shortbow|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Thieves' Tools|XPHB}, {@item Burglar's Pack|XPHB}, and 8 GP; or (B) 100 GP"
+					"{@i Choose A or B:} (A) {@item Leather Armor|XPHB}, 2 {@item Dagger|XPHB|Daggers}, {@item Shortsword|XPHB}, {@item Shortbow|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Thieves' Tools|XPHB}, {@item Burglar's Pack|XPHB} e 8 GP; o (B) 100 GP"
 				]
 			},
 			"multiclassing": {
@@ -2076,8 +2076,8 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with {@item thieves' tools|phb}. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.",
-				"At 6th level, you can choose two more of your proficiencies (in skills or with {@item thieves' tools|phb}) to gain this benefit."
+				"Al 1° livello, scegli due delle tue competenze in abilità, oppure una delle tue competenze in abilità e la tua competenza con {@item thieves' tools|phb}. Il tuo bonus di competenza viene raddoppiato per qualsiasi prova di caratteristica effettuata che utilizzi una delle competenze scelte.",
+				"Al 6° livello, puoi scegliere altre due delle tue competenze (in abilità o con {@item thieves' tools|phb}) per ottenere questo beneficio."
 			]
 		},
 		{
@@ -2090,9 +2090,9 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra {@damage 1d6} damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.",
-				"You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't {@condition incapacitated}, and you don't have disadvantage on the attack roll.",
-				"The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table."
+				"A partire dal 1° livello, sai come colpire abilmente e sfruttare la distrazione del nemico. Una volta per turno, puoi infliggere un danno extra {@damage 1d6} a una creatura colpita con un attacco se hai vantaggio sul tiro per colpire. L'attacco deve utilizzare un'arma fine o a distanza.",
+				"Non hai bisogno di vantaggio sul tiro per colpire se un altro nemico del bersaglio si trova entro 5 piedi da esso, quel nemico non lo è {@condition incapacitated} e non hai svantaggio sul tiro per colpire.",
+				"L'ammontare del danno extra aumenta man mano che guadagni livelli in questa classe, come mostrato nella colonna Attacco Furtivo della tabella Ladro."
 			]
 		},
 		{
@@ -2105,8 +2105,8 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.",
-				"In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run."
+				"Durante il tuo addestramento da ladro hai imparato il gergo dei ladri, un mix segreto di dialetto, gergo e codice che ti consente di nascondere messaggi in conversazioni apparentemente normali. Solo un'altra creatura che conosce l'idiozia dei ladri non può comprendere tali messaggi. Ci vuole quattro volte più tempo per trasmettere un messaggio del genere che per esprimere chiaramente la stessa idea.",
+				"Inoltre, comprendi una serie di segni e simboli segreti utilizzati per trasmettere messaggi brevi e semplici, ad esempio se un'area è pericolosa o il territorio di una gilda di ladri, se il bottino è nelle vicinanze o se le persone in un'area sono facili bersagli o forniranno un rifugio sicuro per i ladri in fuga."
 			]
 		},
 		{
@@ -2119,7 +2119,7 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the {@action Dash}, {@action Disengage}, or {@action Hide} action."
+				"A partire dal 2° livello, la tua rapidità di pensiero e la tua agilità ti permettono di muoverti e agire rapidamente. Puoi effettuare un'azione bonus in ciascuno dei tuoi turni di combattimento. Questa azione può essere utilizzata solo per eseguire l'azione {@action Dash}, {@action Disengage} o {@action Hide}."
 			]
 		},
 		{
@@ -2132,7 +2132,7 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities from the list of available archetypes. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level."
+				"Al 3° livello, scegli un archetipo che emuli nell'esercizio delle tue capacità da ladro dalla lista degli archetipi disponibili. La tua scelta dell'archetipo ti garantisce privilegi al 3° livello e poi di nuovo al 9°, 13° e 17° livello."
 			]
 		},
 		{
@@ -2145,7 +2145,7 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 3rd-level rogue {@variantrule optional class features|tce|optional feature}}",
-				"As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn."
+				"Come azione bonus, ti concedi un vantaggio sul tuo prossimo tiro per colpire nel turno corrente. Puoi utilizzare questa azione bonus solo se non ti sei mosso durante questo turno e, dopo aver utilizzato l'azione bonus, la tua velocità sarà pari a 0 fino alla fine del turno corrente."
 			]
 		},
 		{
@@ -2158,8 +2158,8 @@
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
-				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 4° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2172,7 +2172,7 @@
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
-				"Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you."
+				"A partire dal 5° livello, quando un attaccante che puoi vedere ti colpisce con un attacco, puoi usare la tua reazione per dimezzare il danno dell'attacco contro di te."
 			]
 		},
 		{
@@ -2185,7 +2185,7 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"At 6th level, you can choose two more of your proficiencies (in skills or with {@item thieves' tools|phb}) to gain the benefit of Expertise."
+				"Al 6° livello, puoi scegliere altre due delle tue competenze (in abilità o con {@item thieves' tools|phb}) per ottenere il beneficio della Competenza."
 			]
 		},
 		{
@@ -2198,7 +2198,7 @@
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
-				"Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an {@spell ice storm} spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
+				"A partire dal 7° livello, puoi schivare agilmente alcuni effetti ad area, come il soffio infuocato di un drago rosso o un incantesimo {@spell ice storm}. Quando sei soggetto a un effetto che ti consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisci invece alcun danno se riesci nel tiro salvezza e solo la metà dei danni se fallisci."
 			]
 		},
 		{
@@ -2211,8 +2211,8 @@
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
-				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi l'8° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2225,7 +2225,7 @@
 			"classSource": "PHB",
 			"level": 9,
 			"entries": [
-				"At 9th level, you gain a feature granted by your Roguish Archetype."
+				"Al 9° livello, ottieni una capacità conferita dal tuo Archetipo Ladro."
 			]
 		},
 		{
@@ -2238,8 +2238,8 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"When you reach 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 10° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2252,7 +2252,7 @@
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
-				"By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a {@dice d20} roll of 9 or lower as a 10."
+				"All'11° livello, hai affinato le abilità scelte finché non si avvicinano alla perfezione. Ogni volta che effettui una prova di caratteristica che ti consente di aggiungere il tuo bonus di competenza, puoi considerare un tiro {@dice d20} pari a 9 o inferiore come un 10."
 			]
 		},
 		{
@@ -2265,8 +2265,8 @@
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
-				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 12° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2279,7 +2279,7 @@
 			"classSource": "PHB",
 			"level": 13,
 			"entries": [
-				"At 13th level, you gain a feature granted by your Roguish Archetype."
+				"Al 13° livello, ottieni una capacità conferita dal tuo Archetipo Ladro."
 			]
 		},
 		{
@@ -2292,7 +2292,7 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or {@condition invisible} creature within 10 feet of you."
+				"A partire dal 14° livello, se sei in grado di sentire, sei consapevole della posizione di qualsiasi creatura nascosta o {@condition invisible} entro 3 metri da te."
 			]
 		},
 		{
@@ -2305,7 +2305,7 @@
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
-				"By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws."
+				"Al 15° livello hai acquisito una maggiore forza mentale. Ottieni competenza nei tiri salvezza su Saggezza."
 			]
 		},
 		{
@@ -2318,8 +2318,8 @@
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
-				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 16° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2332,7 +2332,7 @@
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
-				"At 17th level, you gain a feature granted by your Roguish Archetype."
+				"Al 17° livello, ottieni un privilegio concesso dal tuo Archetipo Furfante."
 			]
 		},
 		{
@@ -2345,7 +2345,7 @@
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
-				"Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't {@condition incapacitated}."
+				"A partire dal 18° livello, sei così evasivo che gli attaccanti raramente prendono il sopravvento contro di te. Nessun tiro per colpire ha vantaggio contro di te mentre non lo sei {@condition incapacitated}."
 			]
 		},
 		{
@@ -2358,8 +2358,8 @@
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
-				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2372,8 +2372,8 @@
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
-				"At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the {@dice d20} roll as a 20.",
-				"Once you use this feature, you can't use it again until you finish a short or long rest."
+				"Al 20° livello, possiedi una straordinaria abilità nel riuscire quando necessario. Se il tuo attacco manca un bersaglio nel raggio d'azione, puoi trasformare il mancato attacco in un colpo a segno. In alternativa, se fallisci una prova di abilità, puoi considerare il tiro {@dice d20} come un 20.",
+				"Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo breve o lungo."
 			]
 		},
 		{
@@ -2386,8 +2386,8 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You gain {@variantrule Expertise|XPHB} in two of your skill proficiencies of your choice. {@skill Sleight of Hand|XPHB} and {@skill Stealth|XPHB} are recommended if you have proficiency in them.",
-				"At Rogue level 6, you gain {@variantrule Expertise|XPHB} in two more of your skill proficiencies of your choice."
+				"Guadagni {@variantrule Expertise|XPHB} in due delle tue competenze in abilità a tua scelta. {@skill Sleight of Hand|XPHB} e {@skill Stealth|XPHB} sono consigliati se ne hai competenza.",
+				"Al livello 6 del Ladro, guadagni {@variantrule Expertise|XPHB} in altre due competenze nelle tue abilità a tua scelta."
 			]
 		},
 		{
@@ -2400,9 +2400,9 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra {@damage 1d6} damage to one creature you hit with an attack roll if you have {@variantrule Advantage|XPHB} on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.",
-				"You don't need {@variantrule Advantage|XPHB} on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the {@condition Incapacitated|XPHB} condition, and you don't have {@variantrule Disadvantage|XPHB} on the attack roll.",
-				"The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table."
+				"Sai come colpire in modo sottile e sfruttare la distrazione del nemico. Una volta per turno, puoi infliggere un danno extra {@damage 1d6} a una creatura che colpisci con un tiro per colpire se hai {@variantrule Advantage|XPHB} sul tiro e l'attacco utilizza un'arma Finezza o a distanza. Il tipo del danno extra è lo stesso del tipo dell'arma.",
+				"Non hai bisogno di {@variantrule Advantage|XPHB} nel tiro per colpire se almeno uno dei tuoi alleati si trova entro 5 piedi dal bersaglio, l'alleato non ha la condizione {@condition Incapacitated|XPHB} e tu non hai {@variantrule Disadvantage|XPHB} nel tiro per colpire.",
+				"Il danno extra aumenta man mano che guadagni livelli da Ladro, come mostrato nella colonna Attacco Furtivo della tabella Caratteristiche del Ladro."
 			]
 		},
 		{
@@ -2415,7 +2415,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice, which you choose from the language tables in {@book chapter 2|XPHB|2|Choose Languages}."
+				"Hai imparato varie lingue nelle comunità in cui hai esercitato i tuoi talenti dispettosi. Conosci il gergo dei ladri e un'altra lingua a tua scelta, che scegli dalla tabella delle lingue in {@book chapter 2|XPHB|2|Choose Languages}."
 			]
 		},
 		{
@@ -2428,8 +2428,8 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your training with weapons allows you to use the {@variantrule weapon mastery properties|XPHB|mastery properties} of two kinds of {@filter weapons|items|type=simple weapon;martial weapon} of your choice with which you have proficiency, such as {@item Dagger|XPHB|Daggers} and {@item Shortbow|XPHB|Shortbows}.",
-				"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change the kinds of weapons you chose. For example, you could switch to using the {@variantrule weapon mastery properties|XPHB|mastery properties} of {@item Scimitar|XPHB|Scimitars} and {@item Shortsword|XPHB|Shortswords}."
+				"Il tuo addestramento con le armi ti consente di utilizzare {@variantrule weapon mastery properties|XPHB|mastery properties} due tipi di {@filter weapons|items|type=simple weapon;martial weapon} di tua scelta con cui hai competenza, come {@item Dagger|XPHB|Daggers} e {@item Shortbow|XPHB|Shortbows}.",
+				"Ogni volta che finisci un {@variantrule Long Rest|XPHB}, puoi cambiare il tipo di armi che hai scelto. Ad esempio, potresti passare a utilizzare {@variantrule weapon mastery properties|XPHB|mastery properties} di {@item Scimitar|XPHB|Scimitars} e {@item Shortsword|XPHB|Shortswords}."
 			]
 		},
 		{
@@ -2442,7 +2442,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a {@variantrule Bonus Action|XPHB}: {@action Dash|XPHB}, {@action Disengage|XPHB}, or {@action Hide|XPHB}."
+				"La tua rapidità di pensiero e la tua agilità ti consentono di muoverti e agire rapidamente. Durante il tuo turno, puoi eseguire una delle seguenti azioni come {@variantrule Bonus Action|XPHB}: {@action Dash|XPHB}, {@action Disengage|XPHB} o {@action Hide|XPHB}."
 			]
 		},
 		{
@@ -2455,7 +2455,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower."
+				"Ottieni una sottoclasse Rogue a tua scelta. Una sottoclasse è una specializzazione che ti garantisce funzionalità a determinati livelli di Ladro. Per il resto della tua carriera, ottieni ciascuna delle caratteristiche della tua sottoclasse che sono del tuo livello da Ladro o inferiore."
 			]
 		},
 		{
@@ -2468,7 +2468,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you give yourself {@variantrule Advantage|XPHB} on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your {@variantrule Speed|XPHB} is 0 until the end of the current turn."
+				"Come {@variantrule Bonus Action|XPHB}, ti doni {@variantrule Advantage|XPHB} al tuo prossimo tiro per colpire nel turno attuale. Puoi utilizzare questa funzione solo se non ti sei mosso durante questo turno e, dopo averla utilizzata, il tuo {@variantrule Speed|XPHB} è 0 fino alla fine del turno corrente."
 			]
 		},
 		{
@@ -2481,7 +2481,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. Ottieni nuovamente questa capacità ai livelli Ladro 8, 10, 12 e 16."
 			]
 		},
 		{
@@ -2494,8 +2494,8 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove {@dice 1d6} from the Sneak Attack's damage before rolling.",
-				"If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}.",
+				"Hai sviluppato modi astuti per usare il tuo attacco furtivo. Quando infliggi danni da Attacco Furtivo, puoi aggiungere uno dei seguenti effetti di Colpo Astuto. Ogni effetto ha un costo di dado, che corrisponde al numero di dadi di danno da Attacco Furtivo a cui devi rinunciare per aggiungere l'effetto. Rimuovi il dado prima di tirare e l'effetto si verifica immediatamente dopo che è stato inflitto il danno dell'attacco. Ad esempio, se aggiungi l'effetto Veleno, rimuovi {@dice 1d6} dal danno dell'Attacco Furtivo prima di tirare.",
+				"Se un effetto di Colpo Astuto richiede un tiro salvezza, la CD è pari a 8 più il tuo modificatore di Destrezza e {@variantrule Proficiency|XPHB|Proficiency Bonus}.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2525,8 +2525,8 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the {@condition Poisoned|XPHB} condition for 1 minute. At the end of each of its turns, the {@condition Poisoned|XPHB} target repeats the save, ending the effect on itself on a success.",
-				"To use this effect, you must have a {@item Poisoner's Kit|XPHB} on your person."
+				"Aggiunge una tossina al tuo colpo, costringendo il bersaglio a effettuare un tiro salvezza su Costituzione. In caso di salvataggio fallito, il bersaglio ha la condizione {@condition Poisoned|XPHB} per 1 minuto. Alla fine di ciascuno dei suoi turni, il bersaglio {@condition Poisoned|XPHB} ripete il tiro salvezza, terminando l'effetto su se stesso in caso di successo.",
+				"Per utilizzare questo effetto, devi avere un {@item Poisoner's Kit|XPHB} sulla tua persona."
 			]
 		},
 		{
@@ -2539,7 +2539,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the {@condition Prone|XPHB} condition."
+				"Se il bersaglio è Grande o più piccolo, deve riuscire un tiro salvezza su Destrezza o avere la condizione {@condition Prone|XPHB}."
 			]
 		},
 		{
@@ -2552,7 +2552,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"When an attacker that you can see hits you with an attack roll, you can take a {@variantrule Reaction|XPHB} to halve the attack's damage against you (round down)."
+				"Quando un attaccante che puoi vedere ti colpisce con un tiro per colpire, puoi prendere un {@variantrule Reaction|XPHB} per dimezzare il danno dell'attacco contro di te (arrotondato per difetto)."
 			]
 		},
 		{
@@ -2565,7 +2565,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"Immediately after the attack, you move up to half your {@variantrule Speed|XPHB} without provoking {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+				"Immediatamente dopo l'attacco, ti muovi fino alla metà del tuo {@variantrule Speed|XPHB} senza provocare {@action Opportunity Attack|XPHB|Opportunity Attacks}."
 			]
 		},
 		{
@@ -2578,7 +2578,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain {@variantrule Expertise|XPHB} in two of your Skill Proficiencies of your choice."
+				"Guadagni {@variantrule Expertise|XPHB} in due delle tue competenze in abilità a tua scelta."
 			]
 		},
 		{
@@ -2591,7 +2591,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the {@condition Incapacitated|XPHB} condition."
+				"Puoi schivare agilmente alcuni pericoli. Quando sei soggetto a un effetto che ti consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisci invece alcun danno se riesci nel tiro salvezza e solo la metà dei danni se fallisci. Non puoi utilizzare questa funzione se hai la condizione {@condition Incapacitated|XPHB}."
 			]
 		},
 		{
@@ -2604,7 +2604,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"Whenever you make an ability check that uses one of your skill or tool proficiencies, you can treat a {@dice d20} roll of 9 or lower as a 10."
+				"Ogni volta che effettui una prova di abilità che utilizza una delle tue abilità o competenze negli strumenti, puoi considerare un tiro {@dice d20} pari a 9 o inferiore come un 10."
 			]
 		},
 		{
@@ -2617,7 +2617,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2630,7 +2630,7 @@
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"You gain a feature from your Rogue Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Rogue."
 			]
 		},
 		{
@@ -2643,7 +2643,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2656,7 +2656,7 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect."
+				"Puoi utilizzare fino a due effetti Colpo Astuto quando infliggi danni da Attacco Furtivo, pagando il costo del dado per ciascun effetto."
 			]
 		},
 		{
@@ -2669,7 +2669,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2682,7 +2682,7 @@
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You gain a feature from your Rogue Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Rogue."
 			]
 		},
 		{
@@ -2695,7 +2695,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a {@variantrule Bonus Action|XPHB}."
+				"Il bersaglio deve superare un tiro salvezza su Costituzione oppure, nel suo turno successivo, può eseguire solo una delle seguenti azioni: muoversi, eseguire un'azione o un {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{
@@ -2708,7 +2708,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.",
+				"Hai sperimentato nuovi modi per usare subdolamente il tuo attacco furtivo. I seguenti effetti sono ora tra le tue opzioni di Colpo astuto.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2738,7 +2738,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"The target must succeed on a Constitution saving throw, or it has the {@condition Unconscious|XPHB} condition for 1 minute or until it takes any damage. The {@condition Unconscious|XPHB} target repeats the save at the end of each of its turns, ending the effect on itself on a success."
+				"Il bersaglio deve superare un tiro salvezza su Costituzione, altrimenti mantiene la condizione {@condition Unconscious|XPHB} per 1 minuto o finché non subisce danni. Il bersaglio {@condition Unconscious|XPHB} ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 			]
 		},
 		{
@@ -2751,7 +2751,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"The target must succeed on a Dexterity saving throw, or it has the {@condition Blinded|XPHB} condition until the end of its next turn."
+				"Il bersaglio deve riuscire in un tiro salvezza su Destrezza, altrimenti mantiene la condizione {@condition Blinded|XPHB} fino alla fine del suo turno successivo."
 			]
 		},
 		{
@@ -2764,7 +2764,7 @@
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"Your cunning mind is exceptionally difficult to control. You gain proficiency in Wisdom and Charisma saving throws."
+				"La tua mente astuta è eccezionalmente difficile da controllare. Ottieni competenza nei tiri salvezza su Saggezza e Carisma."
 			]
 		},
 		{
@@ -2777,7 +2777,7 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2790,7 +2790,7 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You gain a feature from your Rogue Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Rogue."
 			]
 		},
 		{
@@ -2803,7 +2803,7 @@
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have {@variantrule Advantage|XPHB} against you unless you have the {@condition Incapacitated|XPHB} condition."
+				"Sei così evasivo che gli aggressori raramente prendono il sopravvento contro di te. Nessun tiro di attacco può avere {@variantrule Advantage|XPHB} contro di te a meno che tu non abbia la condizione {@condition Incapacitated|XPHB}."
 			]
 		},
 		{
@@ -2816,7 +2816,7 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of the Night Spirit|XPHB} is recommended."
+				"Ottieni un {@filter Epic Boon feat|feats|category=EB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. {@feat Boon of the Night Spirit|XPHB} è consigliato."
 			]
 		},
 		{
@@ -2829,8 +2829,8 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"You have a marvelous knack for succeeding when you need to. If you fail a {@variantrule D20 Test|XPHB}, you can turn the roll into a 20.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}."
+				"Hai un talento meraviglioso per avere successo quando è necessario. Se fallisci un {@variantrule D20 Test|XPHB}, puoi trasformare il tiro in un 20.",
+				"Una volta utilizzata questa funzione, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Short Rest|XPHB|Short} o {@variantrule Long Rest|XPHB}."
 			]
 		}
 	],
@@ -2845,7 +2845,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.",
+				"Alcuni ladri migliorano le loro capacità di furtività e agilità con la magia, imparando trucchi di ammaliamento e illusione. Questi ladri includono borseggiatori e ladri, ma anche burloni, dispettosi e un numero significativo di avventurieri.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Spellcasting|Rogue||Arcane Trickster||3"
@@ -2867,17 +2867,17 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, when you cast {@spell mage hand}, you can make the spectral hand {@condition invisible}, and you can perform the following additional tasks with it:",
+				"A partire dal 3° livello, quando lanci {@spell mage hand}, puoi creare la mano spettrale {@condition invisible} e con essa puoi eseguire i seguenti compiti aggiuntivi:",
 				{
 					"type": "list",
 					"items": [
-						"You can stow one object the hand is holding in a container worn or carried by another creature.",
-						"You can retrieve an object in a container worn or carried by another creature.",
-						"You can use {@item thieves' tools|phb} to pick locks and disarm traps at range."
+						"Puoi riporre un oggetto tenuto dalla mano in un contenitore indossato o trasportato da un'altra creatura.",
+						"Puoi recuperare un oggetto in un contenitore indossato o trasportato da un'altra creatura.",
+						"Puoi usare {@item thieves' tools|phb} per scassinare serrature e disinnescare trappole a distanza."
 					]
 				},
-				"You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity ({@skill Sleight of Hand}) check contested by the creature's Wisdom ({@skill Perception}) check.",
-				"In addition, you can use the bonus action granted by your Cunning Action to control the hand."
+				"Puoi eseguire uno di questi compiti senza essere notato da una creatura se riesci in una prova di Destrezza ({@skill Sleight of Hand}) contestata dalla prova di Saggezza ({@skill Perception}) della creatura.",
+				"Inoltre, puoi utilizzare l'azione bonus concessa dalla tua Azione Astuta per controllare la mano."
 			]
 		},
 		{
@@ -2891,7 +2891,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach 3rd level, you gain the ability to cast spells. See {@book chapter 10|PHB|10} for the general rules of spellcasting and {@book chapter 11|PHB|11} for the {@filter wizard spell list|spells|class=wizard}.",
+				"Quando raggiungi il 3° livello, ottieni la capacità di lanciare incantesimi. Vedi {@book chapter 10|PHB|10} per le regole generali del lancio degli incantesimi e {@book chapter 11|PHB|11} per {@filter wizard spell list|spells|class=wizard}.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2899,7 +2899,7 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You learn three cantrips: {@spell mage hand} and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level."
+								"Imparerai tre trucchetti: {@spell mage hand} e altri due trucchetti a tua scelta dall'elenco degli incantesimi del mago. Apprendi un altro trucchetto da mago di tua scelta al 10° livello."
 							]
 						}
 					]
@@ -2911,8 +2911,8 @@
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your {@filter wizard spells|spells|class=wizard} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
-								"For example, if you know the 1st-level spell {@spell charm person} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell charm person} using either slot."
+								"La tabella Incantesimi Arcani Trickster mostra quanti slot di incantesimi hai a disposizione per lanciare i tuoi {@filter wizard spells|spells|class=wizard} di 1° livello e superiore. Per lanciare uno di questi incantesimi, devi spendere uno slot del livello dell'incantesimo o superiore. Riacquisti tutti gli slot incantesimo spesi quando termini un riposo lungo.",
+								"Ad esempio, se conosci l'incantesimo di 1° livello {@spell charm person} e hai a disposizione uno slot incantesimo di 1° livello e uno di 2° livello, puoi lanciare {@spell charm person} utilizzando uno qualsiasi degli slot."
 							]
 						}
 					]
@@ -2924,10 +2924,10 @@
 							"type": "entries",
 							"name": "Spells Known of 1st-Level and Higher",
 							"entries": [
-								"You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list.",
-								"The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.",
-								"The spells you learn at 8th, 14th, and 20th level can come from any school of magic.",
-								"Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic."
+								"Conosci tre incantesimi da mago di 1° livello a tua scelta, due dei quali devi scegliere dagli incantesimi di ammaliamento e illusione sulla lista degli incantesimi da mago.",
+								"La colonna Incantesimi conosciuti della tabella Incantesimi Arcani dell'Imbroglione mostra quando apprendi più incantesimi da mago di 1° livello o superiore. Ciascuno di questi incantesimi deve essere un incantesimo di ammaliamento o illusione a tua scelta e deve essere di un livello per il quale disponi di slot incantesimo. Ad esempio, quando raggiungi il 7° livello in questa classe, puoi imparare un nuovo incantesimo di 1° o 2° livello.",
+								"Gli incantesimi che apprendi all'8°, 14° e 20° livello possono provenire da qualsiasi scuola di magia.",
+								"Ogni volta che guadagni un livello in questa classe, puoi sostituire uno degli incantesimi da mago che conosci con un altro incantesimo di tua scelta dalla lista degli incantesimi da mago. Il nuovo incantesimo deve essere di un livello per il quale disponi di slot incantesimo e deve essere un incantesimo di ammaliamento o illusione, a meno che tu non stia sostituendo l'incantesimo ottenuto al 3°, 8°, 14° o 20° livello da qualsiasi scuola di magia."
 							]
 						}
 					]
@@ -2939,7 +2939,7 @@
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.",
+								"L'intelligenza è la tua capacità di lanciare incantesimi per i tuoi incantesimi da mago, poiché impari i tuoi incantesimi attraverso lo studio e la memorizzazione dedicati. Usi la tua Intelligenza ogni volta che un incantesimo si riferisce alla tua abilità da incantatore. Inoltre, usi il tuo modificatore di Intelligenza quando imposti la CD del tiro salvezza per un incantesimo da mago che lanci e quando effettui un tiro per colpire con uno.",
 								{
 									"type": "abilityDc",
 									"name": "Spell",
@@ -2971,7 +2971,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"Starting at 9th level, if you are hidden from a creature when you cast a spell on it, the creature has disadvantage on any saving throw it makes against the spell this turn."
+				"A partire dal 9° livello, se sei nascosto da una creatura quando lanci un incantesimo su di essa, la creatura ha svantaggio su qualsiasi tiro salvezza effettuato contro l'incantesimo in questo turno."
 			]
 		},
 		{
@@ -2985,7 +2985,7 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"At 13th level, you gain the ability to distract targets with your {@spell mage hand}. As a bonus action on your turn, you can designate a creature within 5 feet of the spectral hand created by the spell. Doing so gives you advantage on attack rolls against that creature until the end of the turn."
+				"Al 13° livello, ottieni la capacità di distrarre i bersagli con il tuo {@spell mage hand}. Come azione bonus nel tuo turno, puoi designare una creatura entro 1,5 metri dalla mano spettrale creata dall'incantesimo. Farlo ti dà vantaggio ai tiri per colpire contro quella creatura fino alla fine del turno."
 			]
 		},
 		{
@@ -2999,9 +2999,9 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"At 17th level, you gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.",
-				"Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its spellcasting ability modifier. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least 1st level and of a level you can cast (it doesn't need to be a wizard spell). For the next 8 hours, you know the spell and can cast it using your spell slots. The creature can't cast that spell until the 8 hours have passed.",
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Al 17° livello, ottieni la capacità di rubare magicamente la conoscenza su come lanciare un incantesimo da un altro incantatore.",
+				"Immediatamente dopo che una creatura ha lanciato un incantesimo che ti prende di mira o ti include nella sua area di effetto, puoi usare la tua reazione per costringere la creatura a effettuare un tiro salvezza con il suo modificatore di abilità da incantatore. La CD è pari alla CD del tiro salvezza dell'incantesimo. Se fallisci il Tiro Salvezza, ne annulli l'effetto contro di te e rubi la conoscenza dell'incantesimo se è almeno di 1° livello e di un livello che puoi lanciare (non è necessario che sia un incantesimo da mago). Per le prossime 8 ore, conosci l'incantesimo e puoi lanciarlo usando i tuoi slot incantesimo. La creatura non può lanciare quell'incantesimo finché non sono trascorse le 8 ore.",
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -3014,8 +3014,8 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"You focus your training on the grim art of death. Those who adhere to this archetype are diverse\u2014hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.",
-				"Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.",
+				"Concentri il tuo addestramento sulla cupa arte della morte. Coloro che aderiscono a questo archetipo sono diversi: assassini, spie, cacciatori di taglie e persino sacerdoti consacrati appositamente e addestrati a sterminare i nemici della loro divinità. La furtività, il veleno e il travestimento ti aiutano a eliminare i nemici con un'efficienza letale.",
+				"Il tuo archetipo ti conferisce privilegi al 3° livello e poi di nuovo al 9°, 13° e 17° livello.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Assassinate|Rogue||Assassin||3"
@@ -3037,7 +3037,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is {@status surprised} is a critical hit."
+				"A partire dal 3° livello, diventi più letale quando sbagli i tuoi nemici. Hai vantaggio ai tiri per colpire contro qualsiasi creatura che non abbia ancora effettuato un turno nel combattimento. Inoltre, qualsiasi colpo messo a segno contro una creatura che è {@status surprised} è un colpo critico."
 			]
 		},
 		{
@@ -3051,7 +3051,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this archetype at 3rd level, you gain proficiency with the {@item disguise kit|phb} and the {@item poisoner's kit|phb}."
+				"Quando scegli questo archetipo al 3° livello, acquisisci competenza con il {@item disguise kit|phb} e il {@item poisoner's kit|phb}."
 			]
 		},
 		{
@@ -3065,8 +3065,8 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"Starting at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 25 gp to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official-looking certification to establish yourself as a member of a trading house from a remote city so you can insinuate yourself into the company of other wealthy merchants.",
-				"Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to."
+				"A partire dal 9° livello, puoi immancabilmente creare false identità per te stesso. È necessario spendere sette giorni e 25 mo per stabilire la storia, la professione e le affiliazioni di un'identità. Non è possibile stabilire un'identità che appartenga a qualcun altro. Ad esempio, potresti acquisire abiti adeguati, lettere di presentazione e certificazioni dall'aspetto ufficiale per affermarti come membro di una casa commerciale di una città remota in modo da poterti insinuare nella compagnia di altri ricchi mercanti.",
+				"Successivamente, se adotti la nuova identità come travestimento, le altre creature crederanno che tu sia quella persona finché non verrà data una ragione ovvia per non farlo."
 			]
 		},
 		{
@@ -3080,8 +3080,8 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"At 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerism.",
-				"Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma ({@skill Deception}) check you make to avoid detection."
+				"Al 13° livello, ottieni la capacità di imitare infallibilmente il linguaggio, la scrittura e il comportamento di un'altra persona. Devi trascorrere almeno tre ore studiando queste tre componenti del comportamento della persona, ascoltando il discorso, esaminando la scrittura e osservando il manierismo.",
+				"Il tuo stratagemma è impercettibile all'osservatore casuale. Se una creatura diffidente sospetta che qualcosa non va, hai un vantaggio su qualsiasi prova di Carisma ({@skill Deception}) effettuata per evitare di essere scoperta."
 			]
 		},
 		{
@@ -3095,7 +3095,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is {@status surprised}, it must make a Constitution saving throw ({@dc 8} + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature."
+				"A partire dal 17° livello, diventi un maestro della morte istantanea. Quando attacchi e colpisci una creatura che è {@status surprised}, deve effettuare un tiro salvezza su Costituzione ({@dc 8} + il tuo modificatore di Destrezza + il tuo bonus di competenza). Se fallisci il tiro salvezza, raddoppia il danno del tuo attacco contro la creatura."
 			]
 		},
 		{
@@ -3110,7 +3110,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.",
+				"Affini le tue abilità nelle arti ladristiche. Ladri, banditi, tagliaborse e altri criminali tipicamente seguono questo archetipo, ma lo stesso fanno anche i ladri che preferiscono considerarsi cercatori di tesori, esploratori, esploratori e investigatori professionisti. Oltre a migliorare la tua agilità e la tua furtività, apprendi abilità utili per scavare in antiche rovine, leggere lingue sconosciute e usare oggetti magici che normalmente non potresti utilizzare.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Fast Hands|Rogue||Thief||3"
@@ -3134,7 +3134,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity ({@skill Sleight of Hand}) check, use your {@item thieves' tools|phb} to disarm a trap or open a lock, or take the {@action Use an Object} action."
+				"A partire dal 3° livello, puoi utilizzare l'azione bonus concessa dalla tua Azione di Astuzia per effettuare una prova di Destrezza ({@skill Sleight of Hand}), utilizzare la tua {@item thieves' tools|phb} per disinnescare una trappola o aprire una serratura, oppure eseguire l'azione {@action Use an Object}."
 			]
 		},
 		{
@@ -3150,8 +3150,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.",
-				"In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier."
+				"Quando scegli questo archetipo al 3° livello, ottieni la capacità di arrampicarti più velocemente del normale; arrampicarsi non ti costa più movimento extra.",
+				"Inoltre, quando effettui un salto in corsa, la distanza che percorri aumenta di un numero di piedi pari al tuo modificatore di Destrezza."
 			]
 		},
 		{
@@ -3167,7 +3167,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"Starting at 9th level, you have advantage on a Dexterity ({@skill Stealth}) check if you move no more than half your speed on the same turn."
+				"A partire dal 9° livello, hai vantaggio su una prova di Destrezza ({@skill Stealth}) se non ti muovi più della metà della tua velocità nello stesso turno."
 			]
 		},
 		{
@@ -3183,7 +3183,7 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items."
+				"Al 13° livello, hai imparato abbastanza sul funzionamento della magia da poter improvvisare l'uso degli oggetti anche quando non sono destinati a te. Ignori tutti i requisiti di classe, razza e livello sull'uso degli oggetti magici."
 			]
 		},
 		{
@@ -3199,7 +3199,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are {@status surprised}."
+				"Quando raggiungi il 17° livello, diventi abile nel tendere imboscate e nello sfuggire rapidamente al pericolo. Puoi effettuare due turni durante il primo round di qualsiasi combattimento. Effettui il tuo primo turno con la tua iniziativa normale e il secondo turno con la tua iniziativa meno 10. Non puoi utilizzare questa funzione quando lo sei {@status surprised}."
 			]
 		},
 		{
@@ -3212,9 +3212,9 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.",
-				"Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay in the Forgotten Realms and Karrnath in Eberron, where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom might work as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.",
-				"How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a deity of death?",
+				"Molti ladri camminano sul confine sottile tra la vita e la morte, rischiando la propria vita e togliendo quella degli altri. Mentre si avventurano su quella linea, alcuni ladri scoprono una connessione mistica con la morte stessa. Questi ladri prendono la conoscenza dai morti e si immergono nell'energia negativa, diventando alla fine come fantasmi. Le gilde dei ladri li apprezzano come raccoglitori di informazioni e spie altamente efficaci.",
+				"Molti shadar-kai della Coltre Oscura sono maestri di queste macabre tecniche e alcuni sono disposti a insegnare questo percorso. In luoghi come Thay nei Forgotten Realms e Karrnath a Eberron, dove molti negromanti praticano la loro arte, un Fantasma può diventare il confidente e il braccio destro di un mago. Nei templi degli dei della morte, il Fantasma potrebbe funzionare come agente per rintracciare coloro che cercano di ingannare la morte e recuperare la conoscenza che altrimenti potrebbe andare persa nella tomba.",
+				"Come hai scoperto questo oscuro potere? Hai dormito in un cimitero e ti sei risvegliato con le tue nuove abilità? Oppure li hai coltivati ​​in un tempio o in una gilda di ladri dedicata a una divinità della morte?",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Whispers of the Dead|Rogue||Phantom|TCE|3"
@@ -3237,8 +3237,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Phantom feature}",
-				"As you nudge someone closer to the grave, you can channel the power of death to harm someone else as well. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes necrotic damage equal to the roll's total, as wails of the dead sound around them for a moment.",
-				"You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+				"Mentre spingi qualcuno più vicino alla tomba, puoi incanalare il potere della morte per danneggiare anche qualcun altro. Immediatamente dopo aver inflitto il tuo danno da Attacco Furtivo a una creatura nel tuo turno, puoi prendere di mira una seconda creatura che puoi vedere entro 9 metri dalla prima creatura. Lancia metà del numero di dadi Attacco Furtivo per il tuo livello (arrotondato per eccesso) e la seconda creatura subisce danni necrotici pari al totale del tiro, mentre i lamenti dei morti risuonano intorno a lei per un momento.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -3253,7 +3253,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Phantom feature}",
-				"Echoes of those who have died cling to you. Whenever you finish a short or long rest, you can choose one skill or tool proficiency that you lack and gain it, as a ghostly presence shares its knowledge with you. You lose this proficiency when you use this feature to choose a different proficiency that you lack."
+				"Gli echi di coloro che sono morti si aggrappano a te. Ogni volta che termini un riposo breve o lungo, puoi scegliere un'abilità o una competenza in uno strumento che ti manca e ottenerla, poiché una presenza spettrale condivide la sua conoscenza con te. Perdi questa competenza quando usi questo privilegio per scegliere una competenza diversa che ti manca."
 			]
 		},
 		{
@@ -3268,14 +3268,14 @@
 			"header": 2,
 			"entries": [
 				"{@i 9th-level Phantom feature}",
-				"When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the {@item Trinket|phb|Trinkets} table in the {@i Player's Handbook} to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.",
-				"You can use soul trinkets in the following ways:",
+				"Quando una vita finisce in tua presenza, sei in grado di strappare un simbolo all'anima che se ne va, un frammento della sua essenza vitale che prende forma fisica: come reazione quando una creatura che puoi vedere muore entro 9 metri da te, puoi aprire la mano libera e far apparire lì un Minuscolo ninnolo, un ninnolo dell'anima. Il DM determina la forma del ninnolo o ti fa tirare sulla tabella {@item Trinket|phb|Trinkets} in {@i Player's Handbook} per generarlo. Puoi avere un numero massimo di monile dell'anima pari al tuo bonus di competenza e non puoi crearne uno mentre sei al massimo.",
+				"Puoi utilizzare i ninnoli dell'anima nei seguenti modi:",
 				{
 					"type": "list",
 					"items": [
-						"While a soul trinket is on your person, you have advantage on death saving throws and Constitution saving throws, for your vitality is enhanced by the life essence within the object.",
-						"When you deal Sneak Attack damage on your turn, you can destroy one of your soul trinkets that's on your person and then immediately use Wails from the Grave, without expending a use of that feature.",
-						"As an action, you can destroy one of your soul trinkets, no matter where it's located. When you do so, you can ask the spirit associated with the trinket one question. The spirit appears to you and answers in a language it knew in life. It's under no obligation to be truthful, and it answers as concisely as possible, eager to be free. The spirit knows only what it knew in life, as determined by the DM."
+						"Mentre un monile dell'anima è sulla tua persona, hai vantaggio sui tiri salvezza sulla morte e sui tiri salvezza sulla Costituzione, poiché la tua vitalità è potenziata dall'essenza vitale all'interno dell'oggetto.",
+						"Quando infliggi danni da Attacco Furtivo nel tuo turno, puoi distruggere uno dei tuoi ninnoli dell'anima che è sulla tua persona e poi usare immediatamente Wails from the Grave, senza spendere un uso di quella funzione.",
+						"Con un'azione, puoi distruggere uno dei tuoi ninnoli dell'anima, non importa dove si trovi. Quando lo fai, puoi porre una domanda allo spirito associato al gingillo. Lo spirito ti appare e ti risponde nella lingua che conosceva in vita. Non ha l'obbligo di essere sincero e risponde nel modo più conciso possibile, desideroso di essere libero. Lo spirito conosce solo ciò che sapeva in vita, come determinato dal DM."
 					]
 				}
 			]
@@ -3292,8 +3292,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 13th-level Phantom feature}",
-				"You can phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were {@quickref difficult terrain||3}, but you take {@damage 1d10} force damage if you end your turn inside a creature or an object.",
-				"You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk."
+				"Puoi entrare parzialmente nel regno dei morti, diventando come un fantasma. Come azione bonus, assumi una forma spettrale. Mentre sei in questa forma, hai una velocità di volo di 3 metri, puoi librarti e i tiri per colpire hanno svantaggio contro di te. Puoi anche muoverti attraverso creature e oggetti come se fossero {@quickref difficult terrain||3}, ma subisci {@damage 1d10} danni da forza se finisci il tuo turno all'interno di una creatura o di un oggetto.",
+				"Rimani in questa forma per 10 minuti o finché non la termini come azione bonus. Per utilizzare nuovamente questa funzione, devi terminare un riposo lungo o distruggere uno dei tuoi ninnoli dell'anima come parte dell'azione bonus che usi per attivare Ghost Walk."
 			]
 		},
 		{
@@ -3308,12 +3308,12 @@
 			"header": 2,
 			"entries": [
 				"{@i 17th-level Phantom feature}",
-				"Your association with death has become so close that you gain the following benefits:",
+				"La tua associazione con la morte è diventata così stretta che ottieni i seguenti benefici:",
 				{
 					"type": "list",
 					"items": [
-						"When you use your Wails from the Grave, you can deal the necrotic damage to both the first and the second creature.",
-						"At the end of a long rest, a soul trinket appears in your hand if you don't have any soul trinkets, as the spirits of the dead are drawn to you."
+						"Quando usi i tuoi Lamenti dalla Tomba, puoi infliggere il danno necrotico sia alla prima che alla seconda creatura.",
+						"Alla fine di un riposo lungo, un monile dell'anima apparirà nella tua mano se non ne hai, poiché gli spiriti dei morti sono attratti da te."
 					]
 				}
 			]
@@ -3331,7 +3331,7 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"When your non-psionic training fails you, your psionic power can help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy die and add the number rolled to the check, potentially turning failure into success. You expend the die only if the roll succeeds."
+				"Quando il tuo addestramento non psionico ti delude, il tuo potere psionico può aiutarti: se fallisci una prova di abilità utilizzando un'abilità o uno strumento con cui sei competente, puoi lanciare un dado di energia psionica e aggiungere il numero ottenuto alla prova, trasformando potenzialmente il fallimento in successo. Si spende il dado solo se il tiro ha successo."
 			]
 		},
 		{
@@ -3344,8 +3344,8 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"You can establish telepathic communication between yourself and others-perfect for quiet infiltration. As an action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.",
-				"The first time you use this power after each long rest, you don't expend the Psionic Energy die. All other times you use the power, you expend the die."
+				"Puoi stabilire una comunicazione telepatica tra te e gli altri, perfetta per un'infiltrazione silenziosa. Come azione, scegli una o più creature che puoi vedere, fino a un numero di creature pari al tuo bonus di competenza, e poi lancia un dado di Energia Psionica. Per un numero di ore pari al numero tirato, le creature scelte possono parlare telepaticamente con te, e tu puoi parlare telepaticamente con loro. Per inviare o ricevere un messaggio (non è richiesta alcuna azione), tu e l'altra creatura dovete trovarvi entro 1,6 km l'uno dall'altro. Una creatura non può usare questa telepatia se non parla alcun linguaggio, e può terminare la connessione telepatica in qualsiasi momento (non è richiesta alcuna azione). Tu e la creatura non avete bisogno di parlare una lingua comune per capirvi.",
+				"La prima volta che usi questo potere dopo ogni riposo lungo, non spendi il dado Energia Psionica. Tutte le altre volte che usi il potere, spendi il dado."
 			]
 		},
 		{
@@ -3358,9 +3358,9 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Most assassins strike with physical weapons, and many burglars and spies use {@item thieves' tools|PHB} to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.",
-				"Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe.",
-				"As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their full potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psychic adepts and spent years learning how to manifest your power.",
+				"La maggior parte degli assassini colpisce con armi fisiche e molti ladri e spie utilizzano {@item thieves' tools|PHB} per infiltrarsi in luoghi sicuri. Al contrario, un Soulknife colpisce e si infiltra con la mente, abbattendo le barriere sia fisiche che psichiche. Questi ladri scoprono il potere psionico dentro di sé e lo incanalano per compiere il loro lavoro disonesto. Trovano facile impiego come membri delle gilde dei ladri, anche se spesso sono diffidenti da parte dei ladri che sono diffidenti nei confronti di chiunque utilizzi strani poteri mentali per condurre i propri affari. La maggior parte dei governi sarebbe felice di impiegare un Soulknife come spia.",
+				"Tra gli alberi delle antiche foreste del Piano Materiale e nella Selva dei Folletti, alcuni elfi dei boschi percorrono il sentiero del Soulknife, fungendo da guardiani silenziosi e letali dei loro boschi. Nella guerra infinita tra i gith, un githzerai è incoraggiato a diventare un Soulknife quando è richiesta la furtività contro il nemico githyanki.",
+				"Come Soulknife, le tue abilità psioniche potrebbero averti perseguitato fin da quando eri bambino, rivelando il loro pieno potenziale solo quando sperimentavi lo stress dell'avventura. Oppure potresti aver cercato un ordine solitario di adepti psichici e aver passato anni a imparare come manifestare il tuo potere.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Psionic Power|Rogue||Soulknife|TCE|3"
@@ -3383,10 +3383,10 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Soulknife feature}",
-				"You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a {@dice d6}. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.",
-				"Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.",
-				"When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level ({@dice d8}), 11th level ({@dice d10}), and 17th level ({@dice d12}).",
-				"The powers below use your Psionic Energy dice.",
+				"Nutri dentro di te una sorgente di energia psionica. Questa energia è rappresentata dai tuoi dadi Energia Psionica, ciascuno dei quali è un {@dice d6}. Hai un numero di questi dadi pari al doppio del tuo bonus di competenza e alimentano i vari poteri psionici che possiedi, che sono dettagliati di seguito.",
+				"Alcuni dei tuoi poteri consumano il dado di Energia Psionica che utilizzano, come specificato nella descrizione del potere, e non puoi usare un potere se richiede di usare un dado quando i tuoi dadi sono tutti spesi. Recuperi tutti i dadi di Energia Psionica spesi quando termini un riposo lungo. Inoltre, come azione bonus, puoi recuperare un dado di Energia Psionica speso, ma non puoi farlo di nuovo finché non finisci un riposo breve o lungo.",
+				"Quando raggiungi determinati livelli in questa classe, la dimensione dei tuoi dadi di Energia Psionica aumenta: al 5° livello ({@dice d8}), all'11° livello ({@dice d10}) e al 17° livello ({@dice d12}).",
+				"I poteri seguenti utilizzano i tuoi dadi Energia Psionica.",
 				{
 					"type": "options",
 					"entries": [
@@ -3414,8 +3414,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Soulknife feature}",
-				"You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the {@action Attack} action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to {@damage 1d6} plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.",
-				"After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is {@damage 1d4}, instead of {@damage 1d6}."
+				"Puoi manifestare il tuo potere psionico come lame scintillanti di energia psichica. Ogni volta che esegui l'azione {@action Attack}, puoi manifestare una lama psichica con la mano libera ed effettuare l'attacco con quella lama. Questa lama magica è una semplice arma da mischia con proprietà di precisione e lancio. Ha una portata normale di 60 piedi e nessuna portata lunga e, in caso di colpo, infligge danni psichici pari a {@damage 1d6} più il modificatore di abilità che hai usato per il tiro per colpire. La lama svanisce immediatamente dopo aver colpito o mancato il bersaglio e non lascia segni sul bersaglio se infligge danni.",
+				"Dopo aver attaccato con la lama, puoi effettuare un attacco con arma da mischia o a distanza con una seconda lama psichica come azione bonus nello stesso turno, a condizione che l'altra mano sia libera per crearla. Il dado di danno di questo attacco bonus è {@damage 1d4} invece di {@damage 1d6}."
 			]
 		},
 		{
@@ -3428,7 +3428,7 @@
 			"subclassSource": "TCE",
 			"level": 9,
 			"entries": [
-				"If you make an attack roll with your Psychic Blades and miss the target, you can roll one Psionic Energy die and add the number rolled to the attack roll. If this causes the attack to hit, you expend the Psionic Energy die."
+				"Se effettui un tiro per colpire con le tue Lame Psichiche e manchi il bersaglio, puoi lanciare un dado Energia Psionica e aggiungere il numero ottenuto al tiro per colpire. Se questo fa sì che l'attacco vada a segno, spendi il dado Energia Psionica."
 			]
 		},
 		{
@@ -3441,7 +3441,7 @@
 			"subclassSource": "TCE",
 			"level": 9,
 			"entries": [
-				"As a bonus action, you manifest one of your Psychic Blades, expend one Psionic Energy die and roll it, and throw the blade at an unoccupied space you can see, up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes."
+				"Come azione bonus, manifesti una delle tue Lame Psichiche, spendi un dado Energia Psionica, lancialo e lanci la lama in uno spazio non occupato che puoi vedere, fino a un numero di piedi di distanza pari a 10 volte il numero tirato. Quindi ti teletrasporti in quello spazio e la lama svanisce."
 			]
 		},
 		{
@@ -3456,7 +3456,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 9th-level Soulknife feature}",
-				"Your Psychic Blades are now an expression of your psi-suffused soul, giving you these powers that use your Psionic Energy dice:",
+				"Le tue Lame Psichiche ora sono un'espressione della tua anima soffusa di psi, conferendoti questi poteri che utilizzano i tuoi dadi di Energia Psionica:",
 				{
 					"type": "options",
 					"entries": [
@@ -3484,8 +3484,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 13th-level Soulknife feature}",
-				"You can weave a veil of psychic static to mask yourself. As an action, you can magically become {@condition invisible}, along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.",
-				"Once you use this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to use this feature again."
+				"Puoi tessere un velo di staticità psichica per mascherarti. Con un'azione, puoi diventare magicamente {@condition invisible}, insieme a qualsiasi cosa indossi o trasporti, per 1 ora o finché non interrompi questo effetto (non è richiesta alcuna azione). Questa invisibilità termina subito dopo aver inflitto danno a una creatura o aver costretto una creatura a effettuare un tiro salvezza.",
+				"Una volta utilizzato questo privilegio, non è possibile farlo nuovamente finché non si termina un riposo lungo, a meno che non si spenda un dado Energia Psionica per utilizzare nuovamente questo privilegio."
 			]
 		},
 		{
@@ -3500,8 +3500,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 17th-level Soulknife feature}",
-				"You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is {@condition stunned} for 1 minute. The {@condition stunned} target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
-				"Once you use this feature, you can't do so again until you finish a long rest, unless you expend three Psionic Energy dice to use it again."
+				"Puoi spazzare le tue Lame Psichiche direttamente attraverso la mente di una creatura. Quando usi le tue Lame Psichiche per infliggere danni da Attacco Furtivo a una creatura, puoi costringere quel bersaglio a effettuare un tiro salvezza su Saggezza (CD pari a 8 + il tuo bonus di competenza + il tuo modificatore di Destrezza). Se il salvataggio fallisce, il bersaglio è {@condition stunned} per 1 minuto. Il bersaglio {@condition stunned} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo.",
+				"Una volta utilizzato questo privilegio, non è possibile farlo nuovamente finché non si termina un riposo lungo, a meno che non si spendano tre dadi Energia Psionica per utilizzarlo nuovamente."
 			]
 		},
 		{
@@ -3514,7 +3514,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.",
+				"In quanto archetipo dell'Inquisitore, eccelli nello sradicare segreti e svelare misteri. Ti affidi al tuo occhio acuto per i dettagli, ma anche alla tua affinata capacità di leggere le parole e le azioni delle altre creature per determinare il loro vero intento. Eccelli nello sconfiggere le creature che si nascondono e predano la gente comune, e la tua padronanza della conoscenza e le tue acute deduzioni ti rendono ben equipaggiato per smascherare e porre fine ai mali nascosti.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Ear for Deceit|Rogue||Inquisitive|XGE|3"
@@ -3540,7 +3540,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ({@skill Insight}) check to determine whether a creature is lying, treat a roll of 7 or lower on the {@dice d20} as an 8."
+				"Quando scegli questo archetipo al 3° livello, sviluppi un talento nel riconoscere le bugie. Ogni volta che effettui una prova di Saggezza ({@skill Insight}) per determinare se una creatura sta mentendo, considera un risultato pari a 7 o inferiore su {@dice d20} come un 8."
 			]
 		},
 		{
@@ -3554,7 +3554,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you can use a bonus action to make a Wisdom ({@skill Perception}) check to spot a hidden creature or object or to make an Intelligence ({@skill Investigation}) check to uncover or decipher clues."
+				"A partire dal 3° livello, puoi utilizzare un'azione bonus per effettuare una prova di Saggezza ({@skill Perception}) per individuare una creatura o un oggetto nascosto o per effettuare una prova di Intelligenza ({@skill Investigation}) per scoprire o decifrare indizi."
 			]
 		},
 		{
@@ -3568,8 +3568,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom ({@skill Insight}) check against a creature you can see that isn't {@condition incapacitated}, contested by the target's Charisma ({@skill Deception}) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.",
-				"This benefit lasts for 1 minute or until you successfully use this feature against a different target."
+				"Al 3° livello, ottieni la capacità di decifrare le tattiche di un avversario e di sviluppare una risposta ad esse. Come azione bonus, puoi effettuare una prova di Saggezza ({@skill Insight}) contro una creatura che puoi vedere che non è {@condition incapacitated} contesa dalla prova di Carisma ({@skill Deception}) del bersaglio. Se hai successo, puoi usare il tuo Attacco Furtivo contro quel bersaglio anche se non hai vantaggio al tiro per colpire, ma non se hai svantaggio su di esso.",
+				"Questo beneficio dura 1 minuto o finché non usi con successo questa capacità contro un bersaglio diverso."
 			]
 		},
 		{
@@ -3583,7 +3583,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"Starting at 9th level, you have advantage on any Wisdom ({@skill Perception}) or Intelligence ({@skill Investigation}) check if you move no more than half your speed on the same turn."
+				"A partire dal 9° livello, hai vantaggio su qualsiasi prova di Saggezza ({@skill Perception}) o Intelligenza ({@skill Investigation}) se non ti muovi più della metà della tua velocità nello stesso turno."
 			]
 		},
 		{
@@ -3597,8 +3597,8 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't {@condition blinded} or {@condition deafened}. You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest."
+				"A partire dal 13° livello, i tuoi sensi sono quasi impossibili da ostacolare. Come azione, percepisci la presenza di illusioni, mutaforma non nella loro forma originale e altra magia progettata per ingannare i sensi entro 9 metri da te, a condizione che tu non lo sia {@condition blinded} o {@condition deafened}. Hai la sensazione che un effetto stia tentando di ingannarti, ma non ottieni alcuna visione di ciò che è nascosto o della sua vera natura.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio modificatore di Saggezza (minimo una volta) e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -3612,7 +3612,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by {@damage 3d6}."
+				"Al 17° livello, impari a sfruttare i punti deboli di una creatura studiandone attentamente le tattiche e i movimenti. Mentre la tua funzione Combattimento Perspicace si applica a una creatura, il danno del tuo Attacco Furtivo contro quella creatura aumenta del {@damage 3d6}."
 			]
 		},
 		{
@@ -3625,7 +3625,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.",
+				"La tua attenzione è rivolta alle persone, all'influenza e ai segreti che hanno. Molte spie, cortigiani e intriganti seguono questo archetipo, conducendo una vita di intrighi. Le parole sono le tue armi tanto quanto i coltelli o il veleno, e i segreti e i favori sono alcuni dei tuoi tesori preferiti.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Master of Intrigue|Rogue||Mastermind|XGE|3"
@@ -3647,8 +3647,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this archetype at 3rd level, you gain proficiency with the {@item disguise kit|phb}, the {@item forgery kit|phb}, and one {@item gaming set|PHB} of your choice. You also learn two languages of your choice.",
-				"Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language."
+				"Quando scegli questo archetipo al 3° livello, acquisisci competenza con il {@item disguise kit|phb}, il {@item forgery kit|phb} e uno {@item gaming set|PHB} a tua scelta. Impari anche due lingue a tua scelta.",
+				"Inoltre, puoi imitare infallibilmente il modo di parlare e l'accento di una creatura che senti parlare per almeno 1 minuto, permettendoti di spacciarti per un madrelingua di una particolare terra, a condizione che tu conosca la lingua."
 			]
 		},
 		{
@@ -3662,7 +3662,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you can use the {@action Help} action as a bonus action. Additionally, when you use the {@action Help} action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you."
+				"A partire dal 3° livello, puoi utilizzare l'azione {@action Help} come azione bonus. Inoltre, quando usi l'azione {@action Help} per aiutare un alleato ad attaccare una creatura, il bersaglio di quell'attacco può trovarsi entro 9 metri da te, anziché entro 5 piedi da te, se il bersaglio può vederti o sentirti."
 			]
 		},
 		{
@@ -3676,17 +3676,17 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:",
+				"A partire dal 9° livello, se passi almeno 1 minuto osservando o interagendo con un'altra creatura fuori dal combattimento, puoi apprendere alcune informazioni sulle sue capacità rispetto alle tue. Il DM ti dice se la creatura è tua pari, superiore o inferiore rispetto a due delle seguenti caratteristiche a tua scelta:",
 				{
 					"type": "list",
 					"items": [
-						"Intelligence score",
-						"Wisdom score",
-						"Charisma score",
-						"Class levels (if any)"
+						"Punteggio di intelligenza",
+						"Punteggio di saggezza",
+						"Punteggio di carisma",
+						"Livelli di classe (se presenti)"
 					]
 				},
-				"At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any."
+				"A discrezione del DM, potresti anche realizzare di conoscere un pezzo della storia della creatura o uno dei tratti della sua personalità, se ne ha."
 			]
 		},
 		{
@@ -3700,7 +3700,7 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"Beginning at 13th level, you can sometimes cause another creature to suffer an attack meant for you. When you are targeted by an attack while a creature within 5 feet of you is granting you cover against that attack, you can use your reaction to have the attack target that creature instead of you."
+				"A partire dal 13° livello, a volte puoi far sì che un'altra creatura subisca un attacco destinato a te. Quando vieni preso di mira da un attacco mentre una creatura entro 1,5 metri da te ti fornisce copertura contro quell'attacco, puoi usare la tua reazione per fare in modo che l'attacco bersagli quella creatura invece di te."
 			]
 		},
 		{
@@ -3714,8 +3714,8 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma ({@skill Deception}) check contested by the mind reader's Wisdom ({@skill Insight}) check.",
-				"Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic."
+				"A partire dal 17° livello, i tuoi pensieri non possono essere letti tramite telepatia o altri mezzi, a meno che tu non lo permetta. Puoi presentare falsi pensieri superando una prova di Carisma ({@skill Deception}) contestata dalla prova di Saggezza ({@skill Insight}) del lettore della mente.",
+				"Inoltre, qualunque cosa tu dica, la magia che determinerebbe se stai dicendo la verità indica che sei sincero se lo desideri, e non puoi essere costretto a dire la verità tramite la magia."
 			]
 		},
 		{
@@ -3728,7 +3728,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter\u2014these are just a few of the roles that Scouts assume as they range the world.",
+				"Sei abile nella furtività e nel sopravvivere lontano dalle strade di una città, permettendoti di esplorare davanti ai tuoi compagni durante le spedizioni. I ladri che abbracciano questo archetipo sono a casa nelle terre selvagge, tra barbari e ranger, e molti Scout fungono da occhi e orecchie per le bande di guerrieri. Aggressore, spia, cacciatore di taglie: questi sono solo alcuni dei ruoli che gli scout assumono mentre esplorano il mondo.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Skirmisher|Rogue||Scout|XGE|3"
@@ -3750,7 +3750,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks."
+				"A partire dal 3° livello, sei difficile da intrappolare durante un combattimento. Puoi muoverti fino alla metà della tua velocità come reazione quando un nemico termina il suo turno entro 1,5 metri da te. Questo movimento non provoca attacchi di opportunità."
 			]
 		},
 		{
@@ -3764,7 +3764,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this archetype at 3rd level, you gain proficiency in the {@skill Nature} and {@skill Survival} skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies."
+				"Quando scegli questo archetipo al 3° livello, acquisisci competenza nelle abilità {@skill Nature} e {@skill Survival} se non la possiedi già. Il tuo bonus di competenza viene raddoppiato per qualsiasi prova di caratteristica effettuata che utilizzi una di queste competenze."
 			]
 		},
 		{
@@ -3778,7 +3778,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"At 9th level, your walking speed increases by 10 feet. If you have a climbing or swimming speed, this increase applies to that speed as well."
+				"Al 9° livello, la velocità di camminata aumenta di 3 metri. Se hai una velocità di scalata o di nuoto, questo aumento si applica anche a quella velocità."
 			]
 		},
 		{
@@ -3792,8 +3792,8 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"Starting at 13th level, you excel at leading ambushes and acting first in a fight.",
-				"You have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn."
+				"A partire dal 13° livello, eccelli nel condurre imboscate e nell'agire per primo in un combattimento.",
+				"Hai vantaggio sui tiri di iniziativa. Inoltre, la prima creatura che colpisci durante il primo round di un combattimento diventa più facile da colpire per te e per gli altri; i tiri per colpire contro quel bersaglio hanno vantaggio fino all'inizio del tuo turno successivo."
 			]
 		},
 		{
@@ -3807,7 +3807,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"Starting at 17th level, you can strike with deadly speed. If you take the {@action Attack} action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn."
+				"A partire dal 17° livello, puoi colpire con velocità mortale. Se esegui l'azione {@action Attack} durante il tuo turno, puoi effettuare un attacco aggiuntivo come azione bonus. Questo attacco può beneficiare del tuo Attacco Furtivo anche se lo hai già usato in questo turno, ma non puoi usare il tuo Attacco Furtivo contro lo stesso bersaglio più di una volta in un turno."
 			]
 		},
 		{
@@ -3820,8 +3820,8 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.",
-				"A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.",
+				"Concentri il tuo allenamento sull'arte della lama, contando su velocità, eleganza e fascino in parti uguali. Sebbene alcuni guerrieri siano bruti ricoperti di armature pesanti, il tuo metodo di combattimento sembra quasi un'esibizione. Duellanti e pirati appartengono tipicamente a questo archetipo.",
+				"Uno Spadaccino eccelle nel combattimento singolo e può combattere con due armi mentre si allontana in sicurezza da un avversario.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Fancy Footwork|Rogue||Swashbuckler|XGE|3"
@@ -3843,7 +3843,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this archetype at 3rd level, you learn how to land a strike and then slip away without reprisal. During your turn, if you make a melee attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn."
+				"Quando scegli questo archetipo al 3° livello, impari come sferrare un colpo e poi scappare senza rappresaglie. Durante il tuo turno, se effettui un attacco in mischia contro una creatura, quella creatura non potrà effettuare attacchi di opportunità contro di te per il resto del tuo turno."
 			]
 		},
 		{
@@ -3857,8 +3857,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your Charisma modifier.",
-				"You also gain an additional way to use your Sneak Attack; you don't need advantage on your attack roll to use Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you."
+				"A partire dal 3° livello, la tua sicurezza ti spinge in battaglia. Puoi concederti un bonus ai tiri di iniziativa pari al tuo modificatore di Carisma.",
+				"Ottieni anche un modo aggiuntivo per usare il tuo attacco furtivo; non hai bisogno di vantaggio sul tuo tiro per colpire per usare Attacco Furtivo contro una creatura se ti trovi entro 5 piedi da essa, se non ci sono altre creature entro 5 piedi da te e non hai svantaggio sul tiro per colpire. Tutte le altre regole per l'Attacco Furtivo si applicano ancora a te."
 			]
 		},
 		{
@@ -3872,9 +3872,9 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma ({@skill Persuasion}) check contested by a creature's Wisdom ({@skill Insight}) check. The creature must be able to hear you, and the two of you must share a language.",
-				"If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.",
-				"If you succeed on the check and the creature isn't hostile to you, it is {@condition charmed} by you for 1 minute. While {@condition charmed}, it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it."
+				"Al 9° livello, il tuo fascino diventa straordinariamente seducente. Come azione, puoi effettuare una prova di Carisma ({@skill Persuasion}) contestata dalla prova di Saggezza ({@skill Insight}) di una creatura. La creatura deve essere in grado di sentirti e voi due dovete condividere la lingua.",
+				"Se superi la prova e la creatura ti è ostile, ha svantaggio ai tiri per colpire contro bersagli diversi da te e non può effettuare attacchi di opportunità contro bersagli diversi da te. Questo effetto dura 1 minuto, finché uno dei tuoi compagni non attacca il bersaglio o lo influenza con un incantesimo, o finché tu e il bersaglio non siete a più di 18 metri di distanza.",
+				"Se riesci nella prova e la creatura non ti è ostile, è {@condition charmed} accanto a te per 1 minuto. Mentre {@condition charmed}, ti considera un conoscente amichevole. Questo effetto termina immediatamente se tu o i tuoi compagni fate qualcosa di dannoso."
 			]
 		},
 		{
@@ -3888,7 +3888,7 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity ({@skill Acrobatics}) or Strength ({@skill Athletics}) check you make during the same turn."
+				"A partire dal 13° livello, puoi utilizzare un'azione bonus nel tuo turno per ottenere vantaggio alla successiva prova di Destrezza ({@skill Acrobatics}) o Forza ({@skill Athletics}) che effettui durante lo stesso turno."
 			]
 		},
 		{
@@ -3902,7 +3902,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest."
+				"A partire dal 17° livello, la tua maestria nell'uso della lama ti consente di trasformare il fallimento in successo in combattimento. Se fallisci un tiro per colpire, puoi lanciarlo di nuovo con vantaggio. Una volta fatto ciò, non potrai più utilizzare questa capacità finché non avrai terminato un riposo breve o lungo."
 			]
 		},
 		{
@@ -3914,7 +3914,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"When an enemy you can see within 30 feet of yourself takes damage and is {@status Bloodied|XPHB} after taking that damage but not killed outright, you can take a {@variantrule Reaction|XPHB} and {@variantrule Teleportation|XPHB|teleport} to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Quando un nemico che puoi vedere entro 9 metri da te subisce danni e viene {@status Bloodied|XPHB} dopo aver subito quel danno ma non viene ucciso sul colpo, puoi portare un {@variantrule Reaction|XPHB} e {@variantrule Teleportation|XPHB|teleport} in uno spazio non occupato che puoi vedere entro 5 piedi da quel nemico. Potrai quindi effettuare un attacco in mischia. Puoi utilizzare questa funzione un numero di volte pari al tuo modificatore di Intelligenza (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -3926,7 +3926,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"Choose one of the Dead Three: {@deity Bane|Faerûnian|FRHoF}, {@deity Bhaal|Faerûnian|FRHoF}, or {@deity Myrkul|Faerûnian|FRHoF}. You gain {@variantrule Resistance|XPHB} to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a {@variantrule Long Rest|XPHB}, you can change your choice.",
+				"Scegli uno dei Tre Morti: {@deity Bane|Faerûnian|FRHoF}, {@deity Bhaal|Faerûnian|FRHoF} o {@deity Myrkul|Faerûnian|FRHoF}. Guadagni {@variantrule Resistance|XPHB} a un tipo di danno e alla capacità di lanciare un trucchetto, come dettagliato nella tabella seguente; L'intelligenza è la tua abilità da incantatore per questo trucchetto. Quando finisci un {@variantrule Long Rest|XPHB}, puoi cambiare la tua scelta.",
 				{
 					"type": "table",
 					"page": 7,
@@ -3943,17 +3943,17 @@
 					"rows": [
 						[
 							"{@deity Bane|Faerûnian|FRHoF}",
-							"Psychic",
+							"Psichico",
 							"{@spell Minor Illusion|XPHB}"
 						],
 						[
 							"{@deity Bhaal|Faerûnian|FRHoF}",
-							"Poison",
+							"Veleno",
 							"{@spell Blade Ward|XPHB}"
 						],
 						[
 							"{@deity Myrkul|Faerûnian|FRHoF}",
-							"Necrotic",
+							"Necrotico",
 							"{@spell Chill Touch|XPHB}"
 						]
 					]
@@ -3970,8 +3970,8 @@
 			"level": 3,
 			"entries": [
 				"{@i Become a Gruesome Agent of Malice}",
-				"A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: {@deity Bane|Faerûnian|FRHoF}, deity of tyranny; {@deity Bhaal|Faerûnian|FRHoF}, deity of violence and murder; and {@deity Myrkul|Faerûnian|FRHoF}, deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.",
-				"Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to {@deity Bane|Faerûnian|FRHoF}, {@deity Bhaal|Faerûnian|FRHoF}, and {@deity Myrkul|Faerûnian|FRHoF} often count Scions of the Three among their most useful agents. Outside Baldur's Gate, secular thieves' guilds such as the Shadow Thieves of Amn or Xanathar's guild in Waterdeep might cautiously call on a Scion of the Three to undertake an especially violent contract.",
+				"Un Discendente dei Tre trae potere da un gruppo di divinità malevole conosciute come i Tre Morti: {@deity Bane|Faerûnian|FRHoF}, divinità della tirannia; {@deity Bhaal|Faerûnian|FRHoF}, divinità della violenza e dell'omicidio; e {@deity Myrkul|Faerûnian|FRHoF}, divinità della morte. Mentre alcuni Ladri di questa sottoclasse si impegnano ardentemente a questi tre macabri dei, altri si ritrovano spinti su questa strada da una maledizione. In ogni caso, il potere di un rampollo si manifesta sotto forma di vari doni occulti, nonché di un talento straordinario nel colpire e terrorizzare i nemici.",
+				"I Discendenti dei Tre sono più comuni a Baldur's Gate, dove i Tre Morti hanno a lungo gareggiato per l'influenza sui cuori mortali. I culti sotterranei di {@deity Bane|Faerûnian|FRHoF}, {@deity Bhaal|Faerûnian|FRHoF} e {@deity Myrkul|Faerûnian|FRHoF} spesso annoverano i Discendenti dei Tre tra i loro agenti più utili. Fuori Baldur's Gate, gilde di ladri secolari come i Ladri dell'Ombra di Amn o la gilda di Xanathar a Waterdeep potrebbero cautamente invocare un Discendente dei Tre per sottoscrivere un contratto particolarmente violento.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bloodthirst|Rogue|XPHB|Scion of the Three|FRHoF|3|FRHoF"
@@ -3992,14 +3992,14 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"You gain the following {@classFeature Cunning Strike|Rogue|XPHB|5|XPHB} option.",
+				"Ottieni la seguente opzione {@classFeature Cunning Strike|Rogue|XPHB|5|XPHB}.",
 				{
 					"type": "entries",
 					"name": "Terrify (Cost: {@dice 1d6})",
 					"page": 7,
 					"entries": [
-						"The target must succeed on a Wisdom saving throw, or it has the {@condition Frightened|XPHB} condition for 1 minute. While the target is Frightened in this way, you have {@variantrule Advantage|XPHB} on attack rolls against the target.",
-						"The {@condition Frightened|XPHB} target repeats the save at the end of each of its turns, ending the effect on itself on a success."
+						"Il bersaglio deve superare un tiro salvezza su Saggezza, altrimenti rimane nella condizione {@condition Frightened|XPHB} per 1 minuto. Mentre il bersaglio è Spaventato in questo modo, hai {@variantrule Advantage|XPHB} sui tiri per colpire contro il bersaglio.",
+						"Il bersaglio {@condition Frightened|XPHB} ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			]
@@ -4014,7 +4014,7 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"You radiate malignant power associated with one of the Dead Three. When you use {@subclassFeature Bloodthirst|Rogue|XPHB|Scion of the Three|FRHoF|3|FRHoF} and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage {@variantrule Resistance|XPHB} granted by your choice in the Dread Allegiance feature. {@variantrule Damage|XPHB} dealt by this feature ignores {@variantrule Resistance|XPHB}."
+				"Irradi un potere maligno associato a uno dei Tre Morti. Quando usi {@subclassFeature Bloodthirst|Rogue|XPHB|Scion of the Three|FRHoF|3|FRHoF} e ti teletrasporti, ogni creatura di tua scelta entro 10 piedi dallo spazio che hai lasciato o dallo spazio di destinazione (a tua scelta) subisce danni pari al tuo modificatore di Intelligenza; il tipo di danno è lo stesso del danno {@variantrule Resistance|XPHB} concesso dalla tua scelta nella funzione Dread Allegiance. {@variantrule Damage|XPHB} gestito da questa funzione ignora {@variantrule Resistance|XPHB}."
 			]
 		},
 		{
@@ -4027,13 +4027,13 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You gain the following benefits.",
+				"Ottieni i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Cutthroat",
 					"page": 7,
 					"entries": [
-						"You regain one expended use of {@subclassFeature Bloodthirst|Rogue|XPHB|Scion of the Three|FRHoF|3|FRHoF} when you finish a {@variantrule Short Rest|XPHB}."
+						"Recuperi un utilizzo speso di {@subclassFeature Bloodthirst|Rogue|XPHB|Scion of the Three|FRHoF|3|FRHoF} quando finisci un {@variantrule Short Rest|XPHB}."
 					]
 				},
 				{
@@ -4041,7 +4041,7 @@
 					"name": "Murderous Intent",
 					"page": 7,
 					"entries": [
-						"When you roll for your {@classFeature Sneak Attack|Rogue|XPHB|1|XPHB} damage, you can treat a roll of a 1 or 2 on the die as a 3."
+						"Quando tiri per il tuo danno {@classFeature Sneak Attack|Rogue|XPHB|1|XPHB}, puoi considerare un risultato di 1 o 2 sul dado come un 3."
 					]
 				}
 			]
@@ -4057,7 +4057,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Enhance Stealth with Arcane Spells}",
-				"Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.",
+				"Alcuni Ladri migliorano le loro abilità di furtività e agilità con gli incantesimi, imparando trucchi magici che li aiutano nel loro mestiere. Alcuni Imbroglioni Arcani usano i loro talenti come borseggiatori e ladri, mentre altri sono burloni.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Spellcasting|Rogue|XPHB|Arcane Trickster|XPHB|3"
@@ -4078,7 +4078,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you cast {@spell Mage Hand|XPHB}, you can cast it as a {@variantrule Bonus Action|XPHB}, and you can make the spectral hand {@condition Invisible|XPHB}. You can control the hand as a {@variantrule Bonus Action|XPHB}, and through it, you can make Dexterity ({@skill Sleight of Hand|XPHB}) checks."
+				"Quando lanci {@spell Mage Hand|XPHB}, puoi lanciarlo come {@variantrule Bonus Action|XPHB} e puoi creare la mano spettrale {@condition Invisible|XPHB}. Puoi controllare la mano come {@variantrule Bonus Action|XPHB} e attraverso di essa puoi effettuare prove di Destrezza ({@skill Sleight of Hand|XPHB})."
 			]
 		},
 		{
@@ -4091,50 +4091,50 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You have learned to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules as an Arcane Trickster.",
+				"Hai imparato a lanciare incantesimi. Vedi {@book chapter 7|XPHB|7} per le regole sul lancio degli incantesimi. Le informazioni seguenti descrivono dettagliatamente come utilizzare tali regole come Imbroglione Arcano.",
 				{
 					"type": "entries",
 					"name": "Cantrips",
 					"entries": [
-						"You know three cantrips: {@spell Mage Hand|XPHB} and two other cantrips of your choice from the {@filter Wizard spell list|spells|class=Wizard} (see that class's section for its list). {@spell Mind Sliver|XPHB} and {@spell Minor Illusion|XPHB} are recommended.",
-						"Whenever you gain a Rogue level, you can replace one of your cantrips, except {@spell Mage Hand|XPHB}, with another Wizard cantrip of your choice.",
-						"When you reach Rogue level 10, you learn another Wizard cantrip of your choice."
+						"Conosci tre trucchetti: {@spell Mage Hand|XPHB} e altri due trucchetti a tua scelta da {@filter Wizard spell list|spells|class=Wizard} (vedi la sezione di quella classe per il suo elenco). {@spell Mind Sliver|XPHB} e {@spell Minor Illusion|XPHB} sono consigliati.",
+						"Ogni volta che guadagni un livello da Ladro, puoi sostituire uno dei tuoi trucchetti, tranne {@spell Mage Hand|XPHB}, con un altro trucchetto da Mago a tua scelta.",
+						"Quando raggiungi il livello 10 del Ladro, impari un altro trucchetto da mago a tua scelta."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a {@variantrule Long Rest|XPHB}."
+						"La tabella Incantesimi Arcane Trickster mostra quanti slot incantesimo hai a disposizione per lanciare i tuoi incantesimi di livello 1+. Riacquisti tutti gli slot incantesimo spesi quando finisci un {@variantrule Long Rest|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Prepared Spells of 1st+ Level",
 					"entries": [
-						"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. {@spell Charm Person|XPHB}, {@spell Disguise Self|XPHB}, and {@spell Fog Cloud|XPHB} are recommended.",
-						"The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination."
+						"Prepari l'elenco degli incantesimi di livello 1+ che puoi lanciare con questa funzionalità. Per iniziare, scegli tre incantesimi da mago di livello 1. {@spell Charm Person|XPHB}, {@spell Disguise Self|XPHB} e {@spell Fog Cloud|XPHB} sono consigliati.",
+						"Il numero di incantesimi sulla tua lista aumenta man mano che guadagni livelli da Ladro, come mostrato nella colonna Incantesimi Preparati della tabella Incantesimi Arcani dell'Imbroglione. Ogni volta che quel numero aumenta, scegli ulteriori incantesimi da Mago finché il numero di incantesimi sulla tua lista non corrisponde al numero nella tabella Incantesimi Arcane Trickster. Gli incantesimi scelti devono essere di un livello per il quale disponi di slot incantesimo. Ad esempio, se sei un Ladro di livello 7, la tua lista di incantesimi preparati può includere cinque incantesimi da Mago di livello 1 o 2 in qualsiasi combinazione."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Changing Your Prepared Spells",
 					"entries": [
-						"Whenever you gain a Rogue level, you can replace one spell on your list with another Wizard spell for which you have spell slots."
+						"Ogni volta che ottieni un livello da Ladro, puoi sostituire un incantesimo sulla tua lista con un altro incantesimo da Mago per il quale disponi di slot incantesimo."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spellcasting Ability",
 					"entries": [
-						"Intelligence is your spellcasting ability for your Wizard spells."
+						"L'intelligenza è la tua abilità da incantatore per i tuoi incantesimi da mago."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spellcasting Focus",
 					"entries": [
-						"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Wizard spells."
+						"Puoi utilizzare un {@item Arcane Focus|XPHB} come {@variantrule Spellcasting Focus|XPHB} per i tuoi incantesimi da mago."
 					]
 				}
 			]
@@ -4150,7 +4150,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"If you have the {@condition Invisible|XPHB} condition when you cast a spell on a creature, it has {@variantrule Disadvantage|XPHB} on any saving throw it makes against the spell on the same turn."
+				"Se hai la condizione {@condition Invisible|XPHB} quando lanci un incantesimo su una creatura, essa ha {@variantrule Disadvantage|XPHB} su qualsiasi tiro salvezza effettuato contro l'incantesimo nello stesso turno."
 			]
 		},
 		{
@@ -4164,7 +4164,7 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"You gain the ability to distract targets with your {@spell Mage Hand|XPHB}. When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand."
+				"Ottieni la capacità di distrarre i bersagli con il tuo {@spell Mage Hand|XPHB}. Quando usi l'opzione Sbilanciare del tuo Colpo Astuto su una creatura, puoi anche usare quell'opzione su un'altra creatura entro 1,5 metri dalla mano spettrale."
 			]
 		},
 		{
@@ -4178,9 +4178,9 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.",
-				"Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a {@variantrule Reaction|XPHB} to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.",
-				"Once you steal a spell with this feature, you can't use this feature again until you finish a {@variantrule Long Rest|XPHB}."
+				"Ottieni la capacità di rubare magicamente la conoscenza su come lanciare un incantesimo da un altro incantatore.",
+				"Immediatamente dopo che una creatura ha lanciato un incantesimo che ti prende di mira o ti include nella sua area di effetto, puoi prendere un {@variantrule Reaction|XPHB} per costringere la creatura a effettuare un tiro salvezza su Intelligenza. La CD è pari alla CD del tiro salvezza dell'incantesimo. Se fallisci il Tiro Salvezza, annulli l'effetto dell'incantesimo contro di te e rubi la conoscenza dell'incantesimo se è almeno di livello 1 e di un livello che puoi lanciare (non è necessario che sia un incantesimo da Mago). Per le prossime 8 ore, hai preparato l'incantesimo. La creatura non può lanciarlo finché non sono trascorse le 8 ore.",
+				"Una volta rubato un incantesimo con questa funzione, non puoi riutilizzarla finché non finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -4194,7 +4194,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Practice the Grim Art of Death}",
-				"An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.",
+				"L'addestramento di un Assassino si concentra sull'uso della furtività, del veleno e del travestimento per eliminare i nemici con efficienza letale. Sebbene alcuni Ladri che seguono questo percorso siano assassini, spie o cacciatori di taglie, le capacità di questa sottoclasse sono ugualmente utili per gli avventurieri che affrontano una varietà di nemici mostruosi.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Assassinate|Rogue|XPHB|Assassin|XPHB|3"
@@ -4215,7 +4215,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a {@item Disguise Kit|XPHB} and a {@item Poisoner's Kit|XPHB}, and you have proficiency with them."
+				"Ottieni un {@item Disguise Kit|XPHB} e un {@item Poisoner's Kit|XPHB} e hai competenza con loro."
 			]
 		},
 		{
@@ -4228,7 +4228,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You're adept at ambushing a target, granting you the following benefits.",
+				"Sei abile nel tendere un'imboscata a un bersaglio, garantendoti i seguenti benefici.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4236,14 +4236,14 @@
 							"type": "entries",
 							"name": "Initiative",
 							"entries": [
-								"You have {@variantrule Advantage|XPHB} on {@variantrule Initiative|XPHB} rolls."
+								"Hai {@variantrule Advantage|XPHB} su {@variantrule Initiative|XPHB} tiri."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Surprising Strikes",
 							"entries": [
-								"During the first round of each combat, you have {@variantrule Advantage|XPHB} on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level."
+								"Durante il primo round di ogni combattimento, hai {@variantrule Advantage|XPHB} sui tiri per colpire contro qualsiasi creatura che non abbia effettuato un turno. Se il tuo Attacco Furtivo colpisce qualsiasi bersaglio durante quel round, il bersaglio subisce danni extra del tipo dell'arma pari al tuo livello da Ladro."
 							]
 						}
 					]
@@ -4261,7 +4261,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"You are expert at the following techniques that aid your infiltrations.",
+				"Sei esperto nelle seguenti tecniche che aiutano le tue infiltrazioni.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4269,14 +4269,14 @@
 							"type": "entries",
 							"name": "Masterful Mimicry",
 							"entries": [
-								"You can unerringly mimic another person's speech, handwriting, or both if you have spent at least 1 hour studying them."
+								"Puoi imitare infallibilmente il discorso, la scrittura o entrambi di un'altra persona se hai trascorso almeno 1 ora a studiarli."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Roving Aim",
 							"entries": [
-								"Your {@variantrule Speed|XPHB} isn't reduced to 0 by using Steady Aim."
+								"Il tuo {@variantrule Speed|XPHB} non viene ridotto a 0 utilizzando la mira fissa."
 							]
 						}
 					]
@@ -4294,7 +4294,7 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"When you use the Poison option of your Cunning Strike, the target also takes {@damage 2d6} Poison damage whenever it fails the saving throw. This damage ignores {@variantrule Resistance|XPHB} to Poison damage."
+				"Quando usi l'opzione Veleno del tuo Colpo astuto, il bersaglio subisce anche {@damage 2d6} danni da veleno ogni volta che fallisce il tiro salvezza. Questo danno ignora {@variantrule Resistance|XPHB} il danno da veleno."
 			]
 		},
 		{
@@ -4308,7 +4308,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}), or the attack's damage is doubled against the target."
+				"Quando colpisci con il tuo Attacco Furtivo nel primo round di un combattimento, il bersaglio deve riuscire un tiro salvezza su Costituzione ({@dc 8} più il tuo modificatore di Destrezza e {@variantrule Proficiency|XPHB|Proficiency Bonus}), altrimenti il ​​danno dell'attacco contro il bersaglio viene raddoppiato."
 			]
 		},
 		{
@@ -4322,7 +4322,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Strike Foes with Psionic Blades}",
-				"A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.",
+				"Un Soulknife colpisce con la mente, abbattendo le barriere sia fisiche che psichiche. Questi Ladri scoprono il potere psionico dentro di sé e lo incanalano per svolgere il loro lavoro disonesto. Come Soulknife, le tue abilità psioniche potrebbero averti perseguitato fin dall'infanzia, rivelando il loro pieno potenziale solo quando hai sperimentato lo stress dell'avventura. Oppure potresti aver cercato un ordine di adepti psichici e aver passato anni a imparare come manifestare il tuo potere.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
@@ -4344,7 +4344,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.",
+				"Nutri dentro di te una sorgente di energia psionica. È rappresentato dai tuoi dadi di energia psionica, che alimentano determinati poteri che hai da questa sottoclasse. La tabella Dadi Energia Soulknife mostra il numero di questi dadi che hai quando raggiungi determinati livelli da Ladro, e la tabella mostra la dimensione del dado.",
 				{
 					"type": "table",
 					"caption": "Soulknife Energy Dice",
@@ -4391,8 +4391,8 @@
 						]
 					]
 				},
-				"Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when your Psionic Energy Dice are all expended.",
-				"You regain one of your expended Psionic Energy Dice when you finish a {@variantrule Short Rest|XPHB}, and you regain all of them when you finish a {@variantrule Long Rest|XPHB}.",
+				"Qualsiasi caratteristica di questa sottoclasse che utilizzi un dado di energia psionica utilizza solo i dadi di questa sottoclasse. Alcuni dei tuoi poteri consumano un dado di energia psionica, come specificato nella descrizione del potere, e non puoi usare un potere se richiede l'uso di un dado quando i tuoi dadi di energia psionica sono tutti spesi.",
+				"Recuperi uno dei tuoi dadi di energia psionica spesi quando finisci un {@variantrule Short Rest|XPHB} e li riguadagni tutti quando finisci un {@variantrule Long Rest|XPHB}.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Psi-Bolstered Knack|Rogue|XPHB|Soulknife|XPHB|3"
@@ -4401,7 +4401,7 @@
 					"type": "refSubclassFeature",
 					"subclassFeature": "Psychic Whispers|Rogue|XPHB|Soulknife|XPHB|3"
 				},
-				"The first time you use this power after each {@variantrule Long Rest|XPHB}, you don't expend the Psionic Energy Die. All other times you use the power, you expend the die."
+				"La prima volta che usi questo potere dopo ciascuno {@variantrule Long Rest|XPHB}, non spendi il dado dell'energia psionica. Tutte le altre volte che usi il potere, spendi il dado."
 			]
 		},
 		{
@@ -4415,15 +4415,15 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can manifest shimmering blades of psychic energy. Whenever you take the {@action Attack|XPHB} action or make an {@action Opportunity Attack|XPHB}, you can manifest a {@item Psychic Blade|XPHB} in your free hand and make the attack with that blade. The magic blade has the following traits:",
+				"Puoi manifestare lame scintillanti di energia psichica. Ogni volta che esegui l'azione {@action Attack|XPHB} o esegui un {@action Opportunity Attack|XPHB}, puoi manifestare un {@item Psychic Blade|XPHB} nella tua mano libera ed effettuare l'attacco con quella lama. La lama magica ha le seguenti caratteristiche:",
 				{
 					"type": "statblock",
 					"tag": "item",
 					"name": "Psychic Blade",
 					"source": "XPHB"
 				},
-				"The blade vanishes immediately after it hits or misses its target, and it leaves no mark if it deals damage.",
-				"After you attack with the blade on your turn, you can make a melee or ranged attack with a second psychic blade as a {@variantrule Bonus Action|XPHB} on the same turn if your other hand is free to create it. The damage die of this bonus attack is {@damage 1d4} instead of {@damage 1d6}."
+				"La lama svanisce immediatamente dopo aver colpito o mancato il bersaglio e non lascia segni se infligge danni.",
+				"Dopo aver attaccato con la lama nel tuo turno, puoi effettuare un attacco in mischia o a distanza con una seconda lama psichica come {@variantrule Bonus Action|XPHB} nello stesso turno se l'altra mano è libera per crearla. Il dado di danno di questo attacco bonus è {@damage 1d4} invece di {@damage 1d6}."
 			]
 		},
 		{
@@ -4440,7 +4440,7 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"If you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy Die and add the number rolled to the check, potentially turning failure into success. The die is expended only if the roll then succeeds."
+				"Se fallisci una prova di abilità utilizzando un'abilità o uno strumento in cui sei competente, puoi lanciare un dado di energia psionica e aggiungere il numero ottenuto alla prova, trasformando potenzialmente il fallimento in successo. Il dado viene speso solo se il tiro ha successo."
 			]
 		},
 		{
@@ -4457,7 +4457,7 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"You can establish telepathic communication between yourself and others. As a {@action Magic|XPHB} action, choose one or more creatures you can see, up to a number of creatures equal to your {@variantrule Proficiency|XPHB|Proficiency Bonus}, and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can end the telepathic connection at any time (no action required)."
+				"Puoi stabilire una comunicazione telepatica tra te e gli altri. Come azione {@action Magic|XPHB}, scegli una o più creature che puoi vedere, fino a un numero di creature pari al tuo {@variantrule Proficiency|XPHB|Proficiency Bonus}, quindi lancia un dado di energia psionica. Per un numero di ore pari al numero tirato, le creature scelte possono parlare telepaticamente con te, e tu puoi parlare telepaticamente con loro. Per inviare o ricevere un messaggio (non è richiesta alcuna azione), tu e l'altra creatura dovete trovarvi entro 1,6 km l'uno dall'altro. Una creatura può terminare la connessione telepatica in qualsiasi momento (non è richiesta alcuna azione)."
 			]
 		},
 		{
@@ -4474,7 +4474,7 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"If you make an attack roll with your {@item Psychic Blade|XPHB} and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended."
+				"Se effettui un tiro per colpire con il tuo {@item Psychic Blade|XPHB} e manchi il bersaglio, puoi lanciare un dado energia psionica e aggiungere il numero ottenuto al tiro per colpire. Se questo fa sì che l'attacco vada a segno, il dado viene speso."
 			]
 		},
 		{
@@ -4491,7 +4491,7 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you manifest a {@item Psychic Blade|XPHB}, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes."
+				"Come {@variantrule Bonus Action|XPHB}, manifesti un {@item Psychic Blade|XPHB}, spendi un dado di energia psionica, lancialo e lancia la lama in uno spazio non occupato che puoi vedere fino a un numero di piedi di distanza pari a 10 volte il numero tirato. Quindi ti teletrasporti in quello spazio e la lama svanisce."
 			]
 		},
 		{
@@ -4505,7 +4505,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"You can now use the following powers with your Psychic Blades.",
+				"Ora puoi usare i seguenti poteri con le tue Lame Psichiche.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Homing Strikes|Rogue|XPHB|Soulknife|XPHB|9"
@@ -4530,8 +4530,8 @@
 				"name": "Psionic Energy Die"
 			},
 			"entries": [
-				"You can weave a veil of psychic static to mask yourself. As a {@action Magic|XPHB} action, you gain the {@condition Invisible|XPHB} condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB} unless you expend a Psionic Energy Die (no action required) to restore your use of it."
+				"Puoi tessere un velo di staticità psichica per mascherarti. Come azione {@action Magic|XPHB}, ottieni la condizione {@condition Invisible|XPHB} per 1 ora o finché non interrompi questo effetto (non è richiesta alcuna azione). Questa invisibilità termina subito dopo aver inflitto danno a una creatura o aver costretto una creatura a effettuare un tiro salvezza.",
+				"Una volta utilizzata questa funzione, non potrai farlo di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi un dado di energia psionica (non è richiesta alcuna azione) per ripristinarne l'utilizzo."
 			]
 		},
 		{
@@ -4545,8 +4545,8 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You can sweep your Psychic Blades through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw ({@dc 8} plus your Dexterity modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}). If the save fails, the target has the {@condition Stunned|XPHB} condition for 1 minute. The {@condition Stunned|XPHB} target repeats the save at the end of each of its turns, ending the effect on itself on a success.",
-				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB} unless you expend three Psionic Energy Dice (no action required) to restore your use of it."
+				"Puoi spazzare le tue Lame Psichiche attraverso la mente di una creatura. Quando usi le tue Lame Psichiche per infliggere danni da Attacco Furtivo a una creatura, puoi costringere quel bersaglio a effettuare un tiro salvezza su Saggezza ({@dc 8} più il tuo modificatore di Destrezza e {@variantrule Proficiency|XPHB|Proficiency Bonus}). Se il tiro salvezza fallisce, il bersaglio ha la condizione {@condition Stunned|XPHB} per 1 minuto. Il bersaglio {@condition Stunned|XPHB} ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo.",
+				"Una volta utilizzata questa funzione, non potrai farlo di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi tre dadi di energia psionica (non è richiesta alcuna azione) per ripristinarne l'utilizzo."
 			]
 		},
 		{
@@ -4561,7 +4561,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can do one of the following.",
+				"In qualità di {@variantrule Bonus Action|XPHB}, puoi eseguire una delle seguenti operazioni.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4569,14 +4569,14 @@
 							"type": "entries",
 							"name": "Sleight of Hand",
 							"entries": [
-								"Make a Dexterity ({@skill Sleight of Hand|XPHB}) check to pick a lock or disarm a trap with {@item Thieves' Tools|XPHB} or to pick a pocket."
+								"Effettua una prova di Destrezza ({@skill Sleight of Hand|XPHB}) per scassinare una serratura o disinnescare una trappola con {@item Thieves' Tools|XPHB} o per scassinare una tasca."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Use an Object",
 							"entries": [
-								"Take the {@action Utilize|XPHB} action, or take the {@action Magic|XPHB} action to use a magic item that requires that action."
+								"Esegui l'azione {@action Utilize|XPHB} oppure esegui l'azione {@action Magic|XPHB} per utilizzare un oggetto magico che richiede quell'azione."
 							]
 						}
 					]
@@ -4595,7 +4595,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You've trained to get into especially hard-to-reach places, granting you these benefits.",
+				"Ti sei allenato per entrare in luoghi particolarmente difficili da raggiungere, garantendoti questi benefici.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4603,14 +4603,14 @@
 							"type": "entries",
 							"name": "Climber",
 							"entries": [
-								"You gain a {@variantrule Climb Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+								"Guadagni un {@variantrule Climb Speed|XPHB} pari al tuo {@variantrule Speed|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Jumper",
 							"entries": [
-								"You can determine your jump distance using your Dexterity rather than your Strength."
+								"Puoi determinare la distanza del salto utilizzando la tua Destrezza anziché la tua Forza."
 							]
 						}
 					]
@@ -4630,7 +4630,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Hunt for Treasure as a Classic Adventurer}",
-				"A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.",
+				"Un mix tra ladro, cacciatore di tesori ed esploratore, sei l'epitome di un avventuriero. Oltre a migliorare la tua agilità e la tua furtività, acquisisci abilità utili per scavare nelle rovine e ottenere il massimo beneficio dagli oggetti magici che trovi lì.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Fast Hands|Rogue|XPHB|Thief|XPHB|3"
@@ -4654,7 +4654,7 @@
 			"level": 9,
 			"header": 2,
 			"entries": [
-				"You gain the following Cunning Strike option.",
+				"Ottieni la seguente opzione Colpo Astuto.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4662,7 +4662,7 @@
 							"type": "entries",
 							"name": "Stealth Attack (Cost: 1d6)",
 							"entries": [
-								"If you have the {@action Hide|XPHB} action's {@condition Invisible|XPHB} condition, this attack doesn't end that condition on you if you end the turn behind {@variantrule Cover|XPHB|Three-Quarters Cover} or {@variantrule Cover|XPHB|Total Cover}."
+								"Se hai la condizione dell'azione {@action Hide|XPHB} {@condition Invisible|XPHB}, questo attacco non pone fine a quella condizione se finisci il turno dietro {@variantrule Cover|XPHB|Three-Quarters Cover} o {@variantrule Cover|XPHB|Total Cover}."
 							]
 						}
 					]
@@ -4682,26 +4682,26 @@
 			"level": 13,
 			"header": 2,
 			"entries": [
-				"You've learned how to maximize use of magic items, granting you the following benefits.",
+				"Hai imparato come massimizzare l'uso degli oggetti magici, garantendoti i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Attunement",
 					"entries": [
-						"You can attune to up to four magic items at once."
+						"Puoi sintonizzarti con un massimo di quattro oggetti magici contemporaneamente."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Charges",
 					"entries": [
-						"Whenever you use a magic item property that expends charges, roll {@dice 1d6}. On a roll of 6, you use the property without expending the charges."
+						"Ogni volta che usi la proprietà di un oggetto magico che consuma cariche, tira {@dice 1d6}. Con un risultato di 6, usi la proprietà senza spendere le spese."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Scrolls",
 					"entries": [
-						"You can use any {@item Spell Scroll|XDMG}, using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ({@skill Arcana|XPHB}) check ({@dc 10} plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates."
+						"Puoi usarne uno qualsiasi {@item Spell Scroll|XDMG}, usando l'Intelligenza come abilità da incantatore per l'incantesimo. Se l'incantesimo è un trucchetto o un incantesimo di livello 1, puoi lanciarlo in modo affidabile. Se la pergamena contiene un incantesimo di livello superiore, devi prima superare una prova di Intelligenza ({@skill Arcana|XPHB} ({@dc 10} più il livello dell'incantesimo). Con una prova riuscita, lanci l'incantesimo dalla pergamena. Se la prova fallisce, la pergamena si disintegra."
 					]
 				}
 			]
@@ -4719,7 +4719,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal {@variantrule Initiative|XPHB} and your second turn at your {@variantrule Initiative|XPHB} minus 10."
+				"Sei abile nel tendere imboscate e nel fuggire rapidamente dal pericolo. Puoi effettuare due turni durante il primo round di qualsiasi combattimento. Fai il tuo primo turno al tuo normale {@variantrule Initiative|XPHB} e il secondo turno al tuo {@variantrule Initiative|XPHB} meno 10."
 			]
 		}
 	]

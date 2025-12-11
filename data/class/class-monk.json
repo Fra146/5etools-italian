@@ -608,7 +608,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Spear|XPHB}, 5 {@item Dagger|XPHB|Daggers}, {@item Artisan's Tools|XPHB} or {@item Musical Instrument|XPHB} chosen for the tool proficiency above, {@item Explorer's Pack|XPHB}, and 11 GP; or (B) 50 GP"
+					"{@i Choose A or B:} (A) {@item Spear|XPHB}, 5 {@item Dagger|XPHB|Daggers}, {@item Artisan's Tools|XPHB} o {@item Musical Instrument|XPHB} scelti per la competenza dello strumento di cui sopra, {@item Explorer's Pack|XPHB} e 11 GP; o (B) 50 GP"
 				]
 			},
 			"multiclassing": {},
@@ -1650,17 +1650,17 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are {@item shortsword|phb|shortswords} and any {@filter simple melee weapons that don't have the two-handed or heavy property|items|source=phb|category=basic|type=simple weapon;melee weapon=sand|property=!heavy;!two-handed}.",
-				"You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a {@item shield|phb}.",
+				"La tua pratica delle arti marziali ti dà la padronanza degli stili di combattimento che utilizzano colpi senz'armi e armi da monaco, che sono {@item shortsword|phb|shortswords} e qualsiasi {@filter simple melee weapons that don't have the two-handed or heavy property|items|source=phb|category=basic|type=simple weapon;melee weapon=sand|property=!heavy;!two-handed}.",
+				"Ottieni i seguenti benefici mentre sei disarmato o impugni solo armi da monaco e non indossi un'armatura o impugni un {@item shield|phb}.",
 				{
 					"type": "list",
 					"items": [
-						"You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.",
-						"You can roll a {@dice d4} in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.",
-						"When you use the {@action Attack} action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the {@action Attack} action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn."
+						"Puoi usare Destrezza invece di Forza per i tiri per colpire e per i danni dei tuoi colpi senz'armi e delle armi da monaco.",
+						"Puoi tirare un {@dice d4} al posto del normale danno del tuo colpo senz'armi o dell'arma del monaco. Questo dado cambia man mano che guadagni livelli da Monaco, come mostrato nella colonna Arti Marziali della tabella Monaco.",
+						"Quando usi l'azione {@action Attack} con un colpo senz'armi o un'arma da monaco nel tuo turno, puoi effettuare un colpo senz'armi come azione bonus. Ad esempio, se esegui l'azione {@action Attack} e attacchi con un bastone ferrato, puoi anche effettuare un colpo senz'armi come azione bonus, presupponendo che tu non abbia già effettuato un'azione bonus in questo turno."
 					]
 				},
-				"Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama)."
+				"Alcuni monasteri utilizzano forme specializzate di armi da monaco. Ad esempio, potresti usare una mazza composta da due pezzi di legno collegati da una catena corta (chiamata nunchaku) o una falce con una lama più corta e diritta (chiamata kama)."
 			]
 		},
 		{
@@ -1672,7 +1672,7 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier."
+				"A partire dal 1° livello, mentre non indossi alcuna armatura e non impugni uno scudo, la tua CA è pari a 10 + il tuo modificatore di Destrezza + il tuo modificatore di Saggezza."
 			]
 		},
 		{
@@ -1685,14 +1685,14 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 2nd-level monk {@variantrule optional class features|tce|optional feature}}",
-				"You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.",
-				"The chosen weapon must meet these criteria:",
+				"Ti alleni a usare una varietà di armi come armi da monaco, non solo semplici armi da mischia e spade corte. Ogni volta che termini un riposo breve o lungo, puoi toccare un'arma, concentrare il tuo ki su di essa e poi considerare quell'arma come un'arma da monaco finché non usi nuovamente questa capacità.",
+				"L'arma scelta deve soddisfare questi criteri:",
 				{
 					"type": "list",
 					"items": [
-						"The weapon must be a {@filter simple or martial weapon|items|source=phb|category=basic|type=martial weapon;simple weapon|property=!heavy;!special}.",
-						"You must be proficient with it.",
-						"It must lack the heavy and special properties."
+						"L'arma deve essere una {@filter simple or martial weapon|items|source=phb|category=basic|type=martial weapon;simple weapon|property=!heavy;!special}.",
+						"Devi essere abile con esso.",
+						"Deve mancare delle proprietà pesanti e speciali."
 					]
 				}
 			]
@@ -1710,7 +1710,7 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"Immediately after you take the {@action Attack} action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action."
+				"Immediatamente dopo aver eseguito l'azione {@action Attack} nel tuo turno, puoi spendere 1 punto ki per effettuare due colpi senz'armi come azione bonus."
 			]
 		},
 		{
@@ -1722,10 +1722,10 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.",
-				"You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.",
-				"When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.",
-				"Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:",
+				"A partire dal 2° livello, il tuo addestramento ti consente di sfruttare l'energia mistica del ki. Il tuo accesso a questa energia è rappresentato da un numero di punti ki. Il tuo livello da monaco determina il numero di punti che possiedi, come mostrato nella colonna Punti Ki della tabella Monaco.",
+				"Puoi spendere questi punti per alimentare varie funzionalità del ki. Inizi a conoscere tre di queste funzionalità: Raffica di colpi, Difesa paziente e Passo del vento. Apprenderai più funzionalità del ki man mano che sali di livello in questa classe.",
+				"Quando spendi un punto ki, questo non è disponibile finché non finisci un riposo breve o lungo, al termine del quale richiami dentro di te tutto il ki speso. Devi trascorrere almeno 30 minuti del resto meditando per recuperare i tuoi punti ki.",
+				"Alcune delle tue funzionalità ki richiedono che il tuo bersaglio effettui un tiro salvezza per resistere agli effetti della funzionalità. La CD del tiro salvezza viene calcolata come segue:",
 				{
 					"type": "abilityDc",
 					"name": "Ki",
@@ -1765,7 +1765,7 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"You can spend 1 ki point to take the {@action Dodge} action as a bonus action on your turn."
+				"Puoi spendere 1 punto ki per eseguire l'azione {@action Dodge} come azione bonus nel tuo turno."
 			]
 		},
 		{
@@ -1781,7 +1781,7 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"You can spend 1 ki point to take the {@action Disengage} or {@action Dash} action as a bonus action on your turn, and your jump distance is doubled for the turn."
+				"Puoi spendere 1 punto ki per eseguire l'azione {@action Disengage} o {@action Dash} come azione bonus durante il tuo turno e la distanza del tuo salto verrà raddoppiata per il turno."
 			]
 		},
 		{
@@ -1793,8 +1793,8 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.",
-				"At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move."
+				"A partire dal 2° livello, la tua velocità aumenta di 3 metri mentre non indossi un'armatura o non impugni uno scudo. Questo bonus aumenta quando raggiungi determinati livelli da Monaco, come mostrato nella tabella del Monaco.",
+				"Al 9° livello, ottieni la capacità di muoverti lungo superfici verticali e attraverso liquidi durante il tuo turno senza cadere durante il movimento."
 			]
 		},
 		{
@@ -1806,8 +1806,8 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by {@dice 1d10} + your Dexterity modifier + your monk level.",
-				"If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack (range 20/60 feet) with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack."
+				"A partire dal 3° livello, puoi usare la tua reazione per deviare o catturare il missile quando vieni colpito da un attacco con un'arma a distanza. Quando lo fai, il danno che subisci dall'attacco viene ridotto del {@dice 1d10} + il tuo modificatore di Destrezza + il tuo livello da monaco.",
+				"Se riduci il danno a 0, puoi prendere il missile se è abbastanza piccolo da poterlo tenere in una mano e hai almeno una mano libera. Se prendi un missile in questo modo, puoi spendere 1 punto ki per effettuare un attacco a distanza (portata 20/60 piedi) con l'arma o la munizione appena presa, come parte della stessa reazione. Effettui questo attacco con competenza, indipendentemente dalle tue competenze nelle armi, e il missile conta come un'arma da monaco per l'attacco."
 			]
 		},
 		{
@@ -1820,7 +1820,7 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 3rd-level monk {@variantrule optional class features|tce|optional feature}}",
-				"If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn."
+				"Se spendi 1 punto ki o più come parte della tua azione nel tuo turno, puoi effettuare un attacco con un colpo senz'armi o con un'arma da monaco come azione bonus prima della fine del turno."
 			]
 		},
 		{
@@ -1832,7 +1832,7 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"When you reach 3rd level, you commit yourself to a monastic tradition, chosen from the list of available traditions. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level."
+				"Quando raggiungi il 3° livello, ti impegni in una tradizione monastica, scelta dall'elenco delle tradizioni disponibili. La tua tradizione ti garantisce privilegi al 3° livello e di nuovo al 6°, 11° e 17° livello."
 			]
 		},
 		{
@@ -1844,8 +1844,8 @@
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
-				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 4° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -1862,7 +1862,7 @@
 			},
 			"entries": [
 				"{@i 4th-level monk {@variantrule optional class features|tce|optional feature}}",
-				"As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus."
+				"Come azione, puoi spendere 2 punti ki e lanciare un dado di Arti Marziali. Recuperi un numero di punti ferita pari al numero tirato più il tuo bonus di competenza."
 			]
 		},
 		{
@@ -1874,7 +1874,7 @@
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
-				"Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level."
+				"A partire dal 4° livello, puoi usare la tua reazione quando cadi per ridurre qualsiasi danno da caduta che subisci di un ammontare pari a cinque volte il tuo livello da monaco."
 			]
 		},
 		{
@@ -1886,7 +1886,7 @@
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
-				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the {@action Attack} action on your turn."
+				"A partire dal 5° livello, puoi attaccare due volte, anziché una, ogni volta che esegui l'azione {@action Attack} nel tuo turno."
 			]
 		},
 		{
@@ -1899,7 +1899,7 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 5th-level monk {@variantrule optional class features|tce|optional feature}}",
-				"When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit."
+				"Quando manchi un tiro per colpire, puoi spendere da 1 a 3 punti ki per aumentare il tuo tiro per colpire di 2 per ciascuno di questi punti ki spesi, trasformando potenzialmente il fallimento in un colpo a segno."
 			]
 		},
 		{
@@ -1915,7 +1915,7 @@
 				"amount": 1
 			},
 			"entries": [
-				"Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be {@condition stunned} until the end of your next turn."
+				"A partire dal 5° livello, puoi interferire con il flusso del ki nel corpo di un avversario. Quando colpisci un'altra creatura con un attacco con arma da mischia, puoi spendere 1 punto ki per tentare un colpo stordente. Il bersaglio deve riuscire in un tiro salvezza su Costituzione o essere {@condition stunned} fino alla fine del tuo turno successivo."
 			]
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
+				"A partire dal 6° livello, i propri colpi senz'armi contano come magici allo scopo di superare la resistenza e l'immunità agli attacchi e ai danni non magici."
 			]
 		},
 		{
@@ -1939,7 +1939,7 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"At 6th level, you gain one feature granted by your Monastic Tradition."
+				"Al 6° livello, ottieni una caratteristica concessa dalla tua Tradizione Monastica."
 			]
 		},
 		{
@@ -1951,7 +1951,7 @@
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
-				"At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a {@spell fireball} spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
+				"Al 7° livello, la tua agilità istintiva ti consente di schivare determinati effetti ad area, come il soffio fulmineo di un drago blu o un incantesimo {@spell fireball}. Quando sei soggetto a un effetto che ti consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisci invece alcun danno se riesci nel tiro salvezza e solo la metà dei danni se fallisci."
 			]
 		},
 		{
@@ -1963,7 +1963,7 @@
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
-				"Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be {@condition charmed} or {@condition frightened}."
+				"A partire dal 7° livello, puoi usare la tua azione per porre fine a un effetto su te stesso che ti sta facendo diventare {@condition charmed} o {@condition frightened}."
 			]
 		},
 		{
@@ -1975,8 +1975,8 @@
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
-				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi l'8° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -1988,7 +1988,7 @@
 			"classSource": "PHB",
 			"level": 9,
 			"entries": [
-				"At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move."
+				"Al 9° livello, ottieni la capacità di muoverti lungo superfici verticali e attraverso liquidi durante il tuo turno senza cadere durante il movimento."
 			]
 		},
 		{
@@ -2000,7 +2000,7 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison."
+				"Al 10° livello, la tua padronanza del ki che scorre attraverso di te ti rende immune alle malattie e ai veleni."
 			]
 		},
 		{
@@ -2012,7 +2012,7 @@
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
-				"At 11th level, you gain one feature granted by your Monastic Tradition."
+				"All'11° livello, ottieni una caratteristica concessa dalla tua Tradizione Monastica."
 			]
 		},
 		{
@@ -2024,8 +2024,8 @@
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
-				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 12° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"classSource": "PHB",
 			"level": 13,
 			"entries": [
-				"Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say."
+				"A partire dal 13° livello, impari a toccare il ki delle altre menti in modo da comprendere tutte le lingue parlate. Inoltre, qualsiasi creatura in grado di comprendere una lingua può capire ciò che dici."
 			]
 		},
 		{
@@ -2053,8 +2053,8 @@
 				"amount": 1
 			},
 			"entries": [
-				"Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.",
-				"Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result."
+				"A partire dal 14° livello, la tua maestria nel ki ti garantisce la competenza in tutti i tiri salvezza.",
+				"Inoltre, ogni volta che effettui un tiro salvezza e fallisci, puoi spendere 1 punto ki per ripetere il tiro e tenere il secondo risultato."
 			]
 		},
 		{
@@ -2066,7 +2066,7 @@
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
-				"At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water."
+				"Al 15° livello, il tuo ki ti sostiene in modo che tu non soffra della fragilità della vecchiaia e non puoi invecchiare magicamente. Si può comunque morire di vecchiaia. Inoltre, non hai più bisogno di cibo o acqua."
 			]
 		},
 		{
@@ -2078,8 +2078,8 @@
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
-				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 16° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2091,7 +2091,7 @@
 			"classSource": "PHB",
 			"level": 17,
 			"entries": [
-				"At 17th level, you gain one feature granted by your Monastic Tradition."
+				"Al 17° livello, ottieni una caratteristica concessa dalla tua Tradizione Monastica."
 			]
 		},
 		{
@@ -2107,8 +2107,8 @@
 				"amount": 4
 			},
 			"entries": [
-				"Beginning at 18th level, you can use your action to spend 4 ki points to become {@condition invisible} for 1 minute. During that time, you also have resistance to all damage but force damage.",
-				"Additionally, you can spend 8 ki points to cast the {@spell astral projection} spell, without needing material components. When you do so, you can't take any other creatures with you."
+				"A partire dal 18° livello, puoi usare la tua azione per spendere 4 punti ki per diventare {@condition invisible} per 1 minuto. Durante questo periodo, hai anche resistenza a tutti i danni tranne quelli di forza.",
+				"Inoltre, puoi spendere 8 punti ki per lanciare l'incantesimo {@spell astral projection}, senza bisogno di componenti materiali. Quando lo fai, non puoi portare con te nessun'altra creatura."
 			]
 		},
 		{
@@ -2120,8 +2120,8 @@
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
-				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2133,7 +2133,7 @@
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
-				"At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points."
+				"Al 20° livello, quando tiri per l'iniziativa e non hai punti ki rimanenti, recuperi 4 punti ki."
 			]
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"You can make an {@variantrule Unarmed Strike|XPHB} as a {@variantrule Bonus Action|XPHB}."
+				"Puoi creare un {@variantrule Unarmed Strike|XPHB} come {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{
@@ -2161,7 +2161,7 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your {@variantrule Unarmed Strike|XPHB}, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC."
+				"Puoi usare il tuo modificatore di Destrezza invece del tuo modificatore di Forza per i tiri per colpire e per i danni dei tuoi Colpi Senza Armi e delle armi del Monaco. Inoltre, quando usi l'opzione Presa o Spinta del tuo {@variantrule Unarmed Strike|XPHB}, puoi usare il tuo modificatore di Destrezza invece del tuo modificatore di Forza per determinare la CD del salvataggio."
 			]
 		},
 		{
@@ -2174,7 +2174,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your practice of martial arts gives you mastery of combat styles that use your {@variantrule Unarmed Strike|XPHB} and Monk weapons, which are the following:",
+				"La tua pratica delle arti marziali ti dà la padronanza degli stili di combattimento che utilizzano le tue armi {@variantrule Unarmed Strike|XPHB} e quelle del Mistico, che sono le seguenti:",
 				{
 					"type": "list",
 					"items": [
@@ -2182,7 +2182,7 @@
 						"{@filter Martial Melee Weapons that have the Light property|items|type=martial weapon;melee weapon=sand|property=light}"
 					]
 				},
-				"You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a {@item Shield|XPHB}.",
+				"Ottieni i seguenti benefici mentre sei disarmato o impugni solo armi da Monaco e non indossi un'armatura o impugni un {@item Shield|XPHB}.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2213,7 +2213,7 @@
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"You can roll {@damage 1d6} in place of the normal damage of your {@variantrule Unarmed Strike|XPHB} or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table."
+				"Puoi tirare {@damage 1d6} al posto del normale danno delle tue armi {@variantrule Unarmed Strike|XPHB} o del Mistico. Questo dado cambia man mano che guadagni livelli da Monaco, come mostrato nella colonna Arti Marziali della tabella Caratteristiche del Monaco."
 			]
 		},
 		{
@@ -2226,7 +2226,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"While you aren't wearing armor or wielding a {@item Shield|XPHB}, your base {@variantrule Armor Class|XPHB} equals 10 plus your Dexterity and Wisdom modifiers."
+				"Mentre non indossi un'armatura o non impugni un {@item Shield|XPHB}, la tua base {@variantrule Armor Class|XPHB} è pari a 10 più i tuoi modificatori di Destrezza e Saggezza."
 			]
 		},
 		{
@@ -2243,7 +2243,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"You can expend 1 Focus Point to make two Unarmed Strikes as a {@variantrule Bonus Action|XPHB}."
+				"Puoi spendere 1 punto focus per effettuare due attacchi senz'armi come {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{
@@ -2256,10 +2256,10 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.",
-				"You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.",
-				"When you expend a Focus Point, it is unavailable until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, at the end of which you regain all your expended points.",
-				"Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and {@variantrule Proficiency|XPHB|Proficiency Bonus}.",
+				"La tua concentrazione e il tuo allenamento marziale ti consentono di sfruttare un pozzo di straordinaria energia dentro di te. Questa energia è rappresentata dai Punti Focus. Il tuo livello da Monaco determina il numero di punti che possiedi, come mostrato nella colonna Punti focus della tabella Caratteristiche del Monaco.",
+				"Puoi spendere questi punti per migliorare o alimentare alcune funzionalità del Monaco. Inizi a conoscere tre di queste funzionalità: Raffica di colpi, Difesa paziente e Passo del vento, ognuna delle quali è descritta in dettaglio di seguito.",
+				"Quando spendi un punto focus, non è disponibile finché non finisci un {@variantrule Short Rest|XPHB|Short} o {@variantrule Long Rest|XPHB}, al termine del quale recuperi tutti i punti spesi.",
+				"Alcune funzionalità che utilizzano i Punti Focus richiedono che il tuo bersaglio effettui un tiro salvezza. La CD del salvataggio è pari a 8 più il tuo modificatore di Saggezza e {@variantrule Proficiency|XPHB|Proficiency Bonus}.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2293,7 +2293,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"You can take the {@action Disengage|XPHB} action as a {@variantrule Bonus Action|XPHB}. Alternatively, you can expend 1 Focus Point to take both the {@action Disengage|XPHB} and the {@action Dodge|XPHB} actions as a {@variantrule Bonus Action|XPHB}."
+				"Puoi eseguire l'azione {@action Disengage|XPHB} come {@variantrule Bonus Action|XPHB}. In alternativa, puoi spendere 1 Punto Focus per intraprendere entrambe le azioni {@action Disengage|XPHB} e {@action Dodge|XPHB} come {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{
@@ -2310,7 +2310,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"You can take the {@action Dash|XPHB} action as a {@variantrule Bonus Action|XPHB}. Alternatively, you can expend 1 Focus Point to take both the {@action Disengage|XPHB} and {@action Dash|XPHB} actions as a {@variantrule Bonus Action|XPHB}, and your jump distance is doubled for the turn."
+				"Puoi eseguire l'azione {@action Dash|XPHB} come {@variantrule Bonus Action|XPHB}. In alternativa, puoi spendere 1 punto focus per eseguire entrambe le azioni {@action Disengage|XPHB} e {@action Dash|XPHB} come {@variantrule Bonus Action|XPHB} e la distanza del tuo salto sarà raddoppiata per il turno."
 			]
 		},
 		{
@@ -2323,7 +2323,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Your speed increases by 10 feet while you aren't wearing armor or wielding a {@item Shield|XPHB}. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table."
+				"La tua velocità aumenta di 3 metri mentre non indossi un'armatura o non impugni un {@item Shield|XPHB}. Questo bonus aumenta quando raggiungi determinati livelli da Monaco, come mostrato nella tabella Caratteristiche del Monaco."
 			]
 		},
 		{
@@ -2336,8 +2336,8 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"When you roll {@variantrule Initiative|XPHB}, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of {@variantrule Hit Points|XPHB} equal to your Monk level plus the number rolled.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}."
+				"Quando tiri {@variantrule Initiative|XPHB}, puoi recuperare tutti i Focus Point spesi. Quando lo fai, lancia il tuo dado di Arti Marziali e riguadagna un numero di {@variantrule Hit Points|XPHB} pari al tuo livello da Monaco più il numero tirato.",
+				"Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -2353,8 +2353,8 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a {@variantrule Reaction|XPHB} to reduce the attack's total damage against you. The reduction equals {@dice 1d10} plus your Dexterity modifier and Monk level.",
-				"If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind {@variantrule Cover|XPHB|Total Cover} if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack."
+				"Quando un tiro per colpire ti colpisce e il suo danno include danni contundenti, perforanti o taglienti, puoi prendere un {@variantrule Reaction|XPHB} per ridurre il danno totale dell'attacco contro di te. La riduzione è pari a {@dice 1d10} più il tuo modificatore di Destrezza e il livello del Monaco.",
+				"Se riduci il danno a 0, puoi spendere 1 Punto Focus per reindirizzare parte della forza dell'attacco. Se lo fai, scegli una creatura che puoi vedere entro 1,5 metri da te se l'attacco era un attacco in mischia o una creatura che puoi vedere entro 18 metri da te che non sia dietro {@variantrule Cover|XPHB|Total Cover} se l'attacco era un attacco a distanza. Quella creatura deve riuscire in un tiro salvezza di Destrezza o subire danni pari a due tiri del tuo dado di Arti Marziali più il tuo modificatore di Destrezza. Il danno è dello stesso tipo inflitto dall'attacco."
 			]
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower."
+				"Ottieni una sottoclasse del Monaco a tua scelta. Una sottoclasse è una specializzazione che ti garantisce funzionalità a determinati livelli da Monaco. Per il resto della tua carriera, ottieni ciascuna delle caratteristiche della tua sottoclasse che sono del tuo livello da Monaco o inferiore."
 			]
 		},
 		{
@@ -2380,7 +2380,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. Ottieni nuovamente questa capacità ai livelli del Monaco 8, 12 e 16."
 			]
 		},
 		{
@@ -2393,7 +2393,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You can take a {@variantrule Reaction|XPHB} when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level."
+				"Puoi prendere un {@variantrule Reaction|XPHB} quando cadi per ridurre qualsiasi danno subito dalla caduta di un importo pari a cinque volte il tuo livello da Monaco."
 			]
 		},
 		{
@@ -2406,7 +2406,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You can attack twice instead of once whenever you take the {@action Attack|XPHB} action on your turn."
+				"Puoi attaccare due volte anziché una volta ogni volta che esegui l'azione {@action Attack|XPHB} nel tuo turno."
 			]
 		},
 		{
@@ -2422,7 +2422,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"Once per turn when you hit a creature with a Monk weapon or an {@variantrule Unarmed Strike|XPHB}, you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the {@condition Stunned|XPHB} condition until the start of your next turn. On a successful save, the target's {@variantrule Speed|XPHB} is halved until the start of your next turn, and the next attack roll made against the target before then has {@variantrule Advantage|XPHB}."
+				"Una volta per turno, quando colpisci una creatura con un'arma del Monaco o con un {@variantrule Unarmed Strike|XPHB}, puoi spendere 1 punto focus per tentare un colpo stordente. Il bersaglio deve effettuare un tiro salvezza su Costituzione. In caso di salvataggio fallito, il bersaglio avrà la condizione {@condition Stunned|XPHB} fino all'inizio del tuo turno successivo. In caso di tiro salvezza riuscito, il valore del bersaglio {@variantrule Speed|XPHB} viene dimezzato fino all'inizio del tuo turno successivo, e il successivo tiro per colpire effettuato contro il bersaglio prima di allora avrà {@variantrule Advantage|XPHB}."
 			]
 		},
 		{
@@ -2435,7 +2435,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"Whenever you deal damage with your {@variantrule Unarmed Strike|XPHB}, it can deal your choice of Force damage or its normal damage type."
+				"Ogni volta che infliggi danni con il tuo {@variantrule Unarmed Strike|XPHB}, può infliggere danni di Forza a tua scelta o il suo tipo di danno normale."
 			]
 		},
 		{
@@ -2448,7 +2448,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Monk subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse del Monaco."
 			]
 		},
 		{
@@ -2461,8 +2461,8 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.",
-				"You don't benefit from this feature if you have the {@condition Incapacitated|XPHB} condition."
+				"Quando sei soggetto a un effetto che ti consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisci invece alcun danno se riesci nel tiro salvezza e solo la metà dei danni se fallisci.",
+				"Non beneficerai di questa funzionalità se possiedi la condizione {@condition Incapacitated|XPHB}."
 			]
 		},
 		{
@@ -2475,7 +2475,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2488,7 +2488,7 @@
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"While you aren't wearing armor or wielding a {@item Shield|XPHB}, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement."
+				"Mentre non indossi un'armatura o non impugni un {@item Shield|XPHB}, ottieni la capacità di muoverti lungo superfici verticali e attraverso liquidi durante il tuo turno senza cadere durante il movimento."
 			]
 		},
 		{
@@ -2501,7 +2501,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.",
+				"La tua Raffica di Colpi, Difesa Paziente e Passo del Vento ottengono i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "",
@@ -2510,21 +2510,21 @@
 							"type": "entries",
 							"name": "Flurry of Blows",
 							"entries": [
-								"You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two."
+								"Puoi spendere 1 Focus Point per usare Raffica di colpi ed effettuare tre colpi senz'armi invece di due."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Patient Defense",
 							"entries": [
-								"When you expend a Focus Point to use Patient Defense, you gain a number of {@variantrule Temporary Hit Points|XPHB} equal to two rolls of your Martial Arts die."
+								"Quando spendi un Focus Point per usare la Difesa del Paziente, guadagni un numero di {@variantrule Temporary Hit Points|XPHB} pari a due tiri del tuo dado di Arti Marziali."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Step of the Wind",
 							"entries": [
-								"When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+								"Quando spendi un Focus Point per usare Passo del Vento, puoi scegliere una creatura consenziente entro 1,5 metri da te che sia di taglia Grande o inferiore. Muovi la creatura con te fino alla fine del tuo turno. Il movimento della creatura non provoca {@action Opportunity Attack|XPHB|Opportunity Attacks}."
 							]
 						}
 					]
@@ -2541,8 +2541,8 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: {@condition Charmed|XPHB}, {@condition Frightened|XPHB}, or {@condition Poisoned|XPHB}.",
-				"In addition, forgoing food and drink doesn't give you levels of {@condition Exhaustion|XPHB}."
+				"Attraverso la pura forza di volontà, puoi rimuovere da te stesso una delle seguenti condizioni alla fine di ciascuno dei tuoi turni: {@condition Charmed|XPHB}, {@condition Frightened|XPHB} o {@condition Poisoned|XPHB}.",
+				"Inoltre, rinunciare a cibi e bevande non ti dà livelli di {@condition Exhaustion|XPHB}."
 			]
 		},
 		{
@@ -2555,7 +2555,7 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"You gain a feature from your Monk subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse del Monaco."
 			]
 		},
 		{
@@ -2568,7 +2568,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2581,7 +2581,7 @@
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing."
+				"Ora puoi utilizzare la funzione Devia attacchi contro attacchi che infliggono qualsiasi tipo di danno, non solo contundente, perforante o tagliente."
 			]
 		},
 		{
@@ -2597,8 +2597,8 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"Your physical and mental discipline grant you proficiency in all saving throws.",
-				"Additionally, whenever you make a saving throw and fail, you can expend 1 Focus Point to reroll it, and you must use the new roll."
+				"La tua disciplina fisica e mentale ti garantisce la competenza in tutti i tiri salvezza.",
+				"Inoltre, ogni volta che effettui un tiro salvezza e fallisci, puoi spendere 1 Punto Focus per ripetere il tiro e devi utilizzare il nuovo tiro."
 			]
 		},
 		{
@@ -2611,7 +2611,7 @@
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"When you roll {@variantrule Initiative|XPHB} and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer."
+				"Quando tiri {@variantrule Initiative|XPHB} e non usi Metabolismo prodigioso, recuperi i Punti Focus spesi fino ad averne 4 se ne hai 3 o meno."
 			]
 		},
 		{
@@ -2624,7 +2624,7 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You gain a feature from your Monk subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse del Monaco."
 			]
 		},
 		{
@@ -2654,7 +2654,7 @@
 				"amount": 3
 			},
 			"entries": [
-				"At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the {@condition Incapacitated|XPHB} condition. During that time, you have {@variantrule Resistance|XPHB} to all damage except Force damage."
+				"All'inizio del tuo turno, puoi spendere 3 Punti Focus per rafforzarti contro i danni per 1 minuto o finché non raggiungi la condizione {@condition Incapacitated|XPHB}. Durante quel periodo, hai {@variantrule Resistance|XPHB} su tutti i danni tranne il danno della Forza."
 			]
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Irresistible Offense|XPHB} is recommended."
+				"Ottieni un {@filter Epic Boon feat|feats|category=EB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. {@feat Boon of Irresistible Offense|XPHB} è consigliato."
 			]
 		},
 		{
@@ -2680,7 +2680,7 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25."
+				"Hai sviluppato il tuo corpo e la tua mente a nuovi livelli. I tuoi punteggi di Destrezza e Saggezza aumentano di 4, fino a un massimo di 25."
 			]
 		}
 	],
@@ -2695,8 +2695,8 @@
 			"subclassSource": "FTD",
 			"level": 3,
 			"entries": [
-				"The dragon god Bahamut is known to travel the Material Plane in the guise of a young monk, and legend says that he founded the first monastery of the Way of the Ascendant Dragon in this guise. The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.",
-				"As a follower of the Way of the Ascendant Dragon, you decide how you unlocked the power of dragons within yourself. The Ascendant Dragon Origin table offers a number of possibilities.",
+				"Il dio drago Bahamut è noto per viaggiare nel Piano Materiale sotto le spoglie di un giovane monaco, e la leggenda dice che fondò il primo monastero della Via del Drago Ascendente in questa veste. L'insegnamento fondamentale di questa tradizione sostiene che emulando i draghi, un monaco diventa una parte più integrata del mondo e della sua magia. Alterando il loro spirito per risuonare con la potenza draconica, i monaci che seguono questa tradizione aumentano la loro abilità in battaglia, rafforzano i loro alleati e possono persino librarsi nell'aria su ali draconiche. Ma tutto questo potere è al servizio di un obiettivo più grande: raggiungere un'unità spirituale con l'essenza del Piano Materiale.",
+				"Come seguace della Via del Drago Ascendente, sei tu a decidere come sbloccare il potere dei draghi dentro di te. Il tavolo Ascendent Dragon Origin offre una serie di possibilità.",
 				{
 					"type": "table",
 					"caption": "Ascendant Dragon Origin",
@@ -2711,27 +2711,27 @@
 					"rows": [
 						[
 							"1",
-							"You honed your abilities by aligning your spirit with a dragon's world-altering power."
+							"Hai affinato le tue abilità allineando il tuo spirito con il potere di alterazione del mondo di un drago."
 						],
 						[
 							"2",
-							"A dragon personally took an active role in shaping your inner energy."
+							"Un drago ha assunto personalmente un ruolo attivo nel plasmare la tua energia interiore."
 						],
 						[
 							"3",
-							"You studied at a monastery that traces its teachings back centuries or more to a single dragon's instruction, or one that is devoted to a dragon god."
+							"Hai studiato in un monastero che fa risalire i suoi insegnamenti a secoli o più all'insegnamento di un singolo drago, o che è devoto a un dio drago."
 						],
 						[
 							"4",
-							"You spent long stretches meditating in the region around an ancient dragon's lair, absorbing that lair's ambient magic."
+							"Hai trascorso lunghi periodi meditando nella regione intorno alla tana di un antico drago, assorbendo la magia ambientale di quella tana."
 						],
 						[
 							"5",
-							"You found a scroll written in Draconic that contained inspiring new techniques."
+							"Hai trovato una pergamena scritta in Draconico che conteneva nuove tecniche stimolanti."
 						],
 						[
 							"6",
-							"After a dream featuring a five-handed dragonborn, you awoke with the mystical breath of dragons."
+							"Dopo un sogno con un dragonide a cinque mani, ti sei svegliato con il respiro mistico dei draghi."
 						]
 					]
 				},
@@ -2757,9 +2757,9 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Way of the Ascendant Dragon feature}",
-				"You can channel destructive waves of energy, like those created by the dragons you emulate. When you take the {@action Attack} action on your turn, you can replace one of the attacks with an exhalation of draconic energy in either a 20-foot cone or a 30-foot line that is 5 feet wide (your choice). Choose a damage type: acid, cold, fire, lightning, or poison. Each creature in that area must make a Dexterity saving throw against your ki save DC, taking damage of the chosen type equal to two rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.",
-				"At 11th level, the damage of this feature increases to three rolls of your Martial Arts die.",
-				"You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 2 ki points to use this feature again."
+				"Puoi incanalare onde distruttive di energia, come quelle create dai draghi che emuli. Quando esegui l'azione {@action Attack} nel tuo turno, puoi sostituire uno degli attacchi con un'espirazione di energia draconica in un cono di 20 piedi o in una linea di 9 metri larga 5 piedi (a tua scelta). Scegli un tipo di danno: acido, freddo, fuoco, fulmine o veleno. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza contro la tua CD del salvataggio ki, subendo danni del tipo scelto pari a due tiri di dado di Arti Marziali in caso di tiro salvezza fallito, o la metà di quel danno in caso di successo.",
+				"All'11° livello, il danno di questa caratteristica aumenta a tre tiri di dado di Arti Marziali.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo. Anche se non hai usi disponibili, puoi spendere 2 punti ki per utilizzare nuovamente questa funzione."
 			]
 		},
 		{
@@ -2774,7 +2774,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Way of the Ascendant Dragon feature}",
-				"You can channel draconic power to magnify your presence and imbue your unarmed strikes with the essence of a dragon's breath. You gain the following benefits:",
+				"Puoi incanalare il potere draconico per amplificare la tua presenza e infondere i tuoi colpi senz'armi con l'essenza del soffio di un drago. Ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -2782,17 +2782,17 @@
 						{
 							"type": "item",
 							"name": "Draconic Presence",
-							"entry": "If you fail a Charisma ({@skill Intimidation}) or Charisma ({@skill Persuasion}) check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a long rest."
+							"entry": "Se fallisci una prova di Carisma ({@skill Intimidation}) o Carisma ({@skill Persuasion}), puoi usare la tua reazione per ripetere il tiro, mentre attingi alla potente presenza dei draghi. Una volta che questa capacità trasforma un fallimento in un successo, non puoi usarla di nuovo finché non finisci un riposo lungo."
 						},
 						{
 							"type": "item",
 							"name": "Draconic Strike",
-							"entry": "When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison."
+							"entry": "Quando danneggi un bersaglio con un colpo senz'armi, puoi cambiare il tipo di danno in acido, freddo, fuoco, fulmine o veleno."
 						},
 						{
 							"type": "item",
 							"name": "Tongue of Dragons",
-							"entry": "You learn to speak, read, and write {@language Draconic} or one other language of your choice."
+							"entry": "Impari a parlare, leggere e scrivere {@language Draconic} o un'altra lingua a tua scelta."
 						}
 					]
 				}
@@ -2810,8 +2810,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 6th-level Way of the Ascendant Dragon feature}",
-				"When you use your Step of the Wind, you can unfurl spectral draconic wings from your back that vanish at the end of your turn. While the wings exist, you have a flying speed equal to your walking speed.",
-				"You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+				"Quando usi il tuo Passo del Vento, puoi aprire le ali draconiche spettrali dalla tua schiena che svaniscono alla fine del tuo turno. Finché esistono le ali, la tua velocità di volo è pari alla velocità di camminata.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -2826,7 +2826,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 11th-level Way of the Ascendant Dragon feature}",
-				"The power of your draconic spirit now radiates from you, warding your allies or inspiring fear in your enemies. As a bonus action, you can create an aura of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:",
+				"Il potere del tuo spirito draconico ora si irradia da te, proteggendo i tuoi alleati o ispirando paura nei tuoi nemici. Come azione bonus, puoi creare un'aura di potere draconico che si irradia a 3 metri da te per 1 minuto. Per la durata, ottieni uno dei seguenti effetti a tua scelta:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -2834,16 +2834,16 @@
 						{
 							"type": "item",
 							"name": "Frightful Presence",
-							"entry": "When you create this aura, and as a bonus action on subsequent turns, you can choose a creature within the aura. The target must succeed on a Wisdom saving throw against your ki save DC or become {@condition frightened} of you for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save."
+							"entry": "Quando crei quest'aura, e come azione bonus nei turni successivi, puoi scegliere una creatura all'interno dell'aura. Il bersaglio deve riuscire in un tiro salvezza su Saggezza contro la tua CD del salvataggio ki o diventare {@condition frightened} tuo per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso se il tiro salvezza riesce."
 						},
 						{
 							"type": "item",
 							"name": "Resistance",
-							"entry": "Choose a damage type when you activate this aura: acid, cold, fire, lightning, or poison. You and your allies within the aura have resistance to that damage."
+							"entry": "Scegli un tipo di danno quando attivi quest'aura: acido, freddo, fuoco, fulmine o veleno. Tu e i tuoi alleati all'interno dell'aura avete resistenza a quel danno."
 						}
 					]
 				},
-				"Once you create this aura, you can't create it again until you finish a long rest, unless you expend 3 ki points to create it again."
+				"Una volta creata quest'aura, non è possibile crearla di nuovo finché non si termina un riposo lungo, a meno che non si spendano 3 punti Ki per crearla di nuovo."
 			]
 		},
 		{
@@ -2858,7 +2858,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 17th-level Way of the Ascendant Dragon feature}",
-				"Your draconic spirit reaches its peak. You gain the following benefits:",
+				"Il tuo spirito draconico raggiunge il suo apice. Ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -2866,17 +2866,17 @@
 						{
 							"type": "item",
 							"name": "Augment Breath",
-							"entry": "When you use your Breath of the Dragon, you can spend 1 ki point to augment its shape and power. The exhalation of draconic energy becomes either a 60-foot cone or a 90-foot line that is 5 feet wide (your choice), and each creature in that area takes damage equal to four rolls of your Martial Arts die on a failed save, or half as much damage on a successful one."
+							"entry": "Quando usi il tuo Soffio del Drago, puoi spendere 1 punto ki per aumentarne la forma e il potere. L'espirazione dell'energia draconica diventa un cono di 18 metri o una linea di 90 metri larga 1,5 metri (a tua scelta), e ogni creatura in quell'area subisce danni pari a quattro tiri di dado nelle Arti Marziali se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera."
 						},
 						{
 							"type": "item",
 							"name": "Blindsight",
-							"entry": "You gain {@sense blindsight} out to 10 feet. Within that range, you can effectively see anything that isn't behind {@quickref Cover||3||total cover}, even if you're {@condition blinded} or in darkness. Moreover, you can see an {@condition invisible} creature within that range, unless the creature successfully hides from you."
+							"entry": "Guadagni {@sense blindsight} fino a 10 piedi. All'interno di tale intervallo, puoi effettivamente vedere tutto ciò che non è dietro {@quickref Cover||3||total cover}, anche se sei {@condition blinded} o nell'oscurità. Inoltre, puoi vedere una creatura {@condition invisible} entro quell'intervallo, a meno che la creatura non si nasconda con successo."
 						},
 						{
 							"type": "item",
 							"name": "Explosive Fury",
-							"entry": "When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your aura. Each of those creatures must succeed on a Dexterity saving throw against your ki save DC or take {@damage 3d10} acid, cold, fire, lightning, or poison damage (your choice)."
+							"entry": "Quando attivi il tuo Aspetto del Wyrm, la furia draconica esplode da te. Scegli un numero qualsiasi di creature che puoi vedere nella tua aura. Ognuna di quelle creature deve riuscire in un tiro salvezza di Destrezza contro la tua CD del salvataggio ki o subire {@damage 3d10} danni da acido, freddo, fuoco, fulmine o veleno (a tua scelta)."
 						}
 					]
 				}
@@ -2892,8 +2892,8 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.",
-				"Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.",
+				"Segui una tradizione monastica che ti insegna a sfruttare gli elementi. Quando focalizzi il tuo ki, puoi allinearti con le forze della creazione e piegare i quattro elementi alla tua volontà, usandoli come un'estensione del tuo corpo. Alcuni membri di questa tradizione si dedicano a un singolo elemento, ma altri intrecciano insieme gli elementi.",
+				"Molti monaci di questa tradizione tatuano i loro corpi con rappresentazioni dei loro poteri ki, comunemente immaginati come draghi attorcigliati, ma anche come fenici, pesci, piante, montagne e creste di onde.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Disciple of the Elements|Monk||Four Elements||3"
@@ -2915,16 +2915,16 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.",
-				"You know the Elemental Attunement discipline and one other elemental discipline of your choice. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level.",
-				"Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.",
+				"Impari le discipline magiche che sfruttano il potere dei quattro elementi. Una disciplina richiede che tu spenda punti ki ogni volta che la usi.",
+				"Conosci la disciplina Armonia Elementale e un'altra disciplina elementale di tua scelta. Apprendi una disciplina elementale aggiuntiva a tua scelta al 6°, 11° e 17° livello.",
+				"Ogni volta che apprendi una nuova disciplina elementale, puoi anche sostituire una disciplina elementale che già conosci con una disciplina diversa.",
 				{
 					"type": "entries",
 					"name": "Casting Elemental Spells",
 					"entries": [
-						"Some elemental disciplines allow you to cast spells. See {@book chapter 10|PHB|10} of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.",
-						"Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as {@spell burning hands} does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast {@spell burning hands}, you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).",
-						"The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.",
+						"Alcune discipline elementali ti permettono di lanciare incantesimi. Vedi {@book chapter 10|PHB|10} del Manuale del Giocatore per le regole generali del lancio degli incantesimi. Per lanciare uno di questi incantesimi, usi il suo tempo di lancio e altre regole, ma non è necessario fornirgli componenti materiali.",
+						"Una volta raggiunto il 5° livello in questa classe, puoi spendere punti ki aggiuntivi per aumentare il livello di un incantesimo di disciplina elementale che lanci, a condizione che l'incantesimo abbia un effetto potenziato a un livello superiore, come fa {@spell burning hands}. Il livello dell'incantesimo aumenta di 1 per ogni punto ki aggiuntivo speso. Ad esempio, se sei un monaco di 5° livello e usi Colpo di cenere spazzante per lanciare {@spell burning hands}, puoi spendere 3 punti ki per lanciarlo come incantesimo di 2° livello (il costo base della disciplina è di 2 punti ki più 1).",
+						"Il numero massimo di punti ki che puoi spendere per lanciare un incantesimo in questo modo (incluso il costo in punti ki base e qualsiasi punto ki aggiuntivo speso per aumentarne il livello) è determinato dal tuo livello da monaco, come mostrato nella tabella Incantesimi e punti Ki. Al 5° livello, puoi spendere fino a 3 punti ki; questo aumenta a 4 punti Ki al 9° livello, 5 al 13° livello e 6 al 17° livello.",
 						{
 							"type": "table",
 							"caption": "Spells and Ki Points",
@@ -2970,7 +2970,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be the level in this class to learn the discipline.",
+				"Le discipline elementari sono presentate in ordine alfabetico. Se una disciplina richiede un livello, devi essere il livello in questa classe per imparare la disciplina.",
 				{
 					"type": "options",
 					"count": 2,
@@ -3070,8 +3070,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You learn one additional elemental discipline of your choice. You should know 2 elemental disciplines, as well as Elemental Attunement.",
-				"Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline."
+				"Apprendi una disciplina elementale aggiuntiva a tua scelta. Dovresti conoscere 2 discipline elementali, oltre all'Armonia Elementale.",
+				"Ogni volta che apprendi una nuova disciplina elementale, puoi anche sostituire una disciplina elementale che già conosci con una disciplina diversa."
 			]
 		},
 		{
@@ -3085,8 +3085,8 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"You learn one additional elemental discipline of your choice. You should know 3 elemental disciplines, as well as Elemental Attunement.",
-				"Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline."
+				"Apprendi una disciplina elementale aggiuntiva a tua scelta. Dovresti conoscere 3 discipline elementali, oltre all'Armonia Elementale.",
+				"Ogni volta che apprendi una nuova disciplina elementale, puoi anche sostituire una disciplina elementale che già conosci con una disciplina diversa."
 			]
 		},
 		{
@@ -3100,8 +3100,8 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You learn one additional elemental discipline of your choice. You should know 4 elemental disciplines, as well as Elemental Attunement.",
-				"Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline."
+				"Apprendi una disciplina elementale aggiuntiva a tua scelta. Dovresti conoscere 4 discipline elementali, oltre all'Armonia Elementale.",
+				"Ogni volta che apprendi una nuova disciplina elementale, puoi anche sostituire una disciplina elementale che già conosci con una disciplina diversa."
 			]
 		},
 		{
@@ -3115,7 +3115,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.",
+				"I monaci della Via della Mano Aperta sono i massimi maestri del combattimento nelle arti marziali, armati o disarmati. Imparano tecniche per spingere e inciampare i loro avversari, manipolare il ki per curare i danni ai loro corpi e praticano la meditazione avanzata che può proteggerli dai danni.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Open Hand Technique|Monk||Open Hand||3"
@@ -3134,13 +3134,13 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.",
+				"Puoi manipolare il ki del tuo nemico quando imbrigli il tuo. Ogni volta che colpisci una creatura con uno degli attacchi concessi dalla tua Raffica di Colpi, puoi imporre a quel bersaglio uno dei seguenti effetti.",
 				{
 					"type": "list",
 					"items": [
-						"It must succeed on a Dexterity saving throw or be knocked {@condition prone}.",
-						"It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.",
-						"It can't take reactions until the end of your next turn."
+						"Deve riuscire in un tiro salvezza di Destrezza o essere buttato giù {@condition prone}.",
+						"Deve effettuare un tiro salvezza su Forza. Se fallisce, puoi spingerlo fino a 15 piedi lontano da te.",
+						"Non può effettuare reazioni fino alla fine del tuo prossimo turno."
 					]
 				}
 			]
@@ -3157,7 +3157,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again."
+				"Ottieni la capacità di guarire te stesso. Con un'azione, puoi recuperare punti ferita pari a tre volte il tuo livello da monaco. È necessario terminare un riposo lungo prima di poter utilizzare nuovamente questa capacità."
 			]
 		},
 		{
@@ -3172,7 +3172,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a {@spell sanctuary} spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus."
+				"A partire dall'11° livello, puoi entrare in una meditazione speciale che ti circonda con un'aura di pace. Alla fine di un riposo lungo, ottieni l'effetto di un incantesimo {@spell sanctuary} che dura fino all'inizio del tuo riposo lungo successivo (l'incantesimo può terminare presto come di consueto). La CD del tiro salvezza per l'incantesimo è pari a 8 + il tuo modificatore di Saggezza + il tuo bonus di competenza."
 			]
 		},
 		{
@@ -3191,8 +3191,8 @@
 				"amount": 3
 			},
 			"entries": [
-				"You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes {@damage 10d10} necrotic damage.",
-				"You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action."
+				"Ottieni la capacità di creare vibrazioni letali nel corpo di qualcuno. Quando colpisci una creatura con un colpo senz'armi, puoi spendere 3 punti ki per avviare queste vibrazioni impercettibili, che durano per un numero di giorni pari al tuo livello da monaco. Le vibrazioni sono innocue a meno che non usi la tua azione per porvi fine. Per fare ciò, tu e il bersaglio dovete trovarvi sullo stesso piano di esistenza. Quando usi questa azione, la creatura deve effettuare un tiro salvezza su Costituzione. Se fallisce, viene ridotto a 0 punti ferita. Se ha successo, subisce {@damage 10d10} danni necrotici.",
+				"Puoi avere solo una creatura alla volta sotto l'effetto di questa capacità. Puoi scegliere di porre fine alle vibrazioni in modo innocuo senza utilizzare un'azione."
 			]
 		},
 		{
@@ -3205,7 +3205,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadow dancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.",
+				"I monaci della Via dell'Ombra seguono una tradizione che valorizza la furtività e il sotterfugio. Questi monaci potrebbero essere chiamati ninja o danzatori dell'ombra e servono come spie e assassini. A volte i membri di un monastero ninja sono membri della famiglia, che formano un clan che ha giurato di mantenere il segreto sulle loro arti e missioni. Altri monasteri sono più simili a corporazioni di ladri, che affidano i loro servizi a nobili, ricchi mercanti o chiunque altro possa pagare le loro parcelle. Indipendentemente dai loro metodi, i capi di questi monasteri si aspettano l’obbedienza incondizionata dei loro studenti.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Shadow Arts|Monk||Shadow||3"
@@ -3227,7 +3227,7 @@
 				"amount": 2
 			},
 			"entries": [
-				"You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast {@spell darkness}, {@spell darkvision}, {@spell pass without trace}, or {@spell silence}, without providing material components. Additionally, you gain the {@spell minor illusion} cantrip if you don't already know it."
+				"Puoi usare il tuo ki per duplicare gli effetti di determinati incantesimi. Come azione, puoi spendere 2 punti ki per lanciare {@spell darkness}, {@spell darkvision}, {@spell pass without trace} o {@spell silence}, senza fornire componenti materiali. Inoltre, ottieni il trucchetto {@spell minor illusion} se non lo conosci già."
 			]
 		},
 		{
@@ -3241,7 +3241,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn."
+				"Ottieni la capacità di passare da un'ombra all'altra. Quando sei in penombra o al buio, come azione bonus puoi teletrasportarti fino a 18 metri in uno spazio non occupato che puoi vedere e che è anch'esso in penombra o al buio. Avrai quindi vantaggio sul primo attacco in mischia che effettuerai prima della fine del turno."
 			]
 		},
 		{
@@ -3255,7 +3255,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become {@condition invisible}. You remain {@condition invisible} until you make an attack, cast a spell, or are in an area of bright light."
+				"All'11° livello hai imparato a diventare tutt'uno con le ombre. Quando ti trovi in ​​un'area di scarsa illuminazione o oscurità, puoi usare la tua azione per diventare {@condition invisible}. Rimani {@condition invisible} finché non effettui un attacco, lanci un incantesimo o ti trovi in ​​un'area di luce intensa."
 			]
 		},
 		{
@@ -3269,7 +3269,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"At 17th level, you can exploit a creature's momentary distraction when it is hit by an attack. Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature."
+				"Al 17° livello, puoi sfruttare la distrazione momentanea di una creatura quando viene colpita da un attacco. Ogni volta che una creatura entro 1,5 metri da te viene colpita da un attacco effettuato da una creatura diversa da te, puoi usare la tua reazione per effettuare un attacco in mischia contro quella creatura."
 			]
 		},
 		{
@@ -3282,7 +3282,7 @@
 			"subclassSource": "SCAG",
 			"level": 3,
 			"entries": [
-				"Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.",
+				"I monaci della Via della Lunga Morte sono ossessionati dal significato e dai meccanismi della morte. Catturano le creature e preparano elaborati esperimenti per catturare, registrare e comprendere i momenti della loro scomparsa. Usano questa conoscenza per guidare la loro comprensione delle arti marziali, ottenendo uno stile di combattimento mortale.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Touch of Death|Monk||Long Death|SCAG|3"
@@ -3300,7 +3300,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier + your monk level (minimum of 1 temporary hit point)."
+				"A partire da quando scegli questa tradizione al 3° livello, il tuo studio della morte ti consente di estrarre vitalità da un'altra creatura mentre si avvicina alla sua morte. Quando riduci una creatura entro 1,5 metri da te a 0 punti ferita, ottieni punti ferita temporanei pari al tuo modificatore di Saggezza + il tuo livello da monaco (minimo 1 punto ferita temporaneo)."
 			]
 		},
 		{
@@ -3314,7 +3314,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be {@condition frightened} of you until the end of your next turn."
+				"Al 6° livello, ottieni la capacità di destabilizzare o terrorizzare coloro che ti circondano come un'azione, poiché la tua anima è stata toccata dall'ombra della morte. Quando esegui questa azione, ogni creatura entro 9 metri da te che può vederti deve riuscire un tiro salvezza su Saggezza o essere {@condition frightened} da te fino alla fine del tuo turno successivo."
 			]
 		},
 		{
@@ -3331,7 +3331,7 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"Beginning at 11th level, you use your familiarity with death to escape its grasp. When you are reduced to 0 hit points, you can expend 1 ki point (no action required) to have 1 hit point instead."
+				"A partire dall'11° livello, usi la tua familiarità con la morte per sfuggire alla sua presa. Quando sei ridotto a 0 punti ferita, puoi spendere 1 punto ki (non è richiesta alcuna azione) per avere invece 1 punto ferita."
 			]
 		},
 		{
@@ -3348,7 +3348,7 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"Starting at 17th level, your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw, and it takes {@damage 2d10} necrotic damage per ki point spent on a failed save, or half as much damage on a successful one."
+				"A partire dal 17° livello, il tuo tocco può incanalare l'energia della morte in una creatura. Con un'azione, tocchi una creatura entro 1,5 metri da te e spendi da 1 a 10 punti ki. Il bersaglio deve effettuare un tiro salvezza su Costituzione e subisce {@damage 2d10} danni necrotici per punto ki speso se il tiro salvezza fallisce, o la metà del danno se lo riesce."
 			]
 		},
 		{
@@ -3361,7 +3361,7 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.",
+				"Un monaco che segue la Via del Sé Astrale crede che il proprio corpo sia un'illusione. Vedono il loro ki come una rappresentazione della loro vera forma, un sé astrale. Questo sé astrale ha la capacità di essere una forza di ordine o disordine, con alcuni monasteri che addestrano gli studenti a usare il loro potere per proteggere i deboli e altri che istruiscono gli aspiranti su come manifestare il loro vero sé al servizio dei potenti.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Forms of Your Astral Self|Monk||Astral Self|TCE|3"
@@ -3387,16 +3387,16 @@
 			},
 			"entries": [
 				"{@i 3rd-level Way of the Astral Self feature}",
-				"Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.",
-				"For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are {@condition incapacitated} or die.",
-				"While the spectral arms are present, you gain the following benefits:",
+				"La tua padronanza del tuo ki ti consente di evocare una parte del tuo sé astrale. Come azione bonus, puoi spendere 1 punto ki per evocare le braccia del tuo sé astrale. Quando lo fai, ogni creatura a tua scelta che puoi vedere entro 3 metri da te deve riuscire un tiro salvezza su Destrezza o subire danni da forza pari a due tiri del tuo dado di Arti Marziali.",
+				"Per 10 minuti, queste braccia spettrali si librano vicino alle tue spalle o circondano le tue braccia (a tua scelta). Sei tu a determinare l'aspetto delle braccia e queste svaniscono presto se sei {@condition incapacitated} o muori.",
+				"Finché le braccia spettrali sono presenti, ottieni i seguenti benefici:",
 				{
 					"type": "list",
 					"items": [
-						"You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.",
-						"You can use the spectral arms to make unarmed strikes.",
-						"When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.",
-						"The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force."
+						"Puoi usare il tuo modificatore di Saggezza al posto del tuo modificatore di Forza quando effettui prove di Forza e tiri salvezza su Forza.",
+						"Puoi usare le braccia spettrali per effettuare attacchi senz'armi.",
+						"Quando effettui un colpo senz'armi con le braccia nel tuo turno, la tua portata è di 1,5 metri maggiore del normale.",
+						"I colpi senz'armi che effettui con le braccia possono utilizzare il tuo modificatore di Saggezza al posto del tuo modificatore di Forza o Destrezza per i tiri per colpire e per i danni, e il loro tipo di danno è la forza."
 					]
 				}
 			]
@@ -3413,8 +3413,8 @@
 			"header": 1,
 			"type": "inset",
 			"entries": [
-				"The astral self is a translucent embodiment of the monk's soul. As a result, an astral self can reflect aspects of a monk's background, ideals, flaws, and bonds, and an astral self doesn't necessarily look anything like the monk. For example, the astral self of a lanky human might be reminiscent of a minotaur-the strength of which the monk feels within. Similarly, an orc monk might manifest gossamer arms and a delicate visage, representing the gentle beauty of the orc's soul. Each astral self is unique, and some of the monks of this monastic tradition are known more for the appearance of their astral self than for their physical appearance.",
-				"When choosing this path, consider the quirks that define your monk. Are you obsessed with something? Are you driven by justice or a selfish desire? Any of these motivations could manifest in the form of your astral self."
+				"Il sé astrale è un'incarnazione traslucida dell'anima del monaco. Di conseguenza, un sé astrale può riflettere aspetti del background, degli ideali, dei difetti e dei legami di un monaco, e un sé astrale non assomiglia necessariamente al monaco. Ad esempio, il sé astrale di un essere umano allampanato potrebbe ricordare un minotauro, di cui il monaco sente la forza dentro. Allo stesso modo, un monaco orco potrebbe manifestare braccia sottilissime e un viso delicato, che rappresentano la dolce bellezza dell'anima dell'orco. Ogni sé astrale è unico e alcuni monaci di questa tradizione monastica sono conosciuti più per l'aspetto del loro sé astrale che per il loro aspetto fisico.",
+				"Quando scegli questo percorso, considera le peculiarità che definiscono il tuo monaco. Sei ossessionato da qualcosa? Sei guidato dalla giustizia o da un desiderio egoistico? Ognuna di queste motivazioni potrebbe manifestarsi sotto forma del tuo sé astrale."
 			]
 		},
 		{
@@ -3432,28 +3432,28 @@
 			},
 			"entries": [
 				"{@i 6th-level Way of the Astral Self feature}",
-				"You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are {@condition incapacitated} or die.",
-				"The spectral visage covers your face like a helmet or mask. You determine its appearance.",
-				"While the spectral visage is present, you gain the following benefits.",
+				"Puoi evocare il volto del tuo sé astrale. Come azione bonus, o come parte dell'azione bonus intrapresa per attivare le Armi del Sé Astrale, è possibile spendere 1 punto Ki per evocare questo volto per 10 minuti. Svanisce presto se sei {@condition incapacitated} o muori.",
+				"Il volto spettrale copre il tuo viso come un elmo o una maschera. Sei tu a determinarne l'aspetto.",
+				"Finché il volto spettrale è presente, ottieni i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Astral Sight",
 					"entries": [
-						"You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet."
+						"Puoi vedere normalmente nell'oscurità, sia magica che non magica, fino a una distanza di 36 metri."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Wisdom of the Spirit",
 					"entries": [
-						"You have advantage on Wisdom ({@skill Insight}) and Charisma ({@skill Intimidation}) checks."
+						"Hai vantaggio sulle prove di Saggezza ({@skill Insight}) e Carisma ({@skill Intimidation})."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Word of the Spirit",
 					"entries": [
-						"When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you."
+						"Quando parli, puoi rivolgere le tue parole a una creatura di tua scelta che puoi vedere entro 18 metri da te, facendo in modo che solo quella creatura possa sentirti. In alternativa, puoi amplificare la tua voce in modo che tutte le creature entro 180 metri possano sentirti."
 					]
 				}
 			]
@@ -3470,20 +3470,20 @@
 			"header": 2,
 			"entries": [
 				"{@i 11th-level Way of the Astral Self feature}",
-				"When you have both your astral arms and visage summoned, you can cause the body of your astral self to appear (no action required). This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance.",
-				"While the spectral body is present, you gain the following benefits.",
+				"Quando hai evocato sia le tue braccia astrali che il tuo volto, puoi far apparire il corpo del tuo sé astrale (non è richiesta alcuna azione). Questo corpo spettrale copre la tua forma fisica come un'armatura, collegandosi con le braccia e il viso. Sei tu a determinarne l'aspetto.",
+				"Finché il corpo spettrale è presente, ottieni i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Deflect Energy",
 					"entries": [
-						"When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by {@dice 1d10} + your Wisdom modifier (minimum reduction of 1)."
+						"Quando subisci danni da acido, freddo, fuoco, forza, fulmine o tuono, puoi usare la tua reazione per deviarli. Quando lo fai, il danno che subisci viene ridotto del {@dice 1d10} + il tuo modificatore di Saggezza (riduzione minima di 1)."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Empowered Arms",
 					"entries": [
-						"Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die."
+						"Una volta in ciascuno dei tuoi turni in cui colpisci un bersaglio con le Braccia del Sé Astrale, puoi infliggere al bersaglio un danno extra pari al tuo dado di Arti Marziali."
 					]
 				}
 			]
@@ -3504,20 +3504,20 @@
 			},
 			"entries": [
 				"{@i 17th-level Way of the Astral Self feature}",
-				"Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are {@condition incapacitated} or die.",
-				"While your astral self is awakened, you gain the following benefits.",
+				"La tua connessione con il tuo sé astrale è completa, permettendoti di liberare tutto il suo potenziale. Come azione bonus, puoi spendere 5 punti ki per evocare le braccia, il volto e il corpo del tuo sé astrale e risvegliarlo per 10 minuti. Questo risveglio termina presto se sei {@condition incapacitated} o muori.",
+				"Mentre il tuo sé astrale è risvegliato, ottieni i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Armor of the Spirit",
 					"entries": [
-						"You gain a +2 bonus to Armor Class."
+						"Ottieni un bonus di +2 alla Classe Armatura."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Astral Barrage",
 					"entries": [
-						"Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms."
+						"Ogni volta che usi la funzione Attacco Extra per attaccare due volte, puoi invece attaccare tre volte se tutti gli attacchi vengono effettuati con le tue braccia astrali."
 					]
 				}
 			]
@@ -3532,9 +3532,9 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.",
-				"Those who follow the Way of Mercy might be members of a religious order, administering to the needy and making grim choices rooted in reality rather than idealism. Some might be gentle-voiced healers, beloved by their communities, while others might be masked bringers of macabre mercies.",
-				"The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.",
+				"I monaci della Via della Misericordia imparano a manipolare la forza vitale degli altri per portare aiuto a chi ne ha bisogno. Sono medici erranti che si prendono cura dei poveri e dei sofferenti. Tuttavia, a coloro che non possono essere aiutati, portano una fine rapida come atto di misericordia.",
+				"Coloro che seguono la Via della Misericordia potrebbero essere membri di un ordine religioso, che si prende cura dei bisognosi e fa scelte tristi radicate nella realtà piuttosto che nell’idealismo. Alcuni potrebbero essere guaritori dalla voce gentile, amati dalle loro comunità, mentre altri potrebbero essere portatori mascherati di macabra misericordia.",
+				"Coloro che percorrono questa via solitamente indossano abiti con profondi cappucci e spesso nascondono i loro volti con maschere, presentandosi come portatori senza volto di vita e morte.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Implements of Mercy|Monk||Mercy|TCE|3"
@@ -3564,7 +3564,7 @@
 			},
 			"entries": [
 				"{@i 3rd-level Way of Mercy feature}",
-				"You use your ki to inflict wounds. When you hit a creature with an unarmed strike, you can spend 1 ki point to deal extra necrotic damage equal to one roll of your Martial Arts die + your Wisdom modifier. You can use this feature only once per turn."
+				"Usi il tuo ki per infliggere ferite. Quando colpisci una creatura con un colpo senz'armi, puoi spendere 1 punto ki per infliggere danni necrotici extra pari a un tiro del tuo dado di Arti Marziali + il tuo modificatore di Saggezza. Puoi utilizzare questa funzione solo una volta per turno."
 			]
 		},
 		{
@@ -3582,8 +3582,8 @@
 			},
 			"entries": [
 				"{@i 3rd-level Way of Mercy feature}",
-				"Your mystical touch can mend wounds. As an action, you can spend 1 ki point to touch a creature and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.",
-				"When you use your Flurry of Blows, you can replace one of the unarmed strikes with a use of this feature without spending a ki point for the healing."
+				"Il tuo tocco mistico può guarire le ferite. Come azione, puoi spendere 1 punto ki per toccare una creatura e ripristinare un numero di punti ferita pari al tiro del tuo dado di Arti Marziali + il tuo modificatore di Saggezza.",
+				"Quando usi la tua Raffica di Colpi, puoi sostituire uno dei colpi senz'armi con l'uso di questa funzione senza spendere un punto ki per la guarigione."
 			]
 		},
 		{
@@ -3598,8 +3598,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Way of Mercy feature}",
-				"You gain proficiency in the {@skill Insight} and {@skill Medicine} skills, and you gain proficiency with the {@item herbalism kit|PHB}.",
-				"You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table.",
+				"Acquisisci competenza nelle abilità {@skill Insight} e {@skill Medicine} e acquisisci competenza con {@item herbalism kit|PHB}.",
+				"Ottieni anche una maschera speciale, che indossi spesso quando usi le funzionalità di questa sottoclasse. Sei tu a determinarne l'aspetto o a generarlo casualmente lanciando sulla tabella Maschera Misericordiosa.",
 				{
 					"type": "table",
 					"caption": "Merciful Mask",
@@ -3614,27 +3614,27 @@
 					"rows": [
 						[
 							"1",
-							"Raven"
+							"Corvo"
 						],
 						[
 							"2",
-							"Blank and white"
+							"Vuoto e bianco"
 						],
 						[
 							"3",
-							"Crying visage"
+							"Volto piangente"
 						],
 						[
 							"4",
-							"Laughing visage"
+							"Volto ridente"
 						],
 						[
 							"5",
-							"Skull"
+							"Cranio"
 						],
 						[
 							"6",
-							"Butterfly"
+							"Farfalla"
 						]
 					]
 				}
@@ -3652,9 +3652,9 @@
 			"header": 2,
 			"entries": [
 				"{@i 6th-level Way of Mercy feature}",
-				"You can administer even greater cures with a touch, and if you feel it's necessary, you can use your knowledge to cause harm.",
-				"When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: {@condition blinded}, {@condition deafened}, {@condition paralyzed}, {@condition poisoned}, or {@condition stunned}.",
-				"When you use Hand of Harm on a creature, you can subject that creature to the {@condition poisoned} condition until the end of your next turn."
+				"Puoi somministrare cure ancora più potenti con un tocco e, se lo ritieni necessario, puoi usare la tua conoscenza per causare danni.",
+				"Quando usi Mano curativa su una creatura, puoi anche porre fine a una malattia o una delle seguenti condizioni che colpiscono la creatura: {@condition blinded}, {@condition deafened}, {@condition paralyzed}, {@condition poisoned} o {@condition stunned}.",
+				"Quando usi Mano del Danno su una creatura, puoi sottoporla alla condizione {@condition poisoned} fino alla fine del tuo turno successivo."
 			]
 		},
 		{
@@ -3669,8 +3669,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 11th-level Way of Mercy feature}",
-				"You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can now replace each of the unarmed strikes with a use of your Hand of Healing, without spending ki points for the healing.",
-				"In addition, when you make an unarmed strike with Flurry of Blows, you can use Hand of Harm with that strike without spending the ki point for Hand of Harm. You can still use Hand of Harm only once per turn."
+				"Ora puoi distribuire una raffica di conforto e dolore. Quando usi Raffica di colpi, ora puoi sostituire ciascuno dei colpi senz'armi con l'uso della tua Mano curativa, senza spendere punti ki per la guarigione.",
+				"Inoltre, quando effettui un colpo senz'armi con Raffica di colpi, puoi usare Mano del danno con quel colpo senza spendere il punto ki per Mano del danno. Puoi comunque utilizzare la Mano del Danno solo una volta per turno."
 			]
 		},
 		{
@@ -3689,8 +3689,8 @@
 			},
 			"entries": [
 				"{@i 17th-level Way of Mercy feature}",
-				"Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to {@dice 4d10} + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: {@condition blinded}, {@condition deafened}, {@condition paralyzed}, {@condition poisoned}, and {@condition stunned}.",
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"La tua padronanza dell'energia vitale apre la porta alla misericordia definitiva. Come azione, puoi toccare il cadavere di una creatura morta nelle ultime 24 ore e spendere 5 punti ki. La creatura poi ritorna in vita, riguadagnando un numero di punti ferita pari a {@dice 4d10} + il tuo modificatore di Saggezza. Se la creatura muore mentre era soggetta a una delle seguenti condizioni, resuscita senza averle rimosse: {@condition blinded}, {@condition deafened}, {@condition paralyzed}, {@condition poisoned} e {@condition stunned}.",
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -3704,8 +3704,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Driven by the pursuit of knowledge and its scholars' worship of {@deity The Knowing Mentor|Exandria|TDCSR}, the {@book Library of the Cobalt Soul|TDCSR|2|Library of the Cobalt Soul} is one of the best-respected and most heavily guarded repositories of tomes, history, and information in all Exandria. People from all lands come to the library to seek knowledge, and those particularly dedicated to the virtues of truth often pledge their minds and bodies to the {@book Cobalt Soul's|TDCSR|2|Library of the Cobalt Soul} cause. To become a member of the {@book Cobalt Soul|TDCSR|2|Library of the Cobalt Soul} is to give oneself over to a quest dedicated to unveiling life's mysteries, bringing light to the secrets of concealed evil, and guarding the most powerful and dangerous of truths from those whose unwholesome thirst for knowledge might bring death and suffering to others.",
-				"The monks of the {@book Cobalt Soul|TDCSR|2|Library of the Cobalt Soul} are the embodiment of the maxim: \"Know your enemy.\" Through tireless research, they steel themselves against the unrelenting tides of evil. Through rigorous training, they learn to break through their foes' mental and physical defenses. Then, once the fight is done, they record their findings for future generations of monks to study.",
+				"Spinto dalla ricerca della conoscenza e dal culto di {@deity The Knowing Mentor|Exandria|TDCSR} da parte dei suoi studiosi, il {@book Library of the Cobalt Soul|TDCSR|2|Library of the Cobalt Soul} è uno dei depositi di tomi, storia e informazioni più rispettati e custoditi di tutta Exandria. Persone provenienti da tutti i paesi vengono in biblioteca per cercare la conoscenza e coloro che sono particolarmente dediti alle virtù della verità spesso impegnano la propria mente e il proprio corpo alla causa {@book Cobalt Soul's|TDCSR|2|Library of the Cobalt Soul}. Diventare un membro del {@book Cobalt Soul|TDCSR|2|Library of the Cobalt Soul} significa dedicarsi a una ricerca dedicata a svelare i misteri della vita, portare luce ai segreti del male nascosto e proteggere la verità più potente e pericolosa da coloro la cui malsana sete di conoscenza potrebbe portare morte e sofferenza agli altri.",
+				"I monaci del {@book Cobalt Soul|TDCSR|2|Library of the Cobalt Soul} sono l'incarnazione della massima: \"Conosci il tuo nemico\". Attraverso una ricerca instancabile, si rafforzano contro le incessanti ondate del male. Attraverso un addestramento rigoroso, imparano a sfondare le difese mentali e fisiche dei loro nemici. Quindi, una volta terminato il combattimento, registrano le loro scoperte affinché le future generazioni di monaci possano studiarle.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Extract Aspects|Monk|PHB|Cobalt Soul|TDCSR|3"
@@ -3723,8 +3723,8 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Starting at 3rd level, you can strike pressure points to intuit crucial information about a foe. When you hit a creature with one of the attacks granted by your Flurry of Blows, you can analyze it. Whenever an analyzed creature misses you with an attack, you can immediately use your reaction to make an unarmed strike against that creature if it's within your reach. This benefit lasts until you finish a {@quickref resting|PHB|2|0|short or long rest}.",
-				"Additionally, when you analyze a creature, you learn all of its damage vulnerabilities, damage resistances, damage immunities, and condition immunities."
+				"A partire dal 3° livello, puoi colpire i punti di pressione per intuire informazioni cruciali su un nemico. Quando colpisci una creatura con uno degli attacchi concessi dalla tua Raffica di Colpi, puoi analizzarla. Ogni volta che una creatura analizzata ti manca con un attacco, puoi immediatamente usare la tua reazione per sferrare un colpo senz'armi contro quella creatura se è alla tua portata. Questo vantaggio dura fino al completamento di un {@quickref resting|PHB|2|0|short or long rest}.",
+				"Inoltre, quando analizzi una creatura, apprendi tutte le sue vulnerabilità al danno, resistenze al danno, immunità al danno e immunità alle condizioni."
 			]
 		},
 		{
@@ -3741,9 +3741,9 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"Starting at 6th level, you can precisely strike a hidden cluster of nerves on a creature, temporarily preventing it from masking its true thoughts and intent. When you hit a creature with an unarmed strike, you can spend 1 ki point to force it to make a Charisma {@quickref saving throws|PHB|2|1|saving throw}. On a failed save, the creature is unable to speak a deliberate lie, and all Charisma checks directed at the creature are made with {@quickref Advantage and Disadvantage|PHB|2|0|advantage} for up to 10 minutes. You know if it succeeded or failed on its {@quickref saving throws|PHB|2|1|saving throw}.",
-				"An affected creature is aware of the effect and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as the effect lasts.",
-				"If you wish to impose this effect on a creature without injuring it, you can attack the creature to simply touch it, dealing no damage on a hit."
+				"A partire dal 6° livello, puoi colpire con precisione un fascio di nervi nascosto su una creatura, impedendole temporaneamente di mascherare i suoi veri pensieri e intenzioni. Quando colpisci una creatura con un colpo senz'armi, puoi spendere 1 punto ki per costringerla a creare un Carisma {@quickref saving throws|PHB|2|1|saving throw}. Se il Tiro Salvezza fallisce, la creatura non è in grado di mentire deliberatamente e tutte le prove di Carisma dirette alla creatura vengono effettuate con {@quickref Advantage and Disadvantage|PHB|2|0|advantage} per un massimo di 10 minuti. Sai se ha avuto successo o ha fallito {@quickref saving throws|PHB|2|1|saving throw}.",
+				"Una creatura influenzata è consapevole dell'effetto e può quindi evitare di rispondere a domande alle quali normalmente risponderebbe con una bugia. Una creatura del genere può essere evasiva nelle sue risposte finché dura l'effetto.",
+				"Se desideri imporre questo effetto a una creatura senza ferirla, puoi attaccare la creatura semplicemente toccandola, senza infliggere danni in caso di colpo."
 			]
 		},
 		{
@@ -3757,7 +3757,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Also by 6th level, you have extensively studied the history and lore within the archives of the {@book Cobalt Soul|TDCSR|2|Library of the Cobalt Soul}. You learn one language of your choice, and you gain proficiency with one of the following skills of your choice: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Nature}, or {@skill Religion}. If you already have proficiency in one of the listed skills, you can instead choose to double your proficiency bonus for any ability check you make that uses the chosen proficiency."
+				"Inoltre, al 6° livello, avrai studiato approfonditamente la storia e le tradizioni all'interno degli archivi del {@book Cobalt Soul|TDCSR|2|Library of the Cobalt Soul}. Impari una lingua a tua scelta e acquisisci competenza in una delle seguenti abilità a tua scelta: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Nature} o {@skill Religion}. Se hai già competenza in una delle abilità elencate, puoi invece scegliere di raddoppiare il tuo bonus di competenza per qualsiasi prova di caratteristica effettuata che utilizzi la competenza scelta."
 			]
 		},
 		{
@@ -3774,7 +3774,7 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"Starting at 11th level, you've honed your awareness and reflexes through mental aptitude and pattern recognition. Once per turn, if you've already taken your reaction, you may spend 1 ki point to take an additional reaction. You can use only one reaction per triggering effect."
+				"A partire dall'11° livello, hai affinato la tua consapevolezza e i tuoi riflessi attraverso l'attitudine mentale e il riconoscimento degli schemi. Una volta per turno, se hai già effettuato la tua reazione, puoi spendere 1 punto ki per effettuare una reazione aggiuntiva. Puoi usare solo una reazione per effetto innescante."
 			]
 		},
 		{
@@ -3788,7 +3788,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"You gain an additional language and an additional skill proficiency from the list: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Nature}, or {@skill Religion}\u2014(or you can double the bonus of an existing proficiency from the list) at 11th level."
+				"Ottieni una lingua aggiuntiva e una competenza aggiuntiva dall'elenco: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Nature} o {@skill Religion}—(oppure puoi raddoppiare il bonus di una competenza esistente dall'elenco) all'11° livello."
 			]
 		},
 		{
@@ -3806,8 +3806,8 @@
 				"amount": 3
 			},
 			"entries": [
-				"Upon reaching 17th level, you've gained the knowledge to manipulate a creature's ki to undermine their fortitude. When you hit a creature with an unarmed strike, you can spend 3 ki points to cause the creature to gain vulnerability to one damage type of your choice for 1 minute, or until the end of a turn in which it has taken damage of that type.",
-				"If a creature has resistance to the damage type you choose, this resistance is suppressed for 1 minute, rather than gaining vulnerability. A creature that is immune to the damage type you choose is unaffected. A creature who is affected by this feature cannot be affected by it again for 24 hours."
+				"Una volta raggiunto il 17° livello, hai acquisito la conoscenza per manipolare il ki di una creatura per indebolirne la forza d'animo. Quando colpisci una creatura con un colpo senz'armi, puoi spendere 3 punti ki per far sì che la creatura diventi vulnerabilità a un tipo di danno a tua scelta per 1 minuto o fino alla fine di un turno in cui ha subito danni di quel tipo.",
+				"Se una creatura ha resistenza al tipo di danno scelto, questa resistenza viene soppressa per 1 minuto, invece di acquisire vulnerabilità. Una creatura immune al tipo di danno scelto non viene influenzata. Una creatura influenzata da questa capacità non può esserne nuovamente influenzata per 24 ore."
 			]
 		},
 		{
@@ -3821,7 +3821,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"You gain an additional language and an additional skill proficiency from the list: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Nature}, or {@skill Religion}\u2014(or you can double the bonus of an existing proficiency from the list) at 17th level."
+				"Ottieni una lingua aggiuntiva e una competenza aggiuntiva dall'elenco: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Nature} o {@skill Religion} (oppure puoi raddoppiare il bonus di una competenza esistente dall'elenco) al 17° livello."
 			]
 		},
 		{
@@ -3834,8 +3834,8 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.",
-				"A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.",
+				"La Via del Maestro Ubriaco insegna ai suoi studenti a muoversi con i movimenti a scatti e imprevedibili di un ubriacone. Un maestro ubriaco ondeggia, barcollando su piedi instabili, per presentare quello che sembra un combattente incompetente che si rivela frustrante da affrontare. Gli inciampi irregolari del padrone ubriaco nascondono una danza attentamente eseguita di parate, parate, avanzate, attacchi e ritirate.",
+				"Un padrone ubriaco spesso si diverte a fare il buffone per portare gioia allo scoraggiato o per dimostrare umiltà all'arrogante, ma quando si entra in battaglia, il padrone ubriaco può essere un nemico esasperante e prepotente.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Proficiencies|Monk||Drunken Master|XGE|3"
@@ -3857,7 +3857,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this tradition at 3rd level, you gain proficiency in the {@skill Performance} skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with {@item brewer's supplies|phb} if you don't already have it."
+				"Quando scegli questa tradizione al 3° livello, ottieni competenza nell'abilità {@skill Performance} se non la possiedi già. La tua tecnica di arti marziali mescola l'addestramento al combattimento con la precisione di un ballerino e le buffonate di un giullare. Ottieni anche competenza con {@item brewer's supplies|phb} se non ce l'hai già."
 			]
 		},
 		{
@@ -3871,7 +3871,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the {@action Disengage} action, and your walking speed increases by 10 feet until the end of the current turn."
+				"Al 3° livello, impari a girarti e girarti velocemente come parte della tua Raffica di Colpi. Ogni volta che usi Raffica di colpi, ottieni il beneficio dell'azione {@action Disengage} e la tua velocità di camminata aumenta di 3 metri fino alla fine del turno corrente."
 			]
 		},
 		{
@@ -3884,7 +3884,7 @@
 			"subclassSource": "XGE",
 			"level": 6,
 			"entries": [
-				"When you're {@condition prone}, you can stand up by spending 5 feet of movement, rather than half your speed."
+				"Quando sei {@condition prone}, puoi alzarti spendendo 5 piedi di movimento, anziché metà della tua velocità."
 			]
 		},
 		{
@@ -3900,7 +3900,7 @@
 				"name": "Ki"
 			},
 			"entries": [
-				"When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you."
+				"Quando una creatura ti manca con un tiro per colpire in mischia, puoi spendere 1 punto ki come reazione per far sì che quell'attacco colpisca una creatura a tua scelta, diversa dall'attaccante, che puoi vedere entro 1,5 metri da te."
 			]
 		},
 		{
@@ -3914,7 +3914,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Starting at 6th level, you can move in sudden, swaying ways. You gain the following benefits.",
+				"A partire dal 6° livello, puoi muoverti in modo improvviso e oscillante. Ottieni i seguenti benefici.",
 				{
 					"type": "options",
 					"entries": [
@@ -3945,7 +3945,7 @@
 				"amount": 2
 			},
 			"entries": [
-				"Starting at 11th level, you always seem to get a lucky bounce at the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 ki points to cancel the disadvantage for that roll."
+				"A partire dall'11° livello, sembra che tu abbia sempre un rimbalzo fortunato al momento giusto. Quando effettui una prova di caratteristica, un tiro per colpire o un tiro salvezza e hai svantaggio sul tiro, puoi spendere 2 punti ki per annullare lo svantaggio di quel tiro."
 			]
 		},
 		{
@@ -3959,7 +3959,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five Flurry of Blows attacks), provided that each Flurry of Blows attack targets a different creature this turn."
+				"Al 17° livello, ottieni la capacità di effettuare un numero enorme di attacchi contro un gruppo di nemici. Quando usi la tua Raffica di Colpi, puoi effettuare fino a tre attacchi aggiuntivi con essa (fino a un totale di cinque attacchi di Raffica di Colpi), a condizione che ogni attacco di Raffica di Colpi abbia come bersaglio una creatura diversa in questo turno."
 			]
 		},
 		{
@@ -3972,7 +3972,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"If you make an unarmed strike as part of the {@action Attack} action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't {@condition incapacitated}."
+				"Se effettui un colpo senz'armi come parte dell'azione {@action Attack} nel tuo turno e hai in mano un'arma kensei, puoi usarla per difenderti se è un'arma da mischia. Ottieni un bonus di +2 alla CA fino all'inizio del tuo turno successivo, mentre l'arma è nella tua mano e tu no {@condition incapacitated}."
 			]
 		},
 		{
@@ -3985,7 +3985,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra {@damage 1d4} damage of the weapon's type. You retain this benefit until the end of the current turn."
+				"Puoi utilizzare un'azione bonus durante il tuo turno per rendere più letali i tuoi attacchi a distanza con un'arma kensei. Quando lo fai, qualsiasi bersaglio colpito con un attacco a distanza utilizzando un'arma kensei subisce un danno extra {@damage 1d4} del tipo di arma. Mantieni questo beneficio fino alla fine del turno corrente."
 			]
 		},
 		{
@@ -3998,8 +3998,8 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Monks of the Way of the Kensei train relentlessly with their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.",
-				"A kensei sees a weapon in much the same way a calligrapher or painter regards a pen or brush. Whatever the weapon, the kensei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a kensei a peerless warrior is but a side effect of intense devotion, practice, and study.",
+				"I monaci della Via del Kensei si allenano incessantemente con le loro armi, al punto che l'arma diventa un'estensione del corpo. Fondata sulla maestria nel combattimento con la spada, la tradizione si è ampliata fino a includere molte armi diverse.",
+				"Un kensei vede un'arma più o meno nello stesso modo in cui un calligrafo o un pittore considera una penna o un pennello. Qualunque sia l'arma, il kensei la vede come uno strumento utilizzato per esprimere la bellezza e la precisione delle arti marziali. Il fatto che tale maestria renda un kensei un guerriero senza pari non è altro che un effetto collaterale di intensa devozione, pratica e studio.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Path of the Kensei|Monk||Kensei|XGE|3"
@@ -4017,12 +4017,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you choose this tradition at 3rd level, your special martial arts training leads you to master the use of certain weapons. This path also includes instruction in the deft strokes of calligraphy or painting. You gain the following benefits.",
+				"Quando scegli questa tradizione al 3° livello, il tuo speciale addestramento nelle arti marziali ti porta a padroneggiare l'uso di determinate armi. Questo percorso include anche l'insegnamento dei tratti abili della calligrafia o della pittura. Ottieni i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Kensei Weapons",
 					"entries": [
-						"Choose two types of weapons to be your kensei weapons: one melee weapon and one ranged weapon. Each of these weapons can be any {@filter simple or martial weapon that lacks the heavy and special properties|items|source=phb|type=simple weapon;martial weapon|property=!heavy;!special|category=basic|miscellaneous=}. The longbow is also a valid choice. You gain proficiency with these weapons if you don't already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition's features work only with your kensei weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon\u2014either melee or ranged\u2014to be a kensei weapon for you, following the criteria above."
+						"Scegli due tipi di armi come armi kensei: un'arma da mischia e un'arma a distanza. Ognuna di queste armi può essere qualsiasi {@filter simple or martial weapon that lacks the heavy and special properties|items|source=phb|type=simple weapon;martial weapon|property=!heavy;!special|category=basic|miscellaneous=}. Anche l’arco lungo è una valida scelta. Ottieni competenza con queste armi se non le possiedi già. Le armi dei tipi scelti per te sono armi da monaco. Molte delle caratteristiche di questa tradizione funzionano solo con le tue armi kensei. Quando raggiungi il 6°, 11° e 17° livello in questa classe, puoi scegliere un altro tipo di arma, da mischia o a distanza, come arma kensei per te, seguendo i criteri sopra indicati."
 					]
 				},
 				{
@@ -4042,7 +4042,7 @@
 					"type": "entries",
 					"name": "Way of the Brush",
 					"entries": [
-						"You gain proficiency with your choice of {@item calligrapher's supplies|phb} or {@item painter's supplies|phb}."
+						"Ottieni competenza scegliendo tra {@item calligrapher's supplies|phb} o {@item painter's supplies|phb}."
 					]
 				}
 			]
@@ -4058,19 +4058,19 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you extend your ki into your kensei weapons, granting you the following benefits.",
+				"Al 6° livello, estendi il tuo ki nelle tue armi kensei, garantendoti i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Magic Kensei Weapons",
 					"entries": [
-						"Your attacks with your kensei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
+						"Gli attacchi con le armi kensei contano come magici allo scopo di superare la resistenza e l'immunità agli attacchi e ai danni non magici."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Deft Strike",
 					"entries": [
-						"When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns."
+						"Quando colpisci un bersaglio con un'arma kensei, puoi spendere 1 punto ki per far sì che l'arma infligga al bersaglio un danno extra pari al tuo dado di Arti Marziali. Puoi utilizzare questa funzione solo una volta per ciascuno dei tuoi turni."
 					]
 				}
 			]
@@ -4090,7 +4090,7 @@
 				"amount": 3
 			},
 			"entries": [
-				"At 11th level, you gain the ability to augment your weapons further with your ki. As a bonus action, you can expend up to 3 ki points to grant one kensei weapon you touch a bonus to attack and damage rolls when you attack with it. The bonus equals the number of ki points you spent. This bonus lasts for 1 minute or until you use this feature again. This feature has no effect on a magic weapon that already has a bonus to attack and damage rolls."
+				"All'11° livello, ottieni la capacità di potenziare ulteriormente le tue armi con il tuo ki. Come azione bonus, puoi spendere fino a 3 punti ki per garantire a un'arma kensei che tocchi un bonus ai tiri per colpire e per i danni quando attacchi con essa. Il bonus è pari al numero di punti ki spesi. Questo bonus dura 1 minuto o finché non utilizzi nuovamente questa funzionalità. Questa caratteristica non ha effetto su un'arma magica che ha già un bonus ai tiri per colpire e per i danni."
 			]
 		},
 		{
@@ -4104,7 +4104,7 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns."
+				"Al 17° livello, la tua maestria nelle armi ti garantisce una precisione straordinaria. Se fallisci un tiro per colpire usando un'arma da monaco durante il tuo turno, puoi ripetere il tiro. Puoi utilizzare questa funzione solo una volta per ciascuno dei tuoi turni."
 			]
 		},
 		{
@@ -4117,7 +4117,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Monks of the Way of the Sun Soul learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.",
+				"I monaci della Via dell'Anima del Sole imparano a incanalare la loro energia vitale in brucianti dardi di luce. Insegnano che la meditazione può sbloccare la capacità di liberare la luce indomabile emanata dall'anima di ogni creatura vivente.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Radiant Sun Bolt|Monk||Sun Soul|XGE|3"
@@ -4135,9 +4135,9 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.",
-				"You gain a new attack option that you can use with the {@action Attack} action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a {@damage d4}. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.",
-				"When you take the {@action Attack} action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the {@action Attack} action."
+				"A partire da quando scegli questa tradizione al 3° livello, puoi scagliare dardi brucianti di splendore magico.",
+				"Ottieni una nuova opzione di attacco che puoi utilizzare con l'azione {@action Attack}. L'attacco speciale è un attacco con incantesimo a distanza con una gittata di 9 metri. Ne sei abile e aggiungi il tuo modificatore di Destrezza ai suoi tiri per colpire e per i danni. Il suo danno è radioso e il suo dado di danno è un {@damage d4}. Questo dado cambia man mano che guadagni livelli da Monaco, come mostrato nella colonna Arti Marziali della tabella Monaco.",
+				"Quando esegui l'azione {@action Attack} nel tuo turno e usi questo attacco speciale come parte di essa, puoi spendere 1 punto ki per effettuare l'attacco speciale due volte come azione bonus. Quando ottieni la funzione Attacco Extra, questo attacco speciale può essere utilizzato per qualsiasi attacco effettuato come parte dell'azione {@action Attack}."
 			]
 		},
 		{
@@ -4155,8 +4155,8 @@
 				"amount": 2
 			},
 			"entries": [
-				"At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the {@action Attack} action on your turn, you can spend 2 ki points to cast the {@spell burning hands} spell as a bonus action.",
-				"You can spend additional ki points to cast {@spell burning hands} as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level."
+				"Al 6° livello, ottieni la capacità di incanalare il tuo ki in brucianti ondate di energia. Immediatamente dopo aver eseguito l'azione {@action Attack} nel tuo turno, puoi spendere 2 punti ki per lanciare l'incantesimo {@spell burning hands} come azione bonus.",
+				"Puoi spendere punti ki aggiuntivi per lanciare {@spell burning hands} come incantesimo di livello superiore. Ogni punto ki aggiuntivo speso aumenta il livello dell'incantesimo di 1. Il numero massimo di punti ki (2 più eventuali punti aggiuntivi) che puoi spendere per l'incantesimo è pari alla metà del tuo livello da monaco."
 			]
 		},
 		{
@@ -4170,9 +4170,9 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.",
-				"Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take {@damage 2d6} radiant damage. A creature doesn't need to make the save if the creature is behind {@quickref Cover||3||total cover} that is opaque.",
-				"You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by {@damage 2d6}."
+				"All'11° livello, ottieni la capacità di creare una sfera di luce che esplode in un'esplosione devastante. Come azione, crei magicamente una sfera e la scagli in un punto a tua scelta entro 150 piedi, dove esplode in una sfera di luce radiosa per un breve ma mortale istante.",
+				"Ogni creatura in quella sfera di 20 piedi di raggio deve riuscire un tiro salvezza su Costituzione o subire {@damage 2d6} danni radiosi. Una creatura non ha bisogno di effettuare il tiro salvezza se è dietro {@quickref Cover||3||total cover} che è opaca.",
+				"Puoi aumentare il danno della sfera spendendo punti ki. Ogni punto speso, fino a un massimo di 3, aumenta il danno del {@damage 2d6}."
 			]
 		},
 		{
@@ -4186,8 +4186,8 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.",
-				"If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier."
+				"Al 17° livello, sei avvolto da un'aura luminosa e magica. Si diffonde luce intensa in un raggio di 9 metri e luce fioca per altri 9 metri. Puoi spegnere o ripristinare la luce come azione bonus.",
+				"Se una creatura ti colpisce con un attacco in mischia mentre questa luce brilla, puoi usare la tua reazione per infliggere danni radiosi alla creatura. Il danno radiante è pari a 5 + il tuo modificatore di Saggezza."
 			]
 		},
 		{
@@ -4203,7 +4203,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the {@condition Incapacitated|XPHB} condition. You gain the following benefits while this feature is active.",
+				"All'inizio del tuo turno, puoi spendere 1 Punto Focus per permearti di energia elementale. L'energia dura 10 minuti o finché non raggiungi la condizione {@condition Incapacitated|XPHB}. Ottieni i seguenti benefici mentre questa funzione è attiva.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4211,14 +4211,14 @@
 							"type": "entries",
 							"name": "Reach",
 							"entries": [
-								"When you make an {@variantrule Unarmed Strike|XPHB}, your reach is 10 feet greater than normal, as elemental energy extends from you."
+								"Quando crei un {@variantrule Unarmed Strike|XPHB}, la tua portata è 10 piedi maggiore del normale, poiché l'energia elementale si estende da te."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Elemental Strikes",
 							"entries": [
-								"Whenever you hit with your {@variantrule Unarmed Strike|XPHB}, you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it."
+								"Ogni volta che colpisci con il tuo {@variantrule Unarmed Strike|XPHB}, puoi far sì che infligga danni da acido, freddo, fuoco, fulmine o tuono a tua scelta invece del normale tipo di danno. Quando ne affronti uno di questi tipi, puoi anche forzare il bersaglio a effettuare un tiro salvezza su Forza. Se fallisci il Tiro Salvezza, puoi spostare il bersaglio fino a 3 metri verso o lontano da te, mentre l'energia elementale gli vortica attorno."
 							]
 						}
 					]
@@ -4235,7 +4235,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You know the {@spell Elementalism|XPHB} spell. Wisdom is your spellcasting ability for it."
+				"Conosci l'incantesimo {@spell Elementalism|XPHB}. La saggezza è la tua abilità di incantatore per questo."
 			]
 		},
 		{
@@ -4249,7 +4249,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Wield Strikes and Bursts of Elemental Power}",
-				"Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.",
+				"I Guerrieri degli Elementi sfruttano il potere dei Piani Elementali. Sfruttando la loro concentrazione soprannaturale, questi Monaci domano momentaneamente l'energia del Caos Elementale per potenziarsi dentro e fuori dalla battaglia.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Elemental Attunement|Monk|XPHB|Elements|XPHB|3"
@@ -4275,8 +4275,8 @@
 				"amount": 2
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.",
-				"Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage."
+				"Come azione {@action Magic|XPHB}, puoi spendere 2 punti focus per far esplodere l'energia elementale in un raggio di 20 piedi {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centrato su un punto entro 120 piedi da te. Scegli un tipo di danno: Acido, Freddo, Fuoco, Fulmine o Tuono.",
+				"Ogni creatura nel {@variantrule Sphere [Area of Effect]|XPHB|Sphere} deve effettuare un tiro salvezza su Destrezza. Se fallisce il tiro salvezza, una creatura subisce danni del tipo scelto pari a tre tiri del tuo dado di Arti Marziali. Se il tiro salvezza riesce, la creatura subisce la metà dei danni."
 			]
 		},
 		{
@@ -4290,7 +4290,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"While your Elemental Attunement is active, you also have a {@variantrule Fly Speed|XPHB} and a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+				"Mentre la tua Sintonizzazione Elementale è attiva, hai anche un {@variantrule Fly Speed|XPHB} e un {@variantrule Swim Speed|XPHB} pari al tuo {@variantrule Speed|XPHB}."
 			]
 		},
 		{
@@ -4304,26 +4304,26 @@
 			"level": 17,
 			"header": 2,
 			"entries": [
-				"While your Elemental Attunement is active, you also gain the following benefits.",
+				"Mentre la tua Sintonizzazione Elementale è attiva, ottieni anche i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Damage Resistance",
 					"entries": [
-						"You gain {@variantrule Resistance|XPHB} to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice."
+						"Ottieni {@variantrule Resistance|XPHB} su uno dei seguenti tipi di danno a tua scelta: acido, freddo, fuoco, fulmine o tuono. All'inizio di ogni tuo turno, puoi modificare questa scelta."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Destructive Stride",
 					"entries": [
-						"When you use your Step of the Wind, your {@variantrule Speed|XPHB} increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage type is your choice of Acid, Cold, Fire, Lightning, or Thunder. A creature can take this damage only once per turn."
+						"Quando usi il tuo Passo del Vento, il tuo {@variantrule Speed|XPHB} aumenta di 20 piedi fino alla fine del turno. Per quella durata, qualsiasi creatura di tua scelta subisce danni pari a un tiro del tuo dado di Arti Marziali quando entri in uno spazio entro 1,5 metri da essa. Il tipo di danno è a tua scelta tra Acido, Freddo, Fuoco, Fulmine o Tuono. Una creatura può subire questo danno solo una volta per turno."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Empowered Strikes",
 					"entries": [
-						"Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an {@variantrule Unarmed Strike|XPHB}. The extra damage is the same type dealt by that strike."
+						"Una volta in ciascuno dei tuoi turni, puoi infliggere a un bersaglio un danno extra pari a un tiro del tuo dado di Arti Marziali quando lo colpisci con un {@variantrule Unarmed Strike|XPHB}. Il danno extra è dello stesso tipo inflitto da quel colpo."
 					]
 				}
 			]
@@ -4339,7 +4339,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Manipulate Forces of Life and Death}",
-				"Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.",
+				"I Guerrieri della Misericordia manipolano la forza vitale degli altri. Questi monaci sono medici erranti, ma uccidono rapidamente i loro nemici. Spesso indossano maschere, presentandosi come portatori senza volto di vita e di morte.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Hand of Harm|Monk|XPHB|Mercy|XPHB|3"
@@ -4368,7 +4368,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"Once per turn when you hit a creature with an {@variantrule Unarmed Strike|XPHB} and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier."
+				"Una volta per turno, quando colpisci una creatura con un {@variantrule Unarmed Strike|XPHB} e infliggi danni, puoi spendere 1 Punto Focalizzazione per infliggere danni Necrotici extra pari a un tiro del tuo dado di Arti Marziali più il tuo modificatore di Saggezza."
 			]
 		},
 		{
@@ -4385,7 +4385,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend 1 Focus Point to touch a creature and restore a number of {@variantrule Hit Points|XPHB} equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing."
+				"Come azione {@action Magic|XPHB}, puoi spendere 1 Punto Focus per toccare una creatura e ripristinare un numero di {@variantrule Hit Points|XPHB} pari a un tiro del tuo dado di Arti Marziali più il tuo modificatore di Saggezza. Quando usi la tua raffica di colpi, puoi sostituire uno dei colpi senz'armi con l'uso di questa funzione senza spendere un punto focus per la guarigione."
 			]
 		},
 		{
@@ -4399,7 +4399,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain proficiency in the {@skill Insight|XPHB} and {@skill Medicine|XPHB} skills and proficiency with the {@item Herbalism Kit|XPHB}."
+				"Ottieni competenza nelle abilità {@skill Insight|XPHB} e {@skill Medicine|XPHB} e competenza con {@item Herbalism Kit|XPHB}."
 			]
 		},
 		{
@@ -4413,7 +4413,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Your Hand of Harm and Hand of Healing improve, as detailed below.",
+				"La tua Mano del danno e la Mano della guarigione migliorano, come spiegato di seguito.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4421,14 +4421,14 @@
 							"type": "entries",
 							"name": "Hand of Harm",
 							"entries": [
-								"When you use Hand of Harm on a creature, you can also give that creature the {@condition Poisoned|XPHB} condition until the end of your next turn."
+								"Quando usi Mano del Danno su una creatura, puoi anche dare a quella creatura la condizione {@condition Poisoned|XPHB} fino alla fine del tuo turno successivo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Hand of Healing",
 							"entries": [
-								"When you use Hand of Healing, you can also end one of the following conditions on the creature you heal: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, {@condition Poisoned|XPHB}, or {@condition Stunned|XPHB}."
+								"Quando usi Mano curativa, puoi anche porre termine a una delle seguenti condizioni sulla creatura che guarisci: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, {@condition Poisoned|XPHB} o {@condition Stunned|XPHB}."
 							]
 						}
 					]
@@ -4446,9 +4446,9 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you use Flurry of Blows, you can replace each of the Unarmed Strikes with a use of Hand of Healing without expending Focus Points for the healing.",
-				"In addition, when you make an {@variantrule Unarmed Strike|XPHB} with Flurry of Blows and deal damage, you can use Hand of Harm with that strike without expending a Focus Point for Hand of Harm. You can still use Hand of Harm only once per turn.",
-				"You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Quando usi Raffica di colpi, puoi sostituire ciascuno dei colpi senz'armi con l'uso di Mano curativa senza spendere punti focus per la guarigione.",
+				"Inoltre, quando effettui un {@variantrule Unarmed Strike|XPHB} con Raffica di colpi e infliggi danni, puoi usare Mano del danno con quel colpo senza spendere un punto focus per Mano del danno. Puoi comunque utilizzare la Mano del Danno solo una volta per turno.",
+				"Puoi utilizzare questi benefici un numero totale di volte pari al tuo modificatore di Saggezza (minimo una volta). Riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -4466,8 +4466,8 @@
 				"amount": 5
 			},
 			"entries": [
-				"Your mastery of life energy opens the door to the ultimate mercy. As a {@action Magic|XPHB} action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of {@variantrule Hit Points|XPHB} equal to {@dice 4d10} plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, {@condition Poisoned|XPHB}, and {@condition Stunned|XPHB}.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}."
+				"La tua padronanza dell'energia vitale apre la porta alla misericordia definitiva. Come azione {@action Magic|XPHB}, puoi toccare il cadavere di una creatura morta nelle ultime 24 ore e spendere 5 punti focus. La creatura ritorna quindi in vita con un numero di {@variantrule Hit Points|XPHB} pari a {@dice 4d10} più il tuo modificatore di Saggezza. Se la creatura muore a causa di una delle seguenti condizioni, rinasce rimuovendo le condizioni: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, {@condition Poisoned|XPHB} e {@condition Stunned|XPHB}.",
+				"Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -4482,26 +4482,26 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.",
+				"Ogni volta che colpisci una creatura con un attacco concesso dalla tua Raffica di Colpi, puoi imporre a quel bersaglio uno dei seguenti effetti.",
 				{
 					"type": "entries",
 					"name": "Addle",
 					"entries": [
-						"The target can't make {@action Opportunity Attack|XPHB|Opportunity Attacks} until the start of its next turn."
+						"Il bersaglio non può raggiungere il {@action Opportunity Attack|XPHB|Opportunity Attacks} fino all'inizio del suo turno successivo."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Push",
 					"entries": [
-						"The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you."
+						"Il bersaglio deve superare un tiro salvezza su Forza o essere spinto fino a 4,5 metri lontano da te."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Topple",
 					"entries": [
-						"The target must succeed on a Dexterity saving throw or have the {@condition Prone|XPHB} condition."
+						"Il bersaglio deve riuscire un tiro salvezza su Destrezza o avere la condizione {@condition Prone|XPHB}."
 					]
 				}
 			]
@@ -4519,7 +4519,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Master Unarmed Combat Techniques}",
-				"Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.",
+				"I Guerrieri della Mano Aperta sono maestri del combattimento a mani nude. Imparano tecniche per spingere e inciampare i loro avversari e manipolare la propria energia per proteggersi dai danni.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Open Hand Technique|Monk|XPHB|Open Hand|XPHB|3"
@@ -4539,8 +4539,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You gain the ability to heal yourself. As a {@variantrule Bonus Action|XPHB}, you can roll your Martial Arts die. You regain a number of {@variantrule Hit Points|XPHB} equal to the number rolled plus your Wisdom modifier (minimum of 1 {@variantrule Hit Points|XPHB|Hit Point} regained).",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Ottieni la capacità di guarire te stesso. Come {@variantrule Bonus Action|XPHB}, puoi lanciare il tuo dado per le Arti Marziali. Recuperi un numero di {@variantrule Hit Points|XPHB} pari al numero tirato più il tuo modificatore di Saggezza (minimo 1 {@variantrule Hit Points|XPHB|Hit Point} recuperato).",
+				"Puoi utilizzare questa funzione un numero di volte pari al tuo modificatore di Saggezza (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -4556,7 +4556,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you take a {@variantrule Bonus Action|XPHB} other than Step of the Wind, you can also use Step of the Wind immediately after that {@variantrule Bonus Action|XPHB}."
+				"Quando prendi un {@variantrule Bonus Action|XPHB} diverso da Passo del vento, puoi anche usare Passo del vento immediatamente dopo {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{
@@ -4576,8 +4576,8 @@
 				"amount": 4
 			},
 			"entries": [
-				"You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an {@variantrule Unarmed Strike|XPHB}, you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the {@action Attack|XPHB} action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking {@damage 10d12} Force damage on a failed save or half as much damage on a successful one.",
-				"You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required)."
+				"Ottieni la capacità di creare vibrazioni letali nel corpo di qualcuno. Quando colpisci una creatura con un {@variantrule Unarmed Strike|XPHB}, puoi spendere 4 Punti Focus per avviare queste vibrazioni impercettibili, che durano per un numero di giorni pari al tuo livello da Monaco. Le vibrazioni sono innocue a meno che non si intraprenda un'azione per porvi fine. In alternativa, quando esegui l'azione {@action Attack|XPHB} nel tuo turno, puoi rinunciare a uno degli attacchi per porre fine alle vibrazioni. Per porvi fine, tu e il bersaglio dovete trovarvi sullo stesso piano di esistenza. Quando li poni fine, il bersaglio deve effettuare un tiro salvezza su Costituzione, subendo {@damage 10d12} danni di Forza in caso di tiro salvezza fallito o metà del danno in caso di tiro riuscito.",
+				"Puoi avere solo una creatura alla volta sotto l'effetto di questa capacità. È possibile interrompere le vibrazioni in modo innocuo (non è richiesta alcuna azione)."
 			]
 		},
 		{
@@ -4590,7 +4590,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You have learned to draw on the power of the Shadowfell, gaining the following benefits.",
+				"Hai imparato ad attingere al potere della Coltre Oscura, ottenendo i seguenti benefici.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Darkness|Monk|XPHB|Shadow|XPHB|3"
@@ -4616,7 +4616,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Harness Shadow Power for Stealth and Subterfuge}",
-				"Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow, and take on a wraithlike form.",
+				"I Guerrieri dell'Ombra praticano la furtività e il sotterfugio, sfruttando il potere della Coltre Oscura. Sono a casa nell'oscurità, sono in grado di attirare l'oscurità attorno a sé per nascondersi, saltare da un'ombra all'altra e assumere una forma spettrale.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Shadow Arts|Monk|XPHB|Shadow|XPHB|3"
@@ -4637,7 +4637,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"You can expend 1 Focus Point to cast the {@spell Darkness|XPHB} spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of {@variantrule Darkness|XPHB} to a space within 60 feet of yourself at the start of each of your turns."
+				"Puoi spendere 1 Focus Point per lanciare l'incantesimo {@spell Darkness|XPHB} senza componenti dell'incantesimo. Puoi vedere all'interno dell'area dell'incantesimo quando lo lanci con questa funzione. Finché l'incantesimo persiste, puoi spostare la sua area di {@variantrule Darkness|XPHB} in uno spazio entro 60 piedi da te all'inizio di ciascuno dei tuoi turni."
 			]
 		},
 		{
@@ -4651,7 +4651,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You gain {@sense Darkvision|XPHB} with a range of 60 feet. If you already have {@sense Darkvision|XPHB}, its range increases by 60 feet."
+				"Guadagni {@sense Darkvision|XPHB} con un raggio di 60 piedi. Se hai già {@sense Darkvision|XPHB}, la sua portata aumenta di 60 piedi."
 			]
 		},
 		{
@@ -4665,7 +4665,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You know the {@spell Minor Illusion|XPHB} spell. Wisdom is your spellcasting ability for it."
+				"Conosci l'incantesimo {@spell Minor Illusion|XPHB}. La saggezza è la tua abilità di incantatore per questo."
 			]
 		},
 		{
@@ -4679,7 +4679,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"While entirely within {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, you can use a {@variantrule Bonus Action|XPHB} to teleport up to 60 feet to an unoccupied space you can see that is also in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}. You then have {@variantrule Advantage|XPHB} on the next melee attack you make before the end of the current turn."
+				"Mentre sei completamente all'interno di {@variantrule Dim Light|XPHB} o {@variantrule Darkness|XPHB}, puoi usare un {@variantrule Bonus Action|XPHB} per teletrasportarti fino a 60 piedi in uno spazio non occupato che puoi vedere che si trova anche in {@variantrule Dim Light|XPHB} o {@variantrule Darkness|XPHB}. Quindi avrai {@variantrule Advantage|XPHB} sul prossimo attacco in mischia che effettuerai prima della fine del turno attuale."
 			]
 		},
 		{
@@ -4696,7 +4696,7 @@
 				"name": "Focus Point"
 			},
 			"entries": [
-				"You can draw on your Shadowfell connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB} for that use of the feature. As part of this {@variantrule Bonus Action|XPHB}, you can make an {@variantrule Unarmed Strike|XPHB} immediately after you teleport."
+				"Puoi attingere alla tua connessione a Shadowfell per potenziare il tuo teletrasporto. Quando usi il tuo Passo d'Ombra, puoi spendere 1 Punto Focalizzazione per rimuovere il requisito in cui devi iniziare e finire in {@variantrule Dim Light|XPHB} o {@variantrule Darkness|XPHB} per quell'uso della funzione. Come parte di questo {@variantrule Bonus Action|XPHB}, puoi creare un {@variantrule Unarmed Strike|XPHB} immediatamente dopo il teletrasporto."
 			]
 		},
 		{
@@ -4714,26 +4714,26 @@
 				"amount": 3
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action while entirely within {@variantrule Dim Light|XPHB} or {@variantrule Darkness|XPHB}, you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the {@condition Incapacitated|XPHB} condition, or until you end your turn in {@variantrule Bright Light|XPHB}. While shrouded by these shadows, you gain the following benefits.",
+				"Come azione {@action Magic|XPHB} mentre sei interamente all'interno di {@variantrule Dim Light|XPHB} o {@variantrule Darkness|XPHB}, puoi spendere 3 punti focus per avvolgerti di ombre per 1 minuto, finché non raggiungi la condizione {@condition Incapacitated|XPHB} o finché non finisci il tuo turno {@variantrule Bright Light|XPHB}. Mentre sei avvolto da queste ombre, ottieni i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Invisibility",
 					"entries": [
-						"You have the {@condition Invisible|XPHB} condition."
+						"Hai la condizione {@condition Invisible|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Partially Incorporeal",
 					"entries": [
-						"You can move through occupied spaces as if they were {@variantrule Difficult Terrain|XPHB}. If you end your turn in such a space, you are shunted to the last unoccupied space you were in."
+						"Puoi muoverti attraverso gli spazi occupati come se lo fossero {@variantrule Difficult Terrain|XPHB}. Se finisci il tuo turno in uno di questi spazi, vieni spostato nell'ultimo spazio non occupato in cui ti trovavi."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Shadow Flurry",
 					"entries": [
-						"You can use your Flurry of Blows without expending any Focus Points."
+						"Puoi usare la tua Raffica di Colpi senza spendere punti Focus."
 					]
 				}
 			]

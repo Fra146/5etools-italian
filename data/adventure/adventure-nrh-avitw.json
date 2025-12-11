@@ -5,10 +5,10 @@
 			"name": "Restoring Harmony: A Voice in the Wilderness",
 			"page": 2,
 			"entries": [
-				"Welcome to Restoring Harmony, a Dungeons & Dragons adventure series in collaboration with the tasty and colorful world of NERDS.",
-				"To run this adventure, you need the fifth edition Basic Rules for D&D, which is available as a free download here. All the magic items and monster stat blocks you need are included at the end of this adventure.",
-				"Restoring Harmony is a campaign that's divided into six 1st-level mini adventures for a solo player and one longer adventure for multiple players. Each mini adventure takes approximately 45 minutes to play and the final adventure takes approximately 60\u201390 minutes to play.",
-				"The mini adventures can be played in any order, but the final adventure should be played last. Here is a list of all the adventures:",
+				"Benvenuti a Restoring Harmony, una serie di avventure di Dungeons & Dragons in collaborazione con il gustoso e colorato mondo di NERDS.",
+				"Per eseguire quest'avventura, hai bisogno della quinta edizione delle Regole Base di D&D, disponibili come download gratuito qui. Tutti gli oggetti magici e i blocchi delle statistiche dei mostri di cui hai bisogno sono inclusi alla fine di questa avventura.",
+				"Ristabilire l'armonia è una campagna divisa in sei mini avventure di 1° livello per un giocatore singolo e un'avventura più lunga per più giocatori. Ogni miniavventura richiede circa 45 minuti per essere giocata, mentre l'avventura finale dura circa 60-90 minuti.",
+				"Le mini avventure possono essere giocate in qualsiasi ordine, ma l'avventura finale dovrebbe essere giocata per ultima. Ecco l'elenco di tutte le avventure:",
 				{
 					"type": "list",
 					"items": [
@@ -26,9 +26,9 @@
 					"name": "Story Summary",
 					"page": 2,
 					"entries": [
-						"Ever jealous of the cheery dispositions and colorful deliciousness of the NERDS, Emo the beholder and his hired muscle, Mr. Greystone, have struck a blow against the NERDS' beloved city of Harmony. After years of searching, the nefarious duo have found the sacred Prismatic Well that gives Harmony its vibrant and fabulous colors. Now, with access to the Prismatic Well, Emo and Mr. Greystone have begun to leech the color from the city of Harmony. If they aren't stopped, the city will gradually turn gray, with everything eventually becoming black and white.",
-						"To the NERDS, the colors beginning to flicker and drain out of Harmony is an unsettling mystery. What brings the colors to Harmony is an enigma to them. All they can do is hope the power comes back on and restores the vibrancy of Harmony's colors once more. But one group knows what's up, and that group is the Lorekeeper Society\u2014a secret society sworn to protect Harmony. The Lorekeepers know about the power of the Prismatic Well, but its true location is lost even to themselves. However, they have a way to find the well using an ancient artifact known as the Amulet of Harmony, but to activate it they need to find the six Gems of Power. Once activated, the amulet guides whoever controls it to the secret location of the Prismatic Well. But once activated, the amulet also has the power to turn off the well.",
-						"The Gems of Power were long ago hidden away for safekeeping in dungeons, forests, and towers. No one in the Lorekeeper Society knows the details of the magical beasts and traps guarding the gems, but our heroic NERDS are more than up to the challenge of restoring Harmony!"
+						"Sempre geloso dell'indole allegra e della colorata prelibatezza dei NERDS, Emo lo spettatore e il suo mercenario, Mr. Greystone, hanno sferrato un duro colpo all'amata città di Harmony dei NERDS. Dopo anni di ricerca, il malvagio duo ha trovato il sacro Pozzo Prismatico che dona ad Armonia i suoi colori vibranti e favolosi. Ora, con l'accesso al Pozzo Prismatico, Emo e Mr. Greystone hanno iniziato a succhiare il colore dalla città di Harmony. Se non verranno fermati, la città diventerà gradualmente grigia e tutto alla fine diventerà bianco e nero.",
+						"Per i NERDS, i colori che iniziano a tremolare e a svanire da Harmony è un mistero inquietante. Ciò che porta i colori ad Harmony è per loro un enigma. Tutto quello che possono fare è sperare che la corrente ritorni e ripristini la vivacità dei colori di Harmony ancora una volta. Ma un gruppo sa cosa sta succedendo, e quel gruppo è la Lorekeeper Society, una società segreta che ha giurato di proteggere Harmony. I Custodi del Sapere conoscono il potere del Pozzo Prismatico, ma la sua vera posizione è sconosciuta anche a loro stessi. Tuttavia, riescono a trovare il pozzo utilizzando un antico artefatto noto come Amuleto dell'Armonia, ma per attivarlo devono trovare le sei Gemme del Potere. Una volta attivato, l'amuleto guida chi lo controlla nel luogo segreto del Pozzo Prismatico. Ma una volta attivato, l’amuleto ha anche il potere di spegnere il pozzo.",
+						"Le Gemme del Potere furono molto tempo fa nascoste per essere custodite in sotterranei, foreste e torri. Nessuno nella Lorekeeper Society conosce i dettagli delle bestie magiche e delle trappole a guardia delle gemme, ma i nostri eroici NERDS sono più che all'altezza della sfida di ripristinare l'armonia!"
 					],
 					"id": "001"
 				},
@@ -37,14 +37,14 @@
 					"name": "Solo Play",
 					"page": 2,
 					"entries": [
-						"Due to the solo player nature of the adventures (with the exception of Adventure 7 Adventure Together), the power level of some monsters may be difficult with respect to the level of the character. You may want to present a roleplaying solution (such as making friends with the monster or tricking them) to players who are eager to rush into combat. With any encounter in this or subsequent adventures, feel free to present opportunities for unconventional solutions and alternatives to combat.",
-						"You can also adjust the story to be more benevolent in nature, allowing automatic successes on rolls, having monsters become instant friends, or giving your player advantage on all their rolls.",
+						"A causa della natura delle avventure per giocatore singolo (ad eccezione di Adventure 7 Adventure Together), il livello di potenza di alcuni mostri potrebbe essere difficile rispetto al livello del personaggio. Potresti voler presentare una soluzione di gioco di ruolo (come fare amicizia con il mostro o ingannarlo) ai giocatori che sono ansiosi di lanciarsi in combattimento. Con qualsiasi incontro in questa o nelle avventure successive, sentiti libero di presentare opportunità per soluzioni non convenzionali e alternative al combattimento.",
+						"Puoi anche modificare la storia in modo che sia di natura più benevola, consentendo successi automatici sui tiri, facendo diventare i mostri amici istantanei o dando al tuo giocatore un vantaggio su tutti i suoi tiri.",
 						{
 							"type": "entries",
 							"name": "TPK: Total Party Kill",
 							"entries": [
-								"In solo play, there's always a chance the character can die. In the case of a single adventurer, this death results in the end of play; which isn't optimal for an afternoon of fun! One way to avoid death is to have healing readily available to the adventurer. If they're without healing, have the character find the odd {@item potion of healing} lying in a dusty crate or have them discover a special healing plant on their journey that, if eaten, puts them back to full hit points.",
-								"In the case of an untimely death, you can have a helpful NPC (like Mr. Honeycutt) save the day and revive them, or you can have them forego death saving throws and wake up as they're being dragged someplace unpleasant."
+								"Nel gioco da solista, c'è sempre la possibilità che il personaggio possa morire. Nel caso di un singolo avventuriero, questa morte pone fine al gioco; il che non è ottimale per un pomeriggio di divertimento! Un modo per evitare la morte è avere la guarigione prontamente disponibile per l'avventuriero. Se non hanno cure, chiedi al personaggio di trovare la strana {@item potion of healing} che giace in una cassa polverosa o fagli scoprire una speciale pianta curativa durante il suo viaggio che, se mangiata, li riporta ai punti ferita completi.",
+								"Nel caso di una morte prematura, puoi chiedere a un NPC utile (come il signor Honeycutt) di salvare la situazione e rianimarli, oppure puoi fargli rinunciare ai tiri salvezza dalla morte e svegliarsi mentre vengono trascinati in un posto spiacevole."
 							],
 							"id": "003"
 						}
@@ -56,14 +56,14 @@
 					"name": "Adventure Outline",
 					"page": 3,
 					"entries": [
-						"Here is a quick overview of the adventure:",
+						"Ecco una rapida panoramica dell'avventura:",
 						{
 							"type": "list",
 							"items": [
-								"Red the Ranger receives a mysterious message from a \"Mr. Honeycutt\" to meet Elowen Greenleaf at Old Oak Grove. If Red gets there in time, they avoid an ambush.",
-								"Elowen tells Red that she's part of a secret society known as the Lorekeepers. They're trying to discover who or what is causing the \"color outages.\" Elowen has a map to find a magic gem that'll help them in their quest.",
-								"They travel to Lemondrop Ledges and find the entrance to the temple. But first they must cross a ravine and climb a cliff to get there.",
-								"They must then face the Scarlet Sentinel, a living statue that guards the Crimson Gem."
+								"Red il Ranger riceve un messaggio misterioso da un \"Mr. Honeycutt\" che gli chiede di incontrare Elowen Greenleaf a Old Oak Grove. Se il Rosso arriva in tempo, eviterà un'imboscata.",
+								"Elowen dice a Red che fa parte di una società segreta conosciuta come i Lorekeepers. Stanno cercando di scoprire chi o cosa sta causando le \"interruzioni del colore\". Elowen ha una mappa per trovare una gemma magica che li aiuterà nella loro ricerca.",
+								"Si recano a Lemondrop Ledges e trovano l'ingresso al tempio. Ma prima devono attraversare un burrone e scalare un dirupo per arrivarci.",
+								"Dovranno quindi affrontare la Sentinella Scarlatta, una statua vivente che custodisce la Gemma Cremisi."
 							]
 						}
 					],
@@ -74,8 +74,8 @@
 					"name": "Beginning Play",
 					"page": 3,
 					"entries": [
-						"Hand the character sheet (see \"Red the Ranger,\" below) to your player and let them familiarize themselves with Red.",
-						"All creatures or NPCs that are bolded have stat blocks, which are included at the end of the adventure along with any magic items the characters can earn. Whenever you're both ready, you can start the session."
+						"Consegna la scheda del personaggio (vedi \"Red il Ranger\", di seguito) al tuo giocatore e lascia che familiarizzi con Red.",
+						"Tutte le creature o gli NPC in grassetto hanno blocchi delle statistiche, che vengono inclusi alla fine dell'avventura insieme a tutti gli oggetti magici che i personaggi possono guadagnare. Ogni volta che siete entrambi pronti, potete iniziare la sessione."
 					],
 					"id": "005"
 				},
@@ -84,25 +84,25 @@
 					"name": "A Voice in the Wilderness",
 					"page": 3,
 					"entries": [
-						"At the start of this adventure, Red the ranger is in their natural element\u2014exploring the forest. Read the following:",
+						"All'inizio di questa avventura, Red il ranger è nel suo elemento naturale: esplora la foresta. Leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"page": 3,
 							"entries": [
-								"You're in the forests on the outskirts of the city of Harmony, investigating what the locals are calling \"color outages\" occurring across the city. The forest is usually filled with lush colors from the plants and wildlife that fill the area, but you've found the strange color outages dulling the city have struck here too\u2014fading the flowers and graying the leaves.",
-								"Entrusted with protecting and preserving the forest, you've been searching for natural causes that might be behind the outages, but have had no luck so far determining the source. As you hunt for more clues, a little bird lands next to you with a tiny scrap of parchment in its beak."
+								"Ti trovi nelle foreste alla periferia della città di Harmony e stai indagando su ciò che la gente del posto chiama \"interruzioni del colore\" che si verificano in tutta la città. La foresta è solitamente piena di colori lussureggianti provenienti dalle piante e dalla fauna selvatica che riempiono l'area, ma hai scoperto che anche qui si sono verificate strane interruzioni di colore che offuscano la città: sbiadiscono i fiori e ingrigiscono le foglie.",
+								"Incaricato di proteggere e preservare la foresta, hai cercato le cause naturali che potrebbero essere all'origine delle interruzioni, ma finora non hai avuto fortuna nel determinarne la fonte. Mentre cerchi altri indizi, un uccellino si posa accanto a te con un minuscolo pezzo di pergamena nel becco."
 							],
 							"id": "007"
 						},
-						"If Red makes a successful {@dc 12} Wisdom ({@skill Animal Handling}) check, the bird flies over and drops the parchment into their hand and then flies away. If Red holds out their finger as a perch or offers the bird some tasty seeds, they have advantage on the check. If Red opens the note, read:",
+						"Se il Rosso effettua con successo una prova di Saggezza ({@skill Animal Handling} {@dc 12}, l'uccello vola sopra e gli lascia cadere la pergamena in mano, quindi vola via. Se il Rosso tende il dito come un trespolo o offre all'uccello dei semi gustosi, ha vantaggio nella prova. Se Rosso apre la nota, leggi:",
 						{
 							"type": "insetReadaloud",
 							"page": 3,
 							"entries": [
-								"Noble ranger, please help us solve the mystery of the color outages. I've sent my Sapling Scout, Elowen Greenleaf, to wait for you in the Old Oak Grove. She knows who you are and awaits your aid. Make haste, she may already be in danger.",
+								"Nobile ranger, per favore aiutaci a risolvere il mistero delle interruzioni del colore. Ho mandato il mio esploratore dell'alberello, Elowen Greenleaf, ad aspettarti a Old Oak Grove. Lei sa chi sei e attende il tuo aiuto. Sbrigati, potrebbe essere già in pericolo.",
 								{
 									"type": "entries",
-									"name": "\u2014Mr. Honeycutt",
+									"name": "—Mr. Honeycutt",
 									"page": 3,
 									"entries": [],
 									"id": "009"
@@ -110,8 +110,8 @@
 							],
 							"id": "008"
 						},
-						"Red knows Mr. Honeycutt to be a kindly, soft-spoken librarian at the Harmony Library.",
-						"Red also knows where Old Oak Grove is. With a successful {@dc 12} Intelligence ({@skill Nature}) check, Red remembers how to get there in under 15 minutes and arrives before Elowen is ambushed (see \"Arriving Before the Ambush,\" below). On a failed check, it takes Red 25 minutes to get there and they arrive while Elowen is being ambushed (see \"Arriving During the Ambush,\" below)."
+						"Red sa che il signor Honeycutt è un bibliotecario gentile e pacato della Biblioteca Harmony.",
+						"Il rosso sa anche dove si trova Old Oak Grove. Con una prova riuscita di {@dc 12} Intelligenza ({@skill Nature}), Rosso si ricorda come arrivare in meno di 15 minuti e arriva prima che Elowen cada in un'imboscata (vedi \"Arrivare prima dell'imboscata\" di seguito). Se il controllo fallisce, il Rosso impiega 25 minuti per arrivare lì e arriva mentre Elowen è vittima di un'imboscata (vedi \"Arrivare durante l'imboscata\", di seguito)."
 					],
 					"id": "006"
 				},
@@ -120,23 +120,23 @@
 					"name": "Arriving Before the Ambush",
 					"page": 4,
 					"entries": [
-						"Red dashes through the forest and finds the Old Oak Grove. As Red enters the grove, read the following:",
+						"Red attraversa la foresta e trova l'Old Oak Grove. Quando Rosso entra nel boschetto, leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"page": 4,
 							"entries": [
-								"You enter a grove of ancient trees. One in particular you know well, the Old Oak. Its thick, gnarled branches twist up into the sky and birds chirp in its gently creaking boughs. Near the Old Oak, a small sapling with a tiny face looks around as if expecting someone."
+								"Si entra in un boschetto di alberi secolari. Uno in particolare lo conosci bene, la Vecchia Quercia. I suoi rami spessi e nodosi si slanciano verso il cielo e gli uccelli cinguettano tra i rami che scricchiolano dolcemente. Vicino alla Quercia Vecchia, un alberello dal visino minuscolo si guarda intorno come se aspettasse qualcuno."
 							],
 							"id": "00b"
 						},
-						"If Red goes to investigate, the sapling, a young {@creature awakened shrub}, introduces herself as Elowen Greenleaf. She knows all about Red the Ranger and recommended Red to Mr. Honeycutt to help unravel and solve the mystery of the color outages.",
+						"Se Rosso va a indagare, l'alberello, un giovane {@creature awakened shrub}, si presenta come Elowen Greenleaf. Sa tutto di Red the Ranger e lo ha consigliato al signor Honeycutt per aiutarlo a svelare e risolvere il mistero delle interruzioni del colore.",
 						{
 							"type": "entries",
 							"name": "Meeting Elowen",
 							"page": 4,
 							"entries": [
-								"Elowen Greenleaf is dressed in a Sapling Scout uniform that includes a green sash with stitched-on badges. She's precocious and eager to earn merit badges by being a helpful member of the forest community\u2014but she's also secretly a member of the Lorekeeper Society.",
-								"She tells Red she's involved in a matter of great importance: Mr. Honeycutt has entrusted her with a mission to find the Crimson Gem, one of the six Gems of Power. But there's a problem, and it's why they need the help of a ranger. The gem is guarded by the legendary Scarlet Sentinel, and no one knows how to get past it. All Elowen has to go on is a tattered map."
+								"Elowen Greenleaf indossa un'uniforme da Sapling Scout che include una fascia verde con distintivi cuciti. È precoce e desiderosa di guadagnare distintivi di merito essendo un membro utile della comunità della foresta, ma è anche segretamente membro della Lorekeeper Society.",
+								"Dice a Red di essere coinvolta in una questione di grande importanza: il signor Honeycutt le ha affidato la missione di trovare la Gemma Cremisi, una delle sei Gemme del Potere. Ma c'è un problema, ed è per questo che hanno bisogno dell'aiuto di un ranger. La gemma è custodita dalla leggendaria Sentinella Scarlatta e nessuno sa come oltrepassarla. Tutto ciò su cui Elowen può andare avanti è una mappa a brandelli."
 							],
 							"id": "00c"
 						},
@@ -145,7 +145,7 @@
 							"name": "Equipment",
 							"page": 4,
 							"entries": [
-								"Elowen has a pair of binoculars, a compass, a box of Sapling Scout wafers, and a sewing kit."
+								"Elowen ha un binocolo, una bussola, una scatola di wafer Sapling Scout e un kit da cucito."
 							],
 							"id": "00d"
 						},
@@ -154,19 +154,19 @@
 							"name": "What Elowen Knows",
 							"page": 4,
 							"entries": [
-								"If pressed for more information, Elowen can tell Red the following:",
+								"Se richiesto per ulteriori informazioni, Elowen può dire a Red quanto segue:",
 								{
 									"type": "list",
 									"items": [
-										"Mr. Honeycutt is a kindly man who's the head of the Lorekeeper Society.",
-										"The Lorekeeper Society is an ancient and secret group dedicated to the defense of Harmony.",
-										"The Crimson Gem has something to do with helping stop the color outages in Harmony.",
-										"The Scarlet Sentinel is an ancient statue that the Lorekeeper Society magically enchanted long ago to guard the Crimson Gem. But how to deactivate it has long since been lost.",
-										"Some bad guys are also looking for the Crimson Gem and Mr. Honeycutt believes they're the ones responsible for the recent color outages. She doesn't know who they are though.",
-										"She has a tattered map (see \"Elowen's Map,\" below) from the Lorekeeper Society library, but she doesn't recognize the location the map refers to."
+										"Il signor Honeycutt è un uomo gentile che è il capo della Lorekeeper Society.",
+										"La Lorekeeper Society è un gruppo antico e segreto dedito alla difesa dell'Armonia.",
+										"La Gemma Cremisi ha qualcosa a che fare con l'aiuto a fermare le interruzioni di colore in Harmony.",
+										"La Sentinella Scarlatta è un'antica statua che la Lorekeeper Society incantò magicamente molto tempo fa per custodire la Gemma Cremisi. Ma come disattivarlo è stato perso da tempo.",
+										"Anche alcuni cattivi stanno cercando la gemma cremisi e il signor Honeycutt crede che siano loro i responsabili delle recenti interruzioni del colore. Lei non sa chi sono però.",
+										"Ha una mappa lacera (vedi \"Mappa di Elwen\", di seguito) dalla biblioteca della Lorekeeper Society, ma non riconosce la posizione a cui si riferisce la mappa."
 									]
 								},
-								"Elowen entreats Red to help her find the Crimson Gem and sweetly offers to embroider a Sapling Scout merit badge for them as a reward."
+								"Elowen implora Red di aiutarla a trovare la Gemma Cremisi e si offre dolcemente di ricamare per loro un distintivo di merito da Sapling Scout come ricompensa."
 							],
 							"id": "00e"
 						},
@@ -175,9 +175,9 @@
 							"name": "Elowen's Map",
 							"page": 4,
 							"entries": [
-								"If Red agrees to help the Lorekeeper Society, Elowen shows Red the tattered parchment map. The map illustrates the rough location of what could be a cave mouth or doorway.",
-								"Red also recognizes the unique shape of the trees depicted on the map as belonging to the lemondrop tree. Red thinks the most likely location is Lemondrop Ledges\u2014a place deep in the wilderness that Red has heard about, but never explored. Some say that, long ago, temples were carved into the cliffs, and Red has often wondered if the rumors were true.",
-								"Also, some cryptic glyphs are drawn next to the doorway on the map:",
+								"Se Red accetta di aiutare la Lorekeeper Society, Elowen mostra a Red la mappa pergamena sbrindellata. La mappa illustra la posizione approssimativa di quella che potrebbe essere l'imboccatura di una grotta o una porta.",
+								"Il rosso riconosce anche la forma unica degli alberi raffigurati sulla mappa come appartenenti all'albero del limone. Red pensa che il luogo più probabile sia Lemondrop Ledges, un luogo immerso nella natura selvaggia di cui Red ha sentito parlare, ma non ha mai esplorato. Alcuni dicono che, molto tempo fa, i templi fossero scavati nelle scogliere, e Red si è spesso chiesto se le voci fossero vere.",
+								"Inoltre, alcuni glifi criptici sono disegnati accanto alla porta sulla mappa:",
 								"🦊🧤",
 								"🕷️🌿",
 								"🐱🐾",
@@ -186,7 +186,7 @@
 									"name": "The Secret of the Glyphs",
 									"page": 4,
 									"entries": [
-										"The glyphs represent the three plants that must be touched in the correct order to open the magic door at the entrance to the temple (see area R1, below). The plants are foxglove, spider plant, and catspaw, respectively."
+										"I glifi rappresentano le tre piante che devono essere toccate nell'ordine corretto per aprire la porta magica all'ingresso del tempio (vedi area R1, sotto). Le piante sono rispettivamente digitale, pianta ragno e zampa di gatto."
 									],
 									"id": "010"
 								}
@@ -201,19 +201,19 @@
 					"name": "Arriving After the Ambush",
 					"page": 4,
 					"entries": [
-						"Red dashes through the forest taking a wrong turn here and there. Finally, as Red nears the grove, read the following:",
+						"Red sfreccia attraverso la foresta prendendo qua e là la svolta sbagliata. Infine, mentre Red si avvicina al boschetto, leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"page": 4,
 							"entries": [
-								"As you enter the Old Oak Grove, you hear a cry of alarm and what sounds like arrows whistling through the air. Near the Old Oak, you see a small sapling with a tiny, {@condition frightened} face flanked by two gnarled thorn bushes that look threatening."
+								"Quando entri nell'Old Oak Grove, senti un grido di allarme e quello che sembra un sibilo di frecce nell'aria. Vicino alla Vecchia Quercia, vedi un piccolo alberello con una piccola faccia {@condition frightened} fiancheggiato da due cespugli spinosi nodosi che sembrano minacciosi."
 							],
 							"id": "012"
 						},
-						"A successful {@dc 10} Intelligence ({@skill Nature}) check reveals that the thorn bushes are two {@creature twig blight||twig blights}, while the {@condition frightened} sapling wearing a green sash with stitched-on badges is an {@creature awakened shrub}, Elowen Greenleaf.",
-						"Red can deal with the twig blights in a number of ways. Trying to intimidate or persuade them is difficult and Red must make a successful {@dc 15} Charisma ({@skill Intimidation} or {@skill Persuasion}) check to change their minds.",
-						"The {@creature twig blight||twig blights} have orders from the shadowy Mr. Greystone to find the Scarlet Sentinel and retrieve the Crimson Gem. For what purpose, they don't know, but what they do know is that bringing Elowen Greenleaf back to their master is a good first step to finding the gem.",
-						"Should all go successfully, after the conflict, have Red and Elowen meet (see \"Meeting Elowen,\" above)."
+						"Un controllo riuscito di {@dc 10} Intelligenza ({@skill Nature}) rivela che i cespugli spinosi sono due {@creature twig blight||twig blights}, mentre l'alberello {@condition frightened} che indossa una fascia verde con distintivi cuciti è un {@creature awakened shrub}, Elowen Greenleaf.",
+						"Il rosso può affrontare i danni dei ramoscelli in diversi modi. Cercare di intimidirli o persuaderli è difficile e il Rosso deve effettuare con successo una prova di Carisma ({@skill Intimidation} o {@skill Persuasion}) per fargli cambiare idea.",
+						"Il {@creature twig blight||twig blights} ha ricevuto l'ordine dall'oscuro Mr. Greystone di trovare la Sentinella Scarlatta e recuperare la Gemma Cremisi. A quale scopo non lo sanno, ma quello che sanno è che riportare Elowen Greenleaf al loro padrone è un buon primo passo per trovare la gemma.",
+						"Se tutto dovesse andare bene, dopo il conflitto, fate incontrare Red ed Elowen (vedi \"Incontro con Elowen\", sopra)."
 					],
 					"id": "011"
 				},
@@ -222,14 +222,14 @@
 					"name": "Journey to Lemondrop Ledges",
 					"page": 5,
 					"entries": [
-						"If Red chooses to help Elowen, they set off for Lemondrop Ledges, which is a two-hour hike from the Old Oak Grove. As they travel, Red notices the color outages extend into the wilderness. Even the animals are noticeably duller, and some are now just tones of gray. Red also notices a {@creature chimeric fox|NRH-AVitW} that seems to be following them. The fox is inquisitive and maybe even a bit nosey, but it's skittish and isn't fond of loud noises. If Red is kind to the fox, it tags along for the rest of the adventure and helps the party as best it can\u2014by barking if there's danger or by distracting a dangerous foe.",
-						"This is also a good place to have Red discover some healing plants that Red (or Elowen) can brew into a {@item potion of healing}. Finding the healing plants requires a successful {@dc 14} Intelligence ({@skill Nature}) check, or you can have Red automatically find the plants and brew the potion.",
+						"Se Rosso sceglie di aiutare Elowen, partiranno per Lemondrop Ledges, che è un'escursione di due ore dall'Old Oak Grove. Mentre viaggiano, Red nota che le interruzioni del colore si estendono anche alle terre selvagge. Anche gli animali sono notevolmente più opachi e alcuni ora hanno solo toni di grigio. Anche il rosso nota un {@creature chimeric fox|NRH-AVitW} che sembra seguirli. La volpe è curiosa e forse anche un po' ficcanaso, ma è ombrosa e non ama i rumori forti. Se Rosso è gentile con la volpe, la seguirà per il resto dell'avventura e aiuterà il gruppo come meglio può, abbaiando se c'è pericolo o distraendo un nemico pericoloso.",
+						"Questo è anche un buon posto per far scoprire a Red alcune piante curative che Red (o Elowen) può trasformare in un {@item potion of healing}. Trovare le piante curative richiede una prova riuscita di {@dc 14} Intelligenza ({@skill Nature}), oppure puoi fare in modo che Red trovi automaticamente le piante e prepari la pozione.",
 						{
 							"type": "entries",
 							"name": "Finding the Ledges",
 							"page": 5,
 							"entries": [
-								"To find Lemondrop Ledges, Red must succeed on three consecutive {@dc 12} Wisdom ({@skill Survival}) checks. If Red uses Elowen's map, they have advantage on the checks. If a check fails, Elowen can assist by rolling herself, but as she hasn't completed her Sapling Scout orienteering course yet, she doesn't have advantage on her roll."
+								"Per trovare Lemondrop Ledges, il Rosso deve riuscire in tre prove consecutive di {@dc 12} Saggezza ({@skill Survival}). Se il Rosso usa la mappa di Elowen, ha vantaggio sui controlli. Se un controllo fallisce, Elowen può aiutare rotolando da sola, ma poiché non ha ancora completato il suo corso di orienteering Sapling Scout, non ha vantaggio sul suo tiro."
 							],
 							"id": "014"
 						},
@@ -238,13 +238,13 @@
 							"name": "Arriving at the Ledges",
 							"page": 5,
 							"entries": [
-								"Eventually, they begin to smell the scent of fresh lemons as they reach the top of a bluff covered by lemondrop trees. Sheer cliffs fall 100 feet from the bluff into the ravine below.",
+								"Alla fine, iniziano a sentire il profumo dei limoni freschi mentre raggiungono la cima di un promontorio coperto di alberi di limoni. Scogliere a strapiombo cadono per 100 piedi dalla scogliera nel burrone sottostante.",
 								{
 									"type": "inset",
 									"name": "Lemondrop Trees",
 									"page": 5,
 									"entries": [
-										"These deciduous fruiting trees have silvery bark, distinctive spiky, green leaves, and clusters of small, lemon-sweet fruit. Birds, bees, and other forest animals love these fruits as it gives them a boost of energy. Eating three or more fruits grants Red the benefits of an enhance ability (bear's endurance) spell (no concentration required)."
+										"Questi alberi da frutto decidui hanno corteccia argentata, foglie verdi appuntite e caratteristici e grappoli di piccoli frutti dolci come il limone. Gli uccelli, le api e altri animali della foresta adorano questi frutti perché danno loro una sferzata di energia. Mangiare tre o più frutti garantisce a Rosso i benefici di un incantesimo di potenziamento dell'abilità (resistenza dell'orso) (non è richiesta la concentrazione)."
 									],
 									"id": "016"
 								}
@@ -256,8 +256,8 @@
 							"name": "Finding the Entrance",
 							"page": 5,
 							"entries": [
-								"The entrance to the Temple of the Scarlet Sentinel is in the cliff face across the ravine from Lemondrop Ledges and requires a successful {@dc 14} Wisdom ({@skill Perception}) check to spot. If Elowen or Red remember to use the binoculars Elowen has in her Sapling Scout pack, they have advantage on the check. If the check fails, they still find the entrance, but two twig blights sneak up on them and attack while they're busy looking for it.",
-								"Getting to the entrance means climbing down the 100-foot cliff into the ravine, crossing the ravine, then climbing halfway up the other side. However, to the north, a precarious-looking rope bridge crosses the ravine, should the adventurers choose that path."
+								"L'ingresso al Tempio della Sentinella Scarlatta si trova sulla parete rocciosa oltre il burrone da Lemondrop Ledges e richiede una prova di Saggezza ({@skill Perception}) riuscita per essere individuato. Se Elowen o Red si ricordano di usare il binocolo che Elowen ha nel suo zaino da Esploratore, hanno vantaggio alla prova. Se il controllo fallisce, trovano comunque l'ingresso, ma due ramoscelli rovinati si avvicinano di soppiatto e attaccano mentre sono impegnati a cercarlo.",
+								"Raggiungere l'ingresso significa scendere la scogliera di 100 piedi nel burrone, attraversare il burrone, quindi salire a metà sull'altro lato. Tuttavia, a nord, un ponte di corda dall'aspetto precario attraversa il burrone, nel caso in cui gli avventurieri scegliessero quel percorso."
 							],
 							"id": "017"
 						},
@@ -266,8 +266,8 @@
 							"name": "Scaling the Cliffs",
 							"page": 5,
 							"entries": [
-								"Whether Red is climbing up the cliff or rappelling down it, they must make a {@dc 12} Strength ({@skill Athletics}) check for every 15 feet of movement (rounded up). Using climbing gear or anchoring themselves to a tree with a rope gives them advantage on the check. If the check fails, and the character isn't anchored to a tree by a rope, any falling character takes 3 ({@damage 1d6}) bludgeoning damage for every 10 feet fall.",
-								"Crossing the base of the ravine poses no difficulty to Red."
+								"Sia che il Rosso stia risalendo la scogliera o scendendo in corda doppia, deve effettuare una prova di Forza {@dc 12} ({@skill Athletics}) per ogni 15 piedi di movimento (arrotondato per eccesso). Usare l'attrezzatura per arrampicarsi o ancorarsi a un albero con una corda dà loro un vantaggio nella prova. Se la prova fallisce e il personaggio non è ancorato a un albero tramite una corda, qualsiasi personaggio che cade subisce 3 ({@damage 1d6}) danni contundenti per ogni caduta di 3 metri.",
+								"Attraversare la base del burrone non pone alcuna difficoltà a Red."
 							],
 							"id": "018"
 						},
@@ -276,13 +276,13 @@
 							"name": "Rope Bridge",
 							"page": 6,
 							"entries": [
-								"The 250-foot-long rope bridge has wood planks to walk on. Some of the planks are missing or look worse for wear. Some frayed suspension ropes dangle from the main lines where the wood planks have given way. Overall, the bridge looks worn and weather-beaten, but feels as if it'll still take some weight.",
+								"Il ponte di corda lungo 250 piedi ha assi di legno su cui camminare. Alcune assi mancano o sembrano peggiorate per l'usura. Alcune funi di sospensione sfilacciate pendono dalle linee principali dove le assi di legno hanno ceduto. Nel complesso, il ponte sembra usurato e rovinato dalle intemperie, ma sembra che debba ancora sostenere un po' di peso.",
 								{
 									"type": "inset",
 									"name": "Fun with Rope Bridges!",
 									"page": 6,
 									"entries": [
-										"A rope bridge is a great place to throw in some peril for your player to deal with. You can have a horde of needle blights chase them so they have to cross the bridge, or you can have needle blights harass them as they're halfway across. Feel free to invent fun complications for your player as they navigate across it\u2014nothing creates more tension than the rope bridge being sawed through as your heroes run for their lives, or when the heroes must cut the ropes as a bunch of needle blights scramble across after them!"
+										"Un ponte di corda è un ottimo posto in cui gettare qualche pericolo da affrontare per il tuo giocatore. Puoi fare in modo che un'orda di piaghe degli aghi li insegua in modo che debbano attraversare il ponte, oppure puoi fare in modo che le piaghe degli aghi li molestino mentre sono a metà strada. Sentiti libero di inventare complicazioni divertenti per il tuo giocatore mentre lo attraversa: niente crea più tensione del ponte di corda che viene segato mentre i tuoi eroi corrono per salvarsi la vita, o quando gli eroi devono tagliare le corde mentre un gruppo di aghi rovinati si arrampica dietro di loro!"
 									],
 									"id": "01a"
 								}
@@ -297,8 +297,8 @@
 					"name": "Temple of the Scarlet Sentinel",
 					"page": 6,
 					"entries": [
-						"The Temple of the Scarlet Sentinel was carved into the cliff long ago as a secret place to house and guard the Crimson Gem.",
-						"The following locations are keyed to the Temple of the Scarlet Sentinel map:",
+						"Il Tempio della Sentinella Scarlatta fu scavato nella roccia molto tempo fa come luogo segreto dove ospitare e custodire la Gemma Cremisi.",
+						"Le seguenti posizioni sono collegate alla mappa del Tempio della Sentinella Scarlatta:",
 						{
 							"type": "image",
 							"href": {
@@ -863,15 +863,15 @@
 							"name": "R1. Cliff Ledge Entrance",
 							"page": 6,
 							"entries": [
-								"Whichever way Red gets to the entrance, they finally arrive at a thin ledge on the cliff face 50 feet off the ground. The doorway to the temple is a bas-relief archway carved into the cliff. The bas-relief comprises leaves, flowers, and plants of all different varieties.",
+								"Qualunque sia il modo in cui Red arriva all'ingresso, alla fine arriva ad una sottile sporgenza sulla parete rocciosa a 50 piedi da terra. La porta del tempio è un arco in bassorilievo scolpito nella roccia. Il bassorilievo comprende foglie, fiori e piante di tutte le varietà.",
 								{
 									"type": "entries",
 									"name": "Opening the Door",
 									"page": 6,
 									"entries": [
-										"If Red makes a successful {@dc 12} Intelligence ({@skill Nature}) check, they find carved into the door the same three species of plant depicted on the map: foxglove, spider plant, and catspaw.",
-										"Pressing them in that order triggers the door's magic. Glowing lines emerge around the archway as a seam forms in the solid stone, then stone grinds on stone as the door swings open.",
-										"If the player struggles to solve the puzzle, have Elowen give Red a vital clue that puts them on the right track."
+										"Se il Rosso effettua con successo una prova di {@dc 12} Intelligenza ({@skill Nature}), trova scolpite nella porta le stesse tre specie di piante raffigurate sulla mappa: digitale, pianta ragno e erba gatta.",
+										"Premendoli in quest'ordine si attiva la magia della porta. Linee luminose emergono attorno all'arco mentre si forma una cucitura nella solida pietra, poi la pietra macina la pietra mentre la porta si apre.",
+										"Se il giocatore ha difficoltà a risolvere il puzzle, chiedi a Elowen di dare a Red un indizio vitale che lo metta sulla strada giusta."
 									],
 									"id": "01d"
 								}
@@ -883,16 +883,16 @@
 							"name": "R2. Passageway",
 							"page": 6,
 							"entries": [
-								"When Red enters the passageway, read the following:",
+								"Quando Rosso entra nel passaggio, leggi quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"page": 6,
 									"entries": [
-										"The air smells dank and stale as you look into a dark tunnel that leads into the cliff. Colorful pictograms on the either side of the tunnel show a variety of scenes: happy NERDS frolicking beside a well from which a rainbow of colors pours forth; the city of Harmony being built; an amulet that has six colorful gemstones in it; and a scene of a great library being built."
+										"L'aria ha un odore umido e stantio mentre guardi in un tunnel buio che conduce nella scogliera. Pittogrammi colorati su entrambi i lati del tunnel mostrano una varietà di scene: NERDS felici che si divertono accanto a un pozzo da cui sgorga un arcobaleno di colori; la città dell'Armonia in costruzione; un amuleto che contiene sei gemme colorate; e una scena di una grande biblioteca in costruzione."
 									],
 									"id": "01f"
 								},
-								"Coming from a room at the far end of the tunnel, Red can see a faint, reddish glow."
+								"Provenendo da una stanza all'estremità del tunnel, Red può vedere un debole bagliore rossastro."
 							],
 							"id": "01e"
 						},
@@ -901,27 +901,27 @@
 							"name": "R3. Chamber of the Sentinel",
 							"page": 6,
 							"entries": [
-								"As Red approaches the entrance to this circular, 75-foot-diameter room with a 20-foot-high domed ceiling, read the following:",
+								"Mentre Rosso si avvicina all'ingresso di questa stanza circolare di 75 piedi di diametro con un soffitto a cupola alto 20 piedi, leggi quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"page": 6,
 									"entries": [
-										"In the center of the room, you see a faintly glowing red gemstone hovering above a 12-foot-tall statue of a warrior that sits atop a stone dais. The gemstone's glow dimly lights the room. On the floor, a large red circle etched with strange sigils surrounds the statue and extends across most of the room, leaving only a 5-foot wide path around the edge of the circular chamber. As if sensing your presence, the statue's eyes snap open and glow red."
+										"Al centro della stanza, vedi una gemma rossa debolmente luminosa sospesa sopra una statua alta 12 piedi di un guerriero che siede su una pedana di pietra. Il bagliore della pietra preziosa illumina debolmente la stanza. Sul pavimento, un grande cerchio rosso inciso con strani sigilli circonda la statua e si estende per gran parte della stanza, lasciando solo un percorso largo 1,5 metri attorno al bordo della camera circolare. Come se percepissero la tua presenza, gli occhi della statua si aprono di scatto e si illuminano di rosso."
 									],
 									"id": "021"
 								},
-								"On a raised dais in the center of the room stands the Scarlet Sentinel. It's made from blood onyx and depicts a strange, humanlike creature with elongated arms and fangs that jut from its wide mouth. Any creature that moves into the red circle painted on the floor, even if they cross the boundary without touching the floor, activates the sentinel, which instantly attacks the nearest living thing. As soon as there's nothing alive within the circle, the sentinel returns to the dais and goes dormant\u2014except for its ominously glowing eyes.",
+								"Su una pedana rialzata al centro della stanza si trova la Sentinella Scarlatta. È fatto di onice sanguigno e raffigura una strana creatura simile a quella umana con braccia allungate e zanne che sporgono dalla sua ampia bocca. Qualsiasi creatura che si muove all'interno del cerchio rosso dipinto sul pavimento, anche se attraversa il confine senza toccare il pavimento, attiva la sentinella, che attacca istantaneamente l'essere vivente più vicino. Non appena non c'è più nulla di vivo all'interno del cerchio, la sentinella ritorna sulla pedana e diventa dormiente, fatta eccezione per i suoi occhi minacciosamente luminosi.",
 								{
 									"type": "entries",
 									"name": "Getting the Gem",
 									"page": 6,
 									"entries": [
-										"The gem is magically levitating 17 feet off the ground (5 feet above the sentinel's head). There are many ways Red can go about getting the gem. Here are two methods:",
+										"La gemma levita magicamente a 17 piedi da terra (5 piedi sopra la testa della sentinella). Ci sono molti modi in cui Rosso può fare per ottenere la gemma. Ecco due metodi:",
 										{
 											"type": "list",
 											"items": [
-												"Red can shoot the hovering gem with an arrow to knock it beyond the red circle. The gem has AC 18, 3 hit points, and immunity to poison and psychic damage. Red must put a pad over the arrow tip, otherwise Red risks shattering the gem. If Red hits the gem with a regular arrow, have the player roll damage. If Red deals the gem 4 or more damage, then the gem breaks and Elowen howls in despair. The gem can ultimately be fixed if the pieces are taken back to {@creature Mr. Honeycutt|NRH-TCMC}, but he panics when he first sees the gem, before remembering he knows a wizard who can help him restore it. Hitting the gem with a padded arrow knocks the gem toward the edge. Have the player roll a {@dice d6}. On a 1\u20134 the gem flies outside the red circle, on a 5 or 6, the gem falls inside the circle where Red can hit it again.",
-												"Red and Elowen can work together with one of them luring the sentinel away while the other grabs the gem with a net or a long pole. This requires quick and flawless execution as one hit from the sentinel can spell certain death."
+												"Il rosso può colpire la gemma sospesa con una freccia per lanciarla oltre il cerchio rosso. La gemma ha CA 18, 3 punti ferita e immunità al veleno e ai danni psichici. Il Rosso deve mettere un tampone sulla punta della freccia, altrimenti il ​​Rosso rischia di frantumare la gemma. Se il Rosso colpisce la gemma con una freccia normale, chiedi al giocatore di tirare i danni. Se il Rosso infligge alla gemma 4 o più danni, la gemma si rompe ed Elowen urla disperato. Alla fine la gemma può essere riparata se i pezzi vengono riportati a {@creature Mr. Honeycutt|NRH-TCMC}, ma va nel panico quando vede la gemma per la prima volta, prima di ricordare di conoscere un mago che può aiutarlo a ripristinarla. Colpire la gemma con una freccia imbottita la fa cadere verso il bordo. Chiedi al giocatore di tirare un {@dice d6}. Con 1–4 la gemma vola fuori dal cerchio rosso, con 5 o 6 la gemma cade all'interno del cerchio dove il Rosso può colpirla di nuovo.",
+												"Red ed Elowen possono collaborare: uno di loro attira via la sentinella mentre l'altro afferra la gemma con una rete o un lungo palo. Ciò richiede un'esecuzione rapida e impeccabile poiché un colpo della sentinella può significare morte certa."
 											]
 										}
 									],
@@ -938,10 +938,10 @@
 					"name": "Completing the Mission",
 					"page": 7,
 					"entries": [
-						"If all goes well, Elowen and Red get the gem and head back toward Harmony, where Elowen excitedly wants to introduce her new hero Red to Mr. Honeycutt. You can have them meet in the Old Oak Grove or in a tavern or library within Harmony.",
-						"Mr. Honeycutt is overjoyed at the return of the Crimson Gem (unless it's in pieces) and wants to know everything about the adventure while he scribbles copious notes in his black notebook.",
-						"For their troubles, he awards Elowen with a shiny badge of merit for outstanding service and promotes her to Sapling Scout First Class. To Red, he gives a pouch containing 20 gp and invites Red to join the Lorekeeper Society. If Red accepts, Mr. Honeycutt gives Red a magic cloak pin with the emblem of the Lorekeeper Society on it. The Lorekeeper pin acts as a {@item necklace of adaptation}.",
-						"Elowen also gives Red a newly stitched merit badge for acts of heroism and bravery."
+						"Se tutto va bene, Elowen e Red prendono la gemma e tornano verso Harmony, dove Elowen vuole presentare con entusiasmo il suo nuovo eroe Red al signor Honeycutt. Puoi farli incontrare nell'Old Oak Grove o in una taverna o biblioteca all'interno di Harmony.",
+						"Il signor Honeycutt è felicissimo per il ritorno della Gemma Cremisi (a meno che non sia in pezzi) e vuole sapere tutto sull'avventura mentre scarabocchia copiosi appunti sul suo taccuino nero.",
+						"Per i loro problemi, premia Elowen con un brillante distintivo di merito per il servizio eccezionale e la promuove a Sapling Scout di prima classe. A Rosso dà un sacchetto contenente 20 mo e lo invita a unirsi alla Lorekeeper Society. Se Red accetta, il signor Honeycutt dà a Red una spilla magica da mantello con sopra l'emblema della Lorekeeper Society. La spilla del Lorekeeper funge da {@item necklace of adaptation}.",
+						"Elowen dà anche a Red un distintivo di merito appena cucito per atti di eroismo e coraggio."
 					],
 					"id": "023"
 				},
@@ -950,7 +950,7 @@
 					"name": "Magic Items",
 					"page": 7,
 					"entries": [
-						"The following magic items appear in this adventure.",
+						"I seguenti oggetti magici compaiono in questa avventura.",
 						{
 							"type": "list",
 							"items": [
@@ -1047,7 +1047,7 @@
 													"type": "item",
 													"name": "Illustrations",
 													"entries": [
-														"Red Central"
+														"Rosso Centrale"
 													]
 												},
 												{
@@ -1088,14 +1088,14 @@
 													"type": "item",
 													"name": "Sr. Associate Brand Manager, NERDS:",
 													"entries": [
-														"Lukas Krause"
+														"Lucas Krause"
 													]
 												},
 												{
 													"type": "item",
 													"name": "Content Manager, NERDS:",
 													"entries": [
-														"Annie Belgrade"
+														"Annie Belgrado"
 													]
 												},
 												{
@@ -1136,7 +1136,7 @@
 													"type": "item",
 													"name": "Founder, Managing Partner",
 													"entries": [
-														"Christopher Erb"
+														"Cristoforo Erb"
 													]
 												},
 												{
@@ -1150,7 +1150,7 @@
 													"type": "item",
 													"name": "Additional Support",
 													"entries": [
-														"VMLY&R Commerce, Taxi, Pep, and Golin"
+														"VMLY&R Commercio, Taxi, Pep e Golin"
 													]
 												}
 											]

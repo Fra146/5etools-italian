@@ -84,7 +84,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Amble is a 12th-level spellcaster. Their spellcasting ability is Wisdom (spell save {@dc 16}, {@hit 8} to hit with spell attacks). Amble has the following druid spells prepared:"
+						"Amble è un incantatore di 12° livello. La loro abilità da incantatore è Saggezza (salvezza incantesimo {@dc 16}, {@hit 8} per colpire con attacchi con incantesimo). Amble ha preparato i seguenti incantesimi da druido:"
 					],
 					"spells": {
 						"0": {
@@ -149,27 +149,27 @@
 				{
 					"name": "Hearth of Moonlight and Shadow",
 					"entries": [
-						"At the start of a short or long rest, Amble can touch a point in space, and an {@condition invisible}, 30-foot-radius sphere of magic appears, centered on that point. {@quickref Cover||3||Total cover} blocks the sphere.",
-						"While within the sphere, Amble and their allies gain a +5 bonus to Dexterity ({@skill Stealth}) and Wisdom ({@skill Perception}) checks, and any light from open flames in the sphere isn't visible outside it.",
-						"The sphere vanishes at the end of the rest or when Amble leaves the sphere."
+						"All'inizio di un riposo breve o lungo, Amble può toccare un punto nello spazio e appare una sfera magica {@condition invisible} del raggio di 9 metri, centrata su quel punto. {@quickref Cover||3||Total cover} blocca la sfera.",
+						"Mentre si trovano all'interno della sfera, Amble e i loro alleati ottengono un bonus di +5 alle prove di Destrezza ({@skill Stealth}) e Saggezza ({@skill Perception}) e qualsiasi luce proveniente dalle fiamme libere nella sfera non è visibile all'esterno di essa.",
+						"La sfera svanisce alla fine del riposo o quando Amble lascia la sfera."
 					]
 				},
 				{
 					"name": "Hold Breath",
 					"entries": [
-						"Amble can hold their breath for up to 1 hour at a time."
+						"Amble può trattenere il respiro fino a 1 ora alla volta."
 					]
 				},
 				{
 					"name": "Balm of the Summer Court (12d6)",
 					"entries": [
-						"(As a Bonus Action) Amble can choose one creature they can see within 120 feet of them and spend up to {@dice 6d6} of their die pool. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent. Amble regains all expended dice when they finish a long rest."
+						"(Come azione bonus) Amble può scegliere una creatura che può vedere entro 120 piedi da lui e spendere fino al {@dice 6d6} della sua riserva di dadi. Lancia i dadi spesi e aggiungili insieme. Il bersaglio recupera un numero di punti ferita pari al totale. Il bersaglio guadagna anche 1 punto ferita temporaneo per ogni dado speso. Amble recupera tutti i dadi spesi quando termina un riposo lungo."
 					]
 				},
 				{
 					"name": "Hidden Paths (4/Day)",
 					"entries": [
-						"(As a Bonus Action) Amble may teleport up to 60 feet to an unoccupied space they can see."
+						"(Come azione bonus) Amble può teletrasportarsi fino a 60 piedi in uno spazio non occupato che può vedere."
 					]
 				}
 			],
@@ -177,22 +177,22 @@
 				{
 					"name": "Change Shape (2/Day)",
 					"entries": [
-						"Amble magically polymorphs into a beast with a challenge rating of 1 or less, and can remain in this form for up to 6 hours. Amble's equipment melds with their new form. Amble reverts to their true form if they die or fall {@condition unconscious}. Amble can revert to their true form using a bonus action on their turn.",
-						"Amble's game statistics are replaced by the statistics of the beast, but they retain their alignment, personality, and Intelligence, Wisdom, and Charisma scores. Amble also retains all their skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as Amble and the bonus in its stat block is higher, use the creature's bonus instead of Amble's.",
-						"When Amble transforms, they assume the beast's hit points and Hit Dice. When Amble reverts to their normal form, they return to the number of hit points they had before they transformed. However, if Amble reverts as a result of dropping to 0 hit points, any excess damage carries over their normal form.",
-						"Amble can't cast spells, and their ability to speak or take any action that requires hands is limited to the capabilities of their beast form. Transforming doesn't break Amble's {@status concentration} on a spell they've already cast however, or prevent them from taking actions that are part of a spell."
+						"Amble si trasforma magicamente in una bestia con un grado di sfida pari o inferiore a 1 e può rimanere in questa forma fino a 6 ore. L'equipaggiamento di Amble si fonde con la loro nuova forma. Amble ritorna alla sua vera forma se muore o cade {@condition unconscious}. Amble può ritornare alla sua vera forma utilizzando un'azione bonus nel proprio turno.",
+						"Le statistiche di gioco di Amble vengono sostituite dalle statistiche della bestia, ma mantengono il loro allineamento, personalità e punteggi di Intelligenza, Saggezza e Carisma. Amble mantiene anche tutte le sue competenze in abilità e tiri salvezza, oltre a guadagnare quelle della creatura. Se la creatura ha la stessa competenza di Camminare e il bonus nel suo blocco statistiche è più alto, usa il bonus della creatura invece di quello di Camminare.",
+						"Quando Amble si trasforma, assumono i punti ferita e i Dadi Vita della bestia. Quando Amble ritorna alla loro forma normale, ritornano al numero di punti ferita che avevano prima della trasformazione. Tuttavia, se Camminata ritorna a causa della caduta a 0 punti ferita, eventuali danni in eccesso vengono mantenuti nella loro forma normale.",
+						"Amble non può lanciare incantesimi e la loro capacità di parlare o compiere qualsiasi azione che richieda le mani è limitata alle capacità della loro forma bestiale. Tuttavia, la trasformazione non interrompe Amble {@status concentration} su un incantesimo che hanno già lanciato, né impedisce loro di intraprendere azioni che fanno parte di un incantesimo."
 					]
 				},
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) slashing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danni taglienti."
 					]
 				},
 				{
 					"name": "Club",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit ({@hit 8} to hit with shillelagh), reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage, or 8 ({@damage 1d8 + 4}) bludgeoning damage with shillelagh."
+						"{@atk mw} {@hit 6} per colpire ({@hit 8} per colpire con shillelagh), raggiungi 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni contundenti o 8 ({@damage 1d8 + 4}) danni contundenti con shillelagh."
 					]
 				}
 			],
@@ -270,7 +270,7 @@
 						"items": {
 							"name": "Blood Frenzy",
 							"entries": [
-								"Fhenimore has advantage on melee attack rolls against any creature that doesn't have all its hit points."
+								"Fhenimore ha vantaggio ai tiri per colpire in mischia contro qualsiasi creatura che non abbia tutti i suoi punti ferita."
 							]
 						}
 					},
@@ -389,7 +389,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Gar is a 13th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc 18}, {@hit 10} to hit with spell attacks). He has the following druid spells prepared:"
+						"Gar è un incantatore di 13° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 18}, {@hit 10} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da druido:"
 					],
 					"spells": {
 						"0": {
@@ -473,25 +473,25 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Gar can breathe air and water."
+						"Il Gar può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Gar fails a saving throw, he can choose to succeed instead."
+						"Se Gar fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Water Walk",
 					"entries": [
-						"Gar can stand and move on liquid surfaces as if they were solid ground."
+						"Il luccio può stare in piedi e muoversi su superfici liquide come se fossero un terreno solido."
 					]
 				},
 				{
 					"name": "Watery Fall",
 					"entries": [
-						"When Gar drops to 0 hit points, his body collapses into a pool of inky water that rapidly disperses. Except for {@item Wave} and his claw, anything he was wearing or carrying is left behind."
+						"Quando Gar scende a 0 punti ferita, il suo corpo collassa in una pozza d'acqua nerastra che si disperde rapidamente. Ad eccezione di {@item Wave} e del suo artiglio, tutto ciò che indossava o trasportava è stato lasciato indietro."
 					]
 				}
 			],
@@ -499,25 +499,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Gar makes two melee attacks, one with his claw and one with {@item Wave}."
+						"Gar effettua due attacchi in mischia, uno con l'artiglio e uno con {@item Wave}."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d6 + 3}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 16}). Until the grapple ends, Gar can't attack other creatures with his claw."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 2d6 + 3}) danni contundenti e il bersaglio è {@condition grappled} (fuga {@dc 16}). Fino al termine della presa, Gar non può attaccare altre creature con il suo artiglio."
 					]
 				},
 				{
 					"name": "Wave",
 					"entries": [
-						"{@atk mw,rw} {@hit 11} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}9 ({@damage 1d6 + 6}) piercing damage or 10 ({@damage 1d8 + 6}) piercing damage when used with two hands. If Gar scores a critical hit with this weapon, the target takes extra necrotic damage equal to half its hit point maximum."
+						"{@atk mw,rw} {@hit 11} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}9 ({@damage 1d6 + 6}) danni perforanti o 10 ({@damage 1d8 + 6}) danni perforanti se usato con due mani. Se Gar mette a segno un colpo critico con quest'arma, il bersaglio subisce danni necrotici aggiuntivi pari alla metà dei suoi punti ferita massimi."
 					]
 				},
 				{
 					"name": "Umberlee's Wake {@recharge 5}",
 					"entries": [
-						"Power ripples out in a 60-foot radius sphere from a point within range (150 ft.) as the will of Umberlee affects all in her watery embrace. Each creature in that area must succeed on a {@dc 18} Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save. This only affects targets that are submerged or floating in water. Gar Shatterkeel and any undead serving him are immune to this effect."
+						"Il potere si diffonde in una sfera del raggio di 60 piedi da un punto entro il raggio d'azione (150 piedi) mentre la volontà di Umberlee influenza tutto nel suo abbraccio acquoso. Ogni creatura in quell'area deve riuscire un tiro salvezza su Costituzione {@dc 18}. Se fallisce il Tiro Salvezza, la creatura non può usare reazioni, la sua velocità è dimezzata e non può effettuare più di un attacco nel suo turno. Inoltre, la creatura può utilizzare un'azione o un'azione bonus nel suo turno, ma non entrambe. Questi effetti durano 1 minuto. La creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, ponendo fine all'effetto su se stessa con un tiro salvezza riuscito. Ciò riguarda solo i bersagli sommersi o galleggianti nell'acqua. Gar Shatterkeel e tutti i non morti che lo servono sono immuni a questo effetto."
 					]
 				}
 			],
@@ -525,19 +525,19 @@
 				{
 					"name": "Move",
 					"entries": [
-						"Gar moves up to his speed without provoking opportunity attacks."
+						"Gar si muove alla sua velocità senza provocare attacchi di opportunità."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"Gar makes one attack with his claw."
+						"Gar effettua un attacco con il suo artiglio."
 					]
 				},
 				{
 					"name": "Wave (Costs 2 Actions)",
 					"entries": [
-						"Gar makes one attack with {@item Wave} with advantage."
+						"Gar effettua un attacco con {@item Wave} con vantaggio."
 					]
 				}
 			],
@@ -670,7 +670,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Shoalar's innate spellcasting ability is Constitution (spell save {@dc 14}, {@hit 6} to hit with spell attacks). He can innately cast the following spells:"
+						"L'abilità innata di lanciare incantesimi di Shoalar è Costituzione (salvataggio degli incantesimi {@dc 14}, {@hit 6} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi:"
 					],
 					"will": [
 						"{@spell shape water|XGE}"
@@ -686,7 +686,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Shoalar is a 7th-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 15}, {@hit 7} to hit with spell attacks). He knows the following sorcerer spells:"
+						"Shoalar è un incantatore di 7° livello. La sua abilità da incantatore è Carisma (salvataggio incantesimo {@dc 15}, {@hit 7} per colpire con attacchi con incantesimo). Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -734,7 +734,7 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Shoalar can breathe air and water."
+						"Shoalar può respirare aria e acqua."
 					]
 				}
 			],
@@ -742,7 +742,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or ranged 20/60 ft., one target. {@h}3 ({@damage 1d4 + 1}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una distanza di 20/60 piedi, un bersaglio. {@h}3 ({@damage 1d4 + 1}) danno perforante."
 					]
 				}
 			],
@@ -945,7 +945,7 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"The kraken can breathe air and water."
+						"Il kraken può respirare aria e acqua."
 					]
 				}
 			],
@@ -953,33 +953,33 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The kraken makes two tentacle attacks, each of which it can replace with one use of Fling."
+						"Il kraken effettua due attacchi con i tentacoli, ciascuno dei quali può sostituire con un uso di Scagliare."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 5 ft., one target. {@h}20 ({@damage 3d8 + 7}) piercing damage.",
-						"If the target is a Medium or smaller creature {@condition grappled} by the kraken, that creature is swallowed and the grapple ends. While swallowed, the creature is {@condition blinded} and {@condition restrained}, it has {@quickref Cover||3||total cover} against attacks and other effects outside the kraken, and it takes 21 ({@damage 6d6}) acid damage at the start of each of the kraken's turns. One Medium or two smaller creatures can be swallowed at the same time.",
-						"If the kraken takes 35 damage or more on a single turn from a creature inside it, the kraken must succeed on a {@dc 23} Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall {@condition prone} in spaces within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer {@condition restrained} by it and can escape from the corpse using 10 feet of movement, exiting {@condition prone}."
+						"{@atk mw} {@hit 12} per colpire, raggiungere 5 piedi, un bersaglio. {@h}20 ({@damage 3d8 + 7}) danni perforanti.",
+						"Se il bersaglio è una creatura Media o inferiore {@condition grappled} al kraken, quella creatura viene inghiottita e la presa termina. Mentre viene ingoiata, la creatura è {@condition blinded} e {@condition restrained}, ha {@quickref Cover||3||total cover} contro attacchi e altri effetti esterni al kraken e subisce 21 ({@damage 6d6}) danni da acido all'inizio di ciascuno dei turni del kraken. È possibile inghiottire una creatura Media o due più piccole contemporaneamente.",
+						"Se il kraken subisce 35 danni o più in un singolo turno da una creatura al suo interno, deve riuscire un tiro salvezza su Costituzione {@dc 23} alla fine di quel turno o rigurgitare tutte le creature ingoiate, che cadono {@condition prone} in spazi entro 3 metri dal kraken. Se il kraken muore, una creatura inghiottita non è più {@condition restrained} da esso e può scappare dal cadavere utilizzando 10 piedi di movimento, uscendo {@condition prone}."
 					]
 				},
 				{
 					"name": "Tentacle",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 20 ft., one target. {@h}17 ({@damage 3d6 + 7}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 20}). Until the grapple ends, the target is {@condition restrained}. The kraken has ten tentacles, each of which can grapple one target."
+						"{@atk mw} {@hit 12} per colpire, raggiungere 20 piedi, un bersaglio. {@h}17 ({@damage 3d6 + 7}) danni contundenti e il bersaglio è {@condition grappled} (fuga {@dc 20}). Fino al termine della presa, il bersaglio è {@condition restrained}. Il kraken ha dieci tentacoli, ognuno dei quali può afferrare un bersaglio."
 					]
 				},
 				{
 					"name": "Fling",
 					"entries": [
-						"One Medium or smaller object held or creature {@condition grappled} by the kraken is thrown up to 40 feet in a random direction and knocked {@condition prone}. If a thrown target strikes a solid surface, the target takes 3 ({@damage 1d6}) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a {@dc 13} Dexterity saving throw or take the same damage and be knocked {@condition prone}."
+						"Un oggetto o una creatura di taglia Media o inferiore trattenuto {@condition grappled} dal kraken viene lanciato fino a 40 piedi in una direzione casuale e sbattuto {@condition prone}. Se un bersaglio lanciato colpisce una superficie solida, subisce 3 ({@damage 1d6}) danni contundenti per ogni 3 metri di lancio. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire in un tiro salvezza di Destrezza {@dc 13} o subire lo stesso danno ed essere colpita {@condition prone}."
 					]
 				},
 				{
 					"name": "Lightning Strike",
 					"entries": [
-						"The kraken magically create a bolt of lightning, which can strike a target the kraken can see within 90 feet of it. The target must make a {@dc 18} Dexterity saving throw, taking 22 ({@damage 4d10}) lightning damage on a failed save, or half as much damage on a successful one."
+						"Il kraken crea magicamente un fulmine, che può colpire un bersaglio che il kraken può vedere entro 90 piedi da esso. Il bersaglio deve effettuare un tiro salvezza su Destrezza {@dc 18} e subisce 22 ({@damage 4d10}) danni da fulmine se fallisce il tiro salvezza, o la metà di questi danni se lo riesce."
 					]
 				}
 			],

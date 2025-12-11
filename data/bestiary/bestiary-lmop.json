@@ -64,13 +64,13 @@
 				{
 					"name": "Undead Fortitude",
 					"entries": [
-						"If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+						"Se i danni riducono lo zombi a 0 punti ferita, deve effettuare un tiro salvezza su Costituzione con CD pari a 5+il danno subito, a meno che il danno non sia radiante o provenga da un colpo critico. In caso di successo, lo zombi scende invece a 1 punto ferita."
 					]
 				},
 				{
 					"name": "Ash Puff",
 					"entries": [
-						"The first time the zombie takes damage, any living creature within 5 feet of the zombie must succeed on a {@dc 10} Constitution saving throw or gain disadvantage on attack rolls, saving throws, and ability checks for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on it early with a successful save."
+						"La prima volta che lo zombi subisce danni, qualsiasi creatura vivente entro 1,5 metri dallo zombi deve riuscire un tiro salvezza su Costituzione {@dc 10} o subire svantaggio ai tiri per colpire, ai tiri salvezza e alle prove di caratteristica per 1 minuto. Una creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando anticipatamente l'effetto su di essa se il tiro salvezza riesce."
 					]
 				}
 			],
@@ -78,7 +78,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d6 + 1}) danni contundenti."
 					]
 				}
 			],
@@ -163,7 +163,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save {@dc 13}; {@hit 5} to hit with spell attacks). The mage knows the following spells from the wizard's spell list:"
+						"Il mago è un incantatore di 4° livello che usa l'Intelligenza come capacità di lanciare incantesimi (salvataggio degli incantesimi {@dc 13}; {@hit 5} per colpire con attacchi con incantesimi). Il mago conosce i seguenti incantesimi dalla lista degli incantesimi del mago:"
 					],
 					"spells": {
 						"0": {
@@ -195,7 +195,7 @@
 				{
 					"name": "Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 1} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d8 - 1}) bludgeoning damage."
+						"{@atk mw} {@hit 1} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d8 - 1}) danni contundenti."
 					]
 				}
 			],
@@ -332,13 +332,13 @@
 				{
 					"name": "Incorporeal Movement",
 					"entries": [
-						"The wraith can move through an object or another creature, but can't stop there."
+						"Lo spettro può muoversi attraverso un oggetto o un'altra creatura, ma non può fermarsi lì."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the wraith has disadvantage on attack rolls and on Wisdom ({@skill Perception}) checks that rely on sight."
+						"Mentre è alla luce del sole, lo spettro ha svantaggio ai tiri per colpire e alle prove di Saggezza ({@skill Perception}) basate sulla vista."
 					]
 				}
 			],
@@ -346,7 +346,7 @@
 				{
 					"name": "Life Drain",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}16 ({@damage 3d8 + 3}) necrotic damage, and the target must succeed on a {@dc 13} Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. If this attack reduces the target's hit point maximum to 0, the target dies. This reduction to the target's hit point maximum lasts until the target finishes a long rest."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}16 ({@damage 3d8 + 3}) danni necrotici e il bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 13} altrimenti i suoi punti ferita massimi vengono ridotti di un ammontare pari al danno subito. Se questo attacco riduce i punti ferita massimi del bersaglio a 0, il bersaglio muore. Questa riduzione dei punti ferita massimi del bersaglio dura finché il bersaglio non termina un riposo lungo."
 					]
 				}
 			],
@@ -441,7 +441,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Nezznar can innately cast the following spells, requiring no material components:"
+						"Nezznar può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell dancing lights}"
@@ -457,7 +457,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save {@dc 13}; {@hit 5} to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:"
+						"Nezznar è un incantatore di 4° livello che usa l'Intelligenza come abilità da incantatore (salvataggio degli incantesimi {@dc 13}; {@hit 5} per colpire con attacchi con incantesimi). Nezznar ha preparato i seguenti incantesimi dalla lista degli incantesimi del mago:"
 					],
 					"spells": {
 						"0": {
@@ -490,19 +490,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Nezznar has a {@item spider staff|LMoP}."
+						"Nezznar ha un {@item spider staff|LMoP}."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Nezznar has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Nezznar ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"Nezznar has disadvantage on attack rolls when he or his target is in sunlight."
+						"Nezznar ha svantaggio ai tiri per colpire quando lui o il suo bersaglio sono esposti alla luce del sole."
 					]
 				}
 			],
@@ -510,7 +510,7 @@
 				{
 					"name": "Spider Staff",
 					"entries": [
-						"{@atk mw} {@hit 1} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d6 - 1}) bludgeoning damage plus 3 ({@damage 1d6}) poison damage."
+						"{@atk mw} {@hit 1} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d6 - 1}) danni contundenti più 3 ({@damage 1d6}) danni da veleno."
 					]
 				}
 			],
@@ -626,13 +626,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The ruffian makes two melee attacks."
+						"Il ruffiano effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -714,19 +714,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Sildar makes two melee attacks."
+						"Sildar effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danni taglienti."
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 2} to hit, range 100/400 ft., one target. {@h}5 ({@damage 1d10}) piercing damage."
+						"{@atk rw} {@hit 2} da colpire, portata 100/400 piedi, un bersaglio. {@h}5 ({@damage 1d10}) danno perforante."
 					]
 				}
 			],
@@ -734,7 +734,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"When an attacker hits Sildar with a melee attack and Sildar can see the attacker, he can roll {@dice 1d6} and add the number rolled to his AC against the triggering attack, provided that he's wielding a melee weapon."
+						"Quando un attaccante colpisce Sildar con un attacco da mischia e Sildar può vedere l'attaccante, può tirare {@dice 1d6} e aggiungere il numero ottenuto alla sua CA contro l'attacco innescante, a condizione che stia impugnando un'arma da mischia."
 					]
 				}
 			],

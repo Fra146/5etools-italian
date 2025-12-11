@@ -20,19 +20,19 @@
 				{
 					"type": "quote",
 					"entries": [
-						"Take heart, fellow adventurers, for you have curried the favor of Boo!"
+						"Fatevi coraggio, compagni avventurieri, perché avete conquistato il favore di Boo!"
 					],
 					"by": "Minsc"
 				},
 				{
 					"type": "quote",
 					"entries": [
-						"*Squeak*"
+						"*Squittio*"
 					],
 					"by": "Boo"
 				},
-				"Boo is a hamster. More precisely, he is a {@creature Space Hamster|BAM|miniature giant space hamster}\u2014a rather famous one, in fact. Boo's adventures with Minsc the ranger, as well as his ferocity, are legendary. But Boo would be the first to tell you that he is just one of the countless amazing creatures that hail from the starry realm known as the Astral Plane.",
-				"Apparently, {@creature Giant Space Hamster|BAM|giant space hamsters} aren't as bright or as legendary as their smaller cousins. Minsc has shared this information and a host of other pieces of lore from Boo freely and loudly during his travels. This book presents much of that lore, but don't expect commentary from the famous hamster himself. He's too busy saving the multiverse and, as Minsc might put it, \"kicking butt for goodness.\"",
+				"Boo è un criceto. Più precisamente, è un {@creature Space Hamster|BAM|miniature giant space hamster}, piuttosto famoso, in effetti. Le avventure di Boo con Minsc il ranger, così come la sua ferocia, sono leggendarie. Ma Boo sarebbe il primo a dirti che è solo una delle innumerevoli incredibili creature che provengono dal regno stellato conosciuto come Piano Astrale.",
+				"A quanto pare, i {@creature Giant Space Hamster|BAM|giant space hamsters} non sono così brillanti o leggendari come i loro cugini più piccoli. Minsc ha condiviso queste informazioni e una miriade di altri pezzi della tradizione di Boo liberamente e ad alta voce durante i suoi viaggi. Questo libro presenta gran parte di quella tradizione, ma non aspettarti commenti dal famoso criceto in persona. È troppo impegnato a salvare il multiverso e, come direbbe Minsc, \"a calci in culo per il cielo\".",
 				{
 					"type": "section",
 					"name": "Astral Variants",
@@ -51,9 +51,9 @@
 							"height": 1300,
 							"credit": "April Prime"
 						},
-						"If you want even more creatures to populate your adventures in space, look no further than the {@book Monster Manual|MM}. Entities of the Outer Planes such as angels, devils, and slaadi are just as likely to be found on the Astral Plane as they are on any Material Plane world. The same can be said for {@creature Aboleth||aboleths}, giants, {@creature Mind Flayer||mind flayers}, {@creature Umber Hulk||umber hulks}, {@creature Vampire||vampires}, and other {@book Monster Manual|MM} creatures.",
-						"Practically any terrestrial creature can be turned into an astral-dwelling creature, whether it requires air or not. For example, a {@creature stone giant} living on an asteroid might rely on the asteroid's air envelope for survival, or it might not need to breathe air. Similarly, a {@creature mimic} stowing away aboard a spelljamming ship might be an ordinary specimen or one that has adapted to life in Wildspace.",
-						"You can turn any terrestrial creature into a Wildspace-dwelling variant by giving it the following trait, if nothing else:",
+						"Se vuoi che ancora più creature popolano le tue avventure nello spazio, non cercare oltre {@book Monster Manual|MM}. Entità dei Piani Esterni come angeli, diavoli e slaadi hanno la stessa probabilità di essere trovate sul Piano Astrale come su qualsiasi mondo del Piano Materiale. Lo stesso si può dire per {@creature Aboleth||aboleths}, giganti, {@creature Mind Flayer||mind flayers}, {@creature Umber Hulk||umber hulks}, {@creature Vampire||vampires} e altre creature {@book Monster Manual|MM}.",
+						"Praticamente qualsiasi creatura terrestre può essere trasformata in una creatura che dimora nell'astrale, indipendentemente dal fatto che richieda aria o meno. Ad esempio, un {@creature stone giant} che vive su un asteroide potrebbe fare affidamento sull'involucro d'aria dell'asteroide per sopravvivere o potrebbe non aver bisogno di respirare aria. Allo stesso modo, un {@creature mimic} clandestino a bordo di una nave incantatrice potrebbe essere un esemplare normale o uno che si è adattato alla vita nello Spazio Selvaggio.",
+						"Puoi trasformare qualsiasi creatura terrestre in una variante che abita nello spazio selvaggio conferendole il seguente tratto, se non altro:",
 						{
 							"type": "inset",
 							"id": "004",
@@ -64,7 +64,7 @@
 									"page": 4,
 									"id": "005",
 									"entries": [
-										"The creature doesn't require air."
+										"La creatura non ha bisogno di aria."
 									]
 								}
 							]
@@ -77,8 +77,8 @@
 					"page": 4,
 					"id": "006",
 					"entries": [
-						"This book is a companion to the {@book Monster Manual|MM} and uses a similar presentation. If you are unfamiliar with the monster stat block format, read the {@book introduction|MM|0} of the {@book Monster Manual|MM} before proceeding further. That book explains stat block terminology and gives rules for various monster traits\u2014information that isn't repeated here.",
-						"The Stat Blocks by Challenge Rating table sorts the creatures in this book by challenge rating.",
+						"Questo libro è un complemento di {@book Monster Manual|MM} e utilizza una presentazione simile. Se non hai familiarità con il formato del blocco delle statistiche dei mostri, leggi il {@book introduction|MM|0} del {@book Monster Manual|MM} prima di procedere oltre. Quel libro spiega la terminologia dei blocchi delle statistiche e fornisce regole per vari tratti dei mostri: informazioni che non vengono ripetute qui.",
+						"La tabella Blocchi statistiche per Grado di sfida ordina le creature in questo libro in base al Grado di sfida.",
 						{
 							"type": "table",
 							"caption": "Stat Blocks by Challenge Rating",
@@ -96,7 +96,7 @@
 								[
 									"0",
 									"{@creature Chwinga astronaut|BAM}",
-									"Elemental"
+									"Elementare"
 								],
 								[
 									"0",
@@ -106,27 +106,27 @@
 								[
 									"0",
 									"{@creature Space guppy|BAM}",
-									"Beast"
+									"Bestia"
 								],
 								[
 									"0",
 									"{@creature Space mollymawk|BAM}",
-									"Beast"
+									"Bestia"
 								],
 								[
 									"1/8",
 									"{@creature Hadozee shipmate|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"1/4",
 									"{@creature Giant space hamster|BAM}",
-									"Beast"
+									"Bestia"
 								],
 								[
 									"1/4",
 									"{@creature Gray scavver|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"1/4",
@@ -136,112 +136,112 @@
 								[
 									"1/4",
 									"{@creature Space hamster|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"1/4",
 									"{@creature Space swine|BAM}",
-									"Beast"
+									"Bestia"
 								],
 								[
 									"1/2",
 									"{@creature Hadozee warrior|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"1/2",
 									"{@creature Space eel|BAM}",
-									"Beast"
+									"Bestia"
 								],
 								[
 									"1/2",
 									"{@creature Ssurran poisoner|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"1",
 									"{@creature Jammer leech|BAM}",
-									"Plant"
+									"Pianta"
 								],
 								[
 									"1",
 									"{@creature Psurlon ringer|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"2",
 									"{@creature Aartuk starhorror|BAM}",
-									"Plant"
+									"Pianta"
 								],
 								[
 									"2",
 									"{@creature Aartuk weedling|BAM}",
-									"Plant"
+									"Pianta"
 								],
 								[
 									"2",
 									"{@creature Autognome|BAM}",
-									"Construct"
+									"Costruire"
 								],
 								[
 									"2",
 									"{@creature Hadozee explorer|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"2",
 									"{@creature Lunar dragon wyrmling|BAM}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"2",
 									"{@creature Psurlon|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"2",
 									"{@creature Space clown|BAM}",
-									"Fiend"
+									"Diavolo"
 								],
 								[
 									"2",
 									"{@creature Thri-kreen hunter|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"2",
 									"{@creature Vampirate|BAM}",
-									"Undead"
+									"Non morti"
 								],
 								[
 									"3",
 									"{@creature Aartuk elder|BAM}",
-									"Plant"
+									"Pianta"
 								],
 								[
 									"3",
 									"{@creature Astral elf warrior|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"3",
 									"{@creature Giff shipmate|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"3",
 									"{@creature Githyanki buccaneer|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"3",
 									"{@creature Neogi hatchling swarm|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"3",
 									"{@creature Neogi pirate|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"3",
@@ -251,32 +251,32 @@
 								[
 									"3",
 									"{@creature Solar dragon wyrmling|BAM}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"3",
 									"{@creature Ssurran defiler|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"4",
 									"{@creature Brown scavver|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"4",
 									"{@creature Gaj|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"4",
 									"{@creature Neh-thalggu|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"4",
 									"{@creature Neogi void hunter|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"4",
@@ -286,172 +286,172 @@
 								[
 									"5",
 									"{@creature Astral elf honor guard|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"5",
 									"{@creature Astral elf star priest|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"5",
 									"{@creature Feyr|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"5",
 									"{@creature Mercane|BAM}",
-									"Giant"
+									"Gigante"
 								],
 								[
 									"5",
 									"{@creature Murder comet|BAM}",
-									"Elemental"
+									"Elementare"
 								],
 								[
 									"5",
 									"{@creature Night scavver|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"5",
 									"{@creature Starlight apparition|BAM}",
-									"Celestial"
+									"Celeste"
 								],
 								[
 									"5",
 									"{@creature Thri-kreen mystic|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"5",
 									"{@creature Vampirate mage|BAM}",
-									"Undead"
+									"Non morti"
 								],
 								[
 									"6",
 									"{@creature B'rohg|BAM}",
-									"Giant"
+									"Gigante"
 								],
 								[
 									"6",
 									"{@creature Giff shock trooper|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"6",
 									"{@creature Psurlon leader|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"6",
 									"{@creature Vampirate captain|BAM}",
-									"Undead"
+									"Non morti"
 								],
 								[
 									"7",
 									"{@creature Astral elf commander|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"7",
 									"{@creature Githyanki star seer|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"7",
 									"{@creature Kindori|BAM}",
-									"Celestial"
+									"Celeste"
 								],
 								[
 									"7",
 									"{@creature Thri-kreen gladiator|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"7",
 									"{@creature Young lunar dragon|BAM}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"8",
 									"{@creature Astral elf aristocrat|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"8",
 									"{@creature Reigar|BAM}",
-									"Celestial"
+									"Celeste"
 								],
 								[
 									"9",
 									"{@creature Braxat|BAM}",
-									"Giant"
+									"Gigante"
 								],
 								[
 									"9",
 									"{@creature Githyanki xenomancer|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"9",
 									"{@creature Young solar dragon|BAM}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"10",
 									"{@creature Eye monger|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"10",
 									"{@creature Giff warlord|BAM}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"11",
 									"{@creature Megapede|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"11",
 									"{@creature Void scavver|BAM}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"12",
 									"{@creature Esthetic|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"13",
 									"{@creature Adult lunar dragon|BAM}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"14",
 									"{@creature Adult solar dragon|BAM}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"16",
 									"{@creature Zodar|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"18",
 									"{@creature Cosmic horror|BAM}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"19",
 									"{@creature Ancient lunar dragon|BAM}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"21",
 									"{@creature Ancient solar dragon|BAM}",
-									"Dragon"
+									"Drago"
 								]
 							]
 						},
@@ -461,7 +461,7 @@
 							"page": 5,
 							"id": "007",
 							"entries": [
-								"Some creatures have weapons that deal unusual damage types and spellcasting that functions in an atypical way. For example, many astral elves deal extra radiant damage with their weapon attacks. This extra damage isn't a feature of the weapon. Such an exception is a special feature of a stat block and represents how the creature uses its weapon or casts its spells; the exception has no effect on how a weapon or spell functions for a different creature."
+								"Alcune creature sono dotate di armi che infliggono tipi di danni insoliti e di incantesimi che funzionano in modo atipico. Ad esempio, molti elfi astrali infliggono danni extra radiosi con i loro attacchi con le armi. Questo danno extra non è una caratteristica dell'arma. Tale eccezione è una caratteristica speciale di un blocco delle statistiche e rappresenta il modo in cui la creatura usa la sua arma o lancia i suoi incantesimi; l'eccezione non ha effetto su come funziona un'arma o un incantesimo per una creatura diversa."
 							]
 						},
 						{
@@ -470,7 +470,7 @@
 							"page": 5,
 							"id": "008",
 							"entries": [
-								"If a stat block contains the name of a class in parentheses under the creature's name, the creature is considered a member of that class for the purpose of meeting prerequisites for magic items."
+								"Se un blocco delle statistiche contiene il nome di una classe tra parentesi sotto il nome della creatura, la creatura è considerata un membro di quella classe allo scopo di soddisfare i prerequisiti per gli oggetti magici."
 							]
 						}
 					]
@@ -481,16 +481,16 @@
 					"page": 6,
 					"id": "009",
 					"entries": [
-						"You can generate a random encounter on the Astral Plane by rolling on either the {@book Wildspace Encounters table|BAM|0|Wildspace Encounters} or the {@book Astral Sea Encounters table|BAM|0|Astral Sea Encounters}, as appropriate, or by choosing an encounter you like. If the encounter is with a spelljamming ship, you can roll on the {@book Ship Encounters table|BAM|0|Ship Encounters} to determine the ship and its crew, or you can create a ship encounter of your own (see the {@book Astral Adventurer's Guide|AAG} for {@book ship descriptions|AAG|2|Spelljammer Vessels}).",
-						"Creatures marked with an asterisk (*) appear in this book; the rest are described in the {@book Monster Manual|MM}. Any creature marked with a dagger (†) can serve as a spelljammer because it is a spellcaster.",
-						"If a Humanoid has no specified race, it can be of any race you choose.",
+						"Puoi generare un incontro casuale sul Piano Astrale tirando su {@book Wildspace Encounters table|BAM|0|Wildspace Encounters} o {@book Astral Sea Encounters table|BAM|0|Astral Sea Encounters}, a seconda dei casi, oppure scegliendo un incontro che ti piace. Se l'incontro avviene con una nave che disturba gli incantesimi, puoi tirare su {@book Ship Encounters table|BAM|0|Ship Encounters} per determinare la nave e il suo equipaggio, oppure puoi creare un tuo incontro con la nave (vedi {@book Astral Adventurer's Guide|AAG} per {@book ship descriptions|AAG|2|Spelljammer Vessels}).",
+						"Le creature contrassegnate da un asterisco (*) compaiono in questo libro; il resto è descritto nel {@book Monster Manual|MM}. Qualsiasi creatura contrassegnata da un pugnale (†) può fungere da incantatore perché è un incantatore.",
+						"Se un umanoide non ha una razza specifica, può appartenere a qualsiasi razza tu scelga.",
 						{
 							"type": "entries",
 							"name": "Initial Attitude",
 							"page": 6,
 							"id": "00a",
 							"entries": [
-								"To randomly determine the initial attitude of the creatures encountered, make the attitude roll called for in an encounter table entry, then refer to the appropriate line of the Initial Attitude table.",
+								"Per determinare casualmente l'atteggiamento iniziale delle creature incontrate, effettua il tiro sull'atteggiamento richiesto in una voce della tabella degli incontri, quindi fai riferimento alla riga appropriata della tabella Atteggiamento Iniziale.",
 								{
 									"type": "table",
 									"caption": "Initial Attitude",
@@ -504,16 +504,16 @@
 									],
 									"rows": [
 										[
-											"4 or lower",
-											"Hostile"
+											"4 o inferiore",
+											"Ostile"
 										],
 										[
-											"5\u20138",
-											"Indifferent"
+											"5–8",
+											"Indifferente"
 										],
 										[
-											"9 or higher",
-											"Friendly"
+											"9 o superiore",
+											"Amichevole"
 										]
 									]
 								},
@@ -537,97 +537,97 @@
 											],
 											"rows": [
 												[
-													"01\u201303",
-													"{@dice 1d4} {@creature Chwinga Astronaut|BAM|chwinga astronauts},* each mounted on 1 {@creature space guppy|BAM}*",
+													"01–03",
+													"{@dice 1d4} {@creature Chwinga Astronaut|BAM|chwinga astronauts},* ciascuno montato su 1 {@creature space guppy|BAM}*",
 													"{@dice 1d6 + 4}"
 												],
 												[
 													"04",
-													"1 {@creature cosmic horror|BAM}* (30 percent chance it is asleep)",
+													"1 {@creature cosmic horror|BAM}* (30% di probabilità che stia dormendo)",
 													"{@dice 1d6}"
 												],
 												[
 													"05",
-													"1 {@creature esthetic|BAM}* piloted by 1 {@creature reigar|BAM}*†",
+													"1 {@creature esthetic|BAM}* pilotato da 1 {@creature reigar|BAM}*†",
 													"{@dice 1d12}"
 												],
 												[
-													"06\u201307",
+													"06–07",
 													"1 {@creature eye monger|BAM}*",
 													"{@dice 1d6}"
 												],
 												[
-													"08\u201311",
+													"08–11",
 													"1 {@creature feyr|BAM}*",
 													"{@dice 1d6}"
 												],
 												[
-													"12\u201313",
-													"1 {@creature giant octopus} that has a flying speed of 60 feet and doesn't need to breathe air",
+													"12–13",
+													"1 {@creature giant octopus} che ha una velocità di volo di 60 piedi e non ha bisogno di respirare aria",
 													"{@dice 1d10}"
 												],
 												[
-													"14\u201317",
+													"14–17",
 													"{@dice 1d6} {@creature Jammer Leech|BAM|jammer leeches}*",
 													"{@dice 1d8}"
 												],
 												[
-													"18\u201323",
+													"18–23",
 													"{@dice 1d4} {@creature kindori|BAM}*",
 													"{@dice 1d6 + 3}"
 												],
 												[
-													"24\u201325",
-													"1 {@creature kindori|BAM}* with 1 {@creature druid}† living in a hut on its back",
+													"24–25",
+													"1 {@creature kindori|BAM}* con 1 {@creature druid}† che vive in una capanna sul dorso",
 													"{@dice 2d6 + 3}"
 												],
 												[
 													"26",
-													"1 {@creature kraken} that has a flying speed of 60 feet and doesn't need to breathe air",
+													"1 {@creature kraken} che ha una velocità di volo di 60 piedi e non ha bisogno di respirare aria",
 													"{@dice 1d6}"
 												],
 												[
 													"27",
-													"1 lunar dragon* (your choice of {@creature Young Lunar Dragon|BAM|young}, {@creature Adult Lunar Dragon|BAM|adult}, or {@creature Ancient Lunar Dragon|BAM|ancient})",
+													"1 drago lunare* (a tua scelta tra {@creature Young Lunar Dragon|BAM|young}, {@creature Adult Lunar Dragon|BAM|adult} o {@creature Ancient Lunar Dragon|BAM|ancient})",
 													"{@dice 1d10}"
 												],
 												[
-													"28\u201335",
-													"A tavern or inn built on an asteroid, with docks where ships can berth",
-													"\u2014"
+													"28–35",
+													"Una taverna o locanda costruita su un asteroide, con moli dove possono attraccare le navi",
+													"—"
 												],
 												[
-													"36\u201339",
+													"36–39",
 													"{@dice 1d6} {@creature Murder Comet|BAM|murder comets}*",
 													"{@dice 1d6}"
 												],
 												[
-													"40\u201344",
+													"40–44",
 													"{@dice 1d4} {@creature Brown Scavver|BAM|brown scavvers}*",
 													"{@dice 1d8}"
 												],
 												[
-													"45\u201348",
-													"1 {@creature night scavver|BAM}* and {@dice 2d6} {@creature Gray Scavver|BAM|gray scavvers}*",
+													"45–48",
+													"1 {@creature night scavver|BAM}* e {@dice 2d6} {@creature Gray Scavver|BAM|gray scavvers}*",
 													"{@dice 1d8}"
 												],
 												[
-													"49\u201350",
+													"49–50",
 													"1 {@creature void scavver|BAM}*",
 													"{@dice 1d6}"
 												],
 												[
-													"51\u201352",
-													"A shipwreck that might still have treasure or creatures aboard it (choose a ship from {@book chapter 2|AAG|2|Spelljammer Vessels} of the {@book Astral Adventurer's Guide|AAG})",
-													"\u2014"
+													"51–52",
+													"Un relitto che potrebbe contenere ancora tesori o creature a bordo (scegli una nave da {@book chapter 2|AAG|2|Spelljammer Vessels} tra {@book Astral Adventurer's Guide|AAG})",
+													"—"
 												],
 												[
-													"53\u201354",
-													"1 solar dragon* (your choice of {@creature Young Solar Dragon|BAM|young}, {@creature Adult Solar Dragon|BAM|adult}, or {@creature Ancient Solar Dragon|BAM|ancient})",
+													"53–54",
+													"1 drago solare* (a tua scelta tra {@creature Young Solar Dragon|BAM|young}, {@creature Adult Solar Dragon|BAM|adult} o {@creature Ancient Solar Dragon|BAM|ancient})",
 													"{@dice 2d6}"
 												],
 												[
-													"55\u201359",
+													"55–59",
 													"{@dice 1d6} {@creature Space Eel|BAM|space eels}*",
 													"{@dice 1d10}"
 												],
@@ -637,19 +637,19 @@
 													"{@dice 2d6 + 2}"
 												],
 												[
-													"61\u201364",
-													"{@dice 3d6} {@creature Stirge||stirges} that don't need to breathe air",
+													"61–64",
+													"{@dice 3d6} {@creature Stirge||stirges} che non hanno bisogno di respirare aria",
 													"{@dice 1d6}"
 												],
 												[
-													"65\u201370",
+													"65–70",
 													"{@dice 1d6} {@creature Will-o'-Wisp||will-o'-wisps}",
 													"{@dice 1d10}"
 												],
 												[
-													"71\u201300",
-													"1 spelljamming ship (roll on the {@book Ship Encounters table|BAM|0|Ship Encounters})",
-													"\u2014"
+													"71–00",
+													"1 nave incantatrice (tira sul {@book Ship Encounters table|BAM|0|Ship Encounters})",
+													"—"
 												]
 											],
 											"data": {
@@ -680,113 +680,113 @@
 											],
 											"rows": [
 												[
-													"01\u201302",
-													"1 {@creature aartuk starhorror|BAM}*† and {@dice 2d4} {@creature Aartuk Weedling|BAM|aartuk weedlings}*",
+													"01–02",
+													"1 {@creature aartuk starhorror|BAM}*† e {@dice 2d4} {@creature Aartuk Weedling|BAM|aartuk weedlings}*",
 													"{@dice 1d12}"
 												],
 												[
-													"03\u201309",
-													"1 {@creature archmage}† using the {@spell astral projection} spell",
+													"03–09",
+													"1 {@creature archmage}† utilizzando l'incantesimo {@spell astral projection}.",
 													"{@dice 1d10 + 3}"
 												],
 												[
-													"10\u201311",
+													"10–11",
 													"1 {@creature braxat|BAM}*",
 													"{@dice 1d8}"
 												],
 												[
 													"12",
-													"1 {@creature cosmic horror|BAM}* (70 percent chance it is asleep)",
+													"1 {@creature cosmic horror|BAM}* (70% di probabilità che stia dormendo)",
 													"{@dice 1d6}"
 												],
 												[
-													"13\u201315",
-													"{@dice 1d4} {@creature Deva||devas}† on a divine errand",
+													"13–15",
+													"{@dice 1d4} {@creature Deva||devas}† per una commissione divina",
 													"{@dice 1d12 + 3}"
 												],
 												[
-													"16\u201328",
-													"1 {@creature githyanki knight}† and {@dice 1d6} {@creature Githyanki Warrior||githyanki warriors}†",
+													"16–28",
+													"1 {@creature githyanki knight}† e {@dice 1d6} {@creature Githyanki Warrior||githyanki warriors}†",
 													"{@dice 1d10}"
 												],
 												[
-													"29\u201331",
-													"1 {@creature githyanki knight}† mounted on a {@creature young red dragon}",
+													"29–31",
+													"1 {@creature githyanki knight}† montato su un {@creature young red dragon}",
 													"{@dice 1d8}"
 												],
 												[
 													"32",
-													"1 {@creature githzerai zerth}† being hunted by githyanki",
+													"1 {@creature githzerai zerth}† braccato dai githyanki",
 													"{@dice 1d6 + 6}"
 												],
 												[
-													"33\u201338",
+													"33–38",
 													"{@dice 1d4} {@creature kindori|BAM}*",
 													"{@dice 1d6 + 3}"
 												],
 												[
 													"39",
-													"1 {@creature mercane|BAM}*† and 1 {@creature beholder} bodyguard",
+													"1 {@creature mercane|BAM}*† e 1 {@creature beholder} guardia del corpo",
 													"{@dice 1d8 + 4}"
 												],
 												[
 													"40",
-													"1 {@creature neh-thalggu|BAM}*† looking for a portal to the Far Realm",
+													"1 {@creature neh-thalggu|BAM}*† alla ricerca di un portale per il Reame Remoto",
 													"{@dice 1d10}"
 												],
 												[
-													"41\u201342",
+													"41–42",
 													"1 {@creature pentadrone}",
 													"{@dice 1d6 + 3}"
 												],
 												[
-													"43\u201344",
-													"1 {@creature planetar}† from a nearby astral dominion",
+													"43–44",
+													"1 {@creature planetar}† da un vicino dominio astrale",
 													"{@dice 1d12 + 3}"
 												],
 												[
-													"45\u201347",
+													"45–47",
 													"{@dice 2d4} {@creature Psurlon|BAM|psurlons}*†",
 													"{@dice 1d8}"
 												],
 												[
-													"48\u201350",
-													"Gargantuan floating crystal obelisk of mysterious origin",
-													"\u2014"
+													"48–50",
+													"Gigantesco obelisco di cristallo galleggiante di origine misteriosa",
+													"—"
 												],
 												[
-													"51\u201352",
+													"51–52",
 													"{@dice 4d4} {@creature Quadrone||quadrones}",
 													"{@dice 1d6 + 3}"
 												],
 												[
 													"53",
-													"1 {@creature monodrone} that has gone rogue",
+													"1 {@creature monodrone} che è diventato un canaglia",
 													"{@dice 2d6 + 3}"
 												],
 												[
-													"54\u201356",
-													"{@dice 1d4} {@creature Gray Slaad||gray slaadi}† in Humanoid form",
+													"54–56",
+													"{@dice 1d4} {@creature Gray Slaad||gray slaadi}† in forma umanoide",
 													"{@dice 1d10}"
 												],
 												[
-													"57\u201358",
+													"57–58",
 													"1 {@creature green slaad}†",
 													"{@dice 1d12}"
 												],
 												[
-													"59\u201363",
+													"59–63",
 													"{@dice 3d6} {@creature Gray Scavver|BAM|gray scavvers}*",
 													"{@dice 1d8}"
 												],
 												[
 													"64",
-													"1 {@creature solar}† watching over a dead god that drifts nearby",
+													"1 {@creature solar}† veglia su un dio morto che vaga nelle vicinanze",
 													"{@dice 1d12 + 3}"
 												],
 												[
-													"65\u201366",
-													"1 solar dragon* (your choice of {@creature Young Solar Dragon|BAM|young}, {@creature Adult Solar Dragon|BAM|adult}, or {@creature Ancient Solar Dragon|BAM|ancient})",
+													"65–66",
+													"1 drago solare* (a tua scelta tra {@creature Young Solar Dragon|BAM|young}, {@creature Adult Solar Dragon|BAM|adult} o {@creature Ancient Solar Dragon|BAM|ancient})",
 													"{@dice 2d6}"
 												],
 												[
@@ -795,14 +795,14 @@
 													"{@dice 2d6 + 2}"
 												],
 												[
-													"68\u201370",
-													"{@dice 1d8} {@creature Unicorn||unicorns} galloping merrily across the Astral Sea",
+													"68–70",
+													"{@dice 1d8} {@creature Unicorn||unicorns} galoppa allegramente attraverso il Mare Astrale",
 													"{@dice 1d6 + 6}"
 												],
 												[
-													"71\u201300",
-													"1 spelljamming ship (roll on the Ship Encounters table)",
-													"\u2014"
+													"71–00",
+													"1 nave incantatrice (tira sulla tabella Incontri con le navi)",
+													"—"
 												]
 											],
 											"data": {
@@ -833,89 +833,89 @@
 											],
 											"rows": [
 												[
-													"01\u201307",
-													"{@vehicle Bombard|AAG} Leviathan, captained by Myrtle Hunt ({@creature giff warlord|BAM}*) and crewed by 8 {@creature Giff Shipmate|BAM|giff shipmates}* and 3 {@creature Mage||mages}†",
+													"01–07",
+													"{@vehicle Bombard|AAG} Leviatano, capitanato da Myrtle Hunt ({@creature giff warlord|BAM}*) e con un equipaggio di 8 {@creature Giff Shipmate|BAM|giff shipmates}* e 3 {@creature Mage||mages}†",
 													"{@dice 1d10 + 2}"
 												],
 												[
-													"08\u201316",
-													"{@vehicle Damselfly ship|AAG} Voidwinder, captained by Krig Kalu ({@creature hadozee explorer|BAM}*) and crewed by 1 {@creature drow}† and 7 {@creature Hadozee Shipmate|BAM|hadozee shipmates}*",
+													"08–16",
+													"{@vehicle Damselfly ship|AAG} Voidwinder, capitanato da Krig Kalu ({@creature hadozee explorer|BAM}*) e con equipaggio formato da 1 {@creature drow}† e 7 {@creature Hadozee Shipmate|BAM|hadozee shipmates}*",
 													"{@dice 2d6 + 3}"
 												],
 												[
-													"17\u201323",
-													"{@vehicle Flying fish ship|AAG} Horizon, captained by Thaal Vod (renegade {@creature mind flayer arcanist}†) and crewed by 9 {@creature Plasmoid Warrior|BAM|plasmoid warriors}*",
+													"17–23",
+													"{@vehicle Flying fish ship|AAG} Horizon, capitanata da Thaal Vod (rinnegato {@creature mind flayer arcanist}†) e ​​con un equipaggio di 9 persone {@creature Plasmoid Warrior|BAM|plasmoid warriors}*",
 													"{@dice 1d12}"
 												],
 												[
-													"24\u201331",
-													"{@vehicle Hammerhead ship|AAG} Jander Sunstar, captained by Veluna Valderak ({@creature vampirate captain|BAM}*) and crewed by 13 {@creature Vampirate|BAM|vampirates}* and 1 {@creature priest}†",
+													"24–31",
+													"{@vehicle Hammerhead ship|AAG} Jander Sunstar, capitanato da Veluna Valderak ({@creature vampirate captain|BAM}*) e con un equipaggio di 13 persone {@creature Vampirate|BAM|vampirates}* e 1 {@creature priest}†",
 													"{@dice 1d12}"
 												],
 												[
-													"32\u201336",
-													"{@vehicle Lamprey ship|AAG} Astral Prize, crewed by 15 {@creature Psurlon Ringer|BAM|psurlon ringers},*† including Captain Uscath",
+													"32–36",
+													"{@vehicle Lamprey ship|AAG} Premio Astrale, con un equipaggio di 15 {@creature Psurlon Ringer|BAM|psurlon ringers}*† incluso il Capitano Uscath",
 													"{@dice 1d12}"
 												],
 												[
-													"37\u201339",
-													"{@vehicle Living ship|AAG} Eldervine, captained by Queth ({@creature aartuk elder|BAM}*) and crewed by 2 {@creature Aartuk Starhorror|BAM|aartuk starhorrors},*† 8 {@creature Aartuk Weedling|BAM|aartuk weedlings},* and Eldervine ({@creature treant})",
+													"37–39",
+													"{@vehicle Living ship|AAG} Eldervine, capitanato da Queth ({@creature aartuk elder|BAM}*) e con un equipaggio di 2 {@creature Aartuk Starhorror|BAM|aartuk starhorrors},*† 8 {@creature Aartuk Weedling|BAM|aartuk weedlings},* e Eldervine ({@creature treant})",
 													"{@dice 1d10}"
 												],
 												[
-													"40\u201345",
-													"{@vehicle Nautiloid|AAG} Neurophage, crewed by 4 {@creature Mind Flayer||mind flayers}† and 16 {@creature kuo-toa}, with {@dice 1d6} {@creature Grell||grells} and {@dice 1d6} {@creature Intellect Devourer||intellect devourers} as passengers",
+													"40–45",
+													"{@vehicle Nautiloid|AAG} Neurophage, con equipaggio di 4 {@creature Mind Flayer||mind flayers}† e 16 {@creature kuo-toa}, con {@dice 1d6} {@creature Grell||grells} e {@dice 1d6} {@creature Intellect Devourer||intellect devourers} come passeggeri",
 													"{@dice 1d6}"
 												],
 												[
-													"46\u201350",
-													"{@vehicle Nightspider|AAG} Malevolence, captained by Yeshk ({@creature neogi void hunter|BAM}*†) and crewed by 24 {@creature Neogi Pirate|BAM|neogi pirates}* and 5 {@creature Umber Hulk||umber hulks}",
+													"46–50",
+													"{@vehicle Nightspider|AAG} Malevolence, capitanata da Yeshk ({@creature neogi void hunter|BAM}*†) e con un equipaggio di 24 {@creature Neogi Pirate|BAM|neogi pirates}* e 5 {@creature Umber Hulk||umber hulks}",
 													"{@dice 1d6}"
 												],
 												[
-													"51\u201355",
-													"{@vehicle Scorpion ship|AAG} Claws of Huraj, captained by Huraj ({@creature hobgoblin captain}) and crewed by 1 {@creature bugbear} (first mate), 8 {@creature Hobgoblin||hobgoblins}, and 2 hobgoblin {@creature Priest||priests}†",
+													"51–55",
+													"{@vehicle Scorpion ship|AAG} Artigli di Huraj, capitanato da Huraj ({@creature hobgoblin captain}) e con equipaggio composto da 1 {@creature bugbear} (primo ufficiale), 8 {@creature Hobgoblin||hobgoblins} e 2 hobgoblin {@creature Priest||priests}†",
 													"{@dice 1d12}"
 												],
 												[
-													"56\u201361",
-													"{@vehicle Shrike ship|AAG} Fedifensor, captained by Yaj ({@creature githyanki xenomancer|BAM}*†) and crewed by 10 {@creature Githyanki Buccaneer|BAM|githyanki buccaneers}*†",
+													"56–61",
+													"{@vehicle Shrike ship|AAG} Fedifensor, capitanato da Yaj ({@creature githyanki xenomancer|BAM}*†) e con un equipaggio di 10 persone {@creature Githyanki Buccaneer|BAM|githyanki buccaneers}*†",
 													"{@dice 1d12}"
 												],
 												[
-													"62\u201366",
-													"{@vehicle Space galleon|AAG} Eleventh, captained by Xorpha Eleven-Eyes ({@creature beholder}) and crewed by 1 {@creature spectator} (first mate), 3 {@creature Cult Fanatic||cult fanatics},† and 16 {@creature Cultist||cultists}",
+													"62–66",
+													"{@vehicle Space galleon|AAG} Undicesimo, capitanato da Xorpha Eleven-Eyes ({@creature beholder}) e con equipaggio composto da 1 {@creature spectator} (primo ufficiale), 3 {@creature Cult Fanatic||cult fanatics}† e 16 {@creature Cultist||cultists}",
 													"{@dice 1d12}"
 												],
 												[
-													"67\u201372",
-													"{@vehicle Space galleon|AAG} Great Kindori, captained by Mystan the Mighty ({@creature djinni}†) and crewed by 1 {@creature invisible stalker} (first mate), 1 {@creature couatl},† 17 {@creature aarakocra}, and 1 {@creature rug of smothering}",
+													"67–72",
+													"{@vehicle Space galleon|AAG} Grande Kindori, capitanato da Mystan il Potente ({@creature djinni}†) e ​​con equipaggio composto da 1 {@creature invisible stalker} (primo ufficiale), 1 {@creature couatl},† 17 {@creature aarakocra} e 1 {@creature rug of smothering}",
 													"{@dice 2d6 + 2}"
 												],
 												[
-													"73\u201378",
-													"{@vehicle Squid ship|AAG} Syken's Reach, captained by the pirate Arviglas Syken (human {@creature bandit captain}) and crewed by 1 {@creature cambion}† (Syken's daughter, Tenebra) and 11 {@creature Thug||thugs}",
+													"73–78",
+													"{@vehicle Squid ship|AAG} Syken's Reach, capitanata dal pirata Arviglas Syken (umano {@creature bandit captain}) e composta da 1 {@creature cambion}† (figlia di Syken, Tenebra) e 11 {@creature Thug||thugs}",
 													"{@dice 1d12}"
 												],
 												[
-													"79\u201384",
-													"{@vehicle Star moth|AAG} Apex, captained by Xaleen ({@creature astral elf commander|BAM}*†) and crewed by 11 {@creature Astral Elf Warrior|BAM|astral elf warriors}* and 1 {@creature astral elf aristocrat|BAM}*†",
+													"79–84",
+													"{@vehicle Star moth|AAG} Apex, capitanata da Xaleen ({@creature astral elf commander|BAM}*†) e composta da 11 persone {@creature Astral Elf Warrior|BAM|astral elf warriors}* e 1 {@creature astral elf aristocrat|BAM}*†",
 													"{@dice 1d12}"
 												],
 												[
-													"85\u201390",
-													"{@vehicle Turtle ship|AAG} Snorkel, captained by Shelby Norkel (gnome {@creature mage}†) and crewed by 15 {@creature Autognome|BAM|autognomes}*",
+													"85–90",
+													"{@vehicle Turtle ship|AAG} Snorkel, capitanato da Shelby Norkel (gnomo {@creature mage}†) e ​​con un equipaggio di 15 persone {@creature Autognome|BAM|autognomes}*",
 													"{@dice 1d10 + 3}"
 												],
 												[
-													"91\u201394",
-													"{@vehicle Tyrant ship|AAG} Doomdreamer, crewed by {@dice 2d4 + 2} {@creature Beholder||beholders}",
+													"91–94",
+													"{@vehicle Tyrant ship|AAG} Doomdreamer, con equipaggio di {@dice 2d4 + 2} {@creature Beholder||beholders}",
 													"{@dice 1d8}"
 												],
 												[
-													"95\u201300",
-													"{@vehicle Wasp ship|AAG} Adventure, abandoned and adrift (25 percent chance that its {@item spelljamming helm|AAG} is still aboard)",
-													"\u2014"
+													"95–00",
+													"{@vehicle Wasp ship|AAG} Avventura, abbandonato e alla deriva (25% di probabilità che il suo {@item spelljamming helm|AAG} sia ancora a bordo)",
+													"—"
 												]
 											],
 											"data": {
@@ -1094,7 +1094,7 @@
 											"type": "item",
 											"name": "Concept Illustrator",
 											"entries": [
-												"Shawn Wood"
+												"Shawn Legno"
 											]
 										},
 										{
@@ -1139,7 +1139,7 @@
 													"type": "item",
 													"name": "Executive Producer",
 													"entries": [
-														"Ray Winninger"
+														"Ray vincitore"
 													]
 												},
 												{
@@ -1257,7 +1257,7 @@
 													"type": "item",
 													"name": "Community Manager",
 													"entries": [
-														"Brandy Camel"
+														"Brandy Cammello"
 													]
 												},
 												{
@@ -1284,7 +1284,7 @@
 													"type": "item",
 													"name": "Senior Producer",
 													"entries": [
-														"Faith Elisabeth Lilley"
+														"Fede Elisabeth Lilley"
 													]
 												},
 												{
@@ -1309,13 +1309,13 @@
 					"name": "The following products provided information and inspiration:",
 					"entries": [
 						"Crawford, Jeremy. {@book Monsters of the Multiverse|MPMM}. 2022.",
-						"Grubb, Jeff. Spelljammer: Lorebook of the Void. 1989.",
-						"Schick, Lawrence and David Cook. Star Frontiers: Alpha Dawn. 1982.",
-						"TSR, Inc. Dark Sun Monstrous Compendium Appendix. 1992.",
-						"\u2014\u2014\u2014. Dark Sun Monstrous Compendium Appendix II: Terrors Beyond Tyr. 1993.",
-						"\u2014\u2014\u2014. Mystara Monstrous Compendium Appendix. 1994.",
-						"\u2014\u2014\u2014. Spelljammer Monstrous Compendium Appendix. 1990.",
-						"\u2014\u2014\u2014. Spelljammer Monstrous Compendium Appendix II. 1991."
+						"Grubb, Jeff. Spelljammer: Lorebook del Vuoto. 1989.",
+						"Schick, Lawrence e David Cook. Star Frontiers: Alpha Dawn. 1982.",
+						"Appendice del Compendio Monstrous del Sole Oscuro della TSR, Inc. 1992.",
+						"———. Dark Sun Monstrous Compendium Appendice II: Terrori oltre Tyr. 1993.",
+						"———. Appendice del Compendio dei Mostri di Mystara. 1994.",
+						"———. Appendice del Compendio dei Mostri di Spelljammer. 1990.",
+						"———. Spelljammer Monstrous Compendium Appendice II. 1991."
 					],
 					"id": "012"
 				},

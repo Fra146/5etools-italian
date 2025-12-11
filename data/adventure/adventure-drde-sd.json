@@ -19,9 +19,9 @@
 					"name": "Dragons in Dungeons",
 					"id": "001",
 					"entries": [
-						"Nothing is more quintessentially Dungeons & Dragons than gathering a group of heroes to face a mighty dragon in a mysterious dungeon. These classic elements link players across time and space, from the first adventurers who forayed into the gloom more than 50 years ago to players beginning their first adventure now.",
-						"{@i Dragon Delves} is a celebration of this shared tradition. Each of the ten adventures in this book features a dragon in a lair. Designed for characters of levels 1 through 12, the adventures offer a range of challenges, from defeating evil dragons to working with good dragons, as well as navigating more complicated moral dilemmas. The dungeons where the dragons make their lairs range from cavern complexes to ruined cities and more.",
-						"Where there are dragons in dungeons, there's always adventure!"
+						"Non c'è niente di più tipico di Dungeons & Dragons che riunire un gruppo di eroi per affrontare un potente drago in un misterioso dungeon. Questi elementi classici collegano i giocatori attraverso il tempo e lo spazio, dai primi avventurieri che fecero incursioni nell'oscurità più di 50 anni fa ai giocatori che iniziano ora la loro prima avventura.",
+						"{@i Dragon Delves} è una celebrazione di questa tradizione condivisa. Ognuna delle dieci avventure di questo libro presenta un drago in una tana. Progettate per personaggi di livello da 1 a 12, le avventure offrono una serie di sfide, dallo sconfiggere i draghi malvagi alla collaborazione con i draghi buoni, oltre ad affrontare dilemmi morali più complicati. I sotterranei in cui i draghi costruiscono le loro tane vanno da complessi di caverne a città in rovina e altro ancora.",
+						"Dove ci sono draghi nei sotterranei, c'è sempre avventura!"
 					]
 				},
 				{
@@ -29,14 +29,14 @@
 					"name": "Using This Book",
 					"id": "002",
 					"entries": [
-						"The adventures in an anthology such as {@i Dragon Delves} are versatile resources that can fill a variety of needs at your gaming table: as one-shot adventures, as \"filler episodes\" in an ongoing campaign, or as a series that forms a campaign, bringing characters from level 1 to a climactic conclusion at level 12.",
-						"These adventures are designed to require minimal preparation (see {@area Running the Adventures|009|x} later in this introduction).",
+						"Le avventure in un'antologia come {@i Dragon Delves} sono risorse versatili che possono soddisfare una varietà di esigenze sul tuo tavolo da gioco: come avventure one-shot, come \"episodi di riempimento\" in una campagna in corso o come serie che forma una campagna, portando i personaggi dal livello 1 a una conclusione culminante al livello 12.",
+						"Queste avventure sono progettate per richiedere una preparazione minima (vedi {@area Running the Adventures|009|x} più avanti in questa introduzione).",
 						{
 							"type": "entries",
 							"name": "One-Shot Adventure",
 							"id": "003",
 							"entries": [
-								"Maybe you're normally a player in an ongoing campaign, but you want to try your hand at being the Dungeon Master. Maybe you're trying to pull a new group together, and you want to see how all the players get along before you start a whole campaign. Maybe your regular DM is sick or has a scheduling conflict, but everyone else is ready to play. Or maybe your group needs a break or a diversion from the ongoing campaign. In any of these cases, you can pick an adventure from this book and run it."
+								"Forse normalmente sei un giocatore in una campagna in corso, ma vuoi provare a diventare il Dungeon Master. Forse stai cercando di mettere insieme un nuovo gruppo e vuoi vedere come vanno d'accordo tutti i giocatori prima di iniziare un'intera campagna. Forse il tuo DM abituale è malato o ha un conflitto di programmazione, ma tutti gli altri sono pronti a giocare. O forse il tuo gruppo ha bisogno di una pausa o di un diversivo dalla campagna in corso. In ognuno di questi casi, puoi scegliere un'avventura da questo libro ed eseguirla."
 							]
 						},
 						{
@@ -44,7 +44,7 @@
 							"name": "In an Ongoing Campaign",
 							"id": "004",
 							"entries": [
-								"Maybe your players' characters know what they have to do to foil the evil boss's plans, but they're not quite high enough level to accomplish their goal. Or they've just hit a significant milestone in the campaign, and you want to give them a change of pace before they get immersed in the next act of the unfolding drama. Or they're traveling halfway around the world, and you're looking for something to keep the journey interesting\u2014a little adventure along the way. Or you're not prepared for the next adventure, and you need a diversion! In any of these cases, you can pick an adventure from this book to serve as a \"filler\" episode or side quest in the ongoing campaign.",
+								"Forse i personaggi dei tuoi giocatori sanno cosa devono fare per sventare i piani del boss malvagio, ma non sono di livello abbastanza alto per raggiungere il loro obiettivo. Oppure hanno appena raggiunto un traguardo significativo nella campagna e vuoi dare loro un cambio di ritmo prima che si immergano nell'atto successivo del dramma in corso. Oppure stanno viaggiando dall'altra parte del mondo e tu stai cercando qualcosa per rendere il viaggio interessante: una piccola avventura lungo il percorso. Oppure non sei preparato per la prossima avventura e hai bisogno di un diversivo! In ognuno di questi casi, puoi scegliere un'avventura da questo libro da utilizzare come episodio \"riempitivo\" o missione secondaria nella campagna in corso.",
 								{
 									"type": "image",
 									"href": {
@@ -54,8 +54,8 @@
 									"width": 850,
 									"height": 2286
 								},
-								"When the characters are the appropriate level for the adventure you wish to run, simply narrate how the characters end up in the adventure's locale. Each adventure's beginning includes a simple setting description, such as \"a village with a nearby forest.\" Beyond these basic details, feel free to alter the adventure's location to match your campaign.",
-								"But if you do have time to prepare, you can incorporate the adventure you're running into the themes and threats of your campaign. You can alter the names of people and places in the adventure to fit better into your world, link the adventure villains to organizations and events that are important in your campaign, and plant clues to the themes of your campaign in the dragon's treasure hoard."
+								"Quando i personaggi sono al livello appropriato per l'avventura che desideri svolgere, racconta semplicemente come i personaggi finiscono nel luogo dell'avventura. L'inizio di ogni avventura include una semplice descrizione dell'ambientazione, come \"un villaggio con una foresta vicina\". Oltre a questi dettagli di base, sentiti libero di modificare il luogo dell'avventura per adattarlo alla tua campagna.",
+								"Ma se hai tempo per prepararti, puoi incorporare l'avventura che stai affrontando nei temi e nelle minacce della tua campagna. Puoi modificare i nomi delle persone e dei luoghi dell'avventura per adattarli meglio al tuo mondo, collegare i cattivi dell'avventura a organizzazioni ed eventi importanti nella tua campagna e piantare indizi sui temi della tua campagna nel tesoro del drago."
 							]
 						}
 					]
@@ -65,15 +65,15 @@
 					"name": "Creating a Campaign",
 					"id": "005",
 					"entries": [
-						"These adventures can be strung together as a complete dragon-themed campaign. Simply guide your players through the adventures in the order presented in this book and award story-based level advancement at each adventure's end, so their characters are the appropriate level for the next challenge they'll face. (No level advancement is necessary before the final adventure.) You can also use one of the following narrative frameworks to connect the adventures to one another.",
+						"Queste avventure possono essere messe insieme come una campagna completa a tema drago. Guida semplicemente i tuoi giocatori attraverso le avventure nell'ordine presentato in questo libro e premia l'avanzamento di livello basato sulla storia alla fine di ogni avventura, in modo che i loro personaggi raggiungano il livello appropriato per la prossima sfida che dovranno affrontare. (Non è necessario alcun avanzamento di livello prima dell'avventura finale.) Puoi anche utilizzare una delle seguenti strutture narrative per collegare le avventure tra loro.",
 						{
 							"type": "entries",
 							"name": "Option 1: Mysterious Patron",
 							"id": "006",
 							"entries": [
-								"Have a friendly patron whose true identity is somewhat mysterious befriend the adventurers early in their careers and send them on each adventure in sequence. The patron might be a charismatic young monk, a kindly teacher, a diminutive scamp, or a scatter-brained elder, and might or might not be accompanied by seven golden canaries or dazzling yellow butterflies, which are actually ancient gold dragons in disguise\u2014the companions of the dragon god Bahamut, which is the patron's true identity.",
-								"Perhaps foreseeing that they are destined to become mighty heroes, Bahamut takes the adventurers under his metaphorical wing and sends them on adventures to deal with draconic concerns, great and small, across the world. The patron might feign surprise when an adventure that doesn't at first seem to involve a dragon (such as \"{@adventure The Will of Orcus|DrDe-TWoO|1},\" chapter 3) turns out to revolve around one, but of course that's exactly the reason Bahamut sent the characters to investigate.",
-								"You can use each adventure as written, with the characters' patron steering them in the general direction of the adventure hook without spoiling any surprises in the adventure ahead. Alternatively, the patron could let the characters in on the secret early on, telling them that dragons will be a particular focus of their adventures and altering some of the adventure hooks along the way."
+								"Chiedi a un mecenate amichevole la cui vera identità è alquanto misteriosa di fare amicizia con gli avventurieri all'inizio della loro carriera e di inviarli in ogni avventura in sequenza. Il patrono potrebbe essere un giovane monaco carismatico, un insegnante gentile, un minuscolo furfante o un anziano sventato, e potrebbe o meno essere accompagnato da sette canarini dorati o abbaglianti farfalle gialle, che in realtà sono antichi draghi d'oro sotto mentite spoglie: i compagni del dio drago Bahamut, che è la vera identità del patrono.",
+								"Forse prevedendo che sarebbero destinati a diventare potenti eroi, Bahamut prende gli avventurieri sotto la sua metaforica ala protettrice e li manda all'avventura per affrontare problemi draconiani, grandi e piccoli, in tutto il mondo. Il cliente potrebbe fingere sorpresa quando un'avventura che a prima vista non sembra coinvolgere un drago (come \"{@adventure The Will of Orcus|DrDe-TWoO|1}\" capitolo 3) si scopre che ruota attorno a uno di essi, ma ovviamente questo è esattamente il motivo per cui Bahamut ha inviato i personaggi a indagare.",
+								"Puoi utilizzare ogni avventura così come è scritta, con il patrono dei personaggi che li guida nella direzione generale dell'avventura senza rovinare alcuna sorpresa nell'avventura successiva. In alternativa, il mecenate potrebbe far conoscere il segreto ai personaggi fin dall'inizio, dicendo loro che i draghi saranno il fulcro particolare delle loro avventure e alterando alcuni degli agganci dell'avventura lungo il percorso."
 							]
 						},
 						{
@@ -81,8 +81,8 @@
 							"name": "Option 2: Brazen Egg",
 							"id": "007",
 							"entries": [
-								"Begin the campaign with the introductory encounter of chapter 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1},\" ending with Eldemere entrusting the Brazen Egg to the characters. Eldemere's instructions are different, though: she explains that the egg must be \"steeped\" in the hoards of ten dragons, one of each chromatic and metallic kind, to activate its power. She also suggests that the egg will lead the characters toward suitable hoards. In fact, any character who sleeps within 15 feet of the egg has vivid dreams leading them toward the start of the next adventure.",
-								"To draw power from a dragon's hoard, the egg must spend 8 hours in the midst of the treasure, covered with coins and surrounded by other items. However, as soon as the empowered egg is brought within Anthradusk's hoard chamber ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} in chapter 10), it reaches its full potential and begins to crack open, as described in that adventure."
+								"Inizia la campagna con l'incontro introduttivo del capitolo 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1}\", che termina con Eldemere che affida l'Uovo di Bronzo ai personaggi. Le istruzioni di Eldemere sono diverse, però: spiega che l'uovo deve essere \"immerso\" nelle orde di dieci draghi, uno per ogni tipo cromatico e metallico, per attivare il suo potere. Suggerisce anche che l'uovo condurrà i personaggi verso i tesori adatti. In effetti, qualsiasi personaggio che dorme entro 15 piedi dall'uovo fa sogni vividi che lo portano verso l'inizio della prossima avventura.",
+								"Per trarre potere dal tesoro di un drago, l'uovo deve trascorrere 8 ore in mezzo al tesoro, coperto di monete e circondato da altri oggetti. Tuttavia, non appena l'uovo potenziato viene portato nella camera del tesoro di Anthradusk ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} nel capitolo 10), raggiunge il suo pieno potenziale e inizia ad aprirsi, come descritto in quell'avventura."
 							]
 						},
 						{
@@ -90,7 +90,7 @@
 							"name": "Option 3: Hoard Magic Items",
 							"id": "008",
 							"entries": [
-								"If you have {@book Fizban's Treasury of Dragons|FTD|4}, the hoard of magic items described in that book can provide an incentive for characters to seek out dragons of increasing power and different kinds. Add the following items to the rewards acquired in the first three adventures: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1},\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1},\" and a {@item Dragon's Wrath Weapon|FTD} and a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" All four items are Slumbering when the characters first acquire them, but in later adventures, the items can be awakened by steeping them in dragons' hoards."
+								"Se hai {@book Fizban's Treasury of Dragons|FTD|4}, il tesoro di oggetti magici descritti in quel libro può fornire un incentivo ai personaggi a cercare draghi di crescente potenza e di diverso tipo. Aggiungi i seguenti oggetti alle ricompense acquisite nelle prime tre avventure: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1}\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1}\" e a {@item Dragon's Wrath Weapon|FTD} e a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" Tutti e quattro gli oggetti sono addormentati quando i personaggi li acquisiscono per la prima volta, ma nelle avventure successive gli oggetti possono essere risvegliati immergendoli nei tesori dei draghi."
 							]
 						}
 					]
@@ -100,14 +100,14 @@
 					"name": "Running the Adventures",
 					"id": "009",
 					"entries": [
-						"To run each of these adventures, you need the fifth edition core rulebooks: the {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|XMM}. Spells and equipment mentioned in the adventures are described in the {@book Player's Handbook|XPHB}. Magic items are detailed in the {@book Dungeon Master's Guide|XDMG}, and monsters appear in the {@book Monster Manual|XMM}.",
-						"The table of contents summarizes the adventures in this anthology. Each adventure is designed for four to six characters of a particular level, but you can adjust for larger or smaller groups by changing the number of foes in an encounter and giving a small group additional resources, as explained in the {@book Dungeon Master's Guide|XDMG}. Each of the adventures can take place in any world you choose, as long as the location has the basic elements listed at the beginning of each adventure.",
+						"Per eseguire ciascuna di queste avventure, sono necessari i regolamenti base della quinta edizione: {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|XMM}. Gli incantesimi e l'equipaggiamento menzionati nelle avventure sono descritti nel {@book Player's Handbook|XPHB}. Gli oggetti magici sono dettagliati in {@book Dungeon Master's Guide|XDMG} e i mostri appaiono in {@book Monster Manual|XMM}.",
+						"Il sommario riassume le avventure di questa antologia. Ogni avventura è progettata per quattro-sei personaggi di un particolare livello, ma puoi adattarti a gruppi più o meno grandi modificando il numero di nemici in un incontro e fornendo a un piccolo gruppo risorse aggiuntive, come spiegato nel {@book Dungeon Master's Guide|XDMG}. Ognuna delle avventure può svolgersi in qualsiasi mondo tu scelga, purché il luogo contenga gli elementi di base elencati all'inizio di ogni avventura.",
 						{
 							"type": "entries",
 							"name": "Preparation",
 							"id": "00a",
 							"entries": [
-								"Every adventure in this book begins with a page that helps you prepare and run the adventure. It includes the following elements:",
+								"Ogni avventura in questo libro inizia con una pagina che ti aiuta a preparare e gestire l'avventura. Comprende i seguenti elementi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -115,17 +115,17 @@
 										{
 											"type": "item",
 											"name": "Key Plot Points",
-											"entry": "A summary of the key elements in the adventure's story"
+											"entry": "Un riassunto degli elementi chiave della storia dell'avventura"
 										},
 										{
 											"type": "item",
 											"name": "Preparation",
-											"entry": "Steps to get yourself ready to run the adventure, including a list of all the stat blocks from the {@book Monster Manual|XMM} you might need"
+											"entry": "Passaggi per prepararti a vivere l'avventura, incluso un elenco di tutti i blocchi delle statistiche del {@book Monster Manual|XMM} di cui potresti aver bisogno"
 										},
 										{
 											"type": "item",
 											"name": "Key NPCs",
-											"entry": "A table summarizing key nonplayer characters in the adventure\u2014their names, roles, stat blocks, and locations\u2014to help you keep track of them during play"
+											"entry": "Una tabella che riassume i principali personaggi non giocanti dell'avventura (i loro nomi, ruoli, blocchi delle statistiche e posizioni) per aiutarti a tenerne traccia durante il gioco"
 										}
 									]
 								}
@@ -136,7 +136,7 @@
 							"name": "Player Assistance",
 							"id": "00b",
 							"entries": [
-								"As described in the {@book Dungeon Master's Guide|XDMG}, you can streamline your role as Dungeon Master by delegating certain tasks to the other players, especially if this is your first time behind the DM's screen. Before play begins, work with the other players to divide any or all of the following tasks among them:",
+								"Come descritto nel {@book Dungeon Master's Guide|XDMG}, puoi semplificare il tuo ruolo di Dungeon Master delegando determinati compiti agli altri giocatori, soprattutto se è la prima volta dietro lo schermo del DM. Prima che il gioco inizi, collabora con gli altri giocatori per dividere tra loro alcuni o tutti i seguenti compiti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,17 +144,17 @@
 										{
 											"type": "item",
 											"name": "Initiative Tracker",
-											"entry": "In combat, one player tracks Initiative for the characters and monsters."
+											"entry": "In combattimento, un giocatore tiene traccia dell'iniziativa dei personaggi e dei mostri."
 										},
 										{
 											"type": "item",
 											"name": "Monster Wranglers",
-											"entry": "Whenever the characters enter combat with Hostile monsters, one or two players run these monsters using the stat blocks in the {@book Monster Manual|XMM}. (Two players can share this role.)"
+											"entry": "Ogni volta che i personaggi entrano in combattimento con mostri ostili, uno o due giocatori gestiscono questi mostri utilizzando i blocchi delle statistiche nel {@book Monster Manual|XMM}. (Due giocatori possono condividere questo ruolo.)"
 										},
 										{
 											"type": "item",
 											"name": "Rules Consultant",
-											"entry": "One player references rules in the {@book Player's Handbook|XPHB} or other books as needed."
+											"entry": "Un giocatore fa riferimento alle regole nel {@book Player's Handbook|XPHB} o in altri libri secondo necessità."
 										}
 									]
 								}
@@ -165,15 +165,15 @@
 							"name": "Adventures for One Character",
 							"id": "00c",
 							"entries": [
-								"While the {@book Dungeon Master's Guide|XDMG} explains how to adjust adventures for different party sizes, three of the adventures (indicated in the table of contents) are particularly well-suited for play with a single adventurer. Each of these adventures includes instructions for ensuring the character faces an appropriate challenge.",
-								"Central to those instructions is the {@i Blessing of the Lone Champion}, a supernatural gift that bolsters the solo character's abilities.",
+								"Mentre il {@book Dungeon Master's Guide|XDMG} spiega come adattare le avventure alle diverse dimensioni del gruppo, tre delle avventure (indicate nel sommario) sono particolarmente adatte per essere giocate con un singolo avventuriero. Ognuna di queste avventure include istruzioni per garantire che il personaggio affronti una sfida adeguata.",
+								"Al centro di queste istruzioni c'è il {@i Blessing of the Lone Champion}, un dono soprannaturale che rafforza le abilità del personaggio solista.",
 								{
 									"type": "statblock",
 									"name": "Blessing of the Lone Champion",
 									"source": "DrDe",
 									"tag": "reward"
 								},
-								"The blessing lasts for the duration of the adventure."
+								"La benedizione dura per tutta la durata dell'avventura."
 							]
 						},
 						{
@@ -181,10 +181,10 @@
 							"name": "A Draconic History",
 							"id": "00e",
 							"entries": [
-								"In addition to ten adventures, this book includes special sections that feature art of each dragon variety, drawing from almost the whole 50-year history of Dungeons & Dragons, from the 1977 Monster Manual to the one published in 2025. The appearance of all ten dragon types has evolved significantly over the past fifty years, but close examination of these images reveals points of continuity as well, from the blue dragon's nose horn to the silver dragon's crest.",
-								"Artist Todd Lockwood spearheaded a thorough revision of all ten dragon types for the release of D&D's third edition in 2000, basing his designs on the anatomy of real-world animals and certain points of continuity with earlier designs. With a few variations, those designs set the standard for D&D's dragons for over 20 years.",
-								"In preparation for the release of the {@book Monster Manual|XMM} (2025), art director Josh Herman led a comprehensive refresh of all the dragon looks as D&D began its second half-century. With the goal of ensuring each dragon's distinct identity\u2014its personality, preferred habitat, and combat style\u2014shines through in its look, this redesign showcases visually what's unique about each type of dragon.",
-								"In the same way, this book highlights how an adventure featuring one kind of dragon can feel distinct from all the others."
+								"Oltre a dieci avventure, questo libro include sezioni speciali che presentano illustrazioni di ciascuna varietà di drago, attingendo da quasi tutti i 50 anni di storia di Dungeons & Dragons, dal Manuale dei Mostri del 1977 a quello pubblicato nel 2025. L'aspetto di tutti e dieci i tipi di drago si è evoluto in modo significativo negli ultimi cinquant'anni, ma un attento esame di queste immagini rivela anche punti di continuità, dal corno nasale del drago blu alla cresta del drago d'argento.",
+								"L'artista Todd Lockwood ha guidato una revisione approfondita di tutti e dieci i tipi di drago per l'uscita della terza edizione di D&D nel 2000, basando i suoi progetti sull'anatomia degli animali del mondo reale e su alcuni punti di continuità con i progetti precedenti. Con poche variazioni, questi design stabiliscono lo standard per i draghi di D&D per oltre 20 anni.",
+								"In preparazione all'uscita di {@book Monster Manual|XMM} (2025), il direttore artistico Josh Herman ha condotto un aggiornamento completo di tutti i look dei draghi mentre D&D iniziava la sua seconda metà di secolo. Con l'obiettivo di garantire che l'identità distinta di ogni drago (la sua personalità, l'habitat preferito e lo stile di combattimento) traspaia nel suo aspetto, questa riprogettazione mostra visivamente ciò che rende unico ogni tipo di drago.",
+								"Allo stesso modo, questo libro evidenzia come un’avventura che abbia come protagonista un tipo di drago possa sembrare distinta da tutti gli altri."
 							]
 						}
 					]
@@ -243,7 +243,7 @@
 					"name": "Key Plot Points",
 					"id": "2f2",
 					"entries": [
-						"The following information is key to the adventure's story:",
+						"Le seguenti informazioni sono fondamentali per la storia dell'avventura:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -251,22 +251,22 @@
 								{
 									"type": "item",
 									"name": "Heat Breaker",
-									"entry": "The remains of the giant Elakdras bear the record of a magical ritual necessary to end a deadly heat wave."
+									"entry": "I resti del gigante Elakdras portano la testimonianza di un rituale magico necessario per porre fine a un'ondata di caldo mortale."
 								},
 								{
 									"type": "item",
 									"name": "Challidax's Trophies",
-									"entry": "Elakdras's frozen remains are in the lair of Challidax, a powerful white dragon also known as Shivering Death."
+									"entry": "I resti congelati di Elakdras si trovano nella tana di Challidax, un potente drago bianco noto anche come Morte Shivering."
 								},
 								{
 									"type": "item",
 									"name": "Frosty Relations",
-									"entry": "Frost giant siblings Ralvald and Aerstigga also seek Elakdras's remains, but they've had a falling-out in Challidax's lair, splitting their followers into rival factions."
+									"entry": "Anche i fratelli giganti del gelo Ralvald e Aerstigga cercano i resti di Elakdras, ma hanno avuto un litigio nella tana di Challidax, dividendo i loro seguaci in fazioni rivali."
 								},
 								{
 									"type": "item",
 									"name": "Into the Ice Caves",
-									"entry": "The adventurers enter the frosty cave complex where the dragon lairs. There they run afoul of the feuding frost giants and other denizens as they try to retrieve the magical ritual."
+									"entry": "Gli avventurieri entrano nel complesso di grotte gelide dove si nasconde il drago. Lì si scontrano con i giganti del gelo e altri abitanti in lotta mentre cercano di recuperare il rituale magico."
 								}
 							]
 						}
@@ -277,7 +277,7 @@
 					"name": "Preparation",
 					"id": "2f3",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -285,22 +285,22 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "Read the \"{@area Adventure Background|2f4|x}\" section."
+									"entry": "Leggi la sezione \"{@area Adventure Background|2f4|x}\"."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Review \"{@area Frost Giant Factions|2f9|x}\" and the Key NPCs table to learn about individuals the characters will interact with during the adventure."
+									"entry": "Consulta \"{@area Frost Giant Factions|2f9|x}\" e la tabella NPC chiave per conoscere gli individui con cui i personaggi interagiranno durante l'avventura."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Bookmark the pages in the {@book Dungeon Master's Guide|XDMG} or on D&D Beyond detailing the {@item Wand of Wonder|XDMG} and the environmental effects of extreme cold."
+									"entry": "Aggiungi ai segnalibri le pagine in {@book Dungeon Master's Guide|XDMG} o in D&D Beyond che descrivono in dettaglio {@item Wand of Wonder|XDMG} e gli effetti ambientali del freddo estremo."
 								},
 								{
 									"type": "item",
 									"name": "Step 4",
-									"entry": "Bookmark the following stat blocks in the {@book Monster Manual|XMM} or on D&D Beyond:"
+									"entry": "Aggiungi ai segnalibri i seguenti blocchi di statistiche in {@book Monster Manual|XMM} o su D&D Beyond:"
 								}
 							]
 						},
@@ -346,79 +346,79 @@
 							"rows": [
 								[
 									"Aerstigga",
-									"Giant seeking to ally with Challidax",
+									"Gigante che cerca di allearsi con Challidax",
 									"{@creature Frost Giant|XMM}",
 									"{@adventure D16|DrDe-SD|1|D16: Trophy Cave}"
 								],
 								[
-									"Ardrandal and Forstrorri",
-									"Giants loyal to Ralvald",
-									"{@creature Frost Giant|XMM} (Neutral)",
+									"Ardrandal e Forstrorri",
+									"Giganti fedeli a Ralvald",
+									"{@creature Frost Giant|XMM} (Neutro)",
 									"{@adventure D4|DrDe-SD|1|D4: Giant Camp}"
 								],
 								[
-									"Challidax (a.k.a. Shivering Death)",
-									"Primary antagonist",
+									"Challidax (aka Morte tremante)",
+									"Antagonista primario",
 									"{@creature Adult White Dragon|XMM}",
 									"{@adventure D16|DrDe-SD|1|D16: Trophy Cave}"
 								],
 								[
 									"Elakdras",
-									"Dead frost giant druid",
-									"\u2014",
+									"Druido gigante del gelo morto",
+									"—",
 									"{@adventure D16|DrDe-SD|1|D16: Trophy Cave}"
 								],
 								[
 									"Enstavva",
-									"{@condition Petrified|XPHB} frost giant",
-									"{@creature Frost Giant|XMM} (Neutral)",
+									"{@condition Petrified|XPHB} gigante del gelo",
+									"{@creature Frost Giant|XMM} (Neutro)",
 									"{@adventure D8|DrDe-SD|1|D8: Icicle Cave}"
 								],
 								[
 									"Finkleton",
-									"Dead halfling adventurer",
-									"\u2014",
+									"Avventuriero halfling morto",
+									"—",
 									"{@adventure D16|DrDe-SD|1|D16: Trophy Cave}"
 								],
 								[
 									"Gelida",
-									"Trapped lair denizen",
+									"Abitante della tana intrappolato",
 									"{@creature Ice Mephit|XMM}",
 									"{@adventure D9|DrDe-SD|1|D9: Concealed Cleft}"
 								],
 								[
 									"Grahlista",
-									"Human quest giver",
-									"{@creature Priest|XMM} (Medium, Neutral Good)",
+									"Donatore di missioni umane",
+									"{@creature Priest|XMM} (Medio, Neutrale Buono)",
 									"\"{@area Beginning the Adventure|2f5|x}\""
 								],
 								[
-									"Grimvel and Luskegga",
-									"Giants loyal to Aerstigga",
+									"Grimvel e Luskegga",
+									"Giganti fedeli ad Aerstigga",
 									"{@creature Frost Giant|XMM}",
 									"{@adventure D10|DrDe-SD|1|D10: Frozen River}"
 								],
 								[
 									"Heldalf",
-									"Mammoth keeper loyal to Ralvald",
-									"{@creature Frost Giant|XMM} (Neutral)",
+									"Custode mastodontico fedele a Ralvald",
+									"{@creature Frost Giant|XMM} (Neutro)",
 									"{@adventure D3|DrDe-SD|1|D3: Animal Pen}"
 								],
 								[
 									"Luskar",
-									"Giant loyal to Aerstigga",
-									"{@creature Frost Giant|XMM} (Neutral)",
+									"Gigante fedele ad Aerstigga",
+									"{@creature Frost Giant|XMM} (Neutro)",
 									"{@adventure D14|DrDe-SD|1|D14: Giant Quarters}"
 								],
 								[
 									"Ralvald",
-									"Giant seeking inter Elakdras's remains",
-									"{@creature Frost Giant|XMM} (Lawful Neutral)",
+									"Gigante che cerca i resti di Elakdras",
+									"{@creature Frost Giant|XMM} (Legale Neutrale)",
 									"{@adventure D5|DrDe-SD|1|D5: Ralvald's Retreat}"
 								],
 								[
 									"Shabblejaw",
-									"Aerstigga's wolf handler",
+									"L'addestratore di lupi di Aerstigga",
 									"{@creature Troll|XMM}",
 									"{@adventure D11|DrDe-SD|1|D11: Wolf Ledge}"
 								]
@@ -431,7 +431,7 @@
 					"name": "Adventure Background",
 					"id": "2f4",
 					"entries": [
-						"A deadly heat wave bakes an unprepared pastoral land. Crops have failed, rivers have run dry, and prospects are grim. While the reason for the unprecedented heat is unclear, the sage Grahlista has uncovered a possible solution. The sage invites the characters to meet at her home to receive her proposal."
+						"Un’ondata di caldo mortale cuoce una terra pastorale impreparata. I raccolti sono falliti, i fiumi si sono seccati e le prospettive sono cupe. Sebbene la ragione del caldo senza precedenti non sia chiara, il saggio Grahlista ha scoperto una possibile soluzione. Il saggio invita i personaggi a incontrarsi a casa sua per ricevere la sua proposta."
 					]
 				},
 				{
@@ -439,17 +439,17 @@
 					"name": "Beginning the Adventure",
 					"id": "2f5",
 					"entries": [
-						"The adventure begins at Grahlista's dwelling. Grahlista is a human sage (Medium, Neutral Good {@creature Priest|XMM}) and is cordial but Indifferent toward the adventurers she has invited into her home.",
-						"Read or paraphrase the following aloud to begin the adventure:",
+						"L'avventura inizia a casa di Grahlista. Grahlista è una saggia umana (Medio, Neutrale Buono {@creature Priest|XMM}) ed è cordiale ma indifferente verso gli avventurieri che ha invitato a casa sua.",
+						"Leggi o parafrasa quanto segue ad alta voce per iniziare l'avventura:",
 						{
 							"type": "insetReadaloud",
 							"id": "2f6",
 							"entries": [
-								"The heat is impossible to ignore. Across the land, crops have withered, streams have turned to dust, and the locals swelter even in the shade. There's never been a season like this before, and if something's not done, few will remain to experience any season after.The gray-haired sage Grahlista fans herself as she recounts the heat wave's dire effects. \"There's no end in sight,\" she says. \"But I might have a solution.\"Grahlista pats a tome bound in frosty blue. \"Long ago, the frost giant Elakdras tried to freeze this land into a dominion of everlasting ice. He developed a spell of primal cold and tattooed the ritual on his body. Then he sought to ally with the white dragon Challidax\u2014whom the giants call Shivering Death\u2014and win the wyrm's aid in conquering the region. Elakdras never emerged from Shivering Death's lair.\" But Challidax is known to turn her foes into frozen trophies. Elakdras's body\u2014and his ritual\u2014might be preserved in the dragon's lair. Go to Challidax's lair, search for Elakdras's body, and make a copy of the ritual. In return, I'll pay you each 700 Gold Pieces. And should you find the ritual, I'll throw in a magic item from my own adventuring days. What do you say?\""
+								"Il caldo è impossibile da ignorare. In tutto il paese, i raccolti sono appassiti, i ruscelli si sono trasformati in polvere e la gente del posto soffoca anche all’ombra. Non c'è mai stata una stagione come questa prima, e se non si fa qualcosa, pochi rimarranno a vivere quella successiva. La saggia Grahlista dai capelli grigi si fa fan mentre racconta i terribili effetti dell'ondata di caldo. \"Non c'è fine in vista\", dice. \"Ma potrei avere una soluzione.\" Grahlista accarezza un tomo rilegato in blu gelido. \"Molto tempo fa, il gigante del gelo Elakdras cercò di congelare questa terra trasformandola in un dominio di ghiaccio eterno. Sviluppò un incantesimo di freddo primordiale e tatuò il rituale sul suo corpo. Poi cercò di allearsi con il drago bianco Challidax, che i giganti chiamano Morte Tremante, e ottenere l'aiuto del dragone nella conquista della regione. Elakdras non è mai emerso dalla tana della Morte Tremante.\" Ma Challidax è noto per trasformare i suoi nemici in trofei congelati. Il corpo di Elakdras e il suo rituale potrebbero essere preservati nella tana del drago. Vai alla tana di Challidax, cerca il corpo di Elakdras e crea una copia del rituale. In cambio, ti pagherò 700 monete d'oro ciascuno. E se dovessi trovare il rituale, aggiungerò un oggetto magico dei miei giorni di avventure. Che ne dici?\""
 							]
 						},
-						"The magic item Grahlista offers is a pair of {@item Boots of the Winterlands|XDMG}. If the characters negotiate for a better reward, Grahlista agrees to give them the boots before they leave but refuses to budge on the amount of gold she offers.",
-						"If the characters agree to aid Grahlista, she shares the following information:",
+						"L'oggetto magico offerto da Grahlista è una coppia di {@item Boots of the Winterlands|XDMG}. Se i personaggi negoziano per una ricompensa migliore, Grahlista accetta di dare loro gli stivali prima che se ne vadano, ma rifiuta di muoversi sulla quantità di oro che offre.",
+						"Se i personaggi accettano di aiutare Grahlista, lei condivide le seguenti informazioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -457,17 +457,17 @@
 								{
 									"type": "item",
 									"name": "Challidax's Lair",
-									"entry": "The dragon's lair is an extensive network of icy caves two days' journey from Grahlista's home. The terrain around the lair is supernaturally cold, regardless of the season."
+									"entry": "La tana del drago è una vasta rete di caverne ghiacciate a due giorni di viaggio dalla casa di Grahlista. Il terreno attorno alla tana è straordinariamente freddo, indipendentemente dalla stagione."
 								},
 								{
 									"type": "item",
 									"name": "A Cruel Dragon",
-									"entry": "Challidax is a cruel and vain white dragon who has terrorized the region for decades. She often freezes foes into gruesome tableaux to commemorate her victories over them."
+									"entry": "Challidax è un drago bianco crudele e vanitoso che terrorizza la regione da decenni. Spesso congela i nemici in scene raccapriccianti per commemorare le sue vittorie su di loro."
 								},
 								{
 									"type": "item",
 									"name": "Safe House",
-									"entry": "Tucked in the crevice between hills, an abandoned cabin stands a half-mile from Challidax's lair. This could serve as a place to rest and prepare to enter the lair."
+									"entry": "Nascosta nella fessura tra le colline, una capanna abbandonata si trova a mezzo miglio dalla tana di Challidax. Questo potrebbe servire come luogo in cui riposarsi e prepararsi ad entrare nella tana."
 								}
 							]
 						},
@@ -476,9 +476,9 @@
 							"name": "Traveling to the Lair",
 							"id": "2f7",
 							"entries": [
-								"The journey to Challidax's lair proves uneventful. Light flakes fall in the hills that Challidax claims as her territory, encrusting the rocky ground with ice and snow. The change in temperature from the sweltering lands nearby is profound but not a relief.",
-								"On the second day of travel, the characters enter the cold and fog-shrouded area shaped by the magic of Challidax's lair (as described in the {@book Monster Manual|XMM}). The safe house that Grahlista mentioned lies in this area. Characters who seek it find it easily. It contains evidence of past cooking fires and is a safe place to camp.",
-								"When the characters seek out Challidax's lair, they find it with 1 hour of searching near the safe house."
+								"Il viaggio verso la tana di Challidax si rivela tranquillo. Fiocchi leggeri cadono sulle colline che Challidax rivendica come suo territorio, incrostando il terreno roccioso di ghiaccio e neve. Il cambiamento di temperatura rispetto alle afose terre vicine è profondo ma non è un sollievo.",
+								"Nel secondo giorno di viaggio, i personaggi entrano nell'area fredda e avvolta dalla nebbia modellata dalla magia della tana di Challidax (come descritto nel {@book Monster Manual|XMM}). Il rifugio menzionato da Grahlista si trova in questa zona. I personaggi che lo cercano lo trovano facilmente. Contiene prove di fuochi da cucina del passato ed è un posto sicuro dove accamparsi.",
+								"Quando i personaggi cercano la tana di Challidax, la trovano dopo 1 ora di ricerca vicino al rifugio."
 							]
 						}
 					]
@@ -3537,20 +3537,20 @@
 								}
 							]
 						},
-						"Challidax has inhabited a network of caverns for more than a century. The dragon doesn't make regular visits to all the caves in her lair, so other creatures sometimes sneak in and inhabit them. Challidax eventually destroys these interlopers, but it could be weeks or months before she notices or responds.",
+						"Challidax abita una rete di caverne da più di un secolo. Il drago non visita regolarmente tutte le caverne della sua tana, quindi a volte altre creature si intrufolano e le abitano. Challidax alla fine distrugge questi intrusi, ma potrebbero passare settimane o mesi prima che se ne accorga o risponda.",
 						{
 							"type": "entries",
 							"name": "Frost Giant Factions",
 							"id": "2f9",
 							"entries": [
-								"The characters aren't the only ones interested in the frozen corpse. A group of frost giants, led by Elakdras's descendants, recently arrived in Challidax's lair. They hope the heat wave has weakened the dragon enough that they can slay her and recover their honored ancestor's corpse to lay it to rest respectfully. The temptation of Challidax's hoard is further motivation. However, the giants have recently split into two factions, as described below.",
+								"I personaggi non sono gli unici interessati al cadavere congelato. Un gruppo di giganti del gelo, guidati dai discendenti di Elakdras, sono recentemente arrivati ​​nella tana di Challidax. Sperano che l'ondata di caldo abbia indebolito il drago abbastanza da poterlo uccidere e recuperare il cadavere del loro onorato antenato per seppellirlo rispettosamente. La tentazione del tesoro di Challidax è un'ulteriore motivazione. Tuttavia, i giganti si sono recentemente divisi in due fazioni, come descritto di seguito.",
 								{
 									"type": "entries",
 									"name": "Ralvald's Giants",
 									"id": "2fa",
 									"entries": [
-										"Ralvald was the giants' leader but was recently betrayed by his sister, Aerstigga, who seeks to ally with the dragon to elevate her power. Aerstigga ambushed Ralvald shortly after the group reached the lair, gravely wounding her brother, then moved deeper into the lair with her followers. Three giants remained with Ralvald, stanching his wounds and saving his life.",
-										"Ralvald and his loyal giants occupy the southeastern caverns of the lair (areas {@adventure D3|DrDe-SD|1|D3: Animal Pen}\u2013{@adventure D5|DrDe-SD|1|D5: Ralvald's Retreat}). As the despondent Ralvald nurses his wounds, he considers how to deal with his sister's treachery. Ralvald is willing to talk to the characters and might cooperate with them to defeat the dragon and recover his ancestor's corpse."
+										"Ralvald era il leader dei giganti ma è stato recentemente tradito da sua sorella Aerstigga, che cerca di allearsi con il drago per elevare il suo potere. Aerstigga tese un'imboscata a Ralvald poco dopo che il gruppo raggiunse la tana, ferendo gravemente suo fratello, poi si addentrò più in profondità nella tana con i suoi seguaci. Tre giganti rimasero con Ralvald, curando le sue ferite e salvandogli la vita.",
+										"Ralvald e i suoi fedeli giganti occupano le caverne sudorientali della tana (aree {@adventure D3|DrDe-SD|1|D3: Animal Pen}–{@adventure D5|DrDe-SD|1|D5: Ralvald's Retreat}). Mentre lo scoraggiato Ralvald cura le sue ferite, riflette su come affrontare il tradimento di sua sorella. Ralvald è disposto a parlare con i personaggi e potrebbe collaborare con loro per sconfiggere il drago e recuperare il cadavere del suo antenato."
 									]
 								},
 								{
@@ -3558,8 +3558,8 @@
 									"name": "Aerstigga's Giants",
 									"id": "2fb",
 									"entries": [
-										"Aerstigga has been negotiating with Challidax in the dragon's trophy cave (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}). Aerstigga has offered wealth in addition to her loyalty. She has a {@item Wand of Wonder|XDMG} that occasionally produces gems and has given the dragon the treasure she had already accumulated. Challidax's greed exceeds Aerstigga's gem supply, however. Aerstigga hides the {@item Wand of Wonder|XDMG}'s existence from the dragon, and she experiments with the erratic wand away from Challidax's notice to try to make even more gems. The characters might encounter the strange results in several areas.",
-										"Aerstigga won't parley with the characters, as she wants to show strength in front of Challidax. Aerstigga's followers occupy the west-central portions of the lair (areas {@adventure D10|DrDe-SD|1|D10: Frozen River}, {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}, and {@adventure D14|DrDe-SD|1|D14: Giant Quarters})."
+										"Aerstigga ha negoziato con Challidax nella grotta dei trofei del drago (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}). Aerstigga ha offerto ricchezza oltre alla sua lealtà. Ha un {@item Wand of Wonder|XDMG} che occasionalmente produce gemme e ha donato al drago il tesoro che aveva già accumulato. Tuttavia, l'avidità di Challidax supera la fornitura di gemme di Aerstigga. Aerstigga nasconde l'esistenza del {@item Wand of Wonder|XDMG} al drago e sperimenta con la bacchetta irregolare lontano dall'attenzione di Challidax per cercare di creare ancora più gemme. I personaggi potrebbero riscontrare strani risultati in diverse aree.",
+										"Aerstigga non parlerà con i personaggi, poiché vuole mostrare forza di fronte a Challidax. I seguaci di Aerstigga occupano le porzioni centro-occidentali della tana (aree {@adventure D10|DrDe-SD|1|D10: Frozen River}, {@adventure D11|DrDe-SD|1|D11: Wolf Ledge} e {@adventure D14|DrDe-SD|1|D14: Giant Quarters})."
 									]
 								}
 							]
@@ -3569,13 +3569,13 @@
 							"name": "Lair Features",
 							"id": "2fc",
 							"entries": [
-								"Unless otherwise specified, Challidax's lair has the following features.",
+								"Se non diversamente specificato, la tana di Challidax ha le seguenti caratteristiche.",
 								{
 									"type": "entries",
 									"name": "Ceilings",
 									"id": "2fd",
 									"entries": [
-										"Ceilings throughout the lair are 25 feet high in passages and 35 feet high in caves."
+										"I soffitti in tutta la tana sono alti 25 piedi nei passaggi e 35 piedi nelle caverne."
 									]
 								},
 								{
@@ -3583,7 +3583,7 @@
 									"name": "Extreme Cold",
 									"id": "2fe",
 									"entries": [
-										"All areas in the lair are subject to extreme cold (see the {@book Dungeon Master's Guide|XDMG})."
+										"Tutte le aree della tana sono soggette a freddo estremo (vedi {@book Dungeon Master's Guide|XDMG})."
 									]
 								},
 								{
@@ -3591,13 +3591,13 @@
 									"name": "Freezing River",
 									"id": "2ff",
 									"entries": [
-										"A subterranean river flows through several areas in Challidax's lair ({@adventure D16|DrDe-SD|1|D16: Trophy Cave}, {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}, {@adventure D10|DrDe-SD|1|D10: Frozen River}, and {@adventure D5|DrDe-SD|1|D5: Ralvald's Retreat}) before cascading over two cliffs and pooling in area {@dice D6}. The river's origin and outflow are underground. The river is 15 feet deep and filled with fat, white fish that many inhabitants of the lair eat.",
+										"Un fiume sotterraneo scorre attraverso diverse aree nella tana di Challidax ({@adventure D16|DrDe-SD|1|D16: Trophy Cave}, {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}, {@adventure D10|DrDe-SD|1|D10: Frozen River} e {@adventure D5|DrDe-SD|1|D5: Ralvald's Retreat}) prima di precipitare su due scogliere e confluire nell'area {@dice D6}. L'origine e il deflusso del fiume sono sotterranei. Il fiume è profondo 15 piedi ed è pieno di pesci grassi e bianchi che mangiano molti abitanti della tana.",
 										{
 											"type": "entries",
 											"name": "Breathing",
 											"id": "300",
 											"entries": [
-												"The river passes underground between areas. A creature that can't breathe water has to hold its breath while passing between areas via the river. The water is iced over in area {@adventure D10|DrDe-SD|1|D10: Frozen River}; see that area for details."
+												"Il fiume passa sottoterra tra le aree. Una creatura che non può respirare l'acqua deve trattenere il respiro mentre passa da un'area all'altra attraverso il fiume. L'acqua è ghiacciata nell'area {@adventure D10|DrDe-SD|1|D10: Frozen River}; vedere quell'area per i dettagli."
 											]
 										},
 										{
@@ -3605,7 +3605,7 @@
 											"name": "Frigid Water",
 											"id": "301",
 											"entries": [
-												"The river is considered frigid water (see the {@book Dungeon Master's Guide|XDMG})."
+												"Il fiume è considerato acqua gelida (vedi {@book Dungeon Master's Guide|XDMG})."
 											]
 										},
 										{
@@ -3613,7 +3613,7 @@
 											"name": "Moving in the River",
 											"id": "302",
 											"entries": [
-												"Swimming in the river requires a successful {@dc 10} Strength ({@skill Athletics|XPHB}) check. The current pushes Large or smaller creatures swimming in it 10 feet farther along its flow at the end of the creature's turn."
+												"Nuotare nel fiume richiede una prova riuscita di Forza {@dc 10} ({@skill Athletics|XPHB}). La corrente spinge le creature Grandi o più piccole che nuotano al suo interno 3 metri più avanti lungo il suo flusso alla fine del turno della creatura."
 											]
 										}
 									]
@@ -3623,7 +3623,7 @@
 									"name": "Light",
 									"id": "303",
 									"entries": [
-										"Ice throughout the lair reflects even the smallest light, providing {@variantrule Dim Light|XPHB} throughout. Areas with campfires are bathed in {@variantrule Bright Light|XPHB}."
+										"Il ghiaccio in tutta la tana riflette anche la luce più piccola, fornendo {@variantrule Dim Light|XPHB} ovunque. Le aree con fuochi da campo sono bagnate {@variantrule Bright Light|XPHB}."
 									]
 								}
 							]
@@ -3633,7 +3633,7 @@
 							"name": "Lair Locations",
 							"id": "304",
 							"entries": [
-								"The following locations are keyed to {@adventure Map: Shivering Deaths Lair|DrDe-SD|1|Map: Shivering Deaths Lair}.",
+								"Le seguenti posizioni sono collegate a {@adventure Map: Shivering Deaths Lair|DrDe-SD|1|Map: Shivering Deaths Lair}.",
 								{
 									"type": "entries",
 									"name": "D1: Lair Entrance",
@@ -3643,17 +3643,17 @@
 											"type": "insetReadaloud",
 											"id": "306",
 											"entries": [
-												"A wide cleft in an icy cliffside marks the entrance to Shivering Death's lair. Frozen bones protrude from snowdrifts outside the cavern entrance."
+												"Un'ampia fenditura in una scogliera ghiacciata segna l'ingresso alla tana di Shivering Death. Le ossa congelate sporgono dai cumuli di neve fuori dall'ingresso della caverna."
 											]
 										},
-										"The bones are from recently killed animals and human travelers. The bones show gouge marks from teeth the size of daggers. As a {@action Search|XPHB} action, a character can examine the area and make a {@dc 15} Wisdom ({@skill Survival|XPHB}) check. On a success, the character notices days-old, partially concealed boot prints in the snow. These prints are several feet in length and were clearly made by giants, though which type is unclear.",
+										"Le ossa provengono da animali uccisi di recente e da viaggiatori umani. Le ossa mostrano segni di sgorbia lasciati da denti delle dimensioni di pugnali. Come azione {@action Search|XPHB}, un personaggio può esaminare l'area ed effettuare una prova di {@dc 15} Saggezza ({@skill Survival|XPHB}). In caso di successo, il personaggio nota impronte di stivali vecchie di giorni e parzialmente nascoste nella neve. Queste impronte sono lunghe diversi metri e sono state chiaramente realizzate da giganti, anche se non è chiaro quale tipo.",
 										{
 											"type": "entries",
 											"name": "Wyvern Roost",
 											"id": "307",
 											"entries": [
-												"Four {@creature Wyvern|XMM|Wyverns} dwell on an icy ledge 80 feet above the lair entrance. The ledge blends in from below but is easily noticed from above. These draconic creatures have adapted well to the frigid environment, with white scales and Resistance to Cold damage.",
-												"When the characters arrive, {@dice 1d3} of the wyverns are out hunting. Those that remain in the roost are Indifferent and fight only if the characters make a lot of noise nearby or ascend to the wyverns' roost. If the characters get in a fight here, the hunting wyverns return to the roost and join the fight on Initiative count 0 of the second round (losing ties)."
+												"Quattro {@creature Wyvern|XMM|Wyverns} si fermano su una sporgenza ghiacciata 80 piedi sopra l'ingresso della tana. La sporgenza si confonde dal basso ma si nota facilmente dall'alto. Queste creature draconiche si sono adattate bene all'ambiente gelido, con scaglie bianche e danni resistenti al freddo.",
+												"Quando i personaggi arrivano, {@dice 1d3} delle viverne sono a caccia. Quelli che rimangono nel nido sono Indifferenti e combattono solo se i personaggi fanno molto rumore nelle vicinanze o salgono sul posatoio delle viverne. Se i personaggi combattono qui, le viverne da caccia tornano al nido e si uniscono al combattimento con il conteggio di Iniziativa 0 del secondo round (perdendo i pareggi)."
 											]
 										}
 									]
@@ -3667,10 +3667,10 @@
 											"type": "insetReadaloud",
 											"id": "309",
 											"entries": [
-												"The cave splits into two passages on either side of a huge centipede-like monster frozen in a block of ice. Although the beast is positioned within the icy block as though rearing up to strike, severe wounds indicate that it died before being frozen."
+												"La grotta si divide in due passaggi su entrambi i lati di un enorme mostro simile a un millepiedi congelato in un blocco di ghiaccio. Sebbene la bestia sia posizionata all'interno del blocco di ghiaccio come se si impennasse per colpire, ferite gravi indicano che è morta prima di essere congelata."
 											]
 										},
-										"This dead remorhaz is one of Challidax's trophies. It crept into the lair via the underground river, but the dragon caught and vanquished it in the foggy cave (area {@adventure D6|DrDe-SD|1|D6: Foggy Cave}). Challidax relished posing the corpse in the lair entry to scare intruders. If thawed, the dead creature is harmless."
+										"Questo remorhaz morto è uno dei trofei di Challidax. Si è insinuato nella tana attraverso il fiume sotterraneo, ma il drago lo ha catturato e sconfitto nella grotta nebbiosa (area {@adventure D6|DrDe-SD|1|D6: Foggy Cave}). Challidax apprezzava posizionare il cadavere all'ingresso della tana per spaventare gli intrusi. Se scongelata, la creatura morta è innocua."
 									]
 								},
 								{
@@ -3682,16 +3682,16 @@
 											"type": "insetReadaloud",
 											"id": "30b",
 											"entries": [
-												"A sour smell of old hay and dung fills this cavern. A shaggy mammoth stands placidly in the room chewing on a mound of reeds."
+												"Un odore acre di fieno vecchio e sterco riempie questa caverna. Un mammut irsuto se ne sta placido nella stanza masticando un cumulo di canne."
 											]
 										},
-										"Not visible until the characters approach the beast, a Neutral {@creature Frost Giant|XMM} named Heldalf sits on a stool behind the {@creature Mammoth|XMM}, combing out the pack animal's tangled fur. Heldalf is Indifferent to the characters and loyal to Ralvald; he feels committed to staying here until Ralvald decides on a course of action. If the characters are aggressive or indicate support of Aerstigga, Heldalf directs his animal companion into battle and fights at its side. Heldalf and his mammoth flee if either of them is reduced to 30 Hit Points or fewer.",
+										"Non visibile finché i personaggi non si avvicinano alla bestia, un Neutrale {@creature Frost Giant|XMM} di nome Heldalf siede su uno sgabello dietro {@creature Mammoth|XMM}, pettinando la pelliccia aggrovigliata dell'animale da soma. Heldalf è indifferente ai personaggi e fedele a Ralvald; si sente impegnato a restare qui finché Ralvald non deciderà una linea d'azione. Se i personaggi sono aggressivi o indicano sostegno ad Aerstigga, Heldalf dirige il suo compagno animale in battaglia e combatte al suo fianco. Heldalf e il suo mammut fuggono se uno di loro viene ridotto a 30 Punti Ferita o meno.",
 										{
 											"type": "entries",
 											"name": "Talking with Heldalf",
 											"id": "30c",
 											"entries": [
-												"If the characters want to converse and know Giant, Heldalf proves chatty. He shares the following information in conversation:",
+												"Se i personaggi vogliono conversare e conoscere Giant, Heldalf si dimostra loquace. Durante la conversazione condivide le seguenti informazioni:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3699,21 +3699,21 @@
 														{
 															"type": "item",
 															"name": "Giants' Arrival",
-															"entry": "A group of frost giants followed their leader, Ralvald, to the dragon's lair to recover the body of Ralvald's ancestor, a powerful druid called Elakdras."
+															"entry": "Un gruppo di giganti del gelo seguì il loro leader, Ralvald, nella tana del drago per recuperare il corpo dell'antenato di Ralvald, un potente druido chiamato Elakdras."
 														},
 														{
 															"type": "item",
 															"name": "Sibling Betrayal",
-															"entry": "Once in the caves, Ralvald's sister, Aerstigga, betrayed him. She wounded him and vowed to serve Shivering Death. Aerstigga hinted that she had some means to buy her way into the dragon's good graces. The other giants split their loyalties: half of them followed the treacherous Aerstigga, while the other half remained true to Ralvald."
+															"entry": "Una volta nelle caverne, la sorella di Ralvald, Aerstigga, lo tradì. Lo ferì e giurò di servire Shivering Death. Aerstigga ha lasciato intendere che aveva i mezzi per entrare nelle grazie del drago. Gli altri giganti si divisero la loro lealtà: metà di loro seguirono il perfido Aerstigga, mentre l'altra metà rimase fedele a Ralvald."
 														},
 														{
 															"type": "item",
 															"name": "Ralvald's Location",
-															"entry": "Ralvald is contemplating what to do next in a cave to the north. Heldalf thinks the characters, as newcomers, might be of use to Ralvald and suggests they take the narrow northeast passage to meet with him."
+															"entry": "Ralvald sta riflettendo su cosa fare dopo in una grotta a nord. Heldalf pensa che i personaggi, in quanto nuovi arrivati, potrebbero essere utili a Ralvald e suggerisce di prendere lo stretto passaggio a nord-est per incontrarlo."
 														}
 													]
 												},
-												"If the characters don't fight Heldalf but can't converse with him, the giant motions for them to move on, pointing toward the narrow passage to the northeast.",
+												"Se i personaggi non combattono Heldalf ma non possono conversare con lui, il gigante fa loro cenno di andare avanti, indicando lo stretto passaggio a nord-est.",
 												{
 													"type": "image",
 													"href": {
@@ -3737,17 +3737,17 @@
 											"type": "insetReadaloud",
 											"id": "30e",
 											"entries": [
-												"Heaps of frost-covered furs surround a large cooking fire in this wide alcove. Two hulking, blue-skinned giants tend to the fire and tidy the campsite."
+												"Mucchi di pellicce ricoperte di brina circondano un grande fuoco in questa ampia alcova. Due giganteschi giganti dalla pelle blu si occupano del fuoco e riordinano l'accampamento."
 											]
 										},
-										"There is sufficient bedding for four frost giants here.",
-										"Two Neutral {@creature Frost Giant|XMM|Frost Giants}, Ardrandal and Forstrorri, recount stories of long-dead heroes while they maintain the camp here. Both are loyal to Ralvald but grow impatient with his lack of action. They are Indifferent to the characters but leap into battle if threatened.",
+										"Qui c'è abbastanza lettiera per quattro giganti del gelo.",
+										"Due Neutrali {@creature Frost Giant|XMM|Frost Giants}, Ardrandal e Forstrorri, raccontano storie di eroi morti da tempo mentre mantengono l'accampamento qui. Entrambi sono fedeli a Ralvald ma diventano impazienti per la sua mancanza di azione. Sono indifferenti ai personaggi ma si lanciano in battaglia se minacciati.",
 										{
 											"type": "entries",
 											"name": "Talking with the Giants",
 											"id": "30f",
 											"entries": [
-												"The giants are willing to talk with peaceable characters who know Giant. They relate the same information as Heldalf, but add that they wish Ralvald would give up his impossible quest to defeat Challidax."
+												"I giganti sono disposti a parlare con personaggi pacifici che conoscono Giant. Riferiscono le stesse informazioni di Heldalf, ma aggiungono che desiderano che Ralvald rinunci alla sua impossibile ricerca per sconfiggere Challidax."
 											]
 										}
 									]
@@ -3761,16 +3761,16 @@
 											"type": "insetReadaloud",
 											"id": "311",
 											"entries": [
-												"A wide river crosses this cavern, flowing from the west down a passage to the east. The noise of falling water echoes from the eastern passage. A frost giant sits on an icy boulder on the north side of the room, his right hand to his forehead in a pose of evident sorrow."
+												"Un ampio fiume attraversa questa caverna, scorrendo da ovest lungo un passaggio verso est. Il rumore dell'acqua che cade risuona dal passaggio orientale. Un gigante del gelo siede su un masso ghiacciato sul lato nord della stanza, con la mano destra sulla fronte in una posa di evidente dolore."
 											]
 										},
-										"The dejected giant is Ralvald, a Lawful Neutral {@creature Frost Giant|XMM} who knows Common as well as Giant. The giant has become so wrapped up in his own troubles that he doesn't notice the characters until they make themselves known to him. Ralvald is Indifferent to the characters and would rather talk than fight.",
+										"Il gigante abbattuto è Ralvald, un Legale Neutrale {@creature Frost Giant|XMM} che conosce sia il Comune che il Gigante. Il gigante è così preso dai suoi problemi che non nota i personaggi finché non gli si fanno conoscere. Ralvald è indifferente ai personaggi e preferisce parlare piuttosto che combattere.",
 										{
 											"type": "entries",
 											"name": "Talking with Ralvald",
 											"id": "312",
 											"entries": [
-												"Ralvald treats the characters with respect, assuming only brave adventurers would venture into a dragon's lair. Ralvald provides the same information as Heldalf (area {@adventure D3|DrDe-SD|1|D3: Animal Pen}), plus the following points:",
+												"Ralvald tratta i personaggi con rispetto, partendo dal presupposto che solo gli avventurieri coraggiosi si avventurerebbero nella tana di un drago. Ralvald fornisce le stesse informazioni di Heldalf (area {@adventure D3|DrDe-SD|1|D3: Animal Pen}), più i seguenti punti:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3778,17 +3778,17 @@
 														{
 															"type": "item",
 															"name": "Aerstigga's Plan",
-															"entry": "Ralvald considers his sister's plan to win the dragon's favor a bad one. He doesn't think Challidax will honor any pledges of fealty from Aerstigga, even if Aerstigga tries to buy off the dragon with treasure. He thinks it might be possible to drive a wedge between Aerstigga and the dragon, leaving his sister no option but to flee. Ralvald believes that if she flees, she'll ultimately regret betraying him and make amends."
+															"entry": "Ralvald considera un cattivo piano di sua sorella per ottenere il favore del drago. Non pensa che Challidax onorerà le promesse di fedeltà di Aerstigga, anche se Aerstigga cerca di riscattare il drago con un tesoro. Pensa che potrebbe essere possibile creare un cuneo tra Aerstigga e il drago, non lasciando a sua sorella altra scelta se non quella di fuggire. Ralvald crede che se lei fugge, alla fine si pentirà di averlo tradito e farà ammenda."
 														},
 														{
 															"type": "item",
 															"name": "Potential Ally",
-															"entry": "Ralvald noticed a giant named Enstavva hiding in the icicle-filled cave to the north. Ralvald has always been impressed with Enstavva's wisdom, so he assumes Enstavva has decided to remain neutral in the current conflict. Ralvald doesn't want to pressure her, so he hasn't yet confronted her. (Ralvald doesn't realize Enstavva has been turned to stone, as described in area {@adventure D8|DrDe-SD|1|D8: Icicle Cave}.)"
+															"entry": "Ralvald notò un gigante di nome Enstavva nascosto nella grotta piena di ghiaccioli a nord. Ralvald è sempre rimasto colpito dalla saggezza di Enstavva, quindi presume che Enstavva abbia deciso di rimanere neutrale nel conflitto attuale. Ralvald non vuole farle pressione, quindi non l'ha ancora affrontata. (Ralvald non si rende conto che Enstavva è stata trasformata in pietra, come descritto nell'area {@adventure D8|DrDe-SD|1|D8: Icicle Cave}.)"
 														},
 														{
 															"type": "item",
 															"name": "Ralvald's Goals",
-															"entry": "Ralvald is eager for aid and wants the dragon dead. He would prefer that his sister survive, but he understands that her choices might have serious consequences."
+															"entry": "Ralvald è desideroso di aiuto e vuole che il drago muoia. Preferirebbe che sua sorella sopravvivesse, ma capisce che le sue scelte potrebbero avere gravi conseguenze."
 														}
 													]
 												}
@@ -3799,7 +3799,7 @@
 											"name": "Advice for Ralvald",
 											"id": "313",
 											"entries": [
-												"Ralvald is in dire need of advice. He takes the counsel of any characters who seem genuinely invested in his plight. The characters might discuss these options with him:",
+												"Ralvald ha un disperato bisogno di consigli. Prende il consiglio di tutti i personaggi che sembrano sinceramente coinvolti nella sua situazione. I personaggi potrebbero discutere con lui queste opzioni:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3807,17 +3807,17 @@
 														{
 															"type": "item",
 															"name": "Depart the Lair",
-															"entry": "If the characters tell Ralvald he should simply leave with his loyal giants, he sighs and agrees. Within 10 minutes, Ralvald departs with the giants in the animal pen and campsite (areas {@adventure D3|DrDe-SD|1|D3: Animal Pen} and {@adventure D4|DrDe-SD|1|D4: Giant Camp})."
+															"entry": "Se i personaggi dicono a Ralvald che dovrebbe semplicemente andarsene con i suoi fedeli giganti, lui sospira ed è d'accordo. Entro 10 minuti Ralvald parte con i giganti nel recinto degli animali e nel campeggio (aree {@adventure D3|DrDe-SD|1|D3: Animal Pen} e {@adventure D4|DrDe-SD|1|D4: Giant Camp})."
 														},
 														{
 															"type": "item",
 															"name": "Fight the Dragon",
-															"entry": "As an {@action Influence|XPHB} action, a character can ask Ralvald to help the characters fight Challidax. The character makes a {@dc 16} Charisma ({@skill Persuasion|XPHB}) check. On a success, Ralvald agrees to join the characters in battle against Challidax. On a failure, Ralvald wishes the characters luck but remains in dejected contemplation here. Even if Ralvald agrees to ally with the characters, his frost giant allies in areas {@adventure D3|DrDe-SD|1|D3: Animal Pen} and {@adventure D4|DrDe-SD|1|D4: Giant Camp} refuse to confront the dragon."
+															"entry": "Come azione {@action Influence|XPHB}, un personaggio può chiedere a Ralvald di aiutare i personaggi a combattere Challidax. Il personaggio effettua una prova di {@dc 16} Carisma ({@skill Persuasion|XPHB}). In caso di successo, Ralvald accetta di unirsi ai personaggi nella battaglia contro Challidax. In caso di fallimento, Ralvald augura buona fortuna ai personaggi ma rimane qui in sconsolata contemplazione. Anche se Ralvald accetta di allearsi con i personaggi, i suoi alleati giganti del gelo nelle aree {@adventure D3|DrDe-SD|1|D3: Animal Pen} e {@adventure D4|DrDe-SD|1|D4: Giant Camp} rifiutano di affrontare il drago."
 														},
 														{
 															"type": "item",
 															"name": "Share the Ritual",
-															"entry": "If the characters admit they're after the ritual tattooed on Elakdras's body, Ralvald offers a solution. Ralvald doesn't want the ritual; he wants the body, so he can lay it to rest respectfully. He'll permit them to copy the ritual before he takes the remains."
+															"entry": "Se i personaggi ammettono di volere il rituale tatuato sul corpo di Elakdras, Ralvald offre una soluzione. Ralvald non vuole il rituale; vuole il corpo, così può metterlo a riposare rispettosamente. Permetterà loro di copiare il rituale prima di prendere i resti."
 														}
 													]
 												}
@@ -3834,26 +3834,26 @@
 											"type": "insetReadaloud",
 											"id": "315",
 											"entries": [
-												"The subterranean river here plunges in two twenty-foot waterfalls. Icy fog fills the cavern."
+												"Il fiume sotterraneo qui si tuffa in due cascate alte sei metri. La nebbia ghiacciata riempie la caverna."
 											]
 										},
-										"The cave and the passageway are both {@variantrule Heavily Obscured|XPHB} by frigid fog. A strong wind (like that created by {@spell Gust of Wind|XPHB}) disperses the fog, but it returns after 1 minute, spreading from the churning water toppling down the cliffs.",
-										"A character must succeed on a {@dc 15} Strength ({@skill Athletics|XPHB}) check to climb up or down the slippery cliffs. On a failure, the character slips and falls 20 feet.",
-										"When the characters reach the cave at the bottom of the cliffs, read or paraphrase the following description:",
+										"La grotta e il passaggio sono entrambi {@variantrule Heavily Obscured|XPHB} immersi nella nebbia gelida. Un forte vento (come quello creato da {@spell Gust of Wind|XPHB}) disperde la nebbia, ma ritorna dopo 1 minuto, diffondendosi dall'acqua agitata che cade dalle scogliere.",
+										"Un personaggio deve superare una prova di Forza {@dc 15} ({@skill Athletics|XPHB}) per arrampicarsi su o giù per le scogliere scivolose. In caso di fallimento, il personaggio scivola e cade per 20 piedi.",
+										"Quando i personaggi raggiungono la grotta in fondo al dirupo, leggi o parafrasa la seguente descrizione:",
 										{
 											"type": "insetReadaloud",
 											"id": "316",
 											"entries": [
-												"Eerie light suffuses the frigid fog with an orange glow. The sound of clicking and scraping, as of scales on stone, echoes through the fog over the noise of falling water."
+												"Una luce inquietante diffonde nella nebbia gelida un bagliore arancione. Il suono di ticchettii e raschiamenti, come di scaglie sulla pietra, risuona nella nebbia sopra il rumore dell'acqua che cade."
 											]
 										},
-										"Three {@b Young Remorhazes} lurk here\u2014offspring of the adult remorhaz that Challidax killed and put on display near the lair's entry (area {@adventure D2|DrDe-SD|1|D2: Remorhaz Trophy}). The dragon didn't notice the remorhaz eggs, which have now hatched. The remorhazes are Hostile and hungry.",
+										"Tre {@b Young Remorhazes} si nascondono qui: discendenti del remorhaz adulto che Challidax uccise e mise in mostra vicino all'ingresso della tana (area {@adventure D2|DrDe-SD|1|D2: Remorhaz Trophy}). Il drago non ha notato le uova di remorhaz, che ora si sono schiuse. I remorhaz sono ostili e affamati.",
 										{
 											"type": "entries",
 											"name": "Illusory Wall",
 											"id": "317",
 											"entries": [
-												"A passage on the western wall, 10 feet above the floor, is hidden behind an illusion of an icy wall. A character who takes a {@action Search|XPHB} action and makes a {@dc 16} Wisdom ({@skill Perception|XPHB}) check notices the concealed passage on a success. This check is made with Disadvantage while fog is present in this room. Gelida (area {@adventure D9|DrDe-SD|1|D9: Concealed Cleft}) can tell the characters exactly where to find the illusion; those who have discussed the hidden passage with her automatically find it."
+												"Un passaggio sul muro occidentale, a 3 metri dal pavimento, è nascosto dietro l'illusione di un muro ghiacciato. Un personaggio che esegue un'azione {@action Search|XPHB} ed effettua una prova di Saggezza {@dc 16} ({@skill Perception|XPHB}) nota il passaggio nascosto in caso di successo. Questo controllo viene effettuato con Svantaggio mentre in questa stanza è presente la nebbia. Gelida (area {@adventure D9|DrDe-SD|1|D9: Concealed Cleft}) può dire ai personaggi esattamente dove trovare l'illusione; coloro che hanno discusso con lei del passaggio nascosto lo trovano automaticamente."
 											]
 										},
 										{
@@ -3861,7 +3861,7 @@
 											"name": "Treasure",
 											"id": "318",
 											"entries": [
-												"Shredded scraps of armor and a bloodstained Backpack are the only remains of an explorer who made it this far into the lair. The Backpack contains an emerald-encrusted {@item Shortsword|XPHB} worth 80 GP, 100 feet of Rope, and a {@item Potion of Growth|XDMG}."
+												"Pezzi di armatura triturati e uno zaino macchiato di sangue sono gli unici resti di un esploratore che è riuscito ad arrivare così lontano nella tana. Lo zaino contiene un {@item Shortsword|XPHB} tempestato di smeraldi del valore di 80 GP, 100 piedi di corda e un {@item Potion of Growth|XDMG}."
 											]
 										}
 									]
@@ -3875,16 +3875,16 @@
 											"type": "insetReadaloud",
 											"id": "31a",
 											"entries": [
-												"Ice encrusts this cavern and has crept over what remains of a long-abandoned campsite. A bedroll, a backpack, and cooking implements\u2014all sized for a user around four feet tall\u2014lie encased in ice."
+												"Il ghiaccio incrosta questa caverna e si è insinuato su ciò che resta di un accampamento abbandonato da tempo. Un sacco a pelo, uno zaino e gli utensili da cucina, tutti di dimensioni adatte a un utente alto circa un metro e mezzo, giacciono racchiusi nel ghiaccio."
 											]
 										},
-										"Years ago, a halfling spellcaster named Deena Finkleton attempted to plunder Challidax's hoard, but she was caught and became one of the dragon's frozen trophies (see area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}).",
+										"Anni fa, un'incantatrice halfling di nome Deena Finkleton tentò di saccheggiare il tesoro di Challidax, ma fu catturata e divenne uno dei trofei congelati del drago (vedi area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}).",
 										{
 											"type": "entries",
 											"name": "Frozen Gear",
 											"id": "31b",
 											"entries": [
-												"The Bedroll, Backpack, and cooking implements are Finkleton's remaining equipment and are all encased in ice. The ice encasing them is a Small object with AC 13; HP 10; and Immunity to Cold, Poison, and Psychic damage."
+												"Il sacco a pelo, lo zaino e gli utensili da cucina sono l'attrezzatura rimanente di Finkleton e sono tutti racchiusi nel ghiaccio. Il ghiaccio che li racchiude è un oggetto Piccolo con CA 13; PF 10; e immunità ai danni da freddo, veleno e psichici."
 											]
 										},
 										{
@@ -3892,14 +3892,14 @@
 											"name": "Treasure",
 											"id": "31c",
 											"entries": [
-												"If they free the Backpack from the ice, the characters can open it, revealing a frozen bottle of Ink, a Pouch containing 62 GP, a Waterskin full of frozen water, a winter coat, and three {@item Potion of Healing|XDMG|Potions of Healing}.",
-												"The cooking implements\u2014an Iron Pot, a ladle, and a small knife\u2014are well made but unremarkable.",
-												"Should the characters free the Bedroll from the ice and search it, within they find a control amulet for a {@creature Shield Guardian|XMM}. The guardian it controls is in the south alcove of the trophy cave (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}). A character who takes a Study action and makes a successful {@dc 16} Intelligence ({@skill Arcana|XPHB}) check knows basic information about this guardian:",
+												"Se liberano lo Zaino dal ghiaccio, i personaggi possono aprirlo, rivelando una bottiglia d'inchiostro ghiacciata, un sacchetto contenente 62 GP, un otre pieno di acqua ghiacciata, un cappotto invernale e tre {@item Potion of Healing|XDMG|Potions of Healing}.",
+												"Gli utensili da cucina (una pentola di ferro, un mestolo e un coltellino) sono ben fatti ma insignificanti.",
+												"Se i personaggi liberano il sacco a pelo dal ghiaccio e lo perquisiscono, al suo interno troveranno un amuleto di controllo per un {@creature Shield Guardian|XMM}. Il guardiano che controlla si trova nell'alcova sud della grotta dei trofei (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}). Un personaggio che effettua un'azione Studio ed effettua con successo una prova di Intelligenza {@dc 16} ({@skill Arcana|XPHB}) conosce informazioni di base su questo guardiano:",
 												{
 													"type": "list",
 													"items": [
-														"It follows the orders of whoever wears its amulet.",
-														"The amulet's wearer can command the bound guardian to cast the {@spell Fireball|XPHB} spell stored within the Construct."
+														"Segue gli ordini di chi indossa il suo amuleto.",
+														"Chi indossa l'amuleto può comandare al guardiano vincolato di lanciare l'incantesimo {@spell Fireball|XPHB} conservato nel Costrutto."
 													]
 												}
 											]
@@ -3915,17 +3915,17 @@
 											"type": "insetReadaloud",
 											"id": "31e",
 											"entries": [
-												"Rows of thick icicles\u2014some long enough to connect the icy floor and ceiling\u2014hang in this room like glittering curtains. A path of broken icicles on the ground winds from one exit to the other. A life-size statue of a frost giant woman bearing a look of surprise stands near the southeast exit."
+												"File di spessi ghiaccioli, alcuni abbastanza lunghi da collegare il pavimento ghiacciato e il soffitto, pendono in questa stanza come tende scintillanti. Un sentiero di ghiaccioli spezzati sul terreno si snoda da un'uscita all'altra. Una statua a grandezza naturale di una donna gigante del gelo con uno sguardo sorpreso si trova vicino all'uscita sud-est."
 											]
 										},
-										"Characters can move around the icicles or break through them, but the entire area is {@variantrule Difficult Terrain|XPHB}. The statue amid the icicles is a Neutral {@creature Frost Giant|XMM}, Enstavva, with the {@condition Petrified|XPHB} condition.",
+										"I personaggi possono muoversi attorno ai ghiaccioli o sfondarli, ma l'intera area è {@variantrule Difficult Terrain|XPHB}. La statua tra i ghiaccioli è una Neutrale {@creature Frost Giant|XMM}, Enstavva, con la condizione {@condition Petrified|XPHB}.",
 										{
 											"type": "entries",
 											"name": "Releasing Enstavva",
 											"id": "31f",
 											"entries": [
-												"If the characters end Enstavva's {@condition Petrified|XPHB} condition, she is pensive and Friendly toward anyone who frees her. Enstavva knows Common, Dwarvish, and Giant. She is curious about what brings the characters to the lair and prefers to talk rather than fight.",
-												"Enstavva shares the same information as Heldalf in the animal pen (area {@adventure D3|DrDe-SD|1|D3: Animal Pen}), as well as the following details:",
+												"Se i personaggi pongono fine alla condizione di Enstavva {@condition Petrified|XPHB}, lei sarà pensierosa e amichevole verso chiunque la liberi. Enstavva conosce il Comune, il Nanico e il Gigante. È curiosa di sapere cosa porta i personaggi nella tana e preferisce parlare piuttosto che combattere.",
+												"Enstavva condivide le stesse informazioni di Heldalf nel recinto degli animali (area {@adventure D3|DrDe-SD|1|D3: Animal Pen}), nonché i seguenti dettagli:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3933,21 +3933,21 @@
 														{
 															"type": "item",
 															"name": "Aerstigga and the Wand",
-															"entry": "Aerstigga is trying to win Challidax's favor using gems she's secretly creating with an erratic magic item called a {@item Wand of Wonder|XDMG}. If the dragon knew Aerstigga possessed such a magic item, Enstavva believes Challidax would slay her and take it."
+															"entry": "Aerstigga sta cercando di ottenere il favore di Challidax usando le gemme che sta creando segretamente con un oggetto magico irregolare chiamato {@item Wand of Wonder|XDMG}. Se il drago sapesse che Aerstigga possedeva un oggetto magico del genere, Enstavva crede che Challidax l'avrebbe uccisa e lo avrebbe preso."
 														},
 														{
 															"type": "item",
 															"name": "Neutrality",
-															"entry": "Enstavva refused to take sides in the rivalry between Aerstigga and Ralvald, believing it would lead them all to doom."
+															"entry": "Enstavva rifiutò di prendere posizione nella rivalità tra Aerstigga e Ralvald, credendo che li avrebbe portati tutti alla rovina."
 														},
 														{
 															"type": "item",
 															"name": "Petrification",
-															"entry": "Aerstigga followed Enstavva here and turned her to stone using the {@item Wand of Wonder|XDMG}."
+															"entry": "Aerstigga ha seguito Enstavva qui e l'ha trasformata in pietra usando il {@item Wand of Wonder|XDMG}."
 														}
 													]
 												},
-												"Given the opportunity, Enstavva rejoins Ralvald, either in his retreat (area {@adventure D5|DrDe-SD|1|D5: Ralvald's Retreat}) or by leaving the lair if the giant leader has already departed."
+												"Se ne ha l'opportunità, Enstavva si unisce a Ralvald, nella sua ritirata (area {@adventure D5|DrDe-SD|1|D5: Ralvald's Retreat}) o lasciando la tana se il leader dei giganti se n'è già andato."
 											]
 										},
 										{
@@ -3955,7 +3955,7 @@
 											"name": "Secret Cleft",
 											"id": "320",
 											"entries": [
-												"A low, narrow crack to the northeast leads to a cleft (area {@adventure D9|DrDe-SD|1|D9: Concealed Cleft}) partially hidden by the ice. Any character who has a Passive {@skill Perception|XPHB} of 16+ notices the cleft once the character gets within 5 feet of it."
+												"Una fessura bassa e stretta verso nord-est conduce ad una fenditura (area {@adventure D9|DrDe-SD|1|D9: Concealed Cleft}) parzialmente nascosta dal ghiaccio. Qualsiasi personaggio che abbia una Passiva {@skill Perception|XPHB} di 16+ nota la fessura una volta che il personaggio si trova entro 1,5 metri da essa."
 											]
 										}
 									]
@@ -3969,12 +3969,12 @@
 											"type": "insetReadaloud",
 											"id": "322",
 											"entries": [
-												"The cleft opens into a side cavern that bends to the north. A small, winged creature made of ice lounges in an open metal box that's half filled with crumbled ice."
+												"La fenditura si apre in una caverna laterale che piega a nord. Una piccola creatura alata fatta di ghiaccio giace in una scatola di metallo aperta riempita per metà di ghiaccio sbriciolato."
 											]
 										},
-										"The {@creature Ice Mephit|XMM} relaxing here is named Gelida, who knows Common and Primordial. The lair's most tenacious trespasser, she has avoided the dragon for decades.",
-										"Gelida spends a lot of time in her \"ice bath\" and seems surprised when strangers arrive. Indifferent to the characters, she initially pretends to be embarrassed but cackles if any of them seem apologetic or surprised to catch her \"bathing.\" A mean-spirited prankster, Gelida has no wish to fight; she simply hides behind the metal box if the characters start combat.",
-										"Gelida recognizes an opportunity in the characters' arrival. The mephit shares the following information in conversation:",
+										"La {@creature Ice Mephit|XMM} che si rilassa qui si chiama Gelida, che conosce il Comune e il Primordiale. L'intruso più tenace della tana, ha evitato il drago per decenni.",
+										"Gelida trascorre molto tempo nel suo \"bagno di ghiaccio\" e sembra sorpresa quando arrivano degli estranei. Indifferente ai personaggi, inizialmente finge di essere imbarazzata ma ridacchia se qualcuno di loro sembra scusarsi o sorpreso nel vederla \"fare il bagno\". Burlone dallo spirito meschino, Gelida non ha voglia di combattere; si nasconde semplicemente dietro la scatola di metallo se i personaggi iniziano a combattere.",
+										"Gelida riconosce un'opportunità nell'arrivo dei personaggi. Il mephit condivide le seguenti informazioni durante la conversazione:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -3982,22 +3982,22 @@
 												{
 													"type": "item",
 													"name": "Gelida's Beginnings",
-													"entry": "Gelida has been here for years. She arrived with her conjurer, a halfling spellcaster named Deena Finkleton who came in hopes of stealing the dragon's treasure. Gelida was left here to count the coins her conjurer pilfered, but the halfling never returned."
+													"entry": "Gelida è qui da anni. Arrivò con il suo prestigiatore, un incantatore halfling di nome Deena Finkleton che arrivò nella speranza di rubare il tesoro del drago. Gelida è stata lasciata qui a contare le monete rubate dal suo prestigiatore, ma l'halfling non è mai tornato."
 												},
 												{
 													"type": "item",
 													"name": "Hiding from the Dragon",
-													"entry": "Gelida wants nothing to do with the dragon. Challidax doesn't know Gelida is here, and the mephit likes it that way."
+													"entry": "Gelida non vuole avere niente a che fare con il drago. Challidax non sa che Gelida è qui, e al mephit piace così."
 												},
 												{
 													"type": "item",
 													"name": "Lair Layout",
-													"entry": "Gelida knows the lair's overall layout except for the crystal room (area {@adventure D12|DrDe-SD|1|D12: Crystal Room}), which she doesn't know exists."
+													"entry": "Gelida conosce la disposizione generale della tana, ad eccezione della stanza dei cristalli (area {@adventure D12|DrDe-SD|1|D12: Crystal Room}), di cui non sa l'esistenza."
 												},
 												{
 													"type": "item",
 													"name": "Magic Devices",
-													"entry": "Finkleton had several magic devices, including this box, to which Gelida is bound, and a {@creature Shield Guardian|XMM}. Gelida can't leave the box for more than a few minutes before being magically drawn back into it."
+													"entry": "Finkleton aveva diversi dispositivi magici, inclusa questa scatola, alla quale Gelida è legata, e un {@creature Shield Guardian|XMM}. Gelida non può lasciare la scatola per più di qualche minuto prima di essere magicamente risucchiata dentro."
 												}
 											]
 										},
@@ -4006,10 +4006,10 @@
 											"name": "Gelida's Favor",
 											"id": "323",
 											"entries": [
-												"Gelida wants to leave the lair before Challidax finds and destroys her. Moreover, the mephit is done serving other creatures. She wants freedom from the magic that binds her to the box, or barring that, she wants the autonomy to go where she pleases.",
-												"Gelida hopes to convince the characters to give her control of the {@creature Shield Guardian|XMM} in the trophy cave (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}). Once Gelida has a good rapport with the characters, she reveals that her conjurer controlled the guardian with a magic amulet. The guardian and Finkleton are now frozen trophies in area {@dice D16}, but Gelida knows Finkleton didn't have the guardian's magic amulet when he was frozen.",
-												"Gelida tells the characters the amulet's location (area {@adventure D7|DrDe-SD|1|D7: Hidden Camp}) and even lets them use the Construct to fight Challidax. But before they leave the lair, Gelida wants the amulet so she can use the guardian to carry her box out of the caves and wherever else the mephit pleases. If the characters agree to her terms, she tells them about the illusory wall in the foggy cave (area {@adventure D6|DrDe-SD|1|D6: Foggy Cave}). Gelida knows the guardian's amulet lies hidden in the bedroll in area {@dice D7} but can't retrieve it herself due to her binding (see \"The Box\").",
-												"In the event the characters already have the guardian's amulet, Gelida simply slumps angrily in her box, muttering about disrespectful thieves."
+												"Gelida vuole lasciare la tana prima che Challidax la trovi e la distrugga. Inoltre, il mephit serve altre creature. Vuole la libertà dalla magia che la lega alla scatola o, salvo ciò, vuole l'autonomia per andare dove vuole.",
+												"Gelida spera di convincere i personaggi a darle il controllo del {@creature Shield Guardian|XMM} nella grotta dei trofei (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}). Una volta che Gelida ha un buon rapporto con i personaggi, rivela che il suo prestigiatore controllava il guardiano con un amuleto magico. Il guardiano e Finkleton sono ora trofei congelati nell'area {@dice D16}, ma Gelida sa che Finkleton non aveva l'amuleto magico del guardiano quando è stato congelato.",
+												"Gelida dice ai personaggi la posizione dell'amuleto (area {@adventure D7|DrDe-SD|1|D7: Hidden Camp}) e permette loro persino di usare il Costrutto per combattere Challidax. Ma prima di lasciare la tana, Gelida vuole l'amuleto in modo da poter usare il guardiano per portare la sua scatola fuori dalle caverne e ovunque voglia il mephit. Se i personaggi accettano i suoi termini, racconta loro del muro illusorio nella grotta nebbiosa (area {@adventure D6|DrDe-SD|1|D6: Foggy Cave}). Gelida sa che l'amuleto del guardiano è nascosto nel giaciglio nell'area {@dice D7} ma non può recuperarlo da sola a causa del suo legame (vedi \"La scatola\").",
+												"Nel caso in cui i personaggi abbiano già l'amuleto del guardiano, Gelida si accascia semplicemente con rabbia nella sua scatola, borbottando di ladri irrispettosi."
 											]
 										},
 										{
@@ -4017,7 +4017,7 @@
 											"name": "The Box",
 											"id": "324",
 											"entries": [
-												"The metal box weighs 150 pounds and has an additional 50 pounds of ice inside it. If the mephit hasn't touched the box for 1 minute, she is magically compelled to return and touch it as swiftly as she can. The binding can be broken by {@spell Dispel Magic|XPHB} cast as a level 6+ spell on the box or by a {@spell Wish|XPHB} or similar magic. The box weighs too much for Gelida to move by herself."
+												"La scatola di metallo pesa 150 libbre e contiene al suo interno altri 50 libbre di ghiaccio. Se il mephit non tocca la scatola per 1 minuto, è magicamente obbligato a tornare e toccarla il più velocemente possibile. Il legame può essere spezzato lanciando {@spell Dispel Magic|XPHB} un incantesimo di livello 6+ sulla scatola o tramite {@spell Wish|XPHB} o una magia simile. La scatola pesa troppo perché Gelida possa spostarla da sola."
 											]
 										},
 										{
@@ -4025,7 +4025,7 @@
 											"name": "Treasure",
 											"id": "325",
 											"entries": [
-												"There are 310 SP in the bottom of Gelida's box."
+												"Ci sono 310 SP sul fondo della scatola di Gelida."
 											]
 										}
 									]
@@ -4039,17 +4039,17 @@
 											"type": "insetReadaloud",
 											"id": "327",
 											"entries": [
-												"This chamber is covered in icy patches, including one span that stretches from the west to the east wall. Two frost giants sit on stools to the north, smashing a large chunk of ice into smaller pieces."
+												"Questa camera è ricoperta da zone ghiacciate, inclusa una campata che si estende dal muro ovest a quello est. Due giganti del gelo siedono su degli sgabelli a nord e frantumano un grosso pezzo di ghiaccio in pezzi più piccoli."
 											]
 										},
-										"The two {@creature Frost Giant|XMM|Frost Giants}, Grimvel and Luskegga, are busily destroying the frozen body of an owlbear, which Challidax placed here as a trophy long ago. No one else knows about their casual destruction of the dragon's statue. Both giants are Neutral Evil, loyal to Aerstigga, and openly Hostile; they fight to the death in combat, as they won't entertain the thought that smaller creatures might beat them.",
+										"I due {@creature Frost Giant|XMM|Frost Giants}, Grimvel e Luskegga, sono impegnati a distruggere il corpo congelato di un orsogufo, che Challidax ha collocato qui come trofeo molto tempo fa. Nessun altro sa della loro distruzione casuale della statua del drago. Entrambi i giganti sono Neutrali Malvagi, fedeli ad Aerstigga e apertamente Ostili; combattono fino alla morte in combattimento, poiché non accettano il pensiero che creature più piccole possano batterli.",
 										{
 											"type": "entries",
 											"name": "Thin Ice",
 											"id": "328",
 											"entries": [
-												"The icy patch across the room is a thin crust over the frozen river that flows to Ralvald's retreat (area {@dice D5}; see \"Lair Features\"). A creature with a Passive {@skill Perception|XPHB} of 15+ realizes the perilous nature of the ice.",
-												"Each 10-foot square of ice is a Large object with AC 13; HP 10; and Immunity to Cold, Poison, and Psychic damage. Placing more than 100 pounds on a 10-foot square of ice immediately destroys that section; creatures and objects on that section of ice fall into the river."
+												"La zona ghiacciata attraverso la stanza è una sottile crosta sopra il fiume ghiacciato che scorre verso il rifugio di Ralvald (area {@dice D5}; vedi \"Caratteristiche della tana\"). Una creatura con una Passiva {@skill Perception|XPHB} pari a 15+ si rende conto della natura pericolosa del ghiaccio.",
+												"Ogni quadrato di ghiaccio con lato di 3 metri è un oggetto Grande con CA 13; PF 10; e immunità ai danni da freddo, veleno e psichici. Posizionare più di 100 libbre su un quadrato di ghiaccio di 3 metri distrugge immediatamente quella sezione; le creature e gli oggetti su quella sezione di ghiaccio cadono nel fiume."
 											]
 										},
 										{
@@ -4057,7 +4057,7 @@
 											"name": "Giants' Ruse",
 											"id": "329",
 											"entries": [
-												"The giants know about the river and try to trick intruders that come from the south. They throw pieces of the broken ice statue from across the river and seek to goad intruders into combat. They guffaw if anyone falls into the river."
+												"I giganti conoscono il fiume e cercano di ingannare gli intrusi che provengono da sud. Lanciano pezzi della statua di ghiaccio rotta dall'altra parte del fiume e cercano di spingere gli intrusi al combattimento. Ridono se qualcuno cade nel fiume."
 											]
 										},
 										{
@@ -4065,7 +4065,7 @@
 											"name": "Interrogating the Giants",
 											"id": "32a",
 											"entries": [
-												"Grimvel and Luskegga are unlikely to talk to the characters without first being overcome in a fight. If someone who knows Giant captures or interrogates them, they share the same information as Heldalf (see area {@adventure D3|DrDe-SD|1|D3: Animal Pen}), as well as the following points:",
+												"È improbabile che Grimvel e Luskegga parlino con i personaggi senza prima essere sopraffatti in uno scontro. Se qualcuno che conosce Giant lo cattura o lo interroga, condivide le stesse informazioni di Heldalf (vedi area {@adventure D3|DrDe-SD|1|D3: Animal Pen}), oltre ai seguenti punti:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -4073,17 +4073,17 @@
 														{
 															"type": "item",
 															"name": "Aerstigga's Followers",
-															"entry": "Grimvel and Luskegga follow the frost giant Aerstigga."
+															"entry": "Grimvel e Luskegga seguono il gigante del gelo Aerstigga."
 														},
 														{
 															"type": "item",
 															"name": "Dragon Ally?",
-															"entry": "Aerstigga has met with Shivering Death. The giant said she'd buy the dragon's favor with lots of gems and the giants' pledge of service."
+															"entry": "Aerstigga ha incontrato la Morte Brividi. Il gigante disse che avrebbe comprato il favore del drago con molte gemme e la promessa di servizio dei giganti."
 														},
 														{
 															"type": "item",
 															"name": "Secret Wand",
-															"entry": "Aerstigga has a magic wand that makes gems, but only sometimes\u2014it creates strange effects more often, like turning creatures to stone. Aerstigga has been using her wand to make more gems but never where the dragon can observe her. She doesn't want the dragon to know about the wand."
+															"entry": "Aerstigga ha una bacchetta magica che crea gemme, ma solo a volte: più spesso crea strani effetti, come trasformare le creature in pietra. Aerstigga ha usato la sua bacchetta per creare altre gemme, ma mai dove il drago possa osservarla. Non vuole che il drago sappia della bacchetta."
 														}
 													]
 												}
@@ -4100,17 +4100,17 @@
 											"type": "insetReadaloud",
 											"id": "32c",
 											"entries": [
-												"Chunks of ice bob down the river that crosses this cavern. To the river's north rises a wide stone ledge where massive, white-furred wolves prowl. With each breath, the unnaturally large canines exhale clouds of frost into the frigid air."
+												"Pezzi di ghiaccio galleggiano lungo il fiume che attraversa questa caverna. A nord del fiume si erge un'ampia sporgenza di pietra dove si aggirano enormi lupi dal pelo bianco. Ad ogni respiro, i canini innaturalmente grandi espirano nuvole di brina nell'aria gelida."
 											]
 										},
-										"Four {@creature Winter Wolf|XMM|Winter Wolves} skulk here along with their handler, a {@creature Troll|XMM} named Shabblejaw wearing heavy furs. The wolves keep watch from the ledge, but Shabblejaw remains out of sight near an open secret door leading to the crystal room (area {@adventure D12|DrDe-SD|1|D12: Crystal Room}).",
-										"These creatures are loyal to Aerstigga, who commanded them to stay here until she needs them. They are Hostile toward intruders. If the party defeats all the wolves, Shabblejaw retreats to area {@adventure D12|DrDe-SD|1|D12: Crystal Room} and closes the secret door behind him.",
+										"Quattro {@creature Winter Wolf|XMM|Winter Wolves} si nascondono qui insieme al loro addestratore, un {@creature Troll|XMM} di nome Shabblejaw che indossa pellicce pesanti. I lupi vegliano dalla sporgenza, ma Shabblejaw rimane nascosto vicino a una porta segreta aperta che conduce alla stanza dei cristalli (area {@adventure D12|DrDe-SD|1|D12: Crystal Room}).",
+										"Queste creature sono fedeli ad Aerstigga, che ha comandato loro di restare qui finché non ne avrà bisogno. Sono ostili verso gli intrusi. Se il gruppo sconfigge tutti i lupi, Shabblejaw si ritira nell'area {@adventure D12|DrDe-SD|1|D12: Crystal Room} e chiude la porta segreta dietro di sé.",
 										{
 											"type": "entries",
 											"name": "Ledge",
 											"id": "32d",
 											"entries": [
-												"The ledge bears five mats of brown, dead grasses where Shabblejaw and the winter wolves sleep. The ledge's slope is {@variantrule Difficult Terrain|XPHB}."
+												"Sulla sporgenza ci sono cinque stuoie di erba marrone e morta dove dormono Shabblejaw e i lupi invernali. La pendenza della sporgenza è {@variantrule Difficult Terrain|XPHB}."
 											]
 										},
 										{
@@ -4118,7 +4118,7 @@
 											"name": "River",
 											"id": "32e",
 											"entries": [
-												"The river flows toward area {@adventure D10|DrDe-SD|1|D10: Frozen River} to the east (see \"{@area Lair Features|2fc|x}\")."
+												"Il fiume scorre verso l'area {@adventure D10|DrDe-SD|1|D10: Frozen River} a est (vedi \"{@area Lair Features|2fc|x}\")."
 											]
 										},
 										{
@@ -4126,7 +4126,7 @@
 											"name": "Secret Door",
 											"id": "32f",
 											"entries": [
-												"A section of the northeast wall on the ledge is depressed a few feet. Inspection reveals the wall has a secret door currently standing ajar. When the door is shut, it is hidden ({@dc 18} to find). A creature that saw Shabblejaw disappear through the door has Advantage on a check to find it."
+												"Una sezione della parete nord-est sulla sporgenza è depressa di qualche metro. L'ispezione rivela che il muro ha una porta segreta attualmente socchiusa. Quando la porta è chiusa, è nascosta ({@dc 18} da trovare). Una creatura che ha visto Shabblejaw scomparire attraverso la porta ha Vantaggio su una prova per trovarlo."
 											]
 										},
 										{
@@ -4134,7 +4134,7 @@
 											"name": "Treasure",
 											"id": "330",
 											"entries": [
-												"Shabblejaw has a small satchel holding six crystals, each the size of a human thumbnail. These are pieces of the healing crystal in area {@adventure D12|DrDe-SD|1|D12: Crystal Room} that the troll kept for himself. Each bears healing magic, acting as a berry created by the {@spell Goodberry|XPHB} spell. The crystals lose their magic in 12 hours.",
+												"Shabblejaw ha una piccola borsa che contiene sei cristalli, ciascuno delle dimensioni di una miniatura umana. Questi sono i pezzi del cristallo curativo nell'area {@adventure D12|DrDe-SD|1|D12: Crystal Room} che il troll ha tenuto per sé. Ciascuno porta con sé una magia curativa, che agisce come una bacca creata dall'incantesimo {@spell Goodberry|XPHB}. I cristalli perdono la loro magia in 12 ore.",
 												{
 													"type": "image",
 													"href": {
@@ -4158,16 +4158,16 @@
 											"type": "insetReadaloud",
 											"id": "332",
 											"entries": [
-												"A crystal the size of a barrel hangs from the ceiling in this room, emitting a calm, blue glow. This room is as cold as the rest of the lair, but the chill air here feels clean and comforting rather than numbing. A precarious tripod of scrap wood reaches twenty feet high, still fifteen feet below the crystal."
+												"Un cristallo delle dimensioni di un barile pende dal soffitto di questa stanza, emettendo un calmo bagliore blu. Questa stanza è fredda come il resto della tana, ma l'aria gelida qui sembra pulita e confortante anziché intorpidita. Un precario treppiede di legno di scarto raggiunge l'altezza di sei metri, ancora quindici piedi sotto il cristallo."
 											]
 										},
-										"Challidax discovered the magical healing crystal here many years ago and hid it behind a secret door. Shabblejaw (area {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}) found it accidentally and seeks a way to cut the crystal down to earn Aerstigga's favor. He's been using scraps of wood to create a makeshift ladder to reach the crystal. The troll has managed to break off a few tiny pieces that he keeps in the satchel he carries with him.",
+										"Challidax scoprì qui il magico cristallo curativo molti anni fa e lo nascose dietro una porta segreta. Shabblejaw (area {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}) lo ha trovato per caso e cerca un modo per tagliare il cristallo per guadagnare il favore di Aerstigga. Ha usato scarti di legno per creare una scala improvvisata per raggiungere il cristallo. Il troll è riuscito a staccare alcuni pezzettini che tiene nella borsa che porta con sé.",
 										{
 											"type": "entries",
 											"name": "Healing Crystal",
 											"id": "333",
 											"entries": [
-												"The crystal is a natural, magical growth hanging from the ceiling, which is 40 feet above the floor. The crystal sheds {@variantrule Dim Light|XPHB} in a 15-foot radius. A creature that touches the crystal receives a surge of positive energy and regains 70 Hit Points. The crystal grants this healing three times each day, regaining all uses at the next dawn. The light fades from the crystal after it has expended its healing energy for the day."
+												"Il cristallo è una crescita naturale e magica che pende dal soffitto, che si trova a 40 piedi sopra il pavimento. Il cristallo si perde {@variantrule Dim Light|XPHB} in un raggio di 15 piedi. Una creatura che tocca il cristallo riceve un'ondata di energia positiva e recupera 70 punti ferita. Il cristallo garantisce questa guarigione tre volte al giorno, riacquistando tutti gli usi all'alba successiva. La luce svanisce dal cristallo dopo che ha esaurito la sua energia curativa per la giornata."
 											]
 										},
 										{
@@ -4175,7 +4175,7 @@
 											"name": "Rickety Tripod",
 											"id": "334",
 											"entries": [
-												"Shabblejaw's tripod is 20 feet tall. A creature must succeed on a {@dc 14} Strength ({@skill Athletics|XPHB}) check to climb the tripod. On a failure, the creature falls 20 feet."
+												"Il treppiede di Shabblejaw è alto 20 piedi. Una creatura deve superare una prova di {@dc 14} Forza ({@skill Athletics|XPHB}) per salire sul treppiede. In caso di fallimento, la creatura cade per 20 piedi."
 											]
 										}
 									]
@@ -4189,11 +4189,11 @@
 											"type": "insetReadaloud",
 											"id": "336",
 											"entries": [
-												"Several passages with natural stairs lead out of this cavern. The floor is covered in bright green grass and dozens of dead butterflies. The sharp smell of ozone hangs in the air; it's strongest near scorch marks along the walls."
+												"Da questa caverna conducono diversi passaggi con scale naturali. Il pavimento è ricoperto di erba verde brillante e dozzine di farfalle morte. L'odore pungente dell'ozono aleggia nell'aria; è più forte in prossimità di bruciature lungo le pareti."
 											]
 										},
-										"This chamber is currently empty, but it contains several after effects of Aerstigga's reckless use of her {@item Wand of Wonder|XDMG}, such as the out-of-place grass and the charring from past {@spell Lightning Bolt|XPHB} spells.",
-										"If the characters are particularly noisy here, Luskar the {@creature Frost Giant|XMM} and his pet {@creature Rhinoceros|XMM} come to investigate from their quarters (area {@adventure D14|DrDe-SD|1|D14: Giant Quarters}), ready for a fight."
+										"Questa camera è attualmente vuota, ma contiene diversi effetti collaterali dell'uso sconsiderato di Aerstigga {@item Wand of Wonder|XDMG}, come l'erba fuori posto e la carbonizzazione degli incantesimi passati {@spell Lightning Bolt|XPHB}.",
+										"Se qui i personaggi sono particolarmente rumorosi, Luskar il {@creature Frost Giant|XMM} e il suo animale domestico {@creature Rhinoceros|XMM} vengono a indagare dai loro alloggi (area {@adventure D14|DrDe-SD|1|D14: Giant Quarters}), pronti a combattere."
 									]
 								},
 								{
@@ -4201,22 +4201,22 @@
 									"name": "D14: Giant Quarters",
 									"id": "337",
 									"entries": [
-										"If Luskar and his rhinoceros are encountered in area {@adventure D13|DrDe-SD|1|D13: Experimentation Room} instead of here, omit them from the following boxed text when describing this area:",
+										"Se Luskar e il suo rinoceronte vengono incontrati nell'area {@adventure D13|DrDe-SD|1|D13: Experimentation Room} invece che qui, omettili dal seguente riquadro di testo quando descrivi quest'area:",
 										{
 											"type": "insetReadaloud",
 											"id": "338",
 											"entries": [
-												"Tattered furs line the floor of this cavern. Sitting cross-legged on the floor, turned partially away from the entrance, is a frost giant covered in small green leaves that sprout from his skin. Beside him, a shaggy rhinoceros calmly grazes on these leaves. Several enormous cloaks and helms hang on hooks pounded into the frozen stone walls."
+												"Pellicce logore ricoprono il pavimento di questa caverna. Seduto a gambe incrociate sul pavimento, parzialmente girato rispetto all'ingresso, c'è un gigante del gelo ricoperto di piccole foglie verdi che spuntano dalla sua pelle. Accanto a lui, un irsuto rinoceronte pascola tranquillamente queste foglie. Diversi enormi mantelli ed elmi sono appesi a ganci piantati nelle pareti di pietra ghiacciate."
 											]
 										},
-										"Although there's enough room for several frost giants to rest here, only one is present. Luskar (Neutral {@creature Frost Giant|XMM}) sprouted greenery when Aerstigga used her {@item Wand of Wonder|XDMG} nearby. The wand also conjured the {@creature Rhinoceros|XMM}; Luskar has named the beast Grom and is training it to fight alongside him.",
-										"Luskar isn't expecting intruders. If the characters make themselves known, he proves Hostile, grabbing his weapons and commanding his pet into battle with him. Luskar isn't as fanatical as the others who follow Aerstigga; he surrenders and calls off his pet if he or the rhino is Bloodied.",
+										"Anche se qui c'è abbastanza spazio per far riposare diversi giganti del gelo, ne è presente solo uno. Luskar (neutro {@creature Frost Giant|XMM}) ha germogliato del verde quando Aerstigga l'ha usata {@item Wand of Wonder|XDMG} nelle vicinanze. La bacchetta ha evocato anche il {@creature Rhinoceros|XMM}; Luskar ha chiamato la bestia Grom e la sta addestrando a combattere al suo fianco.",
+										"Luskar non si aspetta intrusi. Se i personaggi si fanno conoscere, si dimostra Ostile, afferrando le sue armi e comandando il suo animale domestico in battaglia con lui. Luskar non è fanatico come gli altri che seguono Aerstigga; si arrende e richiama il suo animale domestico se lui o il rinoceronte sono insanguinati.",
 										{
 											"type": "entries",
 											"name": "Talking with Luskar",
 											"id": "339",
 											"entries": [
-												"If defeated or otherwise coerced into talking, Luskar shares the same information as Grimvel and Luskegga (see area {@adventure D10|DrDe-SD|1|D10: Frozen River}). Luskar then wants to leave the lair, preferably with his pet."
+												"Se sconfitto o costretto in altro modo a parlare, Luskar condivide le stesse informazioni di Grimvel e Luskegga (vedi area {@adventure D10|DrDe-SD|1|D10: Frozen River}). Luskar quindi vuole lasciare la tana, preferibilmente con il suo animale domestico."
 											]
 										}
 									]
@@ -4230,19 +4230,19 @@
 											"type": "insetReadaloud",
 											"id": "33b",
 											"entries": [
-												"Most of this cave is filled with ice. Five human corpses are dimly visible, each frozen deep within an icy pillar. Each corpse has a weapon raised and wears a look of rage. A campfire flickers on the ground between the frozen figures, somehow burning on the bare cave floor."
+												"La maggior parte di questa grotta è piena di ghiaccio. Cinque cadaveri umani sono appena visibili, ciascuno congelato nelle profondità di un pilastro di ghiaccio. Ogni cadavere ha un'arma sollevata e indossa un'espressione di rabbia. Un falò tremola sul terreno tra le figure congelate, bruciando in qualche modo sul nudo pavimento della caverna."
 											]
 										},
-										"Challidax ambushed five would-be dragon slayers here, freezing them to death before they could do more than raise their weapons. Their restless spirits linger here as five {@creature Ghost|XMM|Ghosts}. The spirits are Chaotic Neutral. They emerge from their frozen corpses if the pillars entombing them are touched or damaged.",
-										"The spirits are Hostile toward other creatures and can't rest until Challidax is slain. If a ghost possesses a creature, that creature heads directly to the trophy cave (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}) and tries to slay the dragon.",
-										"As an {@action Influence|XPHB} action, a character can try to calm the spirits and make a {@dc 16} Charisma ({@skill Persuasion|XPHB}) check. On a success, the ghosts stand down and explain their hatred for Challidax.",
-										"The ghosts can leave this chamber only while possessing another creature. If the possession ends, the ghost reappears in area {@adventure D15|DrDe-SD|1|D15: Frozen Corpses}.",
+										"Challidax ha teso un'imboscata qui a cinque aspiranti cacciatori di draghi, congelandoli a morte prima che potessero fare altro che alzare le armi. I loro spiriti inquieti aleggiano qui come cinque {@creature Ghost|XMM|Ghosts}. Gli spiriti sono Caotici Neutrali. Emergono dai loro cadaveri congelati se i pilastri che li sepolgono vengono toccati o danneggiati.",
+										"Gli spiriti sono ostili verso le altre creature e non possono riposare finché Challidax non viene ucciso. Se un fantasma possiede una creatura, quella creatura si dirige direttamente alla grotta dei trofei (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave}) e cerca di uccidere il drago.",
+										"Come azione {@action Influence|XPHB}, un personaggio può provare a calmare gli spiriti ed effettuare una prova di Carisma ({@skill Persuasion|XPHB} {@dc 16}. In caso di successo, i fantasmi si ritirano e spiegano il loro odio per Challidax.",
+										"I fantasmi possono lasciare questa camera solo mentre possiedono un'altra creatura. Se il possesso termina, il fantasma riappare in area {@adventure D15|DrDe-SD|1|D15: Frozen Corpses}.",
 										{
 											"type": "entries",
 											"name": "Flame",
 											"id": "33c",
 											"entries": [
-												"The flame at the room's center is a heatless, illusory manifestation of the spirits' hatred. If the spirits are put to rest, the flame vanishes."
+												"La fiamma al centro della stanza è una manifestazione illusoria e priva di calore dell'odio degli spiriti. Se gli spiriti vengono messi a riposo, la fiamma svanisce."
 											]
 										},
 										{
@@ -4250,7 +4250,7 @@
 											"name": "Treasure",
 											"id": "33d",
 											"entries": [
-												"Each of the five icy pillars is a Large object with AC 13; HP 30; and {@variantrule Immunity|XPHB} to Cold, Poison, and Psychic damage. Breaking them releases the corpses within. Two of the bodies possess silver armbands worth 300 GP each, and another holds a {@item Berserker Axe|XDMG}. The bodies' other gear is worthless."
+												"Ciascuno dei cinque pilastri di ghiaccio è un oggetto Grande con CA 13; PF 30; e {@variantrule Immunity|XPHB} ai danni da freddo, veleno e psichici. Rompendoli si liberano i cadaveri all'interno. Due dei corpi possiedono bracciali d'argento del valore di 300 GP ciascuno, e un altro contiene un {@item Berserker Axe|XDMG}. L'altro equipaggiamento dei corpi è inutile."
 											]
 										}
 									]
@@ -4274,16 +4274,16 @@
 											"type": "insetReadaloud",
 											"id": "33f",
 											"entries": [
-												"A river churning with ice chunks flows at the west end of this enormous cavern, running amid heaps of coins covering the frozen stone floor. Around the cavern's perimeter yawn four broad alcoves, each plugged with a block of ice entombing a frozen creature.\"Worthless glass!\" comes a voice like a splitting glacier. At the room's center, a towering white dragon lets a rain of colored gems drop from between its claws. \"Your offerings are as vain as your promises to serve!\"A frost giant with a mighty axe scowls as she watches the gems scatter."
+												"Un fiume pieno di pezzi di ghiaccio scorre all'estremità occidentale di questa enorme caverna, scorrendo tra mucchi di monete che ricoprono il pavimento di pietra ghiacciato. Intorno al perimetro della caverna si aprono quattro ampie alcove, ciascuna chiusa da un blocco di ghiaccio che seppellisce una creatura congelata. \"Vetro senza valore!\" arriva una voce come un ghiacciaio che si spacca. Al centro della stanza, un imponente drago bianco lascia cadere una pioggia di gemme colorate tra i suoi artigli. \"Le tue offerte sono vane quanto le tue promesse di servire!\" Un gigante del gelo con una potente ascia si acciglia mentre osserva le gemme sparpagliarsi."
 											]
 										},
-										"Challidax, an {@creature Adult White Dragon|XMM}, is bargaining with the {@creature Frost Giant|XMM} Aerstigga. The pair are having a contentious discussion about how Aerstigga and the giants who serve her could prove useful to the white dragon. Should they notice intruders, though, both are Hostile, and Challidax commands Aerstigga to prove her worth. The giant rushes to engage interlopers and won't surrender or flee while Challidax is present.",
+										"Challidax, un {@creature Adult White Dragon|XMM}, sta contrattando con {@creature Frost Giant|XMM} Aerstigga. I due stanno discutendo controversa su come Aerstigga e i giganti che la servono potrebbero rivelarsi utili al drago bianco. Se notano degli intrusi, però, entrambi sono ostili e Challidax ordina ad Aerstigga di dimostrare il suo valore. Il gigante si precipita ad affrontare gli intrusi e non si arrenderà né fuggirà mentre Challidax è presente.",
 										{
 											"type": "entries",
 											"name": "Aerstigga",
 											"id": "340",
 											"entries": [
-												"Aerstigga knows Common and Giant, and she carries a {@item Wand of Wonder|XDMG}, although she won't display or use it in Challidax's presence."
+												"Aerstigga conosce il Comune e il Gigante e porta con sé un {@item Wand of Wonder|XDMG}, anche se non lo mostrerà né lo utilizzerà in presenza di Challidax."
 											]
 										},
 										{
@@ -4291,8 +4291,8 @@
 											"name": "Challidax",
 											"id": "341",
 											"entries": [
-												"Challidax hangs back to evaluate both Aerstigga and the invaders. The dragon doesn't join the fray until she herself takes damage or Aerstigga is defeated, though it's possible for the characters to turn Challidax against her giant ally (see \"Challidax's Rage\" below). Once engaged in combat, Challidax is ruthless; she doesn't care if she harms Aerstigga in her attempts to defeat the characters.",
-												"If Challidax is reduced to fewer than 100 Hit Points, she dives into the frozen river. She makes her way to the healing crystal in the crystal room (area {@adventure D12|DrDe-SD|1|D12: Crystal Room}), then tries to ambush the characters elsewhere in her lair."
+												"Challidax resta indietro per valutare sia Aerstigga che gli invasori. Il drago non si unisce alla mischia finché non subisce danni o Aerstigga viene sconfitto, anche se è possibile per i personaggi rivoltare Challidax contro il suo alleato gigante (vedi \"La rabbia di Challidax\" di seguito). Una volta impegnato in combattimento, Challidax è spietato; non le importa se danneggia Aerstigga nei suoi tentativi di sconfiggere i personaggi.",
+												"Se Challidax viene ridotta a meno di 100 Punti Ferita, si tuffa nel fiume ghiacciato. Si dirige verso il cristallo curativo nella stanza dei cristalli (area {@adventure D12|DrDe-SD|1|D12: Crystal Room}), quindi tenta di tendere un'imboscata ai personaggi altrove nella sua tana."
 											]
 										},
 										{
@@ -4300,17 +4300,17 @@
 											"name": "Challidax's Rage",
 											"id": "342",
 											"entries": [
-												"Aerstigga and her giants have not been good guests in Challidax's lair. A character can take an Influence action and present evidence that Aerstigga and her followers have despoiled the lair or lied to the dragon. The following evidence captures Challidax's attention:",
+												"Aerstigga e i suoi giganti non sono stati buoni ospiti nella tana di Challidax. Un personaggio può effettuare un'azione Influenza e presentare la prova che Aerstigga e i suoi seguaci hanno saccheggiato la tana o mentito al drago. Le seguenti prove catturano l'attenzione di Challidax:",
 												{
 													"type": "list",
 													"items": [
-														"Part of the frozen owlbear the giants broke in area {@adventure D10|DrDe-SD|1|D10: Frozen River}",
-														"Pieces of the broken healing crystal from area {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}",
-														"The {@item Wand of Wonder|XDMG} Aerstigga has been hiding or evidence of its use, such as grass pulled from area {@adventure D13|DrDe-SD|1|D13: Experimentation Room} or the {@creature Rhinoceros|XMM} from area {@adventure D14|DrDe-SD|1|D14: Giant Quarters}"
+														"Parte dell'orsogufo congelato che i giganti hanno rotto nell'area {@adventure D10|DrDe-SD|1|D10: Frozen River}",
+														"Pezzi del cristallo curativo rotto dall'area {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}",
+														"Il {@item Wand of Wonder|XDMG} Aerstigga è stato nascosto o prova del suo utilizzo, come l'erba estratta dall'area {@adventure D13|DrDe-SD|1|D13: Experimentation Room} o il {@creature Rhinoceros|XMM} dall'area {@adventure D14|DrDe-SD|1|D14: Giant Quarters}"
 													]
 												},
-												"If the characters present at least two pieces of evidence to Challidax, she turns on Aerstigga. Once Aerstigga is defeated, the dragon allows the characters to depart her lair as thanks before leaving to hunt the other giants and their allies in her lair.",
-												"Should Challidax find that the characters have pilfered any of her trophies or treasures, she revokes her mercy and hunts them down to take revenge."
+												"Se i personaggi presentano almeno due prove a Challidax, lei si rivolterà contro Aerstigga. Una volta sconfitta Aerstigga, il drago permette ai personaggi di lasciare la sua tana come ringraziamento prima di partire per dare la caccia agli altri giganti e ai loro alleati nella sua tana.",
+												"Se Challidax scopre che i personaggi hanno rubato qualcuno dei suoi trofei o tesori, revoca la sua misericordia e li dà la caccia per vendicarsi."
 											]
 										},
 										{
@@ -4318,7 +4318,7 @@
 											"name": "River",
 											"id": "343",
 											"entries": [
-												"The river running through this room flows south to the chamber with the ledge (area {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}; see \"{@area Lair Features|2fc|x}\")."
+												"Il fiume che scorre attraverso questa stanza scorre a sud verso la camera con la sporgenza (area {@adventure D11|DrDe-SD|1|D11: Wolf Ledge}; vedi \"{@area Lair Features|2fc|x}\")."
 											]
 										},
 										{
@@ -4326,7 +4326,7 @@
 											"name": "Trophies",
 											"id": "344",
 											"entries": [
-												"The alcoves here each contain a creature Challidax defeated and froze in ice. The creatures within are visible, but the ice around each is a Huge object with AC 13; HP 50; and {@variantrule Immunity|XPHB} to Cold, Poison, and Psychic damage. The trophies are as follows:",
+												"Ciascuna alcova qui contiene una creatura Challidax sconfitta e congelata nel ghiaccio. Le creature all'interno sono visibili, ma il ghiaccio attorno a ciascuna è un oggetto Enorme con CA 13; PF 50; e {@variantrule Immunity|XPHB} ai danni da freddo, veleno e psichici. I trofei sono i seguenti:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -4334,22 +4334,22 @@
 														{
 															"type": "item",
 															"name": "Northeast Alcove",
-															"entry": "This alcove contains the heavily scarred corpse of an abominable yeti. The yeti's left eye is a diamond worth 4,000 GP."
+															"entry": "Questa alcova contiene il cadavere pesantemente sfregiato di un abominevole yeti. L'occhio sinistro dello yeti è un diamante del valore di 4.000 GP."
 														},
 														{
 															"type": "item",
 															"name": "Northwest Alcove",
-															"entry": "This alcove contains the corpse of an enormous chimera in a ferocious pose."
+															"entry": "In questa alcova è custodito il cadavere di un'enorme chimera in posa feroce."
 														},
 														{
 															"type": "item",
 															"name": "South Alcove",
-															"entry": "This alcove contains the corpse of a halfling frozen to a Large, knight-like statue. If freed, the statue animates, revealing itself to be a {@creature Shield Guardian|XMM} with a {@spell Fireball|XPHB} spell (level 4 version) stored. Unless it receives other commands from someone bearing the magic amulet it's bonded to (see area {@adventure D7|DrDe-SD|1|D7: Hidden Camp}), the guardian fights the closest creature as it continues trying to protect its former controller, the halfling Deena Finkleton."
+															"entry": "Questa alcova contiene il cadavere di un halfling congelato su una grande statua simile a un cavaliere. Se liberata, la statua si anima, rivelando di essere un {@creature Shield Guardian|XMM} con un incantesimo {@spell Fireball|XPHB} (versione di livello 4) immagazzinato. A meno che non riceva altri comandi da qualcuno che porta l'amuleto magico a cui è legato (vedi area {@adventure D7|DrDe-SD|1|D7: Hidden Camp}), il guardiano combatte la creatura più vicina mentre continua a cercare di proteggere il suo ex controllore, la halfling Deena Finkleton."
 														},
 														{
 															"type": "item",
 															"name": "Southwest Alcove",
-															"entry": "This alcove contains the frozen corpse of the frost giant druid Elakdras. Once it's removed from the ice, the magical tattoos on the body are plainly visible. With 10 minutes of work, any character can copy the tattooed symbols using any appropriate recording implements, such as {@item Ink|XPHB}, an {@item Ink Pen|XPHB}, and a sheet of {@item Parchment|XPHB}."
+															"entry": "Questa alcova contiene il cadavere congelato del druido gigante del gelo Elakdras. Una volta tolto dal ghiaccio, i tatuaggi magici sul corpo sono ben visibili. Con 10 minuti di lavoro, qualsiasi personaggio può copiare i simboli tatuati utilizzando qualsiasi strumento di registrazione appropriato, come {@item Ink|XPHB}, un {@item Ink Pen|XPHB} e un foglio di {@item Parchment|XPHB}."
 														}
 													]
 												}
@@ -4360,16 +4360,16 @@
 											"name": "Treasure",
 											"id": "345",
 											"entries": [
-												"Challidax's hoard includes the following treasure:",
+												"Il tesoro di Challidax include il seguente tesoro:",
 												{
 													"type": "list",
 													"items": [
-														"100 PP, 12,000 SP, and 200,000 CP (total value of 4,200 GP)",
-														"295 small gems in total (worth 1 GP each)",
-														"Platinum torc (worth 250 GP)",
-														"Two silver chalices (worth 120 GP each)",
+														"100 PP, 12.000 SP e 200.000 CP (valore totale di 4.200 GP)",
+														"295 piccole gemme in totale (del valore di 1 GP ciascuna)",
+														"Torcia di platino (del valore di 250 GP)",
+														"Due calici d'argento (del valore di 120 GP ciascuno)",
 														"{@item Bead of Force|XDMG}",
-														"Aerstigga keeps her {@item Wand of Wonder|XDMG} concealed within her clothing, where Challidax can't observe it. If she doesn't pull it out during the fight, anyone searching her body discovers it."
+														"Aerstigga la tiene {@item Wand of Wonder|XDMG} nascosta tra i suoi vestiti, dove Challidax non può osservarla. Se non lo tira fuori durante il combattimento, chiunque perquisisca il suo corpo lo scopre."
 													]
 												}
 											]
@@ -4385,20 +4385,20 @@
 					"name": "Conclusion",
 					"id": "346",
 					"entries": [
-						"Once the characters recover the ritual from Elakdras's corpse, they can return to Grahlista and attempt to break the oppressive heat wave. The frost giant's ritual requires at least four participants, takes a full day to perform, and consumes 1,000 GP of rare moss and crystals. Grahlista covers the cost of materials and leads the ritual, though she asks willing characters to participate.",
-						"Soon after the ritual's completion, a welcome rain begins falling, and the heat wave breaks. The locals are overjoyed and host a celebration for the characters. Within a few days, the region's weather returns to normal, thanks to the characters' daring.",
+						"Una volta che i personaggi recuperano il rituale dal cadavere di Elakdras, possono tornare a Grahlista e tentare di spezzare l'ondata di caldo opprimente. Il rituale del gigante del gelo richiede almeno quattro partecipanti, richiede un'intera giornata per essere eseguito e consuma 1.000 GP di muschio e cristalli rari. Grahlista copre il costo dei materiali e conduce il rituale, anche se chiede ai personaggi consenzienti di partecipare.",
+						"Subito dopo il completamento del rituale, inizia a cadere una gradita pioggia e l'ondata di caldo si interrompe. La gente del posto è felicissima e organizza una celebrazione per i personaggi. Nel giro di pochi giorni, il clima della regione ritorna alla normalità, grazie all'audacia dei personaggi.",
 						{
 							"type": "entries",
 							"name": "A Remarkable Reward",
 							"id": "347",
 							"entries": [
-								"If Challidax was slain during the adventure, the region around the dragon's lair rapidly thaws. Grahlista and an accomplished blacksmith named Tafarge make the characters an offer: if the characters give the pair all the coins from Challidax's lair (to disperse among the locals), the dragon's body, and three months, Grahlista and Tafarge promise to make the party a remarkable reward. The two won't say what or push the matter, but if the characters agree, hold up their end of the bargain, and return after three months, the pair give the party a {@item Frost Brand|XDMG} with Shivering Death's visage sculpted into the pommel. The magic weapon is a type of weapon used by a party member of your choice.",
+								"Se Challidax viene ucciso durante l'avventura, la regione intorno alla tana del drago si scioglie rapidamente. Grahlista e un abile fabbro di nome Tafarge fanno un'offerta ai personaggi: se i personaggi danno alla coppia tutte le monete della tana di Challidax (per disperderle tra la gente del posto), il corpo del drago e tre mesi, Grahlista e Tafarge promettono di rendere la festa una ricompensa notevole. I due non diranno cosa né spingeranno la questione, ma se i personaggi sono d'accordo, mantengono la loro parte dell'accordo e ritornano dopo tre mesi, la coppia regala alla festa un {@item Frost Brand|XDMG} con il volto di Shivering Death scolpito sul pomo. L'arma magica è un tipo di arma utilizzata da un membro del gruppo a tua scelta.",
 								{
 									"type": "inset",
 									"name": "Foreshadowed Flames",
 									"id": "348",
 									"entries": [
-										"The origins of the heat wave in this adventure remain purposely vague. The scorching weather could be a natural occurrence, but more sinister forces could play a part. If you want to link the heat wave to other threats, add evidence to the trophy cave (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave})."
+										"Le origini dell'ondata di caldo in questa avventura rimangono volutamente vaghe. Il clima torrido potrebbe essere un evento naturale, ma forze più sinistre potrebbero avere un ruolo. Se vuoi collegare l'ondata di caldo ad altre minacce, aggiungi le prove nella grotta dei trofei (area {@adventure D16|DrDe-SD|1|D16: Trophy Cave})."
 									]
 								},
 								{
@@ -4425,7 +4425,7 @@
 							"type": "insetReadaloud",
 							"id": "34a",
 							"entries": [
-								"A single horn supporting a crest behind the head is the consistent, defining characteristic of the white dragon through the years\u2014combined with a snarling appearance attesting to its ferocity."
+								"Un unico corno che sorregge una cresta dietro la testa è la caratteristica costante e distintiva del drago bianco nel corso degli anni, combinato con un aspetto ringhiante che ne attesta la ferocia."
 							]
 						},
 						{
@@ -4571,22 +4571,22 @@
 						{
 							"type": "item",
 							"name": "Designers:",
-							"entry": "Justice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
+							"entry": "Il giudice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
 						},
 						{
 							"type": "item",
 							"name": "Rules Developers:",
-							"entry": "Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen"
+							"entry": "Makenzie De Armas (protagonista), Jeremy Crawford, Ron Lundeen"
 						},
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Judy Bauer (lead), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
+							"entry": "Judy Bauer (protagonista), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
 						},
 						{
 							"type": "item",
 							"name": "Art Directors:",
-							"entry": "Matt Cole (lead), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
+							"entry": "Matt Cole (protagonista), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
 						},
 						{
 							"type": "item",
@@ -4616,7 +4616,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
+							"entry": "Rob Hawkey (protagonista), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
 						}
 					]
 				},

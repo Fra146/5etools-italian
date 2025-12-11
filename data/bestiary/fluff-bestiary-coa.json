@@ -29,8 +29,8 @@
 			"name": "Aeshma",
 			"source": "CoA",
 			"entries": [
-				"Aeshma is a tiefling who was born into a rich and affluent family with ties to powerful families within the city of Waterdeep. Aeshma has learned that everything in life comes easy, free, and without consequence. Aeshma is a jack of no trades and master of none, he has ceremoniously failed himself out of magic studies, countless bard colleges, church studies, and military training. Aeshma excels at one thing: convincing and manipulating others to gamble. He doesn't really care for the stakes or the outcome of a bet, rather he gets enjoyment out of the consternation of others. Aeshma is a chronic gambler who always pushes the stakes to their limits.",
-				"Aeshma was content to a life pursuing pleasure and with no responsibilities, but his infernal heritage has entangled him with something he could have never expected. He is the soul that the Halruaans call the Unmaker (Aeshma is unaware that he is the Unmaker). Asmodeus has plans for Aeshma and had one of his archdevils, Abigor, kidnap him."
+				"Aeshma è un tiefling nato in una famiglia ricca e benestante con legami con famiglie potenti della città di Waterdeep. Aeshma ha imparato che tutto nella vita diventa facile, gratuito e senza conseguenze. Aeshma non conosce alcun mestiere e non è maestro di alcuno. Ha fallito cerimoniosamente negli studi di magia, nelle innumerevoli scuole di bardi, negli studi ecclesiastici e nell'addestramento militare. Aeshma eccelle in una cosa: convincere e manipolare gli altri a giocare d'azzardo. In realtà non gli interessa la posta in gioco o il risultato di una scommessa, piuttosto si diverte con la costernazione degli altri. Aeshma è una giocatrice d'azzardo cronica che spinge sempre la posta in gioco al limite.",
+				"Aeshma si accontentava di una vita incentrata sul piacere e senza responsabilità, ma la sua eredità infernale lo ha intrappolato in qualcosa che non si sarebbe mai potuto aspettare. È l'anima che gli Halruaan chiamano il Distruttore (Aeshma non sa di essere lui il Distruttore). Asmodeus ha dei piani per Aeshma e lo ha fatto rapire da uno dei suoi arcidiavoli, Abigor."
 			],
 			"images": [
 				{
@@ -47,13 +47,13 @@
 			"name": "Affliction Devil (Kocrachon)",
 			"source": "CoA",
 			"entries": [
-				"Masters of torture and pain, kocrachons are some of the most respected lesser devils in the Nine Hells. Each is driven to break the greatest number of creatures during their lifespan\u2014the bigger and more dangerous their charges, the better. The most effective kocrachons study under other torturers, or in infernal schools, to best understand the physiologies of any victim they might come across. Perhaps due to their nature as clandestine torturers, kocrachons abhor direct conflict, choosing instead to flee if given the option.",
+				"Maestri della tortura e del dolore, i kocrachon sono alcuni dei diavoli minori più rispettati nei Nove Inferni. Ciascuno è spinto a distruggere il maggior numero di creature durante la loro vita: più grandi e pericolose sono le loro cariche, meglio è. I kocrachon più efficaci studiano sotto la guida di altri torturatori, o nelle scuole infernali, per comprendere al meglio la fisiologia di ogni vittima che incontrano. Forse a causa della loro natura di torturatori clandestini, i kocrachon aborriscono il conflitto diretto e scelgono invece di fuggire se ne hanno la possibilità.",
 				{
 					"type": "entries",
 					"name": "Devils with Purpose",
 					"page": 236,
 					"entries": [
-						"They're insect-like and have a brightly colored carapace, with retractable wings, multiple arms and legs, and pincer-like hands. Even their heads appear strangely insectoid, often with multiple proboscises, eyes and false eyes, and waving antennae. Kocrachon inject a lethal poison into victims and, if they acquire the information they needed, may cure said poison."
+						"Sono simili a insetti e hanno un carapace dai colori vivaci, con ali retrattili, braccia e gambe multiple e mani a tenaglia. Anche le loro teste appaiono stranamente insettoidi, spesso con proboscidi multiple, occhi e occhi finti e antenne ondeggianti. Kocrachon inietta un veleno letale nelle vittime e, se acquisiscono le informazioni di cui hanno bisogno, possono curare il veleno."
 					]
 				},
 				{
@@ -61,7 +61,7 @@
 					"name": "Flame and Ice",
 					"page": 236,
 					"entries": [
-						"Though they are just as comfortable in the fires of the Nine Hells as any other devil, unlike many other of their peers, kocrachons are also resilient to the cold. This makes them useful in Stygia and Cania, where they are often employed by the archdevils of those layers to wring information from recalcitrant opponents. Their affinity to the cold also provides kocrachons with other, more interesting avenues of torture."
+						"Sebbene si sentano a proprio agio nel fuoco dei Nove Inferi come qualsiasi altro diavolo, a differenza di molti altri loro pari, i kocrachon sono anche resistenti al freddo. Ciò li rende utili in Stygia e Cania, dove vengono spesso impiegati dagli arcidiavoli di quegli strati per estorcere informazioni agli avversari recalcitranti. La loro affinità con il freddo fornisce ai kocrachon anche altre vie di tortura più interessanti."
 					]
 				}
 			],
@@ -80,11 +80,11 @@
 			"name": "Anagwendol",
 			"source": "CoA",
 			"entries": [
-				"A fierce warrior of the Heavens, Anagwendol's career is a trail of slain Fiends. She has never turned from a fight against evil, and though she has taken countless wounds in the fray, she has never lost. And now she is in the Nine Hells.",
-				"She owes her captivity to an all-too-common fault among angels. Of all sins, they must beware of pride. Knowing that you're the very instrument of the divine and having carved your way through the inferior mettle of a thousand infernal combatants, makes it hard to hold onto humility. This pride led her into a trap and unable to leave the fourth layer\u2014Phlegethos.",
-				"The mastermind behind the entrapment of Anagwendol was the archdevil Kordichai, whose chief interest is a grand game preserve of fiery Elemental monsters in Phlegethos. Kordichai, a canny old hunter, was able to lure her into his preserve, and there at its heart she remains, a prisoner within a blazing stone labyrinth. Occasionally Kordichai sends parties of devils (especially underlings who have disappointed him) to hunt her, and enjoys watching their failures.",
-				"Anagwendol is no longer the angel she once was. Whilst the inner warrior of the divine remains, her connection to her surroundings is twisted by an infernal curse so that she believes she is forever fighting an endless swarm of enemies. Everything she encounters is perceived as a loathsome devil, fit only for cutting down.",
-				"This constant one-angel war on the infernal is gradually taking its toll. Anagwendol is growing to live for it. The ferocity of shedding infernal blood is becoming an end in itself for her, rather than an unfortunate but necessary means to virtue."
+				"Feroce guerriero dei Cieli, la carriera di Anagwendol è una scia di Demoni uccisi. Non ha mai abbandonato la lotta contro il male e, sebbene abbia subito innumerevoli ferite nella mischia, non ha mai perso. E ora è nei Nove Inferni.",
+				"Deve la sua prigionia a un difetto fin troppo comune tra gli angeli. Tra tutti i peccati, devono guardarsi dall'orgoglio. Sapere che sei lo strumento stesso del divino e esserti fatto strada attraverso il coraggio inferiore di migliaia di combattenti infernali, rende difficile mantenere l'umiltà. Questo orgoglio la condusse in una trappola e non fu in grado di lasciare il quarto strato: Flegeto.",
+				"La mente dietro l'intrappolamento di Anagwendol era l'arcidiavolo Kordichai, il cui interesse principale è una grande riserva di caccia di feroci mostri Elementali a Phlegethos. Kordichai, un vecchio astuto cacciatore, è riuscito ad attirarla nella sua riserva, e lì lei rimane, prigioniera in un fiammeggiante labirinto di pietra. Di tanto in tanto Kordichai manda gruppi di diavoli (soprattutto subalterni che lo hanno deluso) a darle la caccia, e si diverte a guardare i loro fallimenti.",
+				"Anagwendol non è più l'angelo di una volta. Sebbene la guerriera interiore del divino rimanga, la sua connessione con l'ambiente circostante è distorta da una maledizione infernale, così lei crede di combattere per sempre uno sciame infinito di nemici. Tutto ciò che incontra viene percepito come un diavolo ripugnante, adatto solo ad essere abbattuto.",
+				"Questa costante guerra di un solo angelo contro l'Inferno sta gradualmente prendendo il sopravvento. Anagwendol sta crescendo per vivere per questo. La ferocia di spargere sangue infernale sta diventando per lei un fine in sé, piuttosto che uno sfortunato ma necessario mezzo per raggiungere la virtù."
 			],
 			"images": [
 				{
@@ -104,21 +104,21 @@
 				{
 					"type": "quote",
 					"entries": [
-						"You mortals should take pride in how you can make a hell out of any heaven."
+						"Voi mortali dovreste essere orgogliosi di come riuscite a trasformare qualsiasi paradiso in un inferno."
 					],
 					"by": "Asmodeus"
 				},
-				"Various myths claim that Asmodeus, has existed since the dawn of time. Perhaps most intriguing among the myths is the Serpent of Law. In it, Asmodeus was initially named Ahriman and, together with his rival Jazirian, created the outer realms. Their conflict led both deities to become severely wounded, and Asmodeus lost the exchange by landing in the Nine Hells. Here, he used his allies and own strength to banish the previous inhabitants and become what he remains today\u2014Overlord of the Nine Hells.",
-				"Since his time as ruler, Asmodeus has seen much upset: a trial by gods, the Blood War, and the Reckoning. Despite many attempts to oust him, Asmodeus has never left his throne\u2014none have even gotten close. Helping cement his power are the Dark Eight, a group of pit fiends sworn to absolute loyalty that rule his armies.",
-				"Those that know Asmodeus would describe him as arrogant, extremely intelligent, strategic, and honorable. Whenever possible, he follows the laws and regulations (that he himself created), and rarely loses his temper. Some of his plots have taken thousands of years to come to fruition, with countless others continuing to this day. Whether his persona is genuine, or simply another tool in his plans, only Asmodeus himself knows.",
-				"Many groups pledge allegiance to Asmodeus, and being the ruler of the Nine Hells, he has a large quantity of followers and worshippers. His biggest goal, largely unknown by mortals, is the opposite\u2014encourage disbelief in deities altogether. According to legend, instead of going to the god they refuse worship, atheists go directly to the Nine Hells. Asmodeus feeds on these souls, which give him the necessary nourishment to lick his wounds. To this end, worshippers and cults dedicated to Asmodeus frequently experience fluctuations in presence, in an attempt to push them to disbelief.",
-				"Some claim that his true form is that of a colossal serpent, with gaping wounds and a missing tail. However, no living creature has seen the true Asmodeus. He prefers to do business using one of his ten avatars, each a perfect gentleman, and handsome to boot. They can be identified by the Ruby Rod they each carry, an icon representative of the Dark Lord himself.",
+				"Vari miti affermano che Asmodeus esiste fin dall'alba dei tempi. Forse il più intrigante tra i miti è il Serpente della Legge. In esso, Asmodeus fu inizialmente chiamato Ahriman e, insieme al suo rivale Jazirian, creò i regni esterni. Il loro conflitto portò entrambe le divinità a essere gravemente ferite e Asmodeus perse lo scambio atterrando nei Nove Inferni. Qui usò i suoi alleati e la propria forza per bandire i precedenti abitanti e diventare ciò che rimane oggi: il Signore Supremo dei Nove Inferni.",
+				"Sin dal suo tempo come sovrano, Asmodeus ha visto molti sconvolgimenti: un processo da parte degli dei, la Guerra del Sangue e la Resa dei conti. Nonostante i molti tentativi di spodestarlo, Asmodeus non ha mai lasciato il suo trono e nessuno si è nemmeno avvicinato. Ad aiutare a consolidare il suo potere ci sono gli Otto Oscuri, un gruppo di diavoli della fossa giurati di assoluta lealtà che governano i suoi eserciti.",
+				"Coloro che conoscono Asmodeus lo descrivono come arrogante, estremamente intelligente, strategico e onorevole. Quando possibile, segue le leggi e i regolamenti (da lui stesso creati) e raramente perde la pazienza. Alcuni dei suoi complotti hanno impiegato migliaia di anni per realizzarsi, mentre innumerevoli altri continuano ancora oggi. Se la sua personalità sia genuina o semplicemente un altro strumento nei suoi piani, solo Asmodeus lo sa.",
+				"Molti gruppi giurano fedeltà ad Asmodeus ed, essendo il sovrano dei Nove Inferni, ha una grande quantità di seguaci e adoratori. Il suo obiettivo più grande, in gran parte sconosciuto ai mortali, è l'opposto: incoraggiare del tutto l'incredulità nelle divinità. Secondo la leggenda, invece di andare dal dio che rifiutano il culto, gli atei vanno direttamente ai Nove Inferni. Asmodeus si nutre di queste anime, che gli danno il nutrimento necessario per leccarsi le ferite. A tal fine, i fedeli e i culti dedicati ad Asmodeo sperimentano frequentemente fluttuazioni nella presenza, nel tentativo di spingerli all’incredulità.",
+				"Alcuni sostengono che la sua vera forma sia quella di un serpente colossale, con ferite aperte e una coda mancante. Tuttavia, nessuna creatura vivente ha visto il vero Asmodeus. Preferisce fare affari utilizzando uno dei suoi dieci avatar, ognuno dei quali è un perfetto gentiluomo e per di più bello. Possono essere identificati dalla Verga di Rubino che portano ciascuno, un'icona rappresentativa dello stesso Signore Oscuro.",
 				{
 					"type": "entries",
 					"name": "Asmodeus's Lair",
 					"page": 216,
 					"entries": [
-						"The master of the Nine Hells makes his lair in his citadel of Malsheem. Within its confines linger millions of devils, and all of them are subject to Asmodeus's will and whims."
+						"Il signore dei Nove Inferi fa la sua tana nella sua cittadella di Malsheem. All'interno dei suoi confini indugiano milioni di diavoli e tutti sono soggetti alla volontà e ai capricci di Asmodeus."
 					]
 				}
 			],
@@ -151,13 +151,13 @@
 			"name": "Ayperobo Swarm",
 			"source": "CoA",
 			"entries": [
-				"An individual ayperobo is practically harmless, and often eaten by larger devils as a delicacy. Recognizing their weakness, ayperobos gather together and create colonies that communicate using telepathy. These swarms are much stronger, capable of holding their own even against some of the greater devils.",
+				"Un singolo ayperobo è praticamente innocuo e spesso viene mangiato dai diavoli più grandi come una prelibatezza. Riconoscendo la loro debolezza, gli ayperobo si riuniscono e creano colonie che comunicano usando la telepatia. Questi sciami sono molto più forti, capaci di resistere anche contro alcuni dei diavoli più grandi.",
 				{
 					"type": "entries",
 					"name": "Something to Prove",
 					"page": 238,
 					"entries": [
-						"Their perfect communication and collective strength, coupled with their ability for flight, allow the ayperobos to easily complete tasks with which larger devils struggle. They're happy to do so, as their goal is to prove their worth and, when possible, get revenge for their abusive treatment at the hands of larger devils."
+						"La loro perfetta comunicazione e forza collettiva, insieme alla loro capacità di volo, consentono agli ayperobo di completare facilmente compiti con cui lottano i diavoli più grandi. Sono felici di farlo, poiché il loro obiettivo è dimostrare il loro valore e, quando possibile, vendicarsi per il trattamento abusivo subito da parte di diavoli più grandi."
 					]
 				},
 				{
@@ -165,7 +165,7 @@
 					"name": "Small but Deadly",
 					"page": 238,
 					"entries": [
-						"Each member of the swarm appears as a small, devilish being, with oversized heads and sparrow-like wings. Their teeth are razor sharp, and when working together in a swarm, they can devour a Humanoid in a matter of seconds. While swarming, ayperobos appear as a thick cloud of mosquitoes or a cloud of blood\u2014and are known to hide among such phenomena. Some swarms have the power to control a \"host\" by burrowing under its skin and manipulating it from the inside\u2014these hosts can even be other devils."
+						"Ogni membro dello sciame appare come un essere piccolo e diabolico, con teste sovradimensionate e ali da passero. I loro denti sono affilati come rasoi e, quando lavorano insieme in uno sciame, possono divorare un umanoide in pochi secondi. Mentre sciamano, gli ayperobo appaiono come una fitta nuvola di zanzare o una nuvola di sangue e sono noti per nascondersi tra questi fenomeni. Alcuni sciami hanno il potere di controllare un \"ospite\" scavando sotto la sua pelle e manipolandolo dall'interno: questi ospiti possono anche essere altri diavoli."
 					]
 				}
 			],
@@ -184,17 +184,17 @@
 			"name": "Baalzebul",
 			"source": "CoA",
 			"entries": [
-				"Baalzebul, is an archdevil and the lord of Maladomini, the seventh layer of the Nine Hells. He is known as both the Lord of Lies and the Lord of the Flies because his tightly woven web of intrigue traps even the smallest fly. In recent centuries he was cursed with a new hideous form by Asmodeus. This form earned him a new title\u2014The Slug Archduke.",
-				"Baalzebul was originally known as Triel, one of the most powerful and beautiful angels to be found in Celestia. Triel's selfish acts in the name of achieving his perfection resulted in his corruption and exile from Celestia. After his fall, Asmodeus, perhaps out of some lingering sense of sympathy, quickly promoted Baalzebul to the ranks of devilish nobility. Baalzebul's ruthless lust for power served him well and before long he not only displaced the ancient, original Lord of Maladomini but managed to become the only archdevil to rule two layers of the Nine Hells, although he ruled Malbolge through the devil Moloch.",
-				"However, Baalzebul's pride continued to be his undoing. When he attempted to take Asmodeus's throne, his schemes were discovered and thwarted.",
-				"Asmodeus inflicted a series of bizarre penalties upon Baalzebul. He was cursed to appear as a slug for one year per lie he had told to a devil, and any deal he struck with a mortal would result in a disaster for the participant. His castle was turned to excrement and filled with filth and his dominion of Malbolge was stripped from him.",
-				"Despite his punishments, Baalzebul is still dangerously cunning and charismatic. Even while trapped in the form of a slug, he remained the Lord of Lies, whose every deception was made with ease. Every one of his untruths is told with a specific purpose in mind, and only other devils are safe from his lies.",
+				"Baalzebul, è un arcidiavolo e signore di Maladomini, il settimo strato dei Nove Inferni. È conosciuto sia come il Signore delle bugie che come il Signore delle mosche perché la sua fitta rete di intrighi intrappola anche la mosca più piccola. Negli ultimi secoli è stato maledetto con una nuova forma orribile da Asmodeus. Questa forma gli è valsa un nuovo titolo: L'Arciduca Slug.",
+				"Baalzebul era originariamente conosciuto come Triel, uno degli angeli più potenti e belli che si possano trovare in Celestia. Gli atti egoistici di Triel nel nome del raggiungimento della sua perfezione portarono alla sua corruzione e all'esilio da Celestia. Dopo la sua caduta, Asmodeus, forse per un persistente senso di simpatia, promosse rapidamente Baalzebul ai ranghi della nobiltà diabolica. La spietata brama di potere di Baalzebul gli fu utile e in breve tempo non solo spodestò l'antico e originale Signore di Maladomini, ma riuscì a diventare l'unico arcidiavolo a governare due strati dei Nove Inferni, sebbene governasse Malbolge attraverso il diavolo Moloch.",
+				"Tuttavia, l'orgoglio di Baalzebul continuò a essere la sua rovina. Quando tentò di prendere il trono di Asmodeus, i suoi piani furono scoperti e sventati.",
+				"Asmodeus inflisse una serie di bizzarre punizioni a Baalzebul. È stato maledetto per apparire come una lumaca per un anno per ogni bugia che aveva detto a un diavolo, e qualsiasi accordo che avesse stretto con un mortale si sarebbe rivelato un disastro per il partecipante. Il suo castello fu trasformato in escrementi e pieno di sporcizia e il suo dominio su Malbolge gli fu privato.",
+				"Nonostante le sue punizioni, Baalzebul è ancora pericolosamente astuto e carismatico. Anche se intrappolato sotto forma di lumaca, rimase il Signore delle Bugie, il cui inganno veniva realizzato con facilità. Ognuna delle sue bugie viene raccontata con uno scopo specifico in mente, e solo gli altri diavoli sono al sicuro dalle sue bugie.",
 				{
 					"type": "inset",
 					"name": "Baalzebul's Two Forms",
 					"page": 218,
 					"entries": [
-						"When dealing with enemies or unfortunate subordinates, Baalzebul generally manifests as a powerful winged creature. However, the characters are most likely to encounter this archdevil in his slug form after he has incurred Asmodeus's wrath again. The accompanying stat block works for both forms except that Baalzebul's movement in his slug form is replaced with: 20 ft., burrow 20 ft., climb 20 ft."
+						"Quando si ha a che fare con nemici o sfortunati subordinati, Baalzebul si manifesta generalmente come una potente creatura alata. Tuttavia, è più probabile che i personaggi incontrino questo arcidiavolo nella sua forma di lumaca dopo che è incorso nuovamente nell'ira di Asmodeus. Il blocco delle statistiche di accompagnamento funziona per entrambe le forme, tranne per il fatto che il movimento di Baalzebul nella sua forma di lumaca è sostituito con: 20 piedi, scavare 20 piedi, scalare 20 piedi."
 					]
 				},
 				{
@@ -202,7 +202,7 @@
 					"name": "Baalzebul's Lair",
 					"page": 219,
 					"entries": [
-						"Baalzebul's lair resides within whichever city is the newest he has constructed."
+						"La tana di Baalzebul risiede nella città più recente che ha costruito."
 					]
 				}
 			],
@@ -221,8 +221,8 @@
 			"name": "Barachiel",
 			"source": "CoA",
 			"entries": [
-				"Barachiel is an aasimar that was born in the city of Elturel; a bastion of justice and symbol of good in the Forgotten Realms. His mother was the angel Zariel, the patron of Elturel. Barachiel grew up to become a Hellrider\u2014the holy warriors that defend the city of Elturel. However, he gave up his freedom to become an agent of Mount Celestia so that he could try and save his mother. Zariel had been seduced and corrupted by Asmodeus. Now, as an archdevil, she rules the first layer of the Nine Hells.",
-				"Barachiel believes in justice, mercy, virtue, and compassion. Since his transformation into an angelic being, his memories of his former life have faded. However, the Hellrider Ramius was his beloved companion, and that memory has stayed with him."
+				"Barachiel è un aasimar nato nella città di Elturel; un bastione di giustizia e simbolo del bene nei Forgotten Realms. Sua madre era l'angelo Zariel, patrono di Elturel. Barachiel è cresciuto fino a diventare un Hellrider, i guerrieri sacri che difendono la città di Elturel. Tuttavia, rinunciò alla sua libertà per diventare un agente di Mount Celestia in modo da poter provare a salvare sua madre. Zariel era stato sedotto e corrotto da Asmodeus. Ora, come arcidiavolo, governa il primo strato dei Nove Inferni.",
+				"Barachiel crede nella giustizia, nella misericordia, nella virtù e nella compassione. Dalla sua trasformazione in un essere angelico, i suoi ricordi della sua vita precedente sono svaniti. Tuttavia, l'Hellrider Ramius era il suo amato compagno e quel ricordo è rimasto con lui."
 			],
 			"images": [
 				{
@@ -239,14 +239,14 @@
 			"name": "Bel",
 			"source": "CoA",
 			"entries": [
-				"From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.",
-				"Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Zariel's rulership of the layer of the Nine Hells that was once his, but he won't challenge her directly as long as he thinks Asmodeus supports Zariel.",
+				"Dal suo bastione, il secondo in comando di Zariel ed ex signore dell'Avernus, supervisiona le fucine che forniscono armi e armature per la Guerra del Sangue. Sebbene Asmodeus abbia incaricato Zariel di accettare Bel come suo consigliere, Bel e Zariel si detestano a vicenda e inventano distrazioni per tenerli separati.",
+				"Bel interpreta esteriormente il ruolo del fedele vassallo di Zariel. Tuttavia, Bel si irrita per il dominio di Zariel sullo strato dei Nove Inferni che una volta era suo, ma non la sfiderà direttamente finché pensa che Asmodeus supporti Zariel.",
 				{
 					"type": "inset",
 					"name": "Previous Adventures in Avernus: Bel",
 					"page": 234,
 					"entries": [
-						"If you have run {@adventure Baldur's Gate: Descent into Avernus|BGDIA}, then Bel might have replaced Zariel as the ruler of Avernus. If so, his lair is the Bronze Citadel instead of the Forge."
+						"Se hai corso {@adventure Baldur's Gate: Descent into Avernus|BGDIA}, allora Bel potrebbe aver sostituito Zariel come sovrano dell'Averno. Se è così, la sua tana è la Cittadella di Bronzo invece che la Forgia."
 					]
 				},
 				{
@@ -254,7 +254,7 @@
 					"name": "Bel's Lair",
 					"page": 234,
 					"entries": [
-						"Bel makes his lair in an ancient volcano known as the Forge."
+						"Bel fa la sua tana in un antico vulcano conosciuto come la Forgia."
 					]
 				}
 			]
@@ -263,16 +263,16 @@
 			"name": "Belial",
 			"source": "CoA",
 			"entries": [
-				"Belial maintains his image as the most carnal of all archdevils, and enjoys inflicting pain as much as experiencing pleasure. Despite his indulgences, Belial demonstrates charisma, passion, and intelligence, and is almost always scheming. He is confident to a fault, with vanity and desire being his greatest weaknesses.",
-				"Phlegethos has been ruled by Belial, together with his daughter, Fierna, for almost as long as Dispater has ruled his Iron City. Belial considers himself an \"old school\" devil, alongside his friendly rivals Levistus and Dispater. Glasya's recent rise to power has him concerned for his continued relevance in the political landscape, forcing him to direct his scheming inwards.",
-				"During the Reckoning, Belial remained relatively neutral, until the end, when he allied with Baalzebul. Some argue that his alliance was just another scheme meant to misdirect Asmodeus\u2014an idea further cemented when, instead of being deposed, Belial was forced to cede the throne to his daughter. For a time, he continued to rule from the shadows, but influence from Glasya on Fierna has encouraged the fiery lord to rule in tandem. Belial manages much of the political and official sides of the realm, including maintaining the infernal court. He occasionally sends avatars to other planes, which quickly seek out pleasure before continuing their assigned task.",
-				"Similar to his daughter, Belial remains one of the most attractive archdevils. His rugged good looks and masculine physique serve to compliment his devilish features, of which he has many. Sharp horns and glowing eyes adorn his face, with midnight-black wings and a tail decorating the rest of his body. Depending on his mood, Belial's skin either takes on an ashy-grey complexion, or smolders red like dying coal. Priding himself on his sensual appearance, Belial dresses provocatively while maintaining high fashion, truly embodying his carnal desires.",
+				"Belial mantiene la sua immagine come il più carnale di tutti gli arcidiavoli e gode nell'infliggere dolore tanto quanto nel provare piacere. Nonostante le sue indulgenze, Belial dimostra carisma, passione e intelligenza ed è quasi sempre intrigante. È fiducioso fino all'eccesso, e la vanità e il desiderio sono i suoi maggiori punti deboli.",
+				"Phlegethos è stato governato da Belial, insieme a sua figlia Fierna, quasi da quando Dispater governa la sua Città di Ferro. Belial si considera un diavolo della \"vecchia scuola\", insieme ai suoi amichevoli rivali Levistus e Dispater. La recente ascesa al potere di Glasya lo preoccupa per la sua continua rilevanza nel panorama politico, costringendolo a dirigere i suoi intrighi verso l'interno.",
+				"Durante la resa dei conti, Belial rimase relativamente neutrale, fino alla fine, quando si alleò con Baalzebul. Alcuni sostengono che la sua alleanza fosse solo un altro piano inteso a sviare Asmodeus, un'idea ulteriormente consolidata quando, invece di essere deposto, Belial fu costretto a cedere il trono a sua figlia. Per un certo periodo ha continuato a governare nell'ombra, ma l'influenza di Glasya su Fierna ha incoraggiato il focoso signore a governare in tandem. Belial gestisce gran parte degli aspetti politici e ufficiali del regno, compreso il mantenimento della corte infernale. Di tanto in tanto invia avatar su altri piani, che cercano rapidamente il piacere prima di continuare il compito assegnato.",
+				"Simile a sua figlia, Belial rimane uno degli arcidiavoli più attraenti. Il suo bell'aspetto robusto e il fisico mascolino servono a completare le sue caratteristiche diaboliche, di cui ne ha molte. Corna affilate e occhi luminosi adornano il suo viso, con ali nere come la notte e una coda che decorano il resto del suo corpo. A seconda del suo umore, la pelle di Belial assume una carnagione grigio cenere o brucia rossa come il carbone morente. Orgoglioso del suo aspetto sensuale, Belial si veste in modo provocante pur mantenendo l'alta moda, incarnando veramente i suoi desideri carnali.",
 				{
 					"type": "entries",
 					"name": "Belial's Lair",
 					"page": 221,
 					"entries": [
-						"This fierce archdevil currently makes his lair in an obsidian palace built within the confines of Abriymoch, but his reach extends throughout the entirety of the city."
+						"Questo feroce arcidiavolo attualmente fa la sua tana in un palazzo di ossidiana costruito entro i confini di Abriymoch, ma la sua portata si estende all'intera città."
 					]
 				}
 			],
@@ -333,13 +333,13 @@
 			"name": "Corruption Devil (Paeliryon)",
 			"source": "CoA",
 			"entries": [
-				"One of the stronger greater devils, the paeliryon focus on corruption and obtaining mortal souls. While they can be found on almost every layer of the Nine Hells, paeliryons are particularly prominent in Dis and Malbolge, where they hold positions of power. Their duties include managing lesser devils, directing and manipulating the soul trade, and infernal politics. They're particularly talented at blackmailing and spying\u2014abilities used both within and without the Nine Hells.",
+				"Uno dei diavoli maggiori più forti, il paeliryon si concentra sulla corruzione e sull'ottenimento di anime mortali. Anche se possono essere trovati in quasi tutti gli strati dei Nove Inferni, i paeliryon sono particolarmente importanti a Dis e Malbolge, dove ricoprono posizioni di potere. I loro compiti includono la gestione dei diavoli minori, la direzione e la manipolazione del commercio delle anime e la politica infernale. Sono particolarmente talentuosi nel ricatto e nello spionaggio, abilità usate sia all'interno che all'esterno dei Nove Inferni.",
 				{
 					"type": "entries",
 					"name": "Imposing Devils",
 					"page": 239,
 					"entries": [
-						"As greater devils, paeliryons are particularly large, often weighing more than 4000 pounds. Like hags, their skin is covered in boils and warts of varying colors, and they have massive bellies and leathery wings. Despite their physical drawbacks, corruption devils are quite formidable in combat. Rather than fight themselves, however, they use followers and lesser devils as fodder."
+						"Come i diavoli maggiori, i paeliryon sono particolarmente grandi e spesso pesano più di 4000 libbre. Come le streghe, la loro pelle è ricoperta di foruncoli e verruche di vari colori, e hanno pance enormi e ali coriacee. Nonostante i loro svantaggi fisici, i diavoli della corruzione sono piuttosto formidabili in combattimento. Invece di combattere contro se stessi, tuttavia, usano seguaci e diavoli minori come foraggio."
 					]
 				},
 				{
@@ -347,7 +347,7 @@
 					"name": "Sire of Corruption",
 					"page": 239,
 					"entries": [
-						"Occasionally a paeliryon becomes more powerful than their sisters and takes on the mantle of a sire of corruption. These sires can be counted among the strongest infernals, aside from archdevils, and usually direct their power to other planes of existence. Befitting their name, sires of corruption only seek one goal: to corrupt. To this end, their plans often involve the decay of empires or corruption of religious groups. Sires are few and far between, and a new sire usually rises only once every few centuries. Though they usually operate alone, some sires have served archdevils whose plans involved enough corruption to encourage cooperation."
+						"Occasionalmente un paeliryon diventa più potente delle sue sorelle e assume il manto di un sire della corruzione. Questi sire possono essere annoverati tra gli infernali più potenti, a parte gli arcidiavoli, e solitamente dirigono il loro potere su altri piani di esistenza. Come si addice al loro nome, i padri della corruzione perseguono un solo obiettivo: corrompere. A tal fine, i loro piani spesso prevedono la decadenza di imperi o la corruzione di gruppi religiosi. I tori sono pochi e rari, e di solito un nuovo toro nasce solo una volta ogni pochi secoli. Sebbene di solito operino da soli, alcuni sire hanno servito arcidiavoli i cui piani prevedevano una corruzione tale da incoraggiare la cooperazione."
 					]
 				}
 			],
@@ -366,16 +366,16 @@
 			"name": "Dispater",
 			"source": "CoA",
 			"entries": [
-				"Despite frequent shifts in leadership among other archdevils, Dispater has maintained his position as the ruler of Dis since its creation. Known for his vigilance and caution, he rarely leaves his tower, and even less frequently leaves the Iron City. Those who know his plans, including Asmodeus, know that he hopes to one day rule each layer of the Nine Hells.",
-				"Dispater remains one of the foremost suppliers of weapons across all the planes, which helps keep his position in Dis secure. As well, his advisors are carefully chosen and he maintains very few friendships.",
-				"Those that attempt battle with the Iron Lord find victory nigh impossible. In addition to his stratagem and defense, Dispater maintains extremely powerful abilities and a legion of minions. Outwitting him can't be done, and anyone unfortunate enough to catch him off guard is quickly disposed of.",
-				"Dispater remains calm and controlled in conversation. He prefers wherever possible to engage in gentlemanly debates rather than aggressive arguments. Unlike other archdevils, he almost never forces an individual into doing something, preferring to persuade or deceive instead. Fittingly, his skin is an iron-black color and his signature staff, wrought from the same iron as the tower he lives in, is always in hand.",
+				"Nonostante i frequenti cambiamenti al comando tra gli altri arcidiavoli, Dispater ha mantenuto la sua posizione di sovrano di Dis sin dalla sua creazione. Conosciuto per la sua vigilanza e cautela, lascia raramente la sua torre e ancor meno frequentemente lascia la Città del Ferro. Coloro che conoscono i suoi piani, incluso Asmodeus, sanno che spera un giorno di governare ogni strato dei Nove Inferni.",
+				"Dispater rimane uno dei principali fornitori di armi su tutti i piani, il che aiuta a mantenere sicura la sua posizione su Dis. Inoltre, i suoi consiglieri sono scelti con cura e mantiene pochissime amicizie.",
+				"Coloro che tentano di combattere il Signore del Ferro trovano la vittoria quasi impossibile. Oltre al suo stratagemma e alla sua difesa, Dispater mantiene abilità estremamente potenti e una legione di servitori. Non è possibile sconfiggerlo in astuzia e chiunque sia così sfortunato da coglierlo alla sprovvista viene rapidamente eliminato.",
+				"Il dispater rimane calmo e controllato nella conversazione. Preferisce, ove possibile, impegnarsi in dibattiti da gentiluomo piuttosto che in discussioni aggressive. A differenza degli altri arcidiavoli, non costringe quasi mai un individuo a fare qualcosa, preferendo invece persuadere o ingannare. Opportunamente, la sua pelle è di colore nero ferro e il suo caratteristico bastone, forgiato con lo stesso ferro della torre in cui vive, è sempre a portata di mano.",
 				{
 					"type": "entries",
 					"name": "Dispater's Lair",
 					"page": 223,
 					"entries": [
-						"The ruler of Dis makes his lair inside the Iron Tower. Within these confines he is vastly more protected."
+						"Il sovrano di Dite fa la sua tana all'interno della Torre di Ferro. All’interno di questi confini è molto più protetto."
 					]
 				}
 			],
@@ -394,13 +394,13 @@
 			"name": "Displacer Fiend",
 			"source": "CoA",
 			"entries": [
-				"Long ago a Fey lord led his hunt into the Nine Hells to settle a score with an archfiend over mortals claimed by both. What fate the lord met is unknown, but of all his expedition, one particular faerie breed prospered in its new environment. A particularly vicious strain of displacer beast has become an entrenched new threat across many layers of the Nine Hells, prowling about the edges of fiendish communities and attacking mortal and infernal travelers alike.",
+				"Molto tempo fa, un signore dei Folletti condusse la sua caccia nei Nove Inferni per regolare i conti con un arcidiamone sui mortali reclamati da entrambi. Non si sa quale destino abbia incontrato il signore, ma di tutta la sua spedizione, una particolare razza di fate prosperò nel suo nuovo ambiente. Un ceppo particolarmente feroce di bestie distorcenti è diventato una nuova minaccia radicata in molti strati dei Nove Inferni, aggirandosi ai confini delle comunità immonde e attaccando allo stesso modo viaggiatori mortali e infernali.",
 				{
 					"type": "entries",
 					"name": "Stalking Horrors",
 					"page": 240,
 					"entries": [
-						"Long ages in the Nine Hells have warped the original beasts into something more fiendish. Whilst still feline in shape, the displacer fiend's shoulders sprout with an explosion of writhing tentacles each tipped with a lamprey-like mouth. These tooth-lined maws drain life essence or infernal strength from their prey, providing the fiends with their sustenance. The mouths drip with a vitriol that causes agony to mortals, but acts as a tranquilizing balm to devils, permitting the Fiends to feast on them without waking their prey if they get the chance. Displacer fiends retain the innate stealth of their progenitors and slip from shadow to shadow across all but the most barren of infernal landscapes. Packs of them will follow travelers for long distances, waiting until the terrain most favors an ambush."
+						"Lunghi secoli trascorsi nei Nove Inferni hanno trasformato le bestie originali in qualcosa di più diabolico. Anche se ha ancora una forma felina, le spalle del demone distorcente spuntano con un'esplosione di tentacoli contorti, ognuno dei quali termina con una bocca simile a una lampreda. Queste fauci ricoperte di denti assorbono l'essenza vitale o la forza infernale dalle loro prede, fornendo ai demoni il loro sostentamento. Le bocche grondano un vetriolo che provoca agonia ai mortali, ma agisce come un balsamo tranquillizzante per i diavoli, permettendo ai Demoni di banchettare con loro senza svegliare la preda se ne hanno la possibilità. I demoni distorsori mantengono l'innata furtività dei loro progenitori e scivolano di ombra in ombra ovunque, tranne i più sterili paesaggi infernali. Gruppi di loro seguiranno i viaggiatori per lunghe distanze, aspettando che il terreno favorisca un'imboscata."
 					]
 				},
 				{
@@ -408,7 +408,7 @@
 					"name": "Corruptors of Perception",
 					"page": 240,
 					"entries": [
-						"Like their base stock, displacer fiends bend light around themselves, the visible monster always slightly shifted from its true location. These natural gifts have been fortified by the deceptive influence of the lower planes. The monsters also possess the ability to shift the perceived location of their victim and affect their prey's grasp of relative distance and place. Fighting them can be a nightmare of confusion, as allies, enemies and landscape features appear randomly close or far, huge or small\u2014or the fighters find themselves viewing the battlefield from outside their own heads, trying to control their bodies like puppets. Even basic functions like proprioception\u2014the knowledge of where one's limbs are when not directly observed\u2014can be lost. This can lead to a complete loss of coordination, accidentally striking friends or falling into bogs or crevasses that seemed far distant."
+						"Come il loro ceppo base, i demoni distorcenti piegano la luce attorno a sé, il mostro visibile è sempre leggermente spostato dalla sua vera posizione. Questi doni naturali sono stati rafforzati dall’influenza ingannevole dei piani inferiori. I mostri possiedono anche la capacità di spostare la posizione percepita della loro vittima e influenzare la comprensione della distanza e del luogo relativi da parte della preda. Combatterli può essere un incubo di confusione, poiché alleati, nemici e elementi del paesaggio appaiono casualmente vicini o lontani, enormi o piccoli, oppure i combattenti si ritrovano a vedere il campo di battaglia dall'esterno delle loro teste, cercando di controllare i loro corpi come marionette. Anche funzioni basilari come la propriocezione – la conoscenza di dove si trovano i propri arti quando non vengono osservati direttamente – possono andare perdute. Ciò può portare alla completa perdita di coordinazione, colpire accidentalmente gli amici o cadere in paludi o crepacci che sembravano molto distanti."
 					]
 				},
 				{
@@ -416,7 +416,7 @@
 					"name": "Monstrous Pets",
 					"page": 240,
 					"entries": [
-						"Many large cities in the Nine Hells have feral populations of displacer fiends predating off the lowliest devils and breeding in hidden corners. Much of the time they're considered pests, but they do keep down populations of various infernal vermin, like halogs, that would otherwise be more troubling in their proliferation. Some devils actively cultivate their presence, encouraging them by staking out a lemure or imp every so often, as a human might leave a bowl of scraps for a cat. Devils aren't sentimental, but some find the viciousness and skulking cruelty of the displacer fiends oddly endearing."
+						"Molte grandi città dei Nove Inferi hanno popolazioni selvagge di demoni dislocatori che predano i diavoli più umili e si riproducono negli angoli nascosti. Nella maggior parte dei casi sono considerati parassiti, ma tengono a bada popolazioni di vari parassiti infernali, come gli alogeni, che altrimenti sarebbero più preoccupanti nella loro proliferazione. Alcuni diavoli coltivano attivamente la loro presenza, incoraggiandoli a sorvegliare di tanto in tanto un lemure o un diavoletto, come un umano potrebbe lasciare una ciotola di avanzi per un gatto. I diavoli non sono sentimentali, ma alcuni trovano la ferocia e la crudeltà nascosta dei demoni distorsori stranamente accattivanti."
 					]
 				}
 			],
@@ -449,15 +449,15 @@
 			"name": "Fierna",
 			"source": "CoA",
 			"entries": [
-				"Fierna rules Phlegethos alongside her father, Belial. She is emotionally intelligent, and her charisma has earned her many allies and few enemies in the Nine Hells. Although some view her as incompetent, Fierna's true intentions are hidden behind a smokescreen of brashness.",
-				"Her father, Belial, was a key player in the Reckoning, and due to his actions, Fierna was granted primary leadership of Phlegethos. Despite this political appearance, Fierna and Belial rule together, often meeting in secret to discuss strategy and upcoming plans. Some of the more ignorant archdevils view the relationship between Belial and Fierna as something to be exploited or broken. In reality, Fierna deeply respects her father, and the feeling is mutual.",
-				"Laying eyes on Fierna, one can immediately see the reasons she is so admired: she is impossibly beautiful. Her beauty is a strength, complementing her strategic mind and ingenuity.",
+				"Fierna governa Phlegethos insieme a suo padre, Belial. È emotivamente intelligente e il suo carisma le ha fatto guadagnare molti alleati e pochi nemici nei Nove Inferni. Sebbene alcuni la considerino un'incompetente, le vere intenzioni di Fierna sono nascoste dietro una cortina di fumo di sfacciataggine.",
+				"Suo padre, Belial, fu un attore chiave nella Resa dei conti e, grazie alle sue azioni, a Fierna fu concessa la leadership primaria di Phlegethos. Nonostante questa apparenza politica, Fierna e Belial governano insieme, spesso incontrandosi in segreto per discutere strategie e piani imminenti. Alcuni degli arcidiavoli più ignoranti vedono la relazione tra Belial e Fierna come qualcosa da sfruttare o da spezzare. In realtà, Fierna rispetta profondamente suo padre e il sentimento è reciproco.",
+				"Posando gli occhi su Fierna, si possono immediatamente vedere le ragioni per cui è così ammirata: è incredibilmente bella. La sua bellezza è un punto di forza, che completa la sua mente strategica e il suo ingegno.",
 				{
 					"type": "entries",
 					"name": "Fierna's Lair",
 					"page": 225,
 					"entries": [
-						"Fierna's lair is a palace, a tower of crystalline stone wreathed in blue flame."
+						"La tana di Fierna è un palazzo, una torre di pietra cristallina avvolta da fiamme blu."
 					]
 				}
 			],
@@ -490,16 +490,16 @@
 			"name": "Glasya",
 			"source": "CoA",
 			"entries": [
-				"Glasya is known by many names: the Dark Prodigy, the Princess of the Nine Hells, and Lord of Malbolge. She maintains control over the erinyes and has a massive following within the downtrodden and the neglected royalty of the other planes. For a long time, she was simply a lesser archdevil, jumping between various courts as she saw fit. It wasn't until the Reckoning, which she helped instigate, that she claimed true power and became ruler of one of the nine layers.",
-				"Asmodeus, her father, and Glasya share much in common\u2014particularly their cunning, ambition, and \"dedication\" to laws. Because of this, despite some of the hatred Glasya has towards her father, the two share a relationship of respect and support.",
-				"Even though she busies herself with many important undertakings to further cement her power, being surrounded by beautiful things is also important to Glasya. Similarly, she detests the ugly, punishing those she sees as disgusting. During her brief relationship with Mammon, she was rarely found in his swampy domain, choosing instead to roam other layers. Almost everything that interacts with Glasya either deeply loves or loathes her. She maintains a charming persona, often even converting spies from other archdevils to her side.",
-				"Perhaps contributing to her obsession with beauty, Glasya herself is considered stunning. Her jet-black hair and copper skin hide her infernal nature, though her large, leathery wings and small horns give it away. Due to her ability to polymorph at will, she can meet various other standards of beauty as well, always maintaining an outward charm\u2014which helps conceal her foul core.",
+				"Glasya è conosciuta con molti nomi: il Prodigio Oscuro, la Principessa dei Nove Inferni e il Signore di Malbolge. Mantiene il controllo sulle Erinni e ha un enorme seguito tra i reali oppressi e trascurati degli altri piani. Per molto tempo, è stata semplicemente un arcidiavolo minore, saltando tra le varie corti come riteneva opportuno. Fu solo dopo la Resa dei conti, che lei contribuì a istigare, che rivendicò il vero potere e divenne sovrana di uno dei nove strati.",
+				"Asmodeus, suo padre e Glasya hanno molto in comune, in particolare l'astuzia, l'ambizione e la \"dedizione\" alle leggi. Per questo motivo, nonostante parte dell'odio che Glasya nutre nei confronti di suo padre, i due condividono un rapporto di rispetto e sostegno.",
+				"Anche se è impegnata in molte imprese importanti per consolidare ulteriormente il suo potere, per Glasya è importante anche essere circondata da cose belle. Allo stesso modo, detesta ciò che è brutto, punendo coloro che considera disgustosi. Durante la sua breve relazione con Mammona, fu trovata raramente nel suo dominio paludoso, scegliendo invece di vagare per altri strati. Quasi tutto ciò che interagisce con Glasya la ama o la detesta profondamente. Mantiene una personalità affascinante, spesso convertendo al suo fianco anche le spie di altri arcidiavoli.",
+				"Forse contribuendo alla sua ossessione per la bellezza, la stessa Glasya è considerata meravigliosa. I suoi capelli nerissimi e la pelle color rame nascondono la sua natura infernale, anche se le sue grandi ali coriacee e le piccole corna la tradiscono. Grazie alla sua capacità di trasformarsi a piacimento, può soddisfare anche vari altri standard di bellezza, mantenendo sempre un fascino esteriore, che aiuta a nascondere il suo nucleo ripugnante.",
 				{
 					"type": "entries",
 					"name": "Glasya's Lair",
 					"page": 227,
 					"entries": [
-						"Glasya built her fortress lair, Ossiea, from the grotesquely enlarged and distorted skull of Malagard. Behind the walls of the skull, there are numerous opulent levels, within which Glasya conducts the business of ruling her realm or indulges her other interests."
+						"Glasya costruì la sua fortezza, Ossiea, dal cranio grottescamente ingrandito e distorto di Malagard. Dietro le pareti del teschio ci sono numerosi livelli opulenti, all'interno dei quali Glasya conduce gli affari di governare il suo regno o assecondare i suoi altri interessi."
 					]
 				}
 			],
@@ -527,7 +527,7 @@
 							"type": "entries",
 							"name": "Greater Tyrant Shadow's Lair",
 							"entries": [
-								"A greater tyrant shadow's lair is always within a few miles of the devil that spawned it, which means that the tyrant shadow itself may often relocate, following the movements of its progenitor, even across the layers of the Nine Hells themselves. Of the lair specifically, the tyrant shadow generally selects a suitably cavernous locale, with deep shadows, perfect for skulking and ambushes. Eroded canyons, abandoned dwellings, and even deep forests, though rare in the Nine Hells, are also suitable locations."
+								"La tana di un'ombra del tiranno maggiore è sempre entro poche miglia dal diavolo che l'ha generata, il che significa che l'ombra del tiranno stessa può spesso spostarsi, seguendo i movimenti del suo progenitore, anche attraverso gli strati dei Nove Inferni stessi. Nello specifico della tana, l'ombra del tiranno sceglie generalmente un luogo adeguatamente cavernoso, con ombre profonde, perfetto per nascondersi e tendere imboscate. Anche canyon erosi, abitazioni abbandonate e persino foreste profonde, sebbene rare nei Nove Inferni, sono luoghi adatti."
 							]
 						}
 					}
@@ -538,13 +538,13 @@
 			"name": "Halog",
 			"source": "CoA",
 			"entries": [
-				"There are few places more inhospitable than the Nine Hells, yet denizens from other places make a home even here. Not only the evil whose philosophy aligns with the devils, but simple creatures whose endurance and appetites permit them to survive the infernal realms. Often this means huge monsters strong enough to fight the native denizens, but some intruders pose a different kind of problem to the devils. Halogs seem small and weak compared to almost everything in the Nine Hells, yet they're becoming a serious nuisance across all the lower planes.",
+				"Ci sono pochi posti più inospitali dei Nove Inferni, eppure abitanti di altri luoghi vivono anche qui. Non solo il male la cui filosofia è in linea con i diavoli, ma creature semplici la cui resistenza e i cui appetiti consentono loro di sopravvivere nei regni inferni. Spesso questo significa mostri enormi abbastanza forti da combattere gli abitanti nativi, ma alcuni intrusi pongono un diverso tipo di problema ai diavoli. Gli alogeni sembrano piccoli e deboli rispetto a quasi tutto nei Nove Inferni, eppure stanno diventando un serio fastidio in tutti i piani inferiori.",
 				{
 					"type": "entries",
 					"name": "Swarming Vermin",
 					"page": 242,
 					"entries": [
-						"Halogs are around the size of a dog, and somewhere between a rat and a dog in appearance. Individually they're unprepossessing, often bearing burns, festering pustules, scars and other marks of a harsh environment that never seems able to quite kill them. They breed with formidable speed. Pairs of halogs raise litters of twenty which can mature in just a handful of days if sufficient food is on hand. And halogs eat anything. Their digestive juices alter in composition to permit them to devour infernal flesh as easily as that of mortal creatures, along with any kind of plant matter and even minerals. Only regions that are nothing but barren rock and dust offer nothing to them."
+						"Gli aloni hanno le dimensioni di un cane e nell'aspetto sono una via di mezzo tra un topo e un cane. Individualmente sono poco attraenti, spesso riportano ustioni, pustole purulente, cicatrici e altri segni di un ambiente ostile che non sembra mai in grado di ucciderli del tutto. Si riproducono con una velocità formidabile. Coppie di alogeni allevano cucciolate di venti che possono maturare in pochi giorni se è disponibile cibo sufficiente. E gli alogeni mangiano qualsiasi cosa. I loro succhi digestivi alterano la composizione per consentire loro di divorare la carne infernale con la stessa facilità di quella delle creature mortali, insieme a qualsiasi tipo di materia vegetale e persino ai minerali. Solo le regioni che non sono altro che brulle rocce e polvere non offrono loro nulla."
 					]
 				},
 				{
@@ -552,7 +552,7 @@
 					"name": "Extraplanar Adaptations",
 					"page": 242,
 					"entries": [
-						"Individually, halogs are weak, but as a species they're fearsomely hardy. Halogs seldom thrive in regions not requiring their unique adaptability, because of greater competition from other creatures. The hostile conditions of the lower planes mean that regular vermin and predators are lacking, leaving them their niche. The secret of the halogs' success is that the harsher their environment, the more they prosper. Whether heat, cold, acid, poison, or even pure necrotic energy\u2014if it doesn't kill them outright then they swiftly adapt to feed off it. Halogs live among the flames of Phlegethos, the icy wastes of Stygia and the swamps of Minauros equally, and no devil city is free of their swarming presence no matter how the Fiends try to exterminate them. They even swim rat-like in the waters of the Styx. The vermin have a powerful defense mechanism. Their saliva and blood adapts swiftly in response to the vulnerabilities of their antagonists so that their bites inflict the worst harm, and anything trying to eat their flesh suffers for it. The remarkable upshot of this is that the halogs of the Nine Hells most often have teeth blazing with radiant divine energy, enough to make short work of unwary minor devils."
+						"Individualmente, gli alogeni sono deboli, ma come specie sono spaventosamente resistenti. Gli Halog raramente prosperano in regioni che non richiedono la loro unica adattabilità, a causa della maggiore concorrenza da parte di altre creature. Le condizioni ostili dei piani inferiori fanno sì che manchino parassiti e predatori regolari, lasciando loro la loro nicchia. Il segreto del successo degli alogeni è che più il loro ambiente è ostile, più prosperano. Che si tratti di calore, freddo, acido, veleno o anche pura energia necrotica, se non li uccide sul colpo si adattano rapidamente a nutrirsene. Gli Halog vivono allo stesso modo tra le fiamme di Phlegethos, le distese ghiacciate di Stygia e le paludi di Minauros, e nessuna città diabolica è esente dalla loro brulicante presenza, non importa come i Demoni cerchino di sterminarli. Nuotano addirittura come topi nelle acque dello Stige. I parassiti hanno un potente meccanismo di difesa. La loro saliva e il loro sangue si adattano rapidamente in risposta alla vulnerabilità dei loro antagonisti, così che i loro morsi infliggono il danno peggiore e chiunque cerchi di mangiare la loro carne ne soffre. Il risultato notevole di ciò è che le aureole dei Nove Inferi molto spesso hanno denti ardenti di radiosa energia divina, abbastanza da rendere facile il lavoro degli incauti diavoli minori."
 					]
 				},
 				{
@@ -560,7 +560,7 @@
 					"name": "Unexpected Allies",
 					"page": 242,
 					"entries": [
-						"Despite their remarkable abilities and most common habitats, halogs are basically just animals. They're smart, but in the same way as a bright dog or a monkey. Druids, rangers, and other guardians of nature luckless enough to find themselves in the Nine Hells have been able to forge bonds with the creatures, and even muster them as impromptu scouts and sentries when traveling in the lower planes."
+						"Nonostante le loro notevoli capacità e gli habitat più comuni, gli alogeni sono fondamentalmente solo animali. Sono intelligenti, ma allo stesso modo di un cane intelligente o di una scimmia. Druidi, ranger e altri guardiani della natura così sfortunati da ritrovarsi nei Nove Inferni sono stati in grado di stringere legami con queste creature e persino di reclutarli come esploratori e sentinelle improvvisati quando viaggiavano nei piani inferiori."
 					]
 				}
 			],
@@ -579,13 +579,13 @@
 			"name": "Hellcat (Bezekira)",
 			"source": "CoA",
 			"entries": [
-				"Possessing a unique ability to detect both the alignment and strength of an individual telepathically, bezekiras, otherwise known as hellcats, search for the most powerful master of lawful evil alignment. Once they've found a master, they're extremely loyal and follow all commands, until a stronger master comes along. When not serving a master, hellcats are fiercely independent, secretive, and intelligent.",
+				"Possedendo l'abilità unica di rilevare telepaticamente sia l'allineamento che la forza di un individuo, i bezekiras, altrimenti noti come gatti infernali, cercano il più potente maestro dell'allineamento legale malvagio. Una volta trovato un maestro, sono estremamente leali e seguono tutti i comandi, finché non arriva un maestro più forte. Quando non servono un padrone, gli Hellcats sono fieramente indipendenti, riservati e intelligenti.",
 				{
 					"type": "entries",
 					"name": "Hard to See",
 					"page": 244,
 					"entries": [
-						"When visible, hellcats take on the appearance of larger cats, including lions and tigers. However, they have an innate invisibility when in any source of light, preventing their corporeal form from appearing anywhere outside of total darkness. They appear wraith-like, with the wispy outline of their body composed of ethereal light and devilish fire. Though they rarely hunt creatures of evil alignment, good creatures are slaughtered on sight, sometimes even against their master's orders. Bezekiras propagate through natural means, though petitioners and devils are sometimes given their form."
+						"Quando visibili, i gatti infernali assumono l'aspetto di felini più grandi, inclusi leoni e tigri. Tuttavia, hanno un'invisibilità innata quando si trovano in qualsiasi fonte di luce, impedendo alla loro forma corporea di apparire ovunque al di fuori dell'oscurità totale. Sembrano spettri, con il contorno esile del loro corpo composto di luce eterea e fuoco diabolico. Anche se raramente cacciano creature di allineamento malvagio, le creature buone vengono massacrate a vista, a volte anche contro gli ordini del loro padrone. I Bezekira si propagano attraverso mezzi naturali, anche se a volte viene data loro forma ai supplicanti e ai diavoli."
 					]
 				}
 			],
@@ -604,8 +604,8 @@
 			"name": "Jenevere",
 			"source": "CoA",
 			"entries": [
-				"It was Jenevere's role to watch the mortal planes for individuals of particular virtue. Forbidden to intervene, she would record their struggles and deeds, to be brought in evidence when their souls migrated to their final reward. After centuries of meek observation, she petitioned for more active divine involvement in the fates of those she watched. She was refused. It was too much for her. Against the strictures of her role, she visited the mortal realms to interfere. No grand drawing of flaming swords, just calm words, a timely reminder of morality at the fulcrum point of someone's moral struggle. In time, the Nine Hells became aware of her influence and set a trap for her. After her capture she passed through various hands. Jenevere isn't fierce and combative, but open, honest, and infinitely merciful. She forgives the Fiends that torment her, knowing it is their nature, and her forgiveness burns them more than they can burn her. Possession of Jenevere became something of a poisoned chalice, so that she fell through their hierarchy, possessed by meaner and meaner masters, until she was acquired by Vaness and Fling of the Eye Market.",
-				"Jenevere's eyes are remarkable things, fashioned by gods to see all the virtues of the mortal realms. Vaness and Fling removed her eyes easily enough, but implanting them into a Fiend, or any of the evil things that come cap in hand to them, proved problematic. The eyes are a gateway to all the virtue and goodness of the planes. To Vaness and Fling's patrons, the experience proved unendurable. Vaness and Fling continue to experiment, but they're beginning to feel that in acquiring Jenevere they've taken on more than they can handle."
+				"Era compito di Jenevere vigilare sui piani mortali alla ricerca di individui di particolare virtù. Vietato intervenire, avrebbe registrato le loro lotte e le loro azioni, per essere portate in evidenza quando le loro anime sarebbero emigrate verso la ricompensa finale. Dopo secoli di mite osservazione, chiese un coinvolgimento divino più attivo nel destino di coloro che osservava. Le è stato rifiutato. Era troppo per lei. Contro le restrizioni del suo ruolo, ha visitato i regni mortali per interferire. Nessun grande disegno di spade fiammeggianti, solo parole calme, un tempestivo promemoria della moralità nel punto centrale della lotta morale di qualcuno. Col tempo, i Nove Inferni si resero conto della sua influenza e le tesero una trappola. Dopo la sua cattura passò attraverso diverse mani. Jenevere non è feroce e combattiva, ma aperta, onesta e infinitamente misericordiosa. Perdona i Demoni che la tormentano, sapendo che è la loro natura, e il suo perdono li brucia più di quanto loro possano bruciare lei. Il possesso di Jenevere divenne una sorta di calice avvelenato, tanto che lei cadde attraverso la loro gerarchia, posseduta da maestri sempre più meschini, finché non fu acquisita da Vaness e Fling of the Eye Market.",
+				"Gli occhi di Jenevere sono cose straordinarie, modellate dagli dei per vedere tutte le virtù dei regni mortali. Vaness e Fling le hanno rimosso gli occhi abbastanza facilmente, ma impiantarli in un Demone, o in una qualsiasi delle cose malvagie che arrivano loro in mano, si è rivelato problematico. Gli occhi sono una porta verso tutta la virtù e la bontà dei piani. Per i sostenitori di Vaness e Fling, l'esperienza si è rivelata insopportabile. Vaness e Fling continuano a sperimentare, ma iniziano a sentire che con l'acquisizione di Jenevere hanno accettato più di quanto possano gestire."
 			],
 			"images": [
 				{
@@ -622,8 +622,8 @@
 			"name": "Koh Tam",
 			"source": "CoA",
 			"entries": [
-				"Koh Tam is the powerful head priest of Kelemvor, god of death and the dead, at the Waterdeep cathedral. Seeking to know all the secrets of the realms of the dead, Koh Tam petitioned his god for permission to explore the Nine Hells. The young priest set forth into the infernal realm where he bore witness to horrors beyond mortal imagination and encountered fiendish creatures whose power greatly outmatched his own. The experience forever changed the priest. Rather than sate his curiosity, the journey only served to further incite Koh Tam's fascination with the infernal. He devoted himself to the study of arcane books concerning the subject and collected an impressive number of infernal relics.",
-				"In the many years since, the head priest has made several expeditions into the Nine Hells and has had many more encounters with fearsome devils. Koh Tam can thus be considered the expert authority on the infernal realm. He has advised many adventurers who seek to venture into the Nine Hells and has also prevented a fair number of foul creatures from fleeing that realm into mortal worlds. Though he remains devoted to the laws of Kelemvor, so much exposure to the infernal has changed Koh Tam in mind and body. The head priest has many habits and mannerisms that might seem strange to other mortals, and he has a unique perspective colored by his experience with the Nine Hells."
+				"Koh Tam è il potente capo sacerdote di Kelemvor, dio della morte e dei morti, nella cattedrale di Waterdeep. Cercando di conoscere tutti i segreti del regno dei morti, Koh Tam chiese al suo dio il permesso di esplorare i Nove Inferni. Il giovane prete si recò nel regno infernale dove fu testimone di orrori oltre l'immaginazione mortale e incontrò creature diaboliche il cui potere superava di gran lunga il suo. L'esperienza cambiò per sempre il sacerdote. Piuttosto che saziare la sua curiosità, il viaggio servì solo ad incitare ulteriormente il fascino di Koh Tam per l'inferno. Si dedicò allo studio dei libri arcani riguardanti l'argomento e raccolse un numero impressionante di reliquie infernali.",
+				"Negli anni successivi, il capo sacerdote ha effettuato diverse spedizioni nei Nove Inferni e ha avuto molti altri incontri con temibili diavoli. Koh Tam può quindi essere considerata l'autorità esperta del regno infernale. Ha consigliato molti avventurieri che cercano di avventurarsi nei Nove Inferni e ha anche impedito a un buon numero di creature malvagie di fuggire da quel regno verso mondi mortali. Sebbene rimanga devoto alle leggi di Kelemvor, la tanta esposizione all'inferno ha cambiato Koh Tam nella mente e nel corpo. Il capo sacerdote ha molte abitudini e manierismi che potrebbero sembrare strani agli altri mortali, e ha una prospettiva unica influenzata dalla sua esperienza con i Nove Inferni."
 			],
 			"images": [
 				{
@@ -648,17 +648,17 @@
 			"name": "Levistus",
 			"source": "CoA",
 			"entries": [
-				"No archdevil is more hated than the Frozen Prince, Levistus, despite his reputation as an honorable and chivalrous archdevil. Rivaling Asmodeus and Dis in their ability to plan and strategize, Levistus is generally considered one of the most plausible archdevils for overthrowing the throne. His ambition was somewhat stifled when he committed an unspeakable betrayal and was imprisoned by Asmodeus deep within the ice of Stygia.",
-				"Even while imprisoned, Levistus continues to plot, choosing to force his rage inward and reflect. Divination and communication magic helps aid this effort, and even from within his icy tomb Levistus manages legions. Levistus is known to make many deals with adventurers, provided they can aid his search for freedom.",
-				"When the Reckoning happened. Asmodeus, noticing that Levistus played no part in the war, chose to reinstate him as ruler of Stygia. While Levistus still desired revenge on his jailor, he recognized the opportunity and pledged temporary allegiance to Asmodeus. Publicly, Levistus completely supports Asmodeus and his plans, though from beneath the ice he continues to plot his revenge.",
-				"Other archdevils describe Levistus as clever, charming, and observant, if not also traitorous. He was often known to engage adversaries in single combat, only calling upon his magic and followers if someone or something intervened. For this reason, he is often worshipped by honorable thieves and charlatans\u2014rogues with a code.",
-				"Levistus is described as an attractive humanoid male, with dark hair, an impeccable goatee, and pale-white skin.",
+				"Nessun arcidiavolo è più odiato del Principe dei Ghiacci, Levistus, nonostante la sua reputazione di arcidiavolo onorevole e cavalleresco. Rivaleggiando con Asmodeus e Dis nella loro capacità di pianificare e creare strategie, Levistus è generalmente considerato uno degli arcidiavoli più plausibili per rovesciare il trono. La sua ambizione fu in qualche modo soffocata quando commise un indicibile tradimento e fu imprigionato da Asmodeus nelle profondità del ghiaccio di Stygia.",
+				"Anche mentre è imprigionato, Levistus continua a complottare, scegliendo di forzare la sua rabbia dentro di sé e riflettere. La divinazione e la magia della comunicazione aiutano a sostenere questo sforzo, e anche dall'interno della sua tomba ghiacciata Levistus gestisce legioni. Levistus è noto per stringere molti patti con gli avventurieri, a condizione che possano aiutarlo nella ricerca della libertà.",
+				"Quando è avvenuta la resa dei conti. Asmodeus, notando che Levistus non aveva alcun ruolo nella guerra, scelse di reintegrarlo come sovrano di Stygia. Mentre Levistus desiderava ancora vendicarsi del suo carceriere, riconobbe l'opportunità e giurò temporanea fedeltà ad Asmodeus. Pubblicamente, Levistus sostiene completamente Asmodeus e i suoi piani, anche se da sotto il ghiaccio continua a tramare la sua vendetta.",
+				"Altri arcidiavoli descrivono Levistus come intelligente, affascinante e attento, se non anche traditore. Era spesso noto per ingaggiare gli avversari in un combattimento singolo, invocando la sua magia e i suoi seguaci solo se qualcuno o qualcosa interveniva. Per questo motivo viene spesso venerato da ladri onorevoli e ciarlatani, ladri dotati di un codice.",
+				"Levistus è descritto come un attraente maschio umanoide, con capelli scuri, un pizzetto impeccabile e pelle bianco pallido.",
 				{
 					"type": "entries",
 					"name": "Levistus' Lair",
 					"page": 229,
 					"entries": [
-						"The ruler of Stygia's lair is within his floating prison. This great glacier moves ponderously over the ages, carrying with it Levistus, and the effects of his lair."
+						"Il sovrano della tana di Stygia è nella sua prigione galleggiante. Questo grande ghiacciaio si muove pesantemente nel corso dei secoli, portando con sé Levistus e gli effetti della sua tana."
 					]
 				}
 			],
@@ -677,13 +677,13 @@
 			"name": "Maelephant Nomad",
 			"source": "CoA",
 			"entries": [
-				"Created with the sole purpose of protection, maelephants are the most loyal of the devils. They eschew personal possessions, dreams, and goals, and find happiness in the completion of their duty. While other devils may view them as simple and unintelligent, many recognize the importance and utility of maelephants. Infernal and common are often spoken languages, but maelephants also maintain their own unique language, which they use exclusively in communication with others of their kind.",
+				"Creati con il solo scopo di protezione, i maelefanti sono i più leali tra i diavoli. Evitano i beni personali, i sogni e gli obiettivi e trovano la felicità nel completamento del loro dovere. Sebbene gli altri diavoli possano considerarli semplici e poco intelligenti, molti riconoscono l'importanza e l'utilità dei malefanti. L'infernale e il comune sono spesso lingue parlate, ma anche i malefanti mantengono un proprio linguaggio unico, che usano esclusivamente per comunicare con gli altri della loro specie.",
 				{
 					"type": "entries",
 					"name": "Elephantine Warriors",
 					"page": 245,
 					"entries": [
-						"As their name would suggest, maelephants share many physical features with elephants. They stand on two legs, but have an elephant-like head and legs. Their trunk usually ends in a sharp spike, and their hands and feet are both clawed. When threatened, maelephants emit a cloud of toxins that cause brain damage and memory loss."
+						"Come suggerisce il nome, i maelefanti condividono molte caratteristiche fisiche con gli elefanti. Stanno su due gambe, ma hanno la testa e le gambe simili a quelle di un elefante. Il loro tronco di solito termina con una punta affilata e le loro mani e i loro piedi sono entrambi artigliati. Quando minacciati, i malefanti emettono una nuvola di tossine che causano danni al cervello e perdita di memoria."
 					]
 				},
 				{
@@ -691,7 +691,7 @@
 					"name": "Driven by Duty",
 					"page": 245,
 					"entries": [
-						"Despite them being lower-ranked devils, their position as trustworthy guardians makes other lower devils respect maelephants. When not under active duty or protecting something, a maelephant might aimlessly wander the layers searching for a new charge. Some of these nomads wander many years before finally ending their search."
+						"Nonostante siano diavoli di rango inferiore, la loro posizione di guardiani affidabili fa sì che gli altri diavoli di livello inferiore rispettino i malefanti. Quando non è in servizio attivo o non protegge qualcosa, un maelefante potrebbe vagare senza meta tra gli strati alla ricerca di una nuova carica. Alcuni di questi nomadi vagano per molti anni prima di porre fine alla loro ricerca."
 					]
 				}
 			],
@@ -710,17 +710,17 @@
 			"name": "Mammon",
 			"source": "CoA",
 			"entries": [
-				"Perhaps the richest being in all the realms, there is nothing that Mammon loves more than wealth. Where other devils obsess over souls and power, Mammon is perfectly content to continually increase his material possessions. Interestingly, he is one of the only archdevils willing to make deals with mortals over strictly monetary terms. Whether he maintains his end of the deal, however, is a completely different story. Anyone that interacts with Mammon immediately recognizes his two-faced approach\u2014the devil will say or do anything, if he thinks it will benefit him in the end.",
-				"Aside from hunting for coin, Mammon also enjoys hunting for sport. If anger strikes him (and it does so often), he will frequently summon up a steed and hounds to partake in a trophy hunt.",
-				"Anything he has designated as prey rarely escapes his fervor, though he quickly grows bored once his quarry is caught.",
-				"Scheming and betrayal are like breathing for Mammon, and conversely so is bootlicking. Some argue that his punishment after the Reckoning was severely reduced due to his shameless groveling before Asmodeus. In fact, he was the first of all archdevils to surrender during the coup, even selling out some of his co-conspirators.",
-				"Despite all his faults, one thing Mammon has mastered is the soul trade. Even Asmodeus recognizes that no archdevil can manage and distribute souls as well as Mammon. Perhaps his expertise comes from the massive profit that can be made from managing souls, or perhaps he wanted to find somewhere to belong\u2014nobody knows for sure.",
+				"Forse l'essere più ricco di tutti i regni, non c'è niente che Mammona ami più della ricchezza. Laddove altri diavoli sono ossessionati dalle anime e dal potere, Mammona è perfettamente contento di aumentare continuamente i suoi possedimenti materiali. È interessante notare che è uno dei pochi arcidiavoli disposti a stringere accordi con i mortali in termini strettamente monetari. Se manterrà la sua parte dell’accordo, tuttavia, è una storia completamente diversa. Chiunque interagisca con Mammona riconosce immediatamente il suo approccio bifronte: il diavolo dirà o farà qualsiasi cosa, se pensa che alla fine gli porterà beneficio.",
+				"Oltre alla caccia alle monete, a Mammona piace anche la caccia sportiva. Se la rabbia lo colpisce (e lo fa spesso), evocherà spesso un destriero e dei segugi per partecipare a una caccia al trofeo.",
+				"Qualunque cosa abbia designato come preda raramente sfugge al suo fervore, anche se si annoia rapidamente una volta catturata la sua preda.",
+				"Intrigare e tradire sono come respirare per Mammona, e viceversa lo è anche il leccapiedi. Alcuni sostengono che la sua punizione dopo la resa dei conti sia stata gravemente ridotta a causa del suo spudorato umiliarsi davanti ad Asmodeus. In effetti, fu il primo di tutti gli arcidiavoli ad arrendersi durante il colpo di stato, svendendo anche alcuni dei suoi cospiratori.",
+				"Nonostante tutti i suoi difetti, una cosa che Mammona ha imparato è il commercio delle anime. Persino Asmodeus riconosce che nessun arcidiavolo può gestire e distribuire le anime come Mammona. Forse la sua esperienza deriva dall'enorme profitto che si può ottenere dalla gestione delle anime, o forse voleva trovare un posto a cui appartenere, nessuno lo sa per certo.",
 				{
 					"type": "entries",
 					"name": "Mammon's Lair",
 					"page": 231,
 					"entries": [
-						"Mammon's lair is in a tomb-like palace, within Minauros, and like most structures in the city is in a perpetual state of sinking into the swamp."
+						"La tana di Mammona si trova in un palazzo simile a una tomba, all'interno di Minauros, e come la maggior parte delle strutture della città è in un perpetuo stato di sprofondamento nella palude."
 					]
 				}
 			],
@@ -739,15 +739,15 @@
 			"name": "Mephistopheles",
 			"source": "CoA",
 			"entries": [
-				"Mephistopheles is the lord of Cania, the eighth level of the Nine Hells, and the most formidable archdevil next to Asmodeus himself. He is famed as Hell's most powerful spellcaster and the wielder of a power known as Hellfire.",
-				"An ancient entity, rivaling Asmodeus in age, Mephistopheles has been responsible for many schemes to try and unseat the Lord of the Nine Hells. One of his most infamous was an alliance between himself, Dispater, Mammon, and Geryon. They conspired to take power from the other archdevils, Baalzebul, Zariel, Belial, and Moloch. With this increased power, Mephistopheles believed he could challenge Asmodeus himself. But he was betrayed by Geryon, who had secretly sided with Asmodeus. Despite the blatancy of his rebellion, Mephistopheles was the archdevil that suffered the least: not cursed like Mammon or Baalzebul; not cast down like Belial, Moloch or Geryon. This has led many to believe that there is some ancient secret to the relationship between Asmodeus and Mephistopheles, though what it could be is a mystery none have discovered.",
-				"As the foremost spellcaster of the Nine Hells, Mephistopheles often resorts to magic when forced to defend himself. But his greatest power comes from the ability to wield Hellfire itself. Created by tapping into the profane essence of the Nine Hells, Hellfire is unimaginably, unbearably hot. Mephistopheles can also shape Hellfire however he wishes, making it his most potent weapon.",
+				"Mefistofele è il signore di Cania, l'ottavo livello dei Nove Inferi, e l'arcidiavolo più formidabile accanto allo stesso Asmodeus. È famoso come l'incantatore più potente dell'Inferno e detentore di un potere noto come Fuoco Infernale.",
+				"Un'entità antica, rivale di Asmodeus per età, Mefistofele è stato responsabile di molti piani per cercare di spodestare il Signore dei Nove Inferni. Una delle sue più famigerate fu un'alleanza tra lui, Dispater, Mammon e Geryon. Cospirarono per prendere il potere dagli altri arcidiavoli, Baalzebul, Zariel, Belial e Moloch. Con questo maggiore potere, Mefistofele credeva di poter sfidare lo stesso Asmodeus. Ma fu tradito da Gerione, che si era segretamente schierato con Asmodeus. Nonostante la sfacciataggine della sua ribellione, Mefistofele fu l'arcidiavolo che soffrì meno: non maledetto come Mammona o Baalzebul; non abbattuto come Belial, Moloch o Gerione. Ciò ha portato molti a credere che ci sia qualche antico segreto nella relazione tra Asmodeo e Mefistofele, anche se quello che potrebbe essere è un mistero che nessuno ha scoperto.",
+				"Essendo il principale incantatore dei Nove Inferni, Mefistofele ricorre spesso alla magia quando è costretto a difendersi. Ma il suo potere più grande deriva dalla capacità di brandire lo stesso Hellfire. Creato attingendo all'essenza profana dei Nove Inferni, Hellfire è inimmaginabilmente, insopportabilmente caldo. Mefistofele può anche modellare Hellfire come desidera, rendendolo la sua arma più potente.",
 				{
 					"type": "entries",
 					"name": "Mephistopheles' Lair",
 					"page": 232,
 					"entries": [
-						"This archdevil's lair is the Citadel of Mephistar, located within the glacier of Nargus. This an elegantly carved ice palace and is home to Mephistopheles' private manor, along with living accommodations for numerous other devils."
+						"La tana di questo arcidiavolo è la Cittadella di Mefistar, situata all'interno del ghiacciaio di Nargus. Si tratta di un palazzo di ghiaccio elegantemente scolpito e ospita il maniero privato di Mefistofele, insieme ad alloggi per numerosi altri diavoli."
 					]
 				}
 			],
@@ -766,13 +766,13 @@
 			"name": "Miasmorne",
 			"source": "CoA",
 			"entries": [
-				"Avernus is a bleak wasteland of jagged mountains and metal-studded hills, but the true ugliness to a devil's eyes is in the scars of war where demonic corpses, arms, and armor pile, infecting the plane with their chaotic ichor and breeding fresh monsters to trouble the order of the Nine Hells. The miasmorne were bred to clean up after Abyssal invasion: great lumbering Monstrosities able to devour demonic flesh, armor, weapons, and ruined war engines and return the plane to its pristine starkness. The monsters prospered beyond anyone's reckoning and now drag their bellies across many layers of the Nine Hells.",
+				"L'Averno è una desolata terra desolata di montagne frastagliate e colline tempestate di metallo, ma la vera bruttezza agli occhi di un diavolo è nelle cicatrici della guerra dove cadaveri, armi e armature demoniache si accumulano, infettando il piano con il loro icore caotico e generando nuovi mostri per turbare l'ordine dei Nove Inferni. I miasmorne furono allevati per fare piazza pulita dopo l'invasione abissale: grandi mostruosità goffe in grado di divorare carne demoniaca, armature, armi e macchine da guerra in rovina e riportare il piano alla sua originaria crudezza. I mostri prosperarono oltre ogni previsione e ora trascinano il loro ventre attraverso molti strati dei Nove Inferni.",
 				{
 					"type": "entries",
 					"name": "Voracious Detritovores",
 					"page": 246,
 					"entries": [
-						"Miasmorne resemble bulky, wingless dragons, their broad heads flanked with great fans that they spread when challenged. While they will gorge themselves on dead flesh\u2014or create fresh corpses with their impressive teeth and jaws\u2014their preferred meal is mineral. Where their populations have grown, they seek out concentrations of metal. Iron and steel are their staple fare, but they will take gold, silver, adamantine or mithral if available. As infernal cities and fortresses are often constructed of iron this leads to literal holes in the Fiends' security."
+						"I Miasmorne assomigliano a grossi draghi senza ali, con le loro teste larghe fiancheggiate da grandi ventagli che aprono quando vengono sfidati. Anche se si abbufferanno di carne morta o creeranno cadaveri freschi con i loro denti e mascelle impressionanti, il loro pasto preferito è il minerale. Dove le loro popolazioni sono cresciute, cercano concentrazioni di metallo. Ferro e acciaio sono il loro cibo base, ma accettano oro, argento, adamantio o mithral se disponibili. Poiché le città e le fortezze infernali sono spesso costruite in ferro, ciò porta a veri e propri buchi nella sicurezza dei Demoni."
 					]
 				},
 				{
@@ -780,7 +780,7 @@
 					"name": "Armored in Rust",
 					"page": 246,
 					"entries": [
-						"As well as sustaining the monsters, the metals they devour go towards fortifying their hides, bones, and jaws. Miasmorne are formidably heavy and strong, proof against mundane blades and as resistant to heat as most denizens of the Nine Hells. Not naturally aggressive, the dull-witted brutes are hard to dissuade once they decide to feed. Miasmorne saliva corrodes metal efficiently, and they frequently pause mid-fight to slobber down the brittle flakes of whatever they've just destroyed. Under threat, their head fans bristle with thousands of extruded metal spines which they launch in a cloud of flechettes at foes, scouring the air both with sharp-edged missiles and a great spray of their rusting spittle. When injured, those that have devoured magic weapons or defenses manifest those same effects in their hide and claws, expending their internal store of swallowed arcana to drive away those who disturb their feasting."
+						"Oltre a sostenere i mostri, i metalli che divorano contribuiscono a fortificare la loro pelle, le loro ossa e le loro mascelle. I Miasmorne sono straordinariamente pesanti e forti, resistenti alle lame comuni e resistenti al calore quanto la maggior parte degli abitanti dei Nove Inferni. Non aggressivi per natura, questi bruti ottusi sono difficili da dissuadere una volta che decidono di nutrirsi. La saliva dei Miasmorne corrode il metallo in modo efficiente, e spesso si fermano durante il combattimento per sbavare le fragili scaglie di qualunque cosa abbiano appena distrutto. Quando minacciati, i loro ventagli sulla testa sono pieni di migliaia di aculei metallici estrusi che lanciano in una nuvola di flechettes contro i nemici, scrutando l'aria sia con missili affilati che con grandi spruzzi della loro saliva arrugginita. Quando vengono feriti, coloro che hanno divorato armi o difese magiche manifestano gli stessi effetti nella pelle e negli artigli, consumando la riserva interna di arcani inghiottiti per scacciare coloro che disturbano il loro banchetto."
 					]
 				},
 				{
@@ -788,7 +788,7 @@
 					"name": "Pests and War-beasts",
 					"page": 246,
 					"entries": [
-						"Miasmorne are a serious problem in some regions, chewing at the walls of castles and cities, swallowing whole armories, and tearing the armaments off the hosts of the Nine Hells. Mortal intruders who can lure the creatures with meals of enchanted or high-quality metal can even use them as siege engines to get past infernal walls. In other parts of the Nine Hells, the creatures are kept as semi-domesticated guards or waste disposal monsters. In Avernus, where they were first bred, Zariel maintains a crack corps of handlers who goad the beasts into wallowing through hosts of invading demons, chewing on Abyssal mail, and eating the prized magic blades of demon princes."
+						"I Miasmorne rappresentano un problema serio in alcune regioni, rosicchiando le mura di castelli e città, inghiottendo intere armerie e strappando gli armamenti dalle schiere dei Nove Inferni. Gli intrusi mortali che possono attirare le creature con pasti di metallo incantato o di alta qualità possono persino usarli come macchine d'assedio per superare le mura infernali. In altre parti dei Nove Inferni, le creature sono tenute come guardie semi-addomesticate o mostri smaltitori di rifiuti. Nell'Avernus, dove furono allevati per la prima volta, Zariel mantiene un corpo di addestratori scelti che incitano le bestie a sguazzare tra schiere di demoni invasori, masticando cotte abissali e mangiando le preziose lame magiche dei principi demoni."
 					]
 				}
 			],
@@ -807,13 +807,13 @@
 			"name": "Oneirovore",
 			"source": "CoA",
 			"entries": [
-				"The ancestors of these Fiends were servants of the divine and Fey which devoured the nightmares of mortals, bringing restful sleep. Imported into the Nine Hells and cultivated by devils, dream eaters, as they're also known, became a powerful weapon in subtly corrupting mortal minds. They can be found grazing wherever the toxic foliage of the Nine Hells grows, often guarded by low-status devils and hell hounds. When brought to weak points between the planes, their spirits seep into the mortal world. There they browse the dreaming minds of mortals. Often, they devour the hope and wonder that might inspire people to improve their lives.",
+				"Gli antenati di questi Demoni erano servi del divino e delle Fate che divoravano gli incubi dei mortali, portando un sonno ristoratore. Importati nei Nove Inferni e coltivati ​​dai diavoli, i mangiatori di sogni, come sono anche conosciuti, divennero un'arma potente per corrompere abilmente le menti mortali. Possono essere trovati a pascolare ovunque cresca il fogliame tossico dei Nove Inferni, spesso sorvegliati da diavoli di basso rango e segugi infernali. Quando vengono portati nei punti deboli tra i piani, i loro spiriti penetrano nel mondo mortale. Lì esplorano le menti sognanti dei mortali. Spesso divorano la speranza e la meraviglia che potrebbero ispirare le persone a migliorare la propria vita.",
 				{
 					"type": "entries",
 					"name": "Placid Herds",
 					"page": 248,
 					"entries": [
-						"Despite their fearsome-looking appearance, dream eaters are oddly passive for a denizen of the Nine Hells. When attacked, their first instinct is to lumber away at their sluggish pace, sending out high, mournful cries that attract every devil and infernal monster within earshot. Their angry herdsmen usually arrive in short order to see off the threat."
+						"Nonostante il loro aspetto spaventoso, i mangiatori di sogni sono stranamente passivi per un abitante dei Nove Inferni. Quando vengono attaccati, il loro primo istinto è quello di allontanarsi lentamente, emettendo grida acute e lamentose che attirano ogni diavolo e mostro infernale a portata d'orecchio. I loro pastori arrabbiati di solito arrivano in breve tempo per respingere la minaccia."
 					]
 				},
 				{
@@ -821,7 +821,7 @@
 					"name": "Storehouses of Phantasms",
 					"page": 248,
 					"entries": [
-						"Forced to fight, dream eaters' most potent defense is a release of their stored phantasmagoria. This can affect attackers in several ways. A release of nightmares taints the way that non-devils view the world around them, transforming everything\u2014including allies\u2014into hideous sources of fear and threat, whilst the dream eaters themselves fade into the infernal landscape. On the other hand, a release of hope and wonder leaves mortal attackers in a dazed and euphoric state, suddenly taken by wild fancies to accomplish impossible and reckless feats that see them charging off across the hellish landscape, the fight forgotten. The same expulsion of positive dream imagery has a powerful caustic effect against infernal creatures, affecting devils much as a skunk's blast against regular predators."
+						"Costretti a combattere, la difesa più potente dei mangiatori di sogni è il rilascio della fantasmagoria immagazzinata. Ciò può influenzare gli aggressori in diversi modi. Il rilascio di incubi contamina il modo in cui i non-diavoli vedono il mondo che li circonda, trasformando tutto, compresi gli alleati, in orribili fonti di paura e minaccia, mentre gli stessi mangiatori di sogni svaniscono nel paesaggio infernale. D'altra parte, una liberazione di speranza e meraviglia lascia gli aggressori mortali in uno stato stordito ed euforico, improvvisamente presi da fantasie selvagge a compiere imprese impossibili e spericolate che li vedono sfrecciare attraverso il paesaggio infernale, la lotta dimenticata. La stessa espulsione di immagini oniriche positive ha un potente effetto caustico contro le creature infernali, colpendo i diavoli proprio come l'esplosione di una puzzola contro i normali predatori."
 					]
 				}
 			],
@@ -840,13 +840,13 @@
 			"name": "Pain Devil (Excruciarch)",
 			"source": "CoA",
 			"entries": [
-				"Another type of devil devoted to torture, excruciarchs are also competent fighters and mercenaries. Due to their reputation as torturers of devils, they're often looked down upon by other devils, occasionally even beaten or killed, and as a result they frequently travel together. Their cruelty is known across the Nine Hells, and their revelry in pain gives them their name. Another defining feature of pain devils is their greed: they serve no particular master, their loyalty must be purchased.",
+				"Un altro tipo di diavolo dedito alla tortura, gli excruciarchi sono anche combattenti e mercenari competenti. A causa della loro reputazione di torturatori di diavoli, sono spesso disprezzati dagli altri diavoli, a volte addirittura picchiati o uccisi, e di conseguenza viaggiano spesso insieme. La loro crudeltà è conosciuta in tutti i Nove Inferni e la loro gioia di soffrire dà loro il nome. Un'altra caratteristica distintiva dei diavoli del dolore è la loro avidità: non servono alcun padrone in particolare, la loro lealtà deve essere acquistata.",
 				{
 					"type": "entries",
 					"name": "Masked Devils",
 					"page": 249,
 					"entries": [
-						"Excruciarchs appear almost humanoid in size and shape. Their skin is usually pale shades of white or red, and hair doesn't grow anywhere on their body. To conceal their identity and lend themselves some form of protection, almost all pain devils wear masks made from various types of leather, often adorned with spikes, horns, or ridges."
+						"Gli Excruciarchs appaiono quasi umanoidi per dimensioni e forma. La loro pelle è solitamente di tonalità pallide di bianco o rosso e i peli non crescono in nessuna parte del loro corpo. Per nascondere la propria identità e prestarsi qualche forma di protezione, quasi tutti i diavoli del dolore indossano maschere realizzate con vari tipi di cuoio, spesso ornate con spuntoni, corna o creste."
 					]
 				},
 				{
@@ -854,7 +854,7 @@
 					"name": "Devoted to Pain",
 					"page": 249,
 					"entries": [
-						"When an excruciarch enters battle, they activate a unique ability to inflict pain upon their adversaries. Excruciarchs thrive on even their own pain and they almost always fight to the death."
+						"Quando un excruciarca entra in battaglia, attiva un'abilità unica per infliggere dolore ai suoi avversari. Gli Excruciarchs prosperano anche grazie al proprio dolore e quasi sempre combattono fino alla morte."
 					]
 				}
 			],
@@ -873,8 +873,8 @@
 			"name": "Ramius",
 			"source": "CoA",
 			"entries": [
-				"Ramius Dangremond is the commander of the Hellriders of Elturel. He never wanted the position, but because of the many deaths within the ranks of the order, he had to step up. His friend and fellow Hellrider, Barachiel, was the main reason he was able to grow into a capable commander. The loss of his friend saddens Ramius, and the news of his imprisonment within the Nine Hells gnaws at his soul.",
-				"Ramius is a natural horseman and a gifted athlete. The soldiers he leads often say that there isn't anything that Ramius can't mount or ride. He's ridden horses, mammoths, and machines into battle. Loyalty, honor, and duty are virtues that Ramius upholds. He fears nothing other than losing those he cares for."
+				"Ramius Dangremond è il comandante degli Hellriders di Elturel. Non ha mai voluto quella posizione, ma a causa delle numerose morti tra i ranghi dell'ordine, ha dovuto farsi avanti. Il suo amico e compagno Hellrider, Barachiel, fu la ragione principale per cui riuscì a diventare un abile comandante. La perdita del suo amico rattrista Ramius e la notizia della sua prigionia nei Nove Inferi gli rode l'anima.",
+				"Ramius è un cavaliere naturale e un atleta dotato. I soldati che guida spesso dicono che non c'è nulla su cui Ramius non possa montare o cavalcare. Ha cavalcato cavalli, mammut e macchine in battaglia. Lealtà, onore e dovere sono virtù che Ramius sostiene. Non teme altro che perdere coloro a cui tiene."
 			],
 			"images": [
 				{
@@ -905,12 +905,12 @@
 			"name": "Sarevok",
 			"source": "CoA",
 			"entries": [
-				"Sarevok Anchev is a powerful Deathstalker. He is also one of the Bhaalspawn, the mortal offspring of the dead god Bhaal. Sarevok attempted to reclaim the divine seat of the Lord of Murder vacated by his immortal father's demise, but his plans were thwarted when he was slain by his half-brother, Abdel Adrian, who rejected his heritage and fought against his Bhaalspawn siblings.",
-				"Sarevok's spirit was sent to the Abyss as punishment. There he eventually crossed paths with Abdel a second time when his noble-hearted brother ventured into the lower realms on a dangerous quest to stop another Bhaalspawn named Melissan. Sarevok agreed to help Abdel kill Melissan, on the condition that Abdel helped him escape the eternal torments of the Abyss.",
-				"Abdel agreed, and Sarevok was reborn into the mortal world. After his rebirth, Sarevok was true to his word, and the two brothers fought side by side against their half-sister. Ultimately Melissan was defeated, and Sarevok was granted a second chance at life.",
-				"With his prodigious strength, his legendary skill in battle, and the Sword of Chaos\u2014a life-stealing, enchanted blade\u2014Sarevok became a famous (and feared) mercenary. Yet his many accomplishments brought him no joy. He felt no thrill at victory in battle, no delight in the routing of his enemies. The power he accumulated was bitter as ashes on his tongue, and he became a man haunted by his former life. The realization that no earthly achievements could ever compare to what he once almost had\u2014immortality and godhood\u2014left him broken and empty.",
-				"Sarevok plunged into a deep despair. To numb his pain, he indulged in every vice imaginable, squandering his wealth and health on alcohol, drugs, and fleeting comforts. While his divine heritage slowed his aging, it did not stop it entirely, and after decades of self-abuse he was eventually reduced to an old man begging in the streets of Baldur's Gate.",
-				"This was how his father\u2014Bhaal, the reborn god of murder\u2014found him. Bhaal recognized his own divine spark in the pathetic old man, and he sensed Sarevok still had potential. Bhaal recruited him to become the high priest of his fledgling clergy, giving Sarevok new purpose... and another chance to become an agent of death and destruction."
+				"Sarevok Anchev è un potente Deathstalker. È anche uno dei Bhaalspawn, la progenie mortale del dio morto Bhaal. Sarevok tentò di reclamare la sede divina del Signore dell'Omicidio lasciata libera dalla morte del suo padre immortale, ma i suoi piani furono vanificati quando fu ucciso dal suo fratellastro, Abdel Adrian, che rifiutò la sua eredità e combatté contro i suoi fratelli Bhaalspawn.",
+				"Lo spirito di Sarevok fu mandato nell'Abisso come punizione. Lì alla fine incontrò Abdel una seconda volta quando suo fratello dal cuore nobile si avventurò nei regni inferiori in una pericolosa missione per fermare un'altra prole di Bhaal di nome Melissan. Sarevok accettò di aiutare Abdel a uccidere Melissan, a condizione che Abdel lo aiutasse a sfuggire ai tormenti eterni dell'Abisso.",
+				"Abdel acconsentì e Sarevok rinacque nel mondo mortale. Dopo la sua rinascita, Sarevok mantenne la parola data e i due fratelli combatterono fianco a fianco contro la loro sorellastra. Alla fine Melissan fu sconfitto e a Sarevok fu concessa una seconda possibilità di vita.",
+				"Con la sua forza prodigiosa, la sua leggendaria abilità in battaglia e la Spada del Caos, una lama incantata che ruba la vita, Sarevok divenne un famoso (e temuto) mercenario. Eppure i suoi numerosi successi non gli hanno portato gioia. Non provava alcun brivido per la vittoria in battaglia, nessun piacere per la sconfitta dei suoi nemici. Il potere che aveva accumulato era amaro come cenere sulla sua lingua, e divenne un uomo perseguitato dalla sua vita precedente. La consapevolezza che nessun risultato terreno avrebbe mai potuto essere paragonato a ciò che una volta aveva quasi ottenuto - l'immortalità e la divinità - lo lasciò distrutto e vuoto.",
+				"Sarevok cadde in una profonda disperazione. Per alleviare il suo dolore, si abbandonò a ogni vizio immaginabile, sperperando la sua ricchezza e la sua salute in alcol, droghe e comodità fugaci. Anche se la sua eredità divina rallentò il suo invecchiamento, non lo fermò del tutto, e dopo decenni di abusi su se stesso alla fine fu ridotto a un vecchio che mendicava per le strade di Baldur's Gate.",
+				"Fu così che suo padre, Bhaal, il rinato dio dell'omicidio, lo trovò. Bhaal riconobbe la propria scintilla divina nel patetico vecchio e sentì che Sarevok aveva ancora del potenziale. Bhaal lo reclutò per diventare il sommo sacerdote del suo nascente clero, dando a Sarevok un nuovo scopo... e un'altra possibilità di diventare un agente di morte e distruzione."
 			],
 			"images": [
 				{
@@ -927,13 +927,13 @@
 			"name": "Shredwing",
 			"source": "CoA",
 			"entries": [
-				"Tearing through the skies of the Nine Hells, shredwings aren't only a constant menace to mortal and fiendish travelers, but a reminder of the cruelties of one of Hell's worst overlords. Though Malagard was cast down from the throne of Malbolge and her bloated body shattered, her wickedness remains in the spite and cruelty of her creations.",
+				"Attraversando i cieli dei Nove Inferni, gli shredwings non sono solo una minaccia costante per i viaggiatori mortali e diabolici, ma ricordano le crudeltà di uno dei peggiori signori dell'Inferno. Sebbene Malagard sia stata cacciata dal trono di Malbolge e il suo corpo gonfio sia andato in frantumi, la sua malvagità rimane nonostante il dispetto e la crudeltà delle sue creazioni.",
 				{
 					"type": "entries",
 					"name": "Born from Bitterness",
 					"page": 250,
 					"entries": [
-						"At first glance, shredwings appear to be bats or pterodactyls, with a spined body between two great veined wings terminating in a jagged head. They seem to have an ever-open beak, but upon closer scrutiny this shows to be a pair of vicious spikes. Although they seem like horrific flying creatures, the actual truth of their origins makes them even more terrible. Malagard was earthbound and one of the many things she was furiously envious of was the ability of others to fly. One of her pastimes was to tear the wings from Fiends who had displeased her and give them a vile and unnatural life of their own, discarding the mutilated devils and shaping their amputated parts into something new and ghastly. Shredwings are the results of her hobby, now feral and endemic to many parts of the Nine Hells."
+						"A prima vista, gli straccioni sembrano pipistrelli o pterodattili, con un corpo dotato di spine tra due grandi ali venate che terminano con una testa frastagliata. Sembra che abbiano un becco sempre aperto, ma a un esame più attento si scopre che si tratta di un paio di punte feroci. Sebbene sembrino orribili creature volanti, la verità sulle loro origini li rende ancora più terribili. Malagard era legata alla terra e una delle tante cose di cui era furiosamente invidiosa era la capacità degli altri di volare. Uno dei suoi passatempi era strappare le ali ai Demoni che l'avevano dispiaciuta e dare loro una vita propria, vile e innaturale, scartando i diavoli mutilati e modellando le loro parti amputate in qualcosa di nuovo e orribile. Gli Shredwings sono il risultato del suo hobby, ora selvaggio ed endemico in molte parti dei Nove Inferni."
 					]
 				},
 				{
@@ -941,7 +941,7 @@
 					"name": "Hideous Appetites",
 					"page": 250,
 					"entries": [
-						"Shredwings are driven by a desire to inflict pain, still possessed by the malice of their original creator. They patrol the skies of the Nine Hells and descend in shrieking flocks on anything weak enough to torment. When they have winged creatures at their mercy, they mob their victim in the air until they can tear away their target's wings. They carry the trophies to their high roosts, where the tattered vanes are transformed into a new shredwing under the caustic ministrations of the 'parents'. For wingless prey, they have other practices. Whilst they harry with claws and beak, they look out for a chance to latch onto the backs of their prey. Driving the spikes of their heads between the shoulders of their victims they enact a terrible merging, becoming a set of wings attached to the creature and carrying them off. They slowly absorb the life-force of their victim, delighting in their pain and fear. Over time they take over their prey's limbs and body, returning to attack any leftover companions, delighting in the distress their puppeteering causes. Most often they leave the head until last, enjoying the screams and pleas of the luckless creature they've usurped."
+						"Gli Shredwings sono guidati dal desiderio di infliggere dolore, ancora posseduti dalla malizia del loro creatore originale. Pattugliano i cieli dei Nove Inferni e scendono in stormi urlanti su qualunque cosa sia abbastanza debole da tormentare. Quando hanno creature alate alla loro mercé, assaltano la vittima in aria finché non riescono a strappare le ali del bersaglio. Portano i trofei sui loro alti posatoi, dove le pale logore vengono trasformate in un nuovo trituratore sotto le cure caustiche dei \"genitori\". Per le prede prive di ali, hanno altre pratiche. Mentre attaccano con artigli e becco, cercano la possibilità di agganciarsi alla schiena della preda. Conficcando gli aculei della loro testa tra le spalle delle loro vittime, mettono in atto una terribile fusione, diventando un paio di ali attaccate alla creatura e portandole via. Assorbono lentamente la forza vitale della loro vittima, deliziandosi del suo dolore e della sua paura. Con il passare del tempo prendono il controllo degli arti e del corpo della preda, tornando ad attaccare i compagni rimasti, godendosi l'angoscia causata dal loro burattinaio. Molto spesso lasciano la testa per ultima, godendosi le urla e le suppliche della sfortunata creatura che hanno usurpato."
 					]
 				},
 				{
@@ -949,7 +949,7 @@
 					"name": "Raised to the Whip",
 					"page": 250,
 					"entries": [
-						"There is little bad in the Nine Hells that devils can't make worse. Shredwings are unruly and vicious creatures but determined devils can trap them and break them into a form of domestication. Particularly ingenious hunting Fiends, aided by the souls of evil rangers, have trained packs of shredwings to do their bidding, tracking prey across the hostile plains of the Nine Hells and attacking on command. The creatures remain mutinous at best, and woe betide any handler who shows weakness or lets prey get the better of them."
+						"C'è poco di male nei Nove Inferni che i diavoli non possano peggiorare. Gli Shredwings sono creature indisciplinate e feroci, ma i diavoli determinati possono intrappolarli e addomesticarli. I Demoni cacciatori particolarmente ingegnosi, aiutati dalle anime dei malvagi ranger, hanno addestrato branchi di trituratori a eseguire i loro ordini, inseguendo le prede attraverso le pianure ostili dei Nove Inferni e attaccando a comando. Nella migliore delle ipotesi, le creature rimangono ribelle, e guai a qualsiasi addestratore che mostra debolezza o lascia che la preda abbia la meglio su di loro."
 					]
 				}
 			],
@@ -968,13 +968,13 @@
 			"name": "Styx Dragon",
 			"source": "CoA",
 			"entries": [
-				"One of the only draconic beings that makes its home in the Nine Hells, the Styx dragon is an aquatic creature that lives within the River Styx. The waters of the Styx have no effect on its mental faculties or memories, and their breath weapon replicates the effects of the Styx. Their diet consists mostly of devils foolish enough to wander close to the banks of the Styx, though they prefer mortals and corpses over Fiends. Occasional Styx dragons have been spotted in non-infernal planes, possibly by traveling the Styx to their destination.",
+				"Uno dei pochi esseri draconici che vive nei Nove Inferni, il drago Stige è una creatura acquatica che vive nel fiume Stige. Le acque dello Stige non hanno alcun effetto sulle sue facoltà mentali o sui suoi ricordi, e il loro soffio replica gli effetti dello Stige. La loro dieta consiste principalmente di diavoli abbastanza sciocchi da vagare vicino alle rive dello Stige, sebbene preferiscano mortali e cadaveri ai Demoni. Occasionali draghi dello Stige sono stati avvistati su piani non infernali, forse viaggiando attraverso lo Stige verso la loro destinazione.",
 				{
 					"type": "entries",
 					"name": "Unusual Dragons",
 					"page": 252,
 					"entries": [
-						"Unlike other Dragons, the scales of the Styx dragon have no effect on their capabilities, and range from darker hues all the way up to chromatic scales, though they always appear muddied. They have no wings and very small limbs, relying primarily on their tails for mobility and combat. Their serpentine body lends itself to muddy nests along the banks of the Styx and quick underwater travel. Good captains know where Styx dragon clutches are along the river, and steer their boats specifically to avoid the creatures."
+						"A differenza degli altri draghi, le scaglie del drago Stige non hanno alcun effetto sulle loro capacità e spaziano dalle tonalità più scure fino alle scale cromatiche, sebbene appaiano sempre confuse. Non hanno ali e arti molto piccoli, fanno affidamento principalmente sulla coda per la mobilità e il combattimento. Il loro corpo serpentino si presta a nidi fangosi lungo le rive dello Stige e a rapidi viaggi sott'acqua. I bravi capitani sanno dove si trovano le grinfie dei draghi Stige lungo il fiume e guidano le loro barche appositamente per evitare le creature."
 					]
 				}
 			],
@@ -993,9 +993,9 @@
 			"name": "Tiax",
 			"source": "CoA",
 			"entries": [
-				"A long-serving cleric of Cyric, the god of lies, Tiax is absolutely certain of many things\u2014most of them entirely untrue. After twenty years in Cyric's clergy, Tiax's mind has been twisted by the god's many tricks. Still, even so flavored by fantasy and deception, the favor of a god often proves a very powerful boon indeed. Whatever dire trouble Tiax finds himself in, even if it be the flames of the Nine Hells, his god will devise means of delivering him to safety\u2014though often just by the skin of his teeth.",
-				"All of these near misses and improbable escapes have only solidified Tiax's delusions of grandeur. Though he is well aware that it is Cyric's divine interference which saves him, Tiax tells everyone he encounters that he is actually a powerful sorcerer and thus hides his piety to Cyric and the divine power he has been granted in return.",
-				"As one might expect, Tiax's foremost attributes are exaggeration and deceit. Unfortunately, for the unsuspecting, Tiax's unthreatening and absurd demeanor can grant the illusion of harmlessness. His many lies appear outlandish and easily dismissed, and his erratic behavior borders on complete buffoonery. Some might even find his colorful, chaotic personality to be charming. Certainly, Koh Tam seems to tolerate him for one reason or another. But make no mistake, Tiax is dangerous. The wise should be wary."
+				"Chierico di lunga data di Cyric, il dio della menzogna, Tiax è assolutamente certo di molte cose, la maggior parte delle quali completamente false. Dopo vent'anni trascorsi nel clero di Cyric, la mente di Tiax è stata distorta dai numerosi trucchi del dio. Tuttavia, anche se intriso di fantasia e inganno, il favore di un dio spesso si rivela un vantaggio davvero molto potente. Qualunque sia il terribile problema in cui Tiax si trova, anche se si tratta delle fiamme dei Nove Inferni, il suo dio escogiterà i mezzi per metterlo in salvo, anche se spesso solo per il rotto della cuffia.",
+				"Tutti questi incidenti sfiorati e fughe improbabili non hanno fatto altro che consolidare le manie di grandezza di Tiax. Sebbene sia ben consapevole che è l'interferenza divina di Cyric a salvarlo, Tiax dice a tutti quelli che incontra che in realtà è un potente stregone e quindi nasconde la sua pietà verso Cyric e il potere divino che gli è stato concesso in cambio.",
+				"Come ci si potrebbe aspettare, gli attributi principali di Tiax sono l'esagerazione e l'inganno. Sfortunatamente, per gli ignari, il comportamento assurdo e minaccioso di Tiax può garantire l'illusione dell'innocuità. Le sue numerose bugie sembrano stravaganti e facilmente respinte, e il suo comportamento irregolare rasenta la completa buffoneria. Alcuni potrebbero persino trovare affascinante la sua personalità colorata e caotica. Certamente Koh Tam sembra tollerarlo per un motivo o per l'altro. Ma attenzione, Tiax è pericoloso. I saggi dovrebbero essere cauti."
 			],
 			"images": [
 				{
@@ -1023,17 +1023,17 @@
 				{
 					"type": "quote",
 					"entries": [
-						"The nine hells can only dream of the perfect oppression which mortals bring upon each other."
+						"I nove inferni possono solo sognare la perfetta oppressione che i mortali si procurano a vicenda."
 					],
 					"by": "Unknown"
 				},
-				"Alongside devils and monsters, the Nine Hells have given birth to more nebulous threats. Even raw negative emotion can be personified in the darkest reaches of the lower planes. Congealing into a shape that knows only hunger and the need to hunt. It stalks those filled with fears and insecurities that they refuse to acknowledge.",
+				"Oltre a diavoli e mostri, i Nove Inferi hanno dato vita a minacce più nebulose. Anche le emozioni negative possono essere personificate negli angoli più oscuri dei piani inferiori. Congelarsi in una forma che conosce solo la fame e il bisogno di cacciare. Perseguita coloro che sono pieni di paure e insicurezze che si rifiutano di riconoscere.",
 				{
 					"type": "entries",
 					"name": "Bred from Denial",
 					"page": 254,
 					"entries": [
-						"Tyrant shadows are a threat unique to the Nine Hells. Mortals in the Nine Hells dwell in agony and terror by definition. However, the life of a devil is seldom happier. The infernal hierarchy is harsh and those above constantly abuse the Fiends beneath them whilst fearing usurpation at every turn. In contrast to the unruly hosts of the Abyss, devils are never permitted to give vent to the bitterness that is their lot, bound to a show of discipline and obedience. This festering misery, given no other outlet, manifests as an independent creature that breaks from the devil who generated it to pursue its own malevolent life. Tyrant shadows most often appear as huge-mawed stalking reptiles made from writhing shadows, unless they take on specific forms to exploit the fears of their prey."
+						"Le ombre dei tiranni sono una minaccia unica per i Nove Inferni. I mortali nei Nove Inferni vivono nell'agonia e nel terrore per definizione. Tuttavia, la vita di un diavolo raramente è più felice. La gerarchia infernale è dura e coloro che stanno sopra abusano costantemente dei Demoni sotto di loro, temendo ogni volta un'usurpazione. A differenza delle schiere ribelli dell'Abisso, ai diavoli non è mai permesso di dare sfogo all'amarezza che è la loro sorte, vincolati a una dimostrazione di disciplina e obbedienza. Questa miseria purulenta, senza altro sbocco, si manifesta come una creatura indipendente che si stacca dal diavolo che l'ha generata per perseguire la propria vita malevola. Le ombre dei tiranni appaiono spesso come rettili inseguitori dalle enormi fauci, formati da ombre contorte, a meno che non assumano forme specifiche per sfruttare le paure delle loro prede."
 					]
 				},
 				{
@@ -1041,7 +1041,7 @@
 					"name": "Shifting Stalkers",
 					"page": 254,
 					"entries": [
-						"Tyrant shadows are strongly attracted to the kind of suppressed negative emotions that gave rise to them. The minds of strong mortals valiantly enduring the horrors of the Nine Hells without complaint draw them from far away, and they hunger both for the flesh and the fear such prey generate. A truly satisfying feast for the tyrants must be prepared properly. They stalk their targets over long hours, telepathically sensing what is most feared and shifting their forms to provide glimpses and hints of terror wherever their target looks. Mortals who break easily, giving swift vent to their fear or flying into berserk rages, are of little interest to them. A fear that slowly erodes through its host's iron discipline is savored like a well-aged wine. For the same reason, they gleefully prey on middling and lesser devils whose lives are a constant battle between bitterness and discipline. Those few mortals who are so confident in themselves as to know no fear at all\u2014the most focused of monks or blessed of paladins perhaps\u2014are effectively invisible to tyrant shadows."
+						"Le ombre tiranniche sono fortemente attratte dal tipo di emozioni negative represse che le hanno originate. Le menti dei forti mortali che sopportano valorosamente gli orrori dei Nove Inferni senza lamentarsi li attirano da molto lontano, ed essi sono affamati sia della carne che della paura che tali prede generano. Un banchetto davvero soddisfacente per i tiranni deve essere preparato adeguatamente. Inseguono i loro bersagli per lunghe ore, percependo telepaticamente ciò che è più temuto e cambiando forma per fornire scorci e accenni di terrore ovunque guardi il loro bersaglio. I mortali che si spezzano facilmente, dando sfogo alla loro paura o entrando in furie furiose, sono di scarso interesse per loro. Una paura che lentamente si sgretola attraverso la ferrea disciplina del suo ospite si assapora come un vino ben invecchiato. Per lo stesso motivo, predano allegramente diavoli mediocri e minori, le cui vite sono una battaglia costante tra amarezza e disciplina. Quei pochi mortali che sono così sicuri di sé da non conoscere alcuna paura (forse i monaci più concentrati o i paladini più benedetti) sono effettivamente invisibili alle ombre dei tiranni."
 					]
 				},
 				{
@@ -1049,7 +1049,7 @@
 					"name": "Personal Nemeses",
 					"page": 254,
 					"entries": [
-						"Every tyrant shadow was spawned from the resentful core of a particular devil before taking up its own existence, and the presence of \"their\" devil continues to sustain the tyrant. As the devil rises in the internal hierarchy, so the tyrant grows stronger. As the tyrant hunts and feasts, so the devil's inner bitterness grows, driving them to greater acts of evil, and thus leading to their advancement. Much as they might deny it, even the greatest of devils are consumed with negative emotions. Archdevils command whole planes yet hate and envy the gods. Somewhere perhaps even Asmodeus has a stalking shadow feeding his malice even as his great status empowers it."
+						"Ogni ombra del tiranno è stata generata dal nucleo risentito di un particolare diavolo prima di assumere la propria esistenza, e la presenza del \"loro\" diavolo continua a sostenere il tiranno. Man mano che il diavolo sale nella gerarchia interna, così il tiranno diventa più forte. Mentre il tiranno caccia e festeggia, così l'amarezza interiore del diavolo cresce, spingendolo a compiere atti malvagi ancora più grandi e portando così al suo avanzamento. Per quanto possano negarlo, anche il più grande dei diavoli è consumato da emozioni negative. Gli arcidiavoli comandano interi piani ma odiano e invidiano gli dei. Da qualche parte forse anche Asmodeus ha un'ombra in agguato che alimenta la sua malizia anche se il suo grande status gli conferisce potere."
 					]
 				}
 			],
@@ -1068,13 +1068,13 @@
 			"name": "Vorvolaka",
 			"source": "CoA",
 			"entries": [
-				"There are always mortals who believe they can outwit the powers of the Nine Hells. One strategy is for a powerful evil creature to pledge its soul to the inferno, then seek the eternal unlife of a vampire to cheat the devils of their prize. The devils, of course, have seen it all before. Specialist teams hunt down the offenders and haul them to the Nine Hells where they're reshaped into vorvolakas, forever hungry for mortal blood in an underworld where such a commodity is vanishingly rare.",
+				"Ci sono sempre mortali che credono di poter sconfiggere i poteri dei Nove Inferni. Una strategia prevede che una potente creatura malvagia consegni la sua anima all'inferno, quindi cerchi la non vita eterna di un vampiro per ingannare i diavoli del loro premio. I diavoli, ovviamente, hanno già visto tutto. Squadre di specialisti danno la caccia ai delinquenti e li trascinano nei Nove Inferni dove vengono rimodellati in vorvolaka, perennemente affamati di sangue mortale in un mondo sotterraneo dove tale merce è incredibilmente rara.",
 				{
 					"type": "entries",
 					"name": "The Ever-Hungry",
 					"page": 258,
 					"entries": [
-						"A mockery of their original form, vorvolakas appear like vast tusked bats with a humanoid twist to their forms. Some faint semblance of their original features can just be discerned in their new bestial visage, just as an echo of their memories and personality persists in their fractured minds. They're almost never still or silent, shrieking out their gnawing hunger in their keening voices, jittering and clawing at one another, or circling like vultures across the brazen skies of the Nine Hells. Even as normal vampires are driven by their appetites, transformation into a vorvolaka increases that appetite a hundredfold, but the blood of mortals remains the only meal that sates them for even a moment. Seeing haughty vampires turned into ravenous monsters by their constant unfulfillable hunger is a torment that devils find highly amusing."
+						"Una parodia della loro forma originale, i vorvolaka appaiono come enormi pipistrelli dalle zanne con una svolta umanoide nelle loro forme. Una vaga parvenza delle loro caratteristiche originali può essere intravista nel loro nuovo volto bestiale, proprio come un'eco dei loro ricordi e della loro personalità persiste nelle loro menti fratturate. Non sono quasi mai fermi o silenziosi, urlando la loro fame lancinante con voci lamentose, tremolando e artigliandosi l'un l'altro, o volteggiando come avvoltoi attraverso i cieli di bronzo dei Nove Inferni. Anche se i vampiri normali sono guidati dai loro appetiti, la trasformazione in un vorvolaka aumenta quell'appetito centuplicato, ma il sangue dei mortali rimane l'unico pasto che li sazia anche solo per un momento. Vedere i vampiri altezzosi trasformarsi in mostri famelici a causa della loro costante fame insaziabile è un tormento che i diavoli trovano molto divertente."
 					]
 				},
 				{
@@ -1082,7 +1082,7 @@
 					"name": "Hell's Sentries",
 					"page": 258,
 					"entries": [
-						"Many powerful devils\u2014especially in the upper layers of Avernus and Dis\u2014keep dovecotes of starving vorvolakas, tolerating their noise and squabbling in exchange for the chief service they provide. The creatures can scent the blood of mortals from miles away, flying into a frenzy at the first hint of a living being. Sometimes the monsters are kept caged, simply serving as a warning system so devils know that mortals are about. More often they're released into the skies to track down the intruders, with infernal huntsmen following in their wake to pick up the pieces."
+						"Molti potenti diavoli, specialmente negli strati superiori dell'Averno e del Dis, tengono colombaie di vorvolaka affamate, tollerandone il rumore e litigando in cambio del principale servizio che forniscono. Le creature possono sentire l'odore del sangue dei mortali a chilometri di distanza, e impazziscono al primo accenno di essere vivente. A volte i mostri vengono tenuti in gabbia, servendo semplicemente come sistema di allarme in modo che i diavoli sappiano della presenza di mortali. Più spesso vengono rilasciati nei cieli per scovare gli intrusi, seguiti da cacciatori infernali che li seguono per raccogliere i pezzi."
 					]
 				},
 				{
@@ -1090,7 +1090,7 @@
 					"name": "Frenzied Hunters",
 					"page": 258,
 					"entries": [
-						"When they find living prey the vorvolakas descend in great squalling flocks, desperate to rend the mortals open and glut themselves on blood. They use their hooked claws and tusks to rip away armor and open up their prey, attacking with utter disregard for their own safety. Their flesh regenerates from most wounds\u2014or else they would tear one another to pieces in their agony\u2014and their hunger is such that only those of strongest faith can hold them back with prayer and holy symbol. Their screaming cries rend the ears of listeners, not only physically painful but imprinting the creatures' deep misery on all who hear. So evident is the despair of the creatures, their horror at their own tormented state, that those who have fought them and survived find themselves more moved to pity than any other emotion."
+						"Quando trovano una preda vivente, i vorvolaka scendono in grandi stormi urlanti, nel disperato tentativo di squarciare i mortali e saziarsi di sangue. Usano gli artigli e le zanne uncinati per strappare via l'armatura e aprire la preda, attaccando con totale disprezzo per la propria sicurezza. La loro carne si rigenera dalla maggior parte delle ferite - altrimenti si farebbero a pezzi a vicenda nella loro agonia - e la loro fame è tale che solo quelli con una fede più forte possono trattenerli con la preghiera e il simbolo sacro. Le loro grida urlanti lacerano le orecchie degli ascoltatori, non solo dolorose fisicamente ma imprimendo la profonda miseria delle creature in tutti coloro che ascoltano. Così evidente è la disperazione delle creature, il loro orrore per il proprio stato tormentato, che coloro che le hanno combattute e sono sopravvissuti si ritrovano più mossi alla pietà che a qualsiasi altra emozione."
 					]
 				}
 			],
@@ -1109,13 +1109,13 @@
 			"name": "War Devil",
 			"source": "CoA",
 			"entries": [
-				"Created through the sacrifice of other devils, both alive and dead, war devils vary in size and shape, but not personality. They crave combat and are highly aggressive, often commanding legions of lesser devils in wars. While they greatly enjoy bullying weaker creatures and exerting their dominance, they're highly submissive towards more powerful creatures and higher ranked devils.",
+				"Creati attraverso il sacrificio di altri diavoli, sia vivi che morti, i diavoli della guerra variano in dimensioni e forma, ma non nella personalità. Amano il combattimento e sono molto aggressivi, spesso comandando legioni di diavoli minori nelle guerre. Sebbene amino molto fare il prepotente con le creature più deboli ed esercitare il loro dominio, sono molto sottomessi verso le creature più potenti e i diavoli di rango più alto.",
 				{
 					"type": "entries",
 					"name": "Battle Commanders",
 					"page": 260,
 					"entries": [
-						"War devils are also extremely loyal to their creators, following practically any order given to them. When not taking orders, war devils are clever enough to command and make decisions on their own, making them extremely talented generals."
+						"I diavoli della guerra sono anche estremamente leali verso i loro creatori, seguendo praticamente ogni ordine che viene loro dato. Quando non prendono ordini, i diavoli della guerra sono abbastanza intelligenti da comandare e prendere decisioni per conto proprio, il che li rende generali estremamente talentuosi."
 					]
 				},
 				{
@@ -1123,7 +1123,7 @@
 					"name": "Mighty Devils",
 					"page": 260,
 					"entries": [
-						"Because of their construction, the appearance of war devils varies. That said, there are a few features that are common among most of their kind. Almost all war devils have thick, leathery wings, as well as massive, curved horns and sharpened teeth. They're also usually massive in size, having been created from multiple other devils, with the larger ones usually having higher-ranked positions. Though they prefer to use polearms of all kinds, war devils are also fully capable unarmed."
+						"A causa della loro costruzione, l'aspetto dei diavoli da guerra varia. Detto questo, ci sono alcune caratteristiche comuni alla maggior parte della loro specie. Quasi tutti i diavoli da guerra hanno ali spesse e coriacee, così come enormi corna ricurve e denti affilati. Di solito sono anche di dimensioni enormi, essendo stati creati da molti altri diavoli, con quelli più grandi che di solito hanno posizioni di rango più alto. Sebbene preferiscano usare armi ad asta di ogni tipo, i diavoli da guerra sono pienamente abili anche senza armi."
 					]
 				}
 			],
@@ -1156,14 +1156,14 @@
 			"name": "Zariel",
 			"source": "CoA",
 			"entries": [
-				"Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulership of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.",
-				"Zariel's rise came at the expense of Bel, her pit fiend predecessor. Zariel and Bel hate each other. To keep Bel busy and out of her sight, Zariel tasks him with forging weapons, armor, and gruesome demon-slaying machines.",
+				"Zariel, un tempo potente angelo incaricato di osservare le sorti della Guerra del Sangue, cedette all'influenza corruttrice dei Nove Inferni e cadde in disgrazia. Asmodeus ammirava la passione di Zariel per la guerra e le offrì il governo dell'Averno. Ha accettato la sua offerta ed è stata trasformata da Asmodeus in un arcidiavolo.",
+				"L'ascesa di Zariel è avvenuta a scapito di Bel, il suo predecessore, il diavolo della fossa. Zariel e Bel si odiano. Per tenere Bel occupato e lontano dalla sua vista, Zariel gli affida il compito di forgiare armi, armature e raccapriccianti macchine ammazza-demoni.",
 				{
 					"type": "entries",
 					"name": "Zariel's Lair",
 					"page": 235,
 					"entries": [
-						"Zariel makes her lair in a basalt citadel that rises up in Avernus. The stronghold, covering five square miles, is surrounded by walls reinforced with high turrets."
+						"Zariel fa la sua tana in una cittadella di basalto che sorge nell'Averno. La roccaforte, che copre cinque miglia quadrate, è circondata da mura rinforzate con alte torrette."
 					]
 				}
 			]
@@ -1172,10 +1172,10 @@
 			"name": "Zythan",
 			"source": "CoA",
 			"entries": [
-				"Zythan, like many other Halruaans, spent his early years studying the arcane arts. His talent in Divination magic made him particularly useful to the Conclave, and they quickly sought him out. Under their tutelage, his skill flourished, and he became a powerful mage. Those that know him personally recount his matter-of-fact personality, his green hair, and his third eye that seems to open when he performs magic. He rarely speaks of himself, however, choosing instead to focus his attention on the future.",
-				"When he first received an official position within the Conclave, Zythan wanted to prove himself. He spent countless hours peering into the future and examining potential outcomes. One fateful night, he just barely caught sight of a forbidden ritual being prepared\u2014a ritual that could cost the lives of many Halruaans. Because of his sight, the Conclave was able to intervene in time, and he was quickly promoted and showered with praise.",
-				"For the past few months, Zythan has felt like something was off: at first, he suspected another ritual within Halruaa. He requisitioned the help of the other diviners, as well as a powerful Crystal Ball, and together they were able to piece together a vision. The dark lord of the Nine Hells, Asmodeus, will unleash a great evil very soon. Though the Conclave often stays out of non-Halruaan affairs, they had no choice but to act. It is for this reason that the adventurers were called to Halruaa.",
-				"Zythan's skill in arcane magic, while particularly focused on Divination, extends to every school. While he lacks proficiency in martial combat, he can wield both offensive and defensive magic effectively. Outside of his magical talent, he is also known to be highly intelligent, though his social skills could use work. Much of his time is spent viewing alternate futures and preparing for potential dangers, leaving little for himself. He often goes without meals until he starts to feel weak, and if he had friends, they might be concerned about how much time he spends working."
+				"Zythan, come molti altri Halruaan, trascorse i suoi primi anni studiando le arti arcane. Il suo talento nella magia della Divinazione lo rese particolarmente utile al Conclave, che lo cercò rapidamente. Sotto la loro tutela, la sua abilità fiorì e divenne un potente mago. Quelli che lo conoscono personalmente raccontano la sua personalità concreta, i suoi capelli verdi e il suo terzo occhio che sembra aprirsi quando esegue la magia. Raramente parla però di sé, scegliendo invece di concentrare la sua attenzione sul futuro.",
+				"Quando ricevette per la prima volta una posizione ufficiale all'interno del Conclave, Zythan voleva mettersi alla prova. Ha trascorso innumerevoli ore a scrutare il futuro ed esaminare i potenziali risultati. Una notte fatidica, intravide a malapena la preparazione di un rituale proibito, un rituale che potrebbe costare la vita a molti Halruaan. Grazie alla sua vista, il Conclave poté intervenire in tempo, e fu subito promosso e inondato di elogi.",
+				"Negli ultimi mesi, Zythan ha avuto la sensazione che qualcosa non andasse: all'inizio sospettava un altro rituale all'interno di Halruaa. Ha richiesto l'aiuto degli altri divinatori, nonché una potente Sfera di cristallo, e insieme sono stati in grado di mettere insieme una visione. L'oscuro signore dei Nove Inferni, Asmodeus, scatenerà molto presto un grande male. Sebbene il Conclave spesso si tenga fuori dagli affari non-Halruaan, non aveva altra scelta se non quella di agire. È per questo motivo che gli avventurieri furono chiamati ad Halruaa.",
+				"L'abilità di Zythan nella magia arcana, sebbene particolarmente focalizzata sulla Divinazione, si estende a ogni scuola. Sebbene non abbia competenza nel combattimento marziale, può esercitare efficacemente sia la magia offensiva che quella difensiva. Al di fuori del suo talento magico, è anche noto per essere molto intelligente, sebbene le sue abilità sociali potrebbero essere utili. Trascorre gran parte del suo tempo osservando futuri alternativi e preparandosi a potenziali pericoli, lasciando poco per se stesso. Spesso salta i pasti finché non inizia a sentirsi debole e, se avesse degli amici, potrebbero essere preoccupati per quanto tempo passa a lavorare."
 			],
 			"images": [
 				{

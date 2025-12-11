@@ -19,9 +19,9 @@
 					"name": "Dragons in Dungeons",
 					"id": "001",
 					"entries": [
-						"Nothing is more quintessentially Dungeons & Dragons than gathering a group of heroes to face a mighty dragon in a mysterious dungeon. These classic elements link players across time and space, from the first adventurers who forayed into the gloom more than 50 years ago to players beginning their first adventure now.",
-						"{@i Dragon Delves} is a celebration of this shared tradition. Each of the ten adventures in this book features a dragon in a lair. Designed for characters of levels 1 through 12, the adventures offer a range of challenges, from defeating evil dragons to working with good dragons, as well as navigating more complicated moral dilemmas. The dungeons where the dragons make their lairs range from cavern complexes to ruined cities and more.",
-						"Where there are dragons in dungeons, there's always adventure!"
+						"Non c'è niente di più tipico di Dungeons & Dragons che riunire un gruppo di eroi per affrontare un potente drago in un misterioso dungeon. Questi elementi classici collegano i giocatori attraverso il tempo e lo spazio, dai primi avventurieri che fecero incursioni nell'oscurità più di 50 anni fa ai giocatori che iniziano ora la loro prima avventura.",
+						"{@i Dragon Delves} è una celebrazione di questa tradizione condivisa. Ognuna delle dieci avventure di questo libro presenta un drago in una tana. Progettate per personaggi di livello da 1 a 12, le avventure offrono una serie di sfide, dallo sconfiggere i draghi malvagi alla collaborazione con i draghi buoni, oltre ad affrontare dilemmi morali più complicati. I sotterranei in cui i draghi costruiscono le loro tane vanno da complessi di caverne a città in rovina e altro ancora.",
+						"Dove ci sono draghi nei sotterranei, c'è sempre avventura!"
 					]
 				},
 				{
@@ -29,14 +29,14 @@
 					"name": "Using This Book",
 					"id": "002",
 					"entries": [
-						"The adventures in an anthology such as {@i Dragon Delves} are versatile resources that can fill a variety of needs at your gaming table: as one-shot adventures, as \"filler episodes\" in an ongoing campaign, or as a series that forms a campaign, bringing characters from level 1 to a climactic conclusion at level 12.",
-						"These adventures are designed to require minimal preparation (see {@area Running the Adventures|009|x} later in this introduction).",
+						"Le avventure in un'antologia come {@i Dragon Delves} sono risorse versatili che possono soddisfare una varietà di esigenze sul tuo tavolo da gioco: come avventure one-shot, come \"episodi di riempimento\" in una campagna in corso o come serie che forma una campagna, portando i personaggi dal livello 1 a una conclusione culminante al livello 12.",
+						"Queste avventure sono progettate per richiedere una preparazione minima (vedi {@area Running the Adventures|009|x} più avanti in questa introduzione).",
 						{
 							"type": "entries",
 							"name": "One-Shot Adventure",
 							"id": "003",
 							"entries": [
-								"Maybe you're normally a player in an ongoing campaign, but you want to try your hand at being the Dungeon Master. Maybe you're trying to pull a new group together, and you want to see how all the players get along before you start a whole campaign. Maybe your regular DM is sick or has a scheduling conflict, but everyone else is ready to play. Or maybe your group needs a break or a diversion from the ongoing campaign. In any of these cases, you can pick an adventure from this book and run it."
+								"Forse normalmente sei un giocatore in una campagna in corso, ma vuoi provare a diventare il Dungeon Master. Forse stai cercando di mettere insieme un nuovo gruppo e vuoi vedere come vanno d'accordo tutti i giocatori prima di iniziare un'intera campagna. Forse il tuo DM abituale è malato o ha un conflitto di programmazione, ma tutti gli altri sono pronti a giocare. O forse il tuo gruppo ha bisogno di una pausa o di un diversivo dalla campagna in corso. In ognuno di questi casi, puoi scegliere un'avventura da questo libro ed eseguirla."
 							]
 						},
 						{
@@ -44,7 +44,7 @@
 							"name": "In an Ongoing Campaign",
 							"id": "004",
 							"entries": [
-								"Maybe your players' characters know what they have to do to foil the evil boss's plans, but they're not quite high enough level to accomplish their goal. Or they've just hit a significant milestone in the campaign, and you want to give them a change of pace before they get immersed in the next act of the unfolding drama. Or they're traveling halfway around the world, and you're looking for something to keep the journey interesting\u2014a little adventure along the way. Or you're not prepared for the next adventure, and you need a diversion! In any of these cases, you can pick an adventure from this book to serve as a \"filler\" episode or side quest in the ongoing campaign.",
+								"Forse i personaggi dei tuoi giocatori sanno cosa devono fare per sventare i piani del boss malvagio, ma non sono di livello abbastanza alto per raggiungere il loro obiettivo. Oppure hanno appena raggiunto un traguardo significativo nella campagna e vuoi dare loro un cambio di ritmo prima che si immergano nell'atto successivo del dramma in corso. Oppure stanno viaggiando dall'altra parte del mondo e tu stai cercando qualcosa per rendere il viaggio interessante: una piccola avventura lungo il percorso. Oppure non sei preparato per la prossima avventura e hai bisogno di un diversivo! In ognuno di questi casi, puoi scegliere un'avventura da questo libro da utilizzare come episodio \"riempitivo\" o missione secondaria nella campagna in corso.",
 								{
 									"type": "image",
 									"href": {
@@ -54,8 +54,8 @@
 									"width": 850,
 									"height": 2286
 								},
-								"When the characters are the appropriate level for the adventure you wish to run, simply narrate how the characters end up in the adventure's locale. Each adventure's beginning includes a simple setting description, such as \"a village with a nearby forest.\" Beyond these basic details, feel free to alter the adventure's location to match your campaign.",
-								"But if you do have time to prepare, you can incorporate the adventure you're running into the themes and threats of your campaign. You can alter the names of people and places in the adventure to fit better into your world, link the adventure villains to organizations and events that are important in your campaign, and plant clues to the themes of your campaign in the dragon's treasure hoard."
+								"Quando i personaggi sono al livello appropriato per l'avventura che desideri svolgere, racconta semplicemente come i personaggi finiscono nel luogo dell'avventura. L'inizio di ogni avventura include una semplice descrizione dell'ambientazione, come \"un villaggio con una foresta vicina\". Oltre a questi dettagli di base, sentiti libero di modificare il luogo dell'avventura per adattarlo alla tua campagna.",
+								"Ma se hai tempo per prepararti, puoi incorporare l'avventura che stai affrontando nei temi e nelle minacce della tua campagna. Puoi modificare i nomi delle persone e dei luoghi dell'avventura per adattarli meglio al tuo mondo, collegare i cattivi dell'avventura a organizzazioni ed eventi importanti nella tua campagna e piantare indizi sui temi della tua campagna nel tesoro del drago."
 							]
 						}
 					]
@@ -65,15 +65,15 @@
 					"name": "Creating a Campaign",
 					"id": "005",
 					"entries": [
-						"These adventures can be strung together as a complete dragon-themed campaign. Simply guide your players through the adventures in the order presented in this book and award story-based level advancement at each adventure's end, so their characters are the appropriate level for the next challenge they'll face. (No level advancement is necessary before the final adventure.) You can also use one of the following narrative frameworks to connect the adventures to one another.",
+						"Queste avventure possono essere messe insieme come una campagna completa a tema drago. Guida semplicemente i tuoi giocatori attraverso le avventure nell'ordine presentato in questo libro e premia l'avanzamento di livello basato sulla storia alla fine di ogni avventura, in modo che i loro personaggi raggiungano il livello appropriato per la prossima sfida che dovranno affrontare. (Non è necessario alcun avanzamento di livello prima dell'avventura finale.) Puoi anche utilizzare una delle seguenti strutture narrative per collegare le avventure tra loro.",
 						{
 							"type": "entries",
 							"name": "Option 1: Mysterious Patron",
 							"id": "006",
 							"entries": [
-								"Have a friendly patron whose true identity is somewhat mysterious befriend the adventurers early in their careers and send them on each adventure in sequence. The patron might be a charismatic young monk, a kindly teacher, a diminutive scamp, or a scatter-brained elder, and might or might not be accompanied by seven golden canaries or dazzling yellow butterflies, which are actually ancient gold dragons in disguise\u2014the companions of the dragon god Bahamut, which is the patron's true identity.",
-								"Perhaps foreseeing that they are destined to become mighty heroes, Bahamut takes the adventurers under his metaphorical wing and sends them on adventures to deal with draconic concerns, great and small, across the world. The patron might feign surprise when an adventure that doesn't at first seem to involve a dragon (such as \"{@adventure The Will of Orcus|DrDe-TWoO|1},\" chapter 3) turns out to revolve around one, but of course that's exactly the reason Bahamut sent the characters to investigate.",
-								"You can use each adventure as written, with the characters' patron steering them in the general direction of the adventure hook without spoiling any surprises in the adventure ahead. Alternatively, the patron could let the characters in on the secret early on, telling them that dragons will be a particular focus of their adventures and altering some of the adventure hooks along the way."
+								"Chiedi a un mecenate amichevole la cui vera identità è alquanto misteriosa di fare amicizia con gli avventurieri all'inizio della loro carriera e di inviarli in ogni avventura in sequenza. Il patrono potrebbe essere un giovane monaco carismatico, un insegnante gentile, un minuscolo furfante o un anziano sventato, e potrebbe o meno essere accompagnato da sette canarini dorati o abbaglianti farfalle gialle, che in realtà sono antichi draghi d'oro sotto mentite spoglie: i compagni del dio drago Bahamut, che è la vera identità del patrono.",
+								"Forse prevedendo che sarebbero destinati a diventare potenti eroi, Bahamut prende gli avventurieri sotto la sua metaforica ala protettrice e li manda all'avventura per affrontare problemi draconiani, grandi e piccoli, in tutto il mondo. Il cliente potrebbe fingere sorpresa quando un'avventura che a prima vista non sembra coinvolgere un drago (come \"{@adventure The Will of Orcus|DrDe-TWoO|1}\" capitolo 3) si scopre che ruota attorno a uno di essi, ma ovviamente questo è esattamente il motivo per cui Bahamut ha inviato i personaggi a indagare.",
+								"Puoi utilizzare ogni avventura così come è scritta, con il patrono dei personaggi che li guida nella direzione generale dell'avventura senza rovinare alcuna sorpresa nell'avventura successiva. In alternativa, il mecenate potrebbe far conoscere il segreto ai personaggi fin dall'inizio, dicendo loro che i draghi saranno il fulcro particolare delle loro avventure e alterando alcuni degli agganci dell'avventura lungo il percorso."
 							]
 						},
 						{
@@ -81,8 +81,8 @@
 							"name": "Option 2: Brazen Egg",
 							"id": "007",
 							"entries": [
-								"Begin the campaign with the introductory encounter of chapter 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1},\" ending with Eldemere entrusting the Brazen Egg to the characters. Eldemere's instructions are different, though: she explains that the egg must be \"steeped\" in the hoards of ten dragons, one of each chromatic and metallic kind, to activate its power. She also suggests that the egg will lead the characters toward suitable hoards. In fact, any character who sleeps within 15 feet of the egg has vivid dreams leading them toward the start of the next adventure.",
-								"To draw power from a dragon's hoard, the egg must spend 8 hours in the midst of the treasure, covered with coins and surrounded by other items. However, as soon as the empowered egg is brought within Anthradusk's hoard chamber ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} in chapter 10), it reaches its full potential and begins to crack open, as described in that adventure."
+								"Inizia la campagna con l'incontro introduttivo del capitolo 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1}\", che termina con Eldemere che affida l'Uovo di Bronzo ai personaggi. Le istruzioni di Eldemere sono diverse, però: spiega che l'uovo deve essere \"immerso\" nelle orde di dieci draghi, uno per ogni tipo cromatico e metallico, per attivare il suo potere. Suggerisce anche che l'uovo condurrà i personaggi verso i tesori adatti. In effetti, qualsiasi personaggio che dorme entro 15 piedi dall'uovo fa sogni vividi che lo portano verso l'inizio della prossima avventura.",
+								"Per trarre potere dal tesoro di un drago, l'uovo deve trascorrere 8 ore in mezzo al tesoro, coperto di monete e circondato da altri oggetti. Tuttavia, non appena l'uovo potenziato viene portato nella camera del tesoro di Anthradusk ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} nel capitolo 10), raggiunge il suo pieno potenziale e inizia ad aprirsi, come descritto in quell'avventura."
 							]
 						},
 						{
@@ -90,7 +90,7 @@
 							"name": "Option 3: Hoard Magic Items",
 							"id": "008",
 							"entries": [
-								"If you have {@book Fizban's Treasury of Dragons|FTD|4}, the hoard of magic items described in that book can provide an incentive for characters to seek out dragons of increasing power and different kinds. Add the following items to the rewards acquired in the first three adventures: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1},\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1},\" and a {@item Dragon's Wrath Weapon|FTD} and a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" All four items are Slumbering when the characters first acquire them, but in later adventures, the items can be awakened by steeping them in dragons' hoards."
+								"Se hai {@book Fizban's Treasury of Dragons|FTD|4}, il tesoro di oggetti magici descritti in quel libro può fornire un incentivo ai personaggi a cercare draghi di crescente potenza e di diverso tipo. Aggiungi i seguenti oggetti alle ricompense acquisite nelle prime tre avventure: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1}\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1}\" e a {@item Dragon's Wrath Weapon|FTD} e a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" Tutti e quattro gli oggetti sono addormentati quando i personaggi li acquisiscono per la prima volta, ma nelle avventure successive gli oggetti possono essere risvegliati immergendoli nei tesori dei draghi."
 							]
 						}
 					]
@@ -100,14 +100,14 @@
 					"name": "Running the Adventures",
 					"id": "009",
 					"entries": [
-						"To run each of these adventures, you need the fifth edition core rulebooks: the {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|XMM}. Spells and equipment mentioned in the adventures are described in the {@book Player's Handbook|XPHB}. Magic items are detailed in the {@book Dungeon Master's Guide|XDMG}, and monsters appear in the {@book Monster Manual|XMM}.",
-						"The table of contents summarizes the adventures in this anthology. Each adventure is designed for four to six characters of a particular level, but you can adjust for larger or smaller groups by changing the number of foes in an encounter and giving a small group additional resources, as explained in the {@book Dungeon Master's Guide|XDMG}. Each of the adventures can take place in any world you choose, as long as the location has the basic elements listed at the beginning of each adventure.",
+						"Per eseguire ciascuna di queste avventure, sono necessari i regolamenti base della quinta edizione: {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|XMM}. Gli incantesimi e l'equipaggiamento menzionati nelle avventure sono descritti nel {@book Player's Handbook|XPHB}. Gli oggetti magici sono dettagliati in {@book Dungeon Master's Guide|XDMG} e i mostri appaiono in {@book Monster Manual|XMM}.",
+						"Il sommario riassume le avventure di questa antologia. Ogni avventura è progettata per quattro-sei personaggi di un particolare livello, ma puoi adattarti a gruppi più o meno grandi modificando il numero di nemici in un incontro e fornendo a un piccolo gruppo risorse aggiuntive, come spiegato nel {@book Dungeon Master's Guide|XDMG}. Ognuna delle avventure può svolgersi in qualsiasi mondo tu scelga, purché il luogo contenga gli elementi di base elencati all'inizio di ogni avventura.",
 						{
 							"type": "entries",
 							"name": "Preparation",
 							"id": "00a",
 							"entries": [
-								"Every adventure in this book begins with a page that helps you prepare and run the adventure. It includes the following elements:",
+								"Ogni avventura in questo libro inizia con una pagina che ti aiuta a preparare e gestire l'avventura. Comprende i seguenti elementi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -115,17 +115,17 @@
 										{
 											"type": "item",
 											"name": "Key Plot Points",
-											"entry": "A summary of the key elements in the adventure's story"
+											"entry": "Un riassunto degli elementi chiave della storia dell'avventura"
 										},
 										{
 											"type": "item",
 											"name": "Preparation",
-											"entry": "Steps to get yourself ready to run the adventure, including a list of all the stat blocks from the {@book Monster Manual|XMM} you might need"
+											"entry": "Passaggi per prepararti a vivere l'avventura, incluso un elenco di tutti i blocchi delle statistiche del {@book Monster Manual|XMM} di cui potresti aver bisogno"
 										},
 										{
 											"type": "item",
 											"name": "Key NPCs",
-											"entry": "A table summarizing key nonplayer characters in the adventure\u2014their names, roles, stat blocks, and locations\u2014to help you keep track of them during play"
+											"entry": "Una tabella che riassume i principali personaggi non giocanti dell'avventura (i loro nomi, ruoli, blocchi delle statistiche e posizioni) per aiutarti a tenerne traccia durante il gioco"
 										}
 									]
 								}
@@ -136,7 +136,7 @@
 							"name": "Player Assistance",
 							"id": "00b",
 							"entries": [
-								"As described in the {@book Dungeon Master's Guide|XDMG}, you can streamline your role as Dungeon Master by delegating certain tasks to the other players, especially if this is your first time behind the DM's screen. Before play begins, work with the other players to divide any or all of the following tasks among them:",
+								"Come descritto nel {@book Dungeon Master's Guide|XDMG}, puoi semplificare il tuo ruolo di Dungeon Master delegando determinati compiti agli altri giocatori, soprattutto se è la prima volta dietro lo schermo del DM. Prima che il gioco inizi, collabora con gli altri giocatori per dividere tra loro alcuni o tutti i seguenti compiti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,17 +144,17 @@
 										{
 											"type": "item",
 											"name": "Initiative Tracker",
-											"entry": "In combat, one player tracks Initiative for the characters and monsters."
+											"entry": "In combattimento, un giocatore tiene traccia dell'iniziativa dei personaggi e dei mostri."
 										},
 										{
 											"type": "item",
 											"name": "Monster Wranglers",
-											"entry": "Whenever the characters enter combat with Hostile monsters, one or two players run these monsters using the stat blocks in the {@book Monster Manual|XMM}. (Two players can share this role.)"
+											"entry": "Ogni volta che i personaggi entrano in combattimento con mostri ostili, uno o due giocatori gestiscono questi mostri utilizzando i blocchi delle statistiche nel {@book Monster Manual|XMM}. (Due giocatori possono condividere questo ruolo.)"
 										},
 										{
 											"type": "item",
 											"name": "Rules Consultant",
-											"entry": "One player references rules in the {@book Player's Handbook|XPHB} or other books as needed."
+											"entry": "Un giocatore fa riferimento alle regole nel {@book Player's Handbook|XPHB} o in altri libri secondo necessità."
 										}
 									]
 								}
@@ -165,15 +165,15 @@
 							"name": "Adventures for One Character",
 							"id": "00c",
 							"entries": [
-								"While the {@book Dungeon Master's Guide|XDMG} explains how to adjust adventures for different party sizes, three of the adventures (indicated in the table of contents) are particularly well-suited for play with a single adventurer. Each of these adventures includes instructions for ensuring the character faces an appropriate challenge.",
-								"Central to those instructions is the {@i Blessing of the Lone Champion}, a supernatural gift that bolsters the solo character's abilities.",
+								"Mentre il {@book Dungeon Master's Guide|XDMG} spiega come adattare le avventure alle diverse dimensioni del gruppo, tre delle avventure (indicate nel sommario) sono particolarmente adatte per essere giocate con un singolo avventuriero. Ognuna di queste avventure include istruzioni per garantire che il personaggio affronti una sfida adeguata.",
+								"Al centro di queste istruzioni c'è il {@i Blessing of the Lone Champion}, un dono soprannaturale che rafforza le abilità del personaggio solista.",
 								{
 									"type": "statblock",
 									"name": "Blessing of the Lone Champion",
 									"source": "DrDe",
 									"tag": "reward"
 								},
-								"The blessing lasts for the duration of the adventure."
+								"La benedizione dura per tutta la durata dell'avventura."
 							]
 						},
 						{
@@ -181,10 +181,10 @@
 							"name": "A Draconic History",
 							"id": "00e",
 							"entries": [
-								"In addition to ten adventures, this book includes special sections that feature art of each dragon variety, drawing from almost the whole 50-year history of Dungeons & Dragons, from the 1977 Monster Manual to the one published in 2025. The appearance of all ten dragon types has evolved significantly over the past fifty years, but close examination of these images reveals points of continuity as well, from the blue dragon's nose horn to the silver dragon's crest.",
-								"Artist Todd Lockwood spearheaded a thorough revision of all ten dragon types for the release of D&D's third edition in 2000, basing his designs on the anatomy of real-world animals and certain points of continuity with earlier designs. With a few variations, those designs set the standard for D&D's dragons for over 20 years.",
-								"In preparation for the release of the {@book Monster Manual|XMM} (2025), art director Josh Herman led a comprehensive refresh of all the dragon looks as D&D began its second half-century. With the goal of ensuring each dragon's distinct identity\u2014its personality, preferred habitat, and combat style\u2014shines through in its look, this redesign showcases visually what's unique about each type of dragon.",
-								"In the same way, this book highlights how an adventure featuring one kind of dragon can feel distinct from all the others."
+								"Oltre a dieci avventure, questo libro include sezioni speciali che presentano illustrazioni di ciascuna varietà di drago, attingendo da quasi tutti i 50 anni di storia di Dungeons & Dragons, dal Manuale dei Mostri del 1977 a quello pubblicato nel 2025. L'aspetto di tutti e dieci i tipi di drago si è evoluto in modo significativo negli ultimi cinquant'anni, ma un attento esame di queste immagini rivela anche punti di continuità, dal corno nasale del drago blu alla cresta del drago d'argento.",
+								"L'artista Todd Lockwood ha guidato una revisione approfondita di tutti e dieci i tipi di drago per l'uscita della terza edizione di D&D nel 2000, basando i suoi progetti sull'anatomia degli animali del mondo reale e su alcuni punti di continuità con i progetti precedenti. Con poche variazioni, questi design stabiliscono lo standard per i draghi di D&D per oltre 20 anni.",
+								"In preparazione all'uscita di {@book Monster Manual|XMM} (2025), il direttore artistico Josh Herman ha condotto un aggiornamento completo di tutti i look dei draghi mentre D&D iniziava la sua seconda metà di secolo. Con l'obiettivo di garantire che l'identità distinta di ogni drago (la sua personalità, l'habitat preferito e lo stile di combattimento) traspaia nel suo aspetto, questa riprogettazione mostra visivamente ciò che rende unico ogni tipo di drago.",
+								"Allo stesso modo, questo libro evidenzia come un’avventura che abbia come protagonista un tipo di drago possa sembrare distinta da tutti gli altri."
 							]
 						}
 					]
@@ -228,7 +228,7 @@
 						"{@i It can take place in any heavily forested region.}"
 					]
 				},
-				"If you start the characters at level 2, skip the gathering of samples from the redwood trees in the grove and move the characters directly to the entrance of the dragon's lair (area {@area R4|031|x}).",
+				"Se inizi i personaggi al livello 2, salta la raccolta dei campioni dalle sequoie nel boschetto e sposta i personaggi direttamente all'ingresso della tana del drago (area {@area R4|031|x}).",
 				{
 					"type": "image",
 					"href": {
@@ -244,7 +244,7 @@
 					"name": "Key Plot Points",
 					"id": "010",
 					"entries": [
-						"The following information is key to this adventure's story:",
+						"Le seguenti informazioni sono fondamentali per la storia di questa avventura:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -252,17 +252,17 @@
 								{
 									"type": "item",
 									"name": "Redwood Watch",
-									"entry": "Two council members of {@area Redwood Watch|013|x}, a village founded in the aftermath of an evil dragon's defeat, ask the characters to investigate the disappearance of villagers in the nearby redwood grove and learn more about a mysterious blight afflicting the trees."
+									"entry": "Due membri del consiglio di {@area Redwood Watch|013|x}, un villaggio fondato in seguito alla sconfitta di un drago malvagio, chiedono ai personaggi di indagare sulla scomparsa degli abitanti del vicino boschetto di sequoie e di saperne di più su una misteriosa piaga che affligge gli alberi."
 								},
 								{
 									"type": "item",
 									"name": "Unnatural Corruption",
-									"entry": "The characters discover that the blight is unnatural. They may learn from grove denizens, including the missing elf council member, that a new dragon lurks nearby."
+									"entry": "I personaggi scoprono che la piaga è innaturale. Potrebbero apprendere dagli abitanti del boschetto, incluso il membro scomparso del consiglio degli elfi, che un nuovo drago si nasconde nelle vicinanze."
 								},
 								{
 									"type": "item",
 									"name": "Green Dragon Wyrmling",
-									"entry": "The characters learn that the corruption's source is a green dragon wyrmling who hatched from the slain dragon's egg. The characters must confront and defeat the wyrmling in his mother's lair before he grows in power and threatens the village."
+									"entry": "I personaggi scoprono che la fonte della corruzione è un cucciolo di drago verde nato dall'uovo del drago ucciso. I personaggi devono affrontare e sconfiggere il cucciolo nella tana di sua madre prima che cresca al potere e minacci il villaggio."
 								}
 							]
 						}
@@ -273,7 +273,7 @@
 					"name": "Preparation",
 					"id": "011",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -281,22 +281,22 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "Read the \"{@area Adventure Background|012|x}\" section (including \"{@area Redwood Watch|013|x}\" and \"{@area The Council|014|x}\")."
+									"entry": "Leggi la sezione \"{@area Adventure Background|012|x}\" (compresi \"{@area Redwood Watch|013|x}\" e \"{@area The Council|014|x}\"."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Familiarize yourself with the Key NPCs table below. The characters will interact with these individuals throughout the adventure."
+									"entry": "Acquisisci familiarità con la tabella degli NPC chiave riportata di seguito. I personaggi interagiranno con questi individui durante l'avventura."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Familiarize yourself with the {@adventure Village Green Rumors|DrDe-DaS|1|Village Green Rumors} table in the \"{@area Village Green|01e|x}\" section. The characters should learn a new rumor each time they interact with the villagers until they've heard all the rumors."
+									"entry": "Acquisisci familiarità con la tabella {@adventure Village Green Rumors|DrDe-DaS|1|Village Green Rumors} nella sezione \"{@area Village Green|01e|x}\". I personaggi dovrebbero apprendere una nuova voce ogni volta che interagiscono con gli abitanti del villaggio finché non avranno ascoltato tutte le voci."
 								},
 								{
 									"type": "item",
 									"name": "Step 4",
-									"entry": "Bookmark the following stat blocks in the {@book Monster Manual|XMM} or on D&D Beyond:"
+									"entry": "Aggiungi ai segnalibri i seguenti blocchi di statistiche in {@book Monster Manual|XMM} o su D&D Beyond:"
 								}
 							]
 						},
@@ -349,55 +349,55 @@
 							"rows": [
 								[
 									"{@area Armin Whisperwind|016|x}",
-									"Lost elf council member",
-									"{@creature Scout|XMM} (Medium)",
+									"Membro perduto del consiglio degli elfi",
+									"{@creature Scout|XMM} (Medio)",
 									"{@area R4|031|x}"
 								],
 								[
-									"Darrin, Jherris, Lyrienne, and Rayna",
-									"Elves forced into the dragon's service",
-									"{@creature Guard|XMM} (Medium)",
+									"Darrin, Jherris, Lyrienne e Rayna",
+									"Elfi costretti al servizio del drago",
+									"{@creature Guard|XMM} (Medio)",
 									"{@area L1|047|x}"
 								],
 								[
 									"Fergus Deerborn",
-									"Elf village cook",
-									"{@creature Commoner|XMM} (Medium)",
+									"Cuoco del villaggio degli elfi",
+									"{@creature Commoner|XMM} (Medio)",
 									"\"{@area Village Green|01e|x}\""
 								],
 								[
 									"{@area Gwenhumara Goldmoss|017|x}",
-									"Elf council member",
-									"{@creature Priest Acolyte|XMM} (Medium)",
+									"Membro del consiglio degli elfi",
+									"{@creature Priest Acolyte|XMM} (Medio)",
 									"\"{@area A Call for Heroes|019|x}\""
 								],
 								[
 									"Kaynen",
-									"Guardian of the redwood grove",
+									"Guardiano del boschetto di sequoie",
 									"{@creature Dryad|XMM}",
 									"{@area R3|02e|x}"
 								],
 								[
 									"Marilissa",
-									"Sunset-Is-Nigh's devoted servant",
+									"Il devoto servitore di Sunset-Is-Nigh",
 									"{@creature Yuan-ti Malison (Type 1)|XMM}",
 									"{@area L3|050|x}"
 								],
 								[
 									"{@area Selenar Woodwise|018|x}",
-									"Elf council member",
-									"{@creature Noble|XMM} (Medium)",
+									"Membro del consiglio degli elfi",
+									"{@creature Noble|XMM} (Medio)",
 									"\"{@area A Call for Heroes|019|x}\""
 								],
 								[
-									"Sunny Lightpurse",
-									"Halfling traveling merchant",
-									"{@creature Commoner|XMM} (Small)",
+									"Borsa luminosa soleggiata",
+									"Mercante viaggiatore halfling",
+									"{@creature Commoner|XMM} (Piccolo)",
 									"\"{@area Village Green|01e|x}\""
 								],
 								[
-									"Sunset-Is-Nigh",
-									"Child of Death-at-Sunset",
+									"Il tramonto è vicino",
+									"Figlio della morte al tramonto",
 									"{@creature Green Dragon Wyrmling|XMM}",
 									"{@area L6|057|x}"
 								]
@@ -420,18 +420,18 @@
 							"width": 1700,
 							"height": 1169
 						},
-						"Centuries ago, six quarreling elven families reconciled. Each family planted a redwood sapling in a circular grove to represent their newfound harmony. Decades later, after the saplings grew tall and mighty, an ancient green dragon dug a lair in the redwoods' roots, poisoning the grove and surrounding forest. The elves called the dragon {@area Death-at-Sunset|012|x}, for twilight was always when the dragon descended on her prey. The dragon adopted this name, reveling in the terror it inspired and bellowing it just before rampaging.",
-						"One hundred years ago, an elf warrior named Ethvarn and her allies slew Death-at-Sunset. Ethvarn died in the assault. The surviving elves pulled back from {@area Redwood Grove|023|x}, leaving only a few wardens in an outpost called {@area Redwood Watch|013|x}.",
-						"Over the past few months, the inhabitants of {@area Redwood Watch|013|x}, now a village, have noticed the forest's trees growing sickly. In the past month, five villagers have disappeared in the grove. The first was council member {@area Armin Whisperwind|016|x}. Four villagers then went searching for him, but none returned. Terrified and confused, the village's council has called for heroes to investigate.",
-						"Unbeknownst to the villagers, a green dragon wyrmling has hatched from an egg in Death-at-Sunset's lair. The wyrmling's presence has corrupted the forest and lured other evil creatures to the area; he has also captured the missing villagers and forced them to serve him. The characters must investigate the grove's corruption and defeat this wyrmling, who calls himself Sunset-Is-Nigh.",
+						"Secoli fa, sei famiglie di elfi litiganti si riconciliarono. Ogni famiglia ha piantato un alberello di sequoia in un boschetto circolare per rappresentare la ritrovata armonia. Decenni dopo, quando gli alberelli divennero alti e potenti, un antico drago verde scavò una tana tra le radici delle sequoie, avvelenando il boschetto e la foresta circostante. Gli elfi chiamavano il drago {@area Death-at-Sunset|012|x}, perché il crepuscolo era sempre il momento in cui il drago scendeva sulla sua preda. Il drago adottò questo nome, godendosi il terrore che ispirava e urlandolo appena prima di scatenarsi.",
+						"Cento anni fa, un elfo guerriero di nome Ethvarn e i suoi alleati uccisero Morte al tramonto. Ethvarn è morto nell'assalto. Gli elfi sopravvissuti si ritirarono da {@area Redwood Grove|023|x}, lasciando solo pochi guardiani in un avamposto chiamato {@area Redwood Watch|013|x}.",
+						"Negli ultimi mesi gli abitanti di {@area Redwood Watch|013|x}, oggi un villaggio, hanno notato che gli alberi della foresta crescevano malaticci. Nell'ultimo mese, cinque abitanti del villaggio sono scomparsi nel boschetto. Il primo era membro del consiglio {@area Armin Whisperwind|016|x}. Quattro abitanti del villaggio andarono quindi a cercarlo, ma nessuno tornò. Terrorizzato e confuso, il consiglio del villaggio ha chiesto agli eroi di indagare.",
+						"All'insaputa degli abitanti del villaggio, un cucciolo di drago verde si è schiuso da un uovo nella tana di Morte al tramonto. La presenza del cucciolo ha corrotto la foresta e attirato altre creature malvagie nell'area; ha anche catturato gli abitanti del villaggio scomparsi e li ha costretti a servirlo. I personaggi devono indagare sulla corruzione del boschetto e sconfiggere questo cucciolo, che si fa chiamare Sunset-Is-Nigh.",
 						{
 							"type": "entries",
 							"name": "Redwood Watch",
 							"id": "013",
 							"entries": [
-								"Redwood Watch is a village of about a hundred people who work primarily as hunters, trappers, lumberers, and artisans. Most are elves descended from the grove's six original families, but the village's peaceful ways and idyllic surroundings have also attracted humans, orcs, and a few goliaths and dragonborn.",
-								"The village consists of freestanding huts made from wood and leaves as well as large tree hollows that serve as homes and shops. A few hardy individuals have made their homes amid the forest's branches in tree houses that overlook the forest floor.",
-								"Owing to the village's multicultural heritage, all villagers know Common. The residents are close-knit; most consider themselves an extended family."
+								"Redwood Watch è un villaggio di circa un centinaio di persone che lavorano principalmente come cacciatori, cacciatori di pellicce, taglialegna e artigiani. La maggior parte sono elfi discendenti delle sei famiglie originarie del boschetto, ma i modi pacifici del villaggio e i dintorni idilliaci hanno attratto anche umani, orchi e alcuni Golia e dragonidi.",
+								"Il villaggio è costituito da capanne indipendenti realizzate in legno e foglie, nonché da grandi cavità di alberi che fungono da case e negozi. Alcuni individui resistenti hanno costruito le loro case tra i rami della foresta in case sugli alberi che si affacciano sul suolo della foresta.",
+								"A causa del patrimonio multiculturale del villaggio, tutti gli abitanti del villaggio conoscono Common. I residenti sono affiatati; la maggior parte si considera una famiglia allargata."
 							]
 						},
 						{
@@ -439,7 +439,7 @@
 							"name": "The Council",
 							"id": "014",
 							"entries": [
-								"Armin and two other elf council members lead Redwood Watch, though Armin is missing. The council members were among those who faced Death-at-Sunset a century ago, and the councilors' heroism is remembered to this day; the villagers share all the following information if the characters ask about the council members.",
+								"Armin e altri due membri del consiglio degli elfi guidano Redwood Watch, anche se Armin è scomparso. I membri del consiglio furono tra coloro che affrontarono la Morte al tramonto un secolo fa, e il loro eroismo è ricordato ancora oggi; gli abitanti del villaggio condividono tutte le seguenti informazioni se i personaggi chiedono dei membri del consiglio.",
 								{
 									"type": "entries",
 									"id": "015",
@@ -449,7 +449,7 @@
 											"name": "Armin Whisperwind",
 											"id": "016",
 											"entries": [
-												"Armin (Medium {@creature Scout|XMM}) left Redwood Watch to investigate reports of the grove's corruption a month ago. He never returned. The villagers worry something terrible befell him, saying the skilled elf tracker would never have abandoned Redwood Watch permanently. (The wyrmling is now forcing Armin to defend area {@area R4|031|x}.)"
+												"Armin (Medio {@creature Scout|XMM}) ha lasciato Redwood Watch per indagare sui rapporti sulla corruzione del boschetto un mese fa. Non è mai tornato. Gli abitanti del villaggio temono che gli sia successo qualcosa di terribile, dicendo che l'abile cacciatore di elfi non avrebbe mai abbandonato Redwood Watch in modo permanente. (Il cucciolo ora costringe Armin a difendere l'area {@area R4|031|x}.)"
 											]
 										},
 										{
@@ -457,7 +457,7 @@
 											"name": "Gwenhumara Goldmoss",
 											"id": "017",
 											"entries": [
-												"Gwenhumara (Medium {@creature Priest Acolyte|XMM}) is an elf healer who tended to the wounded after the battle against Death-at-Sunset. Recently, she's had nightmares of the dragon's return; she worries that the dragon's spirit lingers among the redwoods' roots. Gwenhumara happily heals characters who are injured, though she is too afraid to leave the village herself."
+												"Gwenhumara (Medio {@creature Priest Acolyte|XMM}) è un'elfa guaritrice che si è presa cura dei feriti dopo la battaglia contro Morte al tramonto. Recentemente ha avuto incubi sul ritorno del drago; è preoccupata che lo spirito del drago aleggia tra le radici delle sequoie. Gwenhumara guarisce felicemente i personaggi feriti, anche se ha troppa paura per lasciare lei stessa il villaggio."
 											]
 										},
 										{
@@ -465,7 +465,7 @@
 											"name": "Selenar Woodwise",
 											"id": "018",
 											"entries": [
-												"Selenar (Medium {@creature Noble|XMM}) was among the elf warriors in Death-at-Sunset's lair when the ancient green dragon died, and he is erroneously convinced the forest's corruption isn't related to dragons. Selenar holds a deep reverence for nature and is anxious for the characters to identify the threat against the forest."
+												"Selenar (Medio {@creature Noble|XMM}) era tra gli elfi guerrieri nella tana di Morte al tramonto quando l'antico drago verde morì, ed è erroneamente convinto che la corruzione della foresta non sia correlata ai draghi. Selenar nutre un profondo rispetto per la natura ed è ansioso che i personaggi identifichino la minaccia contro la foresta."
 											]
 										}
 									]
@@ -479,33 +479,33 @@
 					"name": "A Call for Heroes",
 					"id": "019",
 					"entries": [
-						"When the adventure begins, the characters know the general history of Redwood Watch and its plight involving missing villagers. As soon as the characters enter the village, council members Selenar Woodwise and Gwenhumara Goldmoss approach them to provide more information about Redwood Watch's call for heroes.",
-						"Read or paraphrase the following:",
+						"Quando l'avventura inizia, i personaggi conoscono la storia generale di Redwood Watch e la sua difficile situazione che coinvolge gli abitanti scomparsi. Non appena i personaggi entrano nel villaggio, i membri del consiglio Selenar Woodwise e Gwenhumara Goldmoss si avvicinano a loro per fornire maggiori informazioni sulla chiamata agli eroi di Redwood Watch.",
+						"Leggi o parafrasa quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "01a",
 							"entries": [
-								"Standing before you are two wood elves with the regal bearing of leaders. The man, Selenar Woodwise, wears a steel breastplate and billowing green cloak, while the woman, Gwenhumara Goldmoss, is clad in flowing verdant robes.\"We are pleased you answered our call,\" Gwenhumara says. \"Something evil lurks in Redwood Grove. Given our history with the dragon Death-at-Sunset, you can understand our concern\u2014and now villagers are missing. We need you to find our missing villagers, determine why the forest is blighted, and end any threats you discover.\"Selenar interjects, \"I'm certain there isn't another dragon, but something is terribly wrong.\" Gwenhumara clasps a reassuring hand on Selenar's shoulder."
+								"Davanti a te ci sono due elfi dei boschi con il portamento regale di leader. L'uomo, Selenar Woodwise, indossa una corazza d'acciaio e un mantello verde fluttuante, mentre la donna, Gwenhumara Goldmoss, è vestita con fluenti vesti verdeggianti. \"Siamo lieti che tu abbia risposto alla nostra chiamata\", dice Gwenhumara. \"Qualcosa di malvagio si nasconde a Redwood Grove. Data la nostra storia con il drago Morte al tramonto, puoi capire la nostra preoccupazione, e ora gli abitanti del villaggio sono scomparsi. Abbiamo bisogno che tu trovi i nostri abitanti scomparsi, determini il motivo per cui la foresta è devastata e metta fine a qualsiasi minaccia che scopri.\" Selenar interviene: \"Sono certo che non ci sia un altro drago, ma qualcosa è terribilmente sbagliato.\" Gwenhumara stringe una mano rassicurante sulla spalla di Selenar."
 							]
 						},
-						"The elves answer any questions as best they can.",
-						"The council members have little to offer as a reward, but the characters are welcome to keep any treasures found in the forest. Additionally, the council members offer the characters use of a room-size tree hollow furnished to house guests and point out {@area Fergus's Grill|01f|x} nearby.",
+						"Gli elfi rispondono a qualsiasi domanda nel miglior modo possibile.",
+						"I membri del consiglio hanno poco da offrire come ricompensa, ma i personaggi sono invitati a conservare qualsiasi tesoro trovato nella foresta. Inoltre, i membri del consiglio offrono ai personaggi l'uso di una cavità d'albero grande quanto una stanza arredata per ospitare gli ospiti e indicano {@area Fergus's Grill|01f|x} nelle vicinanze.",
 						{
 							"type": "entries",
 							"name": "Gathering Samples",
 							"id": "01b",
 							"entries": [
-								"After the elves have answered any questions the characters might have, Gwenhumara makes the following offer:",
+								"Dopo che gli elfi hanno risposto a tutte le domande che i personaggi potrebbero avere, Gwenhumara fa la seguente offerta:",
 								{
 									"type": "insetReadaloud",
 									"id": "01c",
 									"entries": [
-										"\"Before you do anything else, I would like to inure you against the forest's poisons, but I don't understand the corruption well enough to make the proper antitoxins. Bring back samples of bark from each of the grove's six redwoods. Then I can make as many antitoxins as you need for as long as you're here.\""
+										"\"Prima che tu faccia qualsiasi altra cosa, vorrei prepararti contro i veleni della foresta, ma non capisco abbastanza bene la corruzione per produrre le antitossine adeguate. Porta indietro campioni di corteccia da ciascuna delle sei sequoie del boschetto. Così potrò produrre tutte le antitossine di cui avrai bisogno per tutto il tempo che sarai qui.\""
 									]
 								},
-								"Gwenhumara needs one tree bark sample from each of the grove's redwoods to brew effective {@item Antitoxin|XPHB|Antitoxins}. The elf hands the characters six glass {@item Vial|XPHB|Vials} with rubber stoppers to store the samples.",
-								"Once the characters have retrieved the samples, Gwenhumara can brew up to ten vials of Antitoxin each day. It's up to the characters how they'd like to distribute those Antitoxins among themselves.",
-								"If the characters explore Redwood Grove and collect the six samples for Gwenhumara, give them a reward of 100 XP each, or simply advance them to level 2. The characters should be level 2 before entering the dragon's lair."
+								"Gwenhumara ha bisogno di un campione di corteccia d'albero da ciascuna delle sequoie del boschetto per produrre una birra efficace {@item Antitoxin|XPHB|Antitoxins}. L'elfo consegna ai personaggi sei bicchieri {@item Vial|XPHB|Vials} con tappi di gomma per conservare i campioni.",
+								"Una volta che i personaggi hanno recuperato i campioni, Gwenhumara può preparare fino a dieci fiale di Antitossina ogni giorno. Sta ai personaggi decidere come distribuire le Antitossine tra di loro.",
+								"Se i personaggi esplorano Redwood Grove e raccolgono i sei campioni per Gwenhumara, dai loro una ricompensa di 100 XP ciascuno, o semplicemente falli avanzare al livello 2. I personaggi dovrebbero essere al livello 2 prima di entrare nella tana del drago."
 							]
 						}
 					]
@@ -515,7 +515,7 @@
 					"name": "Exploring Redwood Watch",
 					"id": "01d",
 					"entries": [
-						"Before the characters set off for {@area Redwood Grove|023|x}, they might wish to spend some time getting to know the villagers they're trying to help.",
+						"Prima che i personaggi partano per {@area Redwood Grove|023|x}, potrebbero voler trascorrere un po' di tempo per conoscere gli abitanti del villaggio che stanno cercando di aiutare.",
 						{
 							"type": "gallery",
 							"images": [
@@ -1512,13 +1512,13 @@
 							"name": "Village Green",
 							"id": "01e",
 							"entries": [
-								"Every evening, most of the villagers gather in the village green, a clearing at the center of Redwood Watch. There they share meals, socialize, play games, and even put on short plays.",
+								"Ogni sera, la maggior parte degli abitanti del villaggio si riunisce nel verde del villaggio, una radura al centro di Redwood Watch. Lì condividono i pasti, socializzano, giocano e persino mettono in scena brevi rappresentazioni.",
 								{
 									"type": "entries",
 									"name": "Fergus's Grill",
 									"id": "01f",
 									"entries": [
-										"The elf cook Fergus Deerborn (Medium {@creature Commoner|XMM}), an elegant man in constant motion, runs a small eatery out of the village green. Fergus creates simple yet tasty dishes from donated mushrooms, berries, lichens, herbs, rabbit, venison, and other forest bounties. Fergus's food is available to visitors for a small donation, as is the fine elven wine produced by the council-owned winery."
+										"L'elfo cuoco Fergus Deerborn (Medio {@creature Commoner|XMM}), un uomo elegante in costante movimento, gestisce un piccolo ristorante fuori dal verde del villaggio. Fergus crea piatti semplici ma gustosi con funghi, bacche, licheni, erbe, coniglio, carne di cervo e altri doni della foresta donati. Il cibo di Fergus è disponibile per i visitatori dietro una piccola donazione, così come il pregiato vino elfico prodotto dalla cantina di proprietà del comune."
 									]
 								},
 								{
@@ -1526,7 +1526,7 @@
 									"name": "Rumors",
 									"id": "020",
 									"entries": [
-										"When the characters interact with NPCs anywhere in Redwood Watch, villagers voice their concerns about recent local events. Roll on the {@adventure Village Green Rumors|DrDe-DaS|1|Village Green Rumors} table to determine which rumor an NPC shares. Roll again if the characters have already been told the resulting rumor, and stop rolling once the characters have been told all of them.",
+										"Quando i personaggi interagiscono con gli NPC ovunque in Redwood Watch, gli abitanti del villaggio esprimono le loro preoccupazioni sui recenti eventi locali. Tira sulla tabella {@adventure Village Green Rumors|DrDe-DaS|1|Village Green Rumors} per determinare quale diceria condivide un NPC. Tira di nuovo se ai personaggi è già stata raccontata la diceria risultante, e smetti di tirare una volta che i personaggi le hanno già raccontate tutte.",
 										{
 											"type": "table",
 											"caption": "Village Green Rumors",
@@ -1541,27 +1541,27 @@
 											"rows": [
 												[
 													"1",
-													"\"Three bandits were robbing folks on the forest's edge a while back. I bet they're still hiding in the woods somewhere.\" [Partially true; the bandits are now dead. Their animated corpses are in area {@area R7|038|x}.]"
+													"\"Tre banditi tempo fa derubavano la gente ai margini della foresta. Scommetto che sono ancora nascosti da qualche parte nel bosco.\" [Parzialmente vero; i banditi ora sono morti. I loro cadaveri animati sono nell'area {@area R7|038|x}.]"
 												],
 												[
 													"2",
-													"\"That dragon cursed these woods when she died. We need to leave before the curse kills us all!\" [False; there is no curse on the forest.]"
+													"\"Quel drago ha maledetto questi boschi quando è morto. Dobbiamo andarcene prima che la maledizione ci uccida tutti!\" [Falso; non esiste alcuna maledizione sulla foresta.]"
 												],
 												[
 													"3",
-													"\"Don't wander the forest alone! Evil trees grow there now.\" [Partially true; the dragon's influence has encouraged the growth of many forest blights, including the {@creature Vine Blight|XMM} and {@creature Twig Blight|XMM} in area {@area L4|053|x}.]"
+													"\"Non vagare da solo nella foresta! Ora crescono lì alberi malvagi.\" [Parzialmente vero; l'influenza del drago ha incoraggiato la crescita di molti mali della foresta, tra cui {@creature Vine Blight|XMM} e {@creature Twig Blight|XMM} nell'area {@area L4|053|x}.]"
 												],
 												[
 													"4",
-													"\"Remember Ethvarn, who died fighting {@area Death-at-Sunset|012|x}? No one ever found her sword, Leafwarden. It's probably still in the dragon's lair.\" [True; Leafwarden is in the dragon's hoard in area {@area L7|05d|x}.]"
+													"\"Ricordi Ethvarn, che morì combattendo {@area Death-at-Sunset|012|x}? Nessuno ha mai trovato la sua spada, Guardafoglie. Probabilmente è ancora nella tana del drago.\" [VERO; Il Guardafoglie si trova nel tesoro del drago nell'area {@area L7|05d|x}.]"
 												],
 												[
 													"5",
-													"\"There's a strange man in the forest with green skin and hair made of leaves. I think he's a forest spirit!\" [Partially true; a {@creature Dryad|XMM} has moved into area {@area R3|02e|x}. He might help the characters.]"
+													"\"C'è uno strano uomo nella foresta con la pelle verde e i capelli fatti di foglie. Penso che sia uno spirito della foresta!\" [Parzialmente vero; a {@creature Dryad|XMM} si è spostato nell'area {@area R3|02e|x}. Potrebbe aiutare i personaggi.]"
 												],
 												[
 													"6",
-													"\"Dragons can come back from the dead as awful abominations made of animate bones. Death-at-Sunset was probably too wicked to die only once.\" [Partially true; dracoliches exist, but Death-at-Sunset isn't one.]"
+													"\"I draghi possono ritornare dalla morte come orribili abomini fatti di ossa animate. La Morte al Tramonto probabilmente era troppo malvagia per morire una sola volta.\" [Parzialmente vero; I dracolich esistono, ma Morte al tramonto non è uno di questi.]"
 												]
 											]
 										}
@@ -1572,14 +1572,14 @@
 									"name": "Traveling Merchant",
 									"id": "021",
 									"entries": [
-										"A traveling merchant named Sunny Lightpurse (Small {@creature Commoner|XMM}) recently set up shop in Redwood Watch. Sunny is a golden-haired halfling with a perpetual smile that's true to her name. Each day in the village green, Sunny unpacks her wares from a heavily laden wagon. When not doing business, Sunny cheerily praises her two horses, Buttercup and Daisy, and chats with passersby.",
+										"Un commerciante ambulante di nome Sunny Lightpurse (Piccolo {@creature Commoner|XMM}) ha recentemente aperto un negozio a Redwood Watch. Sunny è una halfling dai capelli dorati con un sorriso perpetuo fedele al suo nome. Ogni giorno nel verde del villaggio, Sunny disimballa la sua merce da un carro pesantemente carico. Quando non fa affari, Sunny loda allegramente i suoi due cavalli, Ranuncolo e Daisy, e chiacchiera con i passanti.",
 										{
 											"type": "entries",
 											"name": "Sunny's Wares",
 											"id": "022",
 											"entries": [
-												"Sunny sells any goods from the {@book Player's Handbook|XPHB} that cost 100 GP or less. However, she has a limited stock of certain items: four vials of {@item Alchemist's Fire|XPHB}, one vial of {@item Antitoxin|XPHB}, and four {@item Potion of Healing|XDMG|Potions of Healing}.",
-												"{@b Sunny's Generosity}. Sunny is Friendly to patrons. She was once a merchant in a nearby city, but her soft spot for those in need meant she couldn't compete with more cutthroat merchants. As an {@action Influence|XPHB} action, a character can ask Sunny to lower her prices. The character then makes a {@dc 10} Charisma ({@skill Persuasion|XPHB}) check. On a successful check, Sunny offers a 10 percent discount on all her goods."
+												"Sunny vende tutti i beni del {@book Player's Handbook|XPHB} che costano 100 GP o meno. Tuttavia, ha una scorta limitata di alcuni articoli: quattro fiale di {@item Alchemist's Fire|XPHB}, una fiala di {@item Antitoxin|XPHB} e quattro {@item Potion of Healing|XDMG|Potions of Healing}.",
+												"{@b Sunny's Generosity}. Sunny è amichevole con i clienti. Una volta era una commerciante in una città vicina, ma il suo debole per i bisognosi le faceva sì che non potesse competere con mercanti più spietati. Come azione {@action Influence|XPHB}, un personaggio può chiedere a Sunny di abbassare i prezzi. Il personaggio quindi effettua una prova di Carisma {@dc 10} ({@skill Persuasion|XPHB}). Se il controllo ha esito positivo, Sunny offre uno sconto del 10% su tutti i suoi prodotti."
 											]
 										}
 									]
@@ -1593,20 +1593,20 @@
 					"name": "Redwood Grove",
 					"id": "023",
 					"entries": [
-						"Redwood Grove is three miles east of {@area Redwood Watch|013|x}. The characters can reach the grove in about an hour.",
-						"As shown on {@adventure Map: Redwood Grove|DrDe-DaS|1|Map: Redwood Grove}, Redwood Grove includes six redwoods. Each tree is around 300 feet tall.",
+						"Redwood Grove si trova a tre miglia a est di {@area Redwood Watch|013|x}. I personaggi possono raggiungere il boschetto in circa un'ora.",
+						"Come mostrato su {@adventure Map: Redwood Grove|DrDe-DaS|1|Map: Redwood Grove}, Redwood Grove comprende sei sequoie. Ogni albero è alto circa 300 piedi.",
 						{
 							"type": "entries",
 							"name": "Redwood Grove Features",
 							"id": "024",
 							"entries": [
-								"The grove has the following features.",
+								"Il boschetto ha le seguenti caratteristiche.",
 								{
 									"type": "entries",
 									"name": "Haunted",
 									"id": "025",
 									"entries": [
-										"Ever since Sunset-Is-Nigh hatched, the spirits of the elves who died fighting Death-at-Sunset have been restless. At night, harmless shadows flit strangely among the trees. The breeze carries whispers of \"Beware, beware!\" and \"Her legacy returns!\" An additional haunting is described in area {@area R8|03c|x}."
+										"Da quando il tramonto è vicino, gli spiriti degli elfi morti combattendo Morte al tramonto sono stati inquieti. Di notte, ombre innocue fluttuano stranamente tra gli alberi. La brezza porta sussurri di \"Attenzione, attenzione!\" e \"La sua eredità ritorna!\" Un'ulteriore infestazione è descritta nell'area {@area R8|03c|x}."
 									]
 								},
 								{
@@ -1614,7 +1614,7 @@
 									"name": "Light",
 									"id": "026",
 									"entries": [
-										"Sunlight fills the grove with {@variantrule Bright Light|XPHB} during the day. At night, the tree canopy blocks any moonlight, leaving the grove in Darkness."
+										"La luce solare riempie il boschetto di {@variantrule Bright Light|XPHB} durante il giorno. Di notte, la chioma degli alberi blocca la luce lunare, lasciando il boschetto nell'oscurità."
 									]
 								},
 								{
@@ -1622,7 +1622,7 @@
 									"name": "Stream",
 									"id": "027",
 									"entries": [
-										"A small stream winds through the eastern side of the grove. The stream is five feet wide and only a few inches deep. However, draconic magic has tainted the water. A creature that drinks from the stream must succeed on a {@dc 12} Constitution saving throw or take 3 ({@dice 1d6}) Poison damage and have the {@condition Poisoned|XPHB} condition for 1 hour."
+										"Un piccolo ruscello si snoda attraverso il lato orientale del boschetto. Il ruscello è largo un metro e mezzo e profondo solo pochi centimetri. Tuttavia, la magia draconica ha contaminato l'acqua. Una creatura che beve dal ruscello deve riuscire un tiro salvezza su Costituzione {@dc 12} o subire 3 ({@dice 1d6}) danni da veleno e mantenere la condizione {@condition Poisoned|XPHB} per 1 ora."
 									]
 								}
 							]
@@ -1632,7 +1632,7 @@
 							"name": "Bark Samples",
 							"id": "028",
 							"entries": [
-								"As a {@action Utilize|XPHB} action, a character next to a redwood can harvest a bark sample using an empty {@item Vial|XPHB}. The redwoods are in areas {@area R1|02a|x}, {@area R2|02c|x}, {@area R3|02e|x}, {@area R5|034|x}, {@area R6|036|x}, and {@area R7|038|x}."
+								"Come azione {@action Utilize|XPHB}, un personaggio accanto a una sequoia può raccogliere un campione di corteccia utilizzando un vuoto {@item Vial|XPHB}. Le sequoie si trovano in aree {@area R1|02a|x}, {@area R2|02c|x}, {@area R3|02e|x}, {@area R5|034|x}, {@area R6|036|x} e {@area R7|038|x}."
 							]
 						},
 						{
@@ -1640,7 +1640,7 @@
 							"name": "Redwood Grove Locations",
 							"id": "029",
 							"entries": [
-								"The following locations are keyed to {@adventure Map: Redwood Grove|DrDe-DaS|1|Map: Redwood Grove}.",
+								"Le seguenti posizioni sono collegate a {@adventure Map: Redwood Grove|DrDe-DaS|1|Map: Redwood Grove}.",
 								{
 									"type": "entries",
 									"name": "R1: Looming Redwood",
@@ -1650,7 +1650,7 @@
 											"type": "insetReadaloud",
 											"id": "02b",
 											"entries": [
-												"A redwood looms above, its lowest branches impossibly high up and its bark weeping darkened sap. Sickly grasses and wilting wildflowers surround the wide trunk."
+												"Una sequoia incombe in alto, i suoi rami più bassi incredibilmente alti e la sua corteccia che piange linfa oscurata. Erbe malate e fiori di campo appassiti circondano l'ampio tronco."
 											]
 										}
 									]
@@ -1664,7 +1664,7 @@
 											"type": "insetReadaloud",
 											"id": "02d",
 											"entries": [
-												"The bark of this once-regal redwood is sloughing off in sheets, like a snake's shed skin. Impossibly tall branches cast a sickly pall over the area."
+												"La corteccia di questa sequoia un tempo regale si sta staccando in fogli, come la pelle di un serpente. I rami incredibilmente alti gettano un'ombra malaticcia sulla zona."
 											]
 										}
 									]
@@ -1678,7 +1678,7 @@
 											"type": "insetReadaloud",
 											"id": "02f",
 											"entries": [
-												"A redwood towers above, its trunk as wide as a building and its bark peeling like dry skin. A few feet above the ground, a figure with green skin and hair made of leaves sits on an enormous shelf fungus like it's a throne. He eyes you imperiously as you approach."
+												"Una sequoia troneggia in alto, con il tronco largo quanto un edificio e la corteccia che si stacca come pelle secca. A pochi metri dal suolo, una figura con la pelle verde e i capelli fatti di foglie siede su un enorme fungo come se fosse un trono. Ti guarda imperiosamente mentre ti avvicini."
 											]
 										},
 										{
@@ -1691,15 +1691,15 @@
 											"width": 850,
 											"height": 2285
 										},
-										"This is Kaynen, a {@creature Dryad|XMM} who made this tree his home just before Sunset-Is-Nigh hatched. Kaynen is initially Hostile toward the characters, assuming they are bandits and commanding the characters not to touch his tree. If the characters respect Kaynen's request, his attitude becomes Indifferent.",
-										"As an {@action Influence|XPHB} action, a character can ask for Kaynen's help to heal the forest. The character makes a {@dc 12} Charisma ({@skill Persuasion|XPHB}) check. On a successful check, Kaynen becomes Friendly. He answers questions to the best of his ability and gladly allows the characters to harvest a tree bark sample.",
-										"The dryad has heard rumors that a dragon wyrmling lurks down in Death-at-Sunset's old lair (see \"{@area Death-at-Sunset's Lair|040|x}\"), and he suspects the wyrmling is to blame for the forest's corruption. If the characters haven't already expressed their intent to kill the wyrmling, Kaynen asks them to do so. Kaynen also warns the characters about a strange, angry elf who lurks around the lair's entrance (area {@area R4|031|x}).",
+										"Questo è Kaynen, un {@creature Dryad|XMM} che ha fatto di questo albero la sua casa poco prima che il tramonto sia vicino si schiudesse. Kaynen è inizialmente ostile nei confronti dei personaggi, presumendo che siano banditi e ordinando ai personaggi di non toccare il suo albero. Se i personaggi rispettano la richiesta di Kaynen, il suo atteggiamento diventa Indifferente.",
+										"Come azione {@action Influence|XPHB}, un personaggio può chiedere l'aiuto di Kaynen per curare la foresta. Il personaggio effettua una prova di {@dc 12} Carisma ({@skill Persuasion|XPHB}). Se la prova ha successo, Kaynen diventa Amichevole. Risponde alle domande al meglio delle sue capacità e permette volentieri ai personaggi di raccogliere un campione di corteccia d'albero.",
+										"La driade ha sentito delle voci secondo cui un cucciolo di drago si nasconde nella vecchia tana di Morte al tramonto (vedi \"{@area Death-at-Sunset's Lair|040|x}\"), e sospetta che il cucciolo sia il responsabile della corruzione della foresta. Se i personaggi non hanno già espresso la loro intenzione di uccidere il cucciolo, Kaynen chiede loro di farlo. Kaynen avverte anche i personaggi di uno strano elfo arrabbiato che si nasconde intorno all'ingresso della tana (area {@area R4|031|x}).",
 										{
 											"type": "entries",
 											"name": "Slithering Spy",
 											"id": "030",
 											"entries": [
-												"After the characters talk with Kaynen for a few minutes, a {@creature Venomous Snake|XMM} slithers toward the tree, partially hidden by its roots. A character with a Passive {@skill Perception|XPHB} of 13+ notices the snake, which is a spy for Marilissa, the yuan-ti in area {@area L3|050|x}. If the characters fight the snake, the snake attacks once before it tries to flee back through the lair's entrance (area {@area R4|031|x})."
+												"Dopo che i personaggi hanno parlato con Kaynen per qualche minuto, un {@creature Venomous Snake|XMM} scivola verso l'albero, parzialmente nascosto dalle sue radici. Un personaggio con una Passiva {@skill Perception|XPHB} di 13+ nota il serpente, che è una spia di Marilissa, lo yuan-ti della zona {@area L3|050|x}. Se i personaggi combattono il serpente, il serpente attacca una volta prima di tentare di fuggire attraverso l'ingresso della tana (area {@area R4|031|x})."
 											]
 										}
 									]
@@ -1709,16 +1709,16 @@
 									"name": "R4: Lair Entrance",
 									"id": "031",
 									"entries": [
-										"This is the entrance to Death-at-Sunset's lair (see \"{@area Death-at-Sunset's Lair|040|x}\"). The missing elf council member, {@area Armin Whisperwind|016|x} (Medium {@creature Scout|XMM}), and his {@creature Mastiff|XMM}, Fletcher, hide here behind roots near the opening's northeast corner and watch the characters.",
-										"As a {@action Search|XPHB} action, a character can examine the ground around the lair entrance and make a {@dc 14} Wisdom ({@skill Perception|XPHB}) check. On a successful check, the character finds Armin's boot prints and Fletcher's paw prints. If Armin perceives the characters discovering his trail, or if the characters try to enter the lair, he fights them.",
+										"Questo è l'ingresso alla tana della Morte al tramonto (vedi \"{@area Death-at-Sunset's Lair|040|x}\"). Il membro del consiglio degli elfi scomparso, {@area Armin Whisperwind|016|x} (Medio {@creature Scout|XMM}) e il suo {@creature Mastiff|XMM}, Fletcher, si nascondono qui dietro le radici vicino all'angolo nord-est dell'apertura e osservano i personaggi.",
+										"Come azione {@action Search|XPHB}, un personaggio può esaminare il terreno intorno all'ingresso della tana ed effettuare una prova di {@dc 14} Saggezza ({@skill Perception|XPHB}). Con una prova riuscita, il personaggio trova le impronte degli stivali di Armin e le impronte delle zampe di Fletcher. Se Armin si accorge che i personaggi scoprono le sue tracce, o se i personaggi tentano di entrare nella tana, li combatte.",
 										{
 											"type": "entries",
 											"name": "Helping Armin",
 											"id": "032",
 											"entries": [
-												"Sunset-Is-Nigh captured Armin a month ago when the elf entered the grove to study its corruption. The wyrmling spent days tormenting Armin until the desperate elf agreed to drive away anyone who approaches the lair.",
-												"Armin desperately wants to escape and warn his village about the grove's corruption, but Sunset-Is-Nigh has convinced him that the wyrmling will murder all the villagers if Armin tries to escape the forest. Armin is Hostile toward all who approach.",
-												"As an {@action Influence|XPHB} action, a character can try to convince Armin that the characters are strong enough to defeat Sunset-Is-Nigh. The character makes a {@dc 13} Charisma ({@skill Persuasion|XPHB}) check. On a success, Armin stops fighting, and his attitude becomes Friendly. Armin won't confront the wyrmling, and he asks the characters to escort him back to the village. Armin knows the other elves were taken into the lair but doesn't know their fate, as he isn't allowed into the lair."
+												"Il Tramonto-È-Nigh ha catturato Armin un mese fa quando l'elfo è entrato nel boschetto per studiarne la corruzione. Il cucciolo trascorse giorni a tormentare Armin finché l'elfo disperato non accettò di scacciare chiunque si avvicinasse alla tana.",
+												"Armin vuole disperatamente scappare e avvertire il suo villaggio della corruzione del boschetto, ma Sunset-Is-Nigh lo ha convinto che il cucciolo ucciderà tutti gli abitanti del villaggio se Armin tenta di fuggire dalla foresta. Armin è ostile verso chiunque si avvicini.",
+												"Come azione {@action Influence|XPHB}, un personaggio può provare a convincere Armin che i personaggi sono abbastanza forti da sconfiggere Sunset-Is-Nigh. Il personaggio effettua una prova di {@dc 13} Carisma ({@skill Persuasion|XPHB}). In caso di successo, Armin smette di combattere e il suo atteggiamento diventa Amichevole. Armin non affronterà il cucciolo e chiede ai personaggi di scortarlo al villaggio. Armin sa che gli altri elfi sono stati portati nella tana ma non conosce il loro destino, poiché non gli è permesso entrare nella tana."
 											]
 										},
 										{
@@ -1726,7 +1726,7 @@
 											"name": "Development",
 											"id": "033",
 											"entries": [
-												"If the characters bring Armin back to Redwood Watch, the elf receives a teary, grateful welcome. The other council members are happy beyond words to have their companion back, and a joyous celebration ensues that night in the village green. If the characters don't attend, they receive profuse thanks the next time they return to Redwood Watch."
+												"Se i personaggi riportano Armin a Redwood Watch, l'elfo riceve un benvenuto lacrimoso e grato. Gli altri membri del consiglio sono felici oltre ogni dire di riavere il loro compagno, e quella notte segue una gioiosa celebrazione nel verde del villaggio. Se i personaggi non partecipano, riceveranno profusi ringraziamenti la prossima volta che torneranno a Redwood Watch."
 											]
 										}
 									]
@@ -1740,11 +1740,11 @@
 											"type": "insetReadaloud",
 											"id": "035",
 											"entries": [
-												"A pale redwood rises from the middle of a muddy bog. To the southwest, a trickling stream separates the mud from the solid ground beyond."
+												"Una pallida sequoia si erge dal mezzo di una palude fangosa. A sud-ovest, un ruscello separa il fango dal terreno solido al di là."
 											]
 										},
-										"The stream running through the grove has made this area thick with stinking, poisonous mud. The mud is {@variantrule Difficult Terrain|XPHB}. A creature that ends its turn in the mud must succeed on a {@dc 10} Constitution saving throw or have the {@condition Poisoned|XPHB} condition until the start of its next turn.",
-										"Three {@creature Mud Mephit|XMM|Mud Mephits} hide in the mud, drawn here by the dragon's latent evil magic. The mephits stay hidden until at least one character enters the mud, then they ambush the characters. If two mephits are destroyed, the third tries to escape."
+										"Il ruscello che scorre attraverso il boschetto ha reso questa zona densa di fango puzzolente e velenoso. Il fango è {@variantrule Difficult Terrain|XPHB}. Una creatura che termina il suo turno nel fango deve riuscire un tiro salvezza su Costituzione {@dc 10} o avere la condizione {@condition Poisoned|XPHB} fino all'inizio del suo turno successivo.",
+										"Tre {@creature Mud Mephit|XMM|Mud Mephits} si nascondono nel fango, attirati qui dalla magia malvagia latente del drago. I mephit rimangono nascosti finché almeno un personaggio non entra nel fango, poi tendono un'imboscata ai personaggi. Se due mephit vengono distrutti, il terzo tenta di scappare."
 									]
 								},
 								{
@@ -1756,10 +1756,10 @@
 											"type": "insetReadaloud",
 											"id": "037",
 											"entries": [
-												"A sickly redwood stands here, its trunk surrounded by fetid undergrowth."
+												"Qui si trova una sequoia malaticcia, il cui tronco è circondato da un sottobosco fetido."
 											]
 										},
-										"The forest's corruption has attracted a nest of deadly centipedes that hide in the tree's bark. When a character moves next to the tree, a {@creature Swarm of Insects|XMM} (centipedes) and a {@creature Giant Centipede|XMM} skitter from behind the bark and roots to fight the characters."
+										"La corruzione della foresta ha attirato un nido di millepiedi mortali che si nascondono nella corteccia dell'albero. Quando un personaggio si muove vicino all'albero, un {@creature Swarm of Insects|XMM} (millepiedi) e un {@creature Giant Centipede|XMM} scappano da dietro la corteccia e le radici per combattere i personaggi."
 									]
 								},
 								{
@@ -1771,18 +1771,18 @@
 											"type": "insetReadaloud",
 											"id": "039",
 											"entries": [
-												"To the northeast of this redwood is a burned-out campfire, around which are three humanoid corpses. They are beginning to decay, and black streaks mar their rotting flesh. One corpse leans against the tree, insects crawling around its open, blackened mouth. Another lies on its side under a blanket, and a third is curled inside a stinking bedroll."
+												"A nord-est di questa sequoia c'è un falò spento, attorno al quale ci sono tre cadaveri umanoidi. Stanno cominciando a marcire e strisce nere rovinano la loro carne in decomposizione. Un cadavere è appoggiato all'albero, gli insetti strisciano attorno alla sua bocca aperta e annerita. Un altro giace su un fianco sotto una coperta, e un terzo è rannicchiato in un sacco a pelo puzzolente."
 											]
 										},
-										"The three corpses here are actually {@creature Zombie|XMM|Zombies} animated by the corrupted forest's foul energies. The zombies attack when a character moves within 5 feet of one of the zombies or when a character tries to take a tree bark sample from the redwood.",
-										"As a {@action Search|XPHB} action, a character within 10 feet of a zombie can assess the body and make a {@dc 14} Wisdom ({@skill Medicine|XPHB}) check. On a success, the character determines that the zombies originally died from drinking the poisoned water in the nearby stream.",
-										"If the characters were told the first rumor on the {@adventure Village Green Rumors|DrDe-DaS|1|Village Green Rumors} table, they can surmise that these zombies were formerly the bandits who were robbing folks on the forest's edge.",
+										"I tre cadaveri qui sono in realtà {@creature Zombie|XMM|Zombies} animati dalle energie malvagie della foresta corrotta. Gli zombi attaccano quando un personaggio si muove entro 1,5 metri da uno degli zombi o quando un personaggio cerca di prelevare un campione di corteccia d'albero dalla sequoia.",
+										"Come azione {@action Search|XPHB}, un personaggio entro 3 metri da uno zombi può valutarne il corpo ed effettuare una prova di {@dc 14} Saggezza ({@skill Medicine|XPHB}). In caso di successo, il personaggio determina che gli zombi originariamente sono morti bevendo l'acqua avvelenata nel vicino ruscello.",
+										"Se ai personaggi venisse raccontata la prima voce sul tavolo {@adventure Village Green Rumors|DrDe-DaS|1|Village Green Rumors}, potrebbero supporre che questi zombi fossero in passato dei banditi che derubavano la gente ai margini della foresta.",
 										{
 											"type": "entries",
 											"name": "Mysterious Footprints",
 											"id": "03a",
 											"entries": [
-												"As a {@action Search|XPHB} action, a character can search the camp and make a {@dc 12} Wisdom ({@skill Survival|XPHB}) check. On a success, the character finds boot prints and large canine paw prints circling the area. These are prints from {@area Armin Whisperwind|016|x} and his mastiff, now found in area {@area R4|031|x}."
+												"Come azione {@action Search|XPHB}, un personaggio può perquisire l'accampamento ed effettuare una prova di {@dc 12} Saggezza ({@skill Survival|XPHB}). In caso di successo, il personaggio trova impronte di stivali e grandi impronte di zampe canine che circondano l'area. Queste sono le impronte di {@area Armin Whisperwind|016|x} e del suo mastino, ora rinvenute nell'area {@area R4|031|x}."
 											]
 										},
 										{
@@ -1790,19 +1790,19 @@
 											"name": "Treasure",
 											"id": "03b",
 											"entries": [
-												"Characters who search the bodies find the following items:",
+												"I personaggi che perquisiscono i corpi trovano i seguenti oggetti:",
 												{
 													"type": "list",
 													"items": [
 														"11 GP",
 														"240 SP",
 														"400 CP",
-														"Three {@item Light Crossbow|XPHB|Light Crossbows}",
-														"Three {@item Scimitar|XPHB|Scimitars}",
-														"Thirty Crossbow Bolts",
+														"Tre {@item Light Crossbow|XPHB|Light Crossbows}",
+														"Tre {@item Scimitar|XPHB|Scimitars}",
+														"Trenta dardi di balestra",
 														"{@item Healer's Kit|XPHB}",
 														"{@item Hooded Lantern|XPHB}",
-														"Two flasks of {@item Oil|XPHB}",
+														"Due flaconi di {@item Oil|XPHB}",
 														"{@item Shovel|XPHB}"
 													]
 												}
@@ -1819,17 +1819,17 @@
 											"type": "insetReadaloud",
 											"id": "03d",
 											"entries": [
-												"A wide, gently sloping dirt mound rises 30 feet in the air, enveloped in feathery grass. Yellow, sickly-looking flowers bloom around the mound's edges."
+												"Un ampio tumulo di terra in leggera pendenza si erge per 9 metri nell'aria, avvolto da un'erba piumata. Fiori gialli dall'aspetto malaticcio sbocciano attorno ai bordi del tumulo."
 											]
 										},
-										"This is the ceremonial burial mound of the thirty-four elves who died in the battle against {@area Death-at-Sunset|012|x} a century ago, including the elves' leader, Ethvarn.",
-										"Ever since Sunset-Is-Nigh hatched, the spirits of these elves have become restless, haunting the grove with forewarnings of coming doom. During the day, the characters feel a strange, unexplained feeling of foreboding here.",
+										"Questo è il tumulo cerimoniale dei trentaquattro elfi che morirono nella battaglia contro {@area Death-at-Sunset|012|x} un secolo fa, incluso il leader degli elfi, Ethvarn.",
+										"Da quando il tramonto è vicino, gli spiriti di questi elfi sono diventati irrequieti e infestano il boschetto con avvertimenti di sventure imminenti. Durante il giorno, i personaggi provano qui una strana, inspiegabile sensazione di presentimento.",
 										{
 											"type": "entries",
 											"name": "Haunted Mound",
 											"id": "03e",
 											"entries": [
-												"At night, ghostly images of dead elf warriors wielding tall spears appear, fading in and out of existence, some uttering cryptic warnings in Common and Elvish. Foremost among the images is Ethvarn, an androgynous elf wearing gleaming plate mail and an empty scabbard."
+												"Di notte, appaiono immagini spettrali di guerrieri elfi morti che brandiscono alte lance, che svaniscono e scompaiono dall'esistenza, alcuni pronunciando avvertimenti criptici in comune ed elfico. La prima tra le immagini è Ethvarn, un elfo androgino che indossa una scintillante armatura a piastre e un fodero vuoto."
 											]
 										},
 										{
@@ -1837,7 +1837,7 @@
 											"name": "Vision of the Past",
 											"id": "03f",
 											"entries": [
-												"The first time a character stays in this area longer than 1 minute at night, the character must succeed on a {@dc 12} Wisdom saving throw or have the {@condition Unconscious|XPHB} condition for 1 hour. During that hour, the character can't be woken using magical or mundane means. The character dreams of the battle in which these elf warriors died; before succumbing to her wounds, Death-at-Sunset unleashed her poisonous breath on dozens of elves, who died painful, choking deaths in her tunnels. Before waking, a dreaming character perceives a final image of the dragon's enormous corpse filling an underground cavern."
+												"La prima volta che un personaggio rimane in quest'area per più di 1 minuto di notte, deve riuscire un tiro salvezza su Saggezza {@dc 12} o mantenere la condizione {@condition Unconscious|XPHB} per 1 ora. Durante quell'ora, il personaggio non può essere svegliato utilizzando mezzi magici o comuni. Il personaggio sogna la battaglia in cui morirono questi guerrieri elfi; prima di soccombere alle ferite, Morte al tramonto scatenò il suo alito velenoso su dozzine di elfi, che morirono dolorosi e soffocati nei suoi tunnel. Prima di svegliarsi, un personaggio che sogna percepisce un'immagine finale dell'enorme cadavere del drago che riempie una caverna sotterranea."
 											]
 										}
 									]
@@ -1851,7 +1851,7 @@
 					"name": "Death-at-Sunset's Lair",
 					"id": "040",
 					"entries": [
-						"Sunset-Is-Nigh has made his home in the lair of his dead mother, Death-at-Sunset.",
+						"Sunset-Is-Nigh ha costruito la sua casa nella tana della madre morta, Death-at-Sunset.",
 						{
 							"type": "gallery",
 							"images": [
@@ -2943,13 +2943,13 @@
 							"name": "Lair Features",
 							"id": "041",
 							"entries": [
-								"The lair has the following features.",
+								"La tana ha le seguenti caratteristiche.",
 								{
 									"type": "entries",
 									"name": "Ceilings",
 									"id": "042",
 									"entries": [
-										"The ceilings in areas {@area L1|047|x}\u2013{@area L5|055|x} and {@area L7|05d|x} are 40 feet tall. The ceiling in the corpse chamber (area {@area L6|057|x}), where the wyrmling has made his home, is 60 feet tall."
+										"I soffitti nelle aree {@area L1|047|x}–{@area L5|055|x} e {@area L7|05d|x} sono alti 40 piedi. Il soffitto nella camera del cadavere (area {@area L6|057|x}), dove il cucciolo ha costruito la sua casa, è alto 60 piedi."
 									]
 								},
 								{
@@ -2957,7 +2957,7 @@
 									"name": "Light",
 									"id": "043",
 									"entries": [
-										"The lair is shrouded in Darkness. Area descriptions assume characters can see in the dark or have a light source."
+										"La tana è avvolta nell'oscurità. Le descrizioni delle aree presuppongono che i personaggi possano vedere al buio o abbiano una fonte di luce."
 									]
 								},
 								{
@@ -2965,7 +2965,7 @@
 									"name": "Tracking",
 									"id": "044",
 									"entries": [
-										"The wyrmling's tracks are distinctive; as a {@action Search|XPHB} action, any character can look for tracks and make a {@dc 13} Wisdom ({@skill Survival|XPHB}) check. On a successful check, the character finds the wyrmling's trail to and from area {@area L6|057|x}."
+										"Le tracce del cucciolo sono distintive; come azione {@action Search|XPHB}, qualsiasi personaggio può cercare tracce ed effettuare una prova di {@dc 13} Saggezza ({@skill Survival|XPHB}). Con una prova riuscita, il personaggio trova la traccia del cucciolo da e verso l'area {@area L6|057|x}."
 									]
 								},
 								{
@@ -2973,7 +2973,7 @@
 									"name": "Walls",
 									"id": "045",
 									"entries": [
-										"The lair's walls are made of soft earth and thick tree roots."
+										"Le pareti della tana sono fatte di terra soffice e spesse radici di alberi."
 									]
 								}
 							]
@@ -2983,7 +2983,7 @@
 							"name": "Lair Locations",
 							"id": "046",
 							"entries": [
-								"The following locations are keyed to {@adventure Map: Death at Sunset's Lair|DrDe-DaS|1|Map: Death at Sunset's Lair}.",
+								"Le seguenti posizioni sono collegate a {@adventure Map: Death at Sunset's Lair|DrDe-DaS|1|Map: Death at Sunset's Lair}.",
 								{
 									"type": "entries",
 									"name": "L1: Guarded Tunnel",
@@ -2993,17 +2993,17 @@
 											"type": "insetReadaloud",
 											"id": "048",
 											"entries": [
-												"The tunnel from above leads into a dank, sprawling cavern walled with dirt and twisting roots. Enormous claw marks mar the walls."
+												"Il tunnel dall'alto conduce in un'ampia caverna umida, circondata da terra e radici contorte. Enormi segni di artigli rovinano le pareti."
 											]
 										},
-										"Hiding in an alcove along the northwest wall are four elves (Medium {@creature Guard|XMM|Guards}) from Redwood Watch: Darrin, Jherris, Lyrienne, and Rayna. The elves are Hostile toward the characters. As soon as the characters venture more than 10 feet into this area, the elves begin combat, screaming at the characters to leave and never return.",
+										"Nascosti in un'alcova lungo il muro nord-ovest ci sono quattro elfi (medi {@creature Guard|XMM|Guards}) di Redwood Watch: Darrin, Jherris, Lyrienne e Rayna. Gli elfi sono ostili verso i personaggi. Non appena i personaggi si avventurano per più di 3 metri in quest'area, gli elfi iniziano il combattimento, urlando ai personaggi di andarsene e di non tornare mai più.",
 										{
 											"type": "entries",
 											"name": "Helping the Elves",
 											"id": "049",
 											"entries": [
-												"After {@area Armin Whisperwind|013|x} went missing, each elf separately ventured into the grove to search for the council member. Each met the same fate as Armin: Sunset-Is-Nigh captured them, tormented them, and forced them to serve as lair guardians. Sunset-Is-Nigh has convinced the elves that his mother's ghost will murder them if they try to escape. The wyrmling has also threatened violence against the villagers if the elves disobey him.",
-												"As an {@action Influence|XPHB} action, a character can tell the elves the wyrmling will soon fall or that there's no dragon ghost and make a {@dc 14} Charisma ({@skill Persuasion|XPHB}) check. On a successful check, the elves stop fighting and become Friendly. If they become Friendly, the elves return to Redwood Watch. Before leaving, Jherris tells the characters about a vial of Acid he has hidden in his bedroll (see \"Treasure\" below)."
+												"Dopo che {@area Armin Whisperwind|013|x} è scomparso, ogni elfo si è avventurato separatamente nel boschetto per cercare il membro del consiglio. Ognuno di loro ha incontrato lo stesso destino di Armin: Sunset-Is-Nigh li ha catturati, tormentati e costretti a servire come guardiani della tana. Sunset-Is-Nigh ha convinto gli elfi che il fantasma di sua madre li ucciderà se tentano di scappare. Il cucciolo ha anche minacciato di violenza contro gli abitanti del villaggio se gli elfi gli avessero disobbedito.",
+												"Come azione {@action Influence|XPHB}, un personaggio può dire agli elfi che il cucciolo cadrà presto o che non ci sarà il fantasma del drago ed effettuare una prova di Carisma ({@skill Persuasion|XPHB} {@dc 14}. Con una prova riuscita, gli elfi smettono di combattere e diventano Amichevoli. Se diventano Amichevoli, gli elfi ritornano a Redwood Watch. Prima di andarsene, Jherris racconta ai personaggi di una fiala di acido che ha nascosto nel suo sacco a pelo (vedi \"Tesoro\" sotto)."
 											]
 										},
 										{
@@ -3011,7 +3011,7 @@
 											"name": "Downward Slope",
 											"id": "04a",
 											"entries": [
-												"To the southwest, the cavern slopes 20 feet steeply downward toward the chamber with Death-at-Sunset's corpse (area {@area L6|057|x}). This sloping area is {@variantrule Difficult Terrain|XPHB}."
+												"A sud-ovest, la caverna scende ripidamente per 20 piedi verso la camera con il cadavere di Morte al tramonto (area {@area L6|057|x}). Questa zona in pendenza è {@variantrule Difficult Terrain|XPHB}."
 											]
 										},
 										{
@@ -3019,7 +3019,7 @@
 											"name": "Treasure",
 											"id": "04b",
 											"entries": [
-												"In the northwest alcove are the elves' stinking bedrolls and meager food supplies. Hidden in Jherris's bedroll is a vial of Acid. He had been working up the courage to throw the Acid at the wyrmling."
+												"Nell'alcova a nord-ovest ci sono i giacigli puzzolenti degli elfi e le scarse scorte di cibo. Nascosta nel sacco a pelo di Jherris c'è una fiala di acido. Stava trovando il coraggio di lanciare l'acido al cucciolo."
 											]
 										},
 										{
@@ -3027,7 +3027,7 @@
 											"name": "Development",
 											"id": "04c",
 											"entries": [
-												"If the elves return to Redwood Watch, they are warmly welcomed home. The villagers celebrate the elves that night in the village green. If the characters don't attend, they receive profuse thanks the next time they return to Redwood Watch."
+												"Se gli elfi tornano a Redwood Watch, vengono accolti calorosamente a casa. Quella notte gli abitanti del villaggio festeggiano gli elfi nel verde del villaggio. Se i personaggi non partecipano, riceveranno profusi ringraziamenti la prossima volta che torneranno a Redwood Watch."
 											]
 										}
 									]
@@ -3041,16 +3041,16 @@
 											"type": "insetReadaloud",
 											"id": "04e",
 											"entries": [
-												"Roots and earth form the ceiling of this large chamber. A wide, shallow pit filled with slithering snakes takes up much of the room."
+												"Radici e terra formano il soffitto di questa grande camera. Una fossa ampia e poco profonda piena di serpenti striscianti occupa gran parte della stanza."
 											]
 										},
-										"This pit is home to the snake pets of Marilissa, the yuan-ti in area L3. The pit contains two {@creature Giant Venomous Snake|XMM|Giant Venomous Snakes}, one {@creature Constrictor Snake|XMM}, and six {@creature Venomous Snake|XMM|Venomous Snakes}. The snakes don't leave the pit on their own and fight any character who enters it.",
+										"Questa fossa ospita i serpenti domestici di Marilissa, gli yuan-ti nell'area L3. La fossa ne contiene due {@creature Giant Venomous Snake|XMM|Giant Venomous Snakes}, uno {@creature Constrictor Snake|XMM} e sei {@creature Venomous Snake|XMM|Venomous Snakes}. I serpenti non lasciano la fossa da soli e combattono qualsiasi personaggio che vi entri.",
 										{
 											"type": "entries",
 											"name": "Pit Edges",
 											"id": "04f",
 											"entries": [
-												"The edges of the pit slope sharply downward and are {@variantrule Difficult Terrain|XPHB}. The pit is 3 feet deep."
+												"I bordi della fossa sono in forte pendenza verso il basso e sono {@variantrule Difficult Terrain|XPHB}. La fossa è profonda 3 piedi."
 											]
 										}
 									]
@@ -3064,17 +3064,17 @@
 											"type": "insetReadaloud",
 											"id": "051",
 											"entries": [
-												"These strangely furnished living quarters include a bed, a chair, and a table. Sitting on the chair is a woman with a snake's head and a human's body. She strokes a snake coiled on her lap and grins at you wickedly."
+												"Questi alloggi stranamente arredati includono un letto, una sedia e un tavolo. Seduta sulla sedia c'è una donna con la testa di serpente e il corpo umano. Accarezza un serpente attorcigliato sul suo grembo e ti sorride maliziosamente."
 											]
 										},
-										"This is Marilissa, a {@creature Yuan-ti Malison (Type 1)|XMM}, and a {@creature Venomous Snake|XMM} pet she named Robby.",
-										"Marilissa was passing through the grove when Sunset-Is-Nigh hatched five years ago. Feeling draconic magic seep into the forest, Marilissa believed she was destined to serve the wyrmling and the terrible beast he will inevitably become. She is the wyrmling's most dedicated servant.",
+										"Lei è Marilissa, un {@creature Yuan-ti Malison (Type 1)|XMM} e un animale domestico {@creature Venomous Snake|XMM} che ha chiamato Robby.",
+										"Marilissa stava attraversando il boschetto quando Sunset-Is-Nigh si è schiuso cinque anni fa. Sentendo la magia draconica penetrare nella foresta, Marilissa credette di essere destinata a servire il cucciolo e la terribile bestia che sarebbe inevitabilmente diventato. È la serva più devota del cucciolo.",
 										{
 											"type": "entries",
 											"name": "Dealing with Marilissa",
 											"id": "052",
 											"entries": [
-												"If the characters arrive in this area and haven't killed Sunset-Is-Nigh, Marilissa is Indifferent toward them and asks them why they're here. If the characters express any ill intent toward the wyrmling, Marilissa and her pet become Hostile and engage them in combat. Marilissa fights to the death to protect the wyrmling.",
+												"Se i personaggi arrivano in quest'area e non hanno ucciso Sunset-Is-Nigh, Marilissa è indifferente nei loro confronti e chiede loro perché sono qui. Se i personaggi esprimono cattive intenzioni nei confronti del cucciolo, Marilissa e il suo animale domestico diventano ostili e li ingaggiano in combattimento. Marilissa combatte fino alla morte per proteggere il cucciolo.",
 												{
 													"type": "image",
 													"href": {
@@ -3085,8 +3085,8 @@
 													"width": 850,
 													"height": 2367
 												},
-												"As an {@action Influence|XPHB} action, a character can lie to Marilissa about their purpose and make a {@dc 12} Charisma ({@skill Deception|XPHB}) check. On a successful check, Marilissa believes the characters aren't here to harm the wyrmling. She lets the characters pass unharmed, although if she notices the characters fighting any other lair denizens, Marilissa enters the fray against them.",
-												"If the characters tell her they have killed the wyrmling, Marilissa forgoes any conversation. She tells the characters she'll savor killing them as retribution and begins combat."
+												"Come azione {@action Influence|XPHB}, un personaggio può mentire a Marilissa riguardo al proprio scopo ed effettuare una prova di Carisma ({@skill Deception|XPHB} {@dc 12}. Con una prova riuscita, Marilissa crede che i personaggi non siano qui per danneggiare il cucciolo. Lascia che i personaggi passino incolumi, anche se se nota che i personaggi combattono contro altri abitanti della tana, Marilissa entra nella mischia contro di loro.",
+												"Se i personaggi le dicono di aver ucciso il cucciolo, Marilissa rinuncia a qualsiasi conversazione. Dice ai personaggi che assaporerà ucciderli come punizione e inizia il combattimento."
 											]
 										}
 									]
@@ -3100,10 +3100,10 @@
 											"type": "insetReadaloud",
 											"id": "054",
 											"entries": [
-												"Thick roots and dry, brittle twigs jut from the earthen walls of this cavern."
+												"Radici spesse e ramoscelli secchi e fragili sporgono dalle pareti di terra di questa caverna."
 											]
 										},
-										"A {@creature Vine Blight|XMM} and a {@creature Twig Blight|XMM} remain motionless here until a character ventures more than 10 feet into this area. The blights then advance toward the characters and fight to the death."
+										"A {@creature Vine Blight|XMM} e a {@creature Twig Blight|XMM} rimangono immobili qui finché un personaggio non si avventura per più di 3 metri in quest'area. Le piaghe avanzano quindi verso i personaggi e combattono fino alla morte."
 									]
 								},
 								{
@@ -3115,10 +3115,10 @@
 											"type": "insetReadaloud",
 											"id": "056",
 											"entries": [
-												"Many-legged bugs swarm over the north and south walls of this long cavern."
+												"Gli insetti dalle molte zampe sciamano sulle pareti nord e sud di questa lunga caverna."
 											]
 										},
-										"Two {@creature Swarm of Insects|XMM|Swarms of Insects} (centipedes) and two {@creature Giant Centipede|XMM|Giant Centipedes} crawl across these walls. The insects fight any creature that moves within 5 feet of the north or south wall in this area."
+										"Due {@creature Swarm of Insects|XMM|Swarms of Insects} (millepiedi) e due {@creature Giant Centipede|XMM|Giant Centipedes} strisciano su queste pareti. Gli insetti combattono qualsiasi creatura che si muova entro 1,5 metri dal muro nord o sud di quest'area."
 									]
 								},
 								{
@@ -3130,17 +3130,17 @@
 											"type": "insetReadaloud",
 											"id": "058",
 											"entries": [
-												"A thin, pale-green fog hangs in the center of this vast chamber above the skeleton of an enormous dragon. Through its gaping eye sockets, you spot flitting movement within the dead dragon's skull. \"It is I, Sunset-Is-Nigh!\" croaks a high-pitched voice from inside the skull. \"Enter my lair and find your doom!\""
+												"Una sottile nebbia verde pallido è sospesa al centro di questa vasta camera sopra lo scheletro di un enorme drago. Attraverso le sue orbite spalancate, puoi notare i movimenti svolazzanti all'interno del teschio del drago morto. \"Sono io, Il tramonto è vicino!\" gracchia una voce acuta da dentro il cranio. \"Entra nella mia tana e trova la tua rovina!\""
 											]
 										},
-										"Sunset-Is-Nigh, the {@creature Green Dragon Wyrmling|XMM} who hatched from Death-at-Sunset's egg, lives in this chamber. The wyrmling skitters through his mother's skeleton, trying to lure the characters into the poisonous miasma that hangs in the air. As soon as a character enters the miasma, the wyrmling starts combat. If Marilissa, the yuan-ti in area L3, notices battle here, she comes to help Sunset-Is-Nigh, arriving at the end of the third round of combat.",
+										"Sunset-Is-Nigh, il {@creature Green Dragon Wyrmling|XMM} nato dall'uovo di Death-at-Sunset, vive in questa camera. Il cucciolo attraversa lo scheletro di sua madre, cercando di attirare i personaggi nel miasma velenoso che aleggia nell'aria. Non appena un personaggio entra nel miasma, il cucciolo inizia a combattere. Se Marilissa, la yuan-ti dell'area L3, nota una battaglia qui, viene in aiuto di Sunset-Is-Nigh, arrivando alla fine del terzo round di combattimento.",
 										{
 											"type": "entries",
 											"name": "Roleplaying Sunset-Is-Nigh",
 											"id": "059",
 											"entries": [
-												"The wyrmling, whose name proudly references his mother's, is a cruel, arrogant, entitled creature. Sunset-Is-Nigh intends to one day eclipse his mother's legacy. The fact that the wyrmling has convinced the captive elves of his fearsomeness has only fed his ego.",
-												"At every opportunity, Sunset-Is-Nigh taunts the characters in Draconic, calling them weaklings and false heroes who will never defeat him. The wyrmling insists he is a mighty dragon who will conquer everything the characters hold dear."
+												"Il cucciolo, il cui nome fa riferimento con orgoglio a quello di sua madre, è una creatura crudele, arrogante e legittimata. Sunset-Is-Nigh intende un giorno eclissare l'eredità di sua madre. Il fatto che il cucciolo abbia convinto gli elfi prigionieri della sua temibilità non ha fatto altro che alimentare il suo ego.",
+												"In ogni occasione, Sunset-Is-Nigh schernisce i personaggi di Draconic, definendoli deboli e falsi eroi che non lo sconfiggeranno mai. Il cucciolo insiste di essere un potente drago che conquisterà tutto ciò che i personaggi hanno di più caro."
 											]
 										},
 										{
@@ -3148,7 +3148,7 @@
 											"name": "Sickening Miasma",
 											"id": "05a",
 											"entries": [
-												"Although Death-at-Sunset is long dead, the powerful magic she radiated still hangs in this chamber as a poisonous miasma that stretches to the ceiling. The dotted line on the map shows the miasma's area. A creature that enters the miasma for the first time on a turn or starts its turn there must succeed on a {@dc 12} Constitution saving throw or have the {@condition Poisoned|XPHB} condition until the start of its next turn."
+												"Sebbene Morte al Tramonto sia morta da tempo, la potente magia che irradiava è ancora sospesa in questa camera come un miasma velenoso che si estende fino al soffitto. La linea tratteggiata sulla mappa mostra l'area del miasma. Una creatura che entra nel miasma per la prima volta in un turno o inizia il suo turno lì deve riuscire un tiro salvezza su Costituzione {@dc 12} o avere la condizione {@condition Poisoned|XPHB} fino all'inizio del suo turno successivo."
 											]
 										},
 										{
@@ -3156,7 +3156,7 @@
 											"name": "Skeleton",
 											"id": "05b",
 											"entries": [
-												"Death-at-Sunset's skeleton is enormous and difficult to traverse. Areas with bones in them are {@variantrule Difficult Terrain|XPHB}."
+												"Lo scheletro di Morte al tramonto è enorme e difficile da attraversare. Le aree con ossa al loro interno sono {@variantrule Difficult Terrain|XPHB}."
 											]
 										},
 										{
@@ -3164,7 +3164,7 @@
 											"name": "Treasure",
 											"id": "05c",
 											"entries": [
-												"The elves of Redwood Grove confiscated Death-at-Sunset's hoard a century ago, selling pieces to pay for the costs of restoring the destroyed forest and distributing the remainder among the folk living in the forest. However, a trail of coins leads west into a small alcove (area {@area L7|05d|x}), where Sunset-Is-Nigh has carved a repository for his own growing hoard. A character who spends 1 minute can collect the trail of coins, which amount to 6 GP, 37 SP, and 30 CP."
+												"Gli elfi di Redwood Grove confiscarono il tesoro di Morte al tramonto un secolo fa, vendendone i pezzi per pagare i costi di ripristino della foresta distrutta e distribuendo il resto tra la gente che viveva nella foresta. Tuttavia, una scia di monete conduce a ovest in una piccola alcova (area {@area L7|05d|x}), dove Sunset-Is-Nigh ha scavato un deposito per il suo tesoro in crescita. Un personaggio che spende 1 minuto può raccogliere la scia di monete, che ammonta a 6 GP, 37 SP e 30 CP."
 											]
 										}
 									]
@@ -3178,32 +3178,32 @@
 											"type": "insetReadaloud",
 											"id": "05e",
 											"entries": [
-												"Thousands of gems and coins, mostly copper and silver but some gold, are piled in this small chamber. Rising from the center of this hoard is a magnificent sword etched with Elvish runes."
+												"Migliaia di gemme e monete, per lo più rame e argento ma anche oro, sono ammucchiate in questa piccola camera. Al centro di questo tesoro si erge una magnifica spada incisa con rune elfiche."
 											]
 										},
-										"Sunset-Is-Nigh keeps the treasure he accumulated through theft and tributes here.",
+										"Sunset-Is-Nigh conserva qui il tesoro accumulato attraverso furti e tributi.",
 										{
 											"type": "entries",
 											"name": "Treasure",
 											"id": "05f",
 											"entries": [
-												"The hoard contains the following treasure:",
+												"Il tesoro contiene il seguente tesoro:",
 												{
 													"type": "list",
 													"items": [
-														"210 GP, 3,150 SP, 6,300 CP",
-														"Twelve moonstones (worth 50 GP each)",
-														"Jade orb (worth 100 GP) engraved in Infernal with the name of Stygia",
-														"Golden cup (worth 50 GP)",
-														"Hand mirror in a silver frame (worth 40 GP)",
-														"Ivory comb (worth 35 GP)",
+														"210 GP, 3.150 SP, 6.300 PC",
+														"Dodici pietre di luna (del valore di 50 GP ciascuna)",
+														"Sfera di giada (del valore di 100 GP) incisa nell'Inferno con il nome di Stygia",
+														"Coppa d'Oro (del valore di 50 GP)",
+														"Specchietto con cornice argentata (del valore di 40 GP)",
+														"Pettine d'avorio (del valore di 35 GP)",
 														"{@item Dust of Disappearance|XDMG}",
 														"{@item Keoghtom's Ointment|XDMG}",
 														"{@item Potion of Giant Strength|XDMG} (hill)",
 														"{@item Spell Scroll|XDMG} of {@spell Web|XPHB}"
 													]
 												},
-												"{@b Leafwarden} At the center of the wyrmling's hoard is Leafwarden, the sword of the elf warrior Ethvarn. The sword was embedded in Death-at-Sunset's flesh when the dragon was slain, and the elves never found it. Leafwarden is a {@item Dragon Slayer Longsword|XDMG|Dragon Slayer (Longsword)}."
+												"{@b Leafwarden} Al centro del tesoro del cucciolo c'è Guardafoglia, la spada del guerriero elfo Ethvarn. La spada era conficcata nella carne di Morte al tramonto quando il drago fu ucciso, e gli elfi non la trovarono mai. Il guardiafoglie è un {@item Dragon Slayer Longsword|XDMG|Dragon Slayer (Longsword)}."
 											]
 										}
 									]
@@ -3227,10 +3227,10 @@
 							"width": 1700,
 							"height": 1515
 						},
-						"When the characters defeat Sunset-Is-Nigh, the villagers in {@area Redwood Watch|013|x} are overjoyed. The council hosts a party in the village green in the characters' honor. If the characters rescued Armin from Redwood Grove or the other elves from the dragon's lair, they are in attendance and lead cheers and songs about the characters' heroics. The council members offer the village's hospitality to the characters for as long as they wish.",
-						"With Sunset-Is-Nigh defeated, the corruption lifts from the forest. {@area Redwood Grove's|023|x} spirits quiet, and its stream is no longer poisoned. The blighted trees and foliage heal, and any surviving wicked creatures disperse.",
-						"If the characters retrieved the sword Leafwarden, the council members insist the characters keep it as a token of the village's gratitude and a reminder of their impressive deed.",
-						"If the characters defeat the dragon, each of them earns an additional 400 XP, or you can simply advance them to level 3."
+						"Quando i personaggi sconfiggono Sunset-Is-Nigh, gli abitanti del villaggio di {@area Redwood Watch|013|x} sono felicissimi. Il consiglio organizza una festa nel verde del villaggio in onore dei personaggi. Se i personaggi hanno salvato Armin da Redwood Grove o gli altri elfi dalla tana del drago, sono presenti e conducono applausi e canzoni sull'eroismo dei personaggi. I membri del consiglio offrono l'ospitalità del villaggio ai personaggi per tutto il tempo che desiderano.",
+						"Con la sconfitta di Sunset-Is-Nigh, la corruzione si allontana dalla foresta. {@area Redwood Grove's|023|x} gli spiriti si calmano e il suo flusso non è più avvelenato. Gli alberi e il fogliame rovinati guariscono e tutte le creature malvagie sopravvissute si disperdono.",
+						"Se i personaggi recuperano la spada Guardafoglie, i membri del consiglio insistono affinché i personaggi la conservino come segno di gratitudine del villaggio e come ricordo della loro impresa impressionante.",
+						"Se i personaggi sconfiggono il drago, ognuno di loro guadagna 400 XP aggiuntivi, oppure puoi semplicemente farli avanzare al livello 3."
 					]
 				},
 				{
@@ -3243,7 +3243,7 @@
 							"type": "insetReadaloud",
 							"id": "062",
 							"entries": [
-								"The Dragonlance adventure {@i Dragons of Dreams} (1985) solidified green dragons' identity as sly, manipulative, mind-controlling schemers. Clyde Caldwell's famous cover art shows the mighty green dragon Cyan Bloodbane filling the mind of the elf king Loric with nightmares."
+								"L'avventura di Dragonlance {@i Dragons of Dreams} (1985) ha consolidato l'identità dei draghi verdi come intriganti astuti, manipolatori e in grado di controllare la mente. La famosa copertina di Clyde Caldwell mostra il potente drago verde Cyan Bloodbane che riempie di incubi la mente del re degli elfi Loric."
 							]
 						},
 						{
@@ -3389,22 +3389,22 @@
 						{
 							"type": "item",
 							"name": "Designers:",
-							"entry": "Justice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
+							"entry": "Il giudice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
 						},
 						{
 							"type": "item",
 							"name": "Rules Developers:",
-							"entry": "Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen"
+							"entry": "Makenzie De Armas (protagonista), Jeremy Crawford, Ron Lundeen"
 						},
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Judy Bauer (lead), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
+							"entry": "Judy Bauer (protagonista), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
 						},
 						{
 							"type": "item",
 							"name": "Art Directors:",
-							"entry": "Matt Cole (lead), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
+							"entry": "Matt Cole (protagonista), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
 						},
 						{
 							"type": "item",
@@ -3434,7 +3434,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
+							"entry": "Rob Hawkey (protagonista), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
 						}
 					]
 				},

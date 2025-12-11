@@ -136,27 +136,27 @@
 							"rows": [
 								[
 									"{@damage 1d10}",
-									"Burned by coals, hit by a falling bookcase, pricked by a poison needle"
+									"Bruciato dai carboni, colpito da una libreria che cade, punto da un ago avvelenato"
 								],
 								[
 									"{@damage 2d10}",
-									"Struck by lightning, stumbling into a firepit"
+									"Colpito da un fulmine, inciampando in un focolare"
 								],
 								[
 									"{@damage 4d10}",
-									"Hit by falling rubble in a collapsing tunnel, tumbling into a vat of acid"
+									"Colpito dalla caduta di macerie in un tunnel che crolla, cadendo in una vasca piena di acido"
 								],
 								[
 									"{@damage 10d10}",
-									"Crushed by compacting walls, hit by whirling steel blades, wading through lava"
+									"Schiacciato da pareti compattanti, colpito da lame d'acciaio vorticose, guadando la lava"
 								],
 								[
 									"{@damage 18d10}",
-									"Submerged in lava, hit by a crashing flying fortress"
+									"Sommerso nella lava, colpito da una fortezza volante che si schianta"
 								],
 								[
 									"{@damage 24d10}",
-									"Tumbling into a vortex of fire on the Elemental Plane of Fire, crushed in the jaws of a godlike creature or a moon-sized monster"
+									"Cadendo in un vortice di fuoco sul Piano Elementale del Fuoco, schiacciato dalle fauci di una creatura divina o di un mostro delle dimensioni di una luna"
 								]
 							],
 							"data": {
@@ -180,22 +180,22 @@
 							],
 							"rows": [
 								[
-									"1\u20134",
+									"1–4",
 									"5 ({@damage 1d10})",
 									"11 ({@damage 2d10})"
 								],
 								[
-									"5\u201310",
+									"5–10",
 									"11 ({@damage 2d10})",
 									"22 ({@damage 4d10})"
 								],
 								[
-									"11\u201316",
+									"11–16",
 									"22 ({@damage 4d10})",
 									"55 ({@damage 10d10})"
 								],
 								[
-									"17\u201320",
+									"17–20",
 									"55 ({@damage 10d10})",
 									"99 ({@damage 18d10})"
 								]
@@ -220,51 +220,51 @@
 							"rows": [
 								[
 									"{@action Attack|XPHB}",
-									"Attack with a weapon or an {@variantrule Unarmed Strike|XPHB}."
+									"Attacca con un'arma o un {@variantrule Unarmed Strike|XPHB}."
 								],
 								[
 									"{@action Dash|XPHB}",
-									"For the rest of the turn, give yourself extra movement equal to your {@variantrule Speed|XPHB}."
+									"Per il resto del turno, concediti un movimento extra pari al tuo {@variantrule Speed|XPHB}."
 								],
 								[
 									"{@action Disengage|XPHB}",
-									"Your movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks} for the rest of the turn."
+									"Il tuo movimento non provoca {@action Opportunity Attack|XPHB|Opportunity Attacks} per il resto del turno."
 								],
 								[
 									"{@action Dodge|XPHB}",
-									"Until the start of your next turn, attack rolls against you have {@variantrule Disadvantage|XPHB}, and you make Dexterity saving throws with {@variantrule Advantage|XPHB}. You lose this benefit if you have the {@condition Incapacitated|XPHB} condition or if your {@variantrule Speed|XPHB} is 0."
+									"Fino all'inizio del tuo prossimo turno, i tiri per colpire contro di te hanno {@variantrule Disadvantage|XPHB} ed effettui tiri salvezza su Destrezza con {@variantrule Advantage|XPHB}. Perdi questo vantaggio se hai la condizione {@condition Incapacitated|XPHB} o se il tuo {@variantrule Speed|XPHB} è 0."
 								],
 								[
 									"{@action Help|XPHB}",
-									"Help another creature's ability check or attack roll, or administer first aid."
+									"Aiuta la prova di abilità o il tiro di attacco di un'altra creatura, oppure presta il primo soccorso."
 								],
 								[
 									"{@action Hide|XPHB}",
-									"Make a Dexterity ({@skill Stealth|XPHB}) check."
+									"Effettua una prova di Destrezza ({@skill Stealth|XPHB})."
 								],
 								[
 									"{@action Influence|XPHB}",
-									"Make a Charisma ({@skill Deception|XPHB}, {@skill Intimidation|XPHB}, {@skill Performance|XPHB}, or {@skill Persuasion|XPHB}) or Wisdom ({@skill Animal Handling|XPHB|}) check to alter a creature's attitude."
+									"Effettua una prova di Carisma ({@skill Deception|XPHB}, {@skill Intimidation|XPHB}, {@skill Performance|XPHB} o {@skill Persuasion|XPHB}) o Saggezza ({@skill Animal Handling|XPHB|}) per alterare l'atteggiamento di una creatura."
 								],
 								[
 									"{@action Magic|XPHB}",
-									"Cast a spell, use a magic item, or use a magical feature."
+									"Lancia un incantesimo, usa un oggetto magico o usa una funzione magica."
 								],
 								[
 									"{@action Ready|XPHB}",
-									"Prepare to take an action in response to a trigger you define."
+									"Preparati a intraprendere un'azione in risposta a un trigger da te definito."
 								],
 								[
 									"{@action Search|XPHB}",
-									"Make a Wisdom ({@skill Insight|XPHB}, {@skill Medicine|XPHB}, {@skill Perception|XPHB}, or {@skill Survival|XPHB}) check."
+									"Effettua una prova di Saggezza ({@skill Insight|XPHB}, {@skill Medicine|XPHB}, {@skill Perception|XPHB} o {@skill Survival|XPHB})."
 								],
 								[
 									"{@action Study|XPHB}",
-									"Make an Intelligence ({@skill Arcana|XPHB}, {@skill History|XPHB}, {@skill Investigation|XPHB}, {@skill Nature|XPHB}, or {@skill Religion|XPHB}) check."
+									"Effettua una prova di Intelligenza ({@skill Arcana|XPHB}, {@skill History|XPHB}, {@skill Investigation|XPHB}, {@skill Nature|XPHB} o {@skill Religion|XPHB})."
 								],
 								[
 									"{@action Utilize|XPHB}",
-									"Use a nonmagical object."
+									"Usa un oggetto non magico."
 								]
 							],
 							"footnotes": [
@@ -308,75 +308,75 @@
 							"rows": [
 								[
 									"{@skill Acrobatics|XPHB}",
-									"Dexterity"
+									"Destrezza"
 								],
 								[
 									"{@skill Animal Handling|XPHB}",
-									"Wisdom"
+									"Saggezza"
 								],
 								[
 									"{@skill Arcana|XPHB}",
-									"Intelligence"
+									"Intelligenza"
 								],
 								[
 									"{@skill Athletics|XPHB}",
-									"Strength"
+									"Forza"
 								],
 								[
 									"{@skill Deception|XPHB}",
-									"Charisma"
+									"Carisma"
 								],
 								[
 									"{@skill History|XPHB}",
-									"Intelligence"
+									"Intelligenza"
 								],
 								[
 									"{@skill Insight|XPHB}",
-									"Wisdom"
+									"Saggezza"
 								],
 								[
 									"{@skill Intimidation|XPHB}",
-									"Charisma"
+									"Carisma"
 								],
 								[
 									"{@skill Investigation|XPHB}",
-									"Intelligence"
+									"Intelligenza"
 								],
 								[
 									"{@skill Medicine|XPHB}",
-									"Wisdom"
+									"Saggezza"
 								],
 								[
 									"{@skill Nature|XPHB}",
-									"Intelligence"
+									"Intelligenza"
 								],
 								[
 									"{@skill Perception|XPHB}",
-									"Wisdom"
+									"Saggezza"
 								],
 								[
 									"{@skill Performance|XPHB}",
-									"Charisma"
+									"Carisma"
 								],
 								[
 									"{@skill Persuasion|XPHB}",
-									"Charisma"
+									"Carisma"
 								],
 								[
 									"{@skill Religion|XPHB}",
-									"Intelligence"
+									"Intelligenza"
 								],
 								[
 									"{@skill Sleight of Hand|XPHB}",
-									"Dexterity"
+									"Destrezza"
 								],
 								[
 									"{@skill Stealth|XPHB}",
-									"Dexterity"
+									"Destrezza"
 								],
 								[
 									"{@skill Survival|XPHB}",
-									"Wisdom"
+									"Saggezza"
 								]
 							],
 							"data": {
@@ -389,7 +389,7 @@
 							"type": "entries",
 							"name": "Death Saving Throws",
 							"entries": [
-								"When you start your turn with 0 HP, roll {@dice 1d20}, and you succeed on a 10+.",
+								"Quando inizi il tuo turno con 0 HP, tira {@dice 1d20} e riesci con 10+.",
 								{
 									"type": "list",
 									"style": "list-hang",
@@ -398,33 +398,33 @@
 											"type": "item",
 											"name": "Third Success",
 											"entries": [
-												"You become {@variantrule Stable|XPHB}."
+												"Diventi {@variantrule Stable|XPHB}."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Third Failure",
 											"entries": [
-												"You die."
+												"Tu muori."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Rolling a 1",
 											"entries": [
-												"Counts as two failures."
+												"Conta come due fallimenti."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Rolling a 20",
 											"entries": [
-												"You regain 1 Hit Point."
+												"Recuperi 1 Punto Ferita."
 											]
 										}
 									]
 								},
-								"If you take damage at 0 HP, it counts as a failed {@variantrule Death Saving Throw|XPHB|Death Save} or two failures if the damage is from a {@variantrule Critical Hit|XPHB}."
+								"Se subisci danni a 0 HP, conta come un fallimento {@variantrule Death Saving Throw|XPHB|Death Save} o due fallimenti se il danno proviene da un {@variantrule Critical Hit|XPHB}."
 							],
 							"data": {
 								"variantRuleInclude": {
@@ -447,11 +447,11 @@
 							"rows": [
 								[
 									"11",
-									"Cloth, paper, rope"
+									"Stoffa, carta, corda"
 								],
 								[
 									"13",
-									"Crystal, glass, ice"
+									"Cristallo, vetro, ghiaccio"
 								],
 								[
 									"15",
@@ -459,11 +459,11 @@
 								],
 								[
 									"17",
-									"Stone"
+									"Calcolo"
 								],
 								[
 									"19",
-									"Iron, steel"
+									"Ferro, acciaio"
 								],
 								[
 									"21",
@@ -471,7 +471,7 @@
 								],
 								[
 									"23",
-									"Adamantine"
+									"Adamantino"
 								]
 							],
 							"data": {
@@ -495,22 +495,22 @@
 							],
 							"rows": [
 								[
-									"Tiny (bottle, lock)",
+									"Piccolo (bottiglia, lucchetto)",
 									"2 ({@dice 1d4})",
 									"5 ({@dice 2d4})"
 								],
 								[
-									"Small (chest, lute)",
+									"Piccolo (petto, liuto)",
 									"3 ({@dice 1d6})",
 									"10 ({@dice 3d6})"
 								],
 								[
-									"Medium (barrel, chandelier)",
+									"Medio (botte, lampadario)",
 									"4 ({@dice 1d8})",
 									"18 ({@dice 4d8})"
 								],
 								[
-									"Large (cart, dining table)",
+									"Grande (carrello, tavolo da pranzo)",
 									"5 ({@dice 1d10})",
 									"27 ({@dice 5d10})"
 								]
@@ -689,7 +689,7 @@
 							],
 							"rows": [
 								[
-									"Very easy",
+									"Molto facile",
 									"5"
 								],
 								[
@@ -697,7 +697,7 @@
 									"10"
 								],
 								[
-									"Medium",
+									"Medio",
 									"15"
 								],
 								[
@@ -705,11 +705,11 @@
 									"20"
 								],
 								[
-									"Very hard",
+									"Molto difficile",
 									"25"
 								],
 								[
-									"Nearly impossible",
+									"Quasi impossibile",
 									"30"
 								]
 							],
@@ -738,31 +738,31 @@
 								[
 									"{@item Candle|XPHB}",
 									"5 feet",
-									"+5 feet",
+									"+5 piedi",
 									"1 hour"
 								],
 								[
 									"{@item Lamp|XPHB}",
 									"15 feet",
-									"+30 feet",
-									"6 hours"
+									"+30 piedi",
+									"6 ore"
 								],
 								[
 									"{@item Bullseye Lantern|XPHB|Lantern, Bullseye}",
 									"60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}",
-									"+60 feet",
-									"6 hours"
+									"+60 piedi",
+									"6 ore"
 								],
 								[
 									"{@item Hooded Lantern|XPHB|Lantern, Hooded}",
-									"30 feet (none with hood lowered)",
-									"+30 feet (5 feet with hood lowered)",
-									"6 hours"
+									"30 piedi (nessuno con il cofano abbassato)",
+									"+30 piedi (5 piedi con cofano abbassato)",
+									"6 ore"
 								],
 								[
 									"{@item Torch|XPHB}",
 									"20 feet",
-									"+20 feet",
+									"+20 piedi",
 									"1 hour"
 								]
 							],
@@ -788,13 +788,13 @@
 							"rows": [
 								[
 									"{@variantrule Lightly Obscured|XPHB}",
-									"Creatures have {@variantrule Disadvantage|XPHB} on Wisdom ({@skill Perception|XPHB}) checks that rely on sight",
-									"{@variantrule Dim Light|XPHB}, patchy fog, moderate foliage"
+									"Le creature hanno {@variantrule Disadvantage|XPHB} prove di Saggezza ({@skill Perception|XPHB}) che si basano sulla vista",
+									"{@variantrule Dim Light|XPHB}, nebbia irregolare, fogliame moderato"
 								],
 								[
 									"{@variantrule Heavily Obscured|XPHB}",
-									"Creatures have the {@condition Blinded|XPHB} condition",
-									"{@variantrule Darkness|XPHB}, heavy fog, dense foliage"
+									"Le creature hanno la condizione {@condition Blinded|XPHB}.",
+									"{@variantrule Darkness|XPHB}, nebbia fitta, fogliame denso"
 								]
 							],
 							"data": {
@@ -812,7 +812,7 @@
 									{
 										"type": "cellHeader",
 										"width": 3,
-										"entry": "Distance Traveled Per...",
+										"entry": "Distanza percorsa per...",
 										"style": "th-skewer"
 									},
 									""
@@ -836,23 +836,23 @@
 								[
 									"Fast",
 									"400 feet",
-									"4 miles",
-									"30 miles",
-									"{@variantrule Disadvantage|XPHB} on Wisdom ({@skill Perception|XPHB} or {@skill Survival|XPHB}) and Dexterity ({@skill Stealth|XPHB}) checks"
+									"4 miglia",
+									"30 miglia",
+									"{@variantrule Disadvantage|XPHB} alle prove di Saggezza ({@skill Perception|XPHB} o {@skill Survival|XPHB}) e Destrezza ({@skill Stealth|XPHB})"
 								],
 								[
-									"Normal",
+									"Normale",
 									"300 feet",
-									"3 miles",
-									"24 miles",
-									"{@variantrule Disadvantage|XPHB} on Dexterity ({@skill Stealth|XPHB}) checks"
+									"3 miglia",
+									"24 miglia",
+									"{@variantrule Disadvantage|XPHB} alle prove di Destrezza ({@skill Stealth|XPHB})."
 								],
 								[
 									"Slow",
 									"200 feet",
-									"2 miles",
-									"18 miles",
-									"{@variantrule Advantage|XPHB} on Wisdom ({@skill Perception|XPHB} or {@skill Survival|XPHB}) checks"
+									"2 miglia",
+									"18 miglia",
+									"{@variantrule Advantage|XPHB} alle prove di Saggezza ({@skill Perception|XPHB} o {@skill Survival|XPHB})."
 								]
 							],
 							"data": {
@@ -882,39 +882,39 @@
 							],
 							"rows": [
 								[
-									"Arctic",
-									"Fast*",
+									"artico",
+									"Veloce*",
 									"{@dice 6d6 × 10} feet",
 									"20",
 									"10",
 									"10"
 								],
 								[
-									"Coastal",
-									"Normal",
+									"Costiero",
+									"Normale",
 									"{@dice 2d10 × 10} feet",
 									"10",
 									"5",
 									"15"
 								],
 								[
-									"Desert",
-									"Normal",
+									"Deserto",
+									"Normale",
 									"{@dice 6d6 × 10} feet",
 									"20",
 									"10",
 									"10"
 								],
 								[
-									"Forest",
-									"Normal",
+									"Foresta",
+									"Normale",
 									"{@dice 2d8 × 10} feet",
 									"10",
 									"15",
 									"15"
 								],
 								[
-									"Grassland",
+									"Prateria",
 									"Fast",
 									"{@dice 6d6 × 10} feet",
 									"15",
@@ -923,14 +923,14 @@
 								],
 								[
 									"Hill",
-									"Normal",
+									"Normale",
 									"{@dice 2d10 × 10} feet",
 									"15",
 									"10",
 									"15"
 								],
 								[
-									"Mountain",
+									"Montagna",
 									"Slow",
 									"{@dice 4d10 × 10} feet",
 									"20",
@@ -938,7 +938,7 @@
 									"20"
 								],
 								[
-									"Swamp",
+									"Pantano",
 									"Slow",
 									"{@dice 2d8 × 10} feet",
 									"10",
@@ -946,24 +946,24 @@
 									"20"
 								],
 								[
-									"Underdark",
-									"Normal",
+									"Sottosuolo",
+									"Normale",
 									"{@dice 2d6 × 10} feet",
 									"20",
 									"10",
 									"20"
 								],
 								[
-									"Urban",
-									"Normal",
+									"Urbano",
+									"Normale",
 									"{@dice 2d6 × 10} feet",
 									"20",
 									"15",
 									"15"
 								],
 								[
-									"Waterborne",
-									"Special†",
+									"A base d'acqua",
+									"Speciale†",
 									"{@dice 6d6 × 10} feet",
 									"15",
 									"10",
@@ -993,16 +993,16 @@
 							],
 							"rows": [
 								[
-									"Half Cover",
-									"+2 bonus to AC and Dexterity saving throws"
+									"Mezza copertura",
+									"Bonus di +2 ai tiri salvezza su CA e Destrezza"
 								],
 								[
-									"Three-Quarters Cover",
-									"+5 bonus to AC and Dexterity saving throws"
+									"Copertura a tre quarti",
+									"Bonus di +5 ai tiri salvezza su CA e Destrezza"
 								],
 								[
-									"Total Cover",
-									"Can't be targeted directly"
+									"Copertura totale",
+									"Non può essere preso di mira direttamente"
 								]
 							],
 							"data": {
@@ -1024,15 +1024,15 @@
 							],
 							"rows": [
 								[
-									"Trying to be quiet",
+									"Cercando di stare zitto",
 									"{@dice 2d6 × 5} feet"
 								],
 								[
-									"Normal noise level",
+									"Livello di rumore normale",
 									"{@dice 2d6 × 10} feet"
 								],
 								[
-									"Very loud",
+									"Molto rumoroso",
 									"{@dice 2d6 × 50} feet"
 								]
 							],
@@ -1055,8 +1055,8 @@
 							],
 							"rows": [
 								[
-									"Clear day, no obstructions",
-									"2 miles (40 miles from a height)"
+									"Giornata limpida, senza ostacoli",
+									"2 miglia (40 miglia da un'altitudine)"
 								],
 								[
 									"Rain ({@variantrule Lightly Obscured|XPHB})",
@@ -1064,7 +1064,7 @@
 								],
 								[
 									"Fog ({@variantrule Lightly Obscured|XPHB})",
-									"100 to 300 feet"
+									"Da 100 a 300 piedi"
 								]
 							],
 							"data": {
@@ -1090,16 +1090,16 @@
 									],
 									"rows": [
 										[
-											"1\u201314",
-											"Normal for the season"
+											"1–14",
+											"Normale per la stagione"
 										],
 										[
-											"15\u201317",
-											"{@dice 1d4 × 10} degrees Fahrenheit colder"
+											"15–17",
+											"{@dice 1d4 × 10} gradi Fahrenheit più freddi"
 										],
 										[
-											"18\u201320",
-											"{@dice 1d4 × 10} degrees Fahrenheit hotter"
+											"18–20",
+											"{@dice 1d4 × 10} gradi Fahrenheit più caldi"
 										]
 									],
 									"data": {
@@ -1122,19 +1122,19 @@
 									],
 									"rows": [
 										[
-											"1\u201312",
+											"1–12",
 											"None",
 											"None"
 										],
 										[
-											"13\u201317",
-											"Light",
-											"Light rain or light snowfall"
+											"13–17",
+											"Leggero",
+											"Pioggia leggera o nevicate leggere"
 										],
 										[
-											"18\u201320",
-											"Strong",
-											"Heavy rain or heavy snowfall"
+											"18–20",
+											"Forte",
+											"Forti piogge o forti nevicate"
 										]
 									],
 									"data": {

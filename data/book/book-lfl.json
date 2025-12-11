@@ -16,29 +16,29 @@
 					"width": 1700,
 					"height": 1301
 				},
-				"Idyllic whimsy and sinister shadows exist side by side in the fey realm of Lorwyn-Shadowmoor. This realm consists of opposing lands that twist together, their borders constantly in flux.",
-				"The land of Lorwyn teems with colorful creeks, bright meadows, verdant forests, and gentle hills. In its midst, denizens build cozy villages on endless summer days. Conversely, the land of Shadowmoor is steeped in foggy moors, jagged cliffs, treacherous bogs, and skeletal forests. Here, creatures cling to life within an oppressive gloom.",
-				"The magic of each land also influences its inhabitants, imparting aspects either playful or grim to creatures' appearances, personalities, and even memories. Those who hail from the realm of Lorwyn-Shadowmoor traverse it only at their own peril, risking the collapse of their own selves when they enter the opposing land.",
-				"Great adventure can still be found throughout Lorwyn-Shadowmoor. To visitors, the realm is an incredible place, where humans are alien and native species' outlooks are strange. The good-natured pranks of Lorwyn's bubbly creatures often ensnare visitors, while the unpredictable moods of Shadowmoor denizens can lead to violence.",
-				"A jaunt into the realm of Lorwyn-Shadowmoor might lead adventurers to hobnob with whimsical fairies, learn alchemy from goblin-like boggarts, or explore enlightenment with genasi-like flamekin. The risks to adventurers are real, but any foray into this realm could lead to the discovery of spectacular treasure not found elsewhere. The options for adventure here are limitless.",
+				"Fantasie idilliache e ombre sinistre convivono fianco a fianco nel regno fatato di Lorwyn-Shadowmoor. Questo regno è costituito da terre opposte che si intrecciano, i cui confini sono costantemente in continuo mutamento.",
+				"La terra di Lorwyn pullula di ruscelli colorati, prati luminosi, foreste verdeggianti e dolci colline. Al suo interno, gli abitanti costruiscono accoglienti villaggi nelle interminabili giornate estive. Al contrario, la terra di Landa Tenebrosa è immersa in brughiere nebbiose, scogliere frastagliate, paludi pericolose e foreste scheletriche. Qui, le creature si aggrappano alla vita in un'oscurità opprimente.",
+				"La magia di ogni terra influenza anche i suoi abitanti, conferendo aspetti giocosi o cupi all'aspetto, alla personalità e persino ai ricordi delle creature. Coloro che provengono dal regno di Lorwyn-Shadowmoor lo attraversano solo a proprio rischio e pericolo, rischiando il collasso di se stessi quando entrano nella terra avversaria.",
+				"Grandi avventure possono ancora essere trovate in tutta Lorwyn-Shadowmoor. Per i visitatori, il regno è un posto incredibile, dove gli esseri umani sono alieni e le prospettive delle specie autoctone sono strane. Gli scherzi bonari delle vivaci creature di Lorwyn spesso intrappolano i visitatori, mentre gli umori imprevedibili degli abitanti della Landa Tenebrosa possono portare alla violenza.",
+				"Una gita nel regno di Lorwyn-Shadowmoor potrebbe portare gli avventurieri a intrattenersi con fate stravaganti, imparare l'alchimia da mollicci simili a goblin o esplorare l'illuminazione con flamekin simili a genasi. I rischi per gli avventurieri sono reali, ma qualsiasi incursione in questo regno potrebbe portare alla scoperta di tesori spettacolari che non si trovano altrove. Le opzioni per l'avventura qui sono illimitate.",
 				{
 					"type": "section",
 					"name": "Using This Supplement",
 					"id": "001",
 					"entries": [
-						"This product includes the tools you need to play {@i Dungeons & Dragons} adventures set in the realm of Lorwyn-Shadowmoor.",
-						"This introduction gives an overview of Lorwyn-Shadowmoor, details key features, and provides guidance on adventuring here. Although this introduction and chapter 1 are suitable for all players' eyes, the remainder of this supplement is intended for Dungeon Masters only.",
-						"The following is included:",
-						"{@book Chapter 1|LFL|1} provides tools for creating a character who originates from Lorwyn or Shadowmoor.",
-						"{@book Chapter 2|LFL|2} presents a gazetteer of locations in Lorwyn and Shadowmoor, along with adventure seeds tied to these places.",
-						"{@book Chapter 3|LFL|3} presents stat blocks for several creatures found in the realm of Lorwyn-Shadowmoor.",
-						"{@book Chapter 4|LFL|4} includes a map and adventures set in Lorwyn's Burrenton, a village established by the halfling-like kithkin.",
+						"Questo prodotto include gli strumenti necessari per giocare {@i Dungeons & Dragons} avventure ambientate nel regno di Lorwyn-Shadowmoor.",
+						"Questa introduzione fornisce una panoramica di Lorwyn-Shadowmoor, dettaglia le caratteristiche principali e fornisce indicazioni su come avventurarsi qui. Sebbene questa introduzione e il capitolo 1 siano adatti agli occhi di tutti i giocatori, il resto di questo supplemento è destinato solo ai Dungeon Master.",
+						"Quanto segue è incluso:",
+						"{@book Chapter 1|LFL|1} fornisce strumenti per creare un personaggio originario di Lorwyn o Landa Tenebrosa.",
+						"{@book Chapter 2|LFL|2} presenta un dizionario geografico dei luoghi di Lorwyn e Landa Tenebrosa, insieme a spunti di avventura legati a questi luoghi.",
+						"{@book Chapter 3|LFL|3} presenta blocchi delle statistiche per diverse creature trovate nel regno di Lorwyn-Shadowmoor.",
+						"{@book Chapter 4|LFL|4} include una mappa e avventure ambientate a Lorwyn's Burrenton, un villaggio fondato da kithkin simili a halfling.",
 						{
 							"type": "inset",
 							"name": "Inspiration and Origins",
 							"id": "002",
 							"entries": [
-								"Drawing inspiration from Celtic folklore, the realm of Lorwyn-Shadowmoor originated as a plane in the multiverse of the {@i Magic: The Gathering} Trading Card Game. The first {@link Lorwyn|https://gatherer.wizards.com/sets/LRW}-{@link Shadowmoor|https://gatherer.wizards.com/sets/SHM} card set dates to 2007, and the game revisited the setting in 2015's {@link Magic Origins|https://gatherer.wizards.com/sets/ORI} as well as 2023's {@link March of the Machine|https://gatherer.wizards.com/sets/MOM}. The realm is the subject of a set forthcoming in early 2026."
+								"Traendo ispirazione dal folklore celtico, il regno di Lorwyn-Shadowmoor è nato come un piano nel multiverso del {@i Magic: The Gathering} Gioco di carte collezionabili. Il primo set di carte {@link Lorwyn|https://gatherer.wizards.com/sets/LRW}-{@link Shadowmoor|https://gatherer.wizards.com/sets/SHM} risale al 2007 e il gioco ha rivisitato l'ambientazione nel 2015 {@link Magic Origins|https://gatherer.wizards.com/sets/ORI} e nel 2023 {@link March of the Machine|https://gatherer.wizards.com/sets/MOM}. Il regno è oggetto di un set in arrivo all’inizio del 2026."
 							]
 						}
 					]
@@ -59,20 +59,20 @@
 							"width": 1700,
 							"height": 922
 						},
-						"Every locale in Lorwyn teems with life and vivid colors. Eternal day reigns here; the sun moves across the sky from one horizon to the next, its light forever visible. Outside areas are always bathed in {@variantrule Bright Light|XPHB}.",
+						"Ogni locale di Lorwyn pullula di vita e di colori vivaci. Qui regna il giorno eterno; il sole si muove attraverso il cielo da un orizzonte all'altro, la sua luce è sempre visibile. Le aree esterne sono sempre bagnate {@variantrule Bright Light|XPHB}.",
 						{
 							"type": "entries",
 							"name": "Lives of Whimsy and Wandering",
 							"id": "004",
 							"entries": [
-								"Lorwyn is home to elves, goblin-like boggarts, merfolk-like merrow, halfling-like kithkin, and genasi-like flamekin and rimekin. These peoples live peacefully in communities spread across the countryside, though old grudges and conflicts occasionally come to a head. (For more about the peoples of Lorwyn, see {@book chapter 1|LFL|1}.)",
-								"Some denizens of Lorwyn prefer a nomadic life. Minute faeries flit from village to village causing mischief, while ancient treefolk travel to share their wisdom. Enormous giants seek new frontiers to explore, and friendly changelings, who can take on any guise, are considered harbingers of good luck. Meanwhile, unfathomable beings called incarnations of nature combine the forms of many creatures to embody abstract concepts. (See {@book chapter 3|LFL|3} for more about the creatures that inhabit Lorwyn.)",
+								"Lorwyn è la patria degli elfi, dei mollicci simili ai goblin, dei merrow simili ai tritoni, dei kithkin simili agli halfling e ai flamekin e rimekin simili ai genasi. Questi popoli vivono pacificamente in comunità sparse nelle campagne, anche se di tanto in tanto vecchi rancori e conflitti giungono al culmine. (Per ulteriori informazioni sulla popolazione di Lorwyn, vedere {@book chapter 1|LFL|1}.)",
+								"Alcuni abitanti di Lorwyn preferiscono una vita nomade. Piccole fate svolazzano di villaggio in villaggio causando disordini, mentre gli antichi silvenosi viaggiano per condividere la loro saggezza. Enormi giganti cercano nuove frontiere da esplorare e i cangianti amichevoli, che possono assumere qualsiasi aspetto, sono considerati portatori di buona fortuna. Nel frattempo, esseri insondabili chiamati incarnazioni della natura combinano le forme di molte creature per incarnare concetti astratti. (Vedi {@book chapter 3|LFL|3} per ulteriori informazioni sulle creature che popolano Lorwyn.)",
 								{
 									"type": "entries",
 									"name": "Lorwyn Denizen Characteristics",
 									"id": "005",
 									"entries": [
-										"Spending significant time in Lorwyn magically imbues people with certain physical, mental, and personality traits. Lorwyn residents often sport bright-tinted hair or deep-hued eyes, and most prefer colorful clothing. Lorwyn's people furthermore tend toward optimism and look back on memories through a positive lens. Their personalities are capricious, playful, and devoid of malice."
+										"Trascorrere molto tempo a Lorwyn conferisce magicamente alle persone determinati tratti fisici, mentali e della personalità. I residenti di Lorwyn spesso sfoggiano capelli dai colori vivaci o occhi dai colori intensi, e la maggior parte preferisce abiti colorati. Inoltre, le persone di Lorwyn tendono all'ottimismo e guardano indietro ai ricordi attraverso una lente positiva. Le loro personalità sono capricciose, giocose e prive di malizia."
 									]
 								}
 							]
@@ -82,8 +82,8 @@
 							"name": "Eirdu, Embodiment of the Sun",
 							"id": "006",
 							"entries": [
-								"One of the most remarkable creatures in Lorwyn is Eirdu, a massive, pegasus-like being with six legs, a beaked head, and crimson fur that flows like flames from its mane and wings. The mysterious Eirdu avoids interactions with Lorwyn's people, though locals frequently witness Eirdu in flight, trailing the sun across the sky.",
-								"Most in Lorwyn consider Eirdu a spiritual symbol embodying the essence of their land. Some worship Eirdu as a god, believing that showing reverence to the magnificent creature brings a rejuvenating, lingering sense of contentment. Eirdu's adherents invoke its blessings with jingling bells and dancing feet. They believe that where there is joy, there is the warmth of the sun. To represent Eirdu in your game, use the {@creature Ancient Gold Dragon|XMM} stat block."
+								"Una delle creature più straordinarie di Lorwyn è Eirdu, un enorme essere simile a un pegaso con sei zampe, una testa a becco e una pelliccia cremisi che scorre come fiamme dalla criniera e dalle ali. Il misterioso Eirdu evita le interazioni con la gente di Lorwyn, anche se la gente del posto spesso osserva Eirdu in volo, trascinando il sole nel cielo.",
+								"La maggior parte di Lorwyn considera Eirdu un simbolo spirituale che incarna l'essenza della loro terra. Alcuni adorano Eirdu come un dio, credendo che mostrare reverenza verso la magnifica creatura porti un senso di appagamento rigenerante e duraturo. I seguaci di Eirdu invocano le sue benedizioni con campanelli tintinnanti e piedi danzanti. Credono che dove c'è gioia, c'è il calore del sole. Per rappresentare Eirdu nel tuo gioco, usa il blocco statistiche {@creature Ancient Gold Dragon|XMM}."
 							]
 						}
 					]
@@ -104,15 +104,15 @@
 							"width": 1700,
 							"height": 923
 						},
-						"Shadowmoor is a gloomy reflection of Lorwyn. Conditions are harsh, but despite the darkness and danger, its wilderness brims with life.",
-						"Perpetual night hangs over the realm; the moon crosses the horizon but never sets. Shadowmoor's lunar cycle is monthly, reflecting most Material Plane moons. Outside areas are in {@variantrule Dim Light|XPHB}, except during a new moon, when they are in {@variantrule Darkness|XPHB}.",
+						"La Landa Tenebrosa è un cupo riflesso di Lorwyn. Le condizioni sono dure, ma nonostante l'oscurità e il pericolo, la sua natura selvaggia è ricca di vita.",
+						"Sul regno incombe la notte perpetua; la luna attraversa l'orizzonte ma non tramonta mai. Il ciclo lunare della Landa Tenebrosa è mensile e riflette la maggior parte delle lune del Piano Materiale. Le aree esterne sono in {@variantrule Dim Light|XPHB}, tranne durante la luna nuova, quando sono in {@variantrule Darkness|XPHB}.",
 						{
 							"type": "entries",
 							"name": "Chaos Reigns",
 							"id": "008",
 							"entries": [
-								"Shadowmoor is a place of chaos wholly suffused with wild magic. The land is ever shifting, with entire forests, moors, and bogs prone to swapping locations. As a result, no map remains up to date for long.",
-								"At your discretion, anywhere in Shadowmoor might be a wild magic zone (see the {@hazard Wild Magic Zone|XDMG|Dungeon Master's Guide} )."
+								"La Landa Tenebrosa è un luogo di caos interamente soffuso di magia selvaggia. La terra è in continuo cambiamento, con intere foreste, brughiere e acquitrini inclini a scambiarsi di posizione. Di conseguenza, nessuna mappa rimane aggiornata a lungo.",
+								"A tua discrezione, ovunque nella Landa Tenebrosa potrebbe esserci una zona di magia selvaggia (vedi {@hazard Wild Magic Zone|XDMG|Dungeon Master's Guide} )."
 							]
 						},
 						{
@@ -120,14 +120,14 @@
 							"name": "Insular and Suspicious Outlooks",
 							"id": "009",
 							"entries": [
-								"Like in Lorwyn, Shadowmoor residents include elves, boggarts, merrow, kithkin, flamekin, and rimekin. However, these individuals tend to be more suspicious and insular than their Lorwyn counterparts. (For more about the peoples of Shadowmoor, see {@book chapter 1|LFL|1}.)",
-								"Shadowmoor inhabitants are also more xenophobic than those of Lorwyn, and violent conflicts are more common. Chaotic, donkey-headed noggles steal from anyone they meet. Faeries, treefolk, and giants roam the land, but are generally crueler than their Lorwyn kin. Shadowmoor's wilderness is stalked by frightful creatures, including scarecrows, mimics, and horrifying incarnations of abstract ideas come to life. (For more about the monsters found in Shadowmoor, see {@book chapter 3|LFL|3}.)",
+								"Come a Lorwyn, i residenti della Landa Tenebrosa includono elfi, mollicci, merrow, kithkin, flamekin e rimekin. Tuttavia, questi individui tendono ad essere più sospettosi e insulsi rispetto alle loro controparti Lorwyn. (Per ulteriori informazioni sui popoli della Landa Tenebrosa, vedere {@book chapter 1|LFL|1}.)",
+								"Gli abitanti della Landa Tenebrosa sono anche più xenofobi di quelli di Lorwyn, e i conflitti violenti sono più comuni. I caotici noggle dalla testa d'asino rubano a chiunque incontrino. Fate, silvestri e giganti vagano per la terra, ma sono generalmente più crudeli dei loro parenti Lorwyn. Le terre selvagge di Landa Tenebrosa sono infestate da creature spaventose, tra cui spaventapasseri, imitatori e terrificanti incarnazioni di idee astratte che prendono vita. (Per ulteriori informazioni sui mostri trovati nella Landa Tenebrosa, vedere {@book chapter 3|LFL|3}.)",
 								{
 									"type": "entries",
 									"name": "Shadowmoor Denizen Characteristics",
 									"id": "00a",
 									"entries": [
-										"Like Lorwyn, Shadowmoor magically influences those who spend significant time here. Residents tend toward desaturated colors. Their hair might be black, silver, or white, and their eyes could be a twilight hue. Many inhabitants prefer clothing in shades of black, deep blue, or rich purple. Shadowmoor denizens often see life through a stark lens of realism and even pessimism. They reflect on the past with melancholy and grim acceptance. The worst intentions are generally assumed, and hostility easily blooms."
+										"Come Lorwyn, Landa Tenebrosa influenza magicamente coloro che trascorrono molto tempo qui. I residenti tendono verso colori desaturati. I loro capelli potrebbero essere neri, argento o bianchi e i loro occhi potrebbero essere di una tonalità crepuscolare. Molti abitanti preferiscono abiti nei toni del nero, del blu intenso o del viola intenso. Gli abitanti della Landa Tenebrosa spesso vedono la vita attraverso una cruda lente di realismo e persino di pessimismo. Riflettono sul passato con malinconia e cupa accettazione. Generalmente si danno per scontate le intenzioni peggiori e l’ostilità sboccia facilmente."
 									]
 								}
 							]
@@ -137,8 +137,8 @@
 							"name": "Isilu, Embodiment of the Moon",
 							"id": "00b",
 							"entries": [
-								"Isilu, often considered a symbol of Shadowmoor, is an enormous, dragon-like creature with six legs and wings that trail billowing, void-like plumes. Similar to its Lorwyn counterpart, Eirdu, Isilu avoids interactions with Shadowmoor's denizens. Those who look carefully might spy Isilu along Shadowmoor's horizon, its neck rising majestically to showcase a head that looks like a floating moon.",
-								"Many Shadowmoor residents worship Isilu as a god, claiming they feel Isilu's bolstering presence in calm silences and gentle chills in the air. The faithful believe Isilu provides them with wisdom they wouldn't otherwise possess. Isilu's adherents invoke its blessings with contemplation at sites marked by standing stones. They believe that where there is quiet, there is the moon's inspiration. To represent Isilu in your game, use the {@creature Ancient Black Dragon|XMM} stat block."
+								"Isilu, spesso considerato un simbolo della Landa Tenebrosa, è un'enorme creatura simile a un drago con sei zampe e ali che lasciano dietro di sé piume fluttuanti simili al vuoto. Similmente alla sua controparte di Lorwyn, Eirdu, Isilu evita le interazioni con gli abitanti di Landa Tenebrosa. Coloro che guardano attentamente potrebbero scorgere Isilu lungo l'orizzonte di Landa Tenebrosa, il suo collo che si alza maestosamente per mostrare una testa che sembra una luna fluttuante.",
+								"Molti residenti della Landa Tenebrosa adorano Isilu come un dio, sostenendo di sentire la presenza rafforzante di Isilu nei silenzi calmi e nei delicati brividi nell'aria. I fedeli credono che Isilu fornisca loro la saggezza che altrimenti non avrebbero posseduto. I seguaci di Isilu invocano le sue benedizioni con la contemplazione nei siti contrassegnati da pietre erette. Credono che dove c'è quiete, c'è l'ispirazione della luna. Per rappresentare Isilu nel tuo gioco, usa il blocco statistiche {@creature Ancient Black Dragon|XMM}."
 							]
 						}
 					]
@@ -148,16 +148,16 @@
 					"name": "Eclipsed Realms",
 					"id": "00c",
 					"entries": [
-						"The boundaries between Lorwyn and Shadowmoor are clear, either shining with brilliant light or cloaked in deep shadow. Some border regions, however, are liminal spaces known as eclipsed realms. These strange places are wrapped in iridescent, colorful fog. Day and night happen at the same time.",
-						"Eclipsed realms are bathed in an eerie, gleaming twilight that never turns to night or brightens into day. The moon and sun are overlaid near the horizon, neither moving; as a result, the land is bathed in {@variantrule Dim Light|XPHB}. Eclipsed realms range in size from a few square feet to several square miles. They are uninhabited but often contain natural features like forests, mountains, and rolling plains.",
-						"Those who travel into eclipsed realms are influenced by both Lorwyn and Shadowmoor. Travelers from Lorwyn begin to take on aspects associated with Shadowmoor and vice versa, as the effects of both lands struggle for dominance.",
+						"I confini tra Lorwyn e Landa Tenebrosa sono chiari, risplendono di luce brillante o sono avvolti da un'ombra profonda. Alcune regioni di confine, tuttavia, sono spazi liminali noti come regni eclissati. Questi strani luoghi sono avvolti da una nebbia cangiante e colorata. Il giorno e la notte accadono nello stesso momento.",
+						"I regni eclissati sono immersi in un crepuscolo inquietante e scintillante che non si trasforma mai in notte né si illumina in giorno. La luna e il sole sono sovrapposti vicino all'orizzonte, nessuno dei due si muove; di conseguenza il terreno risulta bagnato {@variantrule Dim Light|XPHB}. Le dimensioni dei regni eclissati variano da pochi metri quadrati a diverse miglia quadrate. Sono disabitati ma spesso contengono caratteristiche naturali come foreste, montagne e pianure ondulate.",
+						"Coloro che viaggiano nei regni eclissati sono influenzati sia da Lorwyn che da Landa Tenebrosa. I viaggiatori provenienti da Lorwyn iniziano ad assumere aspetti associati a Landa Tenebrosa e viceversa, poiché gli effetti di entrambe le terre lottano per il dominio.",
 						{
 							"type": "entries",
 							"name": "Becoming a Calciform Creature",
 							"id": "00d",
 							"entries": [
-								"The eclipsed realms might not look dangerous, but they are among the most perilous places in Lorwyn-Shadowmoor. Individuals in an eclipsed realm endure the ongoing clash of opposing magical forces. This contradiction saps travelers of emotions and eventually of their will to live. A creature that stays in eclipsed realms too long turns into a \"calciform creature,\" or a barely living, emotionless husk who eventually gains the {@condition Petrified|XPHB} condition. Use this effect to establish a ticking clock for characters who linger in eclipsed realms.",
-								"At your discretion, characters who linger in eclipsed realms might lose access to their class features before they gain the Petrified condition. Once characters leave eclipsed realms, any abilities they lost are immediately restored and they no longer have the Petrified condition. Characters possessing either a {@item Reliquary of Dawn|LFL} or a {@item Reliquary of Twilight|LFL}, both described {@area later in this chapter|012|x}, are immune to these effects."
+								"I regni eclissati potrebbero non sembrare pericolosi, ma sono tra i luoghi più pericolosi di Lorwyn-Shadowmoor. Gli individui in un regno eclissato sopportano lo scontro continuo di forze magiche opposte. Questa contraddizione priva i viaggiatori delle emozioni e, infine, della loro voglia di vivere. Una creatura che rimane nei regni eclissati troppo a lungo si trasforma in una \"creatura calciforme\" o in un guscio privo di emozioni che vive a malapena e alla fine ottiene la condizione {@condition Petrified|XPHB}. Usa questo effetto per stabilire un ticchettio per i personaggi che indugiano nei regni eclissati.",
+								"A tua discrezione, i personaggi che indugiano nei regni eclissati potrebbero perdere l'accesso ai loro privilegi di classe prima di ottenere la condizione Pietrificato. Una volta che i personaggi lasciano i regni eclissati, tutte le abilità perse vengono immediatamente ripristinate e non presentano più la condizione Pietrificato. I personaggi che possiedono un {@item Reliquary of Dawn|LFL} o un {@item Reliquary of Twilight|LFL}, entrambi descritti {@area later in this chapter|012|x}, sono immuni a questi effetti."
 							]
 						}
 					]
@@ -167,14 +167,14 @@
 					"name": "Traversing Lorwyn-Shadowmoor",
 					"id": "00e",
 					"entries": [
-						"The borders of Lorwyn and Shadowmoor are mostly set. However, they can change for myriad unexpected reasons. Sometimes, boundary shifts are caused by notable births or deaths. Other times, boundaries shift for no reason at all.",
-						"Boundaries usually shift slowly, giving people time to pack their belongings and move before their land is subsumed. However, a sudden boundary shift can subject people, settlements, and landmasses to the transformational effects of the counterpart realm.",
+						"I confini di Lorwyn e Landa Tenebrosa sono per lo più fissati. Tuttavia, possono cambiare per una miriade di ragioni inaspettate. A volte, gli spostamenti dei confini sono causati da nascite o morti importanti. Altre volte, i confini si spostano senza motivo.",
+						"I confini di solito si spostano lentamente, dando alle persone il tempo di fare le valigie e spostarsi prima che la loro terra venga inglobata. Tuttavia, un improvviso spostamento dei confini può sottoporre persone, insediamenti e masse continentali agli effetti di trasformazione del regno controparte.",
 						{
 							"type": "entries",
 							"name": "Transformed Lands",
 							"id": "00f",
 							"entries": [
-								"A boundary shift immediately changes a location's appearance and features to match its new land. A pastoral Lorwyn village nestled in lush, rolling hills might be transformed into a walled fort with spikes surrounding each dwelling. A withered, weedy field in Shadowmoor might become a meadow of bright, colorful flowers in Lorwyn."
+								"Uno spostamento dei confini modifica immediatamente l'aspetto e le caratteristiche di un luogo per adattarlo al suo nuovo territorio. Un villaggio pastorale di Lorwyn annidato tra lussureggianti colline ondulate potrebbe essere trasformato in un forte fortificato con punte che circondano ogni abitazione. Un campo appassito e pieno di erbacce nella Landa Tenebrosa potrebbe diventare un prato di fiori luminosi e colorati a Lorwyn."
 							]
 						},
 						{
@@ -182,15 +182,15 @@
 							"name": "Effects on Inhabitants",
 							"id": "010",
 							"entries": [
-								"People from Lorwyn-Shadowmoor undergo an immediate change when they travel between lands. Adventurers who traverse great distances are especially likely to move from Lorwyn to Shadowmoor and vice versa.",
+								"Le persone di Lorwyn-Shadowmoor subiscono un cambiamento immediato quando viaggiano tra le terre. Gli avventurieri che attraversano grandi distanze hanno maggiori probabilità di spostarsi da Lorwyn a Landa Tenebrosa e viceversa.",
 								{
 									"type": "entries",
 									"name": "Eventide and Morningtide",
 									"id": "011",
 									"entries": [
-										"The supernatural effects of crossing from Lorwyn to Shadowmoor are collectively called Eventide, while similar effects of crossing from Shadowmoor to Lorwyn are collectively called Morningtide. Individuals native to other realms don't experience these instantaneous effects.",
-										"When a creature from Lorwyn crosses into Shadowmoor, it instantly takes on its Shadowmoor aspect, changing in both appearance and personality. The creature retains only dim, distorted memories of its time in Lorwyn. When a creature native to Shadowmoor crosses into Lorwyn, it takes on its Lorwyn aspect and its memories similarly change.",
-										"Each person's Shadowmoor and Lorwyn aspects are unique, and they typically reflect each other in opposite ways."
+										"Gli effetti soprannaturali dell'attraversamento da Lorwyn a Landa Tenebrosa sono chiamati collettivamente Eventide, mentre effetti simili dell'attraversamento da Lorwyn a Lorwyn sono chiamati collettivamente Morningtide. Gli individui originari di altri regni non sperimentano questi effetti istantanei.",
+										"Quando una creatura di Lorwyn attraversa la Landa Tenebrosa, assume immediatamente il suo aspetto Landa Tenebrosa, cambiando sia aspetto che personalità. La creatura conserva solo ricordi vaghi e distorti del tempo trascorso a Lorwyn. Quando una creatura nativa di Landa Tenebrosa attraversa Lorwyn, assume il suo aspetto di Lorwyn e i suoi ricordi cambiano allo stesso modo.",
+										"Gli aspetti di Landa Tenebrosa e Lorwyn di ogni persona sono unici e tipicamente si riflettono a vicenda in modi opposti."
 									]
 								}
 							]
@@ -200,7 +200,7 @@
 							"name": "Preventing Transformation",
 							"id": "012",
 							"entries": [
-								"Sages in the realm of Lorwyn-Shadowmoor have devised magical talismans called reliquaries to prevent the effects of Eventide and Morningtide.",
+								"I saggi del regno di Lorwyn-Shadowmoor hanno ideato talismani magici chiamati reliquiari per prevenire gli effetti di Eventide e Morningtide.",
 								{
 									"type": "list",
 									"columns": 3,
@@ -218,16 +218,16 @@
 					"name": "Lorwyn-Shadowmoor's History",
 					"id": "015",
 					"entries": [
-						"Until a few decades ago, Lorwyn-Shadowmoor existed either wholly as Lorwyn or Shadowmoor, never both simultaneously. The ruler of Lorwyn-Shadowmoor was a powerful faerie queen named {@link Oona|https://gatherer.wizards.com/SHM/en-us/172/oona-queen-of-the-fae}. Every three hundred years, an event known as the Great Aurora transformed the realm from one version to the other, shifting all lands and people into their opposing aspects. Individuals lost their memories of both the previous world and their prior existence.",
-						"Oona controlled these auroras and used the cycles to keep other species ignorant and easily controlled. Eventually, a coalition of heroes learned of Oona's malevolence and ultimately killed her. After Oona's defeat, the Lorwyn and Shadowmoor aspects of the realm clashed.",
-						"During this period of chaos, the aspects of the realm's lands and people changed erratically. Once Eirdu and Isilu came into existence, the lands slowly stabilized. Then, about two years ago, destructive, machinelike creatures called Phyrexians invaded, aiming to assimilate Lorwyn-Shadowmoor's people. The fight against the Phyrexians was bloody, but after months of intense battle, the armies of Lorwyn and guerrilla fighters of Shadowmoor prevailed and drove the invaders from the realm.",
-						"A tentative peace has since settled upon the realm. Most communities, however, are still weakened from losses suffered during the war. Heroes must arise from Lorwyn-Shadowmoor's people to help the populace navigate and prosper in this new dual reality.",
+						"Fino a qualche decennio fa, Lorwyn-Landa Tenebrosa esisteva interamente come Lorwyn o Landa Tenebrosa, mai entrambe contemporaneamente. La sovrana di Lorwyn-Shadowmoor era una potente regina delle fate di nome {@link Oona|https://gatherer.wizards.com/SHM/en-us/172/oona-queen-of-the-fae}. Ogni trecento anni, un evento noto come la Grande Aurora trasformava il regno da una versione all'altra, trasformando tutte le terre e le persone nei loro aspetti opposti. Gli individui hanno perso la memoria sia del mondo precedente che della loro esistenza precedente.",
+						"Oona controllava queste aurore e utilizzava i cicli per mantenere le altre specie ignoranti e facilmente controllabili. Alla fine, una coalizione di eroi venne a conoscenza della malevolenza di Oona e alla fine la uccise. Dopo la sconfitta di Oona, gli aspetti Lorwyn e Landa Tenebrosa del regno si scontrarono.",
+						"Durante questo periodo di caos, l'aspetto delle terre e delle persone del regno cambiò in modo irregolare. Una volta che Eirdu e Isilu vennero alla luce, le terre si stabilizzarono lentamente. Poi, circa due anni fa, creature distruttive e simili a macchine chiamate Phyrexiani invasero il territorio, con l'obiettivo di assimilare la gente di Lorwyn-Shadowmoor. La lotta contro i Phyrexiani fu sanguinosa, ma dopo mesi di intensa battaglia, gli eserciti di Lorwyn e i guerriglieri di Landa Tenebrosa prevalsero e scacciarono gli invasori dal reame.",
+						"Da allora una pace provvisoria si è stabilita sul regno. La maggior parte delle comunità, tuttavia, è ancora indebolita dalle perdite subite durante la guerra. Gli eroi devono emergere dal popolo di Lorwyn-Shadowmoor per aiutare la popolazione a navigare e prosperare in questa nuova doppia realtà.",
 						{
 							"type": "inset",
 							"name": "Maralen and Oura",
 							"id": "016",
 							"entries": [
-								"When Queen Oona fell, chaos overtook the faeries in the realm of Lorwyn-Shadowmoor; as a people, the faeries had followed Oona's orders. Many faeries turned to the leadership of Maralen, the elf who led the forces that defeated Oona. Maralen, originally Oona's avatar, claimed the title of queen after betraying Oona. Maralen installed herself in Oona's home in Shadowmoor's Glen Elendra. Not all faeries accept Maralen's leadership, though. A minority look to Oura, a bold faerie from Glen Priseil who dares to imitate Oona's imperious leadership style. Neither faerie queen has achieved the same authority as Oona, and neither has Oona's power."
+								"Quando la Regina Oona cadde, il caos colpì le fate nel regno di Lorwyn-Shadowmoor; come popolo, le fate avevano seguito gli ordini di Oona. Molte fate si rivolsero alla guida di Maralen, l'elfo che guidò le forze che sconfissero Oona. Maralen, originariamente l'avatar di Oona, rivendicò il titolo di regina dopo aver tradito Oona. Maralen si stabilì a casa di Oona nella Valle Elendra di Landa Tenebrosa. Tuttavia, non tutte le fate accettano la guida di Maralen. Una minoranza guarda a Oura, un'audace fata di Glen Priseil che osa imitare l'imperioso stile di leadership di Oona. Nessuna delle due regine delle fate ha raggiunto la stessa autorità di Oona, e nemmeno il potere di Oona."
 							]
 						}
 					]
@@ -250,14 +250,14 @@
 					"width": 1700,
 					"height": 1267
 				},
-				"This chapter provides rules for backgrounds and species of player characters from the realm of Lorwyn-Shadowmoor. These elements suggest the characters' early experiences and family origins before taking up an adventuring life and learning the capabilities of a class described in the {@book Player's Handbook|XPHB|3}.",
-				"Heroes from the realm of Lorwyn-Shadowmoor might embark on the adventures described in {@book chapter 4|LFL|4}, or they might find their way to another setting, at the DM's discretion.",
+				"Questo capitolo fornisce le regole per i background e le specie dei personaggi giocanti del regno di Lorwyn-Shadowmoor. Questi elementi suggeriscono le prime esperienze e le origini familiari dei personaggi prima di intraprendere una vita avventurosa e apprendere le capacità di una classe descritta nel {@book Player's Handbook|XPHB|3}.",
+				"Gli eroi del regno di Lorwyn-Shadowmoor potrebbero imbarcarsi nelle avventure descritte in {@book chapter 4|LFL|4} o potrebbero trovare la strada verso un'altra ambientazione, a discrezione del DM.",
 				{
 					"type": "section",
 					"name": "Backgrounds",
 					"id": "018",
 					"entries": [
-						"Characters from the realm of Lorwyn-Shadowmoor can select one of the following backgrounds. Origin feats are described in the {@area \"Feats\" section|01b|x}.",
+						"I personaggi del regno di Lorwyn-Shadowmoor possono selezionare uno dei seguenti background. I talenti dell'origine sono descritti nel {@area \"Feats\" section|01b|x}.",
 						{
 							"type": "list",
 							"columns": 3,
@@ -273,7 +273,7 @@
 					"name": "Feats",
 					"id": "01b",
 					"entries": [
-						"These Origin feats are appropriate for characters from Lorwyn or Shadowmoor.",
+						"Questi talenti dell'Origine sono appropriati per i personaggi di Lorwyn o Landa Tenebrosa.",
 						{
 							"type": "list",
 							"columns": 3,
@@ -289,7 +289,7 @@
 					"name": "Adapting Species",
 					"id": "024",
 					"entries": [
-						"The following species are native to Lorwyn and Shadowmoor. Player characters of these species should use existing rules as noted in the descriptions below, while customizing a character's physical description and personality as desired.",
+						"Le seguenti specie sono originarie di Lorwyn e Landa Tenebrosa. I personaggi giocanti di queste specie dovrebbero utilizzare le regole esistenti come indicato nelle descrizioni seguenti, personalizzando la descrizione fisica e la personalità di un personaggio come desiderato.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -298,7 +298,7 @@
 									"type": "item",
 									"name": "Playing a Boggart",
 									"entries": [
-										"Use the Goblin species (see {@race Goblin|MPMM|Mordenkainen Presents: Monsters of the Multiverse}) when creating a boggart player character.",
+										"Usa la specie Goblin (vedi {@race Goblin|MPMM|Mordenkainen Presents: Monsters of the Multiverse}) quando crei un personaggio giocante Molliccio.",
 										{
 											"type": "list",
 											"items": [
@@ -311,7 +311,7 @@
 									"type": "item",
 									"name": "Playing an Elf",
 									"entries": [
-										"Use the Elf species (see the {@race Elf|XPHB|Player's Handbook}) when creating an elf player character from Lorwyn or Shadowmoor. For the character's Elven Lineage trait, select Lorwyn or Shadowmoor from the Elven Lineages table.",
+										"Usa la specie Elfo (vedi {@race Elf|XPHB|Player's Handbook}) quando crei un personaggio giocante elfo da Lorwyn o Landa Tenebrosa. Per il tratto Lignaggio Elfico del personaggio, seleziona Lorwyn o Landa Tenebrosa dalla tabella Lignaggi Elfici.",
 										{
 											"type": "list",
 											"columns": 3,
@@ -325,8 +325,8 @@
 									"type": "item",
 									"name": "Playing a Faerie",
 									"entries": [
-										"Use the Fairy species (see {@race Fairy|MPMM|Mordenkainen Presents: Monsters of the Multiverse}) when creating a faerie player character. Shadowmoor faeries have {@sense Darkvision|XPHB} with a range of 120 feet.",
-										"For suggestions on how to run a faerie nonplayer character, see {@book chapter 3|LFL|3}.",
+										"Usa la specie Fata (vedi {@race Fairy|MPMM|Mordenkainen Presents: Monsters of the Multiverse}) quando crei un personaggio giocante fata. Le fate della Landa Tenebrosa hanno {@sense Darkvision|XPHB} con un raggio di 120 piedi.",
+										"Per suggerimenti su come gestire un personaggio fatato non giocante, vedere {@book chapter 3|LFL|3}.",
 										{
 											"type": "list",
 											"columns": 3,
@@ -340,7 +340,7 @@
 									"type": "item",
 									"name": "Playing a Flamekin",
 									"entries": [
-										"Use the Fire Genasi species (see {@race Genasi (Fire)|MPMM|Mordenkainen Presents: Monsters of the Multiverse}) when creating a flamekin player character.",
+										"Usa la specie Genasi del fuoco (vedi {@race Genasi (Fire)|MPMM|Mordenkainen Presents: Monsters of the Multiverse}) quando crei un personaggio giocante Flamekin.",
 										{
 											"type": "list",
 											"columns": 3,
@@ -354,7 +354,7 @@
 									"type": "item",
 									"name": "Playing a Kithkin",
 									"entries": [
-										"Use the Halfling species (see the {@race Halfling|XPHB|Player's Handbook}) when creating a kithkin player character. Shadowmoor kithkin have {@sense Darkvision|XPHB} with a range of 120 feet.",
+										"Usa la specie Halfling (vedi {@race Halfling|XPHB|Player's Handbook}) quando crei un personaggio giocante kithkin. I kithkin della Landa Tenebrosa hanno {@sense Darkvision|XPHB} con un raggio di 120 piedi.",
 										{
 											"type": "list",
 											"columns": 3,
@@ -373,7 +373,7 @@
 					"name": "Species Descriptions",
 					"id": "036",
 					"entries": [
-						"The following two new species are described below: Lorwyn Changeling and Rimekin.",
+						"Le seguenti due nuove specie sono descritte di seguito: Lorwyn Changeling e Rimekin.",
 						{
 							"type": "list",
 							"columns": 3,
@@ -402,13 +402,13 @@
 					"width": 1700,
 					"height": 2183
 				},
-				"The realm of Lorwyn-Shadowmoor features many locations for your adventures. This chapter details these spots and explains why heroes might visit. Use these hooks as inspiration for your Lorwyn-Shadowmoor campaign.",
+				"Il regno di Lorwyn-Shadowmoor offre molti luoghi per le tue avventure. Questo capitolo descrive dettagliatamente questi luoghi e spiega perché gli eroi potrebbero visitarli. Usa questi ganci come ispirazione per la tua campagna Lorwyn-Shadowmoor.",
 				{
 					"type": "section",
 					"name": "Lorwyn",
 					"id": "043",
 					"entries": [
-						"The following locations are usually in Lorwyn.",
+						"Le seguenti località sono solitamente a Lorwyn.",
 						{
 							"type": "entries",
 							"name": "Burrenton",
@@ -418,25 +418,25 @@
 									"type": "inset",
 									"id": "045",
 									"entries": [
-										"This cozy village boasts cobblestone paths winding through clusters of thatched-roof homes and shops. Wooden bridges span babbling brooks. Steam billows from the stacks of numerous smithies."
+										"Questo accogliente villaggio vanta sentieri acciottolati che si snodano tra gruppi di case e negozi dal tetto di paglia. Ponti di legno attraversano ruscelli gorgoglianti. Il vapore fuoriesce dalle cataste di numerose fucine."
 									]
 								},
-								"Burrenton is a clachan that is home to about two hundred residents. Most are kithkin, although its denizens also include flamekin and changelings. Burrenton is best known for its engineering and alchemy. Inventors, smiths, and alchemists produce a host of wonders, including fantastic flying machines and a substance called bottled fire, which uses the same statistics as {@item Alchemist's Fire|XPHB}.",
-								"Serving as de facto mayor is Inventor General Alba Lachlaen (Small, Neutral Good {@creature Noble|XMM}), a friendly and charismatic kithkin. Alba is the elected leader of Burrenton's numerous artisan and inventor guilds and is herself an accomplished airship inventor. Alba ensures the trustworthiness of visitors wishing to purchase significant technological items, including flying machines.",
-								"As an inventors' hub, Burrenton hosts a bustling community gathering space called the Aeghith. This large building hosts events like invention fairs, professional gatherings, and guild meetings at least once per fortnight. Weddings, parties, and holiday celebrations also take place in between. Director Morton Draechnir (Small, Neutral Good {@creature Commoner|XMM}) is a serious, bespectacled kithkin who oversees all events here. The Aeghith is further detailed in {@area chapter 4|0a6|x}.",
-								"When it's in Shadowmoor, Burrenton is called Barrenton.",
+								"Burrenton è un clachan che ospita circa duecento residenti. La maggior parte sono kithkin, sebbene tra i suoi abitanti ci siano anche flamekin e changeling. Burrenton è meglio conosciuto per la sua ingegneria e l'alchimia. Inventori, fabbri e alchimisti producono una serie di meraviglie, tra cui fantastiche macchine volanti e una sostanza chiamata fuoco in bottiglia, che utilizza le stesse statistiche di {@item Alchemist's Fire|XPHB}.",
+								"A ricoprire il ruolo di sindaco di fatto c'è l'inventore generale Alba Lachlaen (piccolo, neutrale buono {@creature Noble|XMM}), un kithkin amichevole e carismatico. Alba è il leader eletto delle numerose gilde di artigiani e inventori di Burrenton ed è lei stessa un'abile inventore di dirigibili. Alba garantisce l'affidabilità dei visitatori che desiderano acquistare importanti beni tecnologici, comprese le macchine volanti.",
+								"In quanto centro degli inventori, Burrenton ospita un vivace spazio di ritrovo comunitario chiamato Aeghith. Questo grande edificio ospita eventi come fiere delle invenzioni, incontri professionali e riunioni di gilda almeno una volta ogni quindici giorni. Nel mezzo si svolgono anche matrimoni, feste e celebrazioni festive. Il direttore Morton Draechnir (Piccolo, Neutrale Buono {@creature Commoner|XMM}) è un kithkin serio e occhialuto che supervisiona tutti gli eventi qui. L'Aeghith è ulteriormente dettagliato in {@area chapter 4|0a6|x}.",
+								"Quando è a Landa Tenebrosa, Burrenton si chiama Barrenton.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "046",
 									"entries": [
-										"Adventurers might visit Burrenton for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Burrenton per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "Aeghith",
 											"id": "047",
 											"entries": [
-												"The adventurers wish to show off an invention or are hired as security at an upcoming event at the Aeghith. The event is threatened by runaway inventions or sabotage among the participants."
+												"Gli avventurieri desiderano mostrare un'invenzione o vengono assunti come sicurezza in un prossimo evento ad Aeghith. L'evento è minacciato da invenzioni sfrenate o sabotaggi tra i partecipanti."
 											]
 										},
 										{
@@ -444,7 +444,7 @@
 											"name": "Bottled Fire",
 											"id": "048",
 											"entries": [
-												"The characters are hired to investigate accidents at Burrenton's bottled fire workshops. Inventor General Alba Lachlaen suspects subterfuge, so she needs the help of outsiders."
+												"I personaggi vengono assunti per indagare sugli incidenti avvenuti nei laboratori di fuoco in bottiglia di Burrenton. L'inventore generale Alba Lachlaen sospetta un sotterfugio, quindi ha bisogno dell'aiuto di estranei."
 											]
 										},
 										{
@@ -452,7 +452,7 @@
 											"name": "Flying Machines",
 											"id": "049",
 											"entries": [
-												"Alba Lachlaen requires help with several tasks before she'll allow the characters to purchase or borrow a flying machine. A fixed-wing, individual flying machine has the statistics of a {@item Rowboat|XPHB}, except that it flies at 1½ miles per hour instead of being rowed, and it costs 400 GP. Alba might rent the characters an {@item Airship|XPHB} that resembles a hot-air balloon for 2 GP per day, though she won't allow the characters to purchase it.",
+												"Alba Lachlaen ha bisogno di aiuto con diversi compiti prima di permettere ai personaggi di acquistare o prendere in prestito una macchina volante. Una macchina volante individuale ad ala fissa ha le statistiche di a {@item Rowboat|XPHB}, tranne per il fatto che vola a 1 miglio e mezzo all'ora invece di essere remata e costa 400 GP. Alba potrebbe noleggiare ai personaggi un {@item Airship|XPHB} che assomiglia a una mongolfiera per 2 GP al giorno, anche se non permetterà ai personaggi di acquistarlo.",
 												{
 													"type": "image",
 													"href": {
@@ -479,24 +479,24 @@
 									"type": "inset",
 									"id": "04b",
 									"entries": [
-										"This elegant city is built into the majestic trees of an ancient forest. High balconies and wide, sweeping arches lead from tree to tree. Carvings cover all surfaces and glitter in the sunlight."
+										"Questa elegante città è costruita tra i maestosi alberi di un'antica foresta. Alti balconi e ampi archi conducono da un albero all'altro. Le incisioni ricoprono tutte le superfici e brillano alla luce del sole."
 									]
 								},
-								"The village of Lys Alana is home to about five hundred residents, most of whom are elves. Overseeing the village with detached fairness is the elf Perfect Gecoran (Medium {@creature Noble|XMM}). While many elves in Lys Alana are distrustful of outsiders, Perfect Gecoran understands the value of diversity in both society and trade. As a result, some members of other species who are allies of the elves regularly visit the village, a fact Perfect Gecoran believes is necessary for revitalizing elven society.",
-								"High above the forest floor in the center of Lys Alana is Dawn's Light Palace, the only remaining elven palace. Within its carefully tended walls, diplomatic envoys discuss with leaders ways to expand elven influence in Lorwyn. Since not all elves wish to return to their imperial days, these discussions are sometimes tense. Still, the elves host elaborate parties and events in the palace's many suspended courtyards, where rich hospitality belies hints that some of these elves believe themselves superior. Organizing the inner workings of the palace is the friendly elf Seneschal Rosyln (Medium, Neutral Good {@creature Mage|XMM}). The seneschal comes into regular conflict with the elf High Perfect Morcant (Medium {@creature Spy Master|XMM}). Morcant is the highest authority at the palace and secretly wishes to reimpose elven rule in Lorwyn.",
-								"When it's in Shadowmoor, Lys Alana is called Caer Ulios.",
+								"Il villaggio di Lys Alana ospita circa cinquecento residenti, la maggior parte dei quali sono elfi. A supervisionare il villaggio con distaccata correttezza c'è l'elfo Perfect Gecoran (Medio {@creature Noble|XMM}). Mentre molti elfi di Lys Alana sono diffidenti nei confronti degli estranei, Perfect Gecoran comprende il valore della diversità sia nella società che nel commercio. Di conseguenza, alcuni membri di altre specie alleate degli elfi visitano regolarmente il villaggio, un fatto che Perfect Gecoran ritiene necessario per rivitalizzare la società elfica.",
+								"In alto sopra il suolo della foresta, nel centro di Lys Alana, si trova il Palazzo della Luce dell'Alba, l'unico palazzo elfico rimasto. All'interno delle sue mura attentamente curate, gli inviati diplomatici discutono con i leader sui modi per espandere l'influenza degli elfi a Lorwyn. Poiché non tutti gli elfi desiderano ritornare ai loro giorni imperiali, queste discussioni sono talvolta tese. Tuttavia, gli elfi organizzano feste ed eventi elaborati nei numerosi cortili sospesi del palazzo, dove la ricca ospitalità smentisce il fatto che alcuni di questi elfi si credano superiori. A organizzare il funzionamento interno del palazzo è il simpatico elfo siniscalco Rosyln (medio, neutrale buono {@creature Mage|XMM}). Il siniscalco entra regolarmente in conflitto con l'elfo Alto Perfetto Morcant (Medio {@creature Spy Master|XMM}). Morcant è la massima autorità del palazzo e desidera segretamente reimporre il dominio degli elfi a Lorwyn.",
+								"Quando è nella Landa Tenebrosa, Lys Alana si chiama Caer Ulios.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "04c",
 									"entries": [
-										"Adventurers might visit Lys Alana for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Lys Alana per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "Artistry",
 											"id": "04d",
 											"entries": [
-												"Committed to leaving the past behind, Perfect Gecoran seeks new decorations for the village through trade rather than theft. The characters might create their own works of art or obtain suitable items elsewhere."
+												"Impegnato a lasciarsi il passato alle spalle, Perfect Gecoran cerca nuove decorazioni per il villaggio attraverso il commercio piuttosto che il furto. I personaggi potrebbero creare le proprie opere d'arte o ottenere oggetti adatti altrove."
 											]
 										},
 										{
@@ -504,7 +504,7 @@
 											"name": "Dignitaries",
 											"id": "04e",
 											"entries": [
-												"The adventurers are part of a delegation to the palace, as diplomats or their security. The proceedings are disrupted by disagreements that threaten to become open conflict."
+												"Gli avventurieri fanno parte di una delegazione al palazzo, in qualità di diplomatici o della loro sicurezza. Il procedimento è interrotto da disaccordi che minacciano di diventare un conflitto aperto."
 											]
 										},
 										{
@@ -512,7 +512,7 @@
 											"name": "Moonglove",
 											"id": "04f",
 											"entries": [
-												"Perfect Gecoran approaches the characters to find a missing shipment of moonglove extract, a potent poison that uses the statistics of {@item Wyvern Poison|XDMG} (see the {@item Wyvern Poison|XDMG|Dungeon Master's Guide}). He is concerned that someone within his inner circle wants to use the poison to sow chaos."
+												"Perfect Gecoran si avvicina ai personaggi per trovare un carico mancante di estratto di guanto lunare, un potente veleno che utilizza le statistiche di {@item Wyvern Poison|XDMG} (vedi {@item Wyvern Poison|XDMG|Dungeon Master's Guide}). È preoccupato che qualcuno all'interno della sua cerchia ristretta voglia usare il veleno per seminare il caos."
 											]
 										}
 									]
@@ -528,25 +528,25 @@
 									"type": "inset",
 									"id": "051",
 									"entries": [
-										"A tall bell tower rises above a collection of thatched-roof homes. Nestled among them are amphitheaters that echo with the clamor of discussion and debate."
+										"Un alto campanile si erge sopra un insieme di case dal tetto di paglia. Tra questi si annidano gli anfiteatri che risuonano del clamore della discussione e del dibattito."
 									]
 								},
-								"The small clachan of Dundoolin is home to about one hundred residents, though visiting scholars give it the appearance of a larger settlement. Most permanent residents are kithkin, though faeries and changelings are also numerous. Dundoolin is a haven for scholars and sages, who travel here to study and debate with other visitors. The clachan is dotted with amphitheaters that host these lively discussions.",
-								"At its center is a collapsed fort residents informally call the Library of Dundoolin. Workers dig to uncover caches of documents stored in underground chambers sealed off long ago when boggarts collapsed a significant portion of the town.",
-								"While not an official ruler, the reserved and kind Chief Excavator Ern Barhen (Small, Lawful Good {@creature Mage|XMM}) leads efforts to uncover the fort's buried chambers. Beloved by scholars as well as Dundoolin's common folk, Ern ensures excavators work with the care the ancient documents require.",
-								"When it's in Shadowmoor, Dundoolin is called Dundaeron.",
+								"Il piccolo clachan di Dundoolin ospita circa un centinaio di residenti, anche se gli studiosi in visita gli danno l'aspetto di un insediamento più grande. La maggior parte dei residenti permanenti sono kithkin, sebbene siano numerosi anche le fate e i cangianti. Dundoolin è un paradiso per studiosi e saggi, che viaggiano qui per studiare e discutere con altri visitatori. Il clachan è costellato di anfiteatri che ospitano queste vivaci discussioni.",
+								"Al suo centro c'è un forte crollato che i residenti chiamano informalmente Biblioteca di Dundoolin. I lavoratori scavano per scoprire documenti nascosti in camere sotterranee sigillate molto tempo fa, quando i mollicci fecero crollare una parte significativa della città.",
+								"Pur non essendo un sovrano ufficiale, il riservato e gentile capo scavatore Ern Barhen (Piccolo, Legale Buono {@creature Mage|XMM}) guida gli sforzi per scoprire le camere sepolte del forte. Amato dagli studiosi e dalla gente comune di Dundoolin, Ern garantisce che gli escavatori lavorino con la cura richiesta dai documenti antichi.",
+								"Quando è nella Landa Tenebrosa, Dundoolin si chiama Dundaeron.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "052",
 									"entries": [
-										"Adventurers might visit Dundoolin for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Dundolin per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "Elemental Study",
 											"id": "053",
 											"entries": [
-												"Sages in Dundoolin are working on the Eightyfold Trail, a manuscript describing incarnations of nature. They hire the adventurers to investigate recent changes in the behavior of nearby incarnations. The sages believe that something, or someone, is deliberately disrupting these creatures. (For more about incarnations of nature, see {@book chapter 3|LFL|3}.)"
+												"I saggi di Dundoolin stanno lavorando all'Ottanta Traccia, un manoscritto che descrive le incarnazioni della natura. Assumono gli avventurieri per indagare sui recenti cambiamenti nel comportamento delle incarnazioni vicine. I saggi credono che qualcosa, o qualcuno, stia deliberatamente disturbando queste creature. (Per ulteriori informazioni sulle incarnazioni della natura, vedere {@book chapter 3|LFL|3}.)"
 											]
 										},
 										{
@@ -554,7 +554,7 @@
 											"name": "Excavation",
 											"id": "054",
 											"entries": [
-												"Ern Barhen hires adventurers to excavate chambers beneath the Library of Dundoolin. Recovered texts suggest this section of the structure is dangerous, with some chambers trapped or guarded. The excavator allows the characters to keep any nonacademic treasure they find."
+												"Ern Barhen assume avventurieri per scavare le camere sotto la Biblioteca di Dundoolin. I testi recuperati suggeriscono che questa sezione della struttura è pericolosa, con alcune camere intrappolate o sorvegliate. Lo scavatore permette ai personaggi di conservare qualsiasi tesoro non accademico che trovano."
 											]
 										},
 										{
@@ -562,7 +562,7 @@
 											"name": "Information Gathering",
 											"id": "055",
 											"entries": [
-												"All manner of scholars find their way to Dundoolin, and anyone is free to participate in discussion. The characters might match wits in debates before finding specific information they seek."
+												"Tutti i tipi di studiosi arrivano a Dundoolin e chiunque è libero di partecipare alla discussione. I personaggi potrebbero confrontarsi con l'ingegno nei dibattiti prima di trovare le informazioni specifiche che cercano."
 											]
 										}
 									]
@@ -578,26 +578,26 @@
 									"type": "inset",
 									"id": "057",
 									"entries": [
-										"Waterwheels and windmills churn busily in this humming lakeside town, where docks and cargo boats seem as numerous as the population."
+										"Ruote idrauliche e mulini a vento si agitano alacremente in questa vivace cittadina lacustre, dove i moli e le barche da carico sembrano numerosi quanto la popolazione."
 									]
 								},
-								"The largest clachan in Lorwyn, Kinsbaile is home to about six hundred residents. The majority are kithkin, though as a prominent trading hub, Kinsbaile also hosts boggarts, merrow, faeries, and flamekin. Trading traffic buzzes around the docks of Lake Laightle, which fuels the town's economy.",
-								"Merchants hold the most political power in Kinsbaile. The no-nonsense kithkin Guildmaster Claide Fiobhan (Small {@creature Noble|XMM}) is head of the Curiosities Traders' Guild, Kinsbaile's largest trade group, and he directs most of the town's commercial affairs. He's also the proprietor of a magic item shop called Sundry Curiosities.",
-								"A trading operation called Maghen's Marketplace flourishes beneath Lake Laightle's waves. The underwater bazaar is a hub for merchants to sell supplies to visiting merrow. Representing the interest of Maghen's Marketplace among Kinsbaile's guilds is Isla Wandergill ({@creature Merrow Haranguer|LFL}; see {@book chapter 3|LFL|3}), a stalwart merrow who, despite her aversion to land, occasionally attends meetings in the town proper.",
-								"Kinsbaile's leaders value community and traditions, and Kinsbaile hosts several celebratory festivals throughout the year. The largest is the Festival of Tales, a days-long event in which participants publicly recount their favorite experiences from the past year. Accounts are always embellished and highly entertaining, though they must be based in truth.",
-								"When it's in Shadowmoor, Kinsbaile is called Kinscaer.",
+								"Il clachan più grande di Lorwyn, Kinsbaile, ospita circa seicento residenti. La maggior parte sono kithkin, anche se, essendo un importante centro commerciale, Kinsbaile ospita anche mollicci, merrow, fate e flamekin. Il traffico commerciale ronza intorno ai moli del lago Laightle, il che alimenta l'economia della città.",
+								"I commercianti detengono il maggior potere politico a Kinsbaile. Il pratico maestro della gilda kithkin Claide Fiobhan (Piccolo {@creature Noble|XMM}) è a capo della Gilda dei commercianti di curiosità, il più grande gruppo commerciale di Kinsbaile, e dirige la maggior parte degli affari commerciali della città. È anche il proprietario di un negozio di oggetti magici chiamato Sundry Curiosities.",
+								"Un'operazione commerciale chiamata Mercato di Maghen fiorisce sotto le onde del Lago Laightle. Il bazar sottomarino è un centro in cui i mercanti vendono provviste ai merrow in visita. A rappresentare l'interesse del Mercato di Maghen tra le gilde di Kinsbaile è Isla Wandergill ({@creature Merrow Haranguer|LFL}; vedi {@book chapter 3|LFL|3}), una coraggiosa sirena che, nonostante la sua avversione per la terra, partecipa occasionalmente alle riunioni nella città vera e propria.",
+								"I leader di Kinsbaile apprezzano la comunità e le tradizioni e Kinsbaile ospita numerosi festival celebrativi durante tutto l'anno. Il più grande è il Festival dei Racconti, un evento di una giornata in cui i partecipanti raccontano pubblicamente le loro esperienze preferite dell'anno passato. I resoconti sono sempre abbelliti e molto divertenti, anche se devono essere basati sulla verità.",
+								"Quando è a Landa Tenebrosa, Kinsbaile si chiama Kinscaer.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "058",
 									"entries": [
-										"Adventurers might visit Kinsbaile for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Kinsbaile per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "Buying and Selling Magic Items",
 											"id": "059",
 											"entries": [
-												"Claide buys and sells magic items at standard prices (see the {@book Dungeon Master's Guide|XDMG|6|Magic Item Values by Rarity}). The magnificent Sundry Curiosities takes up three floors in downtown Kinsbaile. From there Claide sells most Common, Uncommon, and Rare magic items. Heroes looking for Very Rare or Legendary magic items might have luck in Maghen's Marketplace, as the underwater bazaar is famous for its many merchants' magic wares."
+												"Claide acquista e vende oggetti magici a prezzi standard (vedi {@book Dungeon Master's Guide|XDMG|6|Magic Item Values by Rarity}). Il magnifico Sundry Curiosities occupa tre piani nel centro di Kinsbaile. Da lì Claide vende la maggior parte degli oggetti magici comuni, non comuni e rari. Gli eroi alla ricerca di oggetti magici molto rari o leggendari potrebbero avere fortuna nel mercato di Maghen, poiché il bazar sottomarino è famoso per gli articoli magici dei suoi numerosi mercanti."
 											]
 										},
 										{
@@ -605,7 +605,7 @@
 											"name": "Festival of Tales",
 											"id": "05a",
 											"entries": [
-												"Thanks to their exploits in Lorwyn, the adventurers have become well known, and they receive an invitation to participate in the Festival of Tales. If they put on an entertaining show recounting their deeds, the adventurers can win a fabulous prize."
+												"Grazie alle loro imprese a Lorwyn, gli avventurieri sono diventati famosi e ricevono un invito a partecipare al Festival dei Racconti. Se raccontano le loro imprese in uno spettacolo divertente, gli avventurieri possono vincere un favoloso premio."
 											]
 										},
 										{
@@ -613,7 +613,7 @@
 											"name": "Odd Jobs",
 											"id": "05b",
 											"entries": [
-												"Kinsbaile has nearly as many merchants as trade goods, and most are looking to hire security or sales agents. A merchant approaches the characters with a difficult job that pays well."
+												"Kinsbaile ha quasi tanti commercianti quanti beni commerciali e la maggior parte sta cercando di assumere agenti di sicurezza o di vendita. Un mercante si avvicina ai personaggi con un lavoro difficile e ben pagato."
 											]
 										}
 									]
@@ -629,25 +629,25 @@
 									"type": "inset",
 									"id": "05d",
 									"entries": [
-										"Huts built into trees and atop ruined mounds rise out of the swamp. Twisting, raised wooden pathways stand above the pungent muck, connecting one place to another with little rhyme or reason."
+										"Capanne costruite sugli alberi e in cima a tumuli in rovina emergono dalla palude. Sentieri di legno tortuosi e rialzati si ergono sopra il fango pungente, collegando un luogo all'altro con poca rima o ragione."
 									]
 								},
-								"Mudbutton Warren is home to three hundred residents. Most are boggarts, though a few daring faeries, flamekin, and changelings also make it their home. Mudbutton Warren is among the most chaotic and raucous of all the boggart warrens in Lorwyn. Visitors should expect risky experiences\u2014they are as likely to stumble upon a potion that cures an ailment as they are to lose a toe while running from a strange beast a boggart thought funny to provoke.",
-								"One of the eldest boggarts in Mudbutton Warren, the eccentric Auntie Gobgot (Small, Chaotic Good {@creature Mage|XMM}) is fiercely protective of the boggarts under his care. Gobgot is a skilled alchemist in the peculiar manner of boggarts, since his concoctions often inspire a bit of disgust from visitors. Gobgot insists on greeting visitors in his hut so he can judge if they are a danger to warren or if the warren will be a danger to them.",
-								"Mudbutton Warren is known for chaotic parties, where boggarts engage in their favorite pastime: experiencing new things. Travelers who stumble upon the warren's feasting time are subjected to dangerous boggart antics, though residents try to avoid harming visitors. At quieter moments, Auntie Gobgot tells fables to the younger boggarts to teach them important lessons. Sometimes during feasts, visitors are asked to tell their own stories.",
-								"When it's in Shadowmoor, Mudbutton Warren is called Greasewretch Warren.",
+								"Mudbutton Warren ospita trecento residenti. La maggior parte sono Mollicci, anche se alcune fate audaci, Flamekin e Changeling ne fanno la loro casa. Il Mudbutton Warren è tra i più caotici e rumorosi di tutti i canali dei Mollicci di Lorwyn. I visitatori dovrebbero aspettarsi esperienze rischiose: hanno la stessa probabilità di imbattersi in una pozione che cura un disturbo così come di perdere un dito del piede mentre fuggono da una strana bestia che un molliccio ha ritenuto divertente provocare.",
+								"Uno dei mollicci più anziani di Mudbutton Warren, l'eccentrica zia Gobgot (Piccola, caotica buona {@creature Mage|XMM}) è ferocemente protettiva nei confronti dei mollicci affidati alle sue cure. Pappatutto è un abile alchimista alla maniera peculiare dei mollicci, poiché le sue miscele spesso suscitano un po' di disgusto nei visitatori. Gobgot insiste per accogliere i visitatori nella sua capanna in modo da poter giudicare se rappresentano un pericolo per il canale o se il canale sarà un pericolo per loro.",
+								"Mudbutton Warren è noto per le feste caotiche, in cui i mollicci si dedicano al loro passatempo preferito: sperimentare cose nuove. I viaggiatori che si imbattono nel periodo dei banchetti nel labirinto sono soggetti a pericolose buffonate da mollicci, sebbene i residenti cerchino di evitare di fare del male ai visitatori. Nei momenti più tranquilli, zia Gobgot racconta favole ai mollicci più giovani per insegnare loro lezioni importanti. A volte durante le feste, ai visitatori viene chiesto di raccontare le proprie storie.",
+								"Quando è a Landa Tenebrosa, Mudbutton Warren si chiama Greasewretch Warren.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "05e",
 									"entries": [
-										"Adventurers might visit Mudbutton Warren for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Mudbutton Warren per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "Alchemy",
 											"id": "05f",
 											"entries": [
-												"Auntie Gobgot is always in need of new and disgusting alchemical ingredients. He asks the adventurers to gather them from dangerous areas of the nearby swamps."
+												"Zia Pappagallo ha sempre bisogno di nuovi e disgustosi ingredienti alchemici. Chiede agli avventurieri di raccoglierli dalle zone pericolose delle vicine paludi."
 											]
 										},
 										{
@@ -655,7 +655,7 @@
 											"name": "Barter",
 											"id": "060",
 											"entries": [
-												"While money has little sway over boggarts, all kinds of unusual items find their way into the warren. Adventurers discover an item they are looking for and must offer something interesting to obtain it."
+												"Anche se il denaro ha poca influenza sui mollicci, nel labirinto si insinuano oggetti insoliti di ogni genere. Gli avventurieri scoprono un oggetto che stanno cercando e devono offrire qualcosa di interessante per ottenerlo."
 											]
 										},
 										{
@@ -663,7 +663,7 @@
 											"name": "Feasting Time",
 											"id": "061",
 											"entries": [
-												"The adventurers visit during a feast and are asked to participate in chaotic games and to tell stories from their travels. Those who impress Auntie Gobgot are rewarded with strange but powerful magic items."
+												"Gli avventurieri fanno visita durante una festa e vengono invitati a partecipare a giochi caotici e a raccontare storie dei loro viaggi. Coloro che impressionano zia Gobgot vengono ricompensati con oggetti magici strani ma potenti."
 											]
 										}
 									]
@@ -675,13 +675,13 @@
 							"name": "Other Locations",
 							"id": "062",
 							"entries": [
-								"Lorwyn also includes the following locations.",
+								"Lorwyn include anche le seguenti località.",
 								{
 									"type": "entries",
 									"name": "Goldmeadow",
 									"id": "063",
 									"entries": [
-										"A small farming community, Goldmeadow is known for its rolling fields, goats, and a small but hardy town watch that seeks to keep mischief-makers at bay."
+										"Una piccola comunità agricola, Goldmeadow è nota per i suoi campi ondulati, le capre e una piccola ma tenace guardia cittadina che cerca di tenere a bada i malintenzionati."
 									]
 								},
 								{
@@ -689,7 +689,7 @@
 									"name": "Glen Priseil",
 									"id": "064",
 									"entries": [
-										"Glen Priseil is a secluded valley boasting a rushing waterfall and idyllic pond. The self-proclaimed faerie queen Oura lives here, and she hopes to become as powerful as the fallen Oona. Oura and her strongest supporters\u2014a band of about fifty faeries\u2014hatch plans for gaining more allies as well as undermining Maralen, a queen who lives in Shadowmoor's Glen Elendra (see the {@area \"Other Locations\"|086|x} section in {@area \"Shadowmoor\"|06d|x})."
+										"Glen Priseil è una valle isolata che vanta una cascata impetuosa e un laghetto idilliaco. L'autoproclamata regina delle fate Oura vive qui e spera di diventare potente quanto la decaduta Oona. Oura e i suoi più forti sostenitori, una banda di una cinquantina di fate, escogitano piani per acquisire più alleati e indebolire Maralen, una regina che vive nella Valle Elendra di Landa Tenebrosa (vedi la sezione {@area \"Other Locations\"|086|x} in {@area \"Shadowmoor\"|06d|x})."
 									]
 								},
 								{
@@ -697,7 +697,7 @@
 									"name": "Grave of Nath",
 									"id": "065",
 									"entries": [
-										"The deceased elf Nath, a zealous and wicked hunter, was interred in a forest grove. The area, now called the Grave of Nath, has since gone wild with poisonous plants. The deadly foliage is said to flourish from Nath's still-lingering hatred."
+										"L'elfo defunto Nath, un cacciatore zelante e malvagio, fu sepolto in un boschetto. L'area, ora chiamata la Tomba di Nath, da allora è invasa da piante velenose. Si dice che il fogliame mortale fiorisca grazie all'odio ancora persistente di Nath."
 									]
 								},
 								{
@@ -705,7 +705,7 @@
 									"name": "Mount Tanufel",
 									"id": "066",
 									"entries": [
-										"The birthplace and home of most flamekin in Lorwyn, Mount Tanufel is a vibrant community of expressive individuals. Its snowy peaks also house a settlement of rimekin and are the headwaters of the Wanderwine River ({@area see below|06b|x})."
+										"Luogo di nascita e dimora della maggior parte dei Flamekin di Lorwyn, il Monte Tanufel è una vivace comunità di individui espressivi. Le sue cime innevate ospitano anche un insediamento di rimekin e sono le sorgenti del fiume Wanderwine ({@area see below|06b|x})."
 									]
 								},
 								{
@@ -713,7 +713,7 @@
 									"name": "Porringer Basin",
 									"id": "067",
 									"entries": [
-										"Formed from the now-flooded Porringer Valley, the Porringer Basin is home to a community of merrow. The merrow welcome adventurers who can help keep monsters away from the settlement."
+										"Formato dalla Porringer Valley, ora allagata, il Porringer Basin ospita una comunità di merrow. I merrow accolgono gli avventurieri che possono aiutarli a tenere lontani i mostri dall'insediamento."
 									]
 								},
 								{
@@ -721,7 +721,7 @@
 									"name": "Spinerock Knoll",
 									"id": "068",
 									"entries": [
-										"A dragon-shaped outcropping near the kithkin clachan of Burrenton, Spinerock Knoll is home to devotees who worship a cruel {@creature Ancient Red Dragon|XMM} called Knollspine. Though Knollspine hasn't been seen in years, these devotees believe they might one day be reborn as dragons. The devotees seek draconic relics and spread their zealotry to visitors."
+										"Spinerock Knoll, un affioramento a forma di drago vicino al kithkin clachan di Burrenton, ospita devoti che adorano un crudele {@creature Ancient Red Dragon|XMM} chiamato Knollspine. Anche se Knollspine non si vede da anni, questi devoti credono che un giorno potrebbero rinascere come draghi. I devoti cercano reliquie draconiche e diffondono il loro fanatismo ai visitatori."
 									]
 								},
 								{
@@ -729,7 +729,7 @@
 									"name": "Toetap Mire",
 									"id": "069",
 									"entries": [
-										"Toetap Mire is a vast wetland with a reputation for subsuming the creatures and plants that perish in its waters. Boggart apothecaries seek the strange liquids produced in the mire for use in their potion making."
+										"Toetap Mire è una vasta zona umida nota per contenere le creature e le piante che muoiono nelle sue acque. Gli speziali Mollicci ricercano gli strani liquidi prodotti nel fango per usarli nella preparazione delle loro pozioni."
 									]
 								},
 								{
@@ -737,7 +737,7 @@
 									"name": "Velis Vel Grotto",
 									"id": "06a",
 									"entries": [
-										"A glittering cavern studded with rune-etched quartz, Velis Vel Grotto is a pilgrimage site to which some changelings journey annually. Whenever a changeling takes on an entirely new form anywhere in Lorwyn, a new rune appears in the grotto to commemorate it."
+										"Una scintillante caverna tempestata di quarzo inciso con rune, la Grotta Velis Vel è un luogo di pellegrinaggio verso il quale alcuni changeling si recano ogni anno. Ogni volta che un mutaforma assume una forma completamente nuova in qualsiasi parte di Lorwyn, nella grotta appare una nuova runa per commemorarlo."
 									]
 								},
 								{
@@ -745,7 +745,7 @@
 									"name": "Wanderwine River",
 									"id": "06b",
 									"entries": [
-										"A sprawling river network that stretches across Lorwyn, the Wanderwine River is used to transport and store goods, primarily by merrow. Ports and trade hubs dot the river's length, offering weary travelers opportunities to refresh and resupply."
+										"Una vasta rete fluviale che si estende attraverso Lorwyn, il fiume Wanderwine viene utilizzato per trasportare e immagazzinare merci, principalmente dai merrow. Porti e centri commerciali costellano il corso del fiume, offrendo ai viaggiatori stanchi l'opportunità di rinfrescarsi e rifornirsi."
 									]
 								},
 								{
@@ -753,7 +753,7 @@
 									"name": "Warywind Bough",
 									"id": "06c",
 									"entries": [
-										"Secluded behind a waterfall, Warywind Bough is a secretive meeting place is where Lorwyn faeries plot and scheme. Few who stumble upon Warywind Bough are welcome unless they agree to take part in the faeries' mischief."
+										"Appartato dietro una cascata, Warywind Bough è un luogo d'incontro segreto dove le fate di Lorwyn complottano e complottano. Pochi di coloro che si imbattono in Warywind Bough sono i benvenuti a meno che non accettino di prendere parte alle malefatte delle fate."
 									]
 								}
 							]
@@ -765,7 +765,7 @@
 					"name": "Shadowmoor",
 					"id": "06d",
 					"entries": [
-						"The following locations are usually in Shadowmoor.",
+						"I seguenti luoghi si trovano solitamente nella Landa Tenebrosa.",
 						{
 							"type": "entries",
 							"name": "Ballynock",
@@ -775,25 +775,25 @@
 									"type": "inset",
 									"id": "06f",
 									"entries": [
-										"High, spiked walls encircle similarly grim-looking houses in this village that rises like a bristly hedgehog from the surrounding pasture. At its center, a tall and imposing watchtower keeps vigil."
+										"Alti muri appuntiti circondano case dall'aspetto altrettanto cupo in questo villaggio che si erge come un ispido riccio dai pascoli circostanti. Al suo centro veglia un'alta e imponente torre di guardia."
 									]
 								},
-								"A haven for hunters and trappers, Ballynock is a doun with two hundred residents. Almost all are kithkin, though a few elves and rimekin also live here. Ballynock's claustrophobic streets contain visible traps meant to keep intruders at bay. Smiths and engineers work together to create ingenious ways to capture prey both in the wild and on the battlefield.",
-								"The task of keeping the city safe falls to Watch Commander Cadri Kelken (Small {@creature Guard Captain|XMM}), a no-nonsense kithkin. Cadri is a skilled warrior and hunter, holding her position through respect and fear. She obsessively plans new defenses for Ballynock from her office in the doun's central watchtower, where the city watch is based.",
-								"The largest open space among the doun's tight confines is Trapper's Square, which is crowded with market stalls. Hunters sell their spoils alongside merchants selling supplies and weapons. Engineers demonstrate their traps here, occasionally injuring unwary passersby.",
-								"When it's in Lorwyn, Ballynock is called Ballyrush.",
+								"Un rifugio per cacciatori e cacciatori di pellicce, Ballynock è un doun con duecento residenti. Quasi tutti sono kithkin, anche se qui vivono anche alcuni elfi e rimekin. Le strade claustrofobiche di Ballynock contengono trappole visibili destinate a tenere a bada gli intrusi. Fabbri e ingegneri lavorano insieme per creare modi ingegnosi per catturare le prede sia in natura che sul campo di battaglia.",
+								"Il compito di mantenere la città al sicuro spetta al Comandante della Guardia Cadri Kelken (Piccolo {@creature Guard Captain|XMM}), un kithkin pratico. Cadri è un'abile guerriera e cacciatrice, che mantiene la sua posizione attraverso rispetto e paura. Pianifica ossessivamente nuove difese per Ballynock dal suo ufficio nella torre di guardia centrale del doun, dove ha sede la guardia cittadina.",
+								"Lo spazio aperto più grande tra gli stretti confini del doun è Trapper's Square, affollato di bancarelle del mercato. I cacciatori vendono il loro bottino insieme ai mercanti che vendono rifornimenti e armi. Gli ingegneri mostrano qui le loro trappole, ferendo occasionalmente i passanti incauti.",
+								"Quando è a Lorwyn, Ballynock si chiama Ballyrush.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "070",
 									"entries": [
-										"Adventurers might visit Ballynock for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Ballynock per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "Demonstration",
 											"id": "071",
 											"entries": [
-												"One of the merchants in Trapper's Square requires help selling his newest device. He offers a reward if the characters can convince onlookers to make a purchase."
+												"Uno dei commercianti di Trapper's Square ha bisogno di aiuto per vendere il suo nuovo dispositivo. Offre una ricompensa se i personaggi riescono a convincere gli spettatori a effettuare un acquisto."
 											]
 										},
 										{
@@ -801,7 +801,7 @@
 											"name": "Hunting",
 											"id": "072",
 											"entries": [
-												"Hunting and trapping parties regularly operate outside Ballynock and are always looking for skilled hands and strong arms. A party captain offers the adventurers a well-paying job to hunt a dangerous creature (perhaps one of the incarnations of nature described in {@book chapter 3|LFL|3})."
+												"Gruppi di cacciatori e cacciatori operano regolarmente fuori Ballynock e sono sempre alla ricerca di mani abili e braccia forti. Un capitano del gruppo offre agli avventurieri un lavoro ben pagato per dare la caccia a una creatura pericolosa (forse una delle incarnazioni della natura descritte in {@book chapter 3|LFL|3})."
 											]
 										},
 										{
@@ -809,7 +809,7 @@
 											"name": "Tripped Traps",
 											"id": "073",
 											"entries": [
-												"Someone is dismantling traps all over the doun, frustrating the traps' owners and undermining Ballynock's safety. Watch Commander Cadri suspects that infiltrators might be weakening Ballynock before an invasion. She hires the adventurers to investigate.",
+												"Qualcuno sta smantellando le trappole in tutto il doun, frustrando i proprietari delle trappole e minando la sicurezza di Ballynock. Il comandante Cadri sospetta che gli infiltrati possano indebolire Ballynock prima di un'invasione. Assume gli avventurieri per indagare.",
 												{
 													"type": "image",
 													"href": {
@@ -836,25 +836,25 @@
 									"type": "inset",
 									"id": "075",
 									"entries": [
-										"A collection of smooth stone houses clings stubbornly to the ragged edge of a snowy cliff. Muted blues and purples glow like hidden magma from within the dwellings."
+										"Un insieme di case di pietra levigata si aggrappa ostinatamente al bordo frastagliato di una scogliera innevata. Il blu e il viola tenui brillano come magma nascosto dall'interno delle abitazioni."
 									]
 								},
-								"Boreal Ridge is a small settlement that's home to one hundred residents. Most are rimekin, but a handful of flamekin and hardy kithkin also reside here. Perched on the edge of an unnatural cliff created during the Phyrexian invasion (see {@area \"Lorwyn-Shadowmoor's History\"|015|x} in the introduction), Boreal Ridge is a testament to rimekin resilience. In this harsh environment, Boreal Ridge is a place of contemplation. Those seeking mastery over their own skills or a quiet place to study are welcomed here, no matter who they are or where they are from.",
-								"A small congregation of rimekin created the settlement's first buildings. Their leader, Sarak (Medium, Lawful Neutral {@creature Priest|XMM}), represents the combined interests of those who live in Boreal Ridge. Introspective and kind, Sarak expects anyone who lives or stays within Boreal Ridge to respect the solitude of the inhabitants. If pushed, Sarak exhibits a cold fury and decisiveness that has earned the respect of everyone within Sarak's protection.",
-								"A persistent layer of mist hovers above a portion of Boreal Ridge. It's produced by the Ice Forge, where iron is tempered with frozen flames to create smithing masterworks. A place of collaboration in a settlement full of solitude, artisans of Ice Forge share their knowledge and work together to hone their skills. The forge's creations are each as unique as their creators, often letting the smiths express something new about themselves.",
-								"When it's in Lorwyn, Boreal Ridge is known by the same name.",
+								"Boreal Ridge è un piccolo insediamento che ospita un centinaio di residenti. La maggior parte sono rimekin, ma qui risiedono anche una manciata di flamekin e resistenti kithkin. Arroccato sul bordo di una scogliera innaturale creata durante l'invasione di Phyrexia (vedi {@area \"Lorwyn-Shadowmoor's History\"|015|x} nell'introduzione), Boreal Ridge è una testimonianza della resilienza del rimekin. In questo ambiente aspro, Boreal Ridge è un luogo di contemplazione. Coloro che cercano padronanza delle proprie capacità o un posto tranquillo dove studiare sono i benvenuti qui, non importa chi siano o da dove provengano.",
+								"Una piccola congregazione di rimekin creò i primi edifici dell'insediamento. Il loro leader, Sarak (Medio, Legale Neutrale {@creature Priest|XMM}), rappresenta gli interessi combinati di coloro che vivono nella Cresta Boreale. Introspettivo e gentile, Sarak si aspetta che chiunque viva o soggiorni all'interno della Cresta Boreale rispetti la solitudine degli abitanti. Se spinto, Sarak mostra una furia fredda e una risolutezza che si sono guadagnate il rispetto di tutti coloro che si trovano sotto la sua protezione.",
+								"Uno strato persistente di nebbia aleggia sopra una porzione della Dorsale Boreale. Viene prodotto dalla Forgia di Ghiaccio, dove il ferro viene temperato con fiamme ghiacciate per creare capolavori di forgiatura. Un luogo di collaborazione in un insediamento pieno di solitudine, gli artigiani di Ice Forge condividono le loro conoscenze e lavorano insieme per affinare le proprie abilità. Ciascuna delle creazioni della fucina è unica quanto i suoi creatori, e spesso consente ai fabbri di esprimere qualcosa di nuovo su se stessi.",
+								"Quando è a Lorwyn, la Cresta Boreale è conosciuta con lo stesso nome.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "076",
 									"entries": [
-										"Adventurers might visit Boreal Ridge for one of the following reasons:",
+										"Gli avventurieri potrebbero visitare Boreal Ridge per uno dei seguenti motivi:",
 										{
 											"type": "entries",
 											"name": "Creating a Masterpiece",
 											"id": "077",
 											"entries": [
-												"An artisan at the Ice Forge seeks assistance in creating an item the characters need. The artisan requires materials and the collaboration of other artisans, but quarrels have emerged about correct methods. The characters must get the smiths to work together to create the item."
+												"Un artigiano della Forgia di ghiaccio cerca assistenza per creare un oggetto di cui i personaggi hanno bisogno. L'artigiano richiede materiali e la collaborazione di altri artigiani, ma sono emersi dibattiti sui metodi corretti. I personaggi devono convincere i fabbri a lavorare insieme per creare l'oggetto."
 											]
 										},
 										{
@@ -862,7 +862,7 @@
 											"name": "Foundations",
 											"id": "078",
 											"entries": [
-												"A chasm in the cliffside near the town has begun to emit strange vapors. Fearing something left over from the Phyrexian invasion, Sarak hires the characters to investigate."
+												"Una voragine nella scogliera vicino alla città ha cominciato a emettere strani vapori. Temendo che ci sia qualcosa rimasto dall'invasione di Phyrexia, Sarak assume i personaggi per indagare."
 											]
 										},
 										{
@@ -870,7 +870,7 @@
 											"name": "Scholar",
 											"id": "079",
 											"entries": [
-												"The adventurers need information from a reclusive scholar living in Boreal Ridge. They must find and convince the scholar to reveal their secrets."
+												"Gli avventurieri hanno bisogno di informazioni da uno studioso solitario che vive a Boreal Ridge. Devono trovare e convincere lo studioso a rivelare i loro segreti."
 											]
 										}
 									]
@@ -886,25 +886,25 @@
 									"type": "inset",
 									"id": "07b",
 									"entries": [
-										"Elegant wooden structures cling to dead trees here, while tents rise like insectoid shells from the darkened earth. Beautiful purple lanterns fight off the encroaching gloom."
+										"Qui eleganti strutture in legno si aggrappano agli alberi morti, mentre le tende si ergono come gusci di insetto dalla terra oscurata. Bellissime lanterne viola combattono l'oscurità invadente."
 									]
 								},
-								"Shadowmoor's largest village is Caer Flur, a relatively young settlement that's home to five hundred residents. Elves are most of the population, alongside a small number of kithkin. Structures are interspersed with artistry from different elven clans, giving the village an eclectic, charming appearance. Farmers and builders of all sorts bustle to keep the new village in good order.",
-								"Shadowmoor elves have little use for the strict society of their Lorwyn kin and prefer to let leaders rise based on their own merit, not their perceived beauty. As such, Lead Farmer Taylin (Medium {@creature Commoner|XMM}) has emerged as a voice of calm amid the stress of building a new settlement. An elf, Taylin organizes the farmers and gardeners to provide the village with food. Taylin also settles disputes among the disparate clans that form the village.",
-								"Deep within Caer Flur is the Eluvian, an enormous tree elves use as a gathering place. The elves have lovingly carved structures into the tree that house beautiful objects of all kinds, from the magical to the practical. Anyone can ask to use something stored within the Eluvian; the cost usually involves contributing something even more beautiful to take its place. Among several elves who manage the Eluvian, Blossomseeker Miryn (Medium, Chaotic Neutral {@creature Performer Maestro|XMM}) stands out as an exuberant teller of tales and seeker of beauty.",
-								"When it's in Lorwyn, Caer Flur is called Lys Gaerlinon.",
+								"Il villaggio più grande di Landa Tenebrosa è Caer Flur, un insediamento relativamente giovane che ospita cinquecento residenti. Gli Elfi costituiscono la maggior parte della popolazione, insieme ad un piccolo numero di Kithkin. Le strutture sono intervallate dall'arte di diversi clan elfici, conferendo al villaggio un aspetto eclettico e affascinante. Contadini e costruttori di ogni genere si danno da fare per mantenere il nuovo villaggio in buon ordine.",
+								"Gli elfi della Landa Tenebrosa hanno poco interesse per la rigida società dei loro parenti Lorwyn e preferiscono lasciare che i leader emergano in base ai loro meriti, non alla loro bellezza percepita. Pertanto, il capo agricoltore Taylin (medio {@creature Commoner|XMM}) è emerso come una voce calma in mezzo allo stress dovuto alla costruzione di un nuovo insediamento. Un elfo, Taylin organizza i contadini e i giardinieri per fornire cibo al villaggio. Taylin risolve anche le controversie tra i diversi clan che formano il villaggio.",
+								"Nel profondo di Caer Flur c'è l'Eluvian, un enorme albero che gli elfi usano come luogo di ritrovo. Gli elfi hanno scolpito con amore nell'albero strutture che ospitano bellissimi oggetti di ogni tipo, da quelli magici a quelli pratici. Chiunque può chiedere di utilizzare qualcosa memorizzato nell'Eluvian; il costo di solito comporta il contributo di qualcosa di ancora più bello che prenda il suo posto. Tra i numerosi elfi che gestiscono l'Eluviano, la Cercafiori Miryn (Media, Caotica Neutrale {@creature Performer Maestro|XMM}) si distingue come esuberante narratrice di storie e ricercatrice di bellezza.",
+								"Quando è a Lorwyn, Caer Flur si chiama Lys Gaerlinon.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "07c",
 									"entries": [
-										"Adventurers might visit Caer Flur for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Caer Flur per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "Dawnglove",
 											"id": "07d",
 											"entries": [
-												"Taylin has heard of the planned theft of a bundle of precious dawnglove (see {@area \"Dawnglove Grove\"|089|x} later in this chapter), from which a cure for most ailments can be made. They hire the adventurers to protect the flowers as they are moved to a safer location."
+												"Taylin ha sentito parlare del furto pianificato di un fascio di preziosi guanti dell'alba (vedi {@area \"Dawnglove Grove\"|089|x} più avanti in questo capitolo), da cui si può ricavare una cura per la maggior parte dei disturbi. Assumono gli avventurieri per proteggere i fiori mentre vengono spostati in un luogo più sicuro."
 											]
 										},
 										{
@@ -912,7 +912,7 @@
 											"name": "Eluvian",
 											"id": "07e",
 											"entries": [
-												"The adventurers seek an unusual object stored at the Eluvian. To obtain it from the curators, they must provide something more beautiful in exchange."
+												"Gli avventurieri cercano un oggetto insolito conservato all'Eluvian. Per ottenerlo dai curatori, devono fornire in cambio qualcosa di più bello."
 											]
 										},
 										{
@@ -920,7 +920,7 @@
 											"name": "Pulling Up Roots",
 											"id": "07f",
 											"entries": [
-												"Someone or something is purposefully damaging the farms and gardens of Caer Flur. Worried that it might be deliberate sabotage, Taylin asks the adventurers to investigate."
+												"Qualcuno o qualcosa sta danneggiando intenzionalmente le fattorie e i giardini di Caer Flur. Preoccupato che possa trattarsi di un sabotaggio deliberato, Taylin chiede agli avventurieri di indagare."
 											]
 										}
 									]
@@ -936,25 +936,25 @@
 									"type": "inset",
 									"id": "081",
 									"entries": [
-										"Ramshackle wooden structures droop near a sinkhole by a lakeshore here. Water cascades down the sinkhole's earthen walls into a cavern full of underwater dwellings."
+										"Qui, strutture di legno sgangherate pendono vicino a una dolina sulla riva di un lago. L'acqua scende a cascata lungo le pareti di terra della dolina fino a raggiungere una caverna piena di abitazioni sottomarine."
 									]
 								},
-								"Druim Calad is home to three hundred residents, mostly merrow, though members of every other species from Shadowmoor can be found above the water in the settlement. Built from the remains of another city that collapsed into a sinkhole long ago, the settlement is as dangerous to navigate as it is to trade in. A maze of homes and businesses that belong to kithkin, flamekin, and rimekin hangs precariously above the brackish waters, sometimes bending and swaying with the movements of currents. Underwater, the merrow make their home. Valuables change hands all over the city, but blood from failed deals often stains planks.",
-								"While many would claim to control Druim Calad, none command respect like the unassuming tavern keeper Myyn, a {@creature Merrow Haranguer|LFL} (see {@book chapter 3|LFL|3}). Outwardly warm but inwardly calculating, Myyn keeps tabs on everything that happens in his city. Myyn takes decisive action against threats through the Finblades, a network of cutthroats who answer only to him.",
-								"Myyn lounges in the Red Shallows, a tavern just above the water. Amid the normal tables and chairs of a tavern, holes cut in the floor allow merrow to swim up to lounge and do business with other patrons. Information from all over Shadowmoor is available in the Red Shallows for a price, though rumors suggest the name comes from the blood that spills into the water from deals gone wrong.",
-								"When it's in Lorwyn, Druim Calad is called Crannog Ansicr.",
+								"Druim Calad ospita trecento residenti, per lo più merrow, anche se membri di tutte le altre specie della Landa Tenebrosa possono essere trovati sopra l'acqua nell'insediamento. Costruito sui resti di un'altra città crollata in una dolina molto tempo fa, l'insediamento è tanto pericoloso da navigare quanto lo è commerciare. Un labirinto di case e attività commerciali che appartengono a kithkin, flamekin e rimekin è sospeso precariamente sopra le acque salmastre, a volte piegandosi e ondeggiando con i movimenti delle correnti. Sott'acqua, i merrow stabiliscono la loro casa. Gli oggetti di valore passano di mano in tutta la città, ma il sangue derivante dagli affari falliti spesso macchia le assi.",
+								"Sebbene molti affermino di controllare Druim Calad, nessuno suscita rispetto come il modesto taverniere Myyn, un {@creature Merrow Haranguer|LFL} (vedi {@book chapter 3|LFL|3}). Esteriormente caloroso ma interiormente calcolatore, Myyn tiene d'occhio tutto ciò che accade nella sua città. Myyn intraprende un'azione decisiva contro le minacce attraverso i Finblades, una rete di tagliagole che rispondono solo a lui.",
+								"Myyn si rilassa a Red Shallows, una taverna appena sopra l'acqua. Tra i normali tavoli e sedie di una taverna, dei buchi praticati nel pavimento permettono ai merrow di nuotare per rilassarsi e fare affari con gli altri avventori. Informazioni provenienti da tutta la Landa Tenebrosa sono disponibili a pagamento nelle Secche Rosse, anche se le voci suggeriscono che il nome derivi dal sangue che si riversa nell'acqua a causa di accordi andati male.",
+								"Quando è a Lorwyn, Druim Calad si chiama Crannog Ansicr.",
 								{
 									"type": "entries",
 									"name": "Reasons to Visit",
 									"id": "082",
 									"entries": [
-										"Adventurers might visit Druim Calad for one of the following reasons.",
+										"Gli avventurieri potrebbero visitare Druim Calad per uno dei seguenti motivi.",
 										{
 											"type": "entries",
 											"name": "A Simple Job",
 											"id": "083",
 											"entries": [
-												"Myyn calls on the characters to investigate the murder of an informant deep in the settlement's underwater maze. In exchange for their aid, he offers them valuable information."
+												"Myyn invita i personaggi a indagare sull'omicidio di un informatore nel labirinto sottomarino dell'insediamento. In cambio del loro aiuto, offre loro preziose informazioni."
 											]
 										},
 										{
@@ -962,7 +962,7 @@
 											"name": "Den of Thieves",
 											"id": "084",
 											"entries": [
-												"Goods change hands in the Red Shallows with every conversation. The adventurers need to convince a patron to part with a specific item."
+												"Le merci cambiano di mano nelle Red Shallows ad ogni conversazione. Gli avventurieri devono convincere un mecenate a separarsi da un oggetto specifico."
 											]
 										},
 										{
@@ -970,7 +970,7 @@
 											"name": "Water Runs Red",
 											"id": "085",
 											"entries": [
-												"A deal the adventurers are making or that they find themselves in the middle of goes wrong, and the adventurers are the targets of Finblade cutthroats. They must resolve the situation and make amends to Myyn before something terrible happens."
+												"Un accordo che gli avventurieri stanno facendo o in cui si trovano nel mezzo va storto, e gli avventurieri diventano il bersaglio dei tagliagole di Finblade. Devono risolvere la situazione e fare ammenda con Myyn prima che accada qualcosa di terribile."
 											]
 										}
 									]
@@ -982,13 +982,13 @@
 							"name": "Other Locations",
 							"id": "086",
 							"entries": [
-								"Shadowmoor also includes the following locations.",
+								"La Landa Tenebrosa comprende anche le seguenti posizioni.",
 								{
 									"type": "entries",
 									"name": "Ash Forge",
 									"id": "087",
 									"entries": [
-										"The Ash Forge is an imposing edifice churning smoke into its surroundings. Within its walls is a forging device designed by Shadowmoor flamekin that produces weapons imbued with the desire to extinguish all life."
+										"La Forgia di Cenere è un imponente edificio che mescola fumo nell'ambiente circostante. Tra le sue mura si trova un dispositivo di forgiatura progettato dai Flamekin di Landa Tenebrosa che produce armi intrise del desiderio di estinguere tutta la vita."
 									]
 								},
 								{
@@ -996,7 +996,7 @@
 									"name": "Bellowrath",
 									"id": "088",
 									"entries": [
-										"Consisting mostly of flamekin, Bellowrath is home to exiles who believe the world's doom is at hand. These flamekin prophesy that the world will end under a cloud of ash when Mount Tanufel in Lorwyn erupts. The vague prophecies are based on the findings of exiled flamekin oracles, who long ago used reliquaries to venture into Lorwyn and study the mountain."
+										"Composto principalmente da Flamekin, Bellowrath ospita esuli che credono che il destino del mondo sia imminente. Questi Flamekin profetizzano che il mondo finirà sotto una nuvola di cenere quando il Monte Tanufel a Lorwyn erutterà. Le vaghe profezie si basano sulle scoperte degli oracoli Flamekin in esilio, che molto tempo fa usarono i reliquiari per avventurarsi a Lorwyn e studiare la montagna."
 									]
 								},
 								{
@@ -1004,7 +1004,7 @@
 									"name": "Dawnglove Grove",
 									"id": "089",
 									"entries": [
-										"A place of precious beauty found deep within the Creakwood, Dawnglove Grove contains dawnglove, a plant with petals that can be used to make all potencies of {@item Potion of Healing|XDMG|Potions of Healing}. It is guarded at all times by elves so no one mars a petal of the precious flower."
+										"Un luogo di preziosa bellezza che si trova nelle profondità del Creakwood, Dawnglove Grove contiene Dawnglove, una pianta con petali che può essere utilizzata per creare tutte le potenze di {@item Potion of Healing|XDMG|Potions of Healing}. È sorvegliato in ogni momento dagli elfi, quindi nessuno rovina un petalo del prezioso fiore."
 									]
 								},
 								{
@@ -1012,7 +1012,7 @@
 									"name": "Dark Meanders",
 									"id": "08a",
 									"entries": [
-										"The subterranean caverns known as the Dark Meanders are home to merrow. These caverns wind under the land, sometimes breaching the surface. Some of the deep underwater passages lead to Lorwyn, should adventurers be brave and equipped enough to find them."
+										"Le caverne sotterranee conosciute come i Meandri Oscuri ospitano i merrow. Queste caverne si snodano sotto terra, a volte sfondando la superficie. Alcuni dei profondi passaggi sottomarini conducono a Lorwyn, se gli avventurieri saranno abbastanza coraggiosi ed equipaggiati da trovarli."
 									]
 								},
 								{
@@ -1020,7 +1020,7 @@
 									"name": "Glen Elendra",
 									"id": "08b",
 									"entries": [
-										"The narrow mountain valley called Glen Elendra is home to faeries and was once the seat of the faerie Queen Oona's power. Glen Elendra was long considered a myth or a faerie prank; now a new queen, the elf Maralen, makes her home here. Maralen glamours the glen to protect it from those in Shadowmoor who would destroy its beauty and to provide privacy while her supporters plot against Oura, who lives in Lorwyn's Glen Priseil."
+										"La stretta valle montuosa chiamata Glen Elendra è la dimora delle fate e un tempo era la sede del potere della regina delle fate Oona. Glen Elendra è stata a lungo considerata un mito o uno scherzo fatato; ora una nuova regina, l'elfa Maralen, vive qui. Maralen incanta la valle per proteggerla da coloro che a Landa Tenebrosa vorrebbero distruggerne la bellezza e per garantire la privacy mentre i suoi sostenitori complottano contro Oura, che vive nella Valle Priseil di Lorwyn."
 									]
 								},
 								{
@@ -1028,7 +1028,7 @@
 									"name": "Grove of the Ashblossoms",
 									"id": "08c",
 									"entries": [
-										"In the Grove of the Ashblossoms within the Creakwood, the trees bloom with a peculiar ashen hue. The grove grew around the plot where Queen Oona was buried after her defeat. A few faeries revere the grove, believing the trees contain a portion of her spirit."
+										"Nel Boschetto dei Fiori di Cenere all'interno del Bosco Creak, gli alberi fioriscono con una particolare tonalità color cenere. Il boschetto cresceva attorno al terreno in cui fu sepolta la regina Oona dopo la sua sconfitta. Alcune fate venerano il boschetto, credendo che gli alberi contengano una parte del suo spirito."
 									]
 								},
 								{
@@ -1036,7 +1036,7 @@
 									"name": "Pokeprodder Bog",
 									"id": "08d",
 									"entries": [
-										"Travelers in the Pokeprodder Bog risk catching Sewer Plague (see the {@disease Sewer Plague|XDMG|Dungeon Master's Guide}); each full hour spent in the bog requires a {@dc 11} Constitution saving throw. On a failed save, the creature contracts Sewer Plague. A hearty clan of boggarts that are immune to Pokeprodder's deadly effects lives here."
+										"I viaggiatori nella palude Pokeprodder rischiano di contrarre la peste delle fogne (vedi {@disease Sewer Plague|XDMG|Dungeon Master's Guide}); ogni ora intera trascorsa nella palude richiede un tiro salvezza su Costituzione {@dc 11}. Se fallisce il tiro salvezza, la creatura contrae la Piaga delle Fogne. Qui vive un generoso clan di Mollicci immuni agli effetti mortali di Pokeprodder."
 									]
 								}
 							]
@@ -1050,19 +1050,19 @@
 			"name": "Bestiary",
 			"id": "08e",
 			"entries": [
-				"This chapter describes some of the creatures found in the lands of Lorwyn and Shadowmoor.",
+				"Questo capitolo descrive alcune delle creature che si trovano nelle terre di Lorwyn e Landa Tenebrosa.",
 				{
 					"type": "section",
 					"name": "Adapting Other Creatures",
 					"id": "08f",
 					"entries": [
-						"The following creatures are common in Lorwyn or Shadowmoor and can be represented with stat blocks from the {@book Monster Manual|XMM}.",
+						"Le seguenti creature sono comuni a Lorwyn o Landa Tenebrosa e possono essere rappresentate con blocchi statistiche dal {@book Monster Manual|XMM}.",
 						{
 							"type": "entries",
 							"name": "Faeries",
 							"id": "090",
 							"entries": [
-								"Faeries are fickle pranksters in Lorwyn and Shadowmoor. They live for petty intrigues and use illusion magic to conduct their capers. Faeries have an insectile appearance, though in Lorwyn they are more elf-like. To use a Lorwyn faerie in your game as a nonplayer character, use the {@creature Pixie|XMM} or {@creature Sprite|XMM} stat block. See {@book chapter 1|LFL|1} for information about creating a faerie player character."
+								"Le fate sono volubili burloni a Lorwyn e Landa Tenebrosa. Vivono per piccoli intrighi e usano la magia illusoria per portare a termine i loro capricci. Le fate hanno l'aspetto di un insetto, anche se a Lorwyn sono più simili agli elfi. Per utilizzare una fata Lorwyn nel tuo gioco come personaggio non giocante, usa il blocco statistiche {@creature Pixie|XMM} o {@creature Sprite|XMM}. Vedi {@book chapter 1|LFL|1} per informazioni sulla creazione di un personaggio giocante delle fate."
 							]
 						},
 						{
@@ -1070,8 +1070,8 @@
 							"name": "Scarecrows",
 							"id": "091",
 							"entries": [
-								"Found only in Shadowmoor, scarecrows are terrifying constructs made from the bodies of dead treefolk and reanimated with kithkin magic. Though mindless, the scarecrows of Shadowmoor exhibit malignance; even a scarecrow's creators aren't safe from their invention's bloody rampages. The magic of Shadowmoor infuses a scarecrow with malevolence. Whether encountered in Shadowmoor or on the borders of Lorwyn, scarecrows are portents of dread and doom.",
-								"No two scarecrows look alike, but many share a suite of common abilities. To represent a Shadowmoor scarecrow in your game, use the {@creature Scarecrow|XMM} stat block."
+								"Trovato solo nella Landa Tenebrosa, gli spaventapasseri sono terrificanti costrutti creati dai corpi dei silvana morti e rianimati con la magia kithkin. Sebbene privi di mente, gli spaventapasseri di Landa Tenebrosa mostrano malignità; perfino i creatori di uno spaventapasseri non sono al sicuro dalle sanguinose furie della loro invenzione. La magia di Landa Tenebrosa infonde malevolenza in uno spaventapasseri. Che si incontrino nella Landa Tenebrosa o ai confini di Lorwyn, gli spaventapasseri sono presagi di terrore e rovina.",
+								"Non esistono due spaventapasseri uguali, ma molti condividono una serie di abilità comuni. Per rappresentare uno spaventapasseri della Landa Tenebrosa nel tuo gioco, usa il blocco delle statistiche {@creature Scarecrow|XMM}."
 							]
 						},
 						{
@@ -1090,13 +1090,13 @@
 									"width": 1700,
 									"height": 1301
 								},
-								"Found in Lorwyn and Shadowmoor, treefolk are sentient, deciduous trees with vaguely bipedal trunks and exaggerated facial features. They begin life as ordinary trees, then gain sentience through an event called the Rising. It is said that treefolk are among the eldest creatures native to the realm of Lorwyn-Shadowmoor.",
+								"Trovato a Lorwyn e Landa Tenebrosa, i silvantropo sono alberi senzienti e decidui con tronchi vagamente bipedi e caratteristiche facciali esagerate. Iniziano la vita come alberi normali, per poi acquisire la sensibilità attraverso un evento chiamato Rivolta. Si dice che i silvenni siano tra le creature più antiche originarie del regno di Lorwyn-Shadowmoor.",
 								{
 									"type": "entries",
 									"name": "Lorwyn Treefolk",
 									"id": "093",
 									"entries": [
-										"In Lorwyn, some treefolk use their wisdom as a tool to support shorter-lived creatures. Others wield their intellect like a scepter and seek to rule over Lorwyn's younger denizens."
+										"A Lorwyn, alcuni silvestri usano la loro saggezza come strumento per sostenere le creature dalla vita più breve. Altri brandiscono il proprio intelletto come uno scettro e cercano di governare sugli abitanti più giovani di Lorwyn."
 									]
 								},
 								{
@@ -1104,7 +1104,7 @@
 									"name": "Shadowmoor Treefolk",
 									"id": "094",
 									"entries": [
-										"In Shadowmoor, treefolk are vengeful protectors of nature against the incursions of denizens of other realms. They remain isolated and lonely and are more prone to violence than their Lorwyn counterparts."
+										"Nella Landa Tenebrosa, i silvenni sono vendicativi protettori della natura contro le incursioni degli abitanti di altri regni. Rimangono isolati e soli e sono più inclini alla violenza rispetto alle loro controparti Lorwyn."
 									]
 								},
 								{
@@ -1112,7 +1112,7 @@
 									"name": "Treefolk Stat Blocks",
 									"id": "095",
 									"entries": [
-										"Any type of treefolk can be represented with the {@creature Treant|XMM} stat block. Roll on or choose a result from the Treefolk Varieties table to inspire what kind of tree a treefolk might be and what its personality might be like.",
+										"Qualsiasi tipo di silvengo può essere rappresentato con il blocco statistiche {@creature Treant|XMM}. Tira avanti o scegli un risultato dalla tabella Varietà di Silvantropo per ispirarti su che tipo di albero potrebbe essere un Silvantropo e quale potrebbe essere la sua personalità.",
 										{
 											"type": "table",
 											"colLabels": [
@@ -1126,19 +1126,19 @@
 											"rows": [
 												[
 													"1",
-													"An ash tree dedicated to defending the forest's people in Lorwyn or the forest's trees in Shadowmoor."
+													"Un frassino dedito alla difesa degli abitanti della foresta a Lorwyn o degli alberi della foresta a Landa Tenebrosa."
 												],
 												[
 													"2",
-													"A black poplar tree that loves to contemplate philosophy."
+													"Un pioppo nero che ama contemplare la filosofia."
 												],
 												[
 													"3",
-													"A rowan tree that seeks to destroy all technology."
+													"Un sorbo che cerca di distruggere tutta la tecnologia."
 												],
 												[
 													"4",
-													"A yew tree of a variety so rare that they're rumored to be extinct."
+													"Un albero di tasso di una varietà così rara che si dice sia estinto."
 												]
 											]
 										}
@@ -1153,7 +1153,7 @@
 					"name": "Creature Descriptions",
 					"id": "096",
 					"entries": [
-						"The following pages include descriptions and stat blocks for other creatures found in Lorwyn and Shadowmoor, presented in alphabetical order. The table presents these creatures' Challenge Rating and creature type.",
+						"Le pagine seguenti includono descrizioni e blocchi delle statistiche di altre creature trovate a Lorwyn e Landa Tenebrosa, presentate in ordine alfabetico. La tabella presenta il Grado di Sfida e il tipo di creatura di queste creature.",
 						{
 							"type": "table",
 							"colLabels": [
@@ -1180,17 +1180,17 @@
 								[
 									"4",
 									"{@creature Merrow Doublespeaker|LFL}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"5",
 									"{@creature Merrow Haranguer|LFL}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"6",
 									"{@creature Lorwyn Giant|LFL}",
-									"Giant"
+									"Gigante"
 								],
 								[
 									"7",
@@ -1200,7 +1200,7 @@
 								[
 									"8",
 									"{@creature Shadowmoor Giant|LFL}",
-									"Giant"
+									"Gigante"
 								],
 								[
 									"10",
@@ -1274,21 +1274,21 @@
 			"name": "Lorwyn Adventures",
 			"id": "0a5",
 			"entries": [
-				"Lorwyn and Shadowmoor are perfect places to set games that highlight whimsy or delve into shadowy themes. The adventures in this chapter, which highlight sabotaged inventions and chaotic disruptions, are just two such options.",
-				"This chapter presents details about the Aeghith, a community gathering place in the village of {@area Burrenton|044|x} (in Lorwyn), as well as example adventure outlines set there.",
+				"Lorwyn e Landa Tenebrosa sono luoghi perfetti per ambientare giochi che mettono in risalto la fantasia o approfondiscono temi oscuri. Le avventure di questo capitolo, che mettono in risalto invenzioni sabotate e interruzioni caotiche, sono solo due di queste opzioni.",
+				"Questo capitolo presenta i dettagli su Aeghith, un luogo di ritrovo della comunità nel villaggio di {@area Burrenton|044|x} (a Lorwyn), nonché esempi di avventure ambientate lì.",
 				{
 					"type": "section",
 					"name": "The Aeghith",
 					"id": "0a6",
 					"entries": [
-						"Nestled in the heart of Burrenton, a kithkin village in Lorwyn, the Aeghith is a beloved community center and landmark. As the Aeghith is Burrenton's tallest building, its gently sloping roof is the first thing travelers see when they approach the village.",
+						"Immerso nel cuore di Burrenton, un villaggio kithkin a Lorwyn, l'Aeghith è un amato centro comunitario e punto di riferimento. Poiché l'Aeghith è l'edificio più alto di Burrenton, il suo tetto leggermente inclinato è la prima cosa che i viaggiatori vedono quando si avvicinano al villaggio.",
 						{
 							"type": "entries",
 							"name": "Events Center",
 							"id": "0a7",
 							"entries": [
-								"Events take place in the Aeghith nearly every day. The facility holds professional functions, including invention fairs and guild meetings. The facility also hosts holiday and family celebrations, wedding and birthday parties, banquets, and more.",
-								"When it's not holding an event, the Aeghith is closed to the public while community members clean its facilities or prepare for the next gathering. Any resident of Burrenton is welcome to request use of the Aeghith for an event."
+								"Gli eventi si svolgono ad Aeghith quasi ogni giorno. La struttura ospita funzioni professionali, tra cui fiere delle invenzioni e riunioni delle corporazioni. La struttura ospita anche feste festive e familiari, matrimoni e feste di compleanno, banchetti e altro ancora.",
+								"Quando non si tiene un evento, l'Aeghith è chiuso al pubblico mentre i membri della comunità puliscono le sue strutture o si preparano per il prossimo incontro. Qualsiasi residente di Burrenton è benvenuto a richiedere l'uso dell'Aeghith per un evento."
 							]
 						},
 						{
@@ -1296,14 +1296,14 @@
 							"name": "Facility Staff",
 							"id": "0a8",
 							"entries": [
-								"Several Burrenton villagers make up the Aeghith's regular's staff.",
+								"Diversi abitanti del villaggio di Burrenton costituiscono lo staff regolare di Aeghith.",
 								{
 									"type": "entries",
 									"name": "Director",
 									"id": "0a9",
 									"entries": [
-										"Morton Draechnir (Small, Neutral Good {@creature Commoner|XMM}), a bespectacled and grave kithkin, considers and grants permission to all reasonable requests. Using the Aeghith is first come, first served.",
-										"Burrenton's villagers entrust Morton with all aspects of managing the facilities and events at the Aeghith. The kithkin takes his responsibilities seriously, employing villagers as staff members and volunteers."
+										"Morton Draechnir (Piccolo, Neutrale Buono {@creature Commoner|XMM}), un kithkin occhialuto e serio, considera e concede il permesso a tutte le richieste ragionevoli. Usare l'Aeghith è il primo arrivato, primo servito.",
+										"Gli abitanti del villaggio di Burrenton affidano a Morton tutti gli aspetti della gestione delle strutture e degli eventi all'Aeghith. Il kithkin prende sul serio le sue responsabilità, impiegando gli abitanti del villaggio come membri dello staff e volontari."
 									]
 								},
 								{
@@ -1311,7 +1311,7 @@
 									"name": "Assistant Director",
 									"id": "0aa",
 									"entries": [
-										"The Aeghith's assistant director is a flamekin named Feros Zoltir (Medium, Lawful Neutral {@creature Mage|XMM}). A chirpy young man, Feros spent time in nearby Spinerock Knoll but felt unbalanced in the presence of dragon worshippers. Feros is happy to live in Burrenton and plan events at the Aeghith."
+										"L'assistente alla regia di Aeghith è un flamekin di nome Feros Zoltir (Medio, Legale Neutrale {@creature Mage|XMM}). Un giovane allegro, Feros trascorreva del tempo nella vicina Spinerock Knoll ma si sentiva sbilanciato in presenza di adoratori di draghi. Feros è felice di vivere a Burrenton e pianificare eventi all'Aeghith."
 									]
 								},
 								{
@@ -1319,7 +1319,7 @@
 									"name": "Custodians",
 									"id": "0ab",
 									"entries": [
-										"Two full-time custodians named Feria and Salie Trochfynn (Small, Chaotic Good {@creature Commoner|XMM|Commoners}) clean up and rearrange furniture before and after the Aeghith's events. These passionate kithkin sisters are serious about cleanliness and orderliness but are never unfriendly with those who are untidy\u2014unless such folk are rude or cruel."
+										"Due custodi a tempo pieno di nome Feria e Salie Trochfynn (Piccola, Caotica Buona {@creature Commoner|XMM|Commoners}) puliscono e riordinano i mobili prima e dopo gli eventi di Aeghith. Queste appassionate sorelle kithkin tengono seriamente alla pulizia e all'ordine, ma non sono mai ostili con coloro che sono disordinati, a meno che queste persone non siano maleducate o crudeli."
 									]
 								}
 							]
@@ -1329,7 +1329,7 @@
 							"name": "General Features",
 							"id": "0ac",
 							"entries": [
-								"The Aeghith is in pristine condition despite existing for generations. Community members regularly repair and reinforce the Aeghith's wooden floors and stone exterior, and its thatched roof is replaced every decade. The building's other features are described below:",
+								"L'Aeghith è in ottime condizioni nonostante esista da generazioni. I membri della comunità riparano e rinforzano regolarmente i pavimenti in legno e l'esterno in pietra dell'Aeghith, e il suo tetto di paglia viene sostituito ogni decennio. Le altre caratteristiche dell'edificio sono descritte di seguito:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -1337,17 +1337,17 @@
 										{
 											"type": "item",
 											"name": "Ceilings",
-											"entry": "The first floor's ceiling is 20 feet high. The second floor's ceiling is 10 feet high."
+											"entry": "Il soffitto del primo piano è alto 20 piedi. Il soffitto del secondo piano è alto 10 piedi."
 										},
 										{
 											"type": "item",
 											"name": "Doors",
-											"entry": "The Aeghith's doors are made of wood. Exterior doors are always unlocked. Interior doors to storage closets ({@area area A4|0b4|x}), the director's office ({@area area A5|0b6|x}), and upstairs to the relaxation room ({@area area A7|0ba|x}) are locked. A character can take a {@action Utilize|XPHB} action to pick the lock, making a {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check with Thieves' Tools. On a successful check, the door opens."
+											"entry": "Le porte dell'Aeghith sono in legno. Le porte esterne sono sempre sbloccate. Le porte interne degli armadietti ({@area area A4|0b4|x}), dell'ufficio del direttore ({@area area A5|0b6|x}) e del piano superiore della sala relax ({@area area A7|0ba|x}) sono chiuse. Un personaggio può eseguire un'azione {@action Utilize|XPHB} per scassinare la serratura, effettuando una prova di Destrezza {@dc 15} ({@skill Sleight of Hand|XPHB}) con gli Strumenti da Ladro. Se la prova ha successo, la porta si apre."
 										},
 										{
 											"type": "item",
 											"name": "Lighting",
-											"entry": "The building's interior areas are lit with {@spell Continual Flame|XPHB} spells placed on sconces and wooden chandeliers."
+											"entry": "Le aree interne dell'edificio sono illuminate con incantesimi {@spell Continual Flame|XPHB} posizionati su applique e lampadari in legno."
 										}
 									]
 								}
@@ -1792,7 +1792,7 @@
 										}
 									]
 								},
-								"The following locations are keyed to the Aeghith map. Location descriptions assume there's no event happening inside. During your adventures, populate and describe the areas as you see fit.",
+								"Le seguenti posizioni sono collegate alla mappa di Aeghith. Le descrizioni delle posizioni presuppongono che non si verifichino eventi all'interno. Durante le tue avventure, popola e descrivi le aree come ritieni opportuno.",
 								{
 									"type": "entries",
 									"name": "A1: Greeting Hall",
@@ -1802,10 +1802,10 @@
 											"type": "inset",
 											"id": "0af",
 											"entries": [
-												"Swirling motifs of interlocking spheres are carved into the walls of this grand hall. A wide, green-painted double door stands open, leading north into the community hall. Narrow hallways lead to the east and west."
+												"Motivi vorticosi di sfere intrecciate sono scolpiti nelle pareti di questa grande sala. Un'ampia doppia porta dipinta di verde è aperta e conduce a nord nella sala della comunità. Stretti corridoi conducono ad est e ad ovest."
 											]
 										},
-										"This area serves as the Aeghith's main public entrance. Crowds congregate here and socialize before an event."
+										"Quest'area funge da principale ingresso pubblico di Aeghith. Le folle si riuniscono qui e socializzano prima di un evento."
 									]
 								},
 								{
@@ -1817,10 +1817,10 @@
 											"type": "inset",
 											"id": "0b1",
 											"entries": [
-												"These spacious areas are lit warmly by enormous wooden chandeliers resembling intertwined tree branches. A green-painted double door leads into the community hall."
+												"Queste aree spaziose sono illuminate calorosamente da enormi lampadari in legno che ricordano i rami degli alberi intrecciati. Una doppia porta dipinta di verde immette nella sala comune."
 											]
 										},
-										"When the Aeghith's event schedule is especially busy, smaller gatherings are held in these areas."
+										"Quando il programma degli eventi di Aeghith è particolarmente intenso, in queste aree si tengono raduni più piccoli."
 									]
 								},
 								{
@@ -1832,10 +1832,10 @@
 											"type": "inset",
 											"id": "0b3",
 											"entries": [
-												"Boxes of storage supplies and furniture are grouped haphazardly in this space. A double door opens into the community hall to the south, while small doors lead northward out of the building."
+												"Scatole di materiali per riporre oggetti e mobili sono raggruppate in modo casuale in questo spazio. Una doppia porta si apre nella sala comune a sud, mentre piccole porte conducono verso nord fuori dall'edificio."
 											]
 										},
-										"While still a public entrance, this area serves as spillover storage for the many supplies needed to run events."
+										"Pur essendo ancora un ingresso pubblico, quest'area funge da deposito per le numerose forniture necessarie per lo svolgimento degli eventi."
 									]
 								},
 								{
@@ -1847,11 +1847,11 @@
 											"type": "inset",
 											"id": "0b5",
 											"entries": [
-												"Tables, chairs, and boxes of dining and display supplies are stacked into every corner of these cramped spaces."
+												"Tavoli, sedie e scatole di forniture per la ristorazione e per l'esposizione sono accatastati in ogni angolo di questi spazi angusti."
 											]
 										},
-										"These are the Aeghith's primary storage spaces. Fare is prepared off site when food is served at events, though all dining supplies are kept here.",
-										"The Aeghith's custodians (see {@area \"Facility Staff\"|0a8|x} above) are typically found in these closets or bustling about {@area area A6|0b8|x}, rearranging things to fit back into storage."
+										"Questi sono gli spazi di stoccaggio principali di Aeghith. La tariffa viene preparata fuori sede quando il cibo viene servito durante gli eventi, sebbene tutte le forniture per la ristorazione siano conservate qui.",
+										"I custodi di Aeghith (vedi {@area \"Facility Staff\"|0a8|x} sopra) si trovano solitamente in questi armadi o si danno da fare {@area area A6|0b8|x}, riorganizzando le cose per riporle nel magazzino."
 									]
 								},
 								{
@@ -1863,10 +1863,10 @@
 											"type": "inset",
 											"id": "0b7",
 											"entries": [
-												"A heavy wooden desk and filing cabinets take up most of the room in this small office."
+												"Una pesante scrivania di legno e degli schedari occupano gran parte della stanza di questo piccolo ufficio."
 											]
 										},
-										"The Aeghith's director, Morton Draechnir (see {@area \"Facility Staff\"|0a8|x} above), spends most of his time here when the kithkin isn't meticulously managing an ongoing event."
+										"Il direttore di Aeghith, Morton Draechnir (vedi {@area \"Facility Staff\"|0a8|x} sopra), trascorre la maggior parte del suo tempo qui quando i Kithkin non gestiscono meticolosamente un evento in corso."
 									]
 								},
 								{
@@ -1878,10 +1878,10 @@
 											"type": "inset",
 											"id": "0b9",
 											"entries": [
-												"This sprawling open space features a dais that wraps around a central staircase leading upward. The walls' beautiful mahogany carvings depict various scenes of diverse families enjoying each other's company. Banks of privies are built into each corner."
+												"Questo ampio spazio aperto presenta una pedana che avvolge una scala centrale che conduce verso l'alto. Gli splendidi intagli in mogano delle pareti raffigurano varie scene di famiglie diverse che godono della reciproca compagnia. In ogni angolo sono costruite banche di latrine."
 											]
 										},
-										"The dais in this hall is typically used for head tables for parties or speakers during meetings. Stalls with small bathrooms are built into the corners of this area. The Aeghith's assistant director, the flamekin Feros Zoltir (see {@area \"Facility Staff\"|0a8|x} above), is usually here approximating the technical needs of an upcoming event."
+										"La pedana in questa sala viene generalmente utilizzata come tavolo principale per feste o relatori durante le riunioni. Negli angoli di questa zona sono ricavate bancarelle con piccoli bagni. L'assistente alla regia di Aeghith, il fiammeggiante Feros Zoltir (vedi {@area \"Facility Staff\"|0a8|x} sopra), di solito è qui per approssimare le esigenze tecniche di un evento imminente."
 									]
 								},
 								{
@@ -1893,10 +1893,10 @@
 											"type": "inset",
 											"id": "0bb",
 											"entries": [
-												"A wide staircase leads to an intimate, upstairs gathering area with paneled walls and a large wooden chandelier overhead. A roaring fireplace stands to the north, while comfortable lounge furniture is arranged throughout the space."
+												"Un'ampia scalinata conduce ad un'intima area di ritrovo al piano superiore con pareti rivestite in pannelli e un grande lampadario in legno sopra la testa. Un camino scoppiettante si trova a nord, mentre comodi mobili da salotto sono disposti in tutto lo spazio."
 											]
 										},
-										"This area is available for any event attendee to escape the downstairs din. Director Morton and the Aeghith's staff ensure the fire remains stoked."
+										"Quest'area è a disposizione di tutti i partecipanti all'evento per sfuggire al frastuono del piano di sotto. Il direttore Morton e lo staff di Aeghith si assicurano che il fuoco rimanga alimentato."
 									]
 								}
 							]
@@ -1908,8 +1908,8 @@
 					"name": "Sample Adventures",
 					"id": "0bc",
 					"entries": [
-						"Each of these adventure outlines provides enough information for you to run a one-session adventure, with the help of the map and location details that appear in this chapter. Monster stat blocks referenced in these adventures appear in {@book chapter 3|LFL|3} or the {@book Monster Manual|XMM}.",
-						"When play takes place in locations with NPCs described in the {@area \"Facility Staff\"|0a8|x} section, those NPCs take cover or run if combat breaks out.",
+						"Ciascuno di questi schemi di avventura fornisce informazioni sufficienti per gestire un'avventura di una sessione, con l'aiuto della mappa e dei dettagli sulla posizione che appaiono in questo capitolo. I blocchi delle statistiche dei mostri a cui si fa riferimento in queste avventure appaiono in {@book chapter 3|LFL|3} o {@book Monster Manual|XMM}.",
+						"Quando il gioco si svolge in luoghi con NPC descritti nella sezione {@area \"Facility Staff\"|0a8|x}, questi NPC si mettono al riparo o scappano se scoppia un combattimento.",
 						{
 							"type": "entries",
 							"name": "The Inventor's Sabotage",
@@ -1923,12 +1923,12 @@
 										{
 											"type": "item",
 											"name": "Situation",
-											"entry": "A bitter kithkin inventor named Lile Braechtil plans to sabotage other competitors during the Flying Machine Expo at the Aeghith. Once unchallenged, Lile will win the 500 GP prize and reclaim his pride."
+											"entry": "Un amaro inventore kithkin di nome Lile Braechtil progetta di sabotare altri concorrenti durante l'Expo delle Macchine Volanti ad Aeghith. Una volta incontrastato, Lile vincerà il premio 500 GP e recupererà il suo orgoglio."
 										},
 										{
 											"type": "item",
 											"name": "Hook",
-											"entry": "Strange mishaps have befallen inventors ahead of the expo, so the Aeghith's director, the kithkin Morton Draechnir (Small, Neutral Good {@creature Commoner|XMM}) has hired the characters as security. He offers each character 50 GP to respond to any incidents that arise during the event."
+											"entry": "Strani incidenti sono accaduti agli inventori prima dell'Expo, quindi il direttore di Aeghith, il kithkin Morton Draechnir (Piccolo, Neutrale Buono {@creature Commoner|XMM}) ha assunto i personaggi come sicurezza. Offre a ogni personaggio 50 GP per rispondere a eventuali incidenti che si verificano durante l'evento."
 										}
 									]
 								},
@@ -1937,16 +1937,16 @@
 									"name": "Encounters",
 									"id": "0be",
 									"entries": [
-										"During the Flying Machine Expo, the Aeghith's community hall ({@area area A6|0b8|x}) is filled with small booths in which inventors display their recent flying-machine innovations. At the event's end, a panel of kithkin judges from Burrenton's Flying Machine Guild deems one invention the cleverest and awards its inventor 500 GP. The judges are the bookish Glichle Caerclan and his bubbly sister, Vaerna Caerclan (Small, Neutral Good {@creature Commoner|XMM|Commoners}).",
-										"The adventure consists of these encounters.",
+										"Durante l'Expo delle macchine volanti, la sala della comunità di Aeghith ({@area area A6|0b8|x}) è piena di piccoli stand in cui gli inventori espongono le loro recenti innovazioni nel campo delle macchine volanti. Alla fine dell'evento, una giuria kithkin della Burrenton's Flying Machine Guild ritiene che un'invenzione sia la più intelligente e premia il suo inventore 500 GP. I giudici sono il libresco Glichle Caerclan e la sua vivace sorella, Vaerna Caerclan (Piccolo, Neutrale Buono {@creature Commoner|XMM|Commoners}).",
+										"L'avventura consiste in questi incontri.",
 										{
 											"type": "entries",
 											"name": "Unleashed Animated Objects",
 											"id": "0bf",
 											"entries": [
-												"A few days before the expo, the Aeghith's staff discovered that pranksters had sneaked into a storage closet and animated some of the facility's supplies, including several brooms and a custodial cart. Staff members contained the supplies in a crate they labeled \"Danger! Do not open!\" Just moments after the expo began, though, Lile discovered the crate and opened it.",
-												"Now, the animated supplies are destroying inventions and threatening the inventors throughout the hall ({@area area A6|0b8|x}). The supplies are three {@creature Animated Broom|XMM|Animated Brooms}; use the {@creature Animated Armor|XMM} stat block to represent the custodial cart.",
-												"If the characters confront the animated objects, they fight the characters. A few minutes after the objects' destructive rampage begins, the characters see a short, hooded figure dart toward the auxiliary entrance ({@area area A3|0b2|x}), a {@item Crowbar|XPHB} in hand. The hooded figure is Lile (Small, Neutral Evil {@creature Spy|XMM}), though he's unrecognizable now."
+												"Pochi giorni prima dell'Expo, lo staff di Aeghith scoprì che dei burloni si erano intrufolati in un ripostiglio e avevano animato alcune delle scorte della struttura, tra cui diverse scope e un carrello di custodia. I membri del personale contenevano le forniture in una cassa etichettata con \"Pericolo! Non aprire!\" Pochi istanti dopo l'inizio della fiera, però, Lile ha scoperto la cassa e l'ha aperta.",
+												"Ora i rifornimenti animati stanno distruggendo le invenzioni e minacciando gli inventori in tutta la sala ({@area area A6|0b8|x}). Le forniture sono tre {@creature Animated Broom|XMM|Animated Brooms}; usa il blocco statistiche {@creature Animated Armor|XMM} per rappresentare il carrello di custodia.",
+												"Se i personaggi affrontano gli oggetti animati, combattono i personaggi. Pochi minuti dopo l'inizio della furia distruttiva degli oggetti, i personaggi vedono una figura bassa e incappucciata sfrecciare verso l'ingresso ausiliario ({@area area A3|0b2|x}), con un {@item Crowbar|XPHB} in mano. La figura incappucciata è Lile (Piccolo, Neutrale Malvagio {@creature Spy|XMM}), anche se ora è irriconoscibile."
 											]
 										},
 										{
@@ -1954,8 +1954,8 @@
 											"name": "Scarecrows Unleashed",
 											"id": "0c0",
 											"entries": [
-												"After the characters subdue the helpers or 10 minutes after the helpers' rampage begins, Lile frees two {@creature Scarecrow|XMM|Scarecrows} from crates he brought to {@area area A3|0b2|x}. If the characters don't follow Lile into area A3, the scarecrows enter the community hall ({@area area A6|0b8|x}) and begin destroying the nearest inventions. The scarecrows are from Shadowmoor (see {@area chapter 3|091|x}) and wear {@item Reliquary of Twilight|LFL|Reliquaries of Twilight} (see the {@book introduction|LFL|0|Preventing Transformation}).",
-												"If the characters follow Lile, the characters arrive in area A3 in time to see him pry the lid off the crate from which the scarecrows emerge and attack. Lile scuttles behind a group of crates and takes the {@action Hide|XPHB} action during the combat."
+												"Dopo che i personaggi hanno sottomesso gli aiutanti o 10 minuti dopo l'inizio della furia degli aiutanti, Lile ne libera due {@creature Scarecrow|XMM|Scarecrows} dalle casse in cui ha portato {@area area A3|0b2|x}. Se i personaggi non seguono Lile nell'area A3, gli spaventapasseri entrano nella sala della comunità ({@area area A6|0b8|x}) e iniziano a distruggere le invenzioni più vicine. Gli spaventapasseri provengono da Landa Tenebrosa (vedi {@area chapter 3|091|x}) e indossano {@item Reliquary of Twilight|LFL|Reliquaries of Twilight} (vedi {@book introduction|LFL|0|Preventing Transformation}).",
+												"Se i personaggi seguono Lile, arriveranno nell'area A3 in tempo per vederlo sollevare il coperchio della cassa da cui emergono gli spaventapasseri e attaccano. Lile corre dietro un gruppo di casse ed esegue l'azione {@action Hide|XPHB} durante il combattimento."
 											]
 										},
 										{
@@ -1963,8 +1963,8 @@
 											"name": "The Mastermind",
 											"id": "0c1",
 											"entries": [
-												"If the characters followed Lile into {@area area A3|0b2|x}, he begins combat with them as soon as the scarecrows are defeated. If the characters didn't follow him, Lile tries to lure the characters into another room ({@area area A1|0ae|x}, {@area A2|0b0|x}, or {@area A3|0b2|x}) and fights them there.",
-												"When Lile is reduced to 13 Hit Points or fewer, he surrenders. He reveals his plan to ruin the other inventions at the fair so that his invention, a four-paddled propeller, would be declared winner. Lile is angry at the judges for writing a scathing review of his last expo entry, a convoluted double-decker seating apparatus, and wants to prove his talent."
+												"Se i personaggi hanno seguito Lile fino a {@area area A3|0b2|x}, lui inizierà a combattere con loro non appena gli spaventapasseri vengono sconfitti. Se i personaggi non lo hanno seguito, Lile cerca di attirarli in un'altra stanza ({@area area A1|0ae|x}, {@area A2|0b0|x} o {@area A3|0b2|x}) e li combatte lì.",
+												"Quando Lile viene ridotto a 13 Punti Ferita o meno, si arrende. Rivela il suo piano per rovinare le altre invenzioni della fiera in modo che la sua invenzione, un'elica a quattro pale, venga dichiarata vincitrice. Lile è arrabbiato con i giudici per aver scritto una recensione feroce della sua ultima partecipazione all'Expo, un contorto apparato di posti a sedere a due piani, e vuole dimostrare il suo talento."
 											]
 										},
 										{
@@ -1972,7 +1972,7 @@
 											"name": "Aftermath",
 											"id": "0c2",
 											"entries": [
-												"If the characters defeat Lile, each of them earns a bonus 100 XP. At your discretion, the judges might award the characters the 500 GP prize as well, especially if most other inventions were destroyed."
+												"Se i personaggi sconfiggono Lile, ognuno di loro guadagna un bonus di 100 XP. A tua discrezione, i giudici potrebbero assegnare ai personaggi anche il premio di 500 GP, soprattutto se la maggior parte delle altre invenzioni sono state distrutte."
 											]
 										}
 									]
@@ -1992,12 +1992,12 @@
 										{
 											"type": "item",
 											"name": "Situation",
-											"entry": "A kithkin owner of a refurbishment company named Welda Tollwyn is hosting a banquet at the Aeghith in honor of her past year of great commercial success. Welda recently angered a group of criminals and fears someone might attack her during the event."
+											"entry": "Una kithkin proprietaria di un'azienda di ristrutturazione chiamata Welda Tollwyn sta organizzando un banchetto all'Aeghith in onore del suo ultimo anno di grande successo commerciale. Welda ha recentemente fatto arrabbiare un gruppo di criminali e teme che qualcuno possa attaccarla durante l'evento."
 										},
 										{
 											"type": "item",
 											"name": "Hook",
-											"entry": "Welda hires the characters to accompany her at all times during the banquet. If she remains unharmed throughout the banquet, Welda offers to pay each character 400 GP."
+											"entry": "Welda assume i personaggi affinché la accompagnino in ogni momento durante il banchetto. Se rimane illesa durante il banchetto, Welda si offre di pagare a ogni personaggio 400 GP."
 										}
 									]
 								},
@@ -2006,14 +2006,14 @@
 									"name": "Encounters",
 									"id": "0c4",
 									"entries": [
-										"Welda (Small {@creature Noble|XMM}) has run afoul of the Trustworthy Fellows, a gang that hides illegal behavior behind legitimate shipping practices. The Fellows paid Welda to refurbish the gang's riverboats, but Welda refused to honor the deal once she discovered the group's criminality. The criminals' leader, a Neutral Evil {@creature Noggle Ransacker|LFL} (see {@book chapter 3|LFL|3}) from Shadowmoor named Derkin Hiffnockle, has threatened that Welda will pay in blood if she doesn't honor the deal.",
-										"During the banquet, the Aeghith's community hall ({@area area A6|0b8|x}) is set up with dining tables. The adventure consists of these encounters.",
+										"Welda (Piccola {@creature Noble|XMM}) si è scontrata con i Trustworthy Fellows, una banda che nasconde comportamenti illegali dietro pratiche di spedizione legittime. I Fellow pagarono Welda per ristrutturare i battelli fluviali della banda, ma Welda si rifiutò di onorare l'accordo una volta scoperta la criminalità del gruppo. Il leader dei criminali, un Neutrale Malvagio {@creature Noggle Ransacker|LFL} (vedi {@book chapter 3|LFL|3}) della Landa Tenebrosa di nome Derkin Hiffnockle, ha minacciato che Welda pagherà con il sangue se non manterrà l'accordo.",
+										"Durante il banchetto, la sala della comunità di Aeghith ({@area area A6|0b8|x}) è allestita con tavoli da pranzo. L'avventura consiste in questi incontri.",
 										{
 											"type": "entries",
 											"name": "Bathroom Ambush",
 											"id": "0c5",
 											"entries": [
-												"Before guests start arriving, Welda heads to the bathrooms in the northwest corner of the community hall ({@area area A6|0b8|x}) to adjust her attire. An elf and Trustworthy Fellow named Razorblade (Medium, Chaotic Evil {@creature Assassin|XMM}) is lurking in the northeast stall. If the characters don't check the stalls for danger, each character can take 1 action before the murderer ambushes Welda. Banquet attendees are filing into {@area area A1|0ae|x}, so no one hears the sounds of fighting."
+												"Prima che gli ospiti inizino ad arrivare, Welda si dirige ai bagni nell'angolo nord-ovest della sala comune ({@area area A6|0b8|x}) per sistemarsi i vestiti. Un elfo e un compagno affidabile chiamato Razorblade (medio, caotico malvagio {@creature Assassin|XMM}) è in agguato nella stalla a nord-est. Se i personaggi non controllano il pericolo nelle bancarelle, ogni personaggio può compiere 1 azione prima che l'assassino tenda un'imboscata a Welda. I partecipanti al banchetto stanno entrando {@area area A1|0ae|x}, quindi nessuno sente il rumore dei combattimenti."
 											]
 										},
 										{
@@ -2021,7 +2021,7 @@
 											"name": "Danger Lurks Everywhere",
 											"id": "0c6",
 											"entries": [
-												"While guests are settling at their tables, Welda slips toward the auxiliary entrance ({@area area A5|0b6|x}) to retrieve a more comfortable pair of shoes she's stashed there. There, an {@creature Invisible Stalker|XMM} allied with the gang and its boggart handler, Figgis (Small, Chaotic Evil {@creature Scout Captain|XMM}), accost Welda."
+												"Mentre gli ospiti si sistemano ai tavoli, Welda scivola verso l'ingresso ausiliario ({@area area A5|0b6|x}) per recuperare un paio di scarpe più comode che ha nascosto lì. Lì, un {@creature Invisible Stalker|XMM} alleato della banda e il suo addestratore di mollicci, Figgis (Small, Chaotic Evil {@creature Scout Captain|XMM}), si avvicinano a Welda."
 											]
 										},
 										{
@@ -2029,7 +2029,7 @@
 											"name": "The Last Straw",
 											"id": "0c7",
 											"entries": [
-												"During dinner, two impostors throw off their disguises as invitees and accost Welda, frustrated that Welda is unharmed. They are the kithkin Chloris (Small, Neutral Evil {@creature Mage|XMM}) and Derkin, the gang's {@creature Noggle Ransacker|LFL} leader (see {@book chapter 3|LFL|3}). The criminals are from Shadowmoor, and each wears a {@item Reliquary of Twilight|LFL} (see the {@book introduction|LFL|0|Preventing Transformation}). During the fight, a character can make a {@dc 16} Charisma ({@skill Persuasion|XPHB}) check to convince Derkin to stop threatening Welda in exchange for Welda returning the fee the gang paid her. Welda is amenable to this arrangement, since she wants to end her association with the gang."
+												"Durante la cena, due impostori si tolgono il travestimento da invitati e si avvicinano a Welda, frustrati dal fatto che Welda sia illesa. Sono il kithkin Chloris (Piccolo, Neutrale Malvagio {@creature Mage|XMM}) e Derkin, il leader della banda {@creature Noggle Ransacker|LFL} (vedi {@book chapter 3|LFL|3}). I criminali provengono da Landa Tenebrosa e ognuno indossa un {@item Reliquary of Twilight|LFL} (vedi {@book introduction|LFL|0|Preventing Transformation}). Durante il combattimento, un personaggio può effettuare una prova di Carisma {@dc 16} ({@skill Persuasion|XPHB}) per convincere Derkin a smettere di minacciare Welda in cambio della restituzione da parte di Welda del compenso che la banda le ha pagato. Welda è disponibile a questo accordo, poiché vuole porre fine alla sua associazione con la banda."
 											]
 										},
 										{
@@ -2037,7 +2037,7 @@
 											"name": "Aftermath",
 											"id": "0c8",
 											"entries": [
-												"If Welda remains unharmed at the banquet's end, each character earns a bonus 1,100 XP."
+												"Se Welda rimane illesa alla fine del banchetto, ogni personaggio guadagna un bonus di 1.100 XP."
 											]
 										}
 									]
@@ -2076,22 +2076,22 @@
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Adrian Ng Di Spaltro (lead), Emma Mieko Candon, Amanda Frechin, James Wyatt"
+							"entry": "Adrian Ng Di Spaltro (protagonista), Emma Mieko Candon, Amanda Frechin, James Wyatt"
 						},
 						{
 							"type": "item",
 							"name": "Art Director:",
-							"entry": "Josh Herman"
+							"entry": "Josh Hermann"
 						},
 						{
 							"type": "item",
 							"name": "Graphic Designer:",
-							"entry": "Trystan Falcone"
+							"entry": "Tristano Falcone"
 						},
 						{
 							"type": "item",
 							"name": "Cover Illustrator:",
-							"entry": "Justin Gerard"
+							"entry": "Giustino Gerard"
 						},
 						{
 							"type": "item",
@@ -2111,7 +2111,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Dan Tovar (lead), Bill Benham, Siera Bruggeman, Rob Hawkey, Vanessa Hoskins"
+							"entry": "Dan Tovar (protagonista), Bill Benham, Siera Bruggeman, Rob Hawkey, Vanessa Hoskins"
 						}
 					]
 				},

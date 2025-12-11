@@ -582,7 +582,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Studded Leather Armor|XPHB}, {@item Scimitar|XPHB}, {@item Shortsword|XPHB}, {@item Longbow|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Druidic Focus|XPHB} ({@item sprig of mistletoe|XPHB}), {@item Explorer's Pack|XPHB}, and 7 GP; or (B) 150 GP"
+					"{@i Choose A or B:} (A) {@item Studded Leather Armor|XPHB}, {@item Scimitar|XPHB}, {@item Shortsword|XPHB}, {@item Longbow|XPHB}, {@item Arrows (20)|XPHB|20 Arrows}, {@item Quiver|XPHB}, {@item Druidic Focus|XPHB} ({@item sprig of mistletoe|XPHB}), {@item Explorer's Pack|XPHB} e 7 GP; o (B) 150 GP"
 				]
 			},
 			"multiclassing": {
@@ -1548,14 +1548,14 @@
 			"level": 1,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 1st-level ranger {@variantrule optional class features|tce|optional feature}, which replaces the Natural Explorer feature}",
-				"You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.",
+				"{@i 1st-level ranger {@variantrule optional class features|tce|optional feature}, che sostituisce la funzionalità Natural Explorer}",
+				"Sei un esploratore e un sopravvissuto insuperabile, sia nella natura selvaggia che nei rapporti con gli altri durante i tuoi viaggi. Ottieni il beneficio dell'Astuzia riportato di seguito e ottieni un beneficio aggiuntivo di seguito quando raggiungi il 6° e il 10° livello in questa classe.",
 				{
 					"name": "Canny",
 					"type": "entries",
 					"entries": [
-						"Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.",
-						"You can also speak, read, and write two additional languages of your choice."
+						"Scegli una delle tue competenze. Il tuo bonus di competenza viene raddoppiato per qualsiasi prova di caratteristica effettuata che utilizzi l'abilità scelta.",
+						"Puoi anche parlare, leggere e scrivere due lingue aggiuntive a tua scelta."
 					]
 				}
 			]
@@ -1569,11 +1569,11 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.",
-				"Choose a type of favored enemy: {@filter aberrations|bestiary|type=aberration}, {@filter beasts|bestiary|type=beast}, {@filter celestials|bestiary|type=celestial}, {@filter constructs|bestiary|type=construct}, {@filter dragons|bestiary|type=dragon}, {@filter elementals|bestiary|type=elemental}, {@filter fey|bestiary|type=fey}, {@filter fiends|bestiary|type=fiend}, {@filter giants|bestiary|type=giant}, {@filter monstrosities|bestiary|type=monstrosity}, {@filter oozes|bestiary|type=ooze}, {@filter plants|bestiary|type=plant}, or {@filter undead|bestiary|type=undead}. Alternatively, you can select two races of {@filter humanoid|bestiary|type=humanoid} (such as {@creature gnoll||gnolls} and {@creature orc||orcs}) as favored enemies.",
-				"You have advantage on Wisdom ({@skill Survival}) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.",
-				"When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.",
-				"You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures."
+				"A partire dal 1° livello, hai una significativa esperienza nello studio, nell'inseguimento, nella caccia e persino nel parlare con un certo tipo di nemico.",
+				"Scegli un tipo di nemico preferito: {@filter aberrations|bestiary|type=aberration}, {@filter beasts|bestiary|type=beast}, {@filter celestials|bestiary|type=celestial}, {@filter constructs|bestiary|type=construct}, {@filter dragons|bestiary|type=dragon}, {@filter elementals|bestiary|type=elemental}, {@filter fey|bestiary|type=fey}, {@filter fiends|bestiary|type=fiend}, {@filter giants|bestiary|type=giant}, {@filter monstrosities|bestiary|type=monstrosity}, {@filter oozes|bestiary|type=ooze}, {@filter plants|bestiary|type=plant} o {@filter undead|bestiary|type=undead}. In alternativa, puoi selezionare due razze di {@filter humanoid|bestiary|type=humanoid} (come {@creature gnoll||gnolls} e {@creature orc||orcs}) come nemici preferiti.",
+				"Hai vantaggio sulle prove di Saggezza ({@skill Survival}) per rintracciare i tuoi nemici preferiti, così come sulle prove di Intelligenza per richiamare informazioni su di loro.",
+				"Quando ottieni questo privilegio, apprendi anche una lingua a tua scelta parlata dai tuoi nemici prescelti, sempre che ne parlino una.",
+				"Scegli un nemico prescelto aggiuntivo, nonché un linguaggio associato, al 6° e al 14° livello. Man mano che sali di livello, le tue scelte dovrebbero riflettere i tipi di mostri che hai incontrato nelle tue avventure."
 			]
 		},
 		{
@@ -1585,11 +1585,11 @@
 			"level": 1,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 1st-level ranger {@variantrule optional class features|tce|optional feature}, which replaces the Favored Enemy feature and works with the Foe Slayer feature}",
-				"When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your {@status concentration} (as if you were {@status concentration||concentrating} on a spell).",
-				"The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by {@damage 1d4}.",
-				"You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
-				"This feature's extra damage increases when you reach certain levels in this class: to {@damage 1d6} at 6th level and to {@damage 1d8} at 14th level."
+				"{@i 1st-level ranger {@variantrule optional class features|tce|optional feature}, che sostituisce la funzione Nemico favorito e funziona con la funzione Ammazzanemici}",
+				"Quando colpisci una creatura con un tiro per colpire, puoi fare appello al tuo legame mistico con la natura per marchiare il bersaglio come tuo nemico preferito per 1 minuto o finché non perdi il tuo {@status concentration} (come se fossi {@status concentration||concentrating} su un incantesimo).",
+				"La prima volta in ciascuno dei tuoi turni in cui colpisci il nemico preferito e gli infliggi danni, incluso quando lo marchi, puoi aumentare quel danno del {@damage 1d4}.",
+				"Puoi usare questo privilegio per marchiare un nemico prescelto un numero di volte pari al tuo bonus di competenza, e riacquisti tutti gli usi spesi quando termini un riposo lungo.",
+				"Il danno extra di questa funzione aumenta quando raggiungi determinati livelli in questa classe: fino a {@damage 1d6} al 6° livello e fino a {@damage 1d8} al 14° livello."
 			]
 		},
 		{
@@ -1601,20 +1601,20 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.",
-				"While traveling for an hour or more in your favored terrain, you gain the following benefits:",
+				"Hai particolare familiarità con un tipo di ambiente naturale e sei abile nel viaggiare e sopravvivere in tali regioni. Scegli un tipo di terreno preferito: artico, costa, deserto, foresta, prateria, montagna, palude o Sottosuolo. Quando effettui una prova di Intelligenza o Saggezza relativa al tuo terreno preferito, il tuo bonus di competenza viene raddoppiato se stai utilizzando un'abilità in cui sei competente.",
+				"Mentre viaggi per un'ora o più nel tuo terreno preferito, ottieni i seguenti benefici:",
 				{
 					"type": "list",
 					"items": [
-						"Difficult terrain doesn't slow your group's travel.",
-						"Your group can't become lost except by magical means.",
-						"Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.",
-						"If you are traveling alone, you can move stealthily at a normal pace.",
-						"When you forage, you find twice as much food as you normally would.",
-						"While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area."
+						"Il terreno difficile non rallenta il viaggio del tuo gruppo.",
+						"Il tuo gruppo non può perdersi se non con mezzi magici.",
+						"Anche quando sei impegnato in un'altra attività durante il viaggio (come cercare cibo, navigare o seguire le tracce), rimani attento al pericolo.",
+						"Se viaggi da solo, puoi muoverti furtivamente a un ritmo normale.",
+						"Quando vai in cerca di cibo, trovi il doppio del cibo che troveresti normalmente.",
+						"Mentre segui le tracce di altre creature, apprendi anche il loro numero esatto, le loro dimensioni e quanto tempo fa sono passate nell'area."
 					]
 				},
-				"You choose additional favored terrain types at 6th and 10th level."
+				"Scegli ulteriori tipi di terreno prescelto al 6° e al 10° livello."
 			]
 		},
 		{
@@ -1626,7 +1626,7 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.",
+				"Al 2° livello, adotti uno stile di combattimento particolare come tua specialità. Scegli una delle seguenti opzioni. Non puoi scegliere un'opzione di Stile di Combattimento più di una volta, anche se in seguito potrai sceglierla nuovamente.",
 				{
 					"type": "options",
 					"count": 1,
@@ -1672,29 +1672,29 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See {@book chapter 10|PHB|10} for the general rules of spellcasting and {@book chapter 11|PHB|11} for the {@filter ranger spell list|spells|class=ranger}.",
+				"Quando raggiungi il 2° livello, hai imparato a usare l'essenza magica della natura per lanciare incantesimi, proprio come fa un druido. Vedi {@book chapter 10|PHB|10} per le regole generali del lancio degli incantesimi e {@book chapter 11|PHB|11} per {@filter ranger spell list|spells|class=ranger}.",
 				{
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Ranger table shows how many spell slots you have to cast your {@filter ranger spells|spells|class=ranger} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
-						"For example, if you know the 1st-level spell {@spell animal friendship} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell animal friendship} using either slot."
+						"La tabella del Ranger mostra quanti slot incantesimo hai a disposizione per lanciare il tuo {@filter ranger spells|spells|class=ranger} di 1° livello e superiore. Per lanciare uno di questi incantesimi, devi spendere uno slot del livello dell'incantesimo o superiore. Riacquisti tutti gli slot incantesimo spesi quando termini un riposo lungo.",
+						"Ad esempio, se conosci l'incantesimo di 1° livello {@spell animal friendship} e hai a disposizione uno slot incantesimo di 1° livello e uno di 2° livello, puoi lanciare {@spell animal friendship} utilizzando uno qualsiasi degli slot."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spells Known of 1st Level and Higher",
 					"entries": [
-						"You know two 1st-level spells of your choice from the ranger spell list.",
-						"The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.",
-						"Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots."
+						"Conosci due incantesimi di 1° livello a tua scelta dalla lista degli incantesimi da ranger.",
+						"La colonna Incantesimi conosciuti della tabella Ranger mostra quando apprendi più incantesimi da ranger di tua scelta. Ognuno di questi incantesimi deve essere di un livello per il quale disponi di slot incantesimo. Ad esempio, quando raggiungi il 5° livello in questa classe, puoi imparare un nuovo incantesimo di 1° o 2° livello.",
+						"Inoltre, quando guadagni un livello in questa classe, puoi scegliere uno degli incantesimi da ranger che conosci e sostituirlo con un altro incantesimo dalla lista degli incantesimi da ranger, che deve essere anch'esso di un livello per il quale disponi di slot incantesimo."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spellcasting Ability",
 					"entries": [
-						"Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.",
+						"La saggezza è la tua abilità da incantatore per i tuoi incantesimi da ranger, poiché la tua magia si basa sulla tua sintonia con la natura. Usi la tua Saggezza ogni volta che un incantesimo si riferisce alla tua abilità da incantatore. Inoltre, usi il tuo modificatore di Saggezza quando imposti la CD del tiro salvezza per un incantesimo da ranger che lanci e quando effettui un tiro per colpire con uno.",
 						{
 							"type": "abilityDc",
 							"name": "Spell",
@@ -1723,7 +1723,7 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 2nd-level ranger {@variantrule optional class features|tce|optional feature}}",
-				"You can use a {@item druidic focus|phb} as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals."
+				"Puoi utilizzare un {@item druidic focus|phb} come focus di lancio degli incantesimi per i tuoi incantesimi da ranger. Un focus druidico potrebbe essere un rametto di vischio o di agrifoglio, una bacchetta o una verga fatta di tasso o di un altro legno speciale, un bastone ricavato intero da un albero vivente o un oggetto che incorpora piume, pelliccia, ossa e denti di animali sacri."
 			]
 		},
 		{
@@ -1735,8 +1735,8 @@
 			"level": 3,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 3rd-level ranger {@variantrule optional class features|tce|optional feature}, which replaces the Primeval Awareness feature}",
-				"You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.",
+				"{@i 3rd-level ranger {@variantrule optional class features|tce|optional feature}, che sostituisce la funzione Consapevolezza Primordiale}",
+				"Puoi focalizzare la tua consapevolezza attraverso le interconnessioni della natura: apprendi incantesimi aggiuntivi quando raggiungi determinati livelli in questa classe se non li conosci già, come mostrato nella tabella Incantesimi di Consapevolezza Primordiale. Questi incantesimi non contano nel numero di incantesimi da ranger che conosci.",
 				{
 					"type": "table",
 					"caption": "Primal Awareness Spells",
@@ -1771,7 +1771,7 @@
 						]
 					]
 				},
-				"You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest."
+				"Puoi lanciare ciascuno di questi incantesimi una volta senza spendere uno slot incantesimo. Una volta lanciato un incantesimo in questo modo, non puoi farlo nuovamente finché non termini un riposo lungo."
 			]
 		},
 		{
@@ -1783,7 +1783,7 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number."
+				"A partire dal 3° livello, puoi usare la tua azione e spendere uno slot incantesimo da ranger per focalizzare la tua consapevolezza sulla regione intorno a te. Per 1 minuto per livello dello slot incantesimo speso, puoi percepire se i seguenti tipi di creature sono presenti entro 1 miglio da te (o entro un massimo di 6 miglia se ti trovi nel tuo terreno preferito): aberrazioni, celestiali, draghi, elementali, folletti, immondi e non morti. Questa funzione non rivela la posizione o il numero delle creature."
 			]
 		},
 		{
@@ -1795,7 +1795,7 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"At 3rd level, you choose an archetype that you strive to emulate from the list of available archetypes. Your choice grants features at 3rd level, and again at 7th, 11th, and 15th level."
+				"Al 3° livello, scegli un archetipo che cerchi di emulare dalla lista degli archetipi disponibili. La tua scelta conferisce privilegi al 3° livello e di nuovo al 7°, 11° e 15° livello."
 			]
 		},
 		{
@@ -1807,8 +1807,8 @@
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
-				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 4° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -1821,7 +1821,7 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 4th-level ranger {@variantrule optional class features|tce|optional feature}}",
-				"Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice."
+				"Ogni volta che raggiungi un livello in questa classe che garantisce la funzione di miglioramento del punteggio di caratteristica, puoi sostituire uno stile di combattimento che conosci con un altro stile di combattimento disponibile per i ranger. Questa sostituzione rappresenta uno spostamento del focus nella tua pratica marziale."
 			]
 		},
 		{
@@ -1833,7 +1833,7 @@
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
-				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the {@action Attack} action on your turn."
+				"A partire dal 5° livello, puoi attaccare due volte, anziché una, ogni volta che esegui l'azione {@action Attack} nel tuo turno."
 			]
 		},
 		{
@@ -1845,12 +1845,12 @@
 			"level": 6,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"You gain an additional benefit when you reach 6th level in this class.",
+				"Ottieni un beneficio aggiuntivo quando raggiungi il 6° livello in questa classe.",
 				{
 					"type": "entries",
 					"name": "Roving",
 					"entries": [
-						"Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed."
+						"La tua velocità di camminata aumenta di 5 e ottieni una velocità di scalata e una velocità di nuoto pari alla tua velocità di camminata."
 					]
 				}
 			]
@@ -1864,8 +1864,8 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"At 6th level, you gain an additional favored terrain.",
-				"At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures."
+				"Al 6° livello, ottieni un Ambiente Prescelto aggiuntivo.",
+				"Al 6° livello, scegli un nemico prescelto aggiuntivo, oltre a un linguaggio associato. La tua scelta dovrebbe riflettere i tipi di mostri che hai incontrato nelle tue avventure."
 			]
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
-				"At 7th level, you gain a feature granted to you by your Ranger Archetype."
+				"Al 7° livello, ottieni una caratteristica concessa dal tuo Archetipo del Ranger."
 			]
 		},
 		{
@@ -1889,8 +1889,8 @@
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
-				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi l'8° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -1902,8 +1902,8 @@
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
-				"Starting at 8th level, moving through nonmagical {@quickref difficult terrain||3} costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.",
-				"In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the {@spell entangle} spell."
+				"A partire dall'8° livello, muoversi attraverso ambienti non magici {@quickref difficult terrain||3} non ti costa movimento extra. Puoi anche passare attraverso le piante non magiche senza esserne rallentato e senza subire danni se hanno spine, aculei o pericoli simili.",
+				"Inoltre, hai vantaggio sui tiri salvezza contro le piante create magicamente o manipolate per impedire il movimento, come quelle create dall'incantesimo {@spell entangle}."
 			]
 		},
 		{
@@ -1915,13 +1915,13 @@
 			"level": 10,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"You gain an additional benefit when you reach 10th level in this class.",
+				"Ottieni un beneficio aggiuntivo quando raggiungi il 10° livello in questa classe.",
 				{
 					"type": "entries",
 					"name": "Tireless",
 					"entries": [
-						"As an action, you can give yourself a number of temporary hit points equal to {@dice 1d8} + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
-						"In addition, whenever you finish a short rest, your {@condition exhaustion} level, if any, is decreased by 1."
+						"Come azione, puoi darti un numero di punti ferita temporanei pari a {@dice 1d8} + il tuo modificatore di Saggezza (minimo 1 punto ferita temporaneo). È possibile utilizzare questa azione un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo.",
+						"Inoltre, ogni volta che finisci un riposo breve, il tuo livello {@condition exhaustion}, se presente, diminuisce di 1."
 					]
 				}
 			]
@@ -1935,8 +1935,8 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.",
-				"Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity ({@skill Stealth}) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit."
+				"A partire dal 10° livello, puoi spendere 1 minuto per creare mimetizzazione per te stesso. Devi avere accesso a fango fresco, terra, piante, fuliggine e altri materiali naturali con cui creare il tuo camuffamento.",
+				"Una volta mimetizzato in questo modo, puoi provare a nasconderti premendoti contro una superficie solida, come un albero o un muro, che sia alta e larga almeno quanto te. Ottieni un bonus di +10 alle prove di Destrezza ({@skill Stealth}) fintanto che rimani lì senza muoverti o eseguire azioni. Una volta che ti muovi o esegui un'azione o una reazione, devi mimetizzarti nuovamente per ottenere questo beneficio."
 			]
 		},
 		{
@@ -1948,7 +1948,7 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"You gain an additional favored terrain."
+				"Ottieni un terreno prescelto aggiuntivo."
 			]
 		},
 		{
@@ -1960,9 +1960,9 @@
 			"level": 10,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 10th-level ranger {@variantrule optional class features|tce|optional feature}, which replaces the Hide in Plain Sight feature}",
-				"You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become {@condition invisible}, along with any equipment you are wearing or carrying, until the start of your next turn.",
-				"You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+				"{@i 10th-level ranger {@variantrule optional class features|tce|optional feature}, che sostituisce la funzione Nascondi in bella vista}",
+				"Attingi ai poteri della natura per nasconderti brevemente alla vista. Come azione bonus, puoi diventare magicamente {@condition invisible}, insieme a qualsiasi equipaggiamento che indossi o trasporti, fino all'inizio del tuo turno successivo.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -1974,7 +1974,7 @@
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
-				"At 11th level, you gain a feature granted to you by your Ranger Archetype."
+				"All'11° livello, ottieni una caratteristica concessa dal tuo Archetipo del Ranger."
 			]
 		},
 		{
@@ -1986,8 +1986,8 @@
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
-				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 12° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -1999,7 +1999,7 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"At 14th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures."
+				"Al 14° livello, scegli un nemico prescelto aggiuntivo, oltre a un linguaggio associato. La tua scelta dovrebbe riflettere i tipi di mostri che hai incontrato nelle tue avventure."
 			]
 		},
 		{
@@ -2011,7 +2011,7 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"Starting at 14th level, you can use the {@action Hide} action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail."
+				"A partire dal 14° livello, puoi utilizzare l'azione {@action Hide} come azione bonus nel tuo turno. Inoltre, non puoi essere rintracciato con mezzi non magici, a meno che tu non scelga di lasciare una traccia."
 			]
 		},
 		{
@@ -2023,7 +2023,7 @@
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
-				"At 15th level, you gain a feature granted to you by your Ranger Archetype."
+				"Al 15° livello, ottieni una caratteristica concessa dal tuo Archetipo del Ranger."
 			]
 		},
 		{
@@ -2035,8 +2035,8 @@
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
-				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 16° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2048,7 +2048,7 @@
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
-				"At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any {@condition invisible} creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't {@condition blinded} or {@condition deafened}."
+				"Al 18° livello, ottieni sensi soprannaturali che ti aiutano a combattere le creature che non puoi vedere. Quando attacchi una creatura che non puoi vedere, la tua incapacità di vederla non impone svantaggio ai tuoi tiri per colpire contro di essa. Sei anche consapevole della posizione di qualsiasi {@condition invisible} creatura entro 9 metri da te, a condizione che la creatura non ti sia nascosta e tu non lo sei {@condition blinded} o {@condition deafened}."
 			]
 		},
 		{
@@ -2060,8 +2060,8 @@
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
-				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2073,7 +2073,7 @@
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
-				"At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied."
+				"Al 20° livello, diventi un impareggiabile cacciatore dei tuoi nemici. Una volta per ciascuno dei tuoi turni, puoi aggiungere il tuo modificatore di Saggezza al tiro per colpire o al tiro per i danni di un attacco che effettui contro uno dei tuoi nemici preferiti. Puoi scegliere di utilizzare questa capacità prima o dopo il tiro, ma prima che venga applicato qualsiasi effetto del tiro."
 			]
 		},
 		{
@@ -2086,8 +2086,8 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You always have the {@spell Hunter's Mark|XPHB} spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a {@variantrule Long Rest|XPHB}.",
-				"The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table."
+				"Hai sempre preparato l'incantesimo {@spell Hunter's Mark|XPHB}. Puoi lanciarlo due volte senza spendere uno slot incantesimo e riacquisti tutti gli usi spesi di questa abilità quando finisci un {@variantrule Long Rest|XPHB}.",
+				"Il numero di volte in cui puoi lanciare l'incantesimo senza uno slot incantesimo aumenta quando raggiungi determinati livelli da Ranger, come mostrato nella colonna Nemico Prescelto della tabella Caratteristiche del Ranger."
 			]
 		},
 		{
@@ -2100,7 +2100,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to channel the magical essence of nature to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the {@filter Ranger spell list|spells|class=Ranger} later in the class's description.",
+				"Hai imparato a incanalare l'essenza magica della natura per lanciare incantesimi. Vedi {@book chapter 7|XPHB|7} per le regole sul lancio degli incantesimi. Le informazioni seguenti descrivono dettagliatamente come utilizzare tali regole con gli incantesimi del Ranger, che appaiono nel {@filter Ranger spell list|spells|class=Ranger} più avanti nella descrizione della classe.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2108,37 +2108,37 @@
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"La tabella Caratteristiche del Ranger mostra quanti slot incantesimo hai a disposizione per lanciare i tuoi incantesimi di livello 1+. Riacquisti tutti gli slot spesi quando finisci un {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Ranger spells|spells|class=Ranger|level=1}. {@spell Cure Wounds|XPHB} and {@spell Ensnaring Strike|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.",
-								"If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you."
+								"Prepari l'elenco degli incantesimi di livello 1+ che puoi lanciare con questa funzionalità. Per iniziare, scegline due {@filter level 1 Ranger spells|spells|class=Ranger|level=1}. {@spell Cure Wounds|XPHB} e {@spell Ensnaring Strike|XPHB} sono consigliati.",
+								"Il numero di incantesimi nella tua lista aumenta man mano che guadagni livelli da Ranger, come mostrato nella colonna Incantesimi Preparati della tabella Caratteristiche del Ranger. Ogni volta che quel numero aumenta, scegli ulteriori incantesimi da Ranger finché il numero di incantesimi sulla tua lista non corrisponde al numero nella tabella Caratteristiche del Ranger. Gli incantesimi scelti devono essere di un livello per il quale disponi di slot incantesimo. Ad esempio, se sei un Ranger di livello 5, il tuo elenco di incantesimi preparati può includere sei incantesimi da Ranger di livello 1 o 2 in qualsiasi combinazione.",
+								"Se un'altra caratteristica del Ranger ti fornisce incantesimi che hai sempre preparato, quegli incantesimi non contano nel numero di incantesimi che puoi preparare con questa caratteristica, ma per il resto quegli incantesimi contano come incantesimi da Ranger per te."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one spell on your list with another Ranger spell for which you have spell slots."
+								"Ogni volta che finisci un {@variantrule Long Rest|XPHB}, puoi sostituire un incantesimo della tua lista con un altro incantesimo del Ranger per il quale disponi di slot incantesimo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Wisdom is your spellcasting ability for your Ranger spells."
+								"La saggezza è la tua abilità da incantatore per i tuoi incantesimi da Ranger."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use a {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Ranger spells."
+								"Puoi usare a {@item Druidic Focus|XPHB} come {@variantrule Spellcasting Focus|XPHB} per i tuoi incantesimi Ranger."
 							]
 						}
 					]
@@ -2155,8 +2155,8 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your training with weapons allows you to use the {@variantrule weapon mastery properties|XPHB|mastery properties} of two kinds of {@filter weapons|items|type=simple weapon;martial weapon} of your choice with which you have proficiency, such as {@item Longbow|XPHB|Longbows} and {@item Shortsword|XPHB|Shortswords}.",
-				"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change the kinds of weapons you chose. For example, you could switch to using the {@variantrule weapon mastery properties|XPHB|mastery properties} of {@item Scimitar|XPHB|Scimitars} and {@item Longsword|XPHB|Longswords}."
+				"Il tuo addestramento con le armi ti consente di utilizzare {@variantrule weapon mastery properties|XPHB|mastery properties} due tipi di {@filter weapons|items|type=simple weapon;martial weapon} di tua scelta con cui hai competenza, come {@item Longbow|XPHB|Longbows} e {@item Shortsword|XPHB|Shortswords}.",
+				"Ogni volta che finisci un {@variantrule Long Rest|XPHB}, puoi cambiare il tipo di armi che hai scelto. Ad esempio, potresti passare a utilizzare {@variantrule weapon mastery properties|XPHB|mastery properties} di {@item Scimitar|XPHB|Scimitars} e {@item Longsword|XPHB|Longswords}."
 			]
 		},
 		{
@@ -2169,7 +2169,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"Thanks to your travels, you gain the following benefits.",
+				"Grazie ai tuoi viaggi, ottieni i seguenti vantaggi.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2177,14 +2177,14 @@
 							"type": "entries",
 							"name": "Expertise",
 							"entries": [
-								"Choose one of your skill proficiencies with which you lack {@variantrule Expertise|XPHB}. You gain {@variantrule Expertise|XPHB} in that skill."
+								"Scegli una delle competenze che ti mancano {@variantrule Expertise|XPHB}. Guadagni {@variantrule Expertise|XPHB} in quell'abilità."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Languages",
 							"entries": [
-								"You know two languages of your choice from the language tables in {@book chapter 2|XPHB|2|Choose Languages}."
+								"Conosci due lingue a tua scelta dalle tabelle delle lingue in {@book chapter 2|XPHB|2|Choose Languages}."
 							]
 						}
 					]
@@ -2201,7 +2201,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You gain a {@filter Fighting Style feat|feats|category=FS} of your choice. Instead of choosing one of those feats, you can choose the option below.",
+				"Ottieni un {@filter Fighting Style feat|feats|category=FS} a tua scelta. Invece di scegliere uno di questi talenti, puoi scegliere l'opzione seguente.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2223,7 +2223,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower."
+				"Ottieni una sottoclasse di Ranger a tua scelta. Una sottoclasse è una specializzazione che ti garantisce funzionalità a determinati livelli di Ranger. Per il resto della tua carriera, ottieni ciascuna delle caratteristiche della tua sottoclasse che sono del tuo livello Ranger o inferiore."
 			]
 		},
 		{
@@ -2236,7 +2236,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. Ottieni nuovamente questa capacità ai livelli Ranger 8, 12 e 16."
 			]
 		},
 		{
@@ -2249,7 +2249,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You can attack twice instead of once whenever you take the {@action Attack|XPHB} action on your turn."
+				"Puoi attaccare due volte anziché una volta ogni volta che esegui l'azione {@action Attack|XPHB} nel tuo turno."
 			]
 		},
 		{
@@ -2262,7 +2262,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"Your {@variantrule Speed|XPHB} increases by 10 feet while you aren't wearing Heavy armor. You also have a {@variantrule Climb Speed|XPHB} and a {@variantrule Swim Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+				"Il tuo {@variantrule Speed|XPHB} aumenta di 10 piedi mentre non indossi un'armatura pesante. Hai anche un {@variantrule Climb Speed|XPHB} e un {@variantrule Swim Speed|XPHB} uguali al tuo {@variantrule Speed|XPHB}."
 			]
 		},
 		{
@@ -2275,7 +2275,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Ranger."
 			]
 		},
 		{
@@ -2288,7 +2288,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2301,7 +2301,7 @@
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"Choose two of your skill proficiencies with which you lack {@variantrule Expertise|XPHB}. You gain {@variantrule Expertise|XPHB} in those skills."
+				"Scegli due delle competenze che ti mancano {@variantrule Expertise|XPHB}. Guadagni {@variantrule Expertise|XPHB} in quelle abilità."
 			]
 		},
 		{
@@ -2314,7 +2314,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"Primal forces now help fuel you on your journeys, granting you the following benefits.",
+				"Le forze primordiali ora ti aiutano ad alimentare i tuoi viaggi, garantendoti i seguenti vantaggi.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2322,14 +2322,14 @@
 							"type": "entries",
 							"name": "Temporary Hit Points",
 							"entries": [
-								"As a {@action Magic|XPHB} action, you can give yourself a number of {@variantrule Temporary Hit Points|XPHB} equal to {@dice 1d8} plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+								"Come azione {@action Magic|XPHB}, puoi darti un numero di {@variantrule Temporary Hit Points|XPHB} pari a {@dice 1d8} più il tuo modificatore di Saggezza (minimo 1). Puoi utilizzare questa azione un numero di volte pari al tuo modificatore di Saggezza (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Decrease Exhaustion",
 							"entries": [
-								"Whenever you finish a {@variantrule Short Rest|XPHB}, your {@condition Exhaustion|XPHB} level, if any, decreases by 1."
+								"Ogni volta che finisci un {@variantrule Short Rest|XPHB}, il tuo livello {@condition Exhaustion|XPHB}, se presente, diminuisce di 1."
 							]
 						}
 					]
@@ -2346,7 +2346,7 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Ranger."
 			]
 		},
 		{
@@ -2359,7 +2359,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2372,7 +2372,7 @@
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"Taking damage can't break your {@status Concentration|XPHB} on Hunter's Mark."
+				"Subire danni non può rompere il tuo {@status Concentration|XPHB} sul Marchio del cacciatore."
 			]
 		},
 		{
@@ -2385,8 +2385,8 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You invoke spirits of nature to magically hide yourself. As a {@variantrule Bonus Action|XPHB}, you can give yourself the {@condition Invisible|XPHB} condition until the end of your next turn.",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Invochi gli spiriti della natura per nasconderti magicamente. Come {@variantrule Bonus Action|XPHB}, puoi concederti la condizione {@condition Invisible|XPHB} fino alla fine del tuo prossimo turno.",
+				"Puoi utilizzare questa funzione un numero di volte pari al tuo modificatore di Saggezza (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -2399,7 +2399,7 @@
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Ranger."
 			]
 		},
 		{
@@ -2412,7 +2412,7 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2425,7 +2425,7 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You have {@variantrule Advantage|XPHB} on attack rolls against the creature currently marked by your Hunter's Mark."
+				"Hai {@variantrule Advantage|XPHB} sui tiri per colpire contro la creatura attualmente contrassegnata dal tuo Marchio del cacciatore."
 			]
 		},
 		{
@@ -2438,7 +2438,7 @@
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"Your connection to the forces of nature grants you {@sense Blindsight|XPHB} with a range of 30 feet."
+				"La tua connessione con le forze della natura ti garantisce {@sense Blindsight|XPHB} un raggio di 9 metri."
 			]
 		},
 		{
@@ -2451,7 +2451,7 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Dimensional Travel|XPHB} is recommended."
+				"Ottieni un {@filter Epic Boon feat|feats|category=EB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. {@feat Boon of Dimensional Travel|XPHB} è consigliato."
 			]
 		},
 		{
@@ -2464,7 +2464,7 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"The damage die of your Hunter's Mark is a {@damage d10} rather than a {@damage d6}."
+				"Il dado di danno del tuo Marchio del cacciatore è un {@damage d10} anziché un {@damage d6}."
 			]
 		}
 	],
@@ -2479,8 +2479,8 @@
 			"subclassSource": "FTD",
 			"level": 3,
 			"entries": [
-				"Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.",
-				"Consider the source of the draconic spirit you have bonded with. The Drakewarden Origin table offers examples.",
+				"La tua connessione con il mondo naturale assume la forma di uno spirito draconico, che può manifestarsi in forma fisica come un drago. Man mano che i tuoi poteri crescono, anche il tuo drago cresce, trasformandosi da un piccolo compagno a quattro zampe in una maestosa creatura alata grande e abbastanza forte da poter essere cavalcata. Lungo il percorso, acquisirai una quota crescente del maestoso potere dei draghi.",
+				"Considera la fonte dello spirito draconico con cui ti sei legato. La tabella Drakewarden Origin offre esempi.",
 				{
 					"type": "table",
 					"caption": "Drakewarden Origin",
@@ -2495,27 +2495,27 @@
 					"rows": [
 						[
 							"1",
-							"You studied a dragon's scale or claw, or a trinket from a dragon's hoard, creating your bond through that token's lingering draconic magic."
+							"Hai studiato una scaglia o un artiglio di un drago, o un ninnolo dal tesoro di un drago, creando il tuo legame attraverso la persistente magia draconica di quel simbolo."
 						],
 						[
 							"2",
-							"A secret order of rangers who collect and guard draconic lore taught you their ways."
+							"Un ordine segreto di ranger che raccolgono e custodiscono la tradizione draconica ti ha insegnato i loro metodi."
 						],
 						[
 							"3",
-							"A dragon gave you a geode or gemstone to care for. To your surprise, the drake hatched from that stone."
+							"Un drago ti ha dato un geode o una pietra preziosa di cui prenderti cura. Con tua sorpresa, il drago è nato da quella pietra."
 						],
 						[
 							"4",
-							"You ingested a few drops of dragon blood, forever infusing your nature magic with draconic power."
+							"Hai ingerito alcune gocce di sangue di drago, infondendo per sempre la tua magia naturale con potere draconico."
 						],
 						[
 							"5",
-							"An ancient Draconic inscription on a standing stone empowered you when you read it aloud."
+							"Un'antica iscrizione draconica su una pietra eretta ti conferisce potere quando la leggi ad alta voce."
 						],
 						[
 							"6",
-							"You had a vivid dream of a mysterious figure accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you."
+							"Hai fatto un sogno vivido di una figura misteriosa accompagnata da sette canarini gialli, che ti avvertivano della catastrofe imminente. Quando ti sei svegliato, il tuo drago era lì e ti osservava."
 						]
 					]
 				},
@@ -2541,7 +2541,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Drakewarden feature}",
-				"The bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:",
+				"Il legame che condividi con il tuo drago crea una connessione con la razza dei draghi, garantendoti comprensione e potenziando la tua presenza. Ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -2549,12 +2549,12 @@
 						{
 							"type": "item",
 							"name": "Thaumaturgy",
-							"entry": "You learn the {@spell thaumaturgy} cantrip, which is a ranger spell for you."
+							"entry": "Impari il trucchetto {@spell thaumaturgy}, che è un incantesimo da ranger per te."
 						},
 						{
 							"type": "item",
 							"name": "Tongue of Dragons",
-							"entry": "You learn to speak, read, and write Draconic or one other language of your choice."
+							"entry": "Impari a parlare, leggere e scrivere il Draconico o un'altra lingua a tua scelta."
 						}
 					]
 				}
@@ -2572,11 +2572,11 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Drakewarden feature}",
-				"As an action, you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice within 30 feet of you.",
-				"The drake is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying {@creature Drake Companion|FTD} stat block, which uses your proficiency bonus (PB) in several places. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.",
-				"In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the {@action Dodge} action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are {@condition incapacitated}, the drake can take any action of its choice, not just {@action Dodge}.",
-				"The drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.",
-				"Once you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it."
+				"Come azione, puoi evocare magicamente il drago a te legato. Appare in uno spazio non occupato a tua scelta entro 9 metri da te.",
+				"Il drago è amichevole con te e i tuoi compagni e obbedisce ai tuoi comandi. Visualizza le sue statistiche di gioco nel blocco delle statistiche {@creature Drake Companion|FTD} di accompagnamento, che utilizza il tuo bonus di competenza (PB) in diversi punti. Ogni volta che evochi il drago, scegli un tipo di danno elencato nel suo tratto Essenza Draconica. Puoi determinare le caratteristiche estetiche del drago, come il suo colore, la struttura delle scaglie o qualsiasi effetto visibile della sua Essenza Draconica; la tua scelta non ha alcun effetto sulle sue statistiche di gioco.",
+				"In combattimento, il drago condivide il tuo conteggio di iniziativa, ma svolge il suo turno immediatamente dopo il tuo. Può muoversi e usare la sua reazione da solo, ma l'unica azione che intraprende nel suo turno è l'azione {@action Dodge}, a meno che tu non effettui un'azione bonus nel tuo turno per comandargli di eseguire un'altra azione. Quell'azione può essere una nel suo blocco statistiche o qualche altra azione. Se lo sei {@condition incapacitated}, il drago può intraprendere qualsiasi azione a sua scelta, non solo {@action Dodge}.",
+				"Il drago rimane finché non viene ridotto a 0 punti ferita, finché non usi questa capacità per evocarlo nuovamente o finché non muori. Tutto ciò che il drago indossava o trasportava viene lasciato indietro quando il drago svanisce.",
+				"Una volta evocato il drago, non puoi farlo nuovamente finché non termini un riposo lungo, a meno che non spendi uno slot incantesimo di 1° livello o superiore per evocarlo."
 			]
 		},
 		{
@@ -2591,8 +2591,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 7th-level Drakewarden feature}",
-				"The bond you share with your drake intensifies, protecting you and stoking the drake's fury. When you summon your drake, it grows wings on its back and gains a flying speed equal to its walking speed.",
-				"In addition, while your drake is summoned, you and the drake gain the following benefits:",
+				"Il legame che condividi con il tuo drago si intensifica, proteggendoti e alimentando la furia del drago. Quando evochi il tuo drago, gli crescono le ali sul dorso e acquisisce una velocità di volo pari alla sua velocità di camminata.",
+				"Inoltre, mentre il tuo drago viene evocato, tu e il drago ottenete i seguenti benefici:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -2601,21 +2601,21 @@
 							"type": "item",
 							"name": "Drake Mount",
 							"entries": [
-								"The drake grows to Medium size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While you are riding your drake, it can't use the flying speed of this feature."
+								"Il drago raggiunge la taglia media. Riflettendo il tuo legame speciale, puoi usare il drago come cavalcatura se la tua taglia è Media o inferiore. Mentre cavalchi il tuo draco, esso non può utilizzare la velocità di volo di questa capacità."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Magic Fang",
 							"entries": [
-								"The drake's Bite attack deals an extra {@damage 1d6} damage of the type chosen for the drake's Draconic Essence."
+								"L'attacco con il Morso del drago infligge un danno extra {@damage 1d6} del tipo scelto per l'Essenza Draconica del drago."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Resistance",
 							"entries": [
-								"You gain resistance to the damage type chosen for the drake's Draconic Essence."
+								"Ottieni resistenza al tipo di danno scelto per l'Essenza Draconica del drago."
 							]
 						}
 					]
@@ -2634,9 +2634,9 @@
 			"header": 2,
 			"entries": [
 				"{@i 11th-level Drakewarden feature}",
-				"As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage (your choice doesn't have to match your drake's Draconic Essence). Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking {@damage 8d6} damage on a failed save, or half as much damage on a successful one.",
-				"This damage increases to {@damage 10d6} when you reach 15th level in this class.",
-				"Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again."
+				"Con un'azione, puoi esalare un cono di 9 metri di soffio dannoso o fare in modo che il tuo drago lo espiri. Scegli il danno da acido, freddo, fuoco, fulmine o veleno (la tua scelta non deve necessariamente corrispondere all'Essenza Draconica del tuo drago). Ogni creatura nel cono deve effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza dell'incantesimo, subendo {@damage 8d6} danni se fallisce il tiro salvezza, o metà del danno se lo riesce.",
+				"Questo danno aumenta a {@damage 10d6} quando raggiungi il 15° livello in questa classe.",
+				"Una volta utilizzato questo privilegio, non è possibile farlo nuovamente finché non si termina un riposo lungo, a meno che non si spenda uno slot incantesimo di 3° livello o superiore per utilizzarlo nuovamente."
 			]
 		},
 		{
@@ -2651,7 +2651,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 15th-level Drakewarden feature}",
-				"Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:",
+				"Il tuo legame con il tuo drago raggiunge l'apice del suo potere. Mentre il tuo drago viene evocato, tu e il drago ottenete i seguenti benefici:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -2660,21 +2660,21 @@
 							"type": "item",
 							"name": "Empowered Bite",
 							"entries": [
-								"The drake's Bite attack deals an extra {@damage 1d6} damage of the type chosen for its Draconic Essence (for a total of {@damage 2d6} extra damage)."
+								"L'attacco con il Morso del drago infligge un danno extra {@damage 1d6} del tipo scelto per la sua Essenza Draconica (per un totale di {@damage 2d6} danno extra)."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Large Drake",
 							"entries": [
-								"The drake grows to Large size. When you ride your drake, it is no longer prohibited from using the flying speed of Bond of Fang and Scale."
+								"Il drago raggiunge dimensioni grandi. Quando cavalchi il tuo drago, non gli è più vietato usare la velocità di volo di Legame di Zanne e Scaglia."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Reflexive Resistance",
 							"entries": [
-								"When either you or the drake takes damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+								"Quando tu o il drago subite danni mentre vi trovate entro 9 metri l'uno dall'altro, potete usare la vostra reazione per conferire a voi stessi o al drago resistenza a quell'istanza di danno. È possibile utilizzare questa reazione un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 							]
 						}
 					]
@@ -2691,7 +2691,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.",
+				"L'archetipo del Beast Master incarna l'amicizia tra le razze civilizzate e le bestie del mondo. Uniti nel focus, la bestia e il ranger lavorano all'unisono per combattere i mostruosi nemici che minacciano sia la civiltà che le terre selvagge. Emulare l'archetipo del Beast Master significa impegnarsi in questo ideale, lavorando in collaborazione con un animale come suo compagno e amico.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Ranger's Companion|Ranger||Beast Master||3"
@@ -2715,10 +2715,10 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Beast Master variant feature, which replaces the Ranger's Companion feature}",
-				"You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block\u2014{@creature Beast of the Land|TCE}, {@creature Beast of the Sea|TCE}, or {@creature Beast of the Sky|TCE}\u2014which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.",
-				"In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the {@action Dodge} action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the {@action Attack} action to command the beast to take the {@action Attack} action. If you are {@condition incapacitated}, the beast can take any action of its choice, not just {@action Dodge}.",
-				"If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.",
-				"When you finish a long rest, you can summon a different primal beast. The new beast appears in an unoccupied space within 5 feet of you, and you choose its stat block and appearance. If you already have a beast from this feature, it vanishes when the new beast appears. The beast also vanishes if you die."
+				"Evochi magicamente una bestia primordiale, che trae forza dal tuo legame con la natura. La bestia è amichevole con te e i tuoi compagni e obbedisce ai tuoi comandi. Scegli il suo blocco statistiche {@creature Beast of the Land|TCE}, {@creature Beast of the Sea|TCE} o {@creature Beast of the Sky|TCE} che utilizza il tuo bonus di competenza (PB) in diversi punti. Puoi anche determinare il tipo di animale della bestia, scegliendo un tipo appropriato per il blocco delle statistiche. Qualunque sia la specie scelta, la bestia porta segni primordiali, che ne indicano l'origine mistica.",
+				"In combattimento, la bestia agisce durante il tuo turno. Può muoversi e usare la sua reazione da solo, ma l'unica azione che intraprende è l'azione {@action Dodge}, a meno che tu non esegua un'azione bonus nel tuo turno per comandargli di eseguire un'altra azione. Quell'azione può essere una nel suo blocco statistiche o qualche altra azione. Puoi anche sacrificare uno dei tuoi attacchi quando esegui l'azione {@action Attack} per comandare alla bestia di eseguire l'azione {@action Attack}. Se lo sei {@condition incapacitated}, la bestia può intraprendere qualsiasi azione a sua scelta, non solo {@action Dodge}.",
+				"Se la bestia è morta nell'ultima ora, puoi usare la tua azione per toccarla e spendere uno slot incantesimo di 1° livello o superiore. La bestia ritorna in vita dopo 1 minuto con tutti i suoi punti ferita ripristinati.",
+				"Quando finisci un riposo lungo, puoi evocare una bestia primordiale diversa. La nuova bestia appare in uno spazio non occupato entro 1,5 metri da te, e tu ne scegli il blocco delle statistiche e l'aspetto. Se hai già una bestia con questa funzione, questa svanisce quando appare la nuova bestia. Anche la bestia svanisce se muori."
 			]
 		},
 		{
@@ -2732,11 +2732,11 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a {@filter beast that is no larger than Medium and that has a challenge rating of 1/4 or lower|bestiary|challenge rating=[&0;&1/4]|type=beast|size=f;d;t;s;m|miscellaneous=!swarm}. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.",
-				"The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the {@action Attack}, {@action Dash}, {@action Disengage}, or {@action Help} action. If you don't issue a command, the beast takes the {@action Dodge} action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the {@action Attack} action.",
-				"If you are {@condition incapacitated} or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.",
-				"While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.",
-				"If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn't hostile to you and that meets the requirements."
+				"Ottieni un compagno bestia che ti accompagna nelle tue avventure ed è addestrato a combattere al tuo fianco. Scegli un {@filter beast that is no larger than Medium and that has a challenge rating of 1/4 or lower|bestiary|challenge rating=[&0;&1/4]|type=beast|size=f;d;t;s;m|miscellaneous=!swarm}. Aggiungi il tuo bonus di competenza alla CA, ai tiri per colpire e ai tiri per i danni della bestia, così come a qualsiasi tiro salvezza e abilità in cui è competente. Il suo massimo di punti ferita è pari al suo massimo normale o quattro volte il tuo livello da ranger, qualunque sia il più alto. Come ogni creatura, la bestia può spendere Dadi Vita durante un riposo breve.",
+				"La bestia obbedisce ai tuoi comandi nel miglior modo possibile. Fa il suo turno su tua iniziativa. Durante il tuo turno, puoi comandare verbalmente alla bestia dove muoversi (non è richiesta alcuna azione da parte tua). Puoi usare la tua azione per comandargli verbalmente di eseguire l'azione {@action Attack}, {@action Dash}, {@action Disengage} o {@action Help}. Se non impartisci un comando, la bestia esegue l'azione {@action Dodge}. Una volta che hai la funzione Attacco Extra, puoi effettuare tu stesso un attacco con un'arma quando comandi alla bestia di eseguire l'azione {@action Attack}.",
+				"Se sei {@condition incapacitated} o assente, il tuo compagno bestia agisce da solo, concentrandosi sulla protezione di te e di se stesso. Non richiede mai il tuo comando per usare la sua reazione, come quando effettui un attacco di opportunità.",
+				"Mentre viaggi attraverso il tuo terreno preferito solo con la bestia, puoi muoverti furtivamente a un ritmo normale.",
+				"Se la bestia muore, puoi ottenere un nuovo compagno trascorrendo 8 ore legandoti magicamente con una bestia che non ti è ostile e che soddisfa i requisiti."
 			]
 		},
 		{
@@ -2750,7 +2750,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the {@action Dash}, {@action Disengage}, or {@action Help} action on its turn. In addition, the beast's attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
+				"A partire dal 7° livello, in uno qualsiasi dei tuoi turni in cui la tua compagna bestia non attacca, puoi usare un'azione bonus per comandare alla bestia di eseguire l'azione {@action Dash}, {@action Disengage} o {@action Help} nel suo turno. Inoltre, gli attacchi della bestia ora contano come magici allo scopo di superare la resistenza e l'immunità agli attacchi e ai danni non magici."
 			]
 		},
 		{
@@ -2764,7 +2764,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"Starting at 11th level, when you command your beast companion to take the {@action Attack} action, the beast can make two attacks, or it can take the Multiattack action if it has that action."
+				"A partire dall'11° livello, quando comandi al tuo compagno bestia di eseguire l'azione {@action Attack}, la bestia può effettuare due attacchi o può eseguire l'azione Multiattacco se possiede quell'azione."
 			]
 		},
 		{
@@ -2778,7 +2778,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you."
+				"A partire dal 15° livello, quando lanci un incantesimo contro te stesso, puoi anche influenzare la tua bestia compagna con l'incantesimo se la bestia si trova entro 9 metri da te."
 			]
 		},
 		{
@@ -2792,7 +2792,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.",
+				"Emulare l'archetipo del cacciatore significa accettare il proprio posto come baluardo tra la civiltà e i terrori della natura selvaggia. Mentre percorri il sentiero del cacciatore, impari tecniche specializzate per combattere le minacce che affronti, da orchi furiosi e orde di orchi a giganti torreggianti e draghi terrificanti.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Hunter's Prey|Ranger||Hunter||3"
@@ -2811,7 +2811,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon."
+				"Una volta per ciascuno dei tuoi turni in cui effettui un attacco con un'arma, puoi effettuare un altro attacco con la stessa arma contro una creatura diversa che si trova entro 1,5 metri dal bersaglio originale e entro la gittata della tua arma."
 			]
 		},
 		{
@@ -2826,7 +2826,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you gain one of the following features of your choice.",
+				"Al 3° livello, ottieni uno dei seguenti privilegi a tua scelta.",
 				{
 					"type": "options",
 					"count": 1,
@@ -2859,7 +2859,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra {@damage 1d8} damage if it's below its hit point maximum. You can deal this extra damage only once per turn."
+				"La tua tenacia può logorare i nemici più potenti. Quando colpisci una creatura con un attacco con un'arma, la creatura subisce un danno extra {@damage 1d8} se è inferiore al massimo dei suoi punti ferita. Puoi infliggere questo danno extra solo una volta per turno."
 			]
 		},
 		{
@@ -2874,7 +2874,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature."
+				"Quando una creatura Grande o più grande entro 1,5 metri da te ti colpisce o ti manca con un attacco, puoi usare la tua reazione per attaccare quella creatura immediatamente dopo il suo attacco, a condizione che tu possa vedere la creatura."
 			]
 		},
 		{
@@ -2889,7 +2889,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"At 7th level, you gain one of the following features of your choice.",
+				"Al 7° livello, ottieni uno dei seguenti privilegi a tua scelta.",
 				{
 					"type": "options",
 					"count": 1,
@@ -2922,7 +2922,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Opportunity attacks against you are made with disadvantage."
+				"Gli attacchi di opportunità contro di te vengono effettuati con svantaggio."
 			]
 		},
 		{
@@ -2937,7 +2937,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn."
+				"Quando una creatura ti colpisce con un attacco, ottieni bonus +4 alla CA contro tutti gli attacchi successivi effettuati da quella creatura per il resto del turno."
 			]
 		},
 		{
@@ -2952,7 +2952,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You have advantage on saving throws against being {@condition frightened}."
+				"Hai vantaggio sui tiri salvezza contro l'essere {@condition frightened}."
 			]
 		},
 		{
@@ -2967,7 +2967,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"At 11th level, you gain one of the following features of your choice.",
+				"All'11° livello, ottieni una delle seguenti capacità a tua scelta.",
 				{
 					"type": "options",
 					"count": 1,
@@ -2996,7 +2996,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target."
+				"Puoi usare la tua azione per effettuare un attacco a distanza contro un qualsiasi numero di creature entro 3 metri da un punto visibile all'interno della portata della tua arma. Devi avere munizioni per ciascun bersaglio, come di norma, ed effettui un tiro per colpire separato per ciascun bersaglio."
 			]
 		},
 		{
@@ -3011,7 +3011,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target."
+				"Puoi usare la tua azione per effettuare un attacco in mischia contro un qualsiasi numero di creature entro 1,5 metri da te, con un tiro per colpire separato per ciascun bersaglio."
 			]
 		},
 		{
@@ -3026,7 +3026,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a {@spell lightning bolt} spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
+				"Puoi schivare agilmente alcuni effetti ad area, come il soffio infuocato di un drago rosso o un incantesimo {@spell lightning bolt}. Quando sei soggetto a un effetto che ti consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisci invece alcun danno se riesci nel tiro salvezza e solo la metà dei danni se fallisci."
 			]
 		},
 		{
@@ -3041,7 +3041,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice."
+				"Quando una creatura ostile ti manca con un attacco in mischia, puoi usare la tua reazione per costringere quella creatura a ripetere lo stesso attacco contro un'altra creatura (diversa da se stessa) di tua scelta."
 			]
 		},
 		{
@@ -3056,7 +3056,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"At 15th level, you gain one of the following features of your choice.",
+				"Al 15° livello, ottieni una delle seguenti capacità a tua scelta.",
 				{
 					"type": "options",
 					"count": 1,
@@ -3089,7 +3089,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you."
+				"Quando un attaccante che puoi vedere ti colpisce con un attacco, puoi usare la tua reazione per dimezzare il danno dell'attacco contro di te."
 			]
 		},
 		{
@@ -3102,7 +3102,7 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.",
+				"Un'atmosfera magica ti circonda, grazie al dono di un arcifeta, al frutto splendente che hai mangiato da un albero parlante, alla sorgente magica in cui hai nuotato o a qualche altro evento di buon auspicio. Indipendentemente dal modo in cui hai acquisito la tua magia fatata, ora sei un Fey Wanderer, un ranger che rappresenta sia il regno dei mortali che quello delle fate. Mentre vaghi per il multiverso, la tua risata gioiosa illumina i cuori degli oppressi e la tua abilità marziale incute terrore nei tuoi nemici, perché grande è l'allegria delle fate e terribile è la loro furia.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Dreadful Strikes|Ranger||Fey Wanderer|TCE|3"
@@ -3129,8 +3129,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Fey Wanderer feature}",
-				"You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra {@damage 1d4} psychic damage to the target, which can take this extra damage only once per turn.",
-				"The extra damage increases to {@damage 1d6} when you reach 11th level in this class."
+				"Puoi potenziare i colpi delle tue armi con magie devastanti, estratte dalle cupe cavità della Selva Fatata. Quando colpisci una creatura con un'arma, puoi infliggere un danno psichico extra {@damage 1d4} al bersaglio, che può subire questo danno extra solo una volta per turno.",
+				"Il danno extra aumenta a {@damage 1d6} quando raggiungi l'11° livello in questa classe."
 			]
 		},
 		{
@@ -3145,7 +3145,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Fey Wanderer feature}",
-				"You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.",
+				"Apprendi un incantesimo aggiuntivo quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi del Fey Wanderer. Ogni incantesimo conta come un incantesimo da ranger per te, ma non conta nel numero di incantesimi da ranger che conosci.",
 				{
 					"type": "table",
 					"caption": "Fey Wanderer Spells",
@@ -3180,7 +3180,7 @@
 						]
 					]
 				},
-				"You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.",
+				"Possiedi anche una benedizione soprannaturale proveniente da un alleato fatato o da un luogo di potere fatato. Scegli la tua benedizione dalla tabella Doni della Selva Fatata o determinala in modo casuale.",
 				{
 					"type": "table",
 					"caption": "Feywild Gifts",
@@ -3195,27 +3195,27 @@
 					"rows": [
 						[
 							"1",
-							"Illusory butterflies flutter around you while you take a short or long rest."
+							"Farfalle illusorie svolazzano intorno a te mentre fai un riposo breve o lungo."
 						],
 						[
 							"2",
-							"Fresh, seasonal flowers sprout from your hair each dawn."
+							"Fiori freschi e stagionali spuntano dai tuoi capelli ogni alba."
 						],
 						[
 							"3",
-							"You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice."
+							"Senti un leggero odore di cannella, lavanda, noce moscata o un'altra erba o spezia confortante."
 						],
 						[
 							"4",
-							"Your shadow dances while no one is looking directly at it."
+							"La tua ombra danza mentre nessuno la guarda direttamente."
 						],
 						[
 							"5",
-							"Horns or antlers sprout from your head."
+							"Dalla tua testa spuntano corna o palchi."
 						],
 						[
 							"6",
-							"Your skin and hair change color to match the season at each dawn."
+							"La tua pelle e i tuoi capelli cambiano colore per adattarsi alla stagione ad ogni alba."
 						]
 					]
 				}
@@ -3233,8 +3233,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Fey Wanderer feature}",
-				"Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).",
-				"In addition, you gain proficiency in one of the following skills of your choice: {@skill Deception}, {@skill Performance}, or {@skill Persuasion}."
+				"Le tue qualità fatate ti conferiscono un fascino soprannaturale. Di conseguenza, ogni volta che effettui una prova di Carisma, ottieni un bonus alla prova pari al tuo modificatore di Saggezza (minimo +1).",
+				"Inoltre, acquisisci competenza in una delle seguenti abilità a tua scelta: {@skill Deception}, {@skill Performance} o {@skill Persuasion}."
 			]
 		},
 		{
@@ -3249,8 +3249,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 7th-level Fey Wanderer feature}",
-				"The magic of the Feywild guards your mind. You have advantage on saving throws against being {@condition charmed} or {@condition frightened}.",
-				"In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw against being {@condition charmed} or {@condition frightened}, you can use your reaction to force a different creature you can see within 120 feet of you to make a Wisdom saving throw against your spell save DC. If the save fails, the target is {@condition charmed} or {@condition frightened} by you (your choice) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save."
+				"La magia della Selva dei Folletti protegge la tua mente. Hai vantaggio sui tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}.",
+				"Inoltre, ogni volta che tu o una creatura che puoi vedere entro 120 piedi da te riuscite in un tiro salvezza contro l'essere {@condition charmed} o {@condition frightened}, puoi usare la tua reazione per costringere un'altra creatura che puoi vedere entro 120 piedi da te a effettuare un tiro salvezza su Saggezza contro la tua CD del tiro salvezza dell'incantesimo. Se il salvataggio fallisce, il bersaglio è {@condition charmed} o {@condition frightened} da te (a tua scelta) per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso se il tiro salvezza riesce."
 			]
 		},
 		{
@@ -3265,8 +3265,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 11th-level Fey Wanderer feature}",
-				"The royal courts of the Feywild have blessed you with the assistance of fey beings: you know {@spell summon fey|tce}. It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.",
-				"Whenever you start casting the spell, you can modify it so that it doesn't require {@status concentration}. If you do so, the spell's duration becomes 1 minute for that casting."
+				"Le corti reali della Selva dei Folletti ti hanno benedetto con l'assistenza di esseri fatati: lo sai {@spell summon fey|tce}. Non conta nel numero di incantesimi da ranger che conosci e puoi lanciarlo senza una componente materiale. Puoi anche lanciarlo una volta senza uno slot incantesimo e riacquisti la capacità di farlo quando finisci un riposo lungo.",
+				"Ogni volta che inizi a lanciare l'incantesimo, puoi modificarlo in modo che non richieda {@status concentration}. Se lo fai, la durata dell'incantesimo diventa 1 minuto per quel lancio."
 			]
 		},
 		{
@@ -3281,8 +3281,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 15th-level Fey Wanderer feature}",
-				"You can slip in and out of the Feywild to move in a blink of an eye: you can cast {@spell misty step} without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.",
-				"In addition, whenever you cast {@i misty step}, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space."
+				"Puoi entrare e uscire dalla Selva dei Folletti per muoverti in un batter d'occhio: puoi lanciare {@spell misty step} senza spendere uno slot incantesimo. Puoi farlo un numero di volte pari al tuo modificatore di Saggezza (minimo una volta) e recuperi tutti gli usi spesi quando termini un riposo lungo.",
+				"Inoltre, ogni volta che lanci {@i misty step}, puoi portare con te una creatura consenziente che puoi vedere entro 1,5 metri da te. Quella creatura si teletrasporta in uno spazio non occupato di tua scelta entro 1,5 metri dal tuo spazio di destinazione."
 			]
 		},
 		{
@@ -3295,7 +3295,7 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.",
+				"Sentendo una profonda connessione con l'ambiente che li circonda, alcuni ranger raggiungono la loro magica connessione con il mondo e si legano a uno sciame di spiriti della natura. Lo sciame diventa una forza potente in battaglia, nonché una compagnia utile per il ranger. Alcuni Custodi dello Sciame sono emarginati o eremiti, che si tengono per sé e per i loro sciami accompagnatori piuttosto che affrontare il disagio degli altri. Altri Swarmkeepers amano costruire comunità vivaci che lavorano per il reciproco vantaggio di tutti coloro che considerano parte del loro sciame.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Gathered Swarm|Ranger||Swarmkeeper|TCE|3"
@@ -3318,7 +3318,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Swarmkeeper feature}",
-				"A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. While you're alive, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on the Swarm Appearance table.",
+				"Uno sciame di spiriti della natura intangibili si è legato a te e può assisterti in battaglia. Mentre sei vivo, lo sciame rimane nel tuo spazio, strisciando su di te o volando e svolazzando intorno a te nel tuo spazio. Sei tu a determinarne l'aspetto, oppure lo generi tirando sulla tabella Aspetto dello Sciame.",
 				{
 					"type": "table",
 					"caption": "Swarm Appearance",
@@ -3333,37 +3333,37 @@
 					"rows": [
 						[
 							"1",
-							"Swarming insects"
+							"Insetti sciamanti"
 						],
 						[
 							"2",
-							"Miniature twig blights"
+							"I ramoscelli in miniatura rovinano"
 						],
 						[
 							"3",
-							"Fluttering birds"
+							"Uccelli svolazzanti"
 						],
 						[
 							"4",
-							"Playful pixies"
+							"Folletti giocosi"
 						]
 					]
 				},
-				"Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:",
+				"Una volta per ciascuno dei tuoi turni, puoi fare in modo che lo sciame ti assista in uno dei seguenti modi, immediatamente dopo aver colpito una creatura con un attacco:",
 				{
 					"type": "list",
 					"items": [
-						"The attack's target takes {@damage 1d6} piercing damage from the swarm.",
-						"The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.",
-						"You are moved by the swarm 5 feet horizontally in a direction of your choice."
+						"Il bersaglio dell'attacco subisce {@damage 1d6} danni perforanti dallo sciame.",
+						"Il bersaglio dell'attacco deve superare un tiro salvezza su Forza contro la CD del tiro salvezza dell'incantesimo o essere spostato dallo sciame fino a 15 piedi in orizzontale in una direzione a tua scelta.",
+						"Vieni spostato dallo sciame di 5 piedi orizzontalmente in una direzione a tua scelta."
 					]
 				},
 				{
 					"type": "inset",
 					"name": "It's Your Swarm",
 					"entries": [
-						"A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the {@spell arcane eye} spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the \"Personalizing Spells\" section in chapter 3.",
-						"Also, remember that the swarm's appearance is yours to customize, and don't feel confined to a single appearance. Perhaps the spirits' look changes with the ranger's mood or with the seasons. You decide!"
+						"Lo sciame e gli incantesimi di un Custode dello Sciame riflettono il legame del personaggio con gli spiriti della natura. Cogli l'occasione per descrivere lo sciame e la magia del ranger in gioco. Ad esempio, quando il tuo ranger lancia forma gassosa, potrebbe sembrare che si sciolga nello sciame, invece che in una nuvola di nebbia, oppure l'incantesimo {@spell arcane eye} potrebbe creare un'estensione del tuo sciame che ti spia. Tali descrizioni non modificano gli effetti degli incantesimi, ma rappresentano un'entusiasmante opportunità per esplorare la narrativa del tuo personaggio attraverso le sue abilità di classe. Per ulteriori indicazioni sulla personalizzazione degli incantesimi, vedere la sezione \"Personalizzazione degli incantesimi\" nel capitolo 3.",
+						"Inoltre, ricorda che puoi personalizzare l'aspetto dello sciame e non sentirti limitato a un unico aspetto. Forse l'aspetto degli spiriti cambia con l'umore del ranger o con le stagioni. Decidi tu!"
 					]
 				}
 			]
@@ -3380,8 +3380,8 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Swarmkeeper feature}",
-				"You learn the {@spell mage hand} cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.",
-				"You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.",
+				"Impari il trucchetto {@spell mage hand} se non lo conosci già. Quando la lanci, la mano assume la forma dei tuoi spiriti della natura che sciamano.",
+				"Apprendi anche un incantesimo aggiuntivo di 1° livello o superiore quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi del Guardiano dello Sciame. Ogni incantesimo conta come un incantesimo da ranger per te, ma non conta nel numero di incantesimi da ranger che conosci.",
 				{
 					"type": "table",
 					"caption": "Swarmkeeper Spells",
@@ -3430,8 +3430,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 7th-level Swarmkeeper feature}",
-				"You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are {@condition incapacitated}.",
-				"You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+				"Puoi condensare parte del tuo sciame in una massa concentrata che ti solleva. Come azione bonus, ottieni una velocità di volo di 3 metri e puoi librarti. Questo effetto dura 1 minuto o finché non sei {@condition incapacitated}.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -3446,13 +3446,13 @@
 			"header": 2,
 			"entries": [
 				"{@i 11th-level Swarmkeeper feature}",
-				"Your Gathered Swarm grows mightier in the following ways:",
+				"Il tuo Gathered Swarm diventa più potente nei seguenti modi:",
 				{
 					"type": "list",
 					"items": [
-						"The damage of Gathered Swarm increases to {@damage 1d8}.",
-						"If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature {@condition prone}.",
-						"When you are moved by Gathered Swarm, it gives you {@quickref Cover||3||half cover} until the start of your next turn."
+						"Il danno di Gathered Swarm aumenta al {@damage 1d8}.",
+						"Se una creatura fallisce il suo tiro salvezza contro il movimento di Gathered Swarm, puoi anche fare in modo che lo sciame colpisca la creatura {@condition prone}.",
+						"Quando vieni spostato da Gathered Swarm, ti dà {@quickref Cover||3||half cover} fino all'inizio del tuo prossimo turno."
 					]
 				}
 			]
@@ -3469,8 +3469,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 15th-level Swarmkeeper feature}",
-				"You can discorporate into your swarm, avoiding danger. When you take damage, you can use your reaction to give yourself resistance to that damage. You vanish into your swarm and then teleport to an unoccupied space that you can see within 30 feet of you, where you reappear with the swarm.",
-				"You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+				"Puoi discorporarti nel tuo sciame, evitando il pericolo. Quando subisci danni, puoi usare la tua reazione per darti resistenza a quel danno. Svanisci nel tuo sciame e poi ti teletrasporti in uno spazio non occupato che puoi vedere entro 9 metri da te, dove riappari con lo sciame.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio bonus di competenza e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -3483,7 +3483,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.",
+				"I Gloom Stalker sono di casa nei luoghi più oscuri: nelle profondità della terra, nei vicoli tetri, nelle foreste primordiali e ovunque la luce si affievolisca. La maggior parte delle persone entra in questi luoghi con trepidazione, ma un Gloom Stalker si avventura coraggiosamente nell'oscurità, cercando di tendere un'imboscata alle minacce prima che possano raggiungere il mondo più vasto. Questi ranger si trovano spesso nel Sottosuolo, ma vanno ovunque dove il male si nasconde nell'ombra.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Gloom Stalker Magic|Ranger||Gloom Stalker|XGE|3"
@@ -3509,8 +3509,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.",
-				"At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the {@action Attack} action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra {@damage 1d8} damage of the weapon's damage type."
+				"Al 3° livello, padroneggi l'arte dell'imboscata. Puoi concederti un bonus ai tiri di iniziativa pari al tuo modificatore di Saggezza.",
+				"All'inizio del tuo primo turno di ogni combattimento, la tua velocità di camminata aumenta di 3 metri, cosa che dura fino alla fine di quel turno. Se esegui l'azione {@action Attack} in quel turno, puoi effettuare un ulteriore attacco con l'arma come parte di quell'azione. Se l'attacco va a segno, il bersaglio subisce un danno extra {@damage 1d8} del tipo di danno dell'arma."
 			]
 		},
 		{
@@ -3524,7 +3524,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.",
+				"A partire dal 3° livello, apprendi un incantesimo aggiuntivo quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi del Cacciatore dell'Oscurità. L'incantesimo conta come un incantesimo da ranger per te, ma non conta nel numero di incantesimi da ranger che conosci.",
 				{
 					"type": "table",
 					"caption": "Gloom Stalker Spells",
@@ -3572,8 +3572,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you gain {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision} from your race, its range increases by 30 feet.",
-				"You are also adept at evading creatures that rely on {@sense darkvision}. While in darkness, you are {@condition invisible} to any creature that relies on {@sense darkvision} to see you in that darkness."
+				"Al 3° livello, guadagni {@sense darkvision} entro un raggio di 60 piedi. Se hai già {@sense darkvision} dalla tua razza, la sua portata aumenta di 9 metri.",
+				"Sei anche abile nello schivare le creature che fanno affidamento su {@sense darkvision}. Mentre sei nell'oscurità, sei {@condition invisible} per qualsiasi creatura che fa affidamento su {@sense darkvision} per vederti in quell'oscurità."
 			]
 		},
 		{
@@ -3587,7 +3587,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice)."
+				"Al 7° livello, hai affinato la tua capacità di resistere ai poteri di alterazione mentale della tua preda. Ottieni competenza nei tiri salvezza su Saggezza. Se possiedi già questa competenza, ottieni invece competenza nei tiri salvezza su Intelligenza o Carisma (a tua scelta)."
 			]
 		},
 		{
@@ -3601,7 +3601,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action."
+				"All'11° livello, impari ad attaccare con una velocità così inaspettata da poter trasformare un colpo mancato in un altro colpo. Una volta in ciascuno dei tuoi turni in cui manchi un attacco con l'arma, puoi effettuare un altro attacco con l'arma come parte della stessa azione."
 			]
 		},
 		{
@@ -3615,7 +3615,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll."
+				"A partire dal 15° livello, puoi schivare in modi imprevisti, circondato da ciuffi di ombra soprannaturale. Ogni volta che una creatura effettua un tiro per colpire contro di te e non ha vantaggio sul tiro, puoi usare la tua reazione per imporle uno svantaggio. È necessario utilizzare questa capacità prima di conoscere l'esito del tiro per colpire."
 			]
 		},
 		{
@@ -3628,7 +3628,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse\u2014especially benevolent dragons, fey, and elementals\u2014that work to preserve life and the order of the planes.",
+				"Gli Horizon Walker proteggono il mondo dalle minacce che provengono da altri piani o che cercano di devastare il regno mortale con la magia ultraterrena. Cercano portali planari e li sorvegliano, avventurandosi nei Piani Interni ed Esterni secondo necessità per inseguire i loro nemici. Questi ranger sono anche amici di tutte le forze del multiverso, in particolare draghi benevoli, folletti ed elementali, che lavorano per preservare la vita e l'ordine dei piani.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Horizon Walker Magic|Ranger||Horizon Walker|XGE|3"
@@ -3654,9 +3654,9 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.",
-				"Once you use this feature, you can't use it again until you finish a short or long rest.",
-				"See the \"Planar Travel\" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals."
+				"Al 3° livello, ottieni la capacità di percepire magicamente la presenza di un portale planare. Con un'azione, si rileva la distanza e la direzione del portale planare più vicino entro 1,5 km da sé.",
+				"Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo breve o lungo.",
+				"Vedi la sezione \"Viaggio Planare\" nel capitolo 2 della Guida del Dungeon Master per esempi di portali planari."
 			]
 		},
 		{
@@ -3670,7 +3670,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.",
+				"A partire dal 3° livello, apprendi un incantesimo aggiuntivo quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi del Camminatore dell'Orizzonte. L'incantesimo conta come un incantesimo da ranger per te, ma non conta nel numero di incantesimi da ranger che conosci.",
 				{
 					"type": "table",
 					"caption": "Horizon Walker Spells",
@@ -3718,8 +3718,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.",
-				"As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra {@damage 1d8} force damage from the attack. When you reach 11th level in this class, the extra damage increases to {@damage 2d8}."
+				"Al 3° livello impari ad attingere all'energia del multiverso per potenziare i tuoi attacchi.",
+				"Come azione bonus, scegli una creatura che puoi vedere entro 9 metri da te. La prossima volta che colpisci quella creatura in questo turno con un attacco con un'arma, tutto il danno inflitto dall'attacco diventa danno di forza e la creatura subisce un danno di forza extra {@damage 1d8} dall'attacco. Quando raggiungi l'11° livello in questa classe, il danno extra aumenta a {@damage 2d8}."
 			]
 		},
 		{
@@ -3733,8 +3733,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the {@spell etherealness} spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.",
-				"Once you use this feature, you can't use it again until you finish a short or long rest."
+				"Al 7° livello impari ad attraversare il Piano Etereo. Come azione bonus, puoi lanciare l'incantesimo {@spell etherealness} con questa funzione, senza spendere uno slot incantesimo, ma l'incantesimo termina alla fine del turno corrente.",
+				"Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo breve o lungo."
 			]
 		},
 		{
@@ -3748,8 +3748,8 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the {@action Attack} action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.",
-				"If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature."
+				"All'11° livello, ottieni la capacità di passare tra i piani in un batter d'occhio. Quando esegui l'azione {@action Attack}, puoi teletrasportarti fino a 3 metri prima di ogni attacco in uno spazio non occupato che puoi vedere.",
+				"Se attacchi almeno due creature diverse con l'azione, puoi effettuare un attacco aggiuntivo con essa contro una terza creatura."
 			]
 		},
 		{
@@ -3763,7 +3763,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack's damage on this turn."
+				"Al 15° livello, la tua capacità di muoverti tra i piani ti consente di scivolare attraverso i confini planari per ridurre il danno arrecato durante la battaglia. Quando subisci danni da un attacco, puoi usare la tua reazione per darti resistenza a tutto il danno di quell'attacco in questo turno."
 			]
 		},
 		{
@@ -3776,7 +3776,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.",
+				"Ti sei dedicato a dare la caccia alle creature della notte e ai detentori della magia sinistra. Un Monster Slayer cerca vampiri, draghi, fate malvagie, demoni e altre minacce magiche. Addestrati nelle tecniche soprannaturali per sconfiggere tali mostri, gli assassini sono esperti nel portare alla luce e sconfiggere nemici potenti e mistici.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Monster Slayer Magic|Ranger||Monster Slayer|XGE|3"
@@ -3802,8 +3802,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level, you gain the ability to peer at a creature and magically discern how best to hurt it. As an action, choose one creature you can see within 60 feet of you. You immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities.",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest."
+				"Al 3° livello, ottieni la capacità di scrutare una creatura e discernere magicamente il modo migliore per ferirla. Come azione, scegli una creatura che puoi vedere entro 60 piedi da te. Apprendi immediatamente se la creatura ha immunità, resistenze o vulnerabilità ai danni e quali sono. Se la creatura è nascosta alla magia di divinazione, hai la sensazione che non abbia immunità ai danni, resistenze o vulnerabilità.",
+				"Puoi utilizzare questa capacità un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Ne recuperi tutti gli usi spesi quando termini un riposo lungo."
 			]
 		},
 		{
@@ -3817,7 +3817,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Monster Slayer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.",
+				"A partire dal 3° livello, apprendi un incantesimo aggiuntivo quando raggiungi determinati livelli in questa classe, come mostrato nella tabella Incantesimi dell'ammazzamostri. L'incantesimo conta come un incantesimo da ranger per te, ma non conta nel numero di incantesimi da ranger che conosci.",
 				{
 					"type": "table",
 					"caption": "Monster Slayer Spells",
@@ -3865,8 +3865,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra {@damage 1d6} damage from the weapon.",
-				"This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature."
+				"A partire dal 3° livello, puoi concentrare la tua ira su un nemico, aumentando il danno che gli infliggi. Come azione bonus, designi una creatura che puoi vedere entro 18 metri da te come bersaglio di questa capacità. La prima volta in ogni turno in cui colpisci quel bersaglio con un attacco con un'arma, subisce un danno extra {@damage 1d6} dall'arma.",
+				"Questo beneficio dura fino al termine di un riposo breve o lungo. Termina prima se designi una creatura diversa."
 			]
 		},
 		{
@@ -3880,7 +3880,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add {@dice 1d6} to your roll."
+				"Al 7° livello, ottieni una resistenza extra contro gli assalti della tua preda alla tua mente e al tuo corpo. Ogni volta che il bersaglio della Preda del tuo Slayer ti costringe a effettuare un tiro salvezza e ogni volta che effettui una prova di abilità per sfuggire alla presa di quel bersaglio, aggiungi {@dice 1d6} al tuo tiro."
 			]
 		},
 		{
@@ -3894,8 +3894,8 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"At 11th level, you gain the ability to thwart someone else's magic. When you see a creature casting a spell or teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.",
-				"Once you use this feature, you can't use it again until you finish a short or long rest."
+				"All'11° livello, ottieni la capacità di contrastare la magia di qualcun altro. Quando vedi una creatura lanciare un incantesimo o teletrasportarsi entro 18 metri da te, puoi usare la tua reazione per cercare di sventarla magicamente. La creatura deve superare un tiro salvezza su Saggezza contro la CD del tiro salvezza dell'incantesimo, altrimenti il ​​suo incantesimo o teletrasporto fallisce e viene sprecato.",
+				"Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo breve o lungo."
 			]
 		},
 		{
@@ -3909,7 +3909,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack's normal effects."
+				"Al 15° livello, ottieni la capacità di contrattaccare quando la tua preda tenta di sabotarti. Se il bersaglio della Preda del tuo Slayer ti obbliga a effettuare un tiro salvezza, puoi usare la tua reazione per effettuare un attacco con l'arma contro la preda. Effettui questo attacco immediatamente prima di effettuare il tiro salvezza. Se il tuo attacco va a segno, il tuo tiro salvezza ha automaticamente successo, in aggiunta ai normali effetti dell'attacco."
 			]
 		},
 		{
@@ -3921,13 +3921,13 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"You gain the following benefits.",
+				"Ottieni i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Biting Cold",
 					"page": 6,
 					"entries": [
-						"{@variantrule Damage|XPHB} from your weapon attacks, Ranger spells, and Ranger features ignores {@variantrule Resistance|XPHB} to Cold damage."
+						"{@variantrule Damage|XPHB} dagli attacchi con le armi, dagli incantesimi del Ranger e dalle funzionalità del Ranger ignora {@variantrule Resistance|XPHB} i danni da freddo."
 					]
 				},
 				{
@@ -3935,7 +3935,7 @@
 					"name": "Frost Resistance",
 					"page": 6,
 					"entries": [
-						"You have {@variantrule Resistance|XPHB} to Cold damage."
+						"Hai {@variantrule Resistance|XPHB} al danno da freddo."
 					]
 				},
 				{
@@ -3943,7 +3943,7 @@
 					"name": "Polar Strikes",
 					"page": 6,
 					"entries": [
-						"When you hit a creature with an attack roll using a weapon, you can deal an extra {@damage 1d4} Cold damage to the target, which can take this extra damage only once per turn. When you reach Ranger level 11, this extra damage increases to {@dice 1d6}."
+						"Quando colpisci una creatura con un tiro per colpire usando un'arma, puoi infliggere un danno da freddo extra {@damage 1d4} al bersaglio, che può subire questo danno extra solo una volta per turno. Quando raggiungi il livello 11 del Ranger, questo danno extra aumenta a {@dice 1d6}."
 					]
 				}
 			]
@@ -3957,8 +3957,8 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"Ice rimes you and your prey, protecting you and slowing them. When you cast {@spell Hunter's Mark|XPHB}, you gain {@variantrule Temporary Hit Points|XPHB} equal to {@dice 1d10} plus your {@class Ranger|XPHB} level.",
-				"Additionally, while a creature is marked by your {@spell Hunter's Mark|XPHB}, it can't take the {@action Disengage|XPHB} action."
+				"Il ghiaccio circonda te e la tua preda, proteggendoti e rallentandoli. Quando lanci {@spell Hunter's Mark|XPHB}, guadagni {@variantrule Temporary Hit Points|XPHB} pari a {@dice 1d10} più il tuo livello {@class Ranger|XPHB}.",
+				"Inoltre, mentre una creatura è contrassegnata dal tuo {@spell Hunter's Mark|XPHB}, non può eseguire l'azione {@action Disengage|XPHB}."
 			]
 		},
 		{
@@ -3971,7 +3971,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Withstand the Horrors of Frigid Wastelands}",
-				"Winter Walkers hone their craft in the bleak and frozen wilds of places like Icewind Dale. These ruthless, rimed Rangers hunt monsters that haunt arctic wastelands, eventually becoming frigid terrors themselves. Winter Walkers are well versed in the phenomena of Icewind Dale, including the latent magic of fallen Netherese cities, endemic monsters like {@creature yeti|XMM|yetis} and {@creature crag cat|SKT|crag cats}, and the rising threat of Underdark invaders. Due to their cold pragmatism, terrifying magic, and mastery of the region, Winter Walkers are regarded with equal parts respect and fear. Ten-Towns citizens say that Winter Walkers' frequent exposure to malignant entities gives them their fearsome powers. Many Reghed nomads, on the other hand, believe that nature spirits bestow on Winter Walkers a unique curse.",
+				"I Winter Walker affinano la loro arte nelle terre selvagge e ghiacciate di luoghi come Icewind Dale. Questi spietati Rangers danno la caccia ai mostri che infestano le terre desolate dell'Artico, diventando essi stessi dei frigidi terrori. I Winter Walker sono esperti nei fenomeni di Icewind Dale, inclusa la magia latente delle città netheresi cadute, mostri endemici come {@creature yeti|XMM|yetis} e {@creature crag cat|SKT|crag cats} e la crescente minaccia degli invasori del Sottosuolo. A causa del loro freddo pragmatismo, della magia terrificante e della padronanza della regione, i Winter Walker sono considerati con rispetto e paura in parti uguali. I cittadini di Ten-Towns affermano che la frequente esposizione dei Winter Walker a entità maligne conferisce loro i loro temibili poteri. Molti nomadi Reghed, d'altra parte, credono che gli spiriti della natura conferiscano agli Winter Walker una maledizione unica.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Frigid Explorer|Ranger|XPHB|Winter Walker|FRHoF|3|FRHoF"
@@ -3995,7 +3995,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"When you reach a Ranger level specified in the Winter Walker Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello da Ranger specificato nella tabella degli incantesimi del Viandante Invernale, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -4041,8 +4041,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Your experience surviving harrowing environments allows you to bolster your allies in addition to yourself. As a {@action Magic|XPHB} action, choose a number of creatures you can see equal to your Wisdom modifier (minimum of one). Each chosen creature regains {@variantrule Hit Points|XPHB} equal to {@dice 1d10} plus your Ranger level and has {@variantrule Advantage|XPHB} on saving throws to avoid or end the {@condition Frightened|XPHB} condition for 1 hour.",
-				"Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}."
+				"La tua esperienza di sopravvivenza in ambienti strazianti ti consente di rafforzare i tuoi alleati oltre a te stesso. Come azione {@action Magic|XPHB}, scegli un numero di creature che puoi vedere pari al tuo modificatore di Saggezza (minimo uno). Ogni creatura scelta recupera {@variantrule Hit Points|XPHB} pari a {@dice 1d10} più il tuo livello da Ranger e ha {@variantrule Advantage|XPHB} tiri salvezza per evitare o porre fine alla condizione {@condition Frightened|XPHB} per 1 ora.",
+				"Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -4055,8 +4055,8 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When a creature hits you with an attack roll, you can take a {@variantrule Reaction|XPHB} to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the {@condition Stunned|XPHB} condition until the end of your next turn. While the target is {@condition Stunned|XPHB}, its {@variantrule Speed|XPHB} is reduced to 0 feet.",
-				"You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Quando una creatura ti colpisce con un tiro per colpire, puoi prendere un {@variantrule Reaction|XPHB} per forzare la creatura a effettuare un tiro salvezza su Saggezza contro la tua CD del tiro salvezza dell'incantesimo. In caso di salvataggio fallito, il bersaglio avrà la condizione {@condition Stunned|XPHB} fino alla fine del tuo turno successivo. Mentre il bersaglio è {@condition Stunned|XPHB}, il suo {@variantrule Speed|XPHB} è ridotto a 0 piedi.",
+				"Puoi utilizzare questa funzione un numero di volte pari al tuo modificatore di Saggezza (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -4069,13 +4069,13 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you cast {@spell Hunter's Mark|XPHB}, you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB} unless you expend a level 4+ spell slot (no action required).",
+				"Quando lanci {@spell Hunter's Mark|XPHB}, puoi adottare una forma spettrale e innevata. Questa forma dura fino al termine dell'incantesimo e, mentre sei in questa forma, ottieni i seguenti benefici. Una volta utilizzata questa funzione, non potrai utilizzarla di nuovo finché non finisci un {@variantrule Long Rest|XPHB} a meno che non spendi uno slot incantesimo di livello 4+ (non è richiesta alcuna azione).",
 				{
 					"type": "entries",
 					"name": "Frozen Soul",
 					"page": 6,
 					"entries": [
-						"You have {@variantrule Immunity|XPHB} to Cold damage. When you first adopt this form and at the start of each of your subsequent turns, each creature of your choice in a 15-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you takes {@damage 2d4} Cold damage."
+						"Hai {@variantrule Immunity|XPHB} al danno da freddo. Quando adotti questa forma per la prima volta e all'inizio di ciascuno dei tuoi turni successivi, ogni creatura di tua scelta in un raggio di 15 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originaria da te subisce {@damage 2d4} danni da freddo."
 					]
 				},
 				{
@@ -4083,7 +4083,7 @@
 					"name": "Partially Incorporeal",
 					"page": 6,
 					"entries": [
-						"You have {@variantrule Immunity|XPHB} to the {@condition Grappled|XPHB}, {@condition Prone|XPHB}, and {@condition Restrained|XPHB} conditions. You can move through creatures and objects as if they were {@variantrule Difficult Terrain|XPHB}, but you take {@damage 1d10} Force damage if you end your turn inside a creature or an object. If the form ends while you are inside a creature or an object, you are shunted to the nearest unoccupied space."
+						"Hai {@variantrule Immunity|XPHB} alle condizioni {@condition Grappled|XPHB}, {@condition Prone|XPHB} e {@condition Restrained|XPHB}. Puoi muoverti attraverso creature e oggetti come se fossero {@variantrule Difficult Terrain|XPHB}, ma subisci {@damage 1d10} danni di Forza se finisci il tuo turno all'interno di una creatura o di un oggetto. Se la forma termina mentre ti trovi all'interno di una creatura o di un oggetto, vieni deviato nello spazio non occupato più vicino."
 					]
 				}
 			]
@@ -4099,7 +4099,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Bond with a Primal Beast}",
-				"A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.",
+				"Un Beast Master forma un legame mistico con un animale speciale, attingendo alla magia primordiale e a una profonda connessione con il mondo naturale.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Primal Companion|Ranger|XPHB|Beast Master|XPHB|3"
@@ -4116,8 +4116,8 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: {@creature Beast of the Land|XPHB}, {@creature Beast of the Sea|XPHB}, or {@creature Beast of the Sky|XPHB}. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.",
-				"The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.",
+				"Evochi magicamente una bestia primordiale, che trae forza dal tuo legame con la natura. Scegli il suo blocco statistiche: {@creature Beast of the Land|XPHB}, {@creature Beast of the Sea|XPHB} o {@creature Beast of the Sky|XPHB}. Puoi anche determinare il tipo di animale, scegliendo un tipo appropriato per il blocco delle statistiche. Qualunque bestia tu scelga, porta segni primordiali che ne indicano l'origine soprannaturale.",
+				"La bestia è amichevole con te e i tuoi alleati e obbedisce ai tuoi comandi. Svanisce se muori.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4125,15 +4125,15 @@
 							"type": "entries",
 							"name": "The Beast in Combat",
 							"entries": [
-								"In combat, the beast acts during your turn. It can move and use its {@variantrule Reaction|XPHB} on its own, but the only action it takes is the {@action Dodge|XPHB} action unless you take a {@variantrule Bonus Action|XPHB} to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the {@action Attack|XPHB} action to command the beast to take the Beast's Strike action. If you have the {@condition Incapacitated|XPHB} condition, the beast acts on its own and isn't limited to the {@action Dodge|XPHB} action."
+								"In combattimento, la bestia agisce durante il tuo turno. Può muoversi e usare il suo {@variantrule Reaction|XPHB} da solo, ma l'unica azione che intraprende è l'azione {@action Dodge|XPHB} a meno che tu non prenda un {@variantrule Bonus Action|XPHB} per comandargli di eseguire un'azione nel suo blocco statistiche o qualche altra azione. Puoi anche sacrificare uno dei tuoi attacchi quando esegui l'azione {@action Attack|XPHB} per comandare alla bestia di eseguire l'azione Colpo della Bestia. Se hai la condizione {@condition Incapacitated|XPHB}, la bestia agisce da sola e non è limitata all'azione {@action Dodge|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Restoring or Replacing the Beast",
 							"entries": [
-								"If the beast has died within the last hour, you can take a {@action Magic|XPHB} action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its {@variantrule Hit Points|XPHB} restored.",
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears."
+								"Se la bestia è morta nell'ultima ora, puoi eseguire un'azione {@action Magic|XPHB} per toccarla e spendere uno slot incantesimo. La bestia ritorna in vita dopo 1 minuto con tutto il suo {@variantrule Hit Points|XPHB} ripristinato.",
+								"Ogni volta che finisci un {@variantrule Long Rest|XPHB}, puoi evocare una bestia primordiale diversa, che appare in uno spazio non occupato entro 1,5 metri da te. Scegli il blocco delle statistiche e l'aspetto. Se hai già una bestia con questa funzione, quella vecchia svanisce quando appare quella nuova."
 							]
 						}
 					]
@@ -4151,8 +4151,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"When you take a {@variantrule Bonus Action|XPHB} to command your Primal Companion beast to take an action, you can also command it to take the {@action Dash|XPHB}, {@action Disengage|XPHB}, {@action Dodge|XPHB}, or {@action Help|XPHB} action using its {@variantrule Bonus Action|XPHB}.",
-				"In addition, whenever it hits with an attack roll and deals damage, it can deal your choice of Force damage or its normal damage type."
+				"Quando prendi un {@variantrule Bonus Action|XPHB} per comandare alla tua bestia Compagna Primordiale di eseguire un'azione, puoi anche comandarle di eseguire l'azione {@action Dash|XPHB}, {@action Disengage|XPHB}, {@action Dodge|XPHB} o {@action Help|XPHB} usando il suo {@variantrule Bonus Action|XPHB}.",
+				"Inoltre, ogni volta che colpisce con un tiro per colpire e infligge danni, può infliggere danni di Forza a scelta o il normale tipo di danno."
 			]
 		},
 		{
@@ -4166,8 +4166,8 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.",
-				"In addition, the first time each turn it hits a creature under the effect of your {@spell Hunter's Mark|XPHB} spell, the beast deals extra Force damage equal to the bonus damage of that spell."
+				"Quando ordini alla tua bestia Compagno Primordiale di eseguire l'azione Colpo della Bestia, la bestia può usarla due volte.",
+				"Inoltre, la prima volta in ogni turno che colpisce una creatura sotto l'effetto del tuo incantesimo {@spell Hunter's Mark|XPHB}, la bestia infligge danni di Forza extra pari al danno bonus di quell'incantesimo."
 			]
 		},
 		{
@@ -4181,7 +4181,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you."
+				"Quando lanci un incantesimo prendendo di mira te stesso, puoi anche influenzare la tua bestia Primordiale Compagna con l'incantesimo se la bestia si trova entro 9 metri da te."
 			]
 		},
 		{
@@ -4195,7 +4195,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Wield Fey Mirth and Fury}",
-				"A fey mystique surrounds you, thanks to the boon of an archfey or a location in the Feywild that transformed you. However you gained fey magic, you are now a Fey Wanderer. Your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.",
+				"Una mistica fatata ti circonda, grazie al dono di un arcifatato o di un luogo nella Selva Fatata che ti ha trasformato. Indipendentemente dal modo in cui hai acquisito la magia fatata, ora sei un Fey Wanderer. La tua risata gioiosa illumina i cuori degli oppressi e la tua abilità marziale incute terrore nei tuoi nemici, perché grande è l'allegria delle fate e terribile è la loro furia.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Dreadful Strikes|Ranger|XPHB|Fey Wanderer|XPHB|3"
@@ -4221,7 +4221,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can augment your weapon strikes with mind-scarring magic drawn from the murky hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra {@damage 1d4} Psychic damage to the target, which can take this extra damage only once per turn. The extra damage increases to {@damage 1d6} when you reach Ranger level 11."
+				"Puoi potenziare i colpi delle tue armi con magie devastanti estratte dalle cavità oscure della Selva Fatata. Quando colpisci una creatura con un'arma, puoi infliggere un danno psichico extra {@damage 1d4} al bersaglio, che può subire questo danno extra solo una volta per turno. Il danno extra aumenta a {@damage 1d6} quando raggiungi il livello 11 del Ranger."
 			]
 		},
 		{
@@ -4235,7 +4235,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Ranger level specified in the Fey Wanderer Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello del Ranger specificato nella tabella degli incantesimi del Fey Wanderer, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Fey Wanderer Spells",
@@ -4270,7 +4270,7 @@
 						]
 					]
 				},
-				"You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.",
+				"Possiedi anche una benedizione fatata. Sceglilo dalla tabella Regali della Selva Fatata o determinalo casualmente.",
 				{
 					"type": "table",
 					"caption": "Feywild Gifts",
@@ -4285,27 +4285,27 @@
 					"rows": [
 						[
 							"1",
-							"Illusory butterflies flutter around you while you take a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}."
+							"Farfalle illusorie svolazzano intorno a te mentre prendi un {@variantrule Short Rest|XPHB|Short} o {@variantrule Long Rest|XPHB}."
 						],
 						[
 							"2",
-							"Flowers bloom from your hair each dawn."
+							"I fiori sbocciano dai tuoi capelli ogni alba."
 						],
 						[
 							"3",
-							"You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice."
+							"Senti un leggero odore di cannella, lavanda, noce moscata o un'altra erba o spezia confortante."
 						],
 						[
 							"4",
-							"Your shadow dances while no one is looking directly at it."
+							"La tua ombra danza mentre nessuno la guarda direttamente."
 						],
 						[
 							"5",
-							"Horns or antlers sprout from your head."
+							"Dalla tua testa spuntano corna o palchi."
 						],
 						[
 							"6",
-							"Your skin and hair change color each dawn."
+							"La tua pelle e i tuoi capelli cambiano colore ogni alba."
 						]
 					]
 				}
@@ -4322,8 +4322,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).",
-				"You also gain proficiency in one of these skills of your choice: {@skill Deception|XPHB}, {@skill Performance|XPHB}, or {@skill Persuasion|XPHB}."
+				"Ogni volta che effettui una prova di Carisma, ottieni un bonus alla prova pari al tuo modificatore di Saggezza (minimo +1).",
+				"Ottieni anche competenza in una di queste abilità a tua scelta: {@skill Deception|XPHB}, {@skill Performance|XPHB} o {@skill Persuasion|XPHB}."
 			]
 		},
 		{
@@ -4337,8 +4337,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"The magic of the Feywild guards your mind. You have {@variantrule Advantage|XPHB} on saving throws to avoid or end the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} condition.",
-				"In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the {@condition Charmed|XPHB} or {@condition Frightened|XPHB} condition, you can take a {@variantrule Reaction|XPHB} to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is {@condition Charmed|XPHB} or {@condition Frightened|XPHB} (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success."
+				"La magia della Selva dei Folletti protegge la tua mente. Hai {@variantrule Advantage|XPHB} tiri salvezza per evitare o terminare la condizione {@condition Charmed|XPHB} o {@condition Frightened|XPHB}.",
+				"Inoltre, ogni volta che tu o una creatura che puoi vedere entro 120 piedi da te riuscite in un tiro salvezza per evitare o porre fine alla condizione {@condition Charmed|XPHB} o {@condition Frightened|XPHB}, puoi prendere un {@variantrule Reaction|XPHB} per costringere un'altra creatura che puoi vedere entro 120 piedi da te a effettuare un tiro salvezza su Saggezza contro la tua CD del tiro salvezza dell'incantesimo. In caso di salvataggio fallito, il bersaglio è {@condition Charmed|XPHB} o {@condition Frightened|XPHB} (a tua scelta) per 1 minuto. Il bersaglio ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 			]
 		},
 		{
@@ -4352,8 +4352,8 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"You can cast {@spell Summon Fey|XPHB} without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a {@variantrule Long Rest|XPHB}.",
-				"Whenever you start casting the spell, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting."
+				"Puoi lanciare {@spell Summon Fey|XPHB} senza un componente Materiale. Puoi anche lanciarlo una volta senza uno slot incantesimo e riacquisti la capacità di lanciarlo in questo modo quando finisci un {@variantrule Long Rest|XPHB}.",
+				"Ogni volta che inizi a lanciare l'incantesimo, puoi modificarlo in modo che non richieda {@status Concentration|XPHB}. Se lo fai, la durata dell'incantesimo diventa 1 minuto per quel lancio."
 			]
 		},
 		{
@@ -4367,8 +4367,8 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"You can cast {@spell Misty Step|XPHB} without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}.",
-				"In addition, whenever you cast {@spell Misty Step|XPHB}, you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space."
+				"Puoi lanciare {@spell Misty Step|XPHB} senza spendere uno slot incantesimo. Puoi farlo un numero di volte pari al tuo modificatore di Saggezza (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}.",
+				"Inoltre, ogni volta che lanci {@spell Misty Step|XPHB}, puoi portare con te una creatura consenziente che puoi vedere entro 1,5 metri da te. Quella creatura si teletrasporta in uno spazio non occupato di tua scelta entro 1,5 metri dal tuo spazio di destinazione."
 			]
 		},
 		{
@@ -4381,26 +4381,26 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You have mastered the art of creating fearsome ambushes, granting you the following benefits.",
+				"Hai imparato l'arte di creare spaventose imboscate, ottenendo i seguenti benefici.",
 				{
 					"type": "entries",
 					"name": "Ambusher's Leap",
 					"entries": [
-						"At the start of your first turn of each combat, your {@variantrule Speed|XPHB} increases by 10 feet until the end of that turn."
+						"All'inizio del tuo primo turno di ogni combattimento, il tuo {@variantrule Speed|XPHB} aumenta di 10 piedi fino alla fine di quel turno."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Dreadful Strike",
 					"entries": [
-						"When you attack a creature and hit it with a weapon, you can deal an extra {@damage 2d6} Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+						"Quando attacchi una creatura e la colpisci con un'arma, puoi infliggere un danno psichico extra {@damage 2d6}. Puoi utilizzare questo beneficio solo una volta per turno, puoi utilizzarlo un numero di volte pari al tuo modificatore di Saggezza (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Initiative Bonus",
 					"entries": [
-						"When you roll {@variantrule Initiative|XPHB}, you can add your Wisdom modifier to the roll."
+						"Quando tiri {@variantrule Initiative|XPHB}, puoi aggiungere il tuo modificatore di Saggezza al tiro."
 					]
 				}
 			]
@@ -4416,7 +4416,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Draw on Shadow Magic to Fight Your Foes}",
-				"Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.",
+				"I Gloom Stalker sono di casa nei luoghi più oscuri e brandiscono la magia estratta dalla Coltre Oscura per combattere i nemici che si nascondono nell'oscurità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Dread Ambusher|Ranger|XPHB|Gloom Stalker|XPHB|3"
@@ -4441,7 +4441,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you reach a Ranger level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello da Ranger specificato nella tabella degli incantesimi del Gloom Stalker, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Gloom Stalker Spells",
@@ -4488,8 +4488,8 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain {@sense Darkvision|XPHB} with a range of 60 feet. If you already have {@sense Darkvision|XPHB} when you gain this feature, its range increases by 60 feet.",
-				"You are also adept at evading creatures that rely on {@sense Darkvision|XPHB}. While entirely in {@variantrule Darkness|XPHB}, you have the {@condition Invisible|XPHB} condition to any creature that relies on {@sense Darkvision|XPHB} to see you in that {@variantrule Darkness|XPHB}."
+				"Guadagni {@sense Darkvision|XPHB} con un raggio di 60 piedi. Se hai già {@sense Darkvision|XPHB} quando ottieni questa funzione, la sua portata aumenta di 60 piedi.",
+				"Sei anche abile nello schivare le creature che fanno affidamento su {@sense Darkvision|XPHB}. Mentre sei completamente in {@variantrule Darkness|XPHB}, hai la condizione {@condition Invisible|XPHB} per qualsiasi creatura che fa affidamento su {@sense Darkvision|XPHB} per vederti in quello {@variantrule Darkness|XPHB}."
 			]
 		},
 		{
@@ -4503,7 +4503,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You have honed your ability to resist mind-altering powers. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice)."
+				"Hai affinato la tua capacità di resistere ai poteri che alterano la mente. Ottieni competenza nei tiri salvezza su Saggezza. Se possiedi già questa competenza, ottieni invece competenza nei tiri salvezza su Intelligenza o Carisma (a tua scelta)."
 			]
 		},
 		{
@@ -4517,19 +4517,19 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"The Psychic damage of your Dreadful Strike becomes {@damage 2d8}. In addition, when you use the Dreadful Strike effect of your Dread Ambusher feature, you can cause one of the following additional effects.",
+				"Il danno psichico del tuo Dreadful Strike diventa {@damage 2d8}. Inoltre, quando usi l'effetto Dreadful Strike del tuo privilegio Dread Ambusher, puoi causare uno dei seguenti effetti aggiuntivi.",
 				{
 					"type": "entries",
 					"name": "Sudden Strike",
 					"entries": [
-						"You can make another attack with the same weapon against a different creature that is within 5 feet of the original target and that is within the weapon's range."
+						"È possibile effettuare un altro attacco con la stessa arma contro una creatura diversa che si trovi entro 1,5 metri dal bersaglio originale e che sia entro la gittata dell'arma."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Mass Fear",
 					"entries": [
-						"The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the {@condition Frightened|XPHB} condition until the start of your next turn."
+						"Il bersaglio e ogni creatura entro 3 metri da esso devono effettuare un tiro salvezza su Saggezza contro la CD del tiro salvezza dell'incantesimo. Se il tiro salvezza fallisce, una creatura ha la condizione {@condition Frightened|XPHB} fino all'inizio del tuo turno successivo."
 					]
 				}
 			]
@@ -4545,7 +4545,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When a creature makes an attack roll against you, you can take a {@variantrule Reaction|XPHB} to impose {@variantrule Disadvantage|XPHB} on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see."
+				"Quando una creatura effettua un tiro per colpire contro di te, puoi prendere un {@variantrule Reaction|XPHB} per imporre {@variantrule Disadvantage|XPHB} su quel tiro. Sia che l'attacco vada a segno o manchi, puoi teletrasportarti fino a 9 metri in uno spazio non occupato che puoi vedere."
 			]
 		},
 		{
@@ -4561,7 +4561,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Protect Nature and People from Destruction}",
-				"You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.",
+				"Insegui le prede nelle terre selvagge e altrove, usando le tue abilità di cacciatore per proteggere la natura e le persone ovunque da forze che le distruggerebbero.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Hunter's Prey|Ranger|XPHB|Hunter|XPHB|3"
@@ -4584,7 +4584,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your Hunter's Mark, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are."
+				"Puoi invocare le forze della natura per rivelare alcuni punti di forza e di debolezza della tua preda. Mentre una creatura è contrassegnata dal tuo Marchio del cacciatore, sai se quella creatura ha immunità, resistenze o vulnerabilità e, se la creatura ne ha, sai cosa sono."
 			]
 		},
 		{
@@ -4599,7 +4599,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain one of the following feature options of your choice. Whenever you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, you can replace the chosen option with the other one.",
+				"Ottieni una delle seguenti opzioni di funzionalità a tua scelta. Ogni volta che finisci un {@variantrule Short Rest|XPHB|Short} o {@variantrule Long Rest|XPHB}, puoi sostituire l'opzione scelta con l'altra.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4607,14 +4607,14 @@
 							"type": "entries",
 							"name": "Colossus Slayer",
 							"entries": [
-								"Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra {@damage 1d8} damage to the target if it's missing any of its {@variantrule Hit Points|XPHB}. You can deal this extra damage only once per turn."
+								"La tua tenacia può logorare anche i nemici più resistenti. Quando colpisci una creatura con un'arma, l'arma infligge un danno extra {@damage 1d8} al bersaglio se gli manca uno dei suoi {@variantrule Hit Points|XPHB}. Puoi infliggere questo danno extra solo una volta per turno."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Horde Breaker",
 							"entries": [
-								"Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn."
+								"Una volta in ciascuno dei tuoi turni in cui effettui un attacco con un'arma, puoi effettuare un altro attacco con la stessa arma contro una creatura diversa che si trova entro 1,5 metri dal bersaglio originale, che si trova entro la portata dell'arma e che non hai attaccato in questo turno."
 							]
 						}
 					]
@@ -4634,7 +4634,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You gain one of the following feature options of your choice. Whenever you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, you can replace the chosen option with the other one.",
+				"Ottieni una delle seguenti opzioni di funzionalità a tua scelta. Ogni volta che finisci un {@variantrule Short Rest|XPHB|Short} o {@variantrule Long Rest|XPHB}, puoi sostituire l'opzione scelta con l'altra.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4642,14 +4642,14 @@
 							"type": "entries",
 							"name": "Escape the Horde",
 							"entries": [
-								"{@action Opportunity Attack|XPHB|Opportunity Attacks} have {@variantrule Disadvantage|XPHB} against you."
+								"{@action Opportunity Attack|XPHB|Opportunity Attacks} hanno {@variantrule Disadvantage|XPHB} contro di te."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Multiattack Defense",
 							"entries": [
-								"When a creature hits you with an attack roll, that creature has {@variantrule Disadvantage|XPHB} on all other attack rolls against you this turn."
+								"Quando una creatura ti colpisce con un tiro per colpire, quella creatura ha {@variantrule Disadvantage|XPHB} su tutti gli altri tiri per colpire contro di te in questo turno."
 							]
 						}
 					]
@@ -4669,7 +4669,7 @@
 			"level": 11,
 			"header": 2,
 			"entries": [
-				"Once per turn when you deal damage to a creature marked by your Hunter's Mark, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature."
+				"Una volta per turno, quando infliggi danno a una creatura contrassegnata dal tuo Marchio del cacciatore, puoi anche infliggere il danno extra di quell'incantesimo a una creatura diversa che puoi vedere entro 9 metri dalla prima creatura."
 			]
 		},
 		{
@@ -4685,7 +4685,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you take damage, you can take a {@variantrule Reaction|XPHB} to give yourself {@variantrule Resistance|XPHB} to that damage and any other damage of the same type until the end of the current turn."
+				"Quando subisci danni, puoi prendere un {@variantrule Reaction|XPHB} per concederti {@variantrule Resistance|XPHB} a quel danno e a qualsiasi altro danno dello stesso tipo fino alla fine del turno corrente."
 			]
 		}
 	]

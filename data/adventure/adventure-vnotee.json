@@ -5,8 +5,8 @@
 			"name": "Vecna: Nest of the Eldritch Eye",
 			"id": "000",
 			"entries": [
-				"{@i Vecna: Nest of the Eldritch Eye} is a fifth edition Dungeons & Dragons adventure for four to six characters of level 3. This adventure takes place in the city of Neverwinter on the Sword Coast. A sinister cult has crept into the city's bowels, and the characters must infiltrate the cult's hideout and root out its members before harm befalls the city.",
-				"The information presented here is for the DM's eyes only. If you're planning to play through the adventure with someone else as your DM, stop reading now!",
+				"{@i Vecna: Nest of the Eldritch Eye} è un'avventura di Dungeons & Dragons della quinta edizione per da quattro a sei personaggi di livello 3. Questa avventura è ambientata nella città di Neverwinter sulla Costa della Spada. Un culto sinistro si è insinuato nelle viscere della città e i personaggi devono infiltrarsi nel nascondiglio del culto e sradicarne i membri prima che il danno si abbatta sulla città.",
+				"Le informazioni presentate qui sono solo per gli occhi del DM. Se hai intenzione di affrontare l'avventura con qualcun altro come DM, smetti di leggere adesso!",
 				{
 					"type": "image",
 					"href": {
@@ -22,16 +22,16 @@
 					"name": "Running the Adventure",
 					"id": "001",
 					"entries": [
-						"This adventure is designed to be playable in two or three hours. The characters are contracted by Lord Protector Dagult Neverember of Neverwinter to patrol the city. When a dead man is found clutching a withered eyeball, the characters are tasked with uncovering the cause of the man's death. This leads the characters to investigate the city's old catacombs and confront cultists of the lich-god Vecna.",
+						"Questa avventura è progettata per essere giocabile in due o tre ore. I personaggi vengono incaricati dal Lord Protettore Dagult Neverember di Neverwinter di pattugliare la città. Quando un uomo morto viene trovato con in mano un bulbo oculare avvizzito, i personaggi hanno il compito di scoprire la causa della morte dell'uomo. Ciò porta i personaggi a indagare sulle antiche catacombe della città e ad affrontare i cultisti del dio lich Vecna.",
 						{
 							"type": "insetReadaloud",
 							"id": "002",
 							"entries": [
-								"Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as described in the text."
+								"Il testo che appare in un riquadro come questo deve essere letto ad alta voce o parafrasato per i giocatori quando i loro personaggi arrivano per la prima volta in un luogo o in una circostanza specifica, come descritto nel testo."
 							]
 						},
-						"When a creature's name appears in {@b bold} type, that's a visual clue pointing you to its stat block as a way of saying, \"Hey, DM, get this creature's stat block ready. You're going to need it.\" All monster stat blocks referenced in this adventure can be found in the {@book Monster Manual|MM}.",
-						"You can make the adventure easier or harder, or adjust it for smaller or larger groups of player characters, by adjusting the number of monsters or by adding or removing encounters."
+						"Quando il nome di una creatura appare nel tipo {@b bold}, è un indizio visivo che ti indirizza al suo blocco delle statistiche come un modo per dire: \"Ehi, DM, prepara il blocco delle statistiche di questa creatura. Ne avrai bisogno\". Tutti i blocchi delle statistiche dei mostri a cui si fa riferimento in questa avventura possono essere trovati in {@book Monster Manual|MM}.",
+						"Puoi rendere l'avventura più facile o più difficile, o adattarla a gruppi più piccoli o più grandi di personaggi giocanti, modificando il numero di mostri o aggiungendo o rimuovendo incontri."
 					]
 				},
 				{
@@ -39,16 +39,16 @@
 					"name": "Beginning the Adventure",
 					"id": "003",
 					"entries": [
-						"Begin the adventure by reading aloud the following:",
+						"Inizia l'avventura leggendo ad alta voce quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "004",
 							"entries": [
-								"The city of Neverwinter stands proudly on the Sword Coast, west and north of Dessarin Valley. Fifty years ago, the city was nearly destroyed by the eruption of Mount Hotenow. Today, the city stands mostly rebuilt. It bustles with skilled tradespeople, intrepid adventurers, and hardy townsfolk.",
-								"Leadership in Neverwinter falls to Dagult Neverember, lord protector of the city\u2014and your employer. The city lacks a formal militia, so Lord Neverember often hires mercenaries and adventurers such as yourselves to keep the city secure."
+								"La città di Neverwinter si erge orgogliosamente sulla Costa della Spada, a ovest e a nord della Valle di Dessarin. Cinquant'anni fa, la città fu quasi distrutta dall'eruzione del Monte Hotenow. Oggi la città è in gran parte ricostruita. È pieno di abili commercianti, intrepidi avventurieri e coraggiosi cittadini.",
+								"La leadership a Neverwinter spetta a Dagult Neverember, lord protettore della città e tuo datore di lavoro. La città è priva di una milizia formale, quindi Lord Neverember spesso assume mercenari e avventurieri come voi per mantenere la città sicura."
 							]
 						},
-						"Regardless of whether the characters know each other prior to their arrival in Neverwinter, they are assigned to patrol the city together. The first few days of the patrol are uneventful (unless you decide otherwise), allowing the characters to familiarize themselves with the city."
+						"Indipendentemente dal fatto che i personaggi si conoscano prima del loro arrivo a Neverwinter, vengono assegnati a pattugliare insieme la città. I primi giorni di pattuglia sono tranquilli (a meno che tu non decida diversamente), consentendo ai personaggi di familiarizzare con la città."
 					]
 				},
 				{
@@ -56,17 +56,17 @@
 					"name": "Dead Man's Message",
 					"id": "005",
 					"entries": [
-						"After the characters' first few days patrolling the city, tragedy strikes. Read or paraphrase the following:",
+						"Dopo i primi giorni trascorsi dai personaggi a pattugliare la città, arriva la tragedia. Leggi o parafrasa quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "006",
 							"entries": [
-								"An anguished scream erupts from a nearby alley. The sound comes from a slender human woman clad in the light leather armor of a scout or investigator. Clutched in her arms is the dead body of a human man clad in a tattered gray robe. The man and woman bear a striking resemblance to each other.",
-								"With a dull thump, a desiccated eyeball rolls out of the dead man's palm."
+								"Un urlo angosciato erompe da un vicolo vicino. Il suono proviene da una donna umana snella vestita con la leggera armatura di cuoio di uno scout o di un investigatore. Tra le sue braccia c'è il cadavere di un uomo vestito con una veste grigia lacera. L'uomo e la donna hanno una sorprendente somiglianza tra loro.",
+								"Con un tonfo sordo, un bulbo oculare essiccato rotola fuori dal palmo del morto."
 							]
 						},
-						"The dead man is Delvin Fearnehart, an investigator in Lord Neverember's employ; the woman holding his body is Kevori Fearnehart, Delvin's sister. A character who succeeds on a {@dc 8} Intelligence ({@skill History}) check recognizes both Delvin and Kevori as mercenaries employed by Lord Neverember to patrol the city.",
-						"If the characters question Kevori (neutral good, human {@creature scout}), she shares the following information:",
+						"L'uomo morto è Delvin Fearnehart, un investigatore al servizio di Lord Neverember; la donna che tiene il suo corpo è Kevori Fearnehart, la sorella di Delvin. Un personaggio che supera una prova di Intelligenza {@dc 8} ({@skill History}) riconosce sia Delvin che Kevori come mercenari impiegati da Lord Neverember per pattugliare la città.",
+						"Se i personaggi interrogano Kevori (neutrale buono, umano {@creature scout}), lei condivide le seguenti informazioni:",
 						{
 							"type": "entries",
 							"id": "007",
@@ -80,7 +80,7 @@
 											"name": "Investigators for Hire",
 											"id": "009",
 											"entries": [
-												"Kevori and her brother were tasked by Lord Neverember to investigate suspicious cult activity in the city."
+												"Kevori e suo fratello furono incaricati da Lord Neverember di indagare sull'attività settaria sospetta in città."
 											]
 										},
 										{
@@ -88,7 +88,7 @@
 											"name": "Rendezvous Gone Wrong",
 											"id": "00a",
 											"entries": [
-												"Kevori came here to rendezvous with Delvin after he'd infiltrated a potential cult hideout."
+												"Kevori è venuto qui per incontrarsi con Delvin dopo che si era infiltrato in un potenziale nascondiglio di una setta."
 											]
 										},
 										{
@@ -96,8 +96,8 @@
 											"name": "What She Knows",
 											"id": "00b",
 											"entries": [
-												"The only clue Kevori has is the desiccated eyeball that dropped from Delvin's hand.",
-												"Kevori requests the characters' aid in uncovering who or what killed her brother while she returns to the Hall of Justice to inform Lord Neverember of these developments. She implores the characters to avenge her brother's death, but she also reminds the characters that Lord Neverember values information and will pay more for capturing cultists alive."
+												"L'unico indizio che Kevori ha è il bulbo oculare essiccato caduto dalla mano di Delvin.",
+												"Kevori richiede l'aiuto dei personaggi per scoprire chi o cosa ha ucciso suo fratello mentre torna nella Sala della Giustizia per informare Lord Neverember di questi sviluppi. Implora i personaggi di vendicare la morte di suo fratello, ma ricorda anche ai personaggi che Lord Neverember apprezza le informazioni e pagherà di più per catturare vivi i cultisti."
 											]
 										}
 									]
@@ -109,9 +109,9 @@
 							"name": "Investigating the Eyeball",
 							"id": "00c",
 							"entries": [
-								"The eyeball serves as both a map and a key to the cult's hideout. When a creature holding the eyeball speaks the key phrase, \"Hail the Undying,\" the eyeball glows with green light before spinning to look in the direction of the cult's hideout (acting like a compass).",
-								"A {@spell Detect Magic} spell or similar effect reveals an aura of divination magic around the eyeball. Casting {@spell Identify} while targeting the eyeball reveals its function and its key phrase. Alternatively, a character can rifle through Delvin's pockets and find a slip of parchment with the key phrase scribbled on it.",
-								"Following the activated eyeball's directions leads the characters to a catacomb entrance in one of the still-ruined sections of Neverwinter (see \"Into Neverwinter's Catacombs\")."
+								"Il bulbo oculare funge sia da mappa che da chiave per il nascondiglio del culto. Quando una creatura che tiene il bulbo oculare pronuncia la frase chiave \"Hail the Undying\", il bulbo oculare si illumina di luce verde prima di ruotare per guardare nella direzione del nascondiglio del culto (agendo come una bussola).",
+								"Un incantesimo {@spell Detect Magic} o un effetto simile rivela un'aura di magia divinatoria attorno al bulbo oculare. Lanciare {@spell Identify} mentre si mira al bulbo oculare rivela la sua funzione e la sua frase chiave. In alternativa, un personaggio può frugare nelle tasche di Delvin e trovare un pezzo di pergamena con la frase chiave scarabocchiata sopra.",
+								"Seguire le indicazioni del bulbo oculare attivato conduce i personaggi all'ingresso di una catacomba in una delle sezioni ancora in rovina di Neverwinter (vedi \"Nelle catacombe di Neverwinter\")."
 							]
 						}
 					]
@@ -121,22 +121,22 @@
 					"name": "Into Neverwinter's Catacombs",
 					"id": "00d",
 					"entries": [
-						"Several months ago, cultists dedicated to Vecna commandeered sections of Neverwinter's catacombs for their nefarious purposes. The sect the characters are pursuing is in the western ruins of the city.",
-						"Unless you decide otherwise, the characters encounter no difficulties following the eyeball's directions to a dilapidated entrance into the city's western catacombs. Read or paraphrase the following:",
+						"Diversi mesi fa, i cultisti devoti a Vecna ​​hanno requisito sezioni delle catacombe di Neverwinter per i loro scopi nefasti. La setta che i personaggi stanno inseguendo si trova nelle rovine occidentali della città.",
+						"A meno che tu non decida diversamente, i personaggi non incontrano difficoltà nel seguire le indicazioni del bulbo oculare verso un ingresso fatiscente nelle catacombe occidentali della città. Leggi o parafrasa quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "00e",
 							"entries": [
-								"The withered eyeball aims its empty gaze down an alley strewn with rubble. Rats scurry between chunks of old stone and dusty crates. At the back of the alley is a set of moldering wood boards, propped up just enough to block a dark tunnel leading below the surface."
+								"Il bulbo oculare avvizzito punta lo sguardo vuoto lungo un vicolo cosparso di macerie. I ratti corrono tra pezzi di vecchia pietra e casse polverose. In fondo al vicolo c'è una serie di assi di legno ammuffito, appoggiate quanto basta per bloccare un tunnel buio che conduce sotto la superficie."
 							]
 						},
-						"The boards blocking the entrance to the catacombs can be moved easily, revealing a sloping tunnel ({@area area N1|011|x}).",
+						"Le assi che bloccano l'ingresso alle catacombe possono essere spostate facilmente, rivelando un tunnel in pendenza ({@area area N1|011|x}).",
 						{
 							"type": "entries",
 							"name": "Area Features",
 							"id": "00f",
 							"entries": [
-								"This adventure explores only a small section of Neverwinter's sprawling catacombs. Unless otherwise stated, areas of the catacombs shown in this adventure have the following features:",
+								"Questa avventura esplora solo una piccola sezione delle vaste catacombe di Neverwinter. Se non diversamente indicato, le aree delle catacombe mostrate in questa avventura hanno le seguenti caratteristiche:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,22 +144,22 @@
 										{
 											"type": "item",
 											"name": "Ceilings",
-											"entry": "The ceilings throughout the catacombs are 10 feet high and made of roughly hewn stone."
+											"entry": "I soffitti di tutte le catacombe sono alti 3 metri e sono fatti di pietra grezza."
 										},
 										{
 											"type": "item",
 											"name": "Eyeball Compass",
-											"entry": "The activated eyeball continuously points in the direction of the cult hideout's entrance ({@area area N11|02d|x}). The eyeball is also needed to unlock the door in area N11."
+											"entry": "Il bulbo oculare attivato punta continuamente nella direzione dell'ingresso del nascondiglio del culto ({@area area N11|02d|x}). Il bulbo oculare è necessario anche per sbloccare la porta nell'area N11."
 										},
 										{
 											"type": "item",
 											"name": "Light",
-											"entry": "Rusted wall sconces hold lit torches. The area is dimly lit."
+											"entry": "I candelabri arrugginiti reggono torce accese. La zona è poco illuminata."
 										},
 										{
 											"type": "item",
 											"name": "Walls and Floors",
-											"entry": "Walls are constructed of stone blocks and are slick with moisture, making climbing impossible without magic or gear. Floors are made from a mix of stone slabs and packed earth."
+											"entry": "Le pareti sono costruite con blocchi di pietra e sono scivolose per l'umidità, rendendo impossibile arrampicarsi senza magia o attrezzatura. I pavimenti sono costituiti da un mix di lastre di pietra e terra battuta."
 										}
 									]
 								}
@@ -170,7 +170,7 @@
 							"name": "Area Locations",
 							"id": "010",
 							"entries": [
-								"The following locations are keyed to the Nest of the Eldritch Eye map.",
+								"Le seguenti posizioni sono collegate alla mappa Nest of the Eldritch Eye.",
 								{
 									"type": "gallery",
 									"images": [
@@ -2134,7 +2134,7 @@
 									"name": "N1: Entrance Tunnel",
 									"id": "011",
 									"entries": [
-										"The tunnel proceeds at a downward slope, bringing the characters 20 feet beneath street level."
+										"Il tunnel procede con una pendenza verso il basso, portando i personaggi 20 piedi sotto il livello stradale."
 									]
 								},
 								{
@@ -2146,17 +2146,17 @@
 											"type": "insetReadaloud",
 											"id": "013",
 											"entries": [
-												"The soft lapping of water echoes through this wide chamber. Wood and stone debris from collapsed buildings litter the area. Brackish water floods nearly half of the chamber, getting deeper toward a dark tunnel to the west."
+												"Il dolce sciabordio dell'acqua risuona in questa ampia camera. Resti di legno e pietra provenienti da edifici crollati ricoprono l'area. L'acqua salmastra inonda quasi metà della camera, diventando più profonda verso un tunnel buio a ovest."
 											]
 										},
-										"Characters who have a passive Wisdom ({@skill Perception}) score of 12 or higher notice the entrance to a cramped tunnel hidden behind some collapsed rubble to the south. A character who spends 1 minute clearing the rubble opens the entrance to a crawlspace ({@area area N7|024|x}).",
+										"I personaggi che hanno un punteggio passivo di Saggezza ({@skill Perception}) pari a 12 o superiore notano l'ingresso di un tunnel angusto nascosto dietro alcune macerie crollate a sud. Un personaggio che impiega 1 minuto a ripulire le macerie apre l'ingresso a un vespaio ({@area area N7|024|x}).",
 										{
 											"type": "entries",
 											"name": "Making a Skiff",
 											"id": "014",
 											"entries": [
-												"Characters have the option of assembling a makeshift skiff from the debris here to make traversing the flooded area easier. A character attempting to assemble a skiff must make a {@dc 11} Wisdom ({@skill Survival}) check. On a successful check, the character makes a skiff sturdy enough to support up to two Medium or smaller creatures.",
-												"While riding a skiff, a creature can use its movement to propel the skiff up to 20 feet in a direction of its choice."
+												"I personaggi hanno la possibilità di assemblare una barca improvvisata utilizzando i detriti qui per rendere più facile l'attraversamento dell'area allagata. Un personaggio che tenta di assemblare una barca deve effettuare una prova di {@dc 11} Saggezza ({@skill Survival}). Se la prova riesce, il personaggio realizza una barca abbastanza robusta da sostenere fino a due creature di taglia Media o inferiore.",
+												"Mentre è a bordo di una barca, una creatura può usare il suo movimento per spingere la barca fino a 6 metri in una direzione a sua scelta."
 											]
 										}
 									]
@@ -2166,14 +2166,14 @@
 									"name": "N3: Flooded Tunnel",
 									"id": "015",
 									"entries": [
-										"The water filling this tunnel is 3 feet deep; without the use of a skiff or other water vehicle, the water counts as {@book difficult terrain|PHB|8|Difficult Terrain} for Medium or larger creatures that lack a swimming speed, while Small and smaller creatures must swim to traverse the tunnel.",
+										"L'acqua che riempie questo tunnel è profonda 3 piedi; senza l'uso di una barca o di un altro veicolo acquatico, l'acqua conta come {@book difficult terrain|PHB|8|Difficult Terrain} per le creature di taglia Media o più grande che non hanno velocità di nuoto, mentre le creature Piccole e più piccole devono nuotare per attraversare il tunnel.",
 										{
 											"type": "entries",
 											"name": "Water Weird",
 											"id": "016",
 											"entries": [
-												"A neutral evil {@creature water weird} lurks here. It tries to ambush and kill any creature that enters the tunnel.",
-												"Upon entering the tunnel for the first time, a character who has a passive Wisdom ({@skill Perception}) score of 15 or higher notices odd waves and currents that suggest the presence of a creature in the water. If a character's passive Wisdom ({@skill Perception}) score is lower than 15, the character has disadvantage on their initiative roll when the water weird attacks."
+												"Qui si annida un male neutrale {@creature water weird}. Cerca di tendere un'imboscata e uccidere qualsiasi creatura che entra nel tunnel.",
+												"Entrando nel tunnel per la prima volta, un personaggio che ha un punteggio passivo di Saggezza ({@skill Perception}) pari a 15 o superiore nota strane onde e correnti che suggeriscono la presenza di una creatura nell'acqua. Se il punteggio passivo di Saggezza ({@skill Perception}) di un personaggio è inferiore a 15, il personaggio ha uno svantaggio nel tiro di iniziativa quando lo strano dell'acqua attacca."
 											]
 										}
 									]
@@ -2187,17 +2187,17 @@
 											"type": "insetReadaloud",
 											"id": "018",
 											"entries": [
-												"Glossy urns and cinerary boxes line the walls of this vaulted rotunda. Drifting in the center of the room above a drain is a ghostly, transparent, humanoid figure. The figure is clad in plate armor, and where a head should be, there is instead a featureless, luminescent orb."
+												"Urne lucide e scatole cinerarie rivestono le pareti di questa rotonda a volta. Alla deriva al centro della stanza sopra uno scarico c'è una figura umanoide spettrale, trasparente. La figura è rivestita di un'armatura a piastre e, dove dovrebbe esserci una testa, c'è invece una sfera luminescente senza caratteristiche."
 											]
 										},
-										"The neutral {@creature ghost} haunting this area has no memory of its name or existence in life\u2014a fact which pains it greatly. Upon noticing the characters enter, the ghost beseeches them for help in recovering its previous identity. If the characters refuse, the ghost sulks but isn't hostile.",
+										"Il neutrale {@creature ghost} che infesta quest'area non ha memoria del suo nome o della sua esistenza in vita, un fatto che lo addolora molto. Dopo aver notato l'ingresso dei personaggi, il fantasma li implora di aiutarli a recuperare la sua precedente identità. Se i personaggi rifiutano, il fantasma si imbroncia ma non è ostile.",
 										{
 											"type": "entries",
 											"name": "Discovering the Ghost's Identity",
 											"id": "019",
 											"entries": [
-												"The ghost is the spirit of the knight entombed in {@area area N6|01f|x}. Clues regarding the ghost's identity can be found in areas N5 and N6. A character who searches the rotunda for 10 minutes finds no clues related to the ghost in this room.",
-												"To regain its identity, the ghost must hear its full name: Chanelle Hallwinter. If a character speaks this name aloud within 20 feet of the ghost, the featureless orb of the ghost's head coalesces into the face of a middle-aged human woman with braided hair, and the ghost's memories return. The ghost is grateful to the characters and resolves to aid them."
+												"Il fantasma è lo spirito del cavaliere sepolto in {@area area N6|01f|x}. Indizi sull'identità del fantasma si possono trovare nelle aree N5 e N6. Un personaggio che perlustra la rotonda per 10 minuti non trova indizi relativi al fantasma in questa stanza.",
+												"Per riconquistare la sua identità, il fantasma deve sentire il suo nome completo: Chanelle Hallwinter. Se un personaggio pronuncia questo nome ad alta voce entro 6 metri dal fantasma, la sfera informe della testa del fantasma si fonde nel volto di una donna umana di mezza età con i capelli intrecciati, e i ricordi del fantasma ritornano. Il fantasma è grato ai personaggi e decide di aiutarli."
 											]
 										},
 										{
@@ -2205,7 +2205,7 @@
 											"name": "What the Ghost Knows",
 											"id": "01a",
 											"entries": [
-												"At first, the ghost remembers nothing about Delvin, the cult, or the catacombs. Once the ghost's identity has been restored, it remembers not only its life as Chanelle Hallwinter but also what it has witnessed while haunting these catacombs. The ghost can share the following information with the characters:",
+												"All'inizio, il fantasma non ricorda nulla di Delvin, del culto o delle catacombe. Una volta che l'identità del fantasma è stata ripristinata, ricorda non solo la sua vita come Chanelle Hallwinter, ma anche ciò a cui ha assistito mentre infestava queste catacombe. Il fantasma può condividere le seguenti informazioni con i personaggi:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -2213,17 +2213,17 @@
 														{
 															"type": "item",
 															"name": "Catacomb Invaders",
-															"entry": "A small group of Humanoids descended into the catacombs several months ago, whispering about strange rituals and secrets."
+															"entry": "Un piccolo gruppo di umanoidi è sceso nelle catacombe diversi mesi fa, sussurrando strani rituali e segreti."
 														},
 														{
 															"type": "item",
 															"name": "Delvin",
-															"entry": "Chanelle saw a man matching Delvin's description flee through the rotunda from deeper within the catacombs, pursued by an individual in a hooded gray robe."
+															"entry": "Chanelle vide un uomo che corrispondeva alla descrizione di Delvin fuggire attraverso la rotonda dal profondo delle catacombe, inseguito da un individuo con una veste grigia con cappuccio."
 														},
 														{
 															"type": "item",
 															"name": "Zombie Infestation",
-															"entry": "The crypt to the south of the rotunda was desecrated and now swarms with zombies."
+															"entry": "La cripta a sud della rotonda è stata profanata e ora brulica di zombi."
 														}
 													]
 												}
@@ -2240,16 +2240,16 @@
 											"type": "insetReadaloud",
 											"id": "01c",
 											"entries": [
-												"The smell of old parchment fills this tomb. Bookshelves carrying various tomes and scholarly implements stand against the walls. At the center is a stone, gold-painted sarcophagus, the sides of which bear a beautiful relief carving of two humanoid women exploring a forest together."
+												"L'odore della vecchia pergamena riempie questa tomba. Contro le pareti sono appoggiati scaffali contenenti vari tomi e strumenti accademici. Al centro c'è un sarcofago in pietra dipinto in oro, sui cui lati è inciso un bellissimo rilievo di due donne umanoidi che esplorano insieme una foresta."
 											]
 										},
-										"This is the tomb of Makalia Siannodel, a female elf mage and the partner of the knight entombed in area N6.",
+										"Questa è la tomba di Makalia Siannodel, un'elfa maga e compagna del cavaliere sepolto nell'area N6.",
 										{
 											"type": "entries",
 											"name": "Discovering the Ghost's Identity",
 											"id": "01d",
 											"entries": [
-												"Characters who search this tomb find treasure (see \"Treasure\" below) and the following clues:",
+												"I personaggi che esplorano questa tomba trovano un tesoro (vedi \"Tesoro\" di seguito) e i seguenti indizi:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -2257,12 +2257,12 @@
 														{
 															"type": "item",
 															"name": "Golden Locket",
-															"entry": "A heart-shaped golden locket sits on one of the bookshelves. The locket is locked but can be either pried open with a successful {@dc 11} Strength ({@skill Athletics}) check or picked open with a successful {@dc 10} Dexterity ({@skill Sleight of Hand}) check using thieves' tools. Inside is a small portrait of a human woman, next to which is the inscription, \"My dearest Chanelle.\""
+															"entry": "Su uno degli scaffali della libreria si trova un medaglione dorato a forma di cuore. Il medaglione è chiuso a chiave, ma può essere aperto con una prova riuscita di Forza {@dc 11} ({@skill Athletics}) o scassinato con una prova riuscita di Destrezza {@dc 10} ({@skill Sleight of Hand}) utilizzando gli strumenti da ladro. All'interno c'è un piccolo ritratto di una donna umana, accanto alla quale c'è la scritta \"Mia cara Chanelle\"."
 														},
 														{
 															"type": "item",
 															"name": "Relief Details",
-															"entry": "One of the figures depicted in the sarcophagus's relief carving wears armor that matches the armor of the ghost in area N4."
+															"entry": "Una delle figure raffigurate nel rilievo del sarcofago indossa un'armatura che corrisponde all'armatura del fantasma nell'area N4."
 														}
 													]
 												}
@@ -2273,7 +2273,7 @@
 											"name": "Treasure",
 											"id": "01e",
 											"entries": [
-												"Nestled among the bookshelves are five incense sticks (worth 10 gp each) and a {@item component pouch|PHB}. A character who inspects the area and succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check also finds a hidden compartment in one of the shelved books. Inside is a {@item Spell Scroll} of {@spell Protection from Evil and Good}."
+												"Nascosti tra gli scaffali ci sono cinque bastoncini di incenso (del valore di 10 mo ciascuno) e un {@item component pouch|PHB}. Un personaggio che ispeziona l'area e supera una prova di {@dc 15} Intelligenza ({@skill Investigation}) trova anche uno scomparto nascosto in uno dei libri sugli scaffali. All'interno c'è un {@item Spell Scroll} di {@spell Protection from Evil and Good}."
 											]
 										}
 									]
@@ -2287,16 +2287,16 @@
 											"type": "insetReadaloud",
 											"id": "020",
 											"entries": [
-												"A stone, gold-painted sarcophagus rests in the center of this tomb. The sides of the sarcophagus bear a relief depicting two women gazing lovingly over a field and a city, and the lid has a faintly distinguishable family crest carved into it. Old weapons and decorated armor line the walls of this room."
+												"Al centro di questa tomba si trova un sarcofago di pietra dipinto d'oro. I lati del sarcofago recano un rilievo raffigurante due donne che guardano amorevolmente un campo e una città, e sul coperchio è scolpito uno stemma di famiglia appena distinguibile. Vecchie armi e armature decorate rivestono le pareti di questa stanza."
 											]
 										},
-										"This is the tomb of Chanelle Hallwinter, a female human knight and the partner of the mage entombed in area N5. This is also the tomb of the ghost found in {@area area N4|017|x}.",
+										"Questa è la tomba di Chanelle Hallwinter, una donna cavaliere umana e compagna del mago sepolto nell'area N5. Questa è anche la tomba del fantasma ritrovato a {@area area N4|017|x}.",
 										{
 											"type": "entries",
 											"name": "Discovering the Ghost's Identity",
 											"id": "021",
 											"entries": [
-												"Characters who search this tomb for clues find the following pieces of information:",
+												"I personaggi che cercano indizi in questa tomba trovano le seguenti informazioni:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -2304,12 +2304,12 @@
 														{
 															"type": "item",
 															"name": "Family Crest",
-															"entry": "Engraved on the lid of the sarcophagus is a coat of arms depicting a blunted six-point crown. A character who succeeds on a {@dc 10} Intelligence ({@skill History}) check recognizes this symbol as the crest of the Hallwinter family, whose lineage produced renowned knights throughout the Sword Coast."
+															"entry": "Sul coperchio del sarcofago è inciso uno stemma raffigurante una corona smussata a sei punte. Un personaggio che supera una prova di Intelligenza {@dc 10} ({@skill History}) riconosce questo simbolo come lo stemma della famiglia Hallwinter, il cui lignaggio ha prodotto rinomati cavalieri in tutta la Costa della Spada."
 														},
 														{
 															"type": "item",
 															"name": "Relief Details",
-															"entry": "One of the figures depicted in the sarcophagus's relief carving wears armor that matches the armor of the ghost in area N4."
+															"entry": "Una delle figure raffigurate nel rilievo del sarcofago indossa un'armatura che corrisponde all'armatura del fantasma nell'area N4."
 														}
 													]
 												}
@@ -2320,7 +2320,7 @@
 											"name": "Treasure",
 											"id": "022",
 											"entries": [
-												"Most items stored in this tomb have rusted, but one shield remains intact. This shield is a cursed {@item Shield of Missile Attraction}; however, if the characters restore the ghost's identity, Chanelle Hallwinter gratefully gives the shield to the characters and removes the curse, transforming the shield into a {@item +1 Shield}."
+												"La maggior parte degli oggetti conservati in questa tomba sono arrugginiti, ma uno scudo è rimasto intatto. Questo scudo è maledetto {@item Shield of Missile Attraction}; tuttavia, se i personaggi ripristinano l'identità del fantasma, Chanelle Hallwinter dona con gratitudine lo scudo ai personaggi e rimuove la maledizione, trasformando lo scudo in un {@item +1 Shield}."
 											]
 										},
 										{
@@ -2328,7 +2328,7 @@
 											"name": "Secret Passage",
 											"id": "023",
 											"entries": [
-												"A character who searches the tomb for secret doors and succeeds on a {@dc 14} Wisdom ({@skill Perception}) check sees the faint outline of a doorway at the back of the tomb. The door is unlocked, swings open with a gentle push, and leads to {@area area N8|026|x}."
+												"Un personaggio che cerca porte segrete nella tomba e supera una prova di Saggezza ({@skill Perception} {@dc 14} vede il debole contorno di una porta sul retro della tomba. La porta si sblocca, si apre con una leggera spinta e conduce a {@area area N8|026|x}."
 											]
 										}
 									]
@@ -2338,13 +2338,13 @@
 									"name": "N7: Crawlspace",
 									"id": "024",
 									"entries": [
-										"The cramped passage is large enough to accommodate Small and smaller creatures; Medium creatures must squeeze to move through it.",
+										"Il passaggio angusto è abbastanza grande da ospitare creature Piccole e più piccole; Le creature di taglia Media devono stringersi per attraversarlo.",
 										{
 											"type": "entries",
 											"name": "Disturbed Rubble",
 											"id": "025",
 											"entries": [
-												"When a creature enters the crawlspace for the first time, its movement disturbs some of the rubble above. The creature must succeed on a {@dc 12} Dexterity saving throw to reach the other side of the crawlspace unscathed. On a failed save, the creature takes 7 ({@dice 3d4}) bludgeoning damage from the falling rubble."
+												"Quando una creatura entra nel vespaio per la prima volta, il suo movimento disturba alcune delle macerie sovrastanti. La creatura deve riuscire un tiro salvezza di Destrezza {@dc 12} per raggiungere indenne l'altro lato del vespaio. Se il tiro salvezza fallisce, la creatura subisce 7 ({@dice 3d4}) danni contundenti dalle macerie che cadono."
 											]
 										}
 									]
@@ -2358,10 +2358,10 @@
 											"type": "insetReadaloud",
 											"id": "027",
 											"entries": [
-												"The tunnel splits three ways: north toward a tight crawlspace, west toward a stone door, and south toward a foul-smelling chamber."
+												"Il tunnel si divide in tre direzioni: a nord verso uno stretto vespaio, a ovest verso una porta di pietra e a sud verso una camera maleodorante."
 											]
 										},
-										"At the end of the west tunnel is a secret door to area N6. From this side, the door is clearly visible and pulls open easily."
+										"Alla fine del tunnel ovest c'è una porta segreta per l'area N6. Da questo lato la porta è chiaramente visibile e si apre facilmente."
 									]
 								},
 								{
@@ -2373,11 +2373,11 @@
 											"type": "insetReadaloud",
 											"id": "029",
 											"entries": [
-												"A foul stench rises from the murky sewage that fills most of this large chamber. Three four-foot-tall burbling masses slink through the muck."
+												"Un fetore disgustoso sale dai liquami torbidi che riempiono gran parte di questa grande camera. Tre masse gorgoglianti alte un metro e mezzo scivolano nel fango."
 											]
 										},
-										"The sewage is 1 foot deep and {@book difficult terrain|PHB|8|Difficult Terrain}.",
-										"The three burbling masses are awakened piles of undead sludge, sloughed from the cult's twisted experiments (each uses the {@creature gray ooze} stat block but is an Undead instead of Ooze). The masses ignore the room's difficult terrain and attack if approached."
+										"Le acque reflue sono profonde 1 piede e {@book difficult terrain|PHB|8|Difficult Terrain}.",
+										"Le tre masse gorgoglianti sono mucchi risvegliati di melma di non morti, eliminati dagli esperimenti contorti del culto (ognuno usa il blocco delle statistiche {@creature gray ooze} ma è un non morto invece di melma). Le masse ignorano il terreno difficile della stanza e attaccano se avvicinate."
 									]
 								},
 								{
@@ -2389,25 +2389,25 @@
 											"type": "insetReadaloud",
 											"id": "02b",
 											"entries": [
-												"What was once a serene crypt now lies in ruin. Two chipped stone pillars brace the vaulted ceiling. Tombs are cracked open, and reanimated corpses prowl the room. At the center of the room's back wall is a dirtied and desecrated shrine bearing the image of a blank scroll."
+												"Quella che una volta era una cripta tranquilla ora giace in rovina. Due pilastri in pietra scheggiata sostengono il soffitto a volta. Le tombe vengono aperte e i cadaveri rianimati si aggirano per la stanza. Al centro della parete di fondo della stanza c'è un santuario sporco e profanato che porta l'immagine di un rotolo vuoto."
 											]
 										},
-										"Eight {@creature Zombie||zombies} shamble around this crypt. The zombies are hungry and immediately attack upon seeing a creature unless that creature succeeds on a {@dc 16} Dexterity ({@skill Stealth}) check.",
+										"Otto {@creature Zombie||zombies} si aggirano per questa cripta. Gli zombi sono affamati e attaccano immediatamente non appena vedono una creatura, a meno che quella creatura non superi una prova di Destrezza ({@skill Stealth} {@dc 16}.",
 										{
 											"type": "entries",
 											"name": "Shrine to Oghma",
 											"id": "02c",
 											"entries": [
-												"A character who examines the shrine and succeeds on a {@dc 10} Intelligence ({@skill Religion}) check recognizes the image on the shrine as the holy symbol of Oghma, god of knowledge and patron to bards and wizards. If the check succeeds by 3 or more, the character intuits that rededicating the shrine to Oghma could help against the zombies in the area.",
-												"To rededicate the shrine, a creature must first use an action to clean it. Once the filth is cleaned off, a creature can use an action to do one of the following:",
+												"Un personaggio che esamina il santuario e supera una prova di Intelligenza {@dc 10} ({@skill Religion}) riconosce l'immagine sul santuario come il simbolo sacro di Oghma, dio della conoscenza e patrono di bardi e maghi. Se la prova ha successo di 3 o più, il personaggio intuisce che ridedicare il santuario a Oghma potrebbe aiutare contro gli zombi nell'area.",
+												"Per riconsacrare il santuario, una creatura deve prima usare un'azione per pulirlo. Una volta che la sporcizia è stata ripulita, una creatura può usare un’azione per compiere una delle seguenti azioni:",
 												{
 													"type": "list",
 													"items": [
-														"Make a {@dc 14} Charisma ({@skill Performance}) check using an instrument within 5 feet of the shrine, performing a song dedicated to Oghma.",
-														"Touch the shrine and expend a spell slot of 1st level or higher."
+														"Effettua una prova di {@dc 14} Carisma ({@skill Performance}) utilizzando uno strumento entro 1,5 metri dal santuario, eseguendo una canzone dedicata a Oghma.",
+														"Tocca il santuario e spendi uno slot incantesimo di 1° livello o superiore."
 													]
 												},
-												"Once one of the two options has been done successfully, the shrine glows with white light, and all zombies in the area immediately collapse with the {@condition unconscious} condition for 24 hours. The condition ends early for a zombie if it takes damage."
+												"Una volta che una delle due opzioni è stata eseguita con successo, il santuario si illumina di luce bianca e tutti gli zombi nell'area collassano immediatamente con la condizione {@condition unconscious} per 24 ore. La condizione termina anticipatamente per uno zombi se subisce danni."
 											]
 										}
 									]
@@ -2421,11 +2421,11 @@
 											"type": "insetReadaloud",
 											"id": "02e",
 											"entries": [
-												"A double door made of green-tinged stone seals off further progression into the catacombs. Facing the double door is a large carving of a grinning skull; one eye socket bears a wide eyeball with a jeweled iris, while the other is an empty divot."
+												"Una doppia porta in pietra sfumata di verde sigilla l'ulteriore progressione nelle catacombe. Di fronte alla doppia porta c'è una grande scultura di un teschio ghignante; un'orbita oculare porta un ampio bulbo oculare con un'iride ingioiellata, mentre l'altra è una cavità vuota."
 											]
 										},
-										"The double door is locked and has no keyholes. To open the door from the north side, a desiccated eyeball (such as the one obtained from Delvin) must be placed in the divot of the grinning skull. Once placed there, the eyeball pulses with sickly green light, and the double door swings open to reveal a staircase leading further down. If the eyeball is removed from the divot, the door remains open for 1 minute before closing and locking on its own. A {@spell Knock} spell or similar magic also opens the door.",
-										"Neither magic nor an eyeball is needed to open the double door from the south. On the door's south side is a stone pedal; stepping on it causes the double door to swing open."
+										"La doppia porta è chiusa a chiave e non ha serrature. Per aprire la porta dal lato nord, un bulbo oculare essiccato (come quello ottenuto da Delvin) deve essere posizionato nella cavità del teschio ghignante. Una volta posizionato lì, il bulbo oculare pulsa di una luce verde malaticcia e la doppia porta si apre per rivelare una scala che conduce più in basso. Se il bulbo oculare viene rimosso dal foro, la porta rimane aperta per 1 minuto prima di chiudersi e bloccarsi da sola. Anche un incantesimo {@spell Knock} o una magia simile apre la porta.",
+										"Non è necessaria né la magia né un bulbo oculare per aprire la doppia porta da sud. Sul lato sud della porta c'è un pedale di pietra; calpestandolo si apre la doppia porta."
 									]
 								},
 								{
@@ -2437,11 +2437,11 @@
 											"type": "insetReadaloud",
 											"id": "030",
 											"entries": [
-												"The bottom of the stairway opens into a wide sanctuary with a vaulted ceiling. Stone pews are arranged in orderly rows. Black candles burning green flames occupy niches along the walls. Atop a pulpit at the far end of the hall stands a jagged sculpture of an emaciated hand with one eyeball in its palm."
+												"Il fondo della scala si apre in un ampio santuario con soffitto a volta. I banchi di pietra sono disposti in file ordinate. Candele nere che bruciano fiamme verdi occupano nicchie lungo le pareti. In cima a un pulpito all'estremità della sala si trova una scultura frastagliata di una mano emaciata con un bulbo oculare nel palmo."
 											]
 										},
-										"A character who succeeds on a {@dc 11} Intelligence ({@skill Religion}) check recognizes the sculpture as the symbol of Vecna, a powerful lich and god of secrets known and feared on many worlds.",
-										"Any loud noises here awaken the cultists in area N13, who investigate at once."
+										"Un personaggio che supera una prova di Intelligenza {@dc 11} ({@skill Religion}) riconosce la scultura come il simbolo di Vecna, un potente lich e dio dei segreti conosciuto e temuto su molti mondi.",
+										"Qualsiasi rumore forte qui risveglia i cultisti nell'area N13, che indagano immediatamente."
 									]
 								},
 								{
@@ -2449,22 +2449,22 @@
 									"name": "N13: Cultist Quarters",
 									"id": "031",
 									"entries": [
-										"If the occupants of this room were lured to area N12 by noise there, omit the last sentence of the following boxed text:",
+										"Se gli occupanti di questa stanza sono stati attirati nell'area N12 dal rumore presente, omettere l'ultima frase del seguente riquadro di testo:",
 										{
 											"type": "insetReadaloud",
 											"id": "032",
 											"entries": [
-												"Makeshift cots are strewn about two adjoining caverns separated by an open doorway. Several individuals in gray robes slumber here peacefully despite the flickering torchlight."
+												"Le brande improvvisate sono sparse attorno a due caverne adiacenti, separate da una porta aperta. Diversi individui in abiti grigi dormono qui pacificamente nonostante la luce tremolante delle torce."
 											]
 										},
-										"Seven {@creature Cultist||cultists} sleep in these two chambers. Each cultist wears a hooded gray robe that has a desiccated eyeball (like the one obtained from Delvin) tucked in one pocket.",
+										"Sette {@creature Cultist||cultists} dormono in queste due camere. Ogni cultista indossa una veste grigia con cappuccio che ha un bulbo oculare essiccato (come quello ottenuto da Delvin) infilato in una tasca.",
 										{
 											"type": "entries",
 											"name": "Being Sneaky",
 											"id": "033",
 											"entries": [
-												"To move through these rooms without waking the cultists, a creature must succeed on a {@dc 14} Dexterity ({@skill Stealth}) check. On a failed check, {@dice 1d4} of the cultists wake up.",
-												"Awake cultists are hostile but easily cowed. A character can use an action to make a {@dc 12} Charisma ({@skill Intimidation}) check. On a successful check, all awake cultists that can see or hear the character surrender."
+												"Per muoversi attraverso queste stanze senza svegliare i cultisti, una creatura deve superare una prova di Destrezza ({@skill Stealth} ({@dc 14} di Destrezza. Se il test fallisce, {@dice 1d4} dei cultisti si svegliano.",
+												"I cultisti svegli sono ostili ma si lasciano intimidire facilmente. Un personaggio può usare un'azione per effettuare una prova di {@dc 12} Carisma ({@skill Intimidation}). Con una prova riuscita, tutti i cultisti svegli che possono vedere o sentire il personaggio si arrendono."
 											]
 										},
 										{
@@ -2472,7 +2472,7 @@
 											"name": "Interrogating the Cultists",
 											"id": "034",
 											"entries": [
-												"Characters can attempt to glean more information from captured cultists by making a {@dc 10} Charisma ({@skill Intimidation} or {@skill Persuasion}) check. On a successful check, a character learns one of the following pieces of information:",
+												"I personaggi possono tentare di raccogliere maggiori informazioni dai cultisti catturati effettuando una prova di {@dc 10} Carisma ({@skill Intimidation} o {@skill Persuasion}). Con una prova riuscita, un personaggio apprende una delle seguenti informazioni:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -2480,17 +2480,17 @@
 														{
 															"type": "item",
 															"name": "Cult Leader",
-															"entry": "The cult's leader is Zalryr, who is conducting a profane experiment in the ritual chamber ({@area area N15|039|x}). Zalryr aims to \"draw secrets from the depths of the mortal soul.\""
+															"entry": "Il leader del culto è Zalryr, che sta conducendo un esperimento profano nella camera rituale ({@area area N15|039|x}). Zalryr mira a \"trarre segreti dalle profondità dell'anima mortale\"."
 														},
 														{
 															"type": "item",
 															"name": "Cult Worship",
-															"entry": "The cultists all serve Vecna, whom they refer to as the Whispered One."
+															"entry": "Tutti i cultisti servono Vecna, a cui si riferiscono come il Sussurrato."
 														},
 														{
 															"type": "item",
 															"name": "Delvin's Fate",
-															"entry": "Zalryr uncovered the presence of a spy recently. That spy was chased from the catacombs and assassinated for his transgression. The cultists' description of the spy confirms it was Delvin Fearnehart."
+															"entry": "Zalryr ha recentemente scoperto la presenza di una spia. Quella spia fu cacciata dalle catacombe e assassinata per la sua trasgressione. La descrizione della spia da parte dei cultisti conferma che si trattava di Delvin Fearnehart."
 														}
 													]
 												}
@@ -2501,7 +2501,7 @@
 											"name": "Treasure",
 											"id": "035",
 											"entries": [
-												"A character who searches these rooms and makes a successful {@dc 12} Intelligence ({@skill Investigation}) check finds two gray cultist robes and three gaudy jeweled rings worth 10 gp each. If the check succeeds by 3 or more, the character also finds a {@item Hat of Disguise} tucked beneath one of the unused cots."
+												"Un personaggio che perquisisce queste stanze ed effettua con successo una prova di Intelligenza ({@skill Investigation} {@dc 12} trova due vesti grigie da cultista e tre sgargianti anelli ingioiellati del valore di 10 mo ciascuno. Se la prova ha successo di 3 o più, il personaggio trova anche un {@item Hat of Disguise} nascosto sotto una delle brande inutilizzate."
 											]
 										}
 									]
@@ -2515,10 +2515,10 @@
 											"type": "insetReadaloud",
 											"id": "037",
 											"entries": [
-												"Crooked shelves filled with books and scrolls stand against the walls. In the center of the room is a square table covered in scribbled notes and ink-stained parchment."
+												"Contro le pareti sono appoggiati scaffali storti pieni di libri e pergamene. Al centro della stanza c'è un tavolo quadrato ricoperto di appunti scarabocchiati e pergamena macchiata di inchiostro."
 											]
 										},
-										"The notes spread across the table detail the cult's experiments and history. A character who spends at least 10 minutes studying the notes learns the following:",
+										"Gli appunti sparsi sul tavolo descrivono in dettaglio gli esperimenti e la storia del culto. Un personaggio che trascorre almeno 10 minuti a studiare gli appunti apprende quanto segue:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -2526,12 +2526,12 @@
 												{
 													"type": "item",
 													"name": "Cult Experiments",
-													"entry": "The cult's leader, Zalryr, is experimenting with ways to magically siphon secrets from an individual's soul. Early experiments reduced volunteers to piles of necrotic sludge, which were disposed of in the sewerage ({@area area N9|028|x})."
+													"entry": "Il leader del culto, Zalryr, sta sperimentando modi per sottrarre magicamente i segreti dall'anima di un individuo. I primi esperimenti riducevano i volontari in mucchi di fanghi necrotici, che venivano smaltiti nelle fognature ({@area area N9|028|x})."
 												},
 												{
 													"type": "item",
 													"name": "Others?",
-													"entry": "The cultists here are but one sect of many that have infiltrated Neverwinter. The other sects have chosen different areas of the city's catacombs as their respective hideouts."
+													"entry": "I cultisti qui non sono che una delle tante sette che si sono infiltrate a Neverwinter. Le altre sette hanno scelto diverse zone delle catacombe della città come rispettivi nascondigli."
 												}
 											]
 										},
@@ -2540,9 +2540,9 @@
 											"name": "Trapped Lockbox",
 											"id": "038",
 											"entries": [
-												"A character who inspects the shelves and succeeds on a {@dc 10} Intelligence ({@skill Investigation}) check finds a small ebony box. The box is locked; Zalryr in area N15 has the key. The box can be picked open by a creature that makes a successful {@dc 13} Dexterity ({@skill Sleight of Hand}) check using thieves' tools, or it can be forced open with a successful {@dc 15} Strength ({@skill Athletics}) check.",
-												"The box is trapped. A creature that opens the box by any means other than using the proper key must make a {@dc 13} Constitution saving throw, taking 7 ({@dice 2d6}) necrotic damage on a failed saved or half as much damage on a successful one. This trap can't be detected or disarmed.",
-												"Inside the box are two {@item Potion of Greater Healing||Potions of Healing (greater)}."
+												"Un personaggio che ispeziona gli scaffali e supera una prova di {@dc 10} Intelligenza ({@skill Investigation}) trova una piccola scatola di ebano. La scatola è chiusa a chiave; Zalryr nell'area N15 ha la chiave. La scatola può essere aperta da una creatura che effettua con successo una prova di Destrezza {@dc 13} ({@skill Sleight of Hand}) utilizzando strumenti da ladro, oppure può essere forzata con una prova riuscita di {@dc 15} Forza ({@skill Athletics}).",
+												"La scatola è intrappolata. Una creatura che apre la scatola con qualsiasi mezzo diverso dall'uso della chiave corretta deve effettuare un tiro salvezza su Costituzione {@dc 13} e subisce 7 ({@dice 2d6}) danni necrotici se il tiro salvezza fallisce o la metà di quel danno se lo riesce. Questa trappola non può essere rilevata o disinnescata.",
+												"All'interno della scatola ce ne sono due {@item Potion of Greater Healing||Potions of Healing (greater)}."
 											]
 										}
 									]
@@ -2556,28 +2556,28 @@
 											"type": "insetReadaloud",
 											"id": "03a",
 											"entries": [
-												"Cacophonous whispers echo through this expansive cave. An imposing human cultist in a sweeping robe stands against the wall, chanting. His oily hair is slicked back, and his skin is gaunt and gray.",
-												"Carved into the floor before him is a runic circle that pulses with sickly green light. Two cultists\u2014one human, one elf\u2014stand inside the circle, heads thrown back and mouths agape. Their leader commands, \"Now! Release your secrets unto me! Let the truths hidden in your soul come forth and become stronger!\" As if in response, the cultists' silhouettes warp into two lanky shadowy entities."
+												"Sussurri cacofonici echeggiano in questa vasta caverna. Un imponente cultista umano con un'ampia veste sta in piedi contro il muro, cantando. I suoi capelli grassi sono lisciati all'indietro e la sua pelle è scarna e grigia.",
+												"Scolpito nel pavimento davanti a lui c'è un cerchio runico che pulsa di una malsana luce verde. Due cultisti, un umano e un elfo, stanno all'interno del cerchio, con la testa gettata all'indietro e la bocca aperta. Il loro leader comanda: \"Ora! Rivela a me i tuoi segreti! Lascia che le verità nascoste nella tua anima vengano alla luce e diventino più forti!\" Come in risposta, le sagome dei cultisti si deformano in due entità oscure e allampanate."
 											]
 										},
-										"Zalryr (neutral evil, human {@creature cult fanatic}) stands at the north end of the room, conducting an experiment on the two {@creature Cultist||cultists} standing inside the runic circle. Zalryr's experiment has magically siphoned the secrets from the cultists' souls to create the two shadowy entities (each uses the {@creature shadow} stat block).",
-										"Each cultist, including Zalryr, wears a hooded gray robe that has a desiccated eyeball (like the one obtained from Delvin) tucked in one pocket.",
-										"Upon noticing the characters, Zalryr commands the cultists and the shadowy entities to attack. The cultists and entities fight to their deaths, but Zalryr surrenders when he is reduced to 10 hit points or fewer.",
+										"Zalryr (neutrale malvagio, umano {@creature cult fanatic}) si trova all'estremità nord della stanza e conduce un esperimento sui due {@creature Cultist||cultists} che si trovano all'interno del cerchio runico. L'esperimento di Zalryr ha magicamente sottratto i segreti dalle anime dei cultisti per creare le due entità oscure (ognuna utilizza il blocco statistiche {@creature shadow}).",
+										"Ogni cultista, incluso Zalryr, indossa una veste grigia con cappuccio che ha un bulbo oculare essiccato (come quello ottenuto da Delvin) infilato in una tasca.",
+										"Dopo aver notato i personaggi, Zalryr ordina ai cultisti e alle entità oscure di attaccare. I cultisti e le entità combattono fino alla morte, ma Zalryr si arrende quando viene ridotto a 10 punti ferita o meno.",
 										{
 											"type": "entries",
 											"name": "Vecna Appears",
 											"id": "03b",
 											"entries": [
-												"When Zalryr either surrenders or is slain, read or paraphrase the following:",
+												"Quando Zalryr si arrende o viene ucciso, leggi o parafrasa quanto segue:",
 												{
 													"type": "insetReadaloud",
 													"id": "03c",
 													"entries": [
-														"The runic circle suddenly hisses and flashes with lurid light. As if being extinguished, the glow of the runes dims as shadowy smoke rises from the carvings. The smoke gathers in the center of the chamber, where it coalesces into an apparition of an emaciated skull with one glowing green eye.",
-														"The apparition speaks in a hissing baritone. \"Good news, Zalryr. Though your efforts have been disappointing, you have brought me new... points of interest.\" The apparition swivels to look at each of you in turn. \"Yes, there is great potential here. May we meet again\u2014but until then, I have my eye on you.\" The apparition then explodes into streaks of shadow, passing through each of you with a whispered scream before vanishing."
+														"Il cerchio runico improvvisamente sibila e lampeggia di una luce spaventosa. Come se fosse spento, il bagliore delle rune si attenua mentre il fumo oscuro si alza dalle incisioni. Il fumo si raccoglie al centro della camera, dove si fonde nell'apparizione di un teschio emaciato con un occhio verde brillante.",
+														"L'apparizione parla in un baritono sibilante. \"Buone notizie, Zalryr. Anche se i tuoi sforzi sono stati deludenti, mi hai portato nuovi... punti di interesse.\" L'apparizione si gira per guardarvi uno dopo l'altro. \"Sì, c'è un grande potenziale qui. Possiamo incontrarci di nuovo, ma fino ad allora, ti tengo d'occhio.\" L'apparizione poi esplode in strisce d'ombra, attraversando ciascuno di voi con un urlo sussurrato prima di svanire."
 													]
 												},
-												"Vecna bestows one of two supernatural gifts on each character. Have each player roll a die, with the result determining which charm their character receives: the {@reward Charm of the Creeping Hand|VNotEE} if the die roll is an odd number or the {@reward Charm of the Eldritch Eye|VNotEE} if the die roll is an even number. While in possession of either charm, the character has the unshakeable feeling that they are being watched. See the next section for descriptions of these charms."
+												"Vecna ​​conferisce uno dei due doni soprannaturali a ciascun personaggio. Chiedi a ogni giocatore di lanciare un dado, il cui risultato determinerà quale fascino riceverà il suo personaggio: il {@reward Charm of the Creeping Hand|VNotEE} se il lancio del dado è un numero dispari o il {@reward Charm of the Eldritch Eye|VNotEE} se il lancio del dado è un numero pari. Mentre è in possesso di entrambi gli incantesimi, il personaggio ha l'incrollabile sensazione di essere osservato. Vedi la sezione successiva per le descrizioni di questi ciondoli."
 											]
 										}
 									]
@@ -2589,7 +2589,7 @@
 							"name": "Vecna's Supernatural Gifts",
 							"id": "03d",
 							"entries": [
-								"Vecna is known to bestow supernatural gifts on mortals who impress him, regardless of their affiliations. The following charms are two of his favorites.",
+								"Vecna ​​è noto per conferire doni soprannaturali ai mortali che lo impressionano, indipendentemente dalla loro affiliazione. I seguenti ciondoli sono due dei suoi preferiti.",
 								{
 									"type": "list",
 									"items": [
@@ -2606,13 +2606,13 @@
 					"name": "Concluding the Adventure",
 					"id": "040",
 					"entries": [
-						"The characters can take any captives, leave the catacombs, and report to Lord Neverember without further incident. Lord Neverember is grateful for the characters' efforts and pays each character a base sum of 100 gp for the job, plus an additional 10 gp each for each cultist captured alive (25 gp each for Zalryr).",
+						"I personaggi possono prendere qualsiasi prigioniero, lasciare le catacombe e fare rapporto a Lord Neverember senza ulteriori incidenti. Lord Neverember è grato per gli sforzi dei personaggi e paga a ciascuno di essi una somma base di 100 mo per il lavoro, più altre 10 mo ciascuno per ogni cultista catturato vivo (25 mo ciascuno per Zalryr).",
 						{
 							"type": "entries",
 							"name": "Continuing the Campaign",
 							"id": "041",
 							"entries": [
-								"Though this sect of cultists has been neutralized, others still lurk in the shadows of Neverwinter, with even more nefarious schemes in service of Vecna. Lord Neverember might call on the characters to continue rooting out these cultists, culminating in an adventure through the sprawling catacombs beneath Neverwinter's Neverdeath Graveyard. If you need help planning further, {@adventure Vecna: Eve of Ruin|VEoR} contains more information about cult activities in Neverdeath Graveyard and provides an excellent campaign that follows Vecna's machinations."
+								"Sebbene questa setta di cultisti sia stata neutralizzata, altri si nascondono ancora nell'ombra di Neverwinter, con piani ancora più nefasti al servizio di Vecna. Lord Neverember potrebbe invitare i personaggi a continuare a sradicare questi cultisti, culminando in un'avventura attraverso le tentacolari catacombe sotto il cimitero di Neverdeath di Neverwinter. Se hai bisogno di aiuto per pianificare ulteriormente, {@adventure Vecna: Eve of Ruin|VEoR} contiene ulteriori informazioni sulle attività del culto nel Cimitero di Neverdeath e fornisce un'eccellente campagna che segue le macchinazioni di Vecna."
 							]
 						}
 					]
@@ -2642,7 +2642,7 @@
 												{
 													"type": "item",
 													"name": "Art Director:",
-													"entry": "Fury Galluzzi"
+													"entry": "Furia Galluzzi"
 												},
 												{
 													"type": "item",
@@ -2692,7 +2692,7 @@
 												{
 													"type": "item",
 													"name": "Studio Art Director:",
-													"entry": "Josh Herman"
+													"entry": "Josh Hermann"
 												},
 												{
 													"type": "item",
@@ -2702,7 +2702,7 @@
 												{
 													"type": "item",
 													"name": "Producer:",
-													"entry": "Siera Bruggeman"
+													"entry": "Sera Bruggemann"
 												},
 												{
 													"type": "item",
@@ -2723,7 +2723,7 @@
 															"type": "item",
 															"name": "Product Manager",
 															"entries": [
-																"Jeff Turriff"
+																"Jeff Turrif"
 															]
 														},
 														{

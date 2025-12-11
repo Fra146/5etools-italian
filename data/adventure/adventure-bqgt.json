@@ -6,7 +6,7 @@
 			"id": "000",
 			"entries": [
 				"{@i A short adventure for four to six level 1 characters}",
-				"{@i Borderlands Quest: Goblin Trouble} is a Dungeons & Dragons adventure that introduces four to six new players to the game and teaches you, the Dungeon Master, how to run it for them. This short adventure is meant to last approximately 1-2 hours of play.",
+				"{@i Borderlands Quest: Goblin Trouble} è un'avventura di Dungeons & Dragons che introduce al gioco da quattro a sei nuovi giocatori e insegna a te, il Dungeon Master, come gestirlo per loro. Questa breve avventura dovrebbe durare circa 1-2 ore di gioco.",
 				{
 					"type": "image",
 					"href": {
@@ -17,20 +17,20 @@
 					"width": 1700,
 					"height": 1097
 				},
-				"Below relevant adventure text, you'll see sidebar boxes like the one below with helpful information and tips on adventure presentation and rules.",
+				"Sotto il testo dell'avventura pertinente, vedrai dei riquadri della barra laterale come quello qui sotto con informazioni utili e suggerimenti sulla presentazione e sulle regole dell'avventura.",
 				{
 					"type": "inset",
 					"name": "The Basics",
 					"id": "001",
 					"entries": [
-						"Dungeons & Dragons (D&D) is a collaborative storytelling and roleplaying game. Each player takes on the role of an adventuring character: a hero with skill and knowledge\u2014and sometimes magic\u2014that lets them overcome challenges and achieve greatness!",
-						"One of the participants in the game takes the role of the Dungeon Master (DM). The DM acts as the lead storyteller, the keeper of secrets, and the referee. This document provides everything you need to know to get started as a DM.",
+						"Dungeons & Dragons (D&D) è un gioco di narrazione e gioco di ruolo collaborativo. Ogni giocatore assume il ruolo di un personaggio avventuroso: un eroe con abilità e conoscenza, e talvolta magia, che gli consentono di superare le sfide e raggiungere la grandezza!",
+						"Uno dei partecipanti al gioco assume il ruolo di Dungeon Master (DM). Il DM funge da narratore principale, custode dei segreti e arbitro. Questo documento fornisce tutto ciò che devi sapere per iniziare come DM.",
 						{
 							"type": "entries",
 							"name": "The Rules",
 							"id": "002",
 							"entries": [
-								"Dungeons & Dragons is a special type of game known as a roleplaying game (RPG). In D&D, the rules help determine if the characters successfully face challenges or encounter setbacks in their adventures. The rules also help the players tell a fun, exciting, and memorable story. The rules are explained as they come up in the text in the right column of this adventure."
+								"Dungeons & Dragons è un tipo speciale di gioco noto come gioco di ruolo (RPG). In D&D, le regole aiutano a determinare se i personaggi affrontano con successo le sfide o incontrano battute d'arresto nelle loro avventure. Le regole aiutano anche i giocatori a raccontare una storia divertente, emozionante e memorabile. Le regole sono spiegate man mano che appaiono nel testo nella colonna di destra di questa avventura."
 							]
 						},
 						{
@@ -38,7 +38,7 @@
 							"name": "The Tools",
 							"id": "003",
 							"entries": [
-								"To play this game, you need this adventure and dice: a {@dice d20}, {@dice d12}, {@dice d10}, {@dice d8}, {@dice d6}, and {@dice d4}. If you don't have these dice, you can find digital dice rollers online. Each player should also have a way to take notes and keep track of changes to their character sheet as the game progresses."
+								"Per giocare a questo gioco, hai bisogno di questa avventura e di dadi: a {@dice d20}, {@dice d12}, {@dice d10}, {@dice d8}, {@dice d6} e {@dice d4}. Se non hai questi dadi, puoi trovare i rulli per dadi digitali online. Ogni giocatore dovrebbe anche avere un modo per prendere appunti e tenere traccia dei cambiamenti nella propria scheda del personaggio man mano che il gioco procede."
 							]
 						}
 					]
@@ -48,7 +48,7 @@
 					"name": "Preparation",
 					"id": "004",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -56,21 +56,21 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "Read through the adventure once."
+									"entry": "Leggi l'avventura una volta."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Review the characters. It is recommended to use the premade characters on D&D Beyond (see the list below)."
+									"entry": "Rivedi i personaggi. Si consiglia di utilizzare i personaggi già pronti su D&D Beyond (vedi l'elenco seguente)."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Reference the monsters (open monster entries or bookmark physical books). They all appear in the 2024 {@book Monster Manual|MM} or {@link D&D Beyond Basic Rules|https://www.dndbeyond.com/sources/dnd/br-2024} (available for free on D&D Beyond)."
+									"entry": "Fai riferimento ai mostri (apri le voci sui mostri o aggiungi i libri fisici ai segnalibri). Appaiono tutti nel 2024 {@book Monster Manual|MM} o {@link D&D Beyond Basic Rules|https://www.dndbeyond.com/sources/dnd/br-2024} (disponibili gratuitamente su D&D Beyond)."
 								}
 							]
 						},
-						"Here's a list of the stat blocks needed to run the adventure:",
+						"Ecco un elenco dei blocchi delle statistiche necessari per eseguire l'avventura:",
 						{
 							"type": "list",
 							"items": [
@@ -80,7 +80,7 @@
 							],
 							"style": "list-no-bullets"
 						},
-						"Here are the {@link premade characters|https://www.dndbeyond.com/characters/premade} you may want to use for the adventure:",
+						"Ecco i {@link premade characters|https://www.dndbeyond.com/characters/premade} che potresti voler utilizzare per l'avventura:",
 						{
 							"type": "list",
 							"items": [
@@ -101,12 +101,12 @@
 					"name": "Dungeon Mastering the Adventure",
 					"id": "005",
 					"entries": [
-						"To play this adventure you'll need either the {@link D&D Beyond Basic Rules|https://www.dndbeyond.com/sources/dnd/br-2024} or the 2024 {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|MM}.",
+						"Per giocare a questa avventura avrai bisogno del {@link D&D Beyond Basic Rules|https://www.dndbeyond.com/sources/dnd/br-2024} o del 2024 {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|MM}.",
 						{
 							"type": "insetReadaloud",
 							"id": "006",
 							"entries": [
-								"Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as described in the text."
+								"Il testo che appare in un riquadro come questo deve essere letto ad alta voce o parafrasato per i giocatori quando i loro personaggi arrivano per la prima volta in un luogo o in una circostanza specifica, come descritto nel testo."
 							]
 						},
 						{
@@ -114,7 +114,7 @@
 							"name": "Read-Aloud Text",
 							"id": "007",
 							"entries": [
-								"Text inside a box, like the text above, is meant to be read aloud to the players. If you're comfortable doing so, you can summarize or paraphrase the text. Just always make sure to mention important information\u2014especially when the text is describing the setting the characters are in. It's hard for them to interact with the world and story when they don't know what's there to interact with!"
+								"Il testo all'interno di una casella, come il testo sopra, deve essere letto ad alta voce ai giocatori. Se ti senti a tuo agio nel farlo, puoi riassumere o parafrasare il testo. Assicurati sempre di menzionare informazioni importanti, soprattutto quando il testo descrive l'ambientazione in cui si trovano i personaggi. È difficile per loro interagire con il mondo e la storia quando non sanno con cosa interagire!"
 							]
 						}
 					]
@@ -124,21 +124,21 @@
 					"name": "Introducing Characters",
 					"id": "008",
 					"entries": [
-						"To run this adventure, first present the character sheets in front of the players and read the following text, which covers the basics of a character sheet.",
-						"You should use the character sheets present on D&D Beyond as noted above. These are available to claim by navigating to {@link Premade Characters|https://www.dndbeyond.com/characters/premade}. Instruct the players to find them on their D&D Beyond accounts by navigating first to Collections, then My Characters, then Create a Character, and finally to Premade Characters.",
-						"If you are an experienced Dungeon Master, you may wish to make another group of level 1 characters for your players to claim on D&D Beyond.",
+						"Per condurre quest'avventura, presenta prima le schede del personaggio davanti ai giocatori e leggi il testo seguente, che copre le basi di una scheda del personaggio.",
+						"Dovresti utilizzare le schede dei personaggi presenti su D&D Beyond come indicato sopra. Questi possono essere rivendicati accedendo a {@link Premade Characters|https://www.dndbeyond.com/characters/premade}. Chiedi ai giocatori di trovarli sui loro account D&D Beyond accedendo prima a Collezioni, poi a I miei personaggi, quindi a Crea un personaggio e infine a Personaggi già pronti.",
+						"Se sei un Dungeon Master esperto, potresti voler creare un altro gruppo di personaggi di livello 1 che i tuoi giocatori possano rivendicare su D&D Beyond.",
 						{
 							"type": "inset",
 							"name": "The Characters",
 							"id": "009",
 							"entries": [
-								"The characters are heroes that the players use to interact with the world and story the DM presents. Let the players review these characters, then introduce themselves. This can be a good icebreaker, but sometimes newer players aren't comfortable doing that and would just like to jump into gameplay. For a shortened introduction, you can have the players provide just their characters' names, classes, and species.",
+								"I personaggi sono eroi che i giocatori usano per interagire con il mondo e la storia presentata dal DM. Lascia che i giocatori rivedano questi personaggi, poi si presentino. Questo può essere un buon rompighiaccio, ma a volte i nuovi giocatori non si sentono a proprio agio nel farlo e vorrebbero semplicemente lanciarsi nel gioco. Per un'introduzione breve, puoi chiedere ai giocatori di fornire solo i nomi, le classi e le specie dei loro personaggi.",
 								{
 									"type": "entries",
 									"name": "Character Actions",
 									"id": "00a",
 									"entries": [
-										"A character's actions hold the potential for either success or failure. Can you hit a monster with your weapon? Can you balance on a narrow ledge as you ascend a mountain? Can you convince a dragon not to eat you? You find the answer to these questions during the game by making a {@variantrule D20 Test|XPHB}!"
+										"Le azioni di un personaggio hanno il potenziale per il successo o il fallimento. Puoi colpire un mostro con la tua arma? Riesci a rimanere in equilibrio su una stretta sporgenza mentre sali su una montagna? Riuscirai a convincere un drago a non mangiarti? Troverai la risposta a queste domande durante il gioco creando un {@variantrule D20 Test|XPHB}!"
 									]
 								}
 							]
@@ -147,7 +147,7 @@
 							"type": "insetReadaloud",
 							"id": "00b",
 							"entries": [
-								"These characters are the heroes you can play in this adventure. The words and numbers on the sheets describe who the characters are, what they're good at doing, and other important information. Choose the hero you'd like to play. As we play through this adventure, we'll talk more about what these words and numbers mean. Let's discuss some basics first.",
+								"Questi personaggi sono gli eroi che puoi interpretare in questa avventura. Le parole e i numeri sui fogli descrivono chi sono i personaggi, cosa sono bravi a fare e altre informazioni importanti. Scegli l'eroe con cui vorresti interpretare. Mentre giochiamo in questa avventura, parleremo di più del significato di queste parole e numeri. Discutiamo prima alcune nozioni di base.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -155,67 +155,67 @@
 										{
 											"type": "item",
 											"name": "Name",
-											"entry": "There's a space at the top of your character sheet where you can write your character's name."
+											"entry": "C'è uno spazio nella parte superiore della scheda del tuo personaggio dove puoi scrivere il nome del tuo personaggio."
 										},
 										{
 											"type": "item",
 											"name": "Species, Background, and Class",
-											"entry": "Each character in D&D has a species, {@book background|XPHB|4|Background Descriptions}, and {@book class|XPHB|3} that help determine who a character is and what they do best. Other information on a character sheet is based on these three elements."
+											"entry": "Ogni personaggio in D&D ha una specie, {@book background|XPHB|4|Background Descriptions} e {@book class|XPHB|3} che aiutano a determinare chi è un personaggio e cosa sa fare meglio. Altre informazioni sulla scheda del personaggio si basano su questi tre elementi."
 										},
 										{
 											"type": "item",
 											"name": "Abilities and {@book Ability Scores|XPHB|2|Determine Ability Modifiers}",
 											"entries": [
-												"All creatures (including your characters) have six abilities\u2013Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Each of the ability scores governs a specific characteristic. Strength is physical might; Dexterity is agility, reflexes, and balance; Constitution is health and stamina; Intelligence is reasoning and memory; Wisdom is perceptiveness and mental fortitude, and Charisma is confidence, poise, and charm.",
-												"Each ability has a score from 1 to 20, although your characters will have scores ranging from 8 (weaker than human average) to 16 or more (strong capability). Each of those scores has an ability modifier next to it. Whenever you make a {@variantrule D20 Test|XPHB} (a {@dice d20} roll to determine success or failure) with a specific ability, you'll modify the roll by the number appearing there."
+												"Tutte le creature (compresi i tuoi personaggi) hanno sei abilità: Forza, Destrezza, Costituzione, Intelligenza, Saggezza e Carisma. Ciascuno dei punteggi di caratteristica governa una caratteristica specifica. La forza è potenza fisica; La destrezza è l'agilità, i riflessi e l'equilibrio; La Costituzione è salute e resistenza; L'intelligenza è ragionamento e memoria; La saggezza è perspicacia e forza mentale, mentre il carisma è fiducia, equilibrio e fascino.",
+												"Ogni abilità ha un punteggio da 1 a 20, anche se i tuoi personaggi avranno punteggi che vanno da 8 (più debole della media umana) a 16 o più (capacità forte). Ciascuno di questi punteggi ha accanto un modificatore di abilità. Ogni volta che effettui un {@variantrule D20 Test|XPHB} (un {@dice d20} tiro per determinare il successo o il fallimento) con un'abilità specifica, modificherai il tiro in base al numero che appare lì."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Initiative",
 											"entries": [
-												"Each character has an {@variantrule Initiative|XPHB} modifier. When we get to a point in the adventure where we have to take turns\u2014particularly during combat\u2014I'll tell you to \"roll Initiative.\" When this happens, roll a {@dice d20} and add your character's Initiative modifier.",
-												"After we get everyone's Initiative, I'll arrange them in order, starting with the character with the highest Initiative roll. From there, you act in descending order. After everyone acts, that's the end of the round. The Initiative order remains the same from round to round for the whole combat. If there's a tie, I'll decide which character or creature goes before the other."
+												"Ogni personaggio ha un modificatore {@variantrule Initiative|XPHB}. Quando arriviamo a un punto dell'avventura in cui dobbiamo fare i turni, in particolare durante il combattimento, ti dirò di \"tirare l'Iniziativa\". Quando ciò accade, tira un {@dice d20} e aggiungi il modificatore di Iniziativa del tuo personaggio.",
+												"Dopo che avremo ottenuto l'iniziativa di tutti, li sistemerò in ordine, a partire dal personaggio con il tiro di iniziativa più alto. Da lì, agisci in ordine decrescente. Dopo che tutti hanno agito, il round finisce. L'ordine di Iniziativa rimane lo stesso di round in round per l'intero combattimento. Se c'è un pareggio, deciderò quale personaggio o creatura va prima dell'altro."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Attacks",
 											"entries": [
-												"Each character can make {@action attack|XPHB|attacks} with melee or ranged weapons, or with melee or ranged spells. \"Melee\" means an attack that is used when a character is right next to a foe. \"Ranged\" means an attack that is used at a distance. Ranged attacks include the distance you must be within to hit a foe.",
-												"The number after the attack's name on your character sheet is added to the {@dice d20} roll (a roll of a 20-sided die) you make when your character attacks. The higher the number, the more likely the attack is to succeed."
+												"Ogni personaggio può effettuare {@action attack|XPHB|attacks} con armi da mischia o a distanza, oppure con incantesimi da mischia o a distanza. \"Mischia\" significa un attacco che viene utilizzato quando un personaggio è proprio accanto a un nemico. \"A distanza\" significa un attacco utilizzato a distanza. Gli attacchi a distanza includono la distanza entro cui devi trovarti per colpire un nemico.",
+												"Il numero dopo il nome dell'attacco sulla scheda del tuo personaggio viene aggiunto al tiro {@dice d20} (un lancio di un dado a 20 facce) che effettui quando il tuo personaggio attacca. Più alto è il numero, maggiori sono le probabilità che l'attacco abbia successo."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Armor Class and Hit Points",
-											"entry": "Each character has an {@variantrule Armor Class|XPHB} (also called AC) and {@variantrule Hit Points|XPHB} (also called HP). A character's Armor Class is based on their speed, armor, and other factors and describes how difficult it is to hit them with an attack roll. The higher the AC, the harder they are to hit. Hit Points determine how much damage a character can take. When your character takes damage, you subtract that damage from their Hit Points. If a character's Hit Points reach 0, they are {@condition unconscious|XPHB}. You'll learn how to regain Hit Points later in the game."
+											"entry": "Ogni personaggio ha un {@variantrule Armor Class|XPHB} (chiamato anche AC) e {@variantrule Hit Points|XPHB} (chiamato anche HP). La Classe Armatura di un personaggio si basa sulla sua velocità, armatura e altri fattori e descrive quanto sia difficile colpirlo con un tiro per colpire. Più alta è la CA, più difficile sarà colpirli. I Punti Ferita determinano quanti danni un personaggio può subire. Quando il tuo personaggio subisce danni, sottrai quel danno dai suoi punti ferita. Se i punti ferita di un personaggio raggiungono lo 0, lo sono {@condition unconscious|XPHB}. Imparerai come recuperare i punti ferita più avanti nel gioco."
 										},
 										{
 											"type": "item",
 											"name": "Skills",
-											"entry": "Each character can use the skills listed on their character sheet. The number after a skill shows what the player adds to a {@dice d20} roll. The higher the number, the better the character is at that skill. If a character wants to use a skill that isn't on their character sheet, the player rolls a 20-sided die, adding an ability score modifier if the DM tells them that ability applies."
+											"entry": "Ogni personaggio può utilizzare le abilità elencate sulla propria scheda personaggio. Il numero dopo un'abilità mostra ciò che il giocatore aggiunge a un tiro {@dice d20}. Più alto è il numero, migliore è il personaggio in quell'abilità. Se un personaggio vuole utilizzare un'abilità che non è sulla sua scheda personaggio, il giocatore lancia un dado a 20 facce, aggiungendo un modificatore del punteggio di caratteristica se il DM gli dice che l'abilità si applica."
 										},
 										{
 											"type": "item",
 											"name": "Equipment",
-											"entry": "A character has equipment they can use to overcome challenges. They also might find more equipment during their adventures."
+											"entry": "Un personaggio ha un equipaggiamento che può usare per superare le sfide. Potrebbero anche trovare più equipaggiamento durante le loro avventure."
 										},
 										{
 											"type": "item",
 											"name": "Spells or Other Abilities",
-											"entry": "Each character has spells, special features, or other abilities. You get to choose when your character uses their spells or special abilities. However, each character can use their spells and special abilities either a limited number of times or only under special circumstances. If there's a small box next to a spell or ability, that means you can only use it that many times. Check off a box when you use it to track how many uses you have left."
+											"entry": "Ogni personaggio ha incantesimi, caratteristiche speciali o altre abilità. Puoi scegliere quando il tuo personaggio usa i suoi incantesimi o abilità speciali. Tuttavia, ogni personaggio può utilizzare i propri incantesimi e abilità speciali un numero limitato di volte o solo in circostanze speciali. Se c'è una piccola casella accanto a una magia o abilità, significa che puoi usarla solo quel numero di volte. Seleziona una casella quando la usi per tenere traccia di quanti usi ti restano."
 										}
 									]
 								}
 							]
 						},
-						"Let the players ask any questions about the character sheet. When it seems like they're ready to begin the adventure, read the following.",
+						"Lascia che i giocatori facciano qualsiasi domanda sulla scheda del personaggio. Quando sembra che siano pronti per iniziare l'avventura, leggi quanto segue.",
 						{
 							"type": "insetReadaloud",
 							"id": "00c",
 							"entries": [
-								"Here is some advice for being a good player.",
+								"Ecco alcuni consigli per essere un buon giocatore.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -223,17 +223,17 @@
 										{
 											"type": "item",
 											"name": "Be a Good Teammate",
-											"entry": "D&D is a cooperative game, meaning that everyone should work together to have fun."
+											"entry": "D&D è un gioco cooperativo, il che significa che tutti dovrebbero lavorare insieme per divertirsi."
 										},
 										{
 											"type": "item",
 											"name": "Think About Your Characters' Actions",
-											"entry": "D&D is a storytelling game where your character can choose to do anything in a scene. But that doesn't mean they should do everything. Your character is good at certain things, and other players' characters are good at other things. Let everyone participate\u2014everyone is here to play, and everyone should get to contribute to scenes."
+											"entry": "D&D è un gioco di narrazione in cui il tuo personaggio può scegliere di fare qualsiasi cosa in una scena. Ma ciò non significa che dovrebbero fare tutto. Il tuo personaggio è bravo in certe cose e i personaggi degli altri giocatori sono bravi in ​​altre cose. Lascia che tutti partecipino: tutti sono qui per giocare e tutti dovrebbero contribuire alle scene."
 										},
 										{
 											"type": "item",
 											"name": "Be Supportive",
-											"entry": "Discuss plans with the other players and with me. Work to help other people do things. Encourage the other players on their turns and give suggestions when they ask for them. Be respectful if another player decides to do something that you wouldn't do."
+											"entry": "Discuti i piani con gli altri giocatori e con me. Impegnati per aiutare gli altri a fare le cose. Incoraggia gli altri giocatori durante il loro turno e dai suggerimenti quando li richiedono. Sii rispettoso se un altro giocatore decide di fare qualcosa che tu non faresti."
 										}
 									]
 								}
@@ -249,9 +249,9 @@
 									"name": "D20 Tests",
 									"id": "00e",
 									"entries": [
-										"The 20-sided die ({@dice d20}) is the most-used die in D&D. It is rolled whenever a character or a creature tries to do something important. Things a character might try to do are listed under \"Attacks\" and \"Skills\" on the character sheets. If a character is about to be attacked or influenced by a physical or mental effect, they might need to make a \"Saving Throw.\"",
-										"Next to attacks, skills, and {@variantrule Saving Throw|XPHB|saving throws} are numbers, such as \"+5.\" This is the number a player adds to their die roll when their character uses that attack, skill, or saving throw. For example, the character sheet for Bobby the Barbarian shows \"+5\" next to \"Greataxe\" under \"Attacks,\" so if the Barbarian wants to attack a monster with their Greataxe, the player rolls a {@dice d20} and adds their +5 bonus. If the die roll is a 10, the +5 bonus is added, and the final total for the attack roll is 15.",
-										"How does the player know if their roll succeeds or fails? That's determined by the {@b Armor Class} or {@b Difficulty Class}, which are described below!"
+										"Il dado a 20 facce ({@dice d20}) è il dado più utilizzato in D&D. Viene lanciato ogni volta che un personaggio o una creatura tenta di fare qualcosa di importante. Le cose che un personaggio potrebbe provare a fare sono elencate sotto \"Attacchi\" e \"Abilità\" sulle schede del personaggio. Se un personaggio sta per essere attaccato o influenzato da un effetto fisico o mentale, potrebbe dover effettuare un \"Tiro Salvezza\".",
+										"Accanto ad attacchi, abilità e {@variantrule Saving Throw|XPHB|saving throws} ci sono numeri, come \"+5\". Questo è il numero che un giocatore aggiunge al tiro di dado quando il suo personaggio usa quell'attacco, abilità o tiro salvezza. Ad esempio, la scheda del personaggio di Bobby il Barbaro mostra \"+5\" accanto a \"Ascia grande\" sotto \"Attacchi\", quindi se il Barbaro vuole attaccare un mostro con la sua Ascia grande, il giocatore tira un {@dice d20} e aggiunge il suo bonus +5. Se il tiro del dado è 10, viene aggiunto il bonus +5 e il totale finale del tiro per colpire è 15.",
+										"Come fa il giocatore a sapere se il suo tiro ha successo o fallisce? Ciò è determinato da {@b Armor Class} o {@b Difficulty Class}, descritti di seguito!"
 									]
 								},
 								{
@@ -259,7 +259,7 @@
 									"name": "Armor Class",
 									"id": "00f",
 									"entries": [
-										"The number a character tries to equal or exceed with an attack roll is called Armor Class (also called AC). The higher a creature's Armor Class, the harder that creature is to hit. In the previous example, the Barbarian's attack roll with a Greataxe would hit a creature with an Armor Class of 15 or lower."
+										"Il numero che un personaggio cerca di eguagliare o superare con un tiro per colpire è chiamato Classe Armatura (detta anche CA). Più alta è la Classe Armatura di una creatura, più difficile sarà colpirla. Nell'esempio precedente, il tiro per colpire del Barbaro con un'ascia bipenne colpirebbe una creatura con una Classe Armatura pari o inferiore a 15."
 									]
 								},
 								{
@@ -267,7 +267,7 @@
 									"name": "Damage",
 									"id": "010",
 									"entries": [
-										"When an attack roll hits, it deals damage. The damage roll appears after the attack on the character sheet. If a Greataxe does \"{@dice 1d12 + 3} Slashing,\" the player would roll one 12-sided die ({@dice d12}) and add 3 to the die roll. The DM subtracts the total from the creature's Hit Points."
+										"Quando un tiro per colpire va a segno, infligge danni. Il tiro per i danni appare dopo l'attacco sulla scheda del personaggio. Se un'ascia bipenne esegue \"{@dice 1d12 + 3} Taglio\", il giocatore lancia un dado a 12 facce ({@dice d12}) e aggiunge 3 al tiro di dado. Il DM sottrae il totale dai Punti Ferita della creatura."
 									]
 								},
 								{
@@ -275,9 +275,9 @@
 									"name": "Hit Points",
 									"id": "011",
 									"entries": [
-										"Every creature in D&D has a number of Hit Points. This number reflects the damage a creature can take before it falls unconscious or is defeated. When a character or creature is damaged by an attack, trap, or hazard in the game, the amount of damage dealt is subtracted from the character or creature's Hit Points.",
-										"If a creature reaches 0 Hit Points, they are defeated. The players can decide if this means a creature is dead or unconscious.",
-										"When a character reaches 0 Hit Points, they are unconscious. In this adventure, a character at 0 Hit Points remains unconscious until they regain Hit Points through healing or until the end of the encounter, at which point they regain 1 Hit Point automatically. The adventure details other ways to regain Hit Points."
+										"Ogni creatura in D&D ha un certo numero di Punti Ferita. Questo numero riflette il danno che una creatura può subire prima di perdere i sensi o di essere sconfitta. Quando un personaggio o una creatura viene danneggiato da un attacco, una trappola o un pericolo nel gioco, l'ammontare del danno inflitto viene sottratto dai Punti Ferita del personaggio o della creatura.",
+										"Se una creatura raggiunge 0 punti ferita, viene sconfitta. I giocatori possono decidere se questo significa che una creatura è morta o priva di sensi.",
+										"Quando un personaggio raggiunge 0 punti ferita, perde i sensi. In questa avventura, un personaggio a 0 Punti Ferita rimane privo di sensi finché non recupera Punti Ferita attraverso la guarigione o fino alla fine dell'incontro, a quel punto recupera 1 Punto Ferita automaticamente. L'avventura descrive in dettaglio altri modi per recuperare punti ferita."
 									]
 								},
 								{
@@ -285,9 +285,9 @@
 									"name": "Difficulty Class",
 									"id": "012",
 									"entries": [
-										"Like the Armor Class determining whether an attack roll succeeds or fails, the Difficulty Class (DC) determines if an ability check or saving throw succeeds or fails. The DC of an ability check or saving throw is the number that a player's roll must equal or exceed to succeed.",
-										"For example, if the Barbarian wants to move a heavy boulder blocking the mouth of a cave, that requires a skill called {@skill Athletics|XPHB}. Under \"Skills\" on their character sheet, it says \"Athletics +5,\" so the Barbarian's player rolls a 20-sided die and adds their +5 bonus to the number on the die.",
-										"If the Difficulty Class to move the boulder is 12, the player would need to roll a 7 or higher for the Barbarian to move the boulder. An adventure's text gives the Difficulty Class of actions a character can attempt, but in general, a Difficulty Class of 10 ({@dc 10}) is easy, while a DC of 15 ({@dc 15}) is challenging. The DM can change DCs if circumstances make an action easier or harder."
+										"Come la Classe Armatura che determina se un tiro per colpire riesce o fallisce, la Classe Difficoltà (CD) determina se una prova di caratteristica o un tiro salvezza riesce o fallisce. La CD di una prova di caratteristica o di un tiro salvezza è il numero che il tiro di un giocatore deve eguagliare o superare per avere successo.",
+										"Ad esempio, se il Barbaro vuole spostare un masso pesante che blocca l'ingresso di una grotta, ciò richiede un'abilità chiamata {@skill Athletics|XPHB}. Sotto \"Abilità\" sulla scheda del personaggio, c'è scritto \"Atletica +5\", quindi il giocatore del Barbaro lancia un dado a 20 facce e aggiunge il suo bonus +5 al numero sul dado.",
+										"Se la Classe Difficoltà per spostare il masso è 12, il giocatore dovrà tirare un 7 o più affinché il Barbaro possa spostare il masso. Il testo di un'avventura fornisce la Classe Difficoltà delle azioni che un personaggio può tentare, ma in generale, una Classe Difficoltà pari a 10 ({@dc 10}) è facile, mentre una CD pari a 15 ({@dc 15}) è impegnativa. Il DM può modificare le CD se le circostanze rendono un'azione più facile o più difficile."
 									]
 								}
 							]
@@ -299,14 +299,14 @@
 					"name": "Introducing the Game",
 					"id": "013",
 					"entries": [
-						"Once the players have familiarized themselves with their characters, you're ready to introduce the game.",
+						"Una volta che i giocatori hanno familiarizzato con i loro personaggi, sei pronto per presentare il gioco.",
 						{
 							"type": "insetReadaloud",
 							"id": "014",
 							"entries": [
-								"Now that you're familiar with your characters and the basics of the rules, we're going to play a short adventure to introduce you to Dungeons & Dragons. As the Dungeon Master, I tell you what's going on in the world around you, and I use the rules and dice rolls to determine what happens in the story. But the most important aspect of the game is your input. You help tell the story of your characters' adventures.",
-								"In a moment, I'll describe the scene you're in, and then you'll tell me what you want your character to do. Your character can try to do anything, but each character is specially trained to do specific things well, so think about what your character might be more successful doing. Their skills are listed and described on your character sheet.",
-								"When your character does something that could succeed or fail, I'll have you roll one of these 20-sided dice and add a number to it. This is called a {@variantrule D20 Test|XPHB}, and the number you add indicates how good or bad your character is at what they're trying to do. The result tells me whether your character succeeds or fails. Then I'll describe the outcome, and the story moves forward. Let's begin playing this adventure! It's called {@i Borderlands Quest: Goblin Trouble}!"
+								"Ora che hai familiarità con i tuoi personaggi e le basi delle regole, giocheremo una breve avventura per farti conoscere Dungeons & Dragons. In qualità di Dungeon Master, ti dico cosa sta succedendo nel mondo intorno a te e utilizzo le regole e i tiri di dado per determinare cosa succede nella storia. Ma l'aspetto più importante del gioco è il tuo contributo. Aiuti a raccontare la storia delle avventure dei tuoi personaggi.",
+								"Tra un attimo descriverò la scena in cui ti trovi e poi mi dirai cosa vuoi che faccia il tuo personaggio. Il tuo personaggio può provare a fare qualsiasi cosa, ma ogni personaggio è appositamente addestrato per fare bene cose specifiche, quindi pensa a cosa potrebbe fare con più successo il tuo personaggio. Le loro abilità sono elencate e descritte sulla scheda del tuo personaggio.",
+								"Quando il tuo personaggio fa qualcosa che potrebbe avere successo o fallire, ti farò lanciare uno di questi dadi a 20 facce e aggiungervi un numero. Questo si chiama {@variantrule D20 Test|XPHB} e il numero che aggiungi indica quanto è bravo o cattivo il tuo personaggio in quello che sta cercando di fare. Il risultato mi dice se il tuo personaggio ha successo o fallisce. Poi descriverò il risultato e la storia andrà avanti. Cominciamo a giocare a questa avventura! Si chiama {@i Borderlands Quest: Goblin Trouble}!"
 							]
 						}
 					]
@@ -323,37 +323,37 @@
 								{
 									"type": "item",
 									"name": "Rule 0",
-									"entry": "Rule 0 of D&D is simple: Have fun. It's fine if everyone agrees to change the rules as long as doing so means the game is more fun for everyone."
+									"entry": "La regola 0 di D&D è semplice: divertiti. Va bene se tutti sono d'accordo nel cambiare le regole, purché così facendo il gioco sia più divertente per tutti."
 								},
 								{
 									"type": "item",
 									"name": "Be Supportive",
-									"entry": "The players and the DM are all on the same team. DMs aren't playing against the characters. The DM wins when the players have fun and the story is exciting and memorable."
+									"entry": "I giocatori e il DM fanno tutti parte della stessa squadra. I DM non giocano contro i personaggi. Il DM vince quando i giocatori si divertono e la storia è emozionante e memorabile."
 								},
 								{
 									"type": "item",
 									"name": "Use \"Yes, and...\" or \"No, but...\"",
-									"entry": "Allow the players to succeed as much as possible and participate in the story. If they want to try something unexpected, try to say \"yes\" and work their ideas into the story. If you have to say \"no\" to an idea, suggest options that might work."
+									"entry": "Consenti ai giocatori di avere successo il più possibile e di partecipare alla storia. Se vogliono provare qualcosa di inaspettato, prova a dire \"sì\" e inserisci le loro idee nella storia. Se devi dire \"no\" a un'idea, suggerisci opzioni che potrebbero funzionare."
 								},
 								{
 									"type": "item",
 									"name": "Use Your Imagination",
-									"entry": "Adventures are an outline for your game. Change or add anything that makes the game more fun. What does a monster smell like? That's up to you, or you can ask the players what they think!"
+									"entry": "Le avventure sono uno schema per il tuo gioco. Cambia o aggiungi qualsiasi cosa che renda il gioco più divertente. Che odore ha un mostro? Dipende da te, oppure puoi chiedere ai giocatori cosa ne pensano!"
 								},
 								{
 									"type": "item",
 									"name": "NPCs Are Your Voice",
-									"entry": "While the players determine what their characters do, the DM controls the other characters in the game. Nonplayer characters (also known as NPCs) are a great tool for you to help the characters understand the game and the story, and to work information into the story smoothly."
+									"entry": "Mentre i giocatori determinano cosa fanno i loro personaggi, il DM controlla gli altri personaggi nel gioco. I personaggi non giocanti (noti anche come NPC) sono un ottimo strumento per aiutare i personaggi a comprendere il gioco e la storia e a inserire le informazioni nella storia senza problemi."
 								},
 								{
 									"type": "item",
 									"name": "Allow Alternatives",
-									"entry": "D&D is a game of fantasy where heroes use wits, skill, and determination to overcome obstacles. Sometimes those obstacles are defeated with weapons and spells, but characters can succeed in other ways. Communicating with monsters, tricking them or frightening them away, or avoiding a fight while cleverly sneaking past a challenge can be just as much fun."
+									"entry": "D&D è un gioco fantasy in cui gli eroi usano ingegno, abilità e determinazione per superare gli ostacoli. A volte questi ostacoli vengono sconfitti con armi e incantesimi, ma i personaggi possono avere successo in altri modi. Comunicare con i mostri, ingannarli o spaventarli, oppure evitare un combattimento mentre si supera abilmente una sfida può essere altrettanto divertente."
 								},
 								{
 									"type": "item",
 									"name": "Listen to Your Players",
-									"entry": "Encourage your players to speak to you, publicly or privately, if something in the game upsets them. Then respond appropriately. For instance, you can move past upsetting topics by quickly narrating a resolution to a scene, then quickly move to the next part of the story."
+									"entry": "Incoraggia i tuoi giocatori a parlarti, in pubblico o in privato, se qualcosa nel gioco li turba. Quindi rispondi in modo appropriato. Ad esempio, puoi superare argomenti sconvolgenti raccontando rapidamente una soluzione in una scena, quindi passare rapidamente alla parte successiva della storia."
 								}
 							]
 						},
@@ -378,12 +378,12 @@
 									"name": "Play Time",
 									"id": "017",
 									"entries": [
-										"Learning to pace an adventure to make sure that it runs in a set time frame takes practice, but here are some tips to help.",
+										"Imparare a seguire il ritmo di un'avventura per assicurarsi che si svolga entro un periodo di tempo prestabilito richiede pratica, ma ecco alcuni suggerimenti per aiutarti.",
 										{
 											"type": "list",
 											"items": [
-												"Give all the players an opportunity to make comments and discuss the game as it plays. Once everyone has had the chance to give input, ask questions, and discuss a game situation, prompt the players to make a decision and keep the game moving forward.",
-												"To prompt the players, summarize the situation as they understand it, and then say, \"What do you do?\""
+												"Dai a tutti i giocatori l'opportunità di fare commenti e discutere il gioco mentre si svolge. Una volta che tutti hanno avuto la possibilità di dare input, porre domande e discutere una situazione di gioco, spingere i giocatori a prendere una decisione e far andare avanti il ​​gioco.",
+												"Per sollecitare i giocatori, riassumere la situazione così come la capiscono e poi dire: \"Cosa fai?\""
 											]
 										}
 									]
@@ -393,7 +393,7 @@
 									"name": "Presenting Encounters",
 									"id": "018",
 									"entries": [
-										"This adventure is divided into \"encounters,\" which are like scenes from a movie or show. Each encounter has specific challenges. Once the players complete the challenges, move on to the next scene. The flow of the game is described below."
+										"Questa avventura è divisa in \"incontri\", che sono come scene di un film o di uno spettacolo. Ogni incontro presenta sfide specifiche. Una volta che i giocatori hanno completato le sfide, passa alla scena successiva. Lo svolgimento del gioco è descritto di seguito."
 									]
 								},
 								{
@@ -401,11 +401,11 @@
 									"name": "Game Flow",
 									"id": "019",
 									"entries": [
-										"A D&D session begins with the DM and the other players having a conversation. The DM explains the situation the characters are in. The players can ask questions about the situation, and the DM answers those questions to further explain what's happening. Then the DM asks the most important question in the DM's toolbox:",
-										"\"What do you do?\"",
-										"At this point, the players explain what they want their characters to do. (If what they want to do is impossible, tell them so and ask them to choose a different action. For example, a character can't walk through a wall unless they have some special ability or magic that allows them to do so.)",
-										"If the action is possible and very easy to do, the character automatically succeeds. Opening an unlocked door or lifting a light object doesn't require heroic effort, so no {@dice d20} roll is necessary.",
-										"When the action is somewhere between easy and impossible, trying to do it could lead to success or failure. That's when the DM calls for a {@dice d20} roll. (See the \"{@adventure D20 Tests|BQGT|0|More Rules Detail}\" section earlier in this document.) This roll, plus its modifiers, determines whether the character succeeds or fails. What does success or failure mean for an adventure? This is where you and the players get to tell a story together!"
+										"Una sessione di D&D inizia con una conversazione tra il DM e gli altri giocatori. Il DM spiega la situazione in cui si trovano i personaggi. I giocatori possono porre domande sulla situazione e il DM risponde a queste domande per spiegare ulteriormente cosa sta succedendo. Quindi il DM pone la domanda più importante nella cassetta degli attrezzi del DM:",
+										"\"Cosa fai?\"",
+										"A questo punto i giocatori spiegano cosa vogliono che facciano i loro personaggi. (Se ciò che vogliono fare è impossibile, diglielo e chiedi loro di scegliere un'azione diversa. Ad esempio, un personaggio non può camminare attraverso un muro a meno che non abbia qualche abilità speciale o magia che gli consenta di farlo.)",
+										"Se l'azione è possibile e molto semplice da eseguire, il personaggio riesce automaticamente. Aprire una porta sbloccata o sollevare un oggetto leggero non richiede uno sforzo eroico, quindi non è necessario alcun tiro {@dice d20}.",
+										"Quando l’azione è a metà tra il facile e l’impossibile, provare a farla potrebbe portare al successo o al fallimento. Questo è il momento in cui il DM richiede un tiro {@dice d20}. (Vedi la sezione \"{@adventure D20 Tests|BQGT|0|More Rules Detail}\" precedentemente in questo documento.) Questo tiro, più i suoi modificatori, determina se il personaggio riesce o fallisce. Cosa significa successo o fallimento per un'avventura? Qui è dove tu e i giocatori potrete raccontare una storia insieme!"
 									]
 								},
 								{
@@ -413,8 +413,8 @@
 									"name": "Narrating Successes and Failures",
 									"id": "01a",
 									"entries": [
-										"When a {@dice d20} roll succeeds or fails, the DM and the players can turn that result into a part of the ongoing story. What does it look like when a monster is defeated? What does the Gnome Barbarian say or do if the heavy boulder blocking the cave doesn't budge? These points in the game can spark great storytelling and acting moments.",
-										"Remember, though, that part of the DM's job is to keep the game's story moving forward. If describing every single attack roll in a long combat gets boring, just say how much damage the attack deals and get to the next exciting moment."
+										"Quando un tiro {@dice d20} ha successo o fallisce, il DM e i giocatori possono trasformare quel risultato in una parte della storia in corso. Che cosa si prova quando un mostro viene sconfitto? Cosa dice o fa lo Gnomo Barbaro se il pesante masso che blocca la caverna non si sposta? Questi punti del gioco possono innescare grandi momenti di narrazione e recitazione.",
+										"Ricorda, però, che parte del lavoro del DM è far avanzare la storia del gioco. Se descrivere ogni singolo tiro per colpire in un lungo combattimento diventa noioso, basta dire quanti danni infligge l'attacco e passare all'emozionante momento successivo."
 									]
 								}
 							]
@@ -426,15 +426,15 @@
 					"name": "Introducing the Adventure",
 					"id": "01b",
 					"entries": [
-						"When the players have selected and reviewed their characters, you're ready to begin the adventure.",
+						"Quando i giocatori hanno selezionato e rivisto i loro personaggi, sei pronto per iniziare l'avventura.",
 						{
 							"type": "insetReadaloud",
 							"id": "01c",
 							"entries": [
-								"You have been hired by the castellan of the Keep on the Borderlands to track down thieves who stole the Bowl of Plenty. This large silver bowl was a gift to the keep, said to bring good fortune to anyone who takes a meal from it. It is a foot wide and weighs 10 pounds. It was damaged on its way to the keep and needs repair, but it was stolen overnight by thieves.",
-								"On the promise of a reward of 20 gold pieces for each of you, you've followed the trail of the thieves, questioning travelers who saw the thieves leave the village and head toward a group of hills that are home to what are locally known as the \"Caves of Chaos.\" Your final witness said they saw the bowl being carried into a cave by a group of goblins, small people who are often embodiments of recklessness and ruin.",
-								"You are now at the mouth of that cave. Several small footprints show that goblins have walked in and out of this entrance recently. All clues point you into the darkness of this cave.",
-								"What do you do?"
+								"Sei stato ingaggiato dal castellano della Fortezza nelle Terre di Confine per rintracciare i ladri che hanno rubato la Ciotola dell'Abbondanza. Questa grande ciotola d'argento era un dono per il mastio, si diceva portasse fortuna a chiunque ne prendesse un pasto. È largo un piede e pesa 10 libbre. È stato danneggiato durante il viaggio verso il mastio e necessita di riparazioni, ma è stato rubato durante la notte dai ladri.",
+								"Con la promessa di una ricompensa di 20 monete d'oro per ciascuno di voi, avete seguito le tracce dei ladri, interrogando i viaggiatori che hanno visto i ladri lasciare il villaggio e dirigersi verso un gruppo di colline che ospitano quelle che sono conosciute localmente come le \"Grotte del Caos\". Il tuo ultimo testimone ha detto di aver visto la ciotola portata in una grotta da un gruppo di goblin, piccole persone che spesso sono l'incarnazione dell'incoscienza e della rovina.",
+								"Ora sei all'imbocco di quella grotta. Diverse piccole impronte mostrano che i goblin sono entrati e usciti di recente da questo ingresso. Tutti gli indizi ti indirizzano nell'oscurità di questa grotta.",
+								"Cosa fai?"
 							]
 						},
 						{
@@ -442,9 +442,9 @@
 							"name": "The Adventure Hook",
 							"id": "01d",
 							"entries": [
-								"An adventure hook is the challenge, opportunity, situation, or conflict that \"hooks\" the players into an adventure, motivating them to pursue it. It introduces the characters to the adventure: what's happening, where they are, what their goals are, and so on.",
-								"This adventure hook starts the characters at the point where they have already done some of the work in finding the location, and they are ready to jump into the main part of the adventure. When you start an adventure this way, it generally gets the players into the action faster, but it might also bring some questions.",
-								"Sometimes the adventure text answers these questions, and other times it doesn't\u2014because there's no way the text can accommodate every question a player might ask. One of the challenges, and one of the joys, of being the Dungeon Master is getting to add your imagination to the story."
+								"Un gancio d'avventura è la sfida, l'opportunità, la situazione o il conflitto che \"aggancia\" i giocatori a un'avventura, motivandoli a perseguirla. Presenta i personaggi all'avventura: cosa sta succedendo, dove sono, quali sono i loro obiettivi e così via.",
+								"Questo gancio per l'avventura fa iniziare i personaggi nel punto in cui hanno già svolto parte del lavoro per trovare il luogo e sono pronti per tuffarsi nella parte principale dell'avventura. Quando si inizia un'avventura in questo modo, generalmente i giocatori entrano nell'azione più velocemente, ma potrebbero anche sorgere alcune domande.",
+								"A volte il testo dell'avventura risponde a queste domande, altre volte no, perché non è possibile che il testo possa soddisfare tutte le domande che un giocatore potrebbe porre. Una delle sfide, e una delle gioie, di essere il Dungeon Master è riuscire ad aggiungere la tua immaginazione alla storia."
 							]
 						}
 					]
@@ -454,7 +454,7 @@
 					"name": "Map of the Cave",
 					"id": "01e",
 					"entries": [
-						"The map used for the cave is called \"Underdark Warren\" and is also found in the 2024 {@i Dungeon Master's Guide}. Each section below mentions where on the map the various encounters are found. Additional areas on the map not referenced are not used for this adventure.",
+						"La mappa utilizzata per la grotta si chiama \"Underdark Warren\" e si trova anche nel 2024 {@i Dungeon Master's Guide}. Ogni sezione seguente indica dove si trovano i vari incontri sulla mappa. Aree aggiuntive sulla mappa non menzionate non vengono utilizzate per questa avventura.",
 						{
 							"type": "gallery",
 							"images": [
@@ -505,20 +505,20 @@
 					"name": "The Cave Entrance",
 					"id": "01f",
 					"entries": [
-						"The characters enter the cave from the eastern edge of the map. The characters may want to do some reconnaissance before entering the cave.",
+						"I personaggi entrano nella caverna dal bordo orientale della mappa. I personaggi potrebbero voler fare qualche ricognizione prima di entrare nella caverna.",
 						{
 							"type": "inset",
 							"name": "Being the Characters' Senses",
 							"id": "020",
 							"entries": [
-								"As the Dungeon Master, you act as the characters' senses\u2014they cannot know something about the world or the situation unless you tell them. Check with the players occasionally to ensure everyone understands what their characters are sensing. Describe to the players everything their characters would experience."
+								"In qualità di Dungeon Master, agisci come i sensi dei personaggi: non possono sapere qualcosa del mondo o della situazione a meno che tu non glielo dica. Di tanto in tanto verifica con i giocatori per assicurarti che tutti capiscano cosa stanno sentendo i loro personaggi. Descrivi ai giocatori tutto ciò che i loro personaggi sperimenterebbero."
 							]
 						},
 						{
 							"type": "list",
 							"items": [
-								"{@b Look into the Cave.} By shining a light or peering into the cave entrance, the characters see a tunnel that goes deeper into the hillside and curves down and out of sight. There's no one immediately inside the entrance.",
-								"{@b Studying the Area}. No {@variantrule D20 Test|XPHB} is needed to learn that this is a well-traveled entrance, with very recent goblin tracks leading in. If a character succeeds on a {@dc 15} Wisdom ({@skill Perception|XPHB} or {@skill Survival|XPHB}) check, they also notice a pair of human-sized boot tracks leading into the cave. The tracks indicate that two people walked into the cave within the last hour on their tiptoes."
+								"{@b Look into the Cave.} Accendendo una luce o sbirciando nell'ingresso della caverna, i personaggi vedono un tunnel che scende più in profondità nel fianco della collina e curva verso il basso e scompare alla vista. Non c'è nessuno immediatamente all'interno dell'ingresso.",
+								"{@b Studying the Area}. Non è necessario alcun {@variantrule D20 Test|XPHB} per apprendere che si tratta di un'entrata ben trafficata, con tracce di goblin molto recenti che conducono all'interno. Se un personaggio supera una prova di Saggezza {@dc 15} ({@skill Perception|XPHB} o {@skill Survival|XPHB}), nota anche un paio di tracce di stivali di dimensioni umane che conducono alla grotta. Le tracce indicano che due persone sono entrate nella grotta nell'ultima ora in punta di piedi."
 							],
 							"style": "list-hang-notitle"
 						},
@@ -527,10 +527,10 @@
 							"name": "Guiding Player Choices",
 							"id": "021",
 							"entries": [
-								"The adventure here provides advice on how to handle characters doing two very likely activities at the cave entrance. Just like players might ask questions during the adventure hook, players might do anything in a situation\u2014and there's no way to account for everything in the adventure text."
+								"L'avventura qui fornisce consigli su come gestire i personaggi che svolgono due attività molto probabili all'ingresso della caverna. Proprio come i giocatori potrebbero porre domande durante l'avventura, i giocatori potrebbero fare qualsiasi cosa in una situazione e non c'è modo di spiegare tutto nel testo dell'avventura."
 							]
 						},
-						"In this case, nothing else they do is likely to move the action of the adventure forward. If it sounds like they plan to wait outside for something to happen or otherwise spend time not entering the cave, remind them that there might be other exits to these caves somewhere else, so waiting or spending too much time doing other activities could mean that the bowl will get away from them while they wait. As a Dungeon Master, you control the story, so you have the power to change the world around them to spur them to action."
+						"In questo caso, è probabile che nient’altro che facciano possa far avanzare l’azione dell’avventura. Se sembra che abbiano intenzione di aspettare fuori che succeda qualcosa o comunque di trascorrere del tempo senza entrare nella grotta, ricorda loro che potrebbero esserci altre uscite per queste grotte da qualche altra parte, quindi aspettare o passare troppo tempo a fare altre attività potrebbe significare che la ciotola si allontanerà da loro mentre aspettano. In qualità di Dungeon Master, controlli la storia, quindi hai il potere di cambiare il mondo che li circonda per spronarli all'azione."
 					]
 				},
 				{
@@ -538,16 +538,16 @@
 					"name": "Dead Spiders",
 					"id": "022",
 					"entries": [
-						"When the characters enter the cave, they see a passage leading deeper underground.",
+						"Quando i personaggi entrano nella caverna, vedono un passaggio che conduce più in profondità nel sottosuolo.",
 						{
 							"type": "insetReadaloud",
 							"id": "023",
 							"entries": [
-								"From the cave entrance, a passage continues deeper beneath the hills and slopes downward. You travel for several minutes before the passage turns north and leads up a set of natural stone steps. A group of caverns continues out ahead of you.",
-								"The ceiling of these caverns is choked with webs, and the footprints you've been following continue through these caves. In the center of the floor in the first cave is a human-sized boot."
+								"Dall'ingresso della grotta, un passaggio prosegue più in profondità sotto le colline e digrada verso il basso. Procedi per diversi minuti prima che il passaggio giri a nord e conduca su una serie di gradini di pietra naturale. Un gruppo di caverne continua davanti a te.",
+								"Il soffitto di queste caverne è soffocato dalle ragnatele e le impronte che hai seguito continuano attraverso queste caverne. Al centro del pavimento nella prima grotta c'è uno stivale a misura d'uomo."
 							]
 						},
-						"The ceiling is 15 feet high, but the webs cover the top five feet of the ceiling all along this area. The webs are flammable. Burning them up drops the dead spiders entangled within them.",
+						"Il soffitto è alto 15 piedi, ma le ragnatele coprono i primi cinque piedi del soffitto lungo tutta quest'area. Le tele sono infiammabili. Bruciandoli lasciano cadere i ragni morti impigliati al loro interno.",
 						{
 							"type": "entries",
 							"id": "024",
@@ -561,7 +561,7 @@
 											"name": "Entangled Spiders",
 											"id": "026",
 											"entries": [
-												"Characters who inspect the ceiling can make a {@dc 12} Wisdom ({@skill Perception|XPHB}) check. On a success, they notice the bodies of two Medium-size spiders entangled in the webs. If characters inspect the bodies, they can see several crossbow bolts sticking out of the corpses."
+												"I personaggi che ispezionano il soffitto possono effettuare una prova di {@dc 12} Saggezza ({@skill Perception|XPHB}). In caso di successo, notano i corpi di due ragni di taglia media impigliati nelle ragnatele. Se i personaggi ispezionano i corpi, possono vedere diversi dardi di balestra che sporgono dai cadaveri."
 											]
 										},
 										{
@@ -569,7 +569,7 @@
 											"name": "Treasure",
 											"id": "027",
 											"entries": [
-												"If the characters actively {@action search|XPHB} the caverns, they find the desiccated husk of a former adventurer who was eaten by the spiders. Next to the body is a torn {@item backpack|XPHB}. The backpack holds 30 GP, 50 feet of {@item rope|XPHB}, five {@item Torch|XPHB|torches}, and a Potion of Healing."
+												"Se i personaggi attivano {@action search|XPHB} le caverne, trovano la buccia essiccata di un ex avventuriero che è stato mangiato dai ragni. Accanto al corpo c'è uno squarcio {@item backpack|XPHB}. Lo zaino contiene 30 GP, 50 piedi di {@item rope|XPHB}, cinque {@item Torch|XPHB|torches} e una pozione di guarigione."
 											]
 										},
 										{
@@ -577,15 +577,15 @@
 											"name": "Potion of Healing",
 											"id": "028",
 											"entries": [
-												"A Potion of Healing is a small vial with shimmering red magical liquid inside. If a character drinks the liquid, it restores {@dice 2d4 + 2} Hit Points to the character. These Hit Points are added to the character's current Hit Points. A character's Hit Point value cannot be higher than their Hit Point Maximum.",
+												"Una pozione di guarigione è una piccola fiala con all'interno un liquido magico rosso scintillante. Se un personaggio beve il liquido, ripristina {@dice 2d4 + 2} punti ferita al personaggio. Questi Punti Ferita vengono aggiunti ai Punti Ferita attuali del personaggio. Il valore dei punti ferita di un personaggio non può essere superiore al suo massimo dei punti ferita.",
 												{
 													"type": "inset",
 													"name": "Advantage and Disadvantage",
 													"id": "029",
 													"entries": [
-														"Some circumstances make it easier or harder to succeed on their {@variantrule D20 Test|XPHB|D20 Tests}. This can be reflected in Advantage or Disadvantage.",
-														"Advantage means that instead of rolling the {@dice d20} once for a {@variantrule D20 Test|XPHB}, the player or DM rolls the {@dice d20} twice and uses the higher roll. Disadvantage means that instead of rolling the {@dice d20} once for a {@variantrule D20 Test|XPHB}, the player or DM rolls the {@dice d20} twice and uses the lower roll.",
-														"As the DM, you decide when a creature is in a situation that calls for Advantage or Disadvantage. Certain places in the text or on the character sheets might also call out when Advantage or Disadvantage applies."
+														"Alcune circostanze rendono più facile o più difficile il successo {@variantrule D20 Test|XPHB|D20 Tests}. Ciò può riflettersi in vantaggio o svantaggio.",
+														"Vantaggio significa che invece di lanciare il {@dice d20} una volta per un {@variantrule D20 Test|XPHB}, il giocatore o il DM lancia il {@dice d20} due volte e usa il tiro più alto. Lo svantaggio significa che invece di lanciare il {@dice d20} una volta per un {@variantrule D20 Test|XPHB}, il giocatore o il DM lancia il {@dice d20} due volte e usa il tiro più basso.",
+														"Come DM, sei tu a decidere quando una creatura si trova in una situazione che richiede Vantaggio o Svantaggio. Alcuni punti nel testo o sulle schede del personaggio potrebbero anche indicare quando si applica un Vantaggio o uno Svantaggio."
 													]
 												}
 											]
@@ -601,20 +601,20 @@
 					"name": "Bowl Bandits",
 					"id": "02a",
 					"entries": [
-						"The passage continues onwards, taking the characters north for a while, and then switching back to the south. The caves here are empty, save for some old cobwebs on the ceiling.",
-						"Eventually, the characters find themselves on the southeastern side of the map, near some stone steps that lead into a cavern with an underground stream flowing in it. The two {@creature Bandit|XMM|bandits} who originally helped steal the bowl are in that cavern.",
+						"Il passaggio continua, portando i personaggi a nord per un po', per poi tornare a sud. Le caverne qui sono vuote, a parte alcune vecchie ragnatele sul soffitto.",
+						"Alla fine, i personaggi si ritrovano sul lato sud-orientale della mappa, vicino ad alcuni gradini di pietra che conducono in una caverna in cui scorre un ruscello sotterraneo. I due {@creature Bandit|XMM|bandits} che originariamente aiutarono a rubare la ciotola si trovano in quella caverna.",
 						{
 							"type": "inset",
 							"name": "Preparing for a Fight",
 							"id": "02b",
 							"entries": [
-								"In this scene, the characters encounter two nonplayer characters (NPCs) who could engage the characters in combat. You should be ready in case the characters dive into a fight.",
+								"In questa scena, i personaggi incontrano due personaggi non giocanti (NPC) che potrebbero ingaggiare i personaggi in combattimento. Dovresti essere pronto nel caso in cui i personaggi si lancino in una rissa.",
 								{
 									"type": "entries",
 									"name": "Combat",
 									"id": "02c",
 									"entries": [
-										"If the characters want to fight the bandits, combat begins! Here's how that plays out:",
+										"Se i personaggi vogliono combattere i banditi, inizia il combattimento! Ecco come funziona:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -622,17 +622,17 @@
 												{
 													"type": "item",
 													"name": "Describe the Scene",
-													"entry": "Determine where everyone is standing at the start of the combat. Describe any other important details within the scene."
+													"entry": "Determina dove si trovano tutti all'inizio del combattimento. Descrivi eventuali altri dettagli importanti della scena."
 												},
 												{
 													"type": "item",
 													"name": "Roll Initiative",
-													"entry": "The players each roll a {@dice d20} and add their {@variantrule Initiative|XPHB} modifier. The character with the highest result goes first, and the characters act in descending order. The bandits act on Initiative 11."
+													"entry": "Ciascun giocatore lancia un {@dice d20} e aggiunge il proprio modificatore {@variantrule Initiative|XPHB}. Il personaggio con il risultato più alto inizia per primo, e i personaggi agiscono in ordine decrescente. I banditi agiscono secondo l'Iniziativa 11."
 												},
 												{
 													"type": "item",
 													"name": "Take Turns",
-													"entry": "On each of their turns, the characters and bandits can move up to a distance equal to their Speed. Before, after, or during any movement, the characters or the bandits can use their action to take the {@action Attack|XPHB} action, take another action, or move up to their {@variantrule Speed|XPHB} again."
+													"entry": "In ogni loro turno, i personaggi e i banditi possono muoversi fino ad una distanza pari alla loro Velocità. Prima, dopo o durante qualsiasi movimento, i personaggi o i banditi possono usare la loro azione per eseguire l'azione {@action Attack|XPHB}, eseguire un'altra azione o spostarsi nuovamente fino al loro {@variantrule Speed|XPHB}."
 												}
 											]
 										}
@@ -640,12 +640,12 @@
 								}
 							]
 						},
-						"The cave walls around this area are damp with moisture from the nearby stream. Read or paraphrase the following text as the characters near the curving passage, but before they reach the steps leading into the cavern.",
+						"Le pareti della grotta attorno a quest'area sono umide dell'umidità proveniente dal vicino ruscello. Leggi o parafrasa il seguente testo come i personaggi vicino al passaggio curvo, ma prima che raggiungano i gradini che conducono alla caverna.",
 						{
 							"type": "insetReadaloud",
 							"id": "02d",
 							"entries": [
-								"The passageway continues, stone steps leading upward. Beyond the steps, the sound of hushed, whispered voices echoes off the stone, incomprehensible but audible. You can try to get closer if you want to hear clearly and make out the words. But if you get too close without being quiet, they may also hear you. What do you do?"
+								"Il passaggio continua, gradini di pietra che conducono verso l'alto. Al di là dei gradini, il suono di voci sommesse e sussurrate risuona sulla pietra, incomprensibile ma udibile. Puoi provare ad avvicinarti se vuoi sentire chiaramente e distinguere le parole. Ma se ti avvicini troppo senza fare silenzio, potrebbero anche sentirti. Cosa fai?"
 							]
 						},
 						{
@@ -658,12 +658,12 @@
 							"width": 850,
 							"height": 1577
 						},
-						"The two {@creature Bandit|XMM|Bandits}, Vonnet and Dilly (an orc woman and a human woman), are in the cavern ahead. The pair sold the bowl to the goblins, then stealthily followed them back to this lair. They hope to steal the bowl back and return it to the keep for a reward so they can get paid twice.",
+						"I due {@creature Bandit|XMM|Bandits}, Vonnet e Dilly (una donna orca e una donna umana), sono nella caverna più avanti. La coppia vendette la ciotola ai goblin, poi li seguì furtivamente in questa tana. Sperano di rubare indietro la ciotola e restituirla al castello per una ricompensa in modo da poter essere pagati due volte.",
 						{
 							"type": "list",
 							"items": [
-								"{@b Sneaking}. Because of the curving passage and steps, the characters can't see the bandits, and the bandits can't see them. If any characters want to move closer to hear, they must take the {@action Hide|XPHB} action and succeed on a {@dc 10} Dexterity ({@skill Stealth|XPHB}) check. Those who succeed get to the bottom of the stairs and can hear what the bandits are discussing without being heard. If a character fails the check, the bandits hear them approach.",
-								"{@b Listening}. Characters can attempt to understand the whispered conversation without moving forward by taking the {@action Search|XPHB} action and attempting a {@dc 15} Wisdom ({@skill Perception|XPHB}) check. On a success, a character learns the information in the \"{@area Bandit Plans|032|x}\" section below. On a failure, the sound is still indecipherable."
+								"{@b Sneaking}. A causa del passaggio curvo e dei gradini, i personaggi non possono vedere i banditi, e i banditi non possono vederli. Se qualche personaggio vuole avvicinarsi per ascoltare, deve eseguire l'azione {@action Hide|XPHB} e superare una prova di {@dc 10} Destrezza ({@skill Stealth|XPHB}). Chi ci riesce arriva in fondo alle scale e può sentire di cosa stanno discutendo i banditi senza essere ascoltato. Se un personaggio fallisce la prova, i banditi lo sentono avvicinarsi.",
+								"{@b Listening}. I personaggi possono tentare di comprendere la conversazione sussurrata senza andare avanti intraprendendo l'azione {@action Search|XPHB} e tentando una prova di {@dc 15} Saggezza ({@skill Perception|XPHB}). In caso di successo, un personaggio apprende le informazioni nella sezione \"{@area Bandit Plans|032|x}\" di seguito. In caso di guasto, il suono è ancora indecifrabile."
 							],
 							"style": "list-hang-notitle"
 						},
@@ -672,8 +672,8 @@
 							"name": "Can Everyone Sneak?",
 							"id": "02e",
 							"entries": [
-								"Sometimes more than one person can attempt the same check. This is handled in a \"group check,\" which means that everyone can participate in the check, and if half or more of the characters succeed, the whole group succeeds.",
-								"However, that does not apply in either of these cases. If even one character fails the {@skill Stealth|XPHB} check, the bandits hear that person and are alerted. Conversely, if even one character succeeds on the {@skill Perception|XPHB} check to hear the voices clearly, then that person succeeds even if the other characters fail."
+								"A volte più di una persona può tentare lo stesso controllo. Questo viene gestito in un \"controllo di gruppo\", il che significa che tutti possono partecipare al controllo e, se metà o più dei personaggi riescono, l'intero gruppo riesce.",
+								"Ciò però non si applica in nessuno dei due casi. Se anche un solo personaggio fallisce il controllo {@skill Stealth|XPHB}, i banditi sentono quella persona e vengono allertati. Al contrario, se anche un solo personaggio riesce nella prova {@skill Perception|XPHB} per sentire chiaramente le voci, allora quella persona riesce anche se gli altri personaggi falliscono."
 							]
 						},
 						{
@@ -681,12 +681,12 @@
 							"name": "The Cavern",
 							"id": "02f",
 							"entries": [
-								"When the characters look into the chamber, read or paraphrase the following text.",
+								"Quando i personaggi guardano nella camera, leggi o parafrasa il seguente testo.",
 								{
 									"type": "insetReadaloud",
 									"id": "030",
 									"entries": [
-										"A human and an orc dressed in light armor huddle in an alcove in this area. On the west side of a passage leading north, a fast-moving stream flows south. One of them, the human and smaller of the two, is missing a boot and is avoiding putting weight on a bandaged foot."
+										"Un umano e un orco vestito con un'armatura leggera si stringono in un'alcova in quest'area. Sul lato ovest di un passaggio che porta a nord, un ruscello che scorre veloce scorre verso sud. A uno di loro, quello umano e più piccolo dei due, manca uno stivale e sta evitando di appoggiare il peso su un piede bendato."
 									]
 								},
 								{
@@ -694,7 +694,7 @@
 									"name": "Surprise",
 									"id": "031",
 									"entries": [
-										"If the bandits are caught unawares by the start of combat, they are {@status Surprised|XPHB}. This means they have Disadvantage on their {@variantrule Initiative|XPHB} roll: they roll the {@dice d20} twice and must use the lower roll."
+										"Se i banditi vengono colti di sorpresa all'inizio del combattimento, lo sono {@status Surprised|XPHB}. Ciò significa che hanno uno svantaggio sul loro tiro {@variantrule Initiative|XPHB}: lanciano il {@dice d20} due volte e devono usare il tiro più basso."
 									]
 								}
 							]
@@ -704,13 +704,13 @@
 							"name": "Bandit Plans",
 							"id": "032",
 							"entries": [
-								"If the characters hear the bandits' whispered conversation, they can learn the first bullet point below. They might also learn the rest by talking to the bandits.",
+								"Se i personaggi ascoltano la conversazione sussurrata dei banditi, possono apprendere il primo punto dell'elenco riportato di seguito. Potrebbero anche imparare il resto parlando con i banditi.",
 								{
 									"type": "list",
 									"items": [
-										"Vonnet and Dilly are trying to summon the courage to peek around the corner and see what the goblins are up to. They are weighing the odds of being able to survive a fight if they are spotted.",
-										"Dilly is missing a boot and has a wound on her foot from a spider bite after their fight with the spiders earlier. They defeated the spiders by killing them with their crossbows. She is missing 4 Hit Points.",
-										"When they sold the bowl to the goblins for 50 GP, there were only three goblins, but there may be more now."
+										"Vonnet e Dilly stanno cercando di trovare il coraggio di sbirciare dietro l'angolo e vedere cosa stanno facendo i goblin. Stanno valutando le probabilità di sopravvivere a uno scontro se vengono individuati.",
+										"A Dilly manca uno stivale e ha una ferita al piede causata da un morso di ragno dopo il loro combattimento con i ragni in precedenza. Hanno sconfitto i ragni uccidendoli con le loro balestre. Le mancano 4 Punti Ferita.",
+										"Quando vendettero la ciotola ai goblin per 50 GP, c'erano solo tre goblin, ma ora potrebbero essercene di più."
 									]
 								},
 								{
@@ -718,7 +718,7 @@
 									"name": "Giving Clues when Roleplaying",
 									"id": "033",
 									"entries": [
-										"Dilly the bandit was injured by the giant wolf spiders. The players may have retrieved her boot. When you describe the scene to the players, be sure to emphasize Dilly's limp and injury. This may prompt the players to give her back her boot, and maybe even use magic to heal her. If they do this, she might be more inclined not to trick the characters and run away with the bowl later."
+										"Dilly il bandito è stato ferito dai giganteschi ragni lupo. I giocatori potrebbero aver recuperato il suo stivale. Quando descrivi la scena ai giocatori, assicurati di enfatizzare la zoppia e l'infortunio di Dilly. Ciò potrebbe spingere i giocatori a restituirle lo stivale e forse anche a usare la magia per curarla. Se lo fanno, potrebbe essere più propensa a non ingannare i personaggi e scappare con la ciotola più tardi."
 									]
 								},
 								{
@@ -726,18 +726,18 @@
 									"name": "Attack or Talk?",
 									"id": "034",
 									"entries": [
-										"Vonnet and Dilly do not attack unless the characters attack them. As soon as either bandit takes damage, they flee the caves.",
-										"If the characters talk instead, Vonnet and Dilly offer to join forces to retrieve the bowl. They offer to split the reward money. A character who succeeds on a {@dc 15} Wisdom ({@skill Insight|XPHB}) check realizes that the pair may seem sincere now, but they are less than trustworthy.",
-										"Treasure. If the characters fight and defeat the two bandits, they find 60 GP on each bandit.",
+										"Vonnet e Dilly non attaccano a meno che i personaggi non li attacchino. Non appena uno dei banditi subisce danni, fugge dalle caverne.",
+										"Se invece i personaggi parlano, Vonnet e Dilly si offrono di unire le forze per recuperare la ciotola. Si offrono di dividere il denaro della ricompensa. Un personaggio che supera una prova di Saggezza {@dc 15} ({@skill Insight|XPHB}) si rende conto che la coppia può sembrare sincera ora, ma sono meno che affidabili.",
+										"Tesoro. Se i personaggi combattono e sconfiggono i due banditi, troveranno 60 GP su ciascun bandito.",
 										{
 											"type": "inset",
 											"name": "Roleplaying the Bandits",
 											"id": "035",
 											"entries": [
-												"Vonnet and Dilly are a pair of thieves who care only for money. The decisions they make, or the decisions you make for them, should keep their goals in mind. But what about their physical characteristics and personalities?",
-												"That is up to you! Are they similar or different? Is one the leader and the other a follower? Do they like each other, or is there some animosity brewing between them? You can add as much or as little of them to the story as you want.",
-												"Earlier in the boxed text, Dilly is described as a human woman and the smaller of the two bandits, while Vonnet is an orc woman That's the only thing you should remember. Otherwise, you can differentiate them in any way you want.",
-												"Sometimes waiting to see how the characters interact with them is the best option, because you can then adjust their personalities and actions to tell the best story. If a player asks the other players about potentially manipulating them, for example, you might decide there {@i is}animosity brewing between them to make them easier to manipulate. Or maybe one of the bandits is a long-lost acquaintance of one of the characters! If you're not short on time, getting into the storytelling of what the connection is to the character or characters can be a memorable tale!"
+												"Vonnet e Dilly sono una coppia di ladri a cui interessa solo il denaro. Le decisioni che prendono, o le decisioni che prendi tu per loro, dovrebbero tenere a mente i loro obiettivi. Ma che dire delle loro caratteristiche fisiche e personalità?",
+												"Dipende da te! Sono simili o diversi? Uno è il leader e l'altro un seguace? Si piacciono o c'è qualche animosità che nasce tra loro? Puoi aggiungerne quanti o meno alla storia che desideri.",
+												"All'inizio del testo, Dilly è descritta come una donna umana e la più piccola dei due banditi, mentre Vonnet è una donna orca. Questa è l'unica cosa che dovresti ricordare. Altrimenti, puoi differenziarli come preferisci.",
+												"A volte aspettare di vedere come i personaggi interagiscono con loro è l'opzione migliore, perché puoi adattare le loro personalità e azioni per raccontare la storia migliore. Se un giocatore chiede agli altri giocatori di manipolarli potenzialmente, ad esempio, potresti decidere che si sta formando un'animosità {@i is} tra loro per renderli più facili da manipolare. O forse uno dei banditi è un conoscente perduto da tempo di uno dei personaggi! Se non hai poco tempo, entrare nella narrazione di quale sia la connessione con il personaggio o i personaggi può essere una storia memorabile!"
 											]
 										}
 									]
@@ -747,14 +747,14 @@
 									"name": "Trap",
 									"id": "036",
 									"entries": [
-										"A trap set by the goblins protects their lair.",
+										"Una trappola tesa dai goblin protegge la loro tana.",
 										{
 											"type": "inset",
 											"name": "Introducing a Trap",
 											"id": "037",
 											"entries": [
-												"You must make decisions on how to present the information or allow for checks to find the trap. Should you give the characters a clue that the tripwire is there? Should you allow them to make a check before they set off the trap with the tripwire?",
-												"This is more of an art than a science. If a player says that their character moves quickly through the area, or if they do so during combat while distracted, you can simply trigger the trap, since the character did not hesitate. If a player says they are carefully studying the door for anything strange, you can allow them to make the appropriate check to find clues to the trap."
+												"È necessario prendere decisioni su come presentare le informazioni o consentire controlli per individuare la trappola. Dovresti dare ai personaggi un indizio sulla presenza del filo? Dovresti consentire loro di effettuare un controllo prima di far scattare la trappola con il filo?",
+												"Questa è più un'arte che una scienza. Se un giocatore dice che il suo personaggio si muove velocemente nell'area, o se lo fa durante il combattimento mentre è distratto, puoi semplicemente attivare la trappola, poiché il personaggio non ha esitato. Se un giocatore dice che sta studiando attentamente la porta per individuare qualcosa di strano, puoi permettergli di effettuare il controllo appropriato per trovare indizi sulla trappola."
 											]
 										},
 										{
@@ -762,13 +762,13 @@
 											"name": "Rubble Trap",
 											"id": "038",
 											"entries": [
-												"A tripwire located in the mushroom patch near the stream is rigged to pull heavy stones down on anyone moving through the area.",
+												"Un filo metallico situato nella zona dei funghi vicino al ruscello è attrezzato per tirare giù pietre pesanti su chiunque si muova nell'area.",
 												{
 													"type": "inset",
 													"name": "Search and Study Actions",
 													"id": "039",
 													"entries": [
-														"Two actions characters can take are {@action Search|XPHB} and {@action Study|XPHB}. Searching is trying to notice something, like looking for anything important in a cluttered room. Studying generally involves using knowledge or logic to recall or interpret information. Noticing a tripwire would be a Search action, while figuring out that the wire would pull down the stones is a Study action. In this instance, you don't want to require both actions to get the full picture, so it's usually best to allow either type of action to reveal the presence of the tripwire and the trap."
+														"Due azioni che i personaggi possono intraprendere sono {@action Search|XPHB} e {@action Study|XPHB}. Cercare significa cercare di notare qualcosa, come cercare qualcosa di importante in una stanza disordinata. Lo studio generalmente implica l'uso della conoscenza o della logica per ricordare o interpretare le informazioni. Notare un filo che allerta sarebbe un'azione Cercare, mentre capire che il filo potrebbe abbattere le pietre è un'azione Studiare. In questo caso, non è necessario richiedere entrambe le azioni per avere un quadro completo, quindi in genere è meglio consentire a entrambi i tipi di azione di rivelare la presenza del filo che allerta e della trappola."
 													]
 												},
 												{
@@ -778,15 +778,15 @@
 														{
 															"type": "item",
 															"name": "Detecting the Trap",
-															"entry": "If the characters take the Search or Study action to examine the rubble in this area and succeed on a {@dc 15} Wisdom ({@skill Perception|XPHB}) or Intelligence ({@skill Investigation|XPHB}) check, they notice a tripwire. A character who notices the trap can easily step over the tripwire."
+															"entry": "Se i personaggi eseguono l'azione Cerca o Studia per esaminare le macerie in quest'area e superano una prova di {@dc 15} Saggezza ({@skill Perception|XPHB}) o Intelligenza ({@skill Investigation|XPHB}), notano un tripwire. Un personaggio che nota la trappola può facilmente scavalcare il filo."
 														},
 														{
 															"type": "item",
 															"name": "Triggering the Trap",
 															"entries": [
-																"If anyone triggers the tripwire, loose stones on the wall to the east of the mushroom patch fall, spilling rocks into the mushroom patch. Each character in that area when the trap is triggered makes a {@dc 12} Dexterity saving throw, taking {@damage 1d6} Bludgeoning damage on a failed save or half as much damage on a successful one from the barrage of rocks.",
-																"If the trap is triggered, or if the characters are loud in some other way, the goblins in the room beyond are aware of the intrusion and can't be surprised.",
-																"If the characters were quiet and avoided the trap, the goblins are surprised when the characters open the door."
+																"Se qualcuno fa scattare il filo, le pietre sciolte sul muro a est della zona dei funghi cadranno, rovesciando le rocce nella zona dei funghi. Ogni personaggio nell'area in cui viene attivata la trappola effettua un tiro salvezza di Destrezza {@dc 12} e subisce {@damage 1d6} danni contundenti se fallisce il tiro salvezza o la metà dei danni se lo supera, dalla raffica di rocce.",
+																"Se la trappola viene attivata, o se i personaggi fanno rumore in qualche altro modo, i goblin nella stanza oltre sono consapevoli dell'intrusione e non possono essere sorpresi.",
+																"Se i personaggi sono rimasti silenziosi ed hanno evitato la trappola, i goblin saranno sorpresi quando i personaggi apriranno la porta."
 															]
 														}
 													]
@@ -796,8 +796,8 @@
 													"name": "Saving Throws and Trap Damage",
 													"id": "03a",
 													"entries": [
-														"If a character is in the area where the rocks fall, they make a saving throw. In the case of this trap, they roll a {@dice d20} and add the number next to Dexterity under Saving Throws. Compare the players' results to the DC of 12.",
-														"Roll a {@dice d6}. Anyone who got a total of 11 or lower on their saving throw loses Hit Points equal to the roll of the die. Anyone who gets a 12 or higher takes half that number, rounded down. So if you roll a 5 on the {@dice d6}, the characters who failed the saving throw take 5 Bludgeoning damage, and the characters who succeeded on the saving throw take 2 Bludgeoning damage."
+														"Se un personaggio si trova nell'area in cui cadono le rocce, effettua un tiro salvezza. Nel caso di questa trappola, tirano un {@dice d20} e aggiungono il numero accanto a Destrezza sotto Tiri Salvezza. Confronta i risultati dei giocatori con la CD di 12.",
+														"Tira un {@dice d6}. Chiunque abbia ottenuto un totale di 11 o meno nel tiro salvezza perde Punti Ferita pari al tiro del dado. Chiunque ottenga 12 o più prende la metà di quel numero, arrotondato per difetto. Quindi, se ottieni 5 su {@dice d6}, i personaggi che hanno fallito il tiro salvezza subiscono 5 danni contundenti, mentre i personaggi che hanno superato il tiro salvezza subiscono 2 danni contundenti."
 													]
 												}
 											]
@@ -809,9 +809,9 @@
 									"name": "Secret Door",
 									"id": "03b",
 									"entries": [
-										"The secret door into the final goblin lair area on the eastern cavern wall leading into the room is designed to blend in with the wall. If a character takes the Study action to examine the walls, they find the secret door with a successful {@dc 10} Intelligence ({@skill Investigation|XPHB}) check.",
-										"If the trap was triggered, the chamber's shaking causes the secret door to open a bit, allowing the characters to notice it without needing to make any checks.",
-										"The secret door is neither trapped nor locked and is easily opened. On the other side of the door is the lair of the goblins, where they bask in the glory of their newly purchased prize: the Bowl of Plenty."
+										"La porta segreta nell'ultima area della tana dei goblin sulla parete orientale della caverna che conduce alla stanza è progettata per fondersi con il muro. Se un personaggio esegue l'azione Studia per esaminare i muri, trova la porta segreta con una prova riuscita di {@dc 10} Intelligenza ({@skill Investigation|XPHB}).",
+										"Se la trappola è stata attivata, lo scuotimento della camera fa sì che la porta segreta si apra leggermente, permettendo ai personaggi di notarla senza bisogno di effettuare alcuna prova.",
+										"La porta segreta non è né intrappolata né chiusa a chiave e si apre facilmente. Dall'altro lato della porta c'è la tana dei goblin, dove si crogiolano nella gloria del loro premio appena acquistato: la Ciotola dell'Abbondanza."
 									]
 								}
 							]
@@ -831,16 +831,16 @@
 									"width": 1700,
 									"height": 1100
 								},
-								"When the characters enter the room, adjust this text depending on whether the goblins are surprised. If they're surprised, they are standing around the bowl and not looking at the entry, and you can read the box text below as it is. If they're not surprised, they are in a defensive formation with weapons drawn, and the centipede is at the front of the formation. You can adjust the last sentences of the first and second paragraphs so the goblins are ready to fight.",
+								"Quando i personaggi entrano nella stanza, modifica questo testo a seconda che i goblin siano sorpresi. Se sono sorpresi, stanno intorno alla ciotola e non guardano la voce, e puoi leggere il testo della casella qui sotto così com'è. Se non vengono sorpresi, sono in formazione difensiva con le armi sguainate e il millepiedi è in testa alla formazione. Puoi modificare le ultime frasi del primo e del secondo paragrafo in modo che i goblin siano pronti a combattere.",
 								{
 									"type": "insetReadaloud",
 									"id": "03d",
 									"entries": [
-										"These two connected rooms have an open door between them and a makeshift forge in the back of the second room. The forge is currently stoked to a white-hot state. A silver bowl, about a foot wide, sits in the fire. Four goblins stand around the room admiring the bowl.",
-										"One of the goblins wears topaz jewelry and holds a leash. The leash leads to a giant centipede. As you enter, the decorated goblin shouts, \"Kill the intruders!\" and lets go of the leash."
+										"Queste due stanze collegate hanno una porta aperta tra loro e una fucina improvvisata sul retro della seconda stanza. La fucina è attualmente alimentata fino allo stato incandescente. Nel fuoco c'è una ciotola d'argento, larga circa trenta centimetri. Quattro goblin stanno in giro per la stanza ammirando la ciotola.",
+										"Uno dei goblin indossa gioielli con topazio e tiene un guinzaglio. Il guinzaglio porta a un millepiedi gigante. Quando entri, il goblin decorato grida: \"Uccidete gli intrusi!\" e lascia andare il guinzaglio."
 									]
 								},
-								"The five {@creature Goblin Warrior|XMM|Goblin Warriors} include one particularly tough and devious goblin called Sprika. She has tamed and trained a {@creature Giant Centipede|XMM} to act as bodyguards. She carries a gnarled staff that glows with a sickly green light, which she calls her \"magic stick.\" She's bluffed the others into believing she's a spellcaster, but the glowing staff just has a magical glow and functions as though it has the spell {@spell Continual Flame|XPHB} cast upon it. During the combat, Sprika continues to shout. She instructs the other goblins to keep the characters away from the bowl, for it is a gift for a powerful \"master\" in the Caves of Chaos.",
+								"I cinque {@creature Goblin Warrior|XMM|Goblin Warriors} includono un goblin particolarmente duro e subdolo chiamato Sprika. Ha domato e addestrato un {@creature Giant Centipede|XMM} a fungere da guardie del corpo. Porta con sé un bastone nodoso che brilla di una luce verde malaticcia, che lei chiama il suo \"bastone magico\". Ha bluffato gli altri facendo loro credere di essere un'incantatrice, ma il bastone luminoso ha solo un bagliore magico e funziona come se avesse l'incantesimo {@spell Continual Flame|XPHB} lanciato su di esso. Durante il combattimento Sprika continua a gridare. Ordina agli altri goblin di tenere i personaggi lontani dalla ciotola, poiché è un dono per un potente \"maestro\" nelle Grotte del Caos.",
 								{
 									"type": "entries",
 									"id": "03e",
@@ -850,9 +850,9 @@
 											"name": "Tactics",
 											"id": "03f",
 											"entries": [
-												"The goblins, except Sprika, fire arrows from their Shortbows on their first turn, then move to engage in melee combat. Sprika prefers to lead from the back of the group, stowing her \"magic stick\" and continuing to use her Shortbow unless threatened in melee. The giant centipede moves to the nearest character and attacks.",
-												"Sprika refuses to surrender. If Sprika is killed, the rest of the goblins flee the caves. The centipede, however, fights to the death.",
-												"{@b Vonnet and Dilly}. If the characters made a deal with the two bandits, they pretend to engage in combat, but they don't attack. Instead, they stay back until it looks like they can get to the bowl. Unfortunately for them, the bowl is too hot to pick up, so they simply try to escape once they realize this."
+												"I goblin, eccetto Sprika, lanciano frecce dai loro archi corti nel loro primo turno, quindi si muovono per impegnarsi in un combattimento corpo a corpo. Sprika preferisce guidare dal fondo del gruppo, riponendo il suo \"bastone magico\" e continuando a usare il suo arco corto a meno che non sia minacciata in corpo a corpo. Il millepiedi gigante si sposta verso il personaggio più vicino e attacca.",
+												"Sprika rifiuta di arrendersi. Se Sprika viene uccisa, il resto dei goblin fuggono dalle caverne. Il millepiedi, invece, combatte fino alla morte.",
+												"{@b Vonnet and Dilly}. Se i personaggi hanno stretto un patto con i due banditi, fingono di impegnarsi in un combattimento, ma non attaccano. Invece, rimangono indietro finché non sembra che possano raggiungere la ciotola. Sfortunatamente per loro, la ciotola è troppo calda per essere raccolta, quindi cercano semplicemente di scappare una volta che se ne rendono conto."
 											]
 										},
 										{
@@ -860,7 +860,7 @@
 											"name": "The Forge",
 											"id": "040",
 											"entries": [
-												"The makeshift forge in area 4a occupies the spot at the back of the second room. Whenever a creature is pushed into the forge or starts its turn there, it takes {@damage 2d6} Fire damage. The goblins and centipedes do not use this tactic."
+												"La fucina improvvisata nell'area 4a occupa il posto in fondo alla seconda stanza. Ogni volta che una creatura viene spinta nella fucina o inizia lì il suo turno, subisce {@damage 2d6} danni da fuoco. I goblin e i millepiedi non usano questa tattica."
 											]
 										},
 										{
@@ -868,18 +868,18 @@
 											"name": "Treasure",
 											"id": "041",
 											"entries": [
-												"Sprika's \"magic stick\" glows with sickly green Continual Flame. Sprika's topaz jewelry can be sold for 50 GP.",
+												"Il \"bastone magico\" di Sprika brilla di una fiamma continua verde malaticcio. I gioielli con topazio di Sprika possono essere venduti per 50 GP.",
 												{
 													"type": "inset",
 													"name": "Adjusting Encounter Difficulty",
 													"id": "042",
 													"entries": [
-														"This adventure should accommodate four to six players, each playing a character included with the adventure. If you have fewer than four players or more than six players, the content might be too difficult or too easy. For this encounter, make the following changes.",
+														"Questa avventura dovrebbe ospitare da quattro a sei giocatori, ognuno dei quali interpreta un personaggio incluso nell'avventura. Se hai meno di quattro giocatori o più di sei giocatori, il contenuto potrebbe essere troppo difficile o troppo facile. Per questo incontro, apporta le seguenti modifiche.",
 														{
 															"type": "list",
 															"items": [
-																"If there are fewer than four characters, remove one {@creature Goblin Warrior|XMM} and the {@creature Giant Centipede|XMM}.",
-																"If there are more than six characters, add one {@creature Goblin Warrior|XMM} and one {@creature Giant Centipede|XMM}."
+																"Se sono presenti meno di quattro caratteri, rimuovi uno {@creature Goblin Warrior|XMM} e il {@creature Giant Centipede|XMM}.",
+																"Se sono presenti più di sei caratteri, aggiungine uno {@creature Goblin Warrior|XMM} e uno {@creature Giant Centipede|XMM}."
 															]
 														}
 													]
@@ -895,14 +895,14 @@
 							"name": "Conclusion",
 							"id": "043",
 							"entries": [
-								"The characters can take possession of the Bowl of Plenty after defeating the goblins and their pet. But first, they must pull the bowl out of the fire and let it cool for a few minutes.",
-								"When the Bowl of Plenty cools, however, the characters are in for a final surprise.",
+								"I personaggi possono impossessarsi della Ciotola dell'Abbondanza dopo aver sconfitto i goblin e il loro animale domestico. Ma prima devono togliere la ciotola dal fuoco e lasciarla raffreddare per qualche minuto.",
+								"Quando la Ciotola dell'Abbondanza si raffredda, tuttavia, i personaggi avranno un'ultima sorpresa.",
 								{
 									"type": "inset",
 									"name": "Cooling the Bowl",
 									"id": "044",
 									"entries": [
-										"If the characters ask about how to get the bowl out of the fire, tell them that they can check their equipment or search the room for options. Dumping water on it\u2014from their {@item Waterskin|XPHB|waterskins} or the stream outside\u2014would cool the bowl quickly. They might also ask to search the room; tell them that there is a long metal pole they can use to lift the silver bowl out of the forge. You can decide if any {@variantrule D20 Test|XPHB|D20 Tests} are needed to do this, but if there is no consequence for failure, then it's usually not necessary to force the players to make a check."
+										"Se i personaggi chiedono come togliere la ciotola dal fuoco, digli che possono controllare il loro equipaggiamento o cercare nella stanza delle opzioni. Scaricare acqua su di essa, dal loro {@item Waterskin|XPHB|waterskins} o dal ruscello esterno, raffredderebbe rapidamente la ciotola. Potrebbero anche chiedere di perquisire la stanza; dì loro che c'è un lungo palo di metallo che possono usare per sollevare la ciotola d'argento fuori dalla fucina. Puoi decidere se sono necessari {@variantrule D20 Test|XPHB|D20 Tests} per farlo, ma se non ci sono conseguenze in caso di fallimento, di solito non è necessario forzare i giocatori a fare un controllo."
 									]
 								}
 							]
@@ -914,14 +914,14 @@
 					"name": "The Silver Spirit of Plenty",
 					"id": "045",
 					"entries": [
-						"What no one knows is that the Bowl of Plenty is more than a symbol. An actual spirit lives inside the silver bowl. The damage to the bowl and the intense fire from the goblins have harmed the Silver Spirit of the Bowl, forcing it to leave the bowl.",
-						"When the characters manage to pull the Bowl of Plenty off the forge, it begins to cool. The bowl is still dented, however. When the bowl is cooling, read the following text.",
+						"Quello che nessuno sa è che la Ciotola dell'Abbondanza è più di un simbolo. Un vero spirito vive all'interno della ciotola d'argento. Il danno alla ciotola e l'intenso fuoco dei goblin hanno danneggiato lo Spirito d'Argento della ciotola, costringendolo a lasciare la ciotola.",
+						"Quando i personaggi riescono a estrarre la Ciotola dell'Abbondanza dalla fucina, inizia a raffreddarsi. La ciotola però è ancora ammaccata. Quando la ciotola si sta raffreddando, leggi il testo seguente.",
 						{
 							"type": "insetReadaloud",
 							"id": "046",
 							"entries": [
-								"With the Bowl of Plenty off the forge fire, it begins to cool. As it does so, a wispy, incorporeal form emerges from the bowl. It looks like a ghostly pixie, but it's sickly and pale. Its wings droop, and it coughs.",
-								"\"I am the Silver Spirit of the Bowl. Damage to the bowl has made me ill. I'm afraid that if the bowl is not fixed soon, I might die. Can you fix the bowl so I may return to it and recuperate?\""
+								"Con la Ciotola dell'Abbondanza spenta dal fuoco della forgia, inizia a raffreddarsi. Mentre lo fa, una forma esile e incorporea emerge dalla ciotola. Sembra un folletto spettrale, ma è malaticcio e pallido. Le sue ali si abbassano e tossisce.",
+								"\"Io sono lo Spirito d'Argento della Coppa. I danni alla ciotola mi hanno fatto ammalare. Ho paura che se la ciotola non viene riparata presto, potrei morire. Puoi aggiustare la ciotola in modo che io possa ritornarci e riprendermi?\""
 							]
 						},
 						{
@@ -929,12 +929,12 @@
 							"name": "The Bowl Repair Challenge",
 							"id": "047",
 							"entries": [
-								"The Silver Spirit of the Bowl has 4 Hit Points, and it loses 1 HP for each round that it is not in the Bowl of Plenty. The Silver Spirit cannot enter the bowl until it has been fixed.",
+								"Lo Spirito Argentato della Ciotola ha 4 Punti Ferita e perde 1 HP per ogni round in cui non si trova nella Ciotola dell'Abbondanza. Lo Spirito d'Argento non può entrare nella ciotola finché non viene riparata.",
 								{
 									"type": "entries",
 									"name": "Keeping the Spirit Alive",
 									"entries": [
-										"Characters can use healing magic to give the Spirit more Hit Points, but its maximum is 10 Hit Points, and it continues to lose 1 HP each round unless the bowl is fixed."
+										"I personaggi possono usare la magia curativa per dare allo Spirito più Punti Ferita, ma il suo massimo è 10 Punti Ferita, e continua a perdere 1 HP ogni round a meno che la ciotola non venga riparata."
 									],
 									"id": "04d"
 								},
@@ -942,7 +942,7 @@
 									"type": "entries",
 									"name": "Vonnet and Dilly",
 									"entries": [
-										"If the bandit pair is still with the characters, they attempt to steal the bowl again, not caring about the fate of the Silver Spirit. The characters might have to fight them off while trying to fix the bowl."
+										"Se la coppia di banditi è ancora con i personaggi, tentano di nuovo di rubare la ciotola, senza preoccuparsi del destino dello Spirito d'Argento. I personaggi potrebbero dover respingerli mentre cercano di riparare la ciotola."
 									],
 									"id": "04e"
 								},
@@ -950,9 +950,9 @@
 									"type": "entries",
 									"name": "Fixing the Bowl",
 									"entries": [
-										"The bowl can be fixed by a character who uses their action on their turn to repair it in some way. Some of the characters might have special tools. A character who tries to repair it must succeed on a {@dc 10} check. Strength, Dexterity, or Intelligence are good abilities to use. Characters that are proficient with Carpenter's Tools, Smith's Tools, or Tinker's Tools would be able to use those effectively.",
-										"The characters must succeed on three ability checks to properly repair the bowl. If a character has a {@spell Mending|XPHB} spell, they can only cast it once; {@spell Mending|XPHB} only repairs nonmagical objects, and the bowl regains its magic if the spell is used on it. If a character casts {@spell Mending|XPHB}, the characters only need to succeed on two ability checks to repair the bowl.",
-										"If the characters fail five ability checks before succeeding on three of them, they accidentally break the bowl. They can still return it to the keep, but the Silver Spirit of the Bowl fades away into nothingness."
+										"La ciotola può essere riparata da un personaggio che usa la sua azione nel proprio turno per ripararla in qualche modo. Alcuni personaggi potrebbero avere strumenti speciali. Un personaggio che tenta di ripararlo deve superare una prova {@dc 10}. Forza, Destrezza o Intelligenza sono buone abilità da usare. I personaggi che sono competenti con gli attrezzi da falegname, gli attrezzi da fabbro o gli attrezzi da armeggiatore sarebbero in grado di usarli in modo efficace.",
+										"I personaggi devono superare tre prove di abilità per riparare adeguatamente la ciotola. Se un personaggio ha un incantesimo {@spell Mending|XPHB}, può lanciarlo solo una volta; {@spell Mending|XPHB} ripara solo oggetti non magici e la ciotola riacquista la sua magia se viene usato l'incantesimo su di essa. Se un personaggio lancia {@spell Mending|XPHB}, i personaggi devono solo riuscire in due prove di abilità per riparare la ciotola.",
+										"Se i personaggi falliscono cinque prove di abilità prima di superarne tre, rompono accidentalmente la ciotola. Possono ancora restituirlo al mastio, ma lo Spirito d'Argento della Coppa svanisce nel nulla."
 									],
 									"id": "04f"
 								},
@@ -961,13 +961,13 @@
 									"name": "Taking On a Noncombat Challenge",
 									"id": "048",
 									"entries": [
-										"At some points in a D&D game, you might have a challenge that is not a combat but is still tense and exciting. In this case, the characters need to quickly repair the silver bowl before the magical spirit that inhabits it perishes.",
-										"The characters might come up with unique ways to try to help repair the bowl. Try to use these ideas to tell the story of the bowl's repair. As the players brainstorm their ideas, engage them in a discussion. If the idea is preposterous, like smashing the bowl against the floor to fix it, it's okay to say the idea won't work. However, it's better to work with the players by figuring out how a similar action might work. Instead of smashing it, for example, a character might use their Strength to pound the dent back into shape. That is a similar idea that helps work toward the best outcome.",
+										"In alcuni punti di una partita di D&D, potresti dover affrontare una sfida che non è un combattimento ma è comunque tesa ed emozionante. In questo caso, i personaggi devono riparare rapidamente la ciotola d'argento prima che lo spirito magico che la abita muoia.",
+										"I personaggi potrebbero inventare modi unici per cercare di aiutare a riparare la ciotola. Prova a utilizzare queste idee per raccontare la storia della riparazione della ciotola. Mentre i giocatori discutono le loro idee, coinvolgili in una discussione. Se l'idea è assurda, come sbattere la ciotola contro il pavimento per ripararla, va bene dire che l'idea non funzionerà. Tuttavia, è meglio lavorare con i giocatori per capire come potrebbe funzionare un'azione simile. Invece di romperla, ad esempio, un personaggio potrebbe usare la sua Forza per rimettere in forma l'ammaccatura. Questa è un’idea simile che aiuta a lavorare verso il miglior risultato.",
 										{
 											"type": "entries",
 											"name": "Dealing with the Bandits",
 											"entries": [
-												"One method of making memorable encounters is to mix up what is happening in a scene. Instead of just having a combat, roleplaying, or ability checks, scenes can do several of them at once. This scene provides that potential. As the characters attempt to repair the bowl and save the Spirit of the Bowl, Vonnet and Dilly can try to grab it and run. This might mean some characters need to fight the bandits to get the bowl back in time for the others to repair it."
+												"Un metodo per realizzare incontri memorabili è mescolare ciò che sta accadendo in una scena. Invece di avere solo controlli di combattimento, interpretazione di ruolo o abilità, le scene possono eseguirne diversi contemporaneamente. Questa scena offre questo potenziale. Mentre i personaggi tentano di riparare la ciotola e salvare lo spirito della ciotola, Vonnet e Dilly possono provare ad afferrarla e scappare. Ciò potrebbe significare che alcuni personaggi devono combattere i banditi per riportare indietro la ciotola in tempo affinché gli altri possano ripararla."
 											],
 											"id": "050"
 										},
@@ -975,8 +975,8 @@
 											"type": "entries",
 											"name": "Fixing the Bowl",
 											"entries": [
-												"Since there is a time limit on fixing the bowl, you can use an Initiative roll to keep track of what's happening, whose turn it is, and how fast the action is moving. At the end of every round, the Spirit of the Bowl loses a Hit Point if it is not in the repaired bowl.",
-												"If a character has a tool listed on their character sheet under Equipment, they also have proficiency with that tool, so they can add their {@variantrule Proficiency|XPHB|Proficiency Bonus} to any ability check they make that uses the tool. If they also have proficiency in a skill that's used with that check, they have Advantage on the check too."
+												"Dato che c'è un limite di tempo per riparare la ciotola, puoi usare un tiro di Iniziativa per tenere traccia di cosa sta succedendo, di chi è il turno e quanto velocemente si sta muovendo l'azione. Alla fine di ogni round, lo Spirito della Ciotola perde un Punto Ferita se non si trova nella ciotola riparata.",
+												"Se un personaggio ha uno strumento elencato sulla sua scheda del personaggio sotto Equipaggiamento, ha anche competenza con quello strumento, quindi può aggiungere il suo {@variantrule Proficiency|XPHB|Proficiency Bonus} a qualsiasi prova di abilità che effettua che utilizza lo strumento. Se hanno anche competenza in un'abilità utilizzata con quella prova, hanno anche Vantaggio alla prova."
 											],
 											"id": "051"
 										},
@@ -984,7 +984,7 @@
 											"type": "entries",
 											"name": "Using the Help Action",
 											"entries": [
-												"Characters who are not actively making the ability check to fix the bowl can use the {@action Help|XPHB} action on their turns to assist those who are actively fixing the bowl. By assisting in this way, the helping character chooses the character they are going to assist. That character has Advantage on their check to repair the bowl."
+												"I personaggi che non stanno effettuando attivamente la prova di abilità per riparare la ciotola possono usare l'azione {@action Help|XPHB} nei loro turni per aiutare coloro che stanno attivamente riparando la ciotola. Aiutando in questo modo, il personaggio che aiuta sceglie il personaggio che aiuterà. Quel personaggio ha Vantaggio nella prova per riparare la ciotola."
 											],
 											"id": "052"
 										}
@@ -997,7 +997,7 @@
 							"name": "Conclusion",
 							"id": "049",
 							"entries": [
-								"The characters can take the Bowl of Plenty back to the Keep on the Borderlands after defeating the enemies. They return it to a hero's welcome and their promised reward of 20 GP each. If the Silver Spirit of the Bowl is safely in the repaired bowl, the characters are given an additional 20 GP each."
+								"I personaggi possono riportare la Ciotola dell'Abbondanza alla Fortezza nelle Terre di Confine dopo aver sconfitto i nemici. Lo restituiscono con il benvenuto di un eroe e con la ricompensa promessa di 20 GP ciascuno. Se lo Spirito d'Argento della Coppa è al sicuro nella ciotola riparata, ai personaggi vengono dati 20 GP aggiuntivi ciascuno."
 							]
 						},
 						{
@@ -1005,8 +1005,8 @@
 							"name": "Continuing the Story",
 							"id": "04a",
 							"entries": [
-								"If the players are interested in more adventures, you can continue the story in the {@i D&D Starter Set: Heroes of the Borderlands} available in September 2025. That set provides more information on this area, and plenty of opportunity for more adventures!",
-								"The players can also create more customized versions of their characters, or completely new characters, using D&D Beyond."
+								"Se i giocatori sono interessati ad altre avventure, puoi continuare la storia nel {@i D&D Starter Set: Heroes of the Borderlands} disponibile a settembre 2025. Questo set fornisce maggiori informazioni su quest'area e tantissime opportunità per altre avventure!",
+								"I giocatori possono anche creare versioni più personalizzate dei loro personaggi, o personaggi completamente nuovi, utilizzando D&D Beyond."
 							]
 						}
 					]
@@ -1046,7 +1046,7 @@
 						{
 							"type": "item",
 							"name": "Cartographer:",
-							"entry": "Dyson Logos"
+							"entry": "Loghi Dyson"
 						},
 						{
 							"type": "item",

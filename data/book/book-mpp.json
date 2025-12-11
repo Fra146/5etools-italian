@@ -9,18 +9,18 @@
 				{
 					"type": "quote",
 					"entries": [
-						"\"Morte. A self-professed 'famous' planar traveler who often poses as a mimir to\u2013\""
+						"\"Morte. Un viaggiatore planare sedicente 'famoso' che spesso si atteggia a mimir per...\""
 					],
 					"from": "Partial mimir response on the subject \"Morte\""
 				},
 				{
 					"type": "quote",
 					"entries": [
-						"\"Whoa, hey, hey! Zip it there, bud! I don't know who got you a defective mimir, Chief, but I'll tell you what's what from here out.\""
+						"\"Whoa, ehi, ehi! Chiudilo lì, amico! Non so chi ti ha procurato un mimir difettoso, capo, ma da qui in poi ti dirò io cosa succederà.\""
 					],
 					"by": "Morte"
 				},
-				"Planar travelers often find {@item Mimir|SatO|mimirs} invaluable in learning about reality and avoiding doom at the hands, claws, fangs, tentacles, proboscises, ovipositors, and other appendages of the multiverse's countless predatory and lethally grumpy inhabitants.",
+				"I viaggiatori planari spesso trovano {@item Mimir|SatO|mimirs} prezioso per conoscere la realtà ed evitare la fine per mano, artigli, zanne, tentacoli, proboscidi, ovopositori e altre appendici degli innumerevoli abitanti predatori e letalmente scontrosi del multiverso.",
 				{
 					"type": "image",
 					"href": {
@@ -32,23 +32,23 @@
 					"width": 1700,
 					"height": 1136
 				},
-				"{@creature Morte|ToFW}, however, isn't a {@item mimir|SatO}.",
-				"A floating skull with a penchant for speaking his mind and claiming expertise, Morte is one of Sigil's many unique inhabitants and an accomplished explorer of the planes. For the right amount of coin or a future favor, Morte is quick to offer his advice, insights, and commentary on the many inhabitants of the planes. This book contains useful data gleaned from Morte's stories and ramblings. Still, the planes are vast and varied, and what Morte experienced as true might not match all circumstances. Reader beware.",
+				"{@creature Morte|ToFW}, tuttavia, non è un {@item mimir|SatO}.",
+				"Un teschio fluttuante con la propensione a esprimere quello che pensa e a rivendicare competenza, Morte è uno dei tanti abitanti unici di Sigil e un abile esploratore dei piani. In cambio della giusta quantità di denaro o di un favore futuro, Morte si affretta a offrire i suoi consigli, approfondimenti e commenti sui numerosi abitanti dei piani. Questo libro contiene dati utili raccolti dalle storie e dalle divagazioni di Morte. Tuttavia, i piani sono vasti e vari e ciò che Morte sperimenta come vero potrebbe non corrispondere a tutte le circostanze. Lettore attento.",
 				{
 					"type": "section",
 					"name": "Using a Stat Block",
 					"page": 4,
 					"id": "001",
 					"entries": [
-						"This book is a companion to the {@book Monster Manual|MM} and uses a similar presentation. If you are unfamiliar with the monster stat block format, read the {@book introduction|MM|0} of the {@book Monster Manual|MM} before proceeding. That book explains stat block terminology and gives rules for various monster traits\u2014information that isn't repeated here.",
-						"The {@book Stat Blocks by Challenge Rating table|MPP|0|Stat Blocks by Challenge Rating} sorts the creatures in this book by challenge rating. Most of these creatures appear in the \"{@book Bestiary A to Z|MPP|1}\" section, but those marked with an asterisk (*) appear in the \"{@book Faction Agents|MPP|1|Faction Agents}\" section.",
+						"Questo libro è un complemento di {@book Monster Manual|MM} e utilizza una presentazione simile. Se non hai familiarità con il formato del blocco delle statistiche dei mostri, leggi il {@book introduction|MM|0} del {@book Monster Manual|MM} prima di procedere. Quel libro spiega la terminologia dei blocchi delle statistiche e fornisce regole per vari tratti dei mostri: informazioni che non vengono ripetute qui.",
+						"Il {@book Stat Blocks by Challenge Rating table|MPP|0|Stat Blocks by Challenge Rating} ordina le creature in questo libro in base al grado di sfida. La maggior parte di queste creature appare nella sezione \"{@book Bestiary A to Z|MPP|1}\", ma quelle contrassegnate con un asterisco (*) appaiono nella sezione \"{@book Faction Agents|MPP|1|Faction Agents}\".",
 						{
 							"type": "entries",
 							"name": "Unusual Attacks and Magic",
 							"page": 4,
 							"id": "002",
 							"entries": [
-								"Some creatures have weapons that deal unusual damage types and spellcasting that functions in an atypical way. Such an exception is a special feature of a stat block and represents how the creature uses its weapon or casts its spells; the exception has no effect on how a weapon or spell functions for a different creature."
+								"Alcune creature sono dotate di armi che infliggono tipi di danni insoliti e di incantesimi che funzionano in modo atipico. Tale eccezione è una caratteristica speciale di un blocco delle statistiche e rappresenta il modo in cui la creatura usa la sua arma o lancia i suoi incantesimi; l'eccezione non ha effetto su come funziona un'arma o un incantesimo per una creatura diversa."
 							]
 						},
 						{
@@ -57,7 +57,7 @@
 							"page": 4,
 							"id": "003",
 							"entries": [
-								"If a stat block contains the name of a class in parentheses under the creature's name, the creature is considered a member of that class for the purpose of meeting prerequisites for magic items.",
+								"Se un blocco delle statistiche contiene il nome di una classe tra parentesi sotto il nome della creatura, la creatura è considerata un membro di quella classe allo scopo di soddisfare i prerequisiti per gli oggetti magici.",
 								{
 									"type": "image",
 									"href": {
@@ -86,267 +86,267 @@
 										[
 											"0",
 											"{@creature Cranium rat squeaker|MPP}",
-											"Aberration"
+											"Aberrazione"
 										],
 										[
 											"0",
 											"{@creature Sunfly|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"1",
 											"{@creature Swarm of sunflies|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"1",
 											"{@creature Vargouille reflection|MPP}",
-											"Fiend"
+											"Diavolo"
 										],
 										[
 											"2",
 											"{@creature Dabus|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"2",
 											"{@creature Lantern archon|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"2",
 											"{@creature Musteval guardinal|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"3",
 											"{@creature Bariaur wanderer|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"3",
 											"{@creature Bleak Cabal void soother|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"3",
 											"{@creature Githzerai traveler|MPP}",
-											"Aberration"
+											"Aberrazione"
 										],
 										[
 											"3",
 											"{@creature Harmonium peacekeeper|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"3",
 											"{@creature Society of Sensation muse|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"3",
 											"{@creature Transcendent Order instinct|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"4",
 											"{@creature Hands of Havoc fire starter|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"4",
 											"{@creature Heralds of Dust remnant|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"4",
 											"{@creature Hound archon|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"4",
 											"{@creature Mind's Eye matter smith|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"5",
 											"{@creature Athar null|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"5",
 											"{@creature Cranium rat squeaker swarm|MPP}",
-											"Aberration"
+											"Aberrazione"
 										],
 										[
 											"5",
 											"{@creature Fated shaker|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"5",
 											"{@creature Time dragon wyrmling|MPP}",
-											"Dragon"
+											"Drago"
 										],
 										[
 											"6",
 											"{@creature Doomguard rot blade|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"6",
 											"{@creature Eater of knowledge|MPP}",
-											"Aberration"
+											"Aberrazione"
 										],
 										[
 											"6",
 											"{@creature Equinal guardinal|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"7",
 											"{@creature Githzerai uniter|MPP}",
-											"Aberration"
+											"Aberrazione"
 										],
 										[
 											"7",
 											"{@creature Mercykiller bloodhound|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"8",
 											"{@creature Decaton modron|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"8",
 											"{@creature Harmonium captain|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"8",
 											"{@creature Transcendent Order conduit|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"8",
 											"{@creature Warden archon|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"9",
 											"{@creature Avoral guardinal|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"9",
 											"{@creature Ferrumach rilmani|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"9",
 											"{@creature Fraternity of Order law bender|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"9",
 											"{@creature Githzerai futurist|MPP}",
-											"Aberration"
+											"Aberrazione"
 										],
 										[
 											"10",
 											"{@creature Darkweaver|MPP}",
-											"Aberration"
+											"Aberrazione"
 										],
 										[
 											"10",
 											"{@creature Maelephant|MPP}",
-											"Fiend"
+											"Diavolo"
 										],
 										[
 											"10",
 											"{@creature Nonaton modron|MPP}",
-											"Construct"
+											"Costruire"
 										],
 										[
 											"11",
 											"{@creature Farastu demodand|MPP}",
-											"Fiend"
+											"Diavolo"
 										],
 										[
 											"11",
 											"{@creature Octon modron|MPP}",
-											"Construct"
+											"Costruire"
 										],
 										[
 											"11",
 											"{@creature Young time dragon|MPP}",
-											"Dragon"
+											"Drago"
 										],
 										[
 											"12",
 											"{@creature Cuprilach rilmani|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"12",
 											"{@creature Doomguard doom lord|MPP}*",
-											"Humanoid"
+											"Umanoide"
 										],
 										[
 											"12",
 											"{@creature Septon modron|MPP}",
-											"Construct"
+											"Costruire"
 										],
 										[
 											"13",
 											"{@creature Hexton modron|MPP}",
-											"Construct"
+											"Costruire"
 										],
 										[
 											"13",
 											"{@creature Kelubar demodand|MPP}",
-											"Fiend"
+											"Diavolo"
 										],
 										[
 											"14",
 											"{@creature Shemeshka|MPP}",
-											"Fiend"
+											"Diavolo"
 										],
 										[
 											"16",
 											"{@creature Shator demodand|MPP}",
-											"Fiend"
+											"Diavolo"
 										],
 										[
 											"17",
 											"{@creature Aurumach rilmani|MPP}",
-											"Celestial"
+											"Celeste"
 										],
 										[
 											"17",
 											"{@creature Baernaloth|MPP}",
-											"Fiend"
+											"Diavolo"
 										],
 										[
 											"18",
 											"{@creature Adult time dragon|MPP}",
-											"Dragon"
+											"Drago"
 										],
 										[
 											"20",
 											"{@creature Kolyarut|MPP}",
-											"Construct"
+											"Costruire"
 										],
 										[
 											"22",
 											"{@creature Planar incarnate|MPP}",
-											"Celestial or Fiend"
+											"Celestiale o Demone"
 										],
 										[
 											"26",
 											"{@creature Ancient time dragon|MPP}",
-											"Dragon"
+											"Drago"
 										]
 									],
 									"footnotes": [
@@ -363,8 +363,8 @@
 					"page": 4,
 					"id": "004",
 					"entries": [
-						"Petitioners are former mortals. They've lived, ceased living, and now exist on the Outer Planes. They typically inhabit a plane that shares their alignment or the realm of a deity they worship. Some, however, become lost and wander the planes or make new homes for themselves elsewhere on the Great Wheel.",
-						"You can make any creature that isn't a Celestial or Fiend a petitioner by giving it the following traits:",
+						"I firmatari sono ex mortali. Hanno vissuto, hanno cessato di vivere e ora esistono sui Piani Esterni. Di solito abitano un piano che condivide il loro allineamento o il reame di una divinità che adorano. Alcuni, tuttavia, si perdono e vagano per i piani o si costruiscono nuove case altrove sulla Grande Ruota.",
+						"Puoi rendere qualsiasi creatura che non sia un Celestiale o un Demone un supplicante conferendole i seguenti tratti:",
 						{
 							"type": "inset",
 							"id": "005",
@@ -375,7 +375,7 @@
 									"page": 4,
 									"id": "006",
 									"entries": [
-										"The creature's creature type changes to Celestial or Fiend (DM's choice), and the creature can't leave the Outer Planes. Portals or magic that allow transport beyond the Outer Planes don't affect this creature."
+										"Il tipo di creatura della creatura cambia in Celestiale o Demone (a scelta del DM) e la creatura non può lasciare i Piani Esterni. Portali o magie che consentono il trasporto oltre i Piani Esterni non influenzano questa creatura."
 									]
 								},
 								{
@@ -384,7 +384,7 @@
 									"page": 4,
 									"id": "007",
 									"entries": [
-										"A dead petitioner can be returned to life only by the {@spell true resurrection} spell or the {@spell wish} spell. If affected by these spells, a petitioner chooses whether to return in its original mortal form or as a petitioner."
+										"Un postulante morto può essere riportato in vita solo tramite l'incantesimo {@spell true resurrection} o l'incantesimo {@spell wish}. Se influenzato da questi incantesimi, il postulante sceglie se ritornare nella sua forma mortale originale o come postulante."
 									]
 								}
 							]
@@ -395,7 +395,7 @@
 							"page": 4,
 							"id": "008",
 							"entries": [
-								"Mortals that die eventually have their souls return as petitioners in far-flung reaches of the Outer Planes. There, they manifest as idealized versions of themselves. These forms might be similar to the forms they had in life or be those of entirely different creatures. A petitioner or another Celestial or Fiend that is destroyed can reconstitute on a plane that shares its alignment after 100 years, or it might choose to become one with that plane and never return. A creature that re-forms on the planes multiple times becomes increasingly dissimilar from its original mortal form."
+								"I mortali che muoiono alla fine vedono le loro anime ritornare come supplicanti nelle zone più remote dei Piani Esterni. Lì si manifestano come versioni idealizzate di se stessi. Queste forme potrebbero essere simili a quelle che avevano in vita o essere quelle di creature completamente diverse. Un postulante o un altro Celestiale o Immondo che viene distrutto può ricostituirsi su un piano che condivide il suo allineamento dopo 100 anni, oppure potrebbe scegliere di diventare tutt'uno con quel piano e non tornare mai più. Una creatura che si riforma sui piani più volte diventa sempre più dissimile dalla sua forma mortale originale."
 							]
 						}
 					]
@@ -406,12 +406,12 @@
 					"page": 6,
 					"id": "009",
 					"entries": [
-						"The Outer Planes are home to powerful forces of good and evil, chaos and order. Over time, these forces can alter creatures exposed to them. Due to their proximity to the Outer Planes, the inhabitants of the Outlands' gate-towns and nearby regions often exhibit traits associated with specific Outer Planes. Creatures might also have such traits if they dwell in other realms steeped in the energy of an Outer Plane\u2014whether such a place be in the Outlands, on the Material Plane, or elsewhere.",
-						"This section provides customization options for creatures exposed to the energies of the Outer Planes for months or years. Creatures influenced by a plane can have as many or as few of these traits as you choose.",
+						"I Piani Esterni ospitano potenti forze del bene e del male, del caos e dell'ordine. Nel corso del tempo, queste forze possono alterare le creature ad esse esposte. A causa della loro vicinanza ai Piani Esterni, gli abitanti delle città-porta delle Terre Esterne e delle regioni vicine spesso mostrano tratti associati a specifici Piani Esterni. Le creature potrebbero avere tali tratti anche se abitano in altri regni immersi nell'energia di un Piano Esterno, sia che tale luogo si trovi nelle Terre Esterne, sul Piano Materiale o altrove.",
+						"Questa sezione fornisce opzioni di personalizzazione per le creature esposte alle energie dei Piani Esterni per mesi o anni. Le creature influenzate da un piano possono avere tanti o pochi di questi tratti a tua scelta.",
 						{
 							"type": "quote",
 							"entries": [
-								"\"Anything you think you know about critters from the Material Plane doesn't apply in the Outlands, Chief. Your dog back home ain't nothing like a hound from the Nine Hells or Mount Celestia. Only thing those planar sorts have in common is that neither wants to hear about how you're 'totally a dog person.'\""
+								"\"Tutto quello che pensi di sapere sulle creature del Piano Materiale non si applica alle Terre Esterne, Capo. Il tuo cane a casa non assomiglia per niente a un segugio dei Nove Inferni o del Monte Celestia. L'unica cosa che questi tipi planari hanno in comune è che nessuno dei due vuole sentire dire che sei 'totalmente una persona cane.'\""
 							],
 							"by": "Morte"
 						},
@@ -421,7 +421,7 @@
 							"page": 6,
 							"id": "00a",
 							"entries": [
-								"In addition to the plane-specific traits you can grant a creature, the influence of a plane changes a creature's alignment to match the plane's alignment, as shown on the Outer Plane Alignments table. If a plane a creature is influenced by has more than one alignment, you choose the creature's alignment from the options listed.",
+								"Oltre ai tratti specifici del piano che puoi conferire a una creatura, l'influenza di un piano cambia l'allineamento di una creatura per adattarlo all'allineamento del piano, come mostrato nella tabella Allineamenti del Piano Esterno. Se un piano da cui una creatura è influenzata ha più di un allineamento, scegli l'allineamento della creatura dalle opzioni elencate.",
 								{
 									"type": "table",
 									"caption": "Outer Plane Alignments",
@@ -508,7 +508,7 @@
 							"page": 6,
 							"id": "00b",
 							"entries": [
-								"Creatures influenced by the Abyss gain demonic features, such as horns, scales, and black blood. A creature influenced by the Abyss also gains one or more of following traits of your choice:",
+								"Le creature influenzate dall'Abisso acquisiscono caratteristiche demoniache, come corna, scaglie e sangue nero. Una creatura influenzata dall'Abisso ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "00c",
@@ -519,7 +519,7 @@
 											"page": 6,
 											"id": "00d",
 											"entries": [
-												"Whenever the creature deals bludgeoning, piercing, or slashing damage, it can change the damage type to necrotic."
+												"Ogni volta che la creatura infligge danni contundenti, perforanti o taglienti, può cambiare il tipo di danno in necrotico."
 											]
 										},
 										{
@@ -528,7 +528,7 @@
 											"page": 6,
 											"id": "00e",
 											"entries": [
-												"The creature has advantage on saving throws it makes to avoid or end the {@condition poisoned} condition on itself."
+												"La creatura ha vantaggio ai tiri salvezza effettuati per evitare o porre fine alla condizione {@condition poisoned} su se stessa."
 											]
 										},
 										{
@@ -537,7 +537,7 @@
 											"page": 6,
 											"id": "00f",
 											"entries": [
-												"The creature deals double damage to objects and structures."
+												"La creatura infligge danni doppi a oggetti e strutture."
 											]
 										}
 									]
@@ -550,7 +550,7 @@
 							"page": 6,
 							"id": "010",
 							"entries": [
-								"Creatures influenced by Acheron have rough, scarred skin that resembles armor or pitted metal. A creature influenced by Acheron also gains one or more of following traits of your choice:",
+								"Le creature influenzate da Acheron hanno una pelle ruvida e sfregiata che ricorda un'armatura o un metallo bucherellato. Una creatura influenzata da Acheron ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "011",
@@ -561,7 +561,7 @@
 											"page": 6,
 											"id": "012",
 											"entries": [
-												"Whenever the creature reduces another creature to 0 hit points with a melee attack on its turn, it gains 10 {@book temporary hit points|PHB|9|Temporary Hit Points}, and it can take a bonus action to move up to its speed without provoking {@action opportunity attack||opportunity attacks}."
+												"Ogni volta che la creatura riduce un'altra creatura a 0 punti ferita con un attacco in mischia nel suo turno, guadagna 10 {@book temporary hit points|PHB|9|Temporary Hit Points} e può eseguire un'azione bonus per spostarsi alla sua velocità senza provocare {@action opportunity attack||opportunity attacks}."
 											]
 										},
 										{
@@ -570,7 +570,7 @@
 											"page": 6,
 											"id": "013",
 											"entries": [
-												"When the creature drops to 0 hit points, it turns into a pile of rust. Any equipment it was wearing or carrying is unaffected."
+												"Quando la creatura scende a 0 punti ferita, si trasforma in un mucchio di ruggine. Qualsiasi equipaggiamento indossato o trasportato non è influenzato."
 											]
 										},
 										{
@@ -579,7 +579,7 @@
 											"page": 6,
 											"id": "014",
 											"entries": [
-												"The creature has advantage on an attack roll against a target if at least one of the creature's allies is within 5 feet of the target and the ally doesn't have the {@condition incapacitated} condition."
+												"La creatura ha vantaggio su un tiro per colpire contro un bersaglio se almeno uno degli alleati della creatura si trova entro 1,5 metri dal bersaglio e l'alleato non ha la condizione {@condition incapacitated}."
 											]
 										}
 									]
@@ -603,7 +603,7 @@
 							"page": 6,
 							"id": "015",
 							"entries": [
-								"Creatures influenced by Arborea change color to match the season, and their eyes glint with vibrant hues. A creature influenced by Arborea also gains one or more of following traits of your choice:",
+								"Le creature influenzate da Arborea cambiano colore per adattarsi alla stagione e i loro occhi brillano di tonalità vibranti. Una creatura influenzata da Arborea ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "016",
@@ -614,7 +614,7 @@
 											"page": 6,
 											"id": "017",
 											"entries": [
-												"Whenever the creature casts a spell or makes a spell attack, the faint sound of merry music can be heard by it and those affected by its magic."
+												"Ogni volta che la creatura lancia un incantesimo o effettua un attacco con incantesimo, il debole suono di una musica allegra può essere udito da lei e da coloro che sono colpiti dalla sua magia."
 											]
 										},
 										{
@@ -623,7 +623,7 @@
 											"page": 6,
 											"id": "018",
 											"entries": [
-												"At the start of its turn, the creature can gain advantage on attack rolls during that turn, but attack rolls against the creature have advantage until the start of its next turn."
+												"All'inizio del suo turno, la creatura può ottenere vantaggio ai tiri per colpire durante quel turno, ma i tiri per colpire contro la creatura hanno vantaggio fino all'inizio del suo turno successivo."
 											]
 										}
 									]
@@ -636,7 +636,7 @@
 							"page": 7,
 							"id": "019",
 							"entries": [
-								"Creatures influenced by Arcadia gain perfectly symmetrical features and appear eternally youthful or vigorous. A creature influenced by Arcadia also gains one or more of following traits of your choice:",
+								"Le creature influenzate dall'Arcadia acquisiscono caratteristiche perfettamente simmetriche e appaiono eternamente giovani o vigorose. Una creatura influenzata da Arcadia ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "01a",
@@ -647,7 +647,7 @@
 											"page": 7,
 											"id": "01b",
 											"entries": [
-												"If the creature fails a Strength, Dexterity, or Constitution saving throw, it can choose to succeed instead."
+												"Se la creatura fallisce un tiro salvezza su Forza, Destrezza o Costituzione, può invece scegliere di superarlo."
 											]
 										},
 										{
@@ -656,7 +656,7 @@
 											"page": 7,
 											"id": "01c",
 											"entries": [
-												"An invisible, magical aura of confidence and hope surrounds the creature. When another creature that has the {@condition frightened} condition starts its turn within 5 feet of the creature, the {@condition frightened} condition affecting it is suppressed for 1 minute. When this suppression ends, the condition resumes if its duration hasn't expired."
+												"Un'aura invisibile e magica di fiducia e speranza circonda la creatura. Quando un'altra creatura che ha la condizione {@condition frightened} inizia il suo turno entro 5 piedi dalla creatura, la condizione {@condition frightened} che la influenza viene soppressa per 1 minuto. Al termine di questa soppressione, la condizione riprende se la sua durata non è scaduta."
 											]
 										}
 									]
@@ -669,7 +669,7 @@
 							"page": 7,
 							"id": "01d",
 							"entries": [
-								"Creatures influenced by the Beastlands gain wilder or more animalistic features, such as larger eyes, thicker fur, or more prominent canine teeth. Beasts influenced by the Beastlands are often affected per the {@spell awaken} spell\u2014though normal Beasts also typically range through these areas in large numbers. A creature influenced by the Beastlands also gains one or more of following traits of your choice:",
+								"Le creature influenzate dalle Terre Bestiali acquisiscono caratteristiche più selvagge o animalesche, come occhi più grandi, pelliccia più spessa o canini più prominenti. Le bestie influenzate dalle Terre Bestiali sono spesso influenzate dall'incantesimo {@spell awaken}, sebbene anche le Bestie normali si spostino in genere in queste aree in gran numero. Una creatura influenzata dalle Terre Bestiali ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "01e",
@@ -680,7 +680,7 @@
 											"page": 7,
 											"id": "01f",
 											"entries": [
-												"This creature can comprehend and verbally communicate with Beasts and Plants."
+												"Questa creatura può comprendere e comunicare verbalmente con animali e piante."
 											]
 										},
 										{
@@ -689,7 +689,7 @@
 											"page": 7,
 											"id": "020",
 											"entries": [
-												"The creature can see {@condition invisible} creatures and objects as if they were visible."
+												"La creatura può vedere {@condition invisible} creature e oggetti come se fossero visibili."
 											]
 										},
 										{
@@ -698,7 +698,7 @@
 											"page": 7,
 											"id": "021",
 											"entries": [
-												"The creature leaves no tracks to indicate where it has been or where it's headed."
+												"La creatura non lascia tracce che indichino dove è stata o dove è diretta."
 											]
 										}
 									]
@@ -711,7 +711,7 @@
 							"page": 7,
 							"id": "022",
 							"entries": [
-								"Creatures influenced by Bytopia appear carved, constructed, or sculpted by an expert artisan. A creature influenced by Bytopia also gains one or more of following traits of your choice:",
+								"Le creature influenzate da Bytopia appaiono scolpite, costruite o scolpite da un artigiano esperto. Una creatura influenzata da Bytopia ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "023",
@@ -722,24 +722,24 @@
 											"page": 7,
 											"id": "024",
 											"entries": [
-												"After being in continuous physical contact with a Tiny nonmagical object for 1 minute, the creature can imbue the object with one of the following magical properties (choose one or roll a {@dice d6}):",
+												"Dopo essere stata in contatto fisico continuo con un oggetto non magico Minuscolo per 1 minuto, la creatura può infondere nell'oggetto una delle seguenti proprietà magiche (scegli una o lancia un {@dice d6}):",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
 													"items": [
 														{
 															"type": "item",
-															"name": "1\u20133:",
-															"entry": "Light. The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet."
+															"name": "1–3:",
+															"entry": "Leggero. L'oggetto emette luce intensa in un raggio di 1,5 metri e luce fioca per altri 1,5 metri."
 														},
 														{
 															"type": "item",
-															"name": "4\u20136:",
-															"entry": "Sound. The object continuously emits the creature's choice of a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away."
+															"name": "4–6:",
+															"entry": "Suono. L'oggetto emette continuamente un suono non verbale scelto dalla creatura (vento, onde, cinguettio o simili). Il fenomeno scelto è percepibile fino a 10 piedi di distanza."
 														}
 													]
 												},
-												"The magical property lasts for 24 hours."
+												"La proprietà magica dura 24 ore."
 											]
 										},
 										{
@@ -748,7 +748,7 @@
 											"page": 7,
 											"id": "025",
 											"entries": [
-												"Whenever the creature casts a spell or makes a spell attack, the faint sounds of hammering and sawing can be heard by it and those affected by its magic."
+												"Ogni volta che la creatura lancia un incantesimo o effettua un attacco con incantesimo, i deboli suoni del martello e del taglio possono essere uditi da lei e da coloro che sono colpiti dalla sua magia."
 											]
 										}
 									]
@@ -761,7 +761,7 @@
 							"page": 8,
 							"id": "026",
 							"entries": [
-								"Creatures influenced by Carceri appear as if they'd been imprisoned underground for a long period; their hair is matted, their nails or claws are long and dirty, and they have marks as if they were bound by chains or rope. A creature influenced by Carceri also gains one or more of following traits of your choice:",
+								"Le creature influenzate da Carceri appaiono come se fossero state imprigionate sottoterra per un lungo periodo; i loro capelli sono arruffati, le loro unghie o artigli sono lunghi e sporchi e hanno segni come se fossero legati da catene o corde. Una creatura influenzata da Carceri ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "027",
@@ -772,7 +772,7 @@
 											"page": 8,
 											"id": "028",
 											"entries": [
-												"An invisible, magical aura of hopelessness surrounds the creature. Any other creature that starts its turn within 5 feet of the creature has its speed reduced by 10 feet until it is reduced to 0 hit points, regains hit points, or gains {@book temporary hit points|PHB|9|Temporary Hit Points}. This reduction never exceeds 10 feet."
+												"Un'aura invisibile e magica di disperazione circonda la creatura. Qualsiasi altra creatura che inizia il suo turno entro 5 piedi dalla creatura vede la sua velocità ridotta di 10 piedi finché non viene ridotta a 0 punti ferita, recupera punti ferita o guadagna {@book temporary hit points|PHB|9|Temporary Hit Points}. Questa riduzione non supera mai i 10 piedi."
 											]
 										},
 										{
@@ -781,7 +781,7 @@
 											"page": 8,
 											"id": "029",
 											"entries": [
-												"An invisible, magic-disrupting aura surrounds the creature. Any creature that teleports into or out of a space within 20 feet of the creature must make a {@dc 15} Constitution saving throw, taking 16 ({@dice 3d10}) force damage on a failed save, or half as much damage on a successful one."
+												"Un'aura invisibile e magica circonda la creatura. Qualsiasi creatura che si teletrasporta dentro o fuori da uno spazio entro 20 piedi dalla creatura deve effettuare un tiro salvezza su Costituzione {@dc 15} e subisce 16 ({@dice 3d10}) danni da forza se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 											]
 										}
 									]
@@ -794,7 +794,7 @@
 							"page": 8,
 							"id": "02a",
 							"entries": [
-								"Creatures influenced by Elysium have seasonal flowers sprouting from their heads, and they faintly smell of herbs or spices. A creature influenced by Elysium also gains one or more of following traits of your choice:",
+								"Le creature influenzate dall'Elysium hanno fiori stagionali che spuntano dalle loro teste e odorano leggermente di erbe o spezie. Una creatura influenzata dall'Elysium ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "02b",
@@ -805,7 +805,7 @@
 											"page": 8,
 											"id": "02c",
 											"entries": [
-												"The creature no longer needs food or water, and the creature can have no more than 4 levels of {@condition exhaustion}."
+												"La creatura non ha più bisogno di cibo o acqua e non può avere più di 4 livelli di {@condition exhaustion}."
 											]
 										},
 										{
@@ -814,7 +814,7 @@
 											"page": 8,
 											"id": "02d",
 											"entries": [
-												"An invisible, magical aura of peace surrounds the creature. Any other creature that starts its turn within 5 feet of the creature has disadvantage on attack rolls until it is attacked, takes damage, or witnesses an ally being harmed."
+												"Un'aura invisibile e magica di pace circonda la creatura. Qualsiasi altra creatura che inizia il suo turno entro 1,5 metri da essa subisce svantaggio ai tiri per colpire finché non viene attaccata, non subisce danni o non vede un alleato essere ferito."
 											]
 										}
 									]
@@ -827,7 +827,7 @@
 							"page": 8,
 							"id": "02e",
 							"entries": [
-								"Creatures influenced by Gehenna appear haggard and have long, crooked limbs. A creature influenced by Gehenna also gains one or more of following traits of your choice:",
+								"Le creature influenzate dalla Geenna appaiono smunte e hanno arti lunghi e storti. Una creatura influenzata dalla Gehenna ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "02f",
@@ -838,7 +838,7 @@
 											"page": 8,
 											"id": "030",
 											"entries": [
-												"The creature can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of itself."
+												"La creatura può individuare, tramite l'olfatto, la posizione di metalli preziosi e pietre, come monete e gemme, entro 18 metri da sé."
 											]
 										},
 										{
@@ -847,7 +847,7 @@
 											"page": 8,
 											"id": "031",
 											"entries": [
-												"An invisible, magical aura surrounds the creature. Whenever another creature regains hit points within 5 feet of the creature, half of those regained hit points (rounded down) go to the creature generating the aura instead."
+												"Un'aura magica e invisibile circonda la creatura. Ogni volta che un'altra creatura recupera punti ferita entro 1,5 metri da essa, metà di quei punti ferita recuperati (arrotondati per difetto) vanno invece alla creatura che genera l'aura."
 											]
 										}
 									]
@@ -871,7 +871,7 @@
 							"page": 7,
 							"id": "032",
 							"entries": [
-								"Creatures influenced by Hades often have dour, gray features and feel cold to the touch. A creature influenced by Hades also gains one or more of following traits of your choice:",
+								"Le creature influenzate da Ade hanno spesso lineamenti cupi e grigi e risultano fredde al tatto. Una creatura influenzata da Ade ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "033",
@@ -882,7 +882,7 @@
 											"page": 9,
 											"id": "034",
 											"entries": [
-												"An invisible, magical aura surrounds the creature. Colors are muted within 30 feet of the creature, and other creatures in that area have disadvantage on Charisma checks and Charisma saving throws."
+												"Un'aura magica e invisibile circonda la creatura. I colori vengono disattivati ​​entro 9 metri dalla creatura, e le altre creature in quell'area hanno svantaggio alle prove di Carisma e ai tiri salvezza su Carisma."
 											]
 										},
 										{
@@ -891,7 +891,7 @@
 											"page": 9,
 											"id": "035",
 											"entries": [
-												"Nonmagical flames within 10 feet of the creature are extinguished."
+												"Le fiamme non magiche entro 3 metri dalla creatura vengono estinte."
 											]
 										},
 										{
@@ -900,7 +900,7 @@
 											"page": 9,
 											"id": "036",
 											"entries": [
-												"When the creature dies, it re-forms somewhere in Hades as a {@creature larva|DMG} (see the {@book Dungeon Master's Guide|DMG}) in {@dice 1d10} days."
+												"Quando la creatura muore, si riforma da qualche parte nell'Ade come {@creature larva|DMG} (vedi {@book Dungeon Master's Guide|DMG}) in {@dice 1d10} giorni."
 											]
 										},
 										{
@@ -909,7 +909,7 @@
 											"page": 9,
 											"id": "037",
 											"entries": [
-												"Whenever the creature is fully in darkness or dim light, it becomes semi-incorporeal and gains resistance to bludgeoning, piercing, and slashing damage. If the creature takes radiant damage, its Shadowy Form trait is suppressed for 1 hour."
+												"Ogni volta che la creatura è completamente nell'oscurità o nella luce fioca, diventa semi-incorporea e ottiene resistenza ai danni contundenti, perforanti e taglienti. Se la creatura subisce danni radiosi, il suo tratto Forma Ombrosa viene soppresso per 1 ora."
 											]
 										}
 									]
@@ -922,7 +922,7 @@
 							"page": 9,
 							"id": "038",
 							"entries": [
-								"Creatures influenced by Limbo have their appearance shift at each dawn. Their skin might change color, or their features might morph into unnatural, even abstract, configurations. A creature influenced by Limbo also gains one or more of following traits of your choice:",
+								"Le creature influenzate dal Limbo cambiano aspetto ad ogni alba. La loro pelle potrebbe cambiare colore o le loro caratteristiche potrebbero trasformarsi in configurazioni innaturali, persino astratte. Una creatura influenzata dal Limbo ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "039",
@@ -933,7 +933,7 @@
 											"page": 9,
 											"id": "03a",
 											"entries": [
-												"The creature can cast the {@spell thaumaturgy} cantrip, choosing a magical effect at random. Charisma is the spellcasting ability for this spell."
+												"La creatura può lanciare il trucchetto {@spell thaumaturgy}, scegliendo un effetto magico a caso. Il Carisma è l'abilità da incantatore di questo incantesimo."
 											]
 										},
 										{
@@ -942,25 +942,25 @@
 											"page": 9,
 											"id": "03b",
 											"entries": [
-												"When the creature scores a critical hit or takes a critical hit, chaotic energy bursts from the creature, creating one the following effects (choose one or roll a {@dice d6}):",
+												"Quando la creatura mette a segno un colpo critico o subisce un colpo critico, l'energia caotica fuoriesce dalla creatura, creando uno dei seguenti effetti (scegli uno o lancia un {@dice d6}):",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
 													"items": [
 														{
 															"type": "item",
-															"name": "1\u20132:",
-															"entry": "Melting Terrain. For 1 minute, the ground within 20 feet of the creature melts into a mud-like texture, becoming {@book difficult terrain|PHB|8|Difficult Terrain}."
+															"name": "1–2:",
+															"entry": "Terreno in fusione. Per 1 minuto, il terreno entro 20 piedi dalla creatura si scioglie in una consistenza simile al fango, diventando {@book difficult terrain|PHB|8|Difficult Terrain}."
 														},
 														{
 															"type": "item",
-															"name": "3\u20134:",
-															"entry": "Miraculous Resilience. This creature gains {@book temporary hit points|PHB|9|Temporary Hit Points} equal to half the damage the critical hit dealt (rounded up)."
+															"name": "3–4:",
+															"entry": "Resilienza miracolosa. Questa creatura guadagna {@book temporary hit points|PHB|9|Temporary Hit Points} pari alla metà del danno inflitto dal colpo critico (arrotondato per eccesso)."
 														},
 														{
 															"type": "item",
-															"name": "5\u20136:",
-															"entry": "Disrupted Gravity. Each creature within 20 feet of the creature must succeed on a {@dc 15} Constitution saving throw or rise vertically, up to 20 feet, and remain magically suspended there for 1 minute. While suspended in this way, a creature has the {@condition restrained} condition."
+															"name": "5–6:",
+															"entry": "Gravità disturbata. Ogni creatura entro 20 piedi dalla creatura deve riuscire in un tiro salvezza su Costituzione {@dc 15} o salire verticalmente, fino a 20 piedi, e rimanere magicamente sospesa lì per 1 minuto. Mentre è sospesa in questo modo, una creatura ha la condizione {@condition restrained}."
 														}
 													]
 												}
@@ -972,7 +972,7 @@
 											"page": 9,
 											"id": "03c",
 											"entries": [
-												"When the creature dies, a {@creature slaad tadpole} bursts from the creature's chest."
+												"Quando la creatura muore, un {@creature slaad tadpole} esplode dal petto della creatura."
 											]
 										}
 									]
@@ -996,7 +996,7 @@
 							"page": 9,
 							"id": "03d",
 							"entries": [
-								"Creatures influenced by Mechanus have angular, symmetrical features, and their skin gains a metallic sheen. A creature influenced by Mechanus also gains one or more of following traits of your choice:",
+								"Le creature influenzate da Mechanus hanno caratteristiche spigolose e simmetriche e la loro pelle acquisisce una lucentezza metallica. Una creatura influenzata da Mechanus ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "03e",
@@ -1007,7 +1007,7 @@
 											"page": 9,
 											"id": "03f",
 											"entries": [
-												"Lightning damage can't reduce the creature below 1 hit point. Whenever the creature takes lightning damage, one other creature within 5 feet of it (determined randomly) takes half as much damage."
+												"I danni da fulmine non possono ridurre la creatura al di sotto di 1 punto ferita. Ogni volta che la creatura subisce danni da fulmine, un'altra creatura entro 1,5 metri da essa (determinata casualmente) subisce la metà dei danni."
 											]
 										},
 										{
@@ -1016,7 +1016,7 @@
 											"page": 9,
 											"id": "040",
 											"entries": [
-												"After being in continuous physical contact with a nonmagical object for 1 minute, the creature can magically repair the object as though it had cast a {@spell mending} spell on it."
+												"Dopo essere rimasta in contatto fisico continuo con un oggetto non magico per 1 minuto, la creatura può riparare magicamente l'oggetto come se avesse lanciato un incantesimo {@spell mending} su di esso."
 											]
 										}
 									]
@@ -1029,7 +1029,7 @@
 							"page": 10,
 							"id": "041",
 							"entries": [
-								"Creatures influenced by Mount Celestia gain angelic features, such as gold- or platinum-colored skin, eyes, or hair. Spectral feathers might rise from a creature's back, or a halo might crown its head. A creature influenced by Mount Celestia also gains one or more of following traits of your choice:",
+								"Le creature influenzate da Monte Celestia acquisiscono caratteristiche angeliche, come pelle, occhi o capelli color oro o platino. Piume spettrali potrebbero sollevarsi dalla schiena di una creatura o un'aureola potrebbe incoronare la sua testa. Una creatura influenzata da Monte Celestia ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "042",
@@ -1040,7 +1040,7 @@
 											"page": 10,
 											"id": "043",
 											"entries": [
-												"When the creature dies, its body releases a spectral orb that hovers in the same space and lasts for 1 minute. Any good-aligned creature that starts its turn within 5 feet of the orb regains {@dice 1d6} hit points."
+												"Quando la creatura muore, il suo corpo rilascia una sfera spettrale che fluttua nello stesso spazio e dura 1 minuto. Qualsiasi creatura di allineamento buono che inizia il suo turno entro 1,5 metri dalla sfera recupera {@dice 1d6} punti ferita."
 											]
 										},
 										{
@@ -1049,7 +1049,7 @@
 											"page": 10,
 											"id": "044",
 											"entries": [
-												"The creature sheds bright light in a 10-foot radius and dim light for an additional 10 feet. As a bonus action, the creature can suppress this light or cause it to return. The light winks out if the creature dies."
+												"La creatura emette luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri. Come azione bonus, la creatura può sopprimere questa luce o farla ritornare. La luce si spegne se la creatura muore."
 											]
 										}
 									]
@@ -1073,7 +1073,7 @@
 							"page": 10,
 							"id": "045",
 							"entries": [
-								"Creatures influenced by the Nine Hells gain devilish features, such as horns, a forked tail, or the faint odor of sulfur or smoke. A creature influenced by the Nine Hells also gains one or more of following traits of your choice:",
+								"Le creature influenzate dai Nove Inferi acquisiscono caratteristiche diaboliche, come le corna, una coda biforcuta o il debole odore di zolfo o fumo. Una creatura influenzata dai Nove Inferi ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "046",
@@ -1084,7 +1084,7 @@
 											"page": 10,
 											"id": "047",
 											"entries": [
-												"Whenever the creature deals bludgeoning, piercing, or slashing damage, it can change the damage type to fire."
+												"Ogni volta che la creatura infligge danni contundenti, perforanti o taglienti, può cambiare il tipo di danno in fuoco."
 											]
 										},
 										{
@@ -1093,7 +1093,7 @@
 											"page": 10,
 											"id": "048",
 											"entries": [
-												"When the creature dies, its body disgorges a {@creature swarm of poisonous snakes} in the same space."
+												"Quando la creatura muore, il suo corpo vomita un {@creature swarm of poisonous snakes} nello stesso spazio."
 											]
 										}
 									]
@@ -1101,7 +1101,7 @@
 								{
 									"type": "quote",
 									"entries": [
-										"\"The planes work on you in all sorts of ways, Chief. Sometimes they'll change your hair or give you spots. Other times they'll turn you into the sort of ugly little worm fiends love to snack on. If you're planning to visit one of the Outer Planes, best to keep your stay short\u2013if you ever want to leave at all.\""
+										"\"I piani agiscono su di te in tutti i modi, capo. A volte ti cambiano i capelli o ti danno delle macchie. Altre volte ti trasformano in quella specie di brutti piccoli demoni verme che adorano fare uno spuntino. Se hai intenzione di visitare uno dei Piani Esterni, è meglio che il tuo soggiorno sia breve, se mai desideri andartene.\""
 									],
 									"by": "Morte"
 								}
@@ -1113,7 +1113,7 @@
 							"page": 10,
 							"id": "049",
 							"entries": [
-								"A creature influenced by Pandemonium appears as though it were exposed to cold air for a long time, its skin dry and cracked. Its hair might blow in a phantom wind. A creature influenced by Pandemonium also gains one or more of following traits of your choice:",
+								"Una creatura influenzata da Pandemonium appare come se fosse stata esposta all'aria fredda per lungo tempo, con la pelle secca e screpolata. I suoi capelli potrebbero essere mossi da un vento fantasma. Una creatura influenzata da Pandemonio ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "04a",
@@ -1124,7 +1124,7 @@
 											"page": 10,
 											"id": "04b",
 											"entries": [
-												"Cold winds sweep around the creature. Any other creature that enters a space within 20 feet of the creature or starts its turn there has its flying speed halved until the start of its next turn."
+												"I venti freddi spazzano la creatura. Qualsiasi altra creatura che entri in uno spazio entro 20 piedi da essa o inizi il suo turno lì, vede la sua velocità di volo dimezzata fino all'inizio del suo turno successivo."
 											]
 										},
 										{
@@ -1133,7 +1133,7 @@
 											"page": 10,
 											"id": "04c",
 											"entries": [
-												"Whenever the creature casts a spell or makes a spell attack, the faint sound of crying and screams can be heard by it and those affected by its magic."
+												"Ogni volta che la creatura lancia un incantesimo o effettua un attacco con incantesimo, il debole suono di pianti e urla può essere udito da lei e da coloro che sono colpiti dalla sua magia."
 											]
 										}
 									]
@@ -1146,7 +1146,7 @@
 							"page": 10,
 							"id": "04d",
 							"entries": [
-								"A creature influenced by Ysgard becomes hearty and muscular. Its scars always appear fresh. When the creature senses danger, it can't help but express joy. A creature influenced by Ysgard also gains one or more of following traits of your choice:",
+								"Una creatura influenzata da Ysgard diventa vigorosa e muscolosa. Le sue cicatrici appaiono sempre fresche. Quando la creatura avverte il pericolo, non può fare a meno di esprimere gioia. Una creatura influenzata da Ysgard ottiene anche uno o più dei seguenti tratti a tua scelta:",
 								{
 									"type": "inset",
 									"id": "04e",
@@ -1157,7 +1157,7 @@
 											"page": 10,
 											"id": "04f",
 											"entries": [
-												"The creature has advantage on melee attack rolls against any target missing at least half its hit points."
+												"La creatura dispone di vantaggio ai tiri per colpire in mischia contro qualsiasi bersaglio a cui manchi almeno la metà dei suoi punti ferita."
 											]
 										},
 										{
@@ -1166,7 +1166,7 @@
 											"page": 10,
 											"id": "050",
 											"entries": [
-												"If the creature has the {@condition prone} condition at the start of its turn, it can, at that time, end the {@condition prone} condition on itself and stand up without expending any movement. The creature can't use this trait while it has the {@condition incapacitated} condition."
+												"Se la creatura ha la condizione {@condition prone} all'inizio del suo turno, può, in quel momento, porre fine alla condizione {@condition prone} su se stessa e alzarsi senza spendere alcun movimento. La creatura non può utilizzare questo tratto mentre ha la condizione {@condition incapacitated}."
 											]
 										}
 									]
@@ -1181,14 +1181,14 @@
 					"page": 11,
 					"id": "051",
 					"entries": [
-						"As the Outlands are the crossroads of the Outer Planes, travelers in that realm might encounter any creature in existence, many of which have been influenced by other planes. The following sections detail the various creature types likely to be encountered in the Outlands. Use the tables in these sections to inspire encounters and whole adventures in the Outlands.",
+						"Poiché le Terre Esterne sono il crocevia dei Piani Esterni, i viaggiatori in quel regno potrebbero incontrare qualsiasi creatura esistente, molte delle quali sono state influenzate da altri piani. Le sezioni seguenti descrivono in dettaglio i vari tipi di creature che è probabile incontrare nelle Terre Esterne. Utilizza le tabelle presenti in queste sezioni per ispirare incontri e intere avventure nelle Terre Esterne.",
 						{
 							"type": "inset",
 							"id": "052",
 							"entries": [
-								"Planar Exemplars",
-								"Some creatures originate on specific Outer Planes. Just as flesh and blood are fundamental to many creatures from the Material Plane, the forces of these creatures' home planes are fundamental to their being. These creatures are manifestations of a plane itself and are altered by other planar influences only under unusual circumstances. The archons of Mount Celestia, the demons of the Abyss, the devils of the Nine Hells, the modrons of Mechanus, and the slaadi of Limbo are just a few examples of such children of the planes.",
-								"As a result, it's rare to encounter a group of modrons embracing the chaos of Limbo or devils awash in the natural energy of the Beastlands. It's up to you to decide what creatures are exemplars of their home planes and under what circumstances they might be influenced by other planes."
+								"Esempi planari",
+								"Alcune creature hanno origine su specifici Piani Esterni. Proprio come la carne e il sangue sono fondamentali per molte creature del Piano Materiale, le forze dei piani natali di queste creature sono fondamentali per il loro essere. Queste creature sono manifestazioni di un piano stesso e vengono alterate da altre influenze planari solo in circostanze insolite. Gli arconti del Monte Celestia, i demoni dell'Abisso, i diavoli dei Nove Inferni, i modron di Mechanus e gli slaadi del Limbo sono solo alcuni esempi di questi figli dei piani.",
+								"Di conseguenza, è raro incontrare un gruppo di modroni che abbracciano il caos del Limbo o diavoli immersi nell'energia naturale delle Terre Bestiali. Sta a te decidere quali creature sono esemplari dei loro piani natali e in quali circostanze potrebbero essere influenzate da altri piani."
 							]
 						},
 						{
@@ -1197,7 +1197,7 @@
 							"page": 11,
 							"id": "053",
 							"entries": [
-								"With their inscrutable biologies and agendas, Aberrations might journey to the Outlands pursuing all manner of schemes or sustenance. Slaadi from Limbo are among the most common Aberrations found on the Outlands.",
+								"Con le loro biologie e i loro obiettivi imperscrutabili, le Aberrazioni potrebbero viaggiare nelle Terre Esterne perseguendo ogni sorta di piani o sostentamento. Gli Slaadi del Limbo sono tra le aberrazioni più comuni trovate nelle Terre Esterne.",
 								{
 									"type": "table",
 									"caption": "Outlands Aberrations",
@@ -1212,19 +1212,19 @@
 									"rows": [
 										[
 											"1",
-											"An {@creature aboleth} travels in a muck-filled, orbicular carriage, seeking to better understand the Outer Planes in preparation for a future world-domination scheme."
+											"Un {@creature aboleth} viaggia in una carrozza orbicolare piena di letame, cercando di comprendere meglio i Piani Esterni in preparazione per un futuro piano di dominazione del mondo."
 										],
 										[
 											"2",
-											"A {@creature beholder} influenced by {@book the Abyss|MPP|0|The Abyss} has compound eyes and looks like a floating, cyclopean fly head. It promises not to destroy the characters if they bring it a corpse it has never tasted before."
+											"Un {@creature beholder} influenzato da {@book the Abyss|MPP|0|The Abyss} ha occhi composti e sembra una testa di mosca ciclopica fluttuante. Promette di non distruggere i personaggi se gli porteranno un cadavere che non ha mai assaggiato prima."
 										],
 										[
 											"3",
-											"A dejected {@creature red slaad} wishes to be reunited with its {@creature slaad tadpole}, but it isn't certain where\u2014or in what\u2014it implanted its egg."
+											"Un abbattuto {@creature red slaad} desidera ricongiungersi con il suo {@creature slaad tadpole}, ma non è sicuro dove o in cosa abbia impiantato il suo uovo."
 										],
 										[
 											"4",
-											"A hirsute, axe-wielding {@creature flumph} influenced by {@book Ysgard|MPP|0|Ysgard} quests across the land, seeking legendary beasts to slay and epic songs to sing."
+											"Un irsuto {@creature flumph} armato di ascia, influenzato da {@book Ysgard|MPP|0|Ysgard} missioni in giro per il paese, alla ricerca di bestie leggendarie da uccidere e canzoni epiche da cantare."
 										]
 									]
 								}
@@ -1236,7 +1236,7 @@
 							"page": 11,
 							"id": "054",
 							"entries": [
-								"Varied Beasts roam the Outlands, with many species being long extinct on Material Plane worlds. Plane-influenced creatures and gigantic or idealized animals from the Beastlands are common.",
+								"Varie bestie vagano per le Terre Esterne, molte specie sono estinte da tempo sui mondi del Piano Materiale. Sono comuni creature influenzate dal piano e animali giganteschi o idealizzati delle Terre Bestiali.",
 								{
 									"type": "table",
 									"caption": "Outlands Beasts",
@@ -1251,19 +1251,19 @@
 									"rows": [
 										[
 											"1",
-											"An awakened {@creature giant scorpion} owns a custom-made boat and runs a ferry business along a prominent river. It offers its services to characters in need."
+											"Un risvegliato {@creature giant scorpion} possiede una barca su misura e gestisce un'attività di traghetti lungo un importante fiume. Offre i suoi servizi ai personaggi bisognosi."
 										],
 										[
 											"2",
-											"A {@creature triceratops} influenced by {@book Mechanus|MPP|0|Mechanus} and composed of simple geometric shapes charges creatures that enter the angular canyons it inhabits. It moves only in straight lines and turns only at right angles."
+											"Un {@creature triceratops} influenzato da {@book Mechanus|MPP|0|Mechanus} e composto da forme geometriche semplici carica le creature che entrano nei canyon angolari in cui abita. Si muove solo in linea retta e gira solo ad angolo retto."
 										],
 										[
 											"3",
-											"{@creature Stirge||Stirges} drawn from countless worlds congregate in a tornado-sized, bloodsucking cloud that threatens a gate-town."
+											"{@creature Stirge||Stirges} provenienti da innumerevoli mondi si riuniscono in una nuvola succhiasangue grande quanto un tornado che minaccia una città-porta."
 										],
 										[
 											"4",
-											"A desiccated {@creature giant frog} influenced by {@book Pandemonium|MPP|0|Pandemonium} screams whenever it opens its mouth. Its interior is even noisier."
+											"Un essiccato {@creature giant frog} influenzato da {@book Pandemonium|MPP|0|Pandemonium} urla ogni volta che apre la bocca. Il suo interno è ancora più rumoroso."
 										]
 									]
 								}
@@ -1275,7 +1275,7 @@
 							"page": 11,
 							"id": "055",
 							"entries": [
-								"Various Celestials watch over the Outlands, particularly those reaches that border the Upper Planes. Angels and {@book archons|MPP|1|Archons} (presented later in this book) are particularly common. Some seek to prevent fiendish incursions into the plane, while others try to align the Outlands closer to goodly philosophies.",
+								"Vari Celestiali vegliano sulle Terre Esterne, in particolare su quelle che confinano con i Piani Superiori. Gli angeli e {@book archons|MPP|1|Archons} (presentati più avanti in questo libro) sono particolarmente comuni. Alcuni cercano di impedire incursioni diaboliche nel piano, mentre altri cercano di allineare le Terre Esterne più vicine alle buone filosofie.",
 								{
 									"type": "table",
 									"caption": "Outlands Celestials",
@@ -1290,19 +1290,19 @@
 									"rows": [
 										[
 											"1",
-											"An {@creature empyrean} calls for aid in taking back a corner of the Outlands overrun by demons."
+											"An {@creature empyrean} chiede aiuto per riconquistare un angolo delle Terre Esterne invaso dai demoni."
 										],
 										[
 											"2",
-											"Wearing grim armor and displaying a rust-colored horn, a {@creature unicorn} influenced by {@book Acheron|MPP|0|Acheron} challenges all it encounters to mortal combat."
+											"Indossando un'armatura cupa e sfoggiando un corno color ruggine, un {@creature unicorn} influenzato da {@book Acheron|MPP|0|Acheron} sfida tutto ciò che incontra a un combattimento mortale."
 										],
 										[
 											"3",
-											"A fallen {@creature deva}, now neutral aligned, is on permanent vacation. The mellow angel is a font of multiversal secrets, but it shares them only with strangers who prove themselves more relaxed than it."
+											"Un caduto {@creature deva}, ora allineato neutrale, è in vacanza permanente. Il dolce angelo è una fonte di segreti multiversali, ma li condivide solo con gli estranei che si dimostrano più rilassati di lui."
 										],
 										[
 											"4",
-											"A {@creature couatl} influenced by {@book Limbo|MPP|0|Limbo} has color-changing wings and insists passersby convince it that they're worthy of existing. If the couatl isn't convinced, it has a 50 percent chance of either attacking or wandering off."
+											"Un {@creature couatl} influenzato da {@book Limbo|MPP|0|Limbo} ha ali che cambiano colore e insiste che i passanti lo convincano che sono degni di esistere. Se il couatl non è convinto, ha una probabilità del 50% di attaccare o di allontanarsi."
 										]
 									]
 								}
@@ -1314,7 +1314,7 @@
 							"page": 12,
 							"id": "056",
 							"entries": [
-								"Constructs in the Outlands might be the remnants of forgotten civilizations, servants of plane-walking magic-users, or creations with varied important or ridiculous purposes. Among the most common are modrons, mechanical denizens of Mechanus that seek to enforce order on the plane.",
+								"I costrutti nelle Terre Esterne potrebbero essere i resti di civiltà dimenticate, servitori di utilizzatori di magia ambulanti nei piani o creazioni con vari scopi importanti o ridicoli. Tra i più comuni ci sono i modron, abitanti meccanici di Mechanus che cercano di far rispettare l'ordine sul piano.",
 								{
 									"type": "table",
 									"caption": "Outlands Constructs",
@@ -1329,19 +1329,19 @@
 									"rows": [
 										[
 											"1",
-											"A tyrannical {@creature homunculus} rules over the small domain of its long-lost archmage master."
+											"Un tirannico {@creature homunculus} governa il piccolo dominio del suo padrone arcimago perduto da tempo."
 										],
 										[
 											"2",
-											"A beautiful but vain {@creature flesh golem} influenced by {@book Arborea|MPP|0|Arborea} insists on following a character until the character sketches, sculpts, or otherwise artistically renders it."
+											"Una persona bella ma vanitosa {@creature flesh golem} influenzata da {@book Arborea|MPP|0|Arborea} insiste nel seguire un personaggio finché questi non lo disegna, lo scolpisce o lo rende in altro modo artisticamente."
 										],
 										[
 											"3",
-											"A gang of inquisitive {@creature Monodrone||monodrones} and its {@creature duodrone} leader insist on following a character, saying they expect that individual's doom to be \"statistically noteworthy.\""
+											"Una banda di curiosi {@creature Monodrone||monodrones} e il suo leader {@creature duodrone} insistono nel seguire un personaggio, dicendo che si aspettano che la sorte di quell'individuo sia \"statisticamente degna di nota\"."
 										],
 										[
 											"4",
-											"A {@creature clay golem} influenced by {@book the Beastlands|MPP|0|The Beastlands} has been transformed into the walking hive that's home to numerous {@creature Swarm of Wasps||swarms of insects (wasps)}."
+											"Un {@creature clay golem} influenzato da {@book the Beastlands|MPP|0|The Beastlands} è stato trasformato nell'alveare ambulante che ospita numerosi {@creature Swarm of Wasps||swarms of insects (wasps)}."
 										]
 									]
 								},
@@ -1364,7 +1364,7 @@
 							"page": 12,
 							"id": "057",
 							"entries": [
-								"All varieties of Dragons can be found in the Outlands, though many dwell in isolated reaches away from the plane's gate-towns. Some remain aloof due to their territorial natures, while others seek to avoid the {@book Mausoleum of Chronepsis|SatO|3|Mausoleum of Chronepsis}, home to the legendary dragon Chronepsis (see {@book Sigil and the Outlands|SatO} for details).",
+								"Tutte le varietà di draghi possono essere trovate nelle Terre Esterne, anche se molti vivono in zone isolate, lontane dalle città-portale del piano. Alcuni rimangono in disparte a causa della loro natura territoriale, mentre altri cercano di evitare {@book Mausoleum of Chronepsis|SatO|3|Mausoleum of Chronepsis}, dimora del leggendario drago Chronepsis (vedi {@book Sigil and the Outlands|SatO} per i dettagli).",
 								{
 									"type": "table",
 									"caption": "Outlands Dragons",
@@ -1379,19 +1379,19 @@
 									"rows": [
 										[
 											"1",
-											"An {@creature ancient gold dragon} disguised as a canary gives the characters a nonmagical item and offers them Bahamut's best wishes."
+											"Un {@creature ancient gold dragon} travestito da canarino regala ai personaggi un oggetto non magico e offre loro i migliori auguri di Bahamut."
 										],
 										[
 											"2",
-											"A lawful good {@creature Faerie Dragon (Violet)||faerie dragon} with wings like stained glass has been influenced by {@book Mount Celestia|MPP|0|Mount Celestia}. It seeks the characters' aid in recovering a stolen {@item holy avenger}."
+											"Un bene legale {@creature Faerie Dragon (Violet)||faerie dragon} con ali come vetrate colorate è stato influenzato da {@book Mount Celestia|MPP|0|Mount Celestia}. Cerca l'aiuto dei personaggi per recuperare un oggetto rubato {@item holy avenger}."
 										],
 										[
 											"3",
-											"A {@creature time dragon wyrmling|MPP} (presented later in this book) wants help constructing a magical structure that will be important in the future."
+											"A {@creature time dragon wyrmling|MPP} (presentato più avanti in questo libro) vuole aiuto per costruire una struttura magica che sarà importante in futuro."
 										],
 										[
 											"4",
-											"A neutral evil {@creature adult silver dragon} with dull, gray scales has been influenced by {@book Hades|MPP|0|Hades}. It demands a toll from any who crosses its domain."
+											"Un male neutrale {@creature adult silver dragon} con squame grigie opache è stato influenzato da {@book Hades|MPP|0|Hades}. Richiede un pedaggio a chiunque attraversi il suo dominio."
 										]
 									]
 								}
@@ -1403,7 +1403,7 @@
 							"page": 13,
 							"id": "058",
 							"entries": [
-								"Elementals of all varieties can be found in the Outlands. Mephits are common and often serve more powerful creatures as messengers.",
+								"Elementali di tutte le varietà possono essere trovati nelle Terre Esterne. I mephit sono comuni e spesso servono creature più potenti come messaggeri.",
 								{
 									"type": "table",
 									"caption": "Outlands Elementals",
@@ -1418,19 +1418,19 @@
 									"rows": [
 										[
 											"1",
-											"{@creature Water Elemental||Water elementals} travel in a group that looks like a long, wandering river."
+											"{@creature Water Elemental||Water elementals} viaggiano in un gruppo che assomiglia a un lungo fiume errante."
 										],
 										[
 											"2",
-											"Some skull-headed {@creature Azer||azers} have been influenced by {@book the Nine Hells|MPP|0|The Nine Hells}. They escort a heavily armored caravan of rare ore to the gate-town of Ribcage."
+											"Alcune teste di teschio {@creature Azer||azers} sono state influenzate da {@book the Nine Hells|MPP|0|The Nine Hells}. Scortano una carovana pesantemente corazzata piena di minerali rari fino alla città-porta di Ribcage."
 										],
 										[
 											"3",
-											"A wounded {@creature mud mephit} asks the characters to help it deliver a sealed package to a leader in a nearby gate-town."
+											"Un ferito {@creature mud mephit} chiede ai personaggi di aiutarlo a consegnare un pacco sigillato a un leader in una vicina città-porta."
 										],
 										[
 											"4",
-											"A wealthy {@creature dao} that glistens with gemstones has been influenced by {@book Arborea|MPP|0|Arborea}. It leads a parade of glimmering {@creature galeb duhr} between gate-towns as part of a shopping spree for precious rocks."
+											"Un ricco {@creature dao} che brilla di pietre preziose è stato influenzato da {@book Arborea|MPP|0|Arborea}. Conduce una parata di luccichii {@creature galeb duhr} tra le porte delle città come parte di uno shopping sfrenato di rocce preziose."
 										]
 									]
 								}
@@ -1442,7 +1442,7 @@
 							"page": 13,
 							"id": "059",
 							"entries": [
-								"Being close to nature\u2014even the surreal nature of the Outer Planes\u2014Fey dwelling in the Outlands are often influenced by other planes. Fey encountered near a gate-town typically exhibit influences from the town's associated Outer Plane.",
+								"Essendo vicini alla natura, perfino alla natura surreale dei Piani Esterni, i Folletti che vivono nelle Terre Esterne sono spesso influenzati da altri piani. Le fate incontrate vicino a una porta-città mostrano tipicamente influenze dal Piano Esterno associato alla città.",
 								{
 									"type": "table",
 									"caption": "Outlands Fey",
@@ -1457,19 +1457,19 @@
 									"rows": [
 										[
 											"1",
-											"Revelers joined a group of {@creature Satyr||satyrs} in their festivities. As the satyrs' celebration has continued for over a year, the revelers seek the characters' help in extricating themselves without offending their hosts."
+											"I festaioli si sono uniti a un gruppo di {@creature Satyr||satyrs} durante i festeggiamenti. Poiché la celebrazione dei satiri continua da oltre un anno, i partecipanti alla festa cercano l'aiuto dei personaggi per districarsi senza offendere i loro ospiti."
 										],
 										[
 											"2",
-											"A kindly {@creature green hag} influenced by {@book Elysium|MPP|0|Elysium} invites passersby to join her for tea in her cottage made of sweets. She makes some of the best cookies in the Outlands."
+											"Una gentile {@creature green hag} influenzata da {@book Elysium|MPP|0|Elysium} invita i passanti a unirsi a lei per un tè nella sua casetta fatta di dolci. Prepara alcuni dei biscotti più buoni delle Terre Esterne."
 										],
 										[
 											"3",
-											"A pack of {@creature Blink Dog||blink dogs} tracks a band of {@creature Maelephant|MPP|maelephants} (presented {@book later|MPP|1|Maelephant} in this book) to prevent them from spoiling lands influenced by the Upper Planes."
+											"Un branco di {@creature Blink Dog||blink dogs} segue una banda di {@creature Maelephant|MPP|maelephants} (presentata {@book later|MPP|1|Maelephant} in questo libro) per impedire loro di rovinare le terre influenzate dai Piani Superiori."
 										],
 										[
 											"4",
-											"A gnarled {@creature dryad} influenced by {@book Carceri|MPP|0|Carceri} seeks to entrap creatures within the root-snarled, prison-like cavern beneath her grove."
+											"Un nodoso {@creature dryad} influenzato da {@book Carceri|MPP|0|Carceri} cerca di intrappolare le creature nella caverna simile a una prigione, ricoperta di radici, sotto il suo boschetto."
 										]
 									]
 								}
@@ -1481,7 +1481,7 @@
 							"page": 13,
 							"id": "05a",
 							"entries": [
-								"Denizens of the Lower Planes regularly invade the Outlands, seeking to shift the balance of the realm toward evil. The Blood War, the endless conflict between demons and devils, regularly spills onto the plane and can devastate whole regions.",
+								"Gli abitanti dei Piani Inferiori invadono regolarmente le Terre Esterne, cercando di spostare l'equilibrio del regno verso il male. La Guerra del Sangue, il conflitto senza fine tra demoni e diavoli, si riversa regolarmente sul piano e può devastare intere regioni.",
 								{
 									"type": "table",
 									"caption": "Outlands Fiends",
@@ -1496,19 +1496,19 @@
 									"rows": [
 										[
 											"1",
-											"A {@creature nycaloth} seeks to capture several monochromatic {@creature Hell Hound||hell hounds} influenced by {@book Gehenna|MPP|0|Gehenna}. The yugoloth seeks to sell the hounds to Fiends participating in the Blood War."
+											"A {@creature nycaloth} cerca di catturare diversi colori monocromatici {@creature Hell Hound||hell hounds} influenzati da {@book Gehenna|MPP|0|Gehenna}. Lo yugoloth cerca di vendere i segugi ai Demoni che partecipano alla Guerra del Sangue."
 										],
 										[
 											"2",
-											"After being ambushed by a rival, a {@creature night hag} merchant offers a reward to characters who help her recover her lost inventory: several dozen stray {@creature Larva|DMG|larvae} (see the {@book Dungeon Master's Guide|DMG})."
+											"Dopo aver subito un'imboscata da parte di un rivale, un commerciante {@creature night hag} offre una ricompensa ai personaggi che l'aiutano a recuperare l'inventario perduto: diverse dozzine di vaganti {@creature Larva|DMG|larvae} (vedi {@book Dungeon Master's Guide|DMG})."
 										],
 										[
 											"3",
-											"A hero requests the characters' help in gaining the aid of a legendary steed called a nic'epona, a {@creature nightmare} influenced by one of the Upper Planes."
+											"Un eroe richiede l'aiuto dei personaggi per ottenere l'aiuto di un destriero leggendario chiamato nic'epona, un {@creature nightmare} influenzato da uno dei Piani Superiori."
 										],
 										[
 											"4",
-											"Rival {@creature Incubus||incubi} seek to recruit the characters to serve either a {@creature balor} warlord or a {@creature pit fiend} general whose fiendish armies are prepared to clash nearby."
+											"I rivali {@creature Incubus||incubi} cercano di reclutare i personaggi per servire un signore della guerra {@creature balor} o un generale {@creature pit fiend} i cui eserciti diabolici sono pronti a scontrarsi nelle vicinanze."
 										]
 									]
 								}
@@ -1520,7 +1520,7 @@
 							"page": 13,
 							"id": "05b",
 							"entries": [
-								"Giants are common in the Outlands. Many gravitate toward regions influenced by planes corresponding with their alignments, but others seek to find the {@book secret realm|SatO|3|Hidden Realm} of the giant god Annam (see {@book Sigil and the Outlands|SatO} for details).",
+								"I giganti sono comuni nelle Terre Esterne. Molti gravitano verso regioni influenzate da piani corrispondenti ai loro allineamenti, ma altri cercano di trovare il {@book secret realm|SatO|3|Hidden Realm} del dio gigante Annam (vedi {@book Sigil and the Outlands|SatO} per i dettagli).",
 								{
 									"type": "table",
 									"caption": "Outlands Giants",
@@ -1535,19 +1535,19 @@
 									"rows": [
 										[
 											"1",
-											"Several {@creature Cyclops||cyclopes} refuse to let the characters pass through a region where they're constructing a massive ring of beautifully carved standing stones."
+											"Diversi {@creature Cyclops||cyclopes} si rifiutano di lasciare che i personaggi attraversino una regione dove stanno costruendo un enorme anello di pietre erette meravigliosamente scolpite."
 										],
 										[
 											"2",
-											"An {@creature ettin} influenced by {@book the Beastlands|MPP|0|The Beastlands} has one head with bovine features and one head with lupine features. It desperately needs help finding something both heads are willing to eat."
+											"Un {@creature ettin} influenzato da {@book the Beastlands|MPP|0|The Beastlands} ha una testa con tratti bovini e una testa con tratti lupini. Ha un disperato bisogno di aiuto per trovare qualcosa che entrambe le teste siano disposte a mangiare."
 										],
 										[
 											"3",
-											"A {@creature storm giant} seeks the characters' help in finding an offering of significant worth and size to impress the god Annam."
+											"A {@creature storm giant} cerca l'aiuto dei personaggi per trovare un'offerta di valore e dimensioni significativi per impressionare il dio Annam."
 										],
 										[
 											"4",
-											"A jade-skinned {@creature oni} from Bytopia has become separated from the spirit she was bound to protect. She requests aid in catching up to her lost ward."
+											"Una donna dalla pelle di giada {@creature oni} proveniente da Bytopia si è separata dallo spirito che era destinata a proteggere. Chiede aiuto per recuperare il ritardo nel suo reparto perduto."
 										]
 									]
 								}
@@ -1559,7 +1559,7 @@
 							"page": 14,
 							"id": "05c",
 							"entries": [
-								"Humanoids from across the planes travel the Outlands and number among the most common inhabitants of the gate-towns.",
+								"Gli umanoidi provenienti da tutti i piani viaggiano per le Terre Esterne e sono tra gli abitanti più comuni delle città-porta.",
 								{
 									"type": "table",
 									"caption": "Outlands Humanoids",
@@ -1574,19 +1574,19 @@
 									"rows": [
 										[
 											"1",
-											"The characters need to find a wandering {@creature priest} who alone knows the ritual necessary to open a specific portal."
+											"I personaggi devono trovare un vagabondo {@creature priest} che sia l'unico a conoscere il rituale necessario per aprire un portale specifico."
 										],
 										[
 											"2",
-											"Several gnome {@creature Mage||mages} seek help recovering their walking castle from a band of aggressive, spine-covered {@creature lizardfolk} influenced by {@book the Abyss|MPP|0|The Abyss}."
+											"Diversi gnomi {@creature Mage||mages} cercano aiuto per recuperare il loro castello ambulante da una banda di aggressivi, coperti di spine {@creature lizardfolk} influenzati da {@book the Abyss|MPP|0|The Abyss}."
 										],
 										[
 											"3",
-											"The characters stumble across a youthful or elderly {@creature commoner} who doesn't know how they came to be in the Outlands and who wants only to go home."
+											"I personaggi si imbattono in un giovane o un anziano {@creature commoner} che non sa come è arrivato nelle Terre Esterne e vuole solo tornare a casa."
 										],
 										[
 											"4",
-											"A {@creature bandit captain} and his gang seek the characters' help as they plan a heist in the realm of an immortal being, like the {@book Realm of the Norns|SatO|3|Realm of the Norns} or {@book Wonderhome|SatO|3|Wonderhome} (see {@book Sigil and the Outlands|SatO} for details on both locations)."
+											"A {@creature bandit captain} e la sua banda cercano l'aiuto dei personaggi mentre pianificano una rapina nel regno di un essere immortale, come {@book Realm of the Norns|SatO|3|Realm of the Norns} o {@book Wonderhome|SatO|3|Wonderhome} (vedi {@book Sigil and the Outlands|SatO} per i dettagli su entrambi i luoghi)."
 										]
 									]
 								}
@@ -1598,7 +1598,7 @@
 							"page": 14,
 							"id": "05d",
 							"entries": [
-								"Monstrosities are common in the Outlands. Due to the influence of the Outer Planes, many behave differently than they might on the Material Plane.",
+								"Le mostruosità sono comuni nelle Terre Esterne. A causa dell’influenza dei Piani Esterni, molti si comportano diversamente rispetto a come potrebbero sul Piano Materiale.",
 								{
 									"type": "table",
 									"caption": "Outlands Monstrosities",
@@ -1613,19 +1613,19 @@
 									"rows": [
 										[
 											"1",
-											"The characters are hired to recover cargo from a crashed vessel brimming with rare technology, but the wreckage is overrun with {@creature Rust Monster||rust monsters}."
+											"I personaggi vengono assunti per recuperare il carico da una nave precipitata piena di tecnologia rara, ma il relitto è invaso da {@creature Rust Monster||rust monsters}."
 										],
 										[
 											"2",
-											"The characters have to retrieve a treasure from a group of mischievous {@creature Sprite||sprites}. The sprites are secretly defended by {@creature Mimic||mimics} influenced by {@book Elysium|MPP|0|Elysium} that take the form of tiny, whimsical cottages."
+											"I personaggi devono recuperare un tesoro da un gruppo di dispettosi {@creature Sprite||sprites}. Gli sprite sono segretamente difesi da {@creature Mimic||mimics} influenzati da {@book Elysium|MPP|0|Elysium} che assumono la forma di minuscole e stravaganti casette."
 										],
 										[
 											"3",
-											"A pride of {@creature Displacer Beast||displacer beasts} stalks a band of traveling merchants. The merchants seek protection from the predators hunting them for sport."
+											"Un orgoglio di {@creature Displacer Beast||displacer beasts} insegue una banda di mercanti viaggiatori. I mercanti cercano protezione dai predatori che li cacciano per sport."
 										],
 										[
 											"4",
-											"A {@creature drider} influenced by {@book Arborea|MPP|0|Arborea} runs a {@creature giant spider} ranch. She hires the characters to hunt a rare breed of {@creature sunfly|MPP} (detailed {@book later|MPP|1|Sunflies} in this book) that, when fed to her spiders, will allow them to produce a remarkable type of silk."
+											"Un {@creature drider} influenzato da {@book Arborea|MPP|0|Arborea} gestisce un ranch {@creature giant spider}. Assume i personaggi per dare la caccia a una razza rara di {@creature sunfly|MPP} (dettagliata {@book later|MPP|1|Sunflies} in questo libro) che, se data in pasto ai suoi ragni, consentirà loro di produrre uno straordinario tipo di seta."
 										]
 									]
 								}
@@ -1637,7 +1637,7 @@
 							"page": 14,
 							"id": "05e",
 							"entries": [
-								"Oozes often appear in swampy or subterranean reaches of the Outlands or in regions influenced by the Lower Planes.",
+								"Le melme compaiono spesso nelle zone paludose o sotterranee delle Terre Esterne o nelle regioni influenzate dai Piani Inferiori.",
 								{
 									"type": "table",
 									"caption": "Outlands Oozes",
@@ -1652,19 +1652,19 @@
 									"rows": [
 										[
 											"1",
-											"A yugoloth arms dealer has captured a hundred {@creature Gray Ooze||gray oozes} and seeks to sell them in the gate-town of Rigus as a weapon capable of destroying Acheron's floating cubes. A rival hires the characters to steal and dispose of the oozes."
+											"Un trafficante d'armi yugoloth ne ha catturati un centinaio {@creature Gray Ooze||gray oozes} e cerca di venderli nella città-porta di Rigus come arma in grado di distruggere i cubi fluttuanti di Acheron. Un rivale assume i personaggi per rubare e smaltire le melme."
 										],
 										[
 											"2",
-											"Within a {@creature gelatinous cube} influenced by {@book Gehenna|MPP|0|Gehenna} floats a gigantic fiendish skull. Numerous Fiends revere the cube and interpret depraved schemes and threatening orders from its quivering. A Celestial seeks aid in destroying the cube."
+											"All'interno di un {@creature gelatinous cube} influenzato da {@book Gehenna|MPP|0|Gehenna} galleggia un gigantesco teschio diabolico. Numerosi Demoni venerano il cubo e dal suo tremore interpretano piani depravati e ordini minacciosi. Un Celestiale cerca aiuto per distruggere il cubo."
 										],
 										[
 											"3",
-											"A bog in a region influenced by {@book Carceri|MPP|0|Carceri} is swamped with countless {@creature Black Pudding||black puddings}. The characters are hired to recover a lost relic from the bottom of the bog."
+											"Una palude in una regione influenzata da {@book Carceri|MPP|0|Carceri} è sommersa da innumerevoli {@creature Black Pudding||black puddings}. I personaggi vengono assunti per recuperare una reliquia perduta dal fondo della palude."
 										],
 										[
 											"4",
-											"A chef in the gate-town of {@book Tradegate|SatO|3|Tradegate} wants the characters to retrieve royal jelly from a hive of giant bees (use the {@creature giant wasp} stat block). He doesn't note that the hive's honey takes the form of sweet-tasting {@creature Ochre Jelly||ochre jellies}."
+											"Uno chef nella città di {@book Tradegate|SatO|3|Tradegate} vuole che i personaggi recuperino la pappa reale da un alveare di api giganti (usa il blocco statistiche {@creature giant wasp}). Non nota che il miele dell'alveare assume la forma di sapore dolce {@creature Ochre Jelly||ochre jellies}."
 										]
 									]
 								},
@@ -1687,7 +1687,7 @@
 							"page": 14,
 							"id": "05f",
 							"entries": [
-								"Plants in the Outlands often grow to incredible size, produce remarkable flowers or fruit, and exhibit bizarre shapes and colors. Regions influenced by other planes are typically first recognizable by the effect those planes have on vegetation.",
+								"Le piante nelle Terre Esterne spesso raggiungono dimensioni incredibili, producono fiori o frutti straordinari e mostrano forme e colori bizzarri. Le regioni influenzate da altri piani sono tipicamente riconoscibili innanzitutto dall'effetto che questi piani hanno sulla vegetazione.",
 								{
 									"type": "table",
 									"caption": "Outlands Plants",
@@ -1702,19 +1702,19 @@
 									"rows": [
 										[
 											"1",
-											"A young {@creature treant} wants to put down roots. It asks the characters to help it travel around the Outlands so it can find a suitable place to call home."
+											"Un giovane {@creature treant} vuole mettere radici. Chiede ai personaggi di aiutarlo a viaggiare nelle Terre Esterne in modo che possa trovare un posto adatto da chiamare casa."
 										],
 										[
 											"2",
-											"A {@creature myconid sovereign} has convinced a group of {@creature Githzerai Monk||githzerai monks} to abandon their teachings and follow its path to serenity. Another githzerai hires the characters to oust the fungal guru."
+											"A {@creature myconid sovereign} ha convinto un gruppo di {@creature Githzerai Monk||githzerai monks} ad abbandonare i propri insegnamenti e seguire il proprio percorso verso la serenità. Un altro githzerai assume i personaggi per spodestare il guru dei funghi."
 										],
 										[
 											"3",
-											"An herbalist has cultivated a unique breed of {@creature Gas Spore||gas spores}. She hires the characters to convey the spores to her buyer without setting off the fungi."
+											"Un erborista ha coltivato una razza unica di {@creature Gas Spore||gas spores}. Assume i personaggi per trasmettere le spore al suo acquirente senza far esplodere i funghi."
 										],
 										[
 											"4",
-											"A resident of the gate-town of {@book Ecstasy|SatO|3|Ecstasy} is missing. His garden of {@creature Twig Blight||twig blights}\u2014influenced by {@book Elysium|MPP|0|Elysium} to resemble topiary sculptures\u2014haven't been fed and now sow chaos in town."
+											"Manca un residente della città-porta di {@book Ecstasy|SatO|3|Ecstasy}. Il suo giardino di {@creature Twig Blight||twig blights}—influenzato da {@book Elysium|MPP|0|Elysium} per assomigliare a sculture di arte topiaria—non è stato nutrito e ora semina il caos in città."
 										]
 									]
 								}
@@ -1726,7 +1726,7 @@
 							"page": 15,
 							"id": "060",
 							"entries": [
-								"Undead often lurk in the dismal reaches of the Outlands, but some wander the land, either seeking places to spend eternity or preying on the living.",
+								"I non morti spesso si nascondono nelle tetre distese delle Terre Esterne, ma alcuni vagano per le terre, alla ricerca di luoghi dove trascorrere l'eternità o predando i vivi.",
 								{
 									"type": "table",
 									"caption": "Outlands Undead",
@@ -1741,26 +1741,26 @@
 									"rows": [
 										[
 											"1",
-											"The characters find a trapped {@creature crawling claw}. Rather than attacking, the severed hand can lead the characters to the thankful immortal who lost it."
+											"I personaggi trovano una trappola {@creature crawling claw}. Invece di attaccare, la mano mozzata può condurre i personaggi al grato immortale che l'ha persa."
 										],
 										[
 											"2",
-											"A {@creature banshee} influenced by {@book Acheron|MPP|0|Acheron} appears as a fallen knight-commander with a legion of {@creature Specter||specters}. Guardians of the gate-town of Rigus hire the characters to help banish the phantom army."
+											"Un {@creature banshee} influenzato da {@book Acheron|MPP|0|Acheron} appare come un comandante cavaliere caduto con una legione di {@creature Specter||specters}. I guardiani della città-porta di Rigus assumono i personaggi per aiutare a bandire l'esercito fantasma."
 										],
 										[
 											"3",
-											"A {@creature lich} seeks to dominate the gate-town of Hopeless and see it dragged into Hades with himself as its ruler. Citizens of the gate-town entreat the characters to keep the gate-town hopeful enough that it doesn't fall into the Lower Plane."
+											"A {@creature lich} cerca di dominare la città-porta di Hopeless e di vederla trascinata nell'Ade con se stesso come sovrano. I cittadini della città-porta supplicano i personaggi di mantenere la città-porta abbastanza speranzosa da non cadere nel Piano Inferiore."
 										],
 										[
 											"4",
-											"Several confused {@creature ghost} {@book petitioners|MPP|0|Petitioners} have become lost. They seek someone to pass judgment on their lives and deliver them to the proper planes."
+											"Molti confusi {@creature ghost} {@book petitioners|MPP|0|Petitioners} si sono persi. Cercano qualcuno che giudichi le loro vite e le consegni ai piani adeguati."
 										]
 									]
 								},
 								{
 									"type": "quote",
 									"entries": [
-										"\"Some folks have notions about what sorts of creatures they don't expect to see around the Outer Planes. Like undead, for example\u2013as if they can't grok how souls and vampires and zombies might all wind up on the same infinite planes. What can I say? The planes are wild, Chief\u2013I'm unliving proof.\""
+										"\"Alcune persone hanno un'idea del tipo di creature che non si aspettano di vedere nei Piani Esterni. Come i non morti, per esempio... come se non riuscissero a capire come le anime, i vampiri e gli zombi possano finire tutti sugli stessi piani infiniti. Cosa posso dire? I piani sono selvaggi, Capo... ne sono la prova non vivente.\""
 									],
 									"by": "Morte"
 								}
@@ -1774,8 +1774,8 @@
 					"page": 63,
 					"id": "061",
 					"entries": [
-						"The following tables present random encounters adventurers might face across the Outlands or in other realms influenced by the Outer Planes. These tables are divided by the alignment of the planes affecting a region. Unless otherwise noted, creatures marked with an asterisk (*) appear in this book, while the rest are described in the {@book Monster Manual|MM}.",
-						"If you wish to further customize these encounters, use traits detailed in the \"{@book Planar Influences|MPP|0|Planar Influences}\" section.",
+						"Le seguenti tabelle presentano gli incontri casuali che gli avventurieri potrebbero affrontare nelle Terre Esterne o in altri regni influenzati dai Piani Esterni. Queste tabelle sono divise in base all'allineamento dei piani che interessano una regione. Se non diversamente specificato, le creature contrassegnate da un asterisco (*) compaiono in questo libro, mentre il resto è descritto nel {@book Monster Manual|MM}.",
+						"Se desideri personalizzare ulteriormente questi incontri, utilizza i tratti descritti nella sezione \"{@book Planar Influences|MPP|0|Planar Influences}\".",
 						{
 							"type": "statblock",
 							"name": "Chaotic Planar Encounters",
@@ -1824,7 +1824,7 @@
 						{
 							"type": "quote",
 							"entries": [
-								"\"Don't go thinking you've got a handle on the planes now, Chief. That's the surest way to find out you don't know the first thing about how they really work.\""
+								"\"Non pensare di avere il controllo sugli aerei adesso, capo. Questo è il modo più sicuro per scoprire che non sai la prima cosa su come funzionano veramente.\""
 							],
 							"by": "Morte"
 						}
@@ -1838,7 +1838,7 @@
 			"page": 16,
 			"id": "062",
 			"entries": [
-				"This section presents stat blocks in alphabetical order for creatures suited to planar campaigns.",
+				"Questa sezione presenta i blocchi delle statistiche in ordine alfabetico per le creature adatte alle campagne planari.",
 				{
 					"type": "list",
 					"columns": 3,
@@ -1892,7 +1892,7 @@
 					"page": 53,
 					"id": "094",
 					"entries": [
-						"This section presents stat blocks in alphabetical order for members of Sigil's twelve {@book ascendant factions|SatO|2|Ascendant Factions}. These groups and a summary of their beliefs appear on the {@book Ascendant Factions of Sigil table|MPP|1|Ascendant Factions of Sigil}. All are detailed further in {@book Sigil and the Outlands|SatO}.",
+						"Questa sezione presenta i blocchi delle statistiche in ordine alfabetico per i membri dei dodici di Sigil {@book ascendant factions|SatO|2|Ascendant Factions}. Questi gruppi e un riepilogo delle loro convinzioni compaiono su {@book Ascendant Factions of Sigil table|MPP|1|Ascendant Factions of Sigil}. Tutti sono dettagliati ulteriormente in {@book Sigil and the Outlands|SatO}.",
 						{
 							"type": "image",
 							"href": {
@@ -1918,51 +1918,51 @@
 							"rows": [
 								[
 									"{@creature Athar Null|MPP|Athar}",
-									"Claim the gods are frauds"
+									"Afferma che gli dei sono impostori"
 								],
 								[
 									"{@creature Bleak Cabal Void Soother|MPP|Bleak Cabal}",
-									"Find no sense in the multiverse"
+									"Non trovare senso nel multiverso"
 								],
 								[
 									"{@creature Doomguard Doom Lord|MPP|Doomguard}",
-									"Celebrate destruction"
+									"Festeggia la distruzione"
 								],
 								[
 									"{@creature Doomguard Rot Blade|MPP|Fated}",
-									"Take all they can"
+									"Prendi tutto quello che puoi"
 								],
 								[
 									"{@creature Fated Shaker|MPP|Fraternity of Order}",
-									"Discover laws to find truth"
+									"Scopri le leggi per trovare la verità"
 								],
 								[
 									"{@creature Fraternity of Order Law Bender|MPP|Hands of Havoc}",
-									"Free society through chaos"
+									"Società libera attraverso il caos"
 								],
 								[
 									"{@creature Hands of Havoc Fire Starter|MPP|Harmonium}",
-									"Enforce peace through might"
+									"Rafforzare la pace attraverso la forza"
 								],
 								[
 									"{@creature Harmonium Captain|MPP|Heralds of Dust}",
-									"Believe we're already dead"
+									"Credi che siamo già morti"
 								],
 								[
 									"{@creature Harmonium Peacekeeper|MPP|Mercykillers}",
-									"Bringers of merciless justice"
+									"Portatori di giustizia spietata"
 								],
 								[
 									"{@creature Heralds of Dust Remnant|MPP|Mind's Eye}",
-									"Seekers of godhood"
+									"Cercatori di divinità"
 								],
 								[
 									"{@creature Mercykiller Bloodhound|MPP|Society of Sensation}",
-									"Find truth through experience"
+									"Trova la verità attraverso l'esperienza"
 								],
 								[
 									"{@creature Mind's Eye Matter Smith|MPP|Transcendent Order}",
-									"Act unfettered by thought"
+									"Agisci senza essere ostacolato dal pensiero"
 								]
 							]
 						}
@@ -1987,7 +1987,7 @@
 									"type": "item",
 									"name": "Project Leads",
 									"entries": [
-										"Justice Ramin Arman, F. Wesley Schneider"
+										"Il giudice Ramin Arman, F. Wesley Schneider"
 									]
 								},
 								{
@@ -2015,7 +2015,7 @@
 									"type": "item",
 									"name": "Lead Editor",
 									"entries": [
-										"Adrian Ng"
+										"Adriano Ng"
 									]
 								},
 								{
@@ -2119,7 +2119,7 @@
 													"type": "item",
 													"name": "Studio Art Director",
 													"entries": [
-														"Josh Herman"
+														"Josh Hermann"
 													]
 												},
 												{
@@ -2140,7 +2140,7 @@
 													"type": "item",
 													"name": "Design Department",
 													"entries": [
-														"Justice Ramin Arman, Makenzie De Armas, Dan Dillon, Amanda Hamon, Ron Lundeen, Ben Petrisor, Patrick Renie, F. Wesley Schneider, Carl Sibley, Jason Tondro, James Wyatt"
+														"Il giudice Ramin Arman, Makenzie De Armas, Dan Dillon, Amanda Hamon, Ron Lundeen, Ben Petrisor, Patrick Renie, F. Wesley Schneider, Carl Sibley, Jason Tondro, James Wyatt"
 													]
 												},
 												{
@@ -2226,7 +2226,7 @@
 							],
 							"id": "066"
 						},
-						"Special thanks to Michele Carter; Lisa Ohanian; Black Isle Studios, the creators of {@i Planescape: Torment}; and the hundreds of playtesters who made this a better book!"
+						"Un ringraziamento speciale a Michele Carter; Lisa Ohanian; Black Isle Studios, i creatori di {@i Planescape: Torment}; e le centinaia di playtester che hanno reso questo libro migliore!"
 					]
 				},
 				{
@@ -2240,7 +2240,7 @@
 					"width": 1200,
 					"height": 1412
 				},
-				"Additional thanks to the original Planescape setting designers, including Rich Baker, Wolfgang Baur, Tim Beach, Karen Boomgarden, Michele Carter, David \"Zeb\" Cook, Monte Cook, Tony DiTerlizzi, Dale Donovan, Jeff Grubb, Andria Hayday, Dori Jean Hein, Brian Kowal, Rob Lazzaretti, Colin McComb, Dawn Murin, rk post, Robh Ruppel, J. M. Salsbury, Bill Slavicsek, Lester Smith, Rick Swan, Ray Vallese, James Ward, Sue Weinlein, Skip Williams, Steve Winter, David Wise, and many more.",
+				"Un ulteriore ringraziamento ai designer delle ambientazioni originali di Planescape, tra cui Rich Baker, Wolfgang Baur, Tim Beach, Karen Boomgarden, Michele Carter, David \"Zeb\" Cook, Monte Cook, Tony DiTerlizzi, Dale Donovan, Jeff Grubb, Andria Hayday, Dori Jean Hein, Brian Kowal, Rob Lazzaretti, Colin McComb, Dawn Murin, rk post, Robh Ruppel, J. M. Salsbury, Bill Slavicsek, Lester Smith, Rick Swan, Ray Vallese, James Ward, Sue Weinlein, Skip Williams, Steve Winter, David Wise e molti altri.",
 				{
 					"type": "gallery",
 					"images": [
@@ -2269,7 +2269,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"{@note Disclaimer: Everything in this book is true\u2014except the parts that ain't. The planes change, coins and threats adjust a few details, boring bits get more colorful. You know how it is. What's what? You're a cagey sort, Chief. I know you'll figure it out.}"
+						"{@note Disclaimer: Everything in this book is true—except the parts that ain't. The planes change, coins and threats adjust a few details, boring bits get more colorful. You know how it is. What's what? You're a cagey sort, Chief. I know you'll figure it out.}"
 					],
 					"id": "068"
 				}

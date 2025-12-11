@@ -473,7 +473,7 @@
 					}
 				],
 				"entries": [
-					"{@i Choose A or B:} (A) {@item Chain Mail|XPHB}, {@item Shield|XPHB}, {@item Longsword|XPHB}, 6 {@item Javelin|XPHB|Javelins}, {@item Holy Symbol|XPHB}, {@item Priest's Pack|XPHB}, and 9 GP; or (B) 150 GP"
+					"{@i Choose A or B:} (A) {@item Chain Mail|XPHB}, {@item Shield|XPHB}, {@item Longsword|XPHB}, 6 {@item Javelin|XPHB|Javelins}, {@item Holy Symbol|XPHB}, {@item Priest's Pack|XPHB} e 9 GP; o (B) 150 GP"
 				]
 			},
 			"multiclassing": {
@@ -1688,8 +1688,8 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind {@quickref Cover||3||total cover}. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the {@spell hallow} spell.",
-				"You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses."
+				"La presenza di un forte male si registra nei tuoi sensi come un odore nocivo e un bene potente risuona nelle tue orecchie come una musica celestiale. Con un’azione, puoi aprire la tua consapevolezza per individuare tali forze. Fino alla fine del tuo turno successivo, conosci la posizione di qualsiasi essere celestiale, immondo o non morto entro 60 piedi da te che non sia dietro {@quickref Cover||3||total cover}. Conosci il tipo (celestiale, immondo o non morto) di qualsiasi essere di cui percepisci la presenza, ma non la sua identità (il vampiro Conte Strahd von Zarovich, per esempio). Nello stesso raggio, rilevi anche la presenza di qualsiasi luogo o oggetto che sia stato consacrato o profanato, come con l'incantesimo {@spell hallow}.",
+				"Puoi utilizzare questa capacità un numero di volte pari a 1 + il tuo modificatore di Carisma. Quando termini un riposo lungo, recuperi tutti gli usi spesi."
 			]
 		},
 		{
@@ -1701,10 +1701,10 @@
 			"classSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.",
-				"As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.",
-				"Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.",
-				"This feature has no effect on undead and constructs."
+				"Il tuo tocco benedetto può guarire le ferite. Possiedi una riserva di potere curativo che si rigenera quando fai un riposo lungo. Con quella riserva, puoi ripristinare un numero totale di punti ferita pari al tuo livello da paladino × 5.",
+				"Con un'azione, puoi toccare una creatura e attingere potere dalla riserva per ripristinare un certo numero di punti ferita su quella creatura, fino all'importo massimo rimasto nella tua riserva.",
+				"In alternativa, puoi spendere 5 punti ferita dalla tua riserva di guarigione per curare il bersaglio di una malattia o neutralizzare un veleno che lo colpisce. Puoi curare più malattie e neutralizzare più veleni con un singolo uso di Imposizione delle mani, spendendo punti ferita separatamente per ciascuno di essi.",
+				"Questa capacità non ha effetto sui non morti e sui costrutti."
 			]
 		},
 		{
@@ -1716,7 +1716,7 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is {@damage 2d8} for a 1st-level spell slot, plus {@damage 1d8} for each spell level higher than 1st, to a maximum of {@damage 5d8}. The damage increases by {@damage 1d8} if the target is an undead or a fiend, to a maximum of {@damage 6d8}."
+				"A partire dal 2° livello, quando colpisci una creatura con un attacco con un'arma da mischia, puoi spendere uno slot incantesimo per infliggere danni radiosi al bersaglio, oltre al danno dell'arma. Il danno extra è {@damage 2d8} per uno slot incantesimo di 1° livello, più {@damage 1d8} per ogni livello di incantesimo superiore al 1°, fino a un massimo di {@damage 5d8}. Il danno aumenta del {@damage 1d8} se il bersaglio è un non morto o un demone, fino a un massimo del {@damage 6d8}."
 			]
 		},
 		{
@@ -1728,7 +1728,7 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.",
+				"Al 2° livello, adotti uno stile di combattimento particolare come tua specialità. Scegli una delle seguenti opzioni. Non puoi scegliere la stessa opzione di Stile di Combattimento più di una volta, anche se puoi scegliere di nuovo.",
 				{
 					"type": "options",
 					"count": 1,
@@ -1774,22 +1774,22 @@
 			"classSource": "PHB",
 			"level": 2,
 			"entries": [
-				"By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See {@book chapter 10|PHB|10} for the general rules of spellcasting and {@book chapter 11|PHB|11} for the {@filter paladin spell list|spells|class=paladin}.",
+				"Al 2° livello, hai imparato ad attingere alla magia divina attraverso la meditazione e la preghiera per lanciare incantesimi come fa un chierico. Vedi {@book chapter 10|PHB|10} per le regole generali del lancio degli incantesimi e {@book chapter 11|PHB|11} per {@filter paladin spell list|spells|class=paladin}.",
 				{
 					"type": "entries",
 					"name": "Preparing and Casting Spells",
 					"entries": [
-						"The Paladin table shows how many spell slots you have to cast your {@filter paladin spells|spells|class=paladin}. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
-						"You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.",
-						"For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell {@spell cure wounds}, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.",
-						"You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list."
+						"La tabella Paladino mostra quanti slot incantesimo hai per lanciare il tuo {@filter paladin spells|spells|class=paladin}. Per lanciare uno dei tuoi incantesimi da paladino di 1° livello o superiore, devi spendere uno slot del livello dell'incantesimo o superiore. Riacquisti tutti gli slot incantesimo spesi quando termini un riposo lungo.",
+						"Prepari l'elenco degli incantesimi da paladino che puoi lanciare, scegliendo dall'elenco degli incantesimi da paladino. Quando lo fai, scegli un numero di incantesimi da paladino pari al tuo modificatore di Carisma + metà del tuo livello da paladino, arrotondato per difetto (minimo un incantesimo). Gli incantesimi devono essere di un livello per il quale disponi di slot incantesimo.",
+						"Ad esempio, se sei un paladino di 5° livello, hai quattro slot incantesimo di 1° livello e due di 2° livello. Con un Carisma pari a 14, la tua lista di incantesimi preparati può includere quattro incantesimi di 1° o 2° livello, in qualsiasi combinazione. Se prepari l'incantesimo di 1° livello {@spell cure wounds}, puoi lanciarlo utilizzando uno slot di 1° o 2° livello. Lanciare l'incantesimo non lo rimuove dalla tua lista di incantesimi preparati.",
+						"Puoi modificare l'elenco degli incantesimi preparati al termine di un riposo lungo. Preparare una nuova lista di incantesimi da paladino richiede tempo trascorso in preghiera e meditazione: almeno 1 minuto per livello di incantesimo per ogni incantesimo sulla tua lista."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spellcasting Ability",
 					"entries": [
-						"Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.",
+						"Il Carisma è la tua abilità da incantatore per i tuoi incantesimi da paladino, poiché il loro potere deriva dalla forza delle tue convinzioni. Usi il tuo Carisma ogni volta che un incantesimo si riferisce alla tua abilità di incantatore. Inoltre, usi il tuo modificatore di Carisma quando imposti la CD del tiro salvezza per un incantesimo da paladino che lanci e quando effettui un tiro per colpire con uno.",
 						{
 							"type": "abilityDc",
 							"name": "Spell",
@@ -1810,7 +1810,7 @@
 					"type": "entries",
 					"name": "Spellcasting Focus",
 					"entries": [
-						"You can use a {@item holy symbol|phb} as a spellcasting focus for your paladin spells."
+						"Puoi usare un {@item holy symbol|phb} come focus di lancio degli incantesimi per i tuoi incantesimi da paladino."
 					]
 				}
 			]
@@ -1824,9 +1824,9 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.",
-				"When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.",
-				"Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC."
+				"Il tuo giuramento ti consente di incanalare l'energia divina per alimentare effetti magici. Ogni opzione Incanala Divinità fornita dal tuo giuramento spiega come usarla.",
+				"Quando usi Channel Divinity, scegli quale opzione usare. Devi quindi terminare un riposo breve o lungo per utilizzare nuovamente Incanalare Divinità.",
+				"Alcuni effetti di Incanalare Divinità richiedono tiri salvezza. Quando usi un tale effetto di questa classe, la CD è pari alla CD del tuo tiro salvezza dell'incantesimo da paladino."
 			]
 		},
 		{
@@ -1842,7 +1842,7 @@
 			},
 			"entries": [
 				"{@i 3rd-level paladin {@variantrule optional class features|tce|optional feature}}",
-				"You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest."
+				"Puoi spendere un uso di Incanalare Divinità per alimentare i tuoi incantesimi. Come azione bonus, tocchi il tuo simbolo sacro, pronunci una preghiera e riacquisti uno slot incantesimo speso, il cui livello non può essere superiore alla metà del tuo bonus di competenza (arrotondato per eccesso). Il numero di volte in cui puoi utilizzare questa funzionalità dipende dal livello che hai raggiunto in questa classe: 3° livello, una volta; 7° livello, due volte; e 15° livello, tre volte. Recuperi tutti gli usi spesi quando termini un riposo lungo."
 			]
 		},
 		{
@@ -1854,7 +1854,7 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"By 3rd level, the divine magic flowing through you makes you immune to disease."
+				"Al 3° livello, la magia divina che fluisce attraverso di te ti rende immune alle malattie."
 			]
 		},
 		{
@@ -1866,14 +1866,14 @@
 			"classSource": "PHB",
 			"level": 3,
 			"entries": [
-				"When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose from the list of available oaths.",
-				"Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.",
+				"Quando raggiungi il 3° livello, presti il ​​giuramento che ti lega per sempre come paladino. Fino a questo momento sei stato in una fase preparatoria, impegnato nel percorso ma non ancora giurato di seguirlo. Ora scegli dall'elenco dei giuramenti disponibili.",
+				"La tua scelta ti garantisce privilegi al 3° livello e di nuovo al 7°, 15° e 20° livello. Queste funzionalità includono gli incantesimi del giuramento e la funzionalità Incanalare Divinità.",
 				{
 					"name": "Oath Spells",
 					"type": "entries",
 					"entries": [
-						"Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.",
-						"If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you."
+						"Ogni giuramento ha un elenco di incantesimi associati. Ottieni l'accesso a questi incantesimi ai livelli specificati nella descrizione del giuramento. Una volta ottenuto l'accesso a un incantesimo di giuramento, lo avrai sempre preparato. Gli incantesimi del giuramento non contano nel numero di incantesimi che puoi preparare ogni giorno.",
+						"Se ottieni un incantesimo di giuramento che non appare nella lista degli incantesimi da paladino, per te l'incantesimo è comunque un incantesimo da paladino."
 					]
 				},
 				{
@@ -1888,9 +1888,9 @@
 					"name": "Breaking Your Oath",
 					"type": "inset",
 					"entries": [
-						"A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.",
-						"A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all-night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.",
-						"If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the DM's discretion, an impenitent paladin might be forced to abandon this class and adopt another, or perhaps to take the Oathbreaker paladin option that appears in the Dungeon Master's Guide."
+						"Un paladino cerca di attenersi ai più alti standard di condotta, ma anche il paladino più virtuoso è fallibile. A volte la strada giusta si rivela troppo impegnativa, a volte una situazione richiede il minore dei due mali e a volte il calore delle emozioni spinge un paladino a trasgredire il proprio giuramento.",
+						"Un paladino che ha infranto un voto solitamente cerca l'assoluzione da un chierico che condivide la sua fede o da un altro paladino dello stesso ordine. Il paladino potrebbe trascorrere una veglia tutta la notte in preghiera in segno di penitenza, o intraprendere un digiuno o un atto simile di abnegazione. Dopo un rito di confessione e perdono, il paladino ricomincia da capo.",
+						"Se un paladino viola volontariamente il suo giuramento e non mostra alcun segno di pentimento, le conseguenze possono essere più gravi. A discrezione del DM, un paladino impenitente potrebbe essere costretto ad abbandonare questa classe e adottarne un'altra, o forse a scegliere l'opzione di paladino Spezzagiuramento che appare nella Guida del Dungeon Master."
 					]
 				}
 			]
@@ -1904,8 +1904,8 @@
 			"classSource": "PHB",
 			"level": 4,
 			"entries": [
-				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 4° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -1918,7 +1918,7 @@
 			"isClassFeatureVariant": true,
 			"entries": [
 				"{@i 4th-level paladin {@variantrule optional class features|tce|optional feature}}",
-				"Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a {@filter fighting style|optionalfeatures|feature type=FS:P} you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice."
+				"Ogni volta che raggiungi un livello in questa classe che garantisce la funzione di miglioramento del punteggio di caratteristica, puoi sostituire un {@filter fighting style|optionalfeatures|feature type=FS:P} che conosci con un altro stile di combattimento disponibile per i paladini. Questa sostituzione rappresenta uno spostamento del focus nella tua pratica marziale."
 			]
 		},
 		{
@@ -1930,7 +1930,7 @@
 			"classSource": "PHB",
 			"level": 5,
 			"entries": [
-				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the {@action Attack} action on your turn."
+				"A partire dal 5° livello, puoi attaccare due volte, anziché una, ogni volta che esegui l'azione {@action Attack} nel tuo turno."
 			]
 		},
 		{
@@ -1942,8 +1942,8 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"A partire dal 6° livello, ogni volta che tu o una creatura amica entro 3 metri da te dovete effettuare un Tiro Salvezza, la creatura ottiene un bonus al Tiro Salvezza pari al tuo modificatore di Carisma (con un bonus minimo di +1). You must be conscious to grant this bonus.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -1955,7 +1955,7 @@
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
-				"At 7th level, you gain a feature granted to you by your Sacred Oath."
+				"Al 7° livello, ottieni una caratteristica concessa dal tuo Giuramento Sacro."
 			]
 		},
 		{
@@ -1967,8 +1967,8 @@
 			"classSource": "PHB",
 			"level": 8,
 			"entries": [
-				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi l'8° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -1980,8 +1980,8 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"Starting at 10th level, you and friendly creatures within 10 feet of you can't be {@condition frightened} while you are conscious.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"A partire dal 10° livello, tu e le creature amiche entro 3 metri da te non potete essere {@condition frightened} mentre sei cosciente.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -1993,7 +1993,7 @@
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
-				"By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra {@damage 1d8} radiant damage."
+				"All'11° livello, sei così soffuso di giusta potenza che tutti i colpi delle tue armi da mischia portano con sé il potere divino. Ogni volta che colpisci una creatura con un'arma da mischia, la creatura subisce un danno radiante extra {@damage 1d8}."
 			]
 		},
 		{
@@ -2005,8 +2005,8 @@
 			"classSource": "PHB",
 			"level": 12,
 			"entries": [
-				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 12° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2018,8 +2018,8 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.",
-				"You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest."
+				"A partire dal 14° livello, puoi usare la tua azione per terminare un incantesimo su te stesso o su una creatura consenziente che tocchi.",
+				"Puoi utilizzare questa capacità un numero di volte pari al tuo modificatore di Carisma (minimo una volta). Recuperi gli usi spesi quando termini un riposo lungo."
 			]
 		},
 		{
@@ -2031,7 +2031,7 @@
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
-				"At 15th level, you gain a feature granted to you by your Sacred Oath."
+				"Al 15° livello, ottieni una caratteristica che ti è stata concessa dal tuo Giuramento Sacro."
 			]
 		},
 		{
@@ -2043,8 +2043,8 @@
 			"classSource": "PHB",
 			"level": 16,
 			"entries": [
-				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 16° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di consueto, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2056,7 +2056,7 @@
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
-				"At 18th level, the range of your Aura of Protection increases to 30 feet."
+				"Al 18° livello, la portata della tua Aura di Protezione aumenta a 9 metri."
 			]
 		},
 		{
@@ -2068,8 +2068,8 @@
 			"classSource": "PHB",
 			"level": 19,
 			"entries": [
-				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+				"Quando raggiungi il 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità.",
+				"Se il tuo DM consente l'uso dei talenti, puoi invece prendere un {@5etools feat|feats.html}."
 			]
 		},
 		{
@@ -2081,7 +2081,7 @@
 			"classSource": "PHB",
 			"level": 20,
 			"entries": [
-				"At 20th level, you gain a feature granted to you by your Sacred Oath."
+				"Al 20° livello, ottieni una caratteristica concessa dal tuo Giuramento Sacro."
 			]
 		},
 		{
@@ -2094,9 +2094,9 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a {@variantrule Long Rest|XPHB}. With that pool, you can restore a total number of {@variantrule Hit Points|XPHB} equal to five times your Paladin level.",
-				"As a {@variantrule Bonus Action|XPHB}, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of {@variantrule Hit Points|XPHB} to that creature, up to the maximum amount remaining in the pool.",
-				"You can also expend 5 {@variantrule Hit Points|XPHB} from the pool of healing power to remove the {@condition Poisoned|XPHB} condition from the creature; those points don't also restore {@variantrule Hit Points|XPHB} to the creature."
+				"Il tuo tocco benedetto può guarire le ferite. Hai una riserva di potere curativo che si ripristina quando finisci un {@variantrule Long Rest|XPHB}. Con quella riserva, puoi ripristinare un numero totale di {@variantrule Hit Points|XPHB} pari a cinque volte il tuo livello di Paladino.",
+				"Come {@variantrule Bonus Action|XPHB}, puoi toccare una creatura (che potresti essere te stesso) e attingere potere dalla riserva di guarigione per ripristinare un numero di {@variantrule Hit Points|XPHB} su quella creatura, fino all'importo massimo rimanente nella riserva.",
+				"Puoi anche spendere 5 {@variantrule Hit Points|XPHB} dalla riserva di potere curativo per rimuovere la condizione {@condition Poisoned|XPHB} dalla creatura; quei punti non ripristinano anche {@variantrule Hit Points|XPHB} alla creatura."
 			]
 		},
 		{
@@ -2109,7 +2109,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to cast spells through prayer and meditation. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the {@filter Paladin spell list|spells|class=Paladin} later in the class's description.",
+				"Hai imparato a lanciare incantesimi attraverso la preghiera e la meditazione. Vedi {@book chapter 7|XPHB|7} per le regole sul lancio degli incantesimi. Le informazioni seguenti descrivono in dettaglio come usi quelle regole con gli incantesimi del Paladino, che appaiono nel {@filter Paladin spell list|spells|class=Paladin} più avanti nella descrizione della classe.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2117,37 +2117,37 @@
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"La tabella Caratteristiche del Paladino mostra quanti slot incantesimo hai a disposizione per lanciare i tuoi incantesimi di livello 1+. Riacquisti tutti gli slot spesi quando finisci un {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Paladin spells|spells|class=Paladin|level=1}. {@spell Heroism|XPHB} and {@spell Searing Smite|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.",
-								"If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you."
+								"Prepari l'elenco degli incantesimi di livello 1+ che puoi lanciare con questa funzionalità. Per iniziare, scegline due {@filter level 1 Paladin spells|spells|class=Paladin|level=1}. {@spell Heroism|XPHB} e {@spell Searing Smite|XPHB} sono consigliati.",
+								"Il numero di incantesimi nella tua lista aumenta man mano che guadagni livelli da Paladino, come mostrato nella colonna Incantesimi Preparati della tabella Caratteristiche del Paladino. Ogni volta che quel numero aumenta, scegli ulteriori incantesimi da Paladino finché il numero di incantesimi sulla tua lista non corrisponde al numero nella tabella Caratteristiche del Paladino. Gli incantesimi scelti devono essere di un livello per il quale disponi di slot incantesimo. Ad esempio, se sei un Paladino di livello 5, la tua lista di incantesimi preparati può includere sei incantesimi da Paladino di livello 1 o 2 in qualsiasi combinazione.",
+								"Se un altro privilegio del Paladino ti fornisce incantesimi che hai sempre preparato, quegli incantesimi non contano nel numero di incantesimi che puoi preparare con questo privilegio, ma per il resto contano come incantesimi da Paladino."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one spell on your list with another Paladin spell for which you have spell slots."
+								"Ogni volta che finisci un {@variantrule Long Rest|XPHB}, puoi sostituire un incantesimo sulla tua lista con un altro incantesimo da Paladino per il quale disponi di slot incantesimo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Charisma is your spellcasting ability for your Paladin spells."
+								"Il Carisma è la tua abilità da incantatore per i tuoi incantesimi da Paladino."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use a {@item Holy Symbol|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Paladin spells."
+								"Puoi usare a {@item Holy Symbol|XPHB} come {@variantrule Spellcasting Focus|XPHB} per i tuoi incantesimi da Paladino."
 							]
 						}
 					]
@@ -2164,8 +2164,8 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Your training with weapons allows you to use the {@variantrule weapon mastery properties|XPHB|mastery properties} of two kinds of {@filter weapons|items|type=simple weapon;martial weapon} of your choice with which you have proficiency, such as {@item Longsword|XPHB|Longswords} and {@item Javelin|XPHB|Javelins}.",
-				"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change the kinds of weapons you chose. For example, you could switch to using the {@variantrule weapon mastery properties|XPHB|mastery properties} of {@item Halberd|XPHB|Halberds} and {@item Flail|XPHB|Flails}."
+				"Il tuo addestramento con le armi ti consente di utilizzare {@variantrule weapon mastery properties|XPHB|mastery properties} due tipi di {@filter weapons|items|type=simple weapon;martial weapon} di tua scelta con cui hai competenza, come {@item Longsword|XPHB|Longswords} e {@item Javelin|XPHB|Javelins}.",
+				"Ogni volta che finisci un {@variantrule Long Rest|XPHB}, puoi cambiare il tipo di armi che hai scelto. Ad esempio, potresti passare a utilizzare {@variantrule weapon mastery properties|XPHB|mastery properties} di {@item Halberd|XPHB|Halberds} e {@item Flail|XPHB|Flails}."
 			]
 		},
 		{
@@ -2178,7 +2178,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You gain a {@filter Fighting Style feat|feats|category=FS} of your choice. Instead of choosing one of those feats, you can choose the option below.",
+				"Ottieni un {@filter Fighting Style feat|feats|category=FS} a tua scelta. Invece di scegliere uno di questi talenti, puoi scegliere l'opzione seguente.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2200,7 +2200,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You always have the {@spell Divine Smite|XPHB} spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a {@variantrule Long Rest|XPHB} before you can cast it in this way again."
+				"Hai sempre preparato l'incantesimo {@spell Divine Smite|XPHB}. Inoltre, puoi lanciarlo senza spendere uno slot incantesimo, ma devi finire un {@variantrule Long Rest|XPHB} prima di poterlo lanciare nuovamente in questo modo."
 			]
 		},
 		{
@@ -2213,9 +2213,9 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.",
-				"You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a {@variantrule Short Rest|XPHB}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}. You gain an additional use when you reach Paladin level 11.",
-				"If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.",
+				"Puoi incanalare l'energia divina direttamente dai Piani Esterni, usandola per alimentare effetti magici. Inizi con uno di questi effetti: Senso Divino, descritto di seguito. Altre funzionalità di Paladin forniscono opzioni aggiuntive per gli effetti Channel Divinity. Ogni volta che usi Incanalare Divinità di questa classe, scegli quale effetto di questa classe creare.",
+				"Puoi usare Channel Divinity di questa classe due volte. Recuperi uno degli usi spesi quando finisci un {@variantrule Short Rest|XPHB} e recuperi tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}. Ottieni un utilizzo aggiuntivo quando raggiungi il livello 11 del Paladino.",
+				"Se un effetto Incanalare Divinità richiede un tiro salvezza, la CD è pari alla CD del tiro salvezza dell'incantesimo dal privilegio Lanciare Incantesimi di questa classe.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2240,7 +2240,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the {@condition Incapacitated|XPHB} condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the {@spell Hallow|XPHB} spell."
+				"Come {@variantrule Bonus Action|XPHB}, puoi aprire la tua consapevolezza per individuare Celestiali, Demoni e Non Morti. Per i prossimi 10 minuti o finché non avrai la condizione {@condition Incapacitated|XPHB}, conoscerai la posizione di qualsiasi creatura di quel tipo entro 18 metri da te, e ne conoscerai il tipo. Nello stesso raggio, rilevi anche la presenza di qualsiasi luogo o oggetto che sia stato consacrato o profanato, come con l'incantesimo {@spell Hallow|XPHB}."
 			]
 		},
 		{
@@ -2253,14 +2253,14 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.",
+				"Ottieni una sottoclasse Paladino a tua scelta. Una sottoclasse è una specializzazione che ti garantisce funzionalità a determinati livelli di Paladino. Per il resto della tua carriera, ottieni ciascuna delle caratteristiche della tua sottoclasse che sono del tuo livello di Paladino o inferiore.",
 				{
 					"type": "inset",
 					"name": "Breaking Your Oath",
 					"entries": [
-						"A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.",
-						"A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.",
-						"If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one."
+						"Un Paladino cerca di mantenere i più alti standard di condotta, ma anche i più devoti sono fallibili. A volte un Paladino trasgredisce il proprio giuramento.",
+						"Un Paladino che ha infranto un voto in genere cerca l'assoluzione, trascorrendo una veglia tutta la notte in segno di penitenza o intraprendendo un digiuno. Dopo un rito di perdono, il Paladino ricomincia da capo.",
+						"Se il tuo Paladino viola impenitentemente il suo giuramento, parla con il tuo DM. Il tuo Paladino probabilmente dovrebbe prendere una sottoclasse più appropriata o addirittura abbandonare la classe e adottarne un'altra."
 					]
 				}
 			]
@@ -2275,7 +2275,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. Ottieni nuovamente questa capacità ai livelli Paladino 8, 12 e 16."
 			]
 		},
 		{
@@ -2288,7 +2288,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You can attack twice instead of once whenever you take the {@action Attack|XPHB} action on your turn."
+				"Puoi attaccare due volte anziché una volta ogni volta che esegui l'azione {@action Attack|XPHB} nel tuo turno."
 			]
 		},
 		{
@@ -2301,8 +2301,8 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"You can call on the aid of an otherworldly steed. You always have the {@spell Find Steed|XPHB} spell prepared.",
-				"You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a {@variantrule Long Rest|XPHB}."
+				"Puoi invocare l'aiuto di un destriero ultraterreno. Hai sempre preparato l'incantesimo {@spell Find Steed|XPHB}.",
+				"Puoi anche lanciare l'incantesimo una volta senza spendere uno slot incantesimo e riacquisti la capacità di farlo quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -2315,9 +2315,9 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You radiate a protective, unseeable aura in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} that originates from you. The aura is inactive while you have the {@condition Incapacitated|XPHB} condition.",
-				"You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).",
-				"If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them."
+				"Irradi un'aura protettiva e invisibile in un raggio di 3 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} che ha origine da te. L'aura è inattiva mentre hai la condizione {@condition Incapacitated|XPHB}.",
+				"Tu e i tuoi alleati nell'aura ottenete un bonus ai tiri salvezza pari al vostro modificatore di Carisma (bonus minimo di +1).",
+				"Se è presente un altro Paladino, una creatura può beneficiare di una sola Aura di Protezione alla volta; la creatura sceglie quale aura mentre si trova in essi."
 			]
 		},
 		{
@@ -2330,7 +2330,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"You gain a feature from your Paladin Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Paladino."
 			]
 		},
 		{
@@ -2343,7 +2343,7 @@
 			"classSource": "XPHB",
 			"level": 8,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} Feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2359,7 +2359,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your {@item Holy Symbol|XPHB} or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the {@condition Frightened|XPHB} condition for 1 minute or until it takes any damage. While {@condition Frightened|XPHB} in this way, a target can do only one of the following on its turns: move, take an action, or take a {@variantrule Bonus Action|XPHB}."
+				"Come azione {@action Magic|XPHB}, puoi spendere un uso di Incanalare Divinità di questa classe per sopraffare i nemici con soggezione. Mentre presenti la tua {@item Holy Symbol|XPHB} o arma, puoi prendere di mira un numero di creature pari al tuo modificatore di Carisma (minimo una creatura) che puoi vedere entro 60 piedi da te. Ogni bersaglio deve riuscire in un tiro salvezza su Saggezza o avere la condizione {@condition Frightened|XPHB} per 1 minuto o finché non subisce danni. Mentre {@condition Frightened|XPHB} in questo modo, un bersaglio può eseguire solo una delle seguenti azioni durante i suoi turni: muoversi, eseguire un'azione o eseguire una {@variantrule Bonus Action|XPHB}."
 			]
 		},
 		{
@@ -2372,7 +2372,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You and your allies have {@variantrule Immunity|XPHB} to the {@condition Frightened|XPHB} condition while in your Aura of Protection. If a {@condition Frightened|XPHB} ally enters the aura, that condition has no effect on that ally while there."
+				"Tu e i tuoi alleati avete {@variantrule Immunity|XPHB} alla condizione {@condition Frightened|XPHB} mentre siete nella vostra Aura di protezione. Se un alleato {@condition Frightened|XPHB} entra nell'aura, tale condizione non ha alcun effetto su quell'alleato mentre è lì."
 			]
 		},
 		{
@@ -2385,7 +2385,7 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an {@variantrule Unarmed Strike|XPHB}, the target takes an extra {@damage 1d8} Radiant damage."
+				"I tuoi colpi ora hanno un potere soprannaturale. Quando colpisci un bersaglio con un tiro per colpire utilizzando un'arma da mischia o un {@variantrule Unarmed Strike|XPHB}, il bersaglio subisce un danno radiante extra {@damage 1d8}."
 			]
 		},
 		{
@@ -2398,7 +2398,7 @@
 			"classSource": "XPHB",
 			"level": 12,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} Feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2411,7 +2411,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: {@condition Blinded|XPHB}, {@condition Charmed|XPHB}, {@condition Deafened|XPHB}, {@condition Frightened|XPHB}, {@condition Paralyzed|XPHB}, or {@condition Stunned|XPHB}. You must expend 5 {@variantrule Hit Points|XPHB} from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore {@variantrule Hit Points|XPHB} to the creature."
+				"Quando usi Imposizione delle mani su una creatura, puoi anche rimuovere una o più delle seguenti condizioni dalla creatura: {@condition Blinded|XPHB}, {@condition Charmed|XPHB}, {@condition Deafened|XPHB}, {@condition Frightened|XPHB}, {@condition Paralyzed|XPHB} o {@condition Stunned|XPHB}. Devi spendere 5 {@variantrule Hit Points|XPHB} dalla riserva curativa di Imposizione delle mani per ciascuna di queste condizioni che rimuovi; quei punti non ripristinano anche {@variantrule Hit Points|XPHB} alla creatura."
 			]
 		},
 		{
@@ -2424,7 +2424,7 @@
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a feature from your Paladin Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Paladino."
 			]
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"classSource": "XPHB",
 			"level": 16,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} Feat or another {@5etools feat|feats.html} of your choice for which you qualify."
+				"Ottieni il talento {@feat Ability Score Improvement|XPHB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi."
 			]
 		},
 		{
@@ -2450,7 +2450,7 @@
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"Your Aura of Protection is now a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation}."
+				"La tua Aura di Protezione ora è di 9 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation}."
 			]
 		},
 		{
@@ -2463,7 +2463,7 @@
 			"classSource": "XPHB",
 			"level": 19,
 			"entries": [
-				"You gain an {@filter Epic Boon feat|feats|category=EB} or another {@5etools feat|feats.html} of your choice for which you qualify. {@feat Boon of Truesight|XPHB} is recommended."
+				"Ottieni un {@filter Epic Boon feat|feats|category=EB} o un altro {@5etools feat|feats.html} a tua scelta per il quale ti qualifichi. {@feat Boon of Truesight|XPHB} è consigliato."
 			]
 		},
 		{
@@ -2476,7 +2476,7 @@
 			"classSource": "XPHB",
 			"level": 20,
 			"entries": [
-				"You gain a feature from your Paladin Subclass."
+				"Ottieni una caratteristica dalla tua sottoclasse Paladino."
 			]
 		}
 	],
@@ -2491,8 +2491,8 @@
 			"subclassSource": "DMG",
 			"level": 3,
 			"entries": [
-				"An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart has been extinguished. Only darkness remains.",
-				"A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.",
+				"Un Oathbreaker è un paladino che infrange i suoi sacri giuramenti per perseguire qualche oscura ambizione o servire un potere malvagio. Qualunque luce ardesse nel cuore del paladino è stata estinta. Resta solo l'oscurità.",
+				"Un paladino deve essere malvagio e almeno di 3° livello per diventare uno Spezzagiuramento. Il paladino sostituisce i tratti specifici del suo Giuramento Sacro con i tratti dello Spezzagiuramento.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Oathbreaker Spells|Paladin||Oathbreaker|DMG|3"
@@ -2514,7 +2514,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"An Oathbreaker paladin of 3rd level or higher gains the following two Channel Divinity options.",
+				"Un paladino Spezzagiuramento di 3° livello o superiore ottiene le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Control Undead|Paladin||Oathbreaker|DMG|3"
@@ -2536,7 +2536,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin's commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin's level is immune to this effect."
+				"Con un'azione, il paladino prende di mira una creatura non morta che può vedere entro 9 metri da lui. Il bersaglio deve effettuare un tiro salvezza su Saggezza. Se fallisce il Tiro Salvezza, il bersaglio deve obbedire ai comandi del paladino per le successive 24 ore, o finché il paladino non usa nuovamente questa opzione Incanalare Divinità. Un non morto il cui grado di sfida è pari o superiore al livello del paladino è immune a questo effetto."
 			]
 		},
 		{
@@ -2550,7 +2550,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is {@condition frightened} of the paladin for 1 minute. If a creature {@condition frightened} by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it."
+				"Come azione, il paladino incanala le emozioni più oscure e le concentra in un'esplosione di minaccia magica. Ogni creatura a scelta del paladino entro 9 metri dal paladino deve effettuare un tiro salvezza su Saggezza se può vedere il paladino. In caso di tiro salvezza fallito, il bersaglio è {@condition frightened} del paladino per 1 minuto. Se una creatura {@condition frightened} con questo effetto termina il suo turno a più di 9 metri di distanza dal paladino, può tentare un altro tiro salvezza su Saggezza per porre fine all'effetto su di essa."
 			]
 		},
 		{
@@ -2564,7 +2564,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain oathbreaker spells at the paladin levels listed.",
+				"Ottieni gli incantesimi da giuramento ai livelli da paladino elencati.",
 				{
 					"type": "table",
 					"caption": "Oathbreaker Spells",
@@ -2612,8 +2612,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin's Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"A partire dal 7° livello, il paladino, così come tutti gli immondi e i non morti entro 3 metri dal paladino, ottiene un bonus ai tiri per i danni con le armi da mischia pari al modificatore di Carisma del paladino (minimo +1). Una creatura può beneficiare di questa capacità da un solo paladino alla volta.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
+				"Al 15° livello, il Paladino ottiene resistenza ai danni contundenti, perforanti e taglienti inflitti dalle armi non magiche."
 			]
 		},
 		{
@@ -2641,9 +2641,9 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, the paladin can, as an action, surround himself or herself with an aura of gloom that lasts for 1 minute. The aura reduces any bright light in a 30-foot radius around the paladin to dim light. Whenever an enemy that is {@condition frightened} by the paladin starts its turn in the aura, it takes {@damage 4d10} psychic damage. Additionally, the paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.",
-				"While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to {@damage 3d10} + the paladin's Charisma modifier.",
-				"After activating the aura, the paladin can't do so again until he or she finishes a long rest."
+				"Al 20° livello, il paladino può, come azione, circondarsi di un'aura di tristezza che dura 1 minuto. L'aura riduce in luce fioca qualsiasi luce intensa in un raggio di 9 metri attorno al paladino. Ogni volta che un nemico che è {@condition frightened} dal paladino inizia il suo turno nell'aura, subisce {@damage 4d10} danni psichici. Inoltre, il paladino e le creature che sceglie nell'aura sono avvolti in un'ombra più profonda. Le creature che fanno affidamento sulla vista subiscono svantaggio ai tiri per colpire contro le creature avvolte in quest'ombra.",
+				"Finché l'aura dura, il paladino può usare un'azione bonus nel suo turno per far sì che le ombre nell'aura attacchino una creatura. Il paladino effettua un attacco con incantesimo in mischia contro il bersaglio. Se l'attacco va a segno, il bersaglio subisce danni necrotici pari a {@damage 3d10} + il modificatore di Carisma del paladino.",
+				"Dopo aver attivato l'aura, il paladino non può farlo di nuovo finché non termina un riposo lungo."
 			]
 		},
 		{
@@ -2656,7 +2656,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things\u2014leaves, antlers, or flowers\u2014to reflect their commitment to preserving life and light in the world.",
+				"Il Giuramento degli Antichi è antico quanto la razza degli elfi e i rituali dei druidi. A volte chiamati cavalieri fatati, cavalieri verdi o cavalieri cornuti, i paladini che prestano questo giuramento si schierano dalla parte della luce nella lotta cosmica contro l'oscurità perché amano le cose belle e vivificanti del mondo, non necessariamente perché credono nei principi dell'onore, del coraggio e della giustizia. Adornano le loro armature e i loro vestiti con immagini di cose che crescono - foglie, corna o fiori - per riflettere il loro impegno nel preservare la vita e la luce nel mondo.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of the Ancients|Paladin||Ancients||3"
@@ -2682,7 +2682,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				"Quando presti questo giuramento al 3° livello, ottieni le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Nature's Wrath|Paladin||Ancients||3"
@@ -2707,7 +2707,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be {@condition restrained}. While {@condition restrained} by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish."
+				"Puoi usare Incanalare Divinità per invocare forze primordiali per intrappolare un nemico. Con un'azione, puoi far sì che i rampicanti spettrali spuntino e raggiungano una creatura entro 3 metri da te e che puoi vedere. La creatura deve riuscire in un tiro salvezza di Forza o Destrezza (a sua scelta) o essere {@condition restrained}. Mentre {@condition restrained} è vicino alle liane, la creatura ripete il tiro salvezza alla fine di ciascuno dei suoi turni. In caso di successo, si libera e le viti svaniscono."
 			]
 		},
 		{
@@ -2721,7 +2721,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain oath spells at the paladin levels listed.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of the Ancients Spells",
@@ -2769,7 +2769,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.",
+				"I principi del Giuramento degli Antichi sono stati preservati per innumerevoli secoli. Questo giuramento enfatizza i principi del bene al di sopra di ogni preoccupazione di legge o caos. I suoi quattro principi centrali sono semplici.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2777,7 +2777,7 @@
 							"type": "entries",
 							"name": "Kindle the Light",
 							"entries": [
-								"Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair."
+								"Attraverso i tuoi atti di misericordia, gentilezza e perdono, accendi la luce della speranza nel mondo, respingendo la disperazione."
 							]
 						}
 					]
@@ -2789,7 +2789,7 @@
 							"type": "entries",
 							"name": "Shelter the Light",
 							"entries": [
-								"Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren."
+								"Dove c’è bene, bellezza, amore e risate nel mondo, opponiti alla malvagità che vorrebbe inghiottirlo. Dove la vita fiorisce, resisti alle forze che la renderebbero sterile."
 							]
 						}
 					]
@@ -2801,7 +2801,7 @@
 							"type": "entries",
 							"name": "Preserve Your Own Light",
 							"entries": [
-								"Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world."
+								"Delizia nel canto e nel riso, nella bellezza e nell'arte. Se permetti alla luce di morire nel tuo cuore, non potrai preservarla nel mondo."
 							]
 						}
 					]
@@ -2813,7 +2813,7 @@
 							"type": "entries",
 							"name": "Be the Light",
 							"entries": [
-								"Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds."
+								"Sii un faro glorioso per tutti coloro che vivono nella disperazione. Lascia che la luce della tua gioia e del tuo coraggio risplenda in tutte le tue azioni."
 							]
 						}
 					]
@@ -2834,9 +2834,9 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.",
-				"A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the {@action Dash} action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the {@action Dodge} action.",
-				"If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned."
+				"Puoi usare Incanalare Divinità per pronunciare parole antiche che sono dolorose da sentire per le fate e gli immondi. Con un'azione, presenti il ​​tuo simbolo sacro e ogni folletto o demone entro 9 metri da te che possa sentirti deve effettuare un tiro salvezza su Saggezza. Se il tiro salvezza fallisce, la creatura viene scacciata per 1 minuto o finché non subisce danni.",
+				"Una creatura scacciata deve trascorrere i suoi turni cercando di allontanarsi il più possibile da te, e non può spostarsi volontariamente in uno spazio entro 9 metri da te. Inoltre, non può effettuare reazioni. Per la sua azione può utilizzare solo l'azione {@action Dash} oppure tentare di sfuggire a un effetto che gli impedisce di muoversi. Se non c'è nessun posto dove muoversi, la creatura può usare l'azione {@action Dodge}.",
+				"Se la vera forma della creatura è nascosta da un'illusione, da un mutamento di forma o da un altro effetto, quella forma viene rivelata mentre viene trasformata."
 			]
 		},
 		{
@@ -2850,8 +2850,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"A partire dal 7° livello, la magia antica grava così pesantemente su di te da formare una protezione mistica. Tu e le creature amiche entro 3 metri da te avete resistenza ai danni degli incantesimi.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -2865,8 +2865,8 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.",
-				"Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically."
+				"A partire dal 15° livello, quando sei ridotto a 0 punti ferita e non vieni ucciso sul colpo, puoi invece scegliere di scendere a 1 punto ferita. Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo lungo.",
+				"Inoltre, non soffri nessuno degli inconvenienti della vecchiaia e non puoi invecchiare magicamente."
 			]
 		},
 		{
@@ -2880,17 +2880,17 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or moss-like, or you might sprout antlers or a lion-like mane.",
-				"Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:",
+				"Al 20° livello, puoi assumere la forma di un'antica forza della natura, assumendo l'aspetto di tua scelta. Ad esempio, la tua pelle potrebbe diventare verde o assumere una consistenza simile a una corteccia, i tuoi capelli potrebbero diventare frondosi o simili a muschio, oppure potrebbero spuntarti corna o una criniera simile a un leone.",
+				"Usando la tua azione, subisci una trasformazione. Per 1 minuto ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"items": [
-						"At the start of each of your turns, you regain 10 hit points.",
-						"Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using your bonus action instead.",
-						"Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options."
+						"All'inizio di ogni tuo turno, recuperi 10 punti ferita.",
+						"Ogni volta che lanci un incantesimo da paladino che ha un tempo di lancio pari a 1 azione, puoi invece lanciarlo utilizzando la tua azione bonus.",
+						"Le creature nemiche entro 3 metri da te hanno svantaggio ai tiri salvezza contro i tuoi incantesimi da paladino e le opzioni di Incanalare Divinità."
 					]
 				},
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -2904,7 +2904,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels\u2014the perfect servants of good\u2014as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.",
+				"Il Giuramento di Devozione vincola un paladino ai più elevati ideali di giustizia, virtù e ordine. A volte chiamati cavalieri, cavalieri bianchi o guerrieri sacri, questi paladini soddisfano l'ideale del cavaliere dall'armatura scintillante, che agisce con onore nel perseguimento della giustizia e del bene superiore. Si attengono ai più alti standard di condotta e alcuni, nel bene e nel male, mantengono gli stessi standard anche nel resto del mondo. Molti di coloro che prestano questo giuramento sono devoti agli dei della legge e del bene e usano i principi dei loro dei come misura della loro devozione. Considerano gli angeli, i perfetti servitori del bene, come i loro ideali e incorporano immagini di ali angeliche nei loro elmi o stemmi.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of Devotion|Paladin||Devotion||3"
@@ -2931,7 +2931,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				"Quando presti questo giuramento al 3° livello, ottieni le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Sacred Weapon|Paladin||Devotion||3"
@@ -2954,7 +2954,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain oath spells at the paladin levels listed.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of Devotion Spells",
@@ -3006,8 +3006,8 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.",
-				"You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall {@condition unconscious}, this effect ends."
+				"Con un'azione, puoi infondere energia positiva in un'arma che impugni, utilizzando Incanalare Divinità. Per 1 minuto, aggiungi il tuo modificatore di Carisma ai tiri per colpire effettuati con quell'arma (con un bonus minimo di +1). L'arma emette anche luce intensa in un raggio di 6 metri e luce fioca 20 piedi oltre. Se l'arma non è già magica, diventa magica per la durata.",
+				"Puoi porre fine a questo effetto nel tuo turno come parte di qualsiasi altra azione. Se non impugni o porti più quest'arma o se cadi {@condition unconscious}, questo effetto termina."
 			]
 		},
 		{
@@ -3022,7 +3022,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.",
+				"Sebbene le parole esatte e le restrizioni del Giuramento di Devozione varino, i paladini di questo giuramento condividono questi principi.",
 				{
 					"type": "entries",
 					"entries": [
@@ -3030,7 +3030,7 @@
 							"type": "entries",
 							"name": "Honesty",
 							"entries": [
-								"Don't lie or cheat. Let your word be your promise."
+								"Non mentire o imbrogliare. Lascia che la tua parola sia la tua promessa."
 							]
 						}
 					]
@@ -3042,7 +3042,7 @@
 							"type": "entries",
 							"name": "Courage",
 							"entries": [
-								"Never fear to act, though caution is wise."
+								"Non temere mai di agire, anche se la cautela è saggia."
 							]
 						}
 					]
@@ -3054,7 +3054,7 @@
 							"type": "entries",
 							"name": "Compassion",
 							"entries": [
-								"Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom."
+								"Aiuta gli altri, proteggi i deboli e punisci coloro che li minacciano. Mostra misericordia verso i tuoi nemici, ma temperala con saggezza."
 							]
 						}
 					]
@@ -3066,7 +3066,7 @@
 							"type": "entries",
 							"name": "Honor",
 							"entries": [
-								"Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm."
+								"Tratta gli altri con equità e lascia che le tue azioni onorevoli siano un esempio per loro. Fai tutto il bene possibile provocando il minor danno possibile."
 							]
 						}
 					]
@@ -3078,7 +3078,7 @@
 							"type": "entries",
 							"name": "Duty",
 							"entries": [
-								"Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you."
+								"Sii responsabile delle tue azioni e delle loro conseguenze, proteggi coloro che sono affidati alle tue cure e obbedisci a coloro che hanno la giusta autorità su di te."
 							]
 						}
 					]
@@ -3100,8 +3100,8 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.",
-				"A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the {@action Dash} action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the {@action Dodge} action."
+				"Come azione, presenti il ​​tuo simbolo sacro e pronunci una preghiera censurando immondi e non morti, usando Incanalare Divinità. Ogni immondo o non morto che può vederti o sentirti entro 9 metri da te deve effettuare un tiro salvezza su Saggezza. Se la creatura fallisce il tiro salvezza, viene scacciata per 1 minuto o finché non subisce danni.",
+				"Una creatura scacciata deve trascorrere i suoi turni cercando di allontanarsi il più possibile da te, e non può spostarsi volontariamente in uno spazio entro 9 metri da te. Inoltre, non può effettuare reazioni. Per la sua azione può utilizzare solo l'azione {@action Dash} oppure tentare di sfuggire a un effetto che gli impedisce di muoversi. Se non c'è nessun posto dove muoversi, la creatura può usare l'azione {@action Dodge}."
 			]
 		},
 		{
@@ -3116,8 +3116,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Starting at 7th level, you and friendly creatures within 10 feet of you can't be {@condition charmed} while you are conscious.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"A partire dal 7° livello, tu e le creature amiche entro 3 metri da te non potete essere {@condition charmed} mentre sei cosciente.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -3132,7 +3132,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Beginning at 15th level, you are always under the effects of a {@spell protection from evil and good} spell."
+				"A partire dal 15° livello, sei sempre sotto l'effetto di un incantesimo {@spell protection from evil and good}."
 			]
 		},
 		{
@@ -3147,10 +3147,10 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.",
-				"Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.",
-				"In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.",
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Al 20° livello, come azione, puoi emanare un'aura di luce solare. Per 1 minuto, la luce intensa risplende da te in un raggio di 9 metri, e la luce fioca risplende per 9 metri oltre.",
+				"Ogni volta che una creatura nemica inizia il suo turno in piena luce, subisce 10 danni radiosi.",
+				"Inoltre, per tutta la durata, hai vantaggio ai tiri salvezza contro gli incantesimi lanciati da immondi o non morti.",
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -3163,7 +3163,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside\u2014at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins\u2014sometimes called avengers or dark knights\u2014their own purity is not as important as delivering justice.",
+				"Il Giuramento di Vendetta è un impegno solenne a punire coloro che hanno commesso un peccato grave. Quando le forze del male massacrano gli abitanti indifesi dei villaggi, quando un intero popolo si rivolta contro la volontà degli dei, quando una gilda di ladri diventa troppo violenta e potente, quando un drago imperversa per le campagne, in momenti come questi, i paladini si sollevano e prestano giuramento di vendetta per correggere ciò che è andato storto. Per questi paladini, a volte chiamati vendicatori o cavalieri oscuri, la loro purezza non è importante quanto garantire la giustizia.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of Vengeance|Paladin||Vengeance||3"
@@ -3192,9 +3192,9 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being {@condition frightened}. Fiends and undead have disadvantage on this saving throw.",
-				"On a failed save, the creature is {@condition frightened} for 1 minute or until it takes any damage. While {@condition frightened}, the creature's speed is 0, and it can't benefit from any bonus to its speed.",
-				"On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage."
+				"Come azione, presenti il ​​tuo simbolo sacro e pronunci una preghiera di denuncia, usando il tuo Canale Divinità. Scegli una creatura entro 60 piedi da te che puoi vedere. Quella creatura deve effettuare un tiro salvezza su Saggezza, a meno che non sia immune all'essere {@condition frightened}. Immondi e non morti hanno svantaggio in questo tiro salvezza.",
+				"Se il tiro salvezza fallisce, la creatura resta {@condition frightened} per 1 minuto o finché non subisce danni. Mentre {@condition frightened}, la velocità della creatura è 0 e non può beneficiare di alcun bonus alla sua velocità.",
+				"Se il Tiro Salvezza riesce, la velocità della creatura viene dimezzata per 1 minuto o finché la creatura non subisce danni."
 			]
 		},
 		{
@@ -3208,7 +3208,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				"Quando presti questo giuramento al 3° livello, ottieni le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Abjure Enemy|Paladin||Vengeance||3"
@@ -3230,7 +3230,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain oath spells at the paladin levels listed.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of Vengeance Spells",
@@ -3278,7 +3278,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.",
+				"I principi del Giuramento di Vendetta variano a seconda del paladino, ma tutti i principi ruotano attorno alla punizione dei trasgressori con ogni mezzo necessario. I paladini che sostengono questi principi sono disposti a sacrificare anche la propria rettitudine per distribuire giustizia a coloro che fanno il male, quindi i paladini sono spesso neutrali o legali neutrali di allineamento. I principi fondamentali dei principi sono brutalmente semplici.",
 				{
 					"type": "entries",
 					"entries": [
@@ -3286,7 +3286,7 @@
 							"type": "entries",
 							"name": "Fight the Greater Evil",
 							"entries": [
-								"Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil."
+								"Di fronte alla scelta tra combattere i miei nemici giurati o combattere un male minore, scelgo il male maggiore."
 							]
 						}
 					]
@@ -3298,7 +3298,7 @@
 							"type": "entries",
 							"name": "No Mercy for the Wicked",
 							"entries": [
-								"Ordinary foes might win my mercy, but my sworn enemies do not."
+								"I nemici comuni potrebbero ottenere la mia misericordia, ma i miei nemici giurati no."
 							]
 						}
 					]
@@ -3310,7 +3310,7 @@
 							"type": "entries",
 							"name": "By Any Means Necessary",
 							"entries": [
-								"My qualms can't get in the way of exterminating my foes."
+								"Le mie scrupoli non possono impedirmi di sterminare i miei nemici."
 							]
 						}
 					]
@@ -3322,7 +3322,7 @@
 							"type": "entries",
 							"name": "Restitution",
 							"entries": [
-								"If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds."
+								"Se i miei nemici portano la rovina nel mondo, è perché non sono riuscito a fermarli. Devo aiutare coloro che sono danneggiati dai loro misfatti."
 							]
 						}
 					]
@@ -3343,7 +3343,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls {@condition unconscious}."
+				"Come azione bonus, puoi pronunciare un voto di inimicizia contro una creatura che puoi vedere entro 3 metri da te, usando Incanalare Divinità. Ottieni vantaggio ai tiri per colpire contro la creatura per 1 minuto o finché non scende a 0 punti ferita o cade {@condition unconscious}."
 			]
 		},
 		{
@@ -3357,7 +3357,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"By 7th level, your supernatural focus helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks."
+				"Al 7° livello, la tua concentrazione soprannaturale ti aiuta a chiudere la ritirata del nemico. Quando colpisci una creatura con un attacco di opportunità, puoi muoverti fino a metà della tua velocità immediatamente dopo l'attacco e come parte della stessa reazione. Questo movimento non provoca attacchi di opportunità."
 			]
 		},
 		{
@@ -3371,7 +3371,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range."
+				"A partire dal 15° livello, l'autorità con cui pronunci il tuo Voto di Inimicizia ti conferisce un potere maggiore sul tuo nemico. Quando una creatura sotto l'effetto del tuo Voto di Inimicizia effettua un attacco, puoi usare la tua reazione per effettuare un attacco con arma da mischia contro quella creatura se si trova nel raggio d'azione."
 			]
 		},
 		{
@@ -3385,15 +3385,15 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:",
+				"Al 20° livello, puoi assumere la forma di un vendicatore angelico. Usando la tua azione, subisci una trasformazione. Per 1 ora, ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"items": [
-						"Wings sprout from your back and grant you a flying speed of 60 feet.",
-						"You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become {@condition frightened} of you for 1 minute or until it takes any damage. {@action Attack} rolls against the {@condition frightened} creature have advantage."
+						"Le ali spuntano dalla tua schiena e ti garantiscono una velocità di volo di 18 metri.",
+						"Emani un'aura di minaccia in un raggio di 9 metri. La prima volta che una creatura nemica entra nell'aura o inizia il suo turno lì durante una battaglia, la creatura deve riuscire un tiro salvezza su Saggezza o diventare {@condition frightened} di te per 1 minuto o finché non subisce danni. {@action Attack} i tiri contro la creatura {@condition frightened} hanno vantaggio."
 					]
 				},
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -3406,7 +3406,7 @@
 			"subclassSource": "SCAG",
 			"level": 3,
 			"entries": [
-				"The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.",
+				"Il Giuramento della Corona è un giuramento sugli ideali della civiltà, che si tratti dello spirito di una nazione, della fedeltà a un sovrano o del servizio a una divinità della legge e del governo. I paladini che prestano questo giuramento si dedicano al servizio della società e, in particolare, delle leggi che tengono unita la società. Questi paladini sono i vigili guardiani sulle mura, che si oppongono alle caotiche ondate di barbarie che minacciano di abbattere tutto ciò che la civiltà ha costruito, e sono comunemente noti come guardiani, esemplari o sentinelle. Spesso, i paladini che prestano questo giuramento sono membri di un ordine cavalleresco al servizio di una nazione o di un sovrano, e sottostano al giuramento come parte della loro ammissione ai ranghi dell'ordine.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of the Crown|Paladin||Crown|SCAG|3"
@@ -3435,7 +3435,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are {@condition incapacitated} or die or if the creature is more than 30 feet away from you."
+				"Come azione bonus, lanci una sfida che costringe altre creature a combattere con te. Ogni creatura a tua scelta che puoi vedere entro 9 metri da te deve effettuare un tiro salvezza su Saggezza. Se fallisce il Tiro Salvezza, una creatura non può spostarsi volontariamente a più di 9 metri da te. Questo effetto termina sulla creatura se sei {@condition incapacitated} o muori o se la creatura è a più di 9 metri da te."
 			]
 		},
 		{
@@ -3449,7 +3449,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				"Quando presti questo giuramento al 3° livello, ottieni le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Champion Challenge|Paladin||Crown|SCAG|3"
@@ -3471,7 +3471,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain oath spells at the paladin levels listed.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of the Crown Spells",
@@ -3519,7 +3519,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.",
+				"I principi del Giuramento della Corona sono spesso stabiliti dal sovrano a cui viene prestato il giuramento, ma generalmente enfatizzano i seguenti principi.",
 				{
 					"type": "entries",
 					"entries": [
@@ -3527,7 +3527,7 @@
 							"type": "entries",
 							"name": "Law",
 							"entries": [
-								"The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected."
+								"La legge è fondamentale. È la malta che tiene insieme le pietre della civiltà e va rispettata."
 							]
 						}
 					]
@@ -3539,7 +3539,7 @@
 							"type": "entries",
 							"name": "Loyalty",
 							"entries": [
-								"Your word is your bond. Without loyalty, oaths and laws are meaningless."
+								"La tua parola è il tuo vincolo. Senza lealtà, giuramenti e leggi non hanno senso."
 							]
 						}
 					]
@@ -3551,7 +3551,7 @@
 							"type": "entries",
 							"name": "Courage",
 							"entries": [
-								"You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?"
+								"Devi essere disposto a fare ciò che è necessario per il bene dell’ordine, anche di fronte a probabilità schiaccianti. Se non reciti tu, chi lo farà?"
 							]
 						}
 					]
@@ -3563,7 +3563,7 @@
 							"type": "entries",
 							"name": "Responsibility",
 							"entries": [
-								"You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations."
+								"Devi affrontare le conseguenze delle tue azioni e sei responsabile dell'adempimento dei tuoi doveri e obblighi."
 							]
 						}
 					]
@@ -3584,7 +3584,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to {@dice 1d6} + your Charisma modifier (minimum of 1) if it has no more than half of its hit points."
+				"Come azione bonus, puoi rinforzare le creature ferite con Incanalare Divinità. Ogni creatura di tua scelta che può sentirti entro 9 metri da te recupera punti ferita pari a {@dice 1d6} + il tuo modificatore di Carisma (minimo 1) se non ha più della metà dei suoi punti ferita."
 			]
 		},
 		{
@@ -3598,7 +3598,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way."
+				"A partire dal 7° livello, quando una creatura entro 1,5 metri da te subisce danni, puoi usare la tua reazione per sostituire magicamente la tua salute con quella della creatura bersaglio, facendo sì che quella creatura non subisca il danno. Invece, subisci il danno. Questo danno per te non può essere ridotto o prevenuto in alcun modo."
 			]
 		},
 		{
@@ -3612,7 +3612,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Starting at 15th level, you have advantage on saving throws to avoid becoming {@condition paralyzed} or {@condition stunned}."
+				"A partire dal 15° livello, hai vantaggio sui tiri salvezza per evitare di diventare {@condition paralyzed} o {@condition stunned}."
 			]
 		},
 		{
@@ -3626,16 +3626,16 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:",
+				"Al 20° livello, la tua presenza sul campo di battaglia è fonte di ispirazione per coloro che si dedicano alla tua causa. Puoi usare la tua azione per ottenere i seguenti benefici per 1 ora:",
 				{
 					"type": "list",
 					"items": [
-						"You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.",
-						"Your allies have advantage on death saving throws while within 30 feet of you.",
-						"You have advantage on Wisdom saving throws, as do your allies within 30 feet of you."
+						"Hai resistenza ai danni contundenti, perforanti e taglienti inflitti dalle armi non magiche.",
+						"I tuoi alleati hanno vantaggio sui tiri salvezza dalla morte mentre si trovano entro 9 metri da te.",
+						"Hai vantaggio sui tiri salvezza su Saggezza, così come i tuoi alleati entro 9 metri da te."
 					]
 				},
-				"This effect ends early if you are {@condition incapacitated} or die. Once you use this feature, you can't use it again until you finish a long rest."
+				"Questo effetto termina presto se sei {@condition incapacitated} o muori. Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -3654,7 +3654,7 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.",
+				"I paladini che prestano il Giuramento di Gloria credono che loro e i loro compagni siano destinati a raggiungere la gloria attraverso atti di eroismo. Si allenano con impegno e incoraggiano i compagni per essere tutti pronti quando il destino chiama.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of Glory|Paladin||Glory|TCE|3"
@@ -3687,7 +3687,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Oath of Glory feature}",
-				"You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.",
+				"Ottieni le seguenti due opzioni di Incanalare Divinità. Vedi il privilegio di classe Giuramento Sacro per sapere come funziona Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Peerless Athlete|Paladin||Glory|TCE|3"
@@ -3716,7 +3716,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Oath of Glory feature}",
-				"You gain oath spells at the paladin levels listed in the Oath of Glory Spells table. See the Sacred Oath class feature for how oath spells work.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati nella tabella Incantesimi del Giuramento di Gloria. Vedi il privilegio di classe Giuramento Sacro per sapere come funzionano gli incantesimi del giuramento.",
 				{
 					"type": "table",
 					"caption": "Oath of Glory Spells",
@@ -3770,33 +3770,33 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.",
+				"I principi del Giuramento di Gloria spingono un paladino a tentare imprese eroiche che un giorno potrebbero brillare nella leggenda.",
 				{
 					"type": "entries",
 					"name": "Actions over Words",
 					"entries": [
-						"Strive to be known by glorious deeds, not words."
+						"Sforzati di farti conoscere con azioni gloriose, non con le parole."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Challenges Are but Tests",
 					"entries": [
-						"Face hardships with courage, and encourage your allies to face them with you."
+						"Affronta le difficoltà con coraggio e incoraggia i tuoi alleati ad affrontarle insieme a te."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Hone the Body",
 					"entries": [
-						"Like raw stone, your body must be worked so its potential can be realized."
+						"Come la pietra grezza, il tuo corpo deve essere lavorato affinché il suo potenziale possa essere realizzato."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Discipline the Soul",
 					"entries": [
-						"You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends."
+						"Devi usare la disciplina per superare i tuoi difetti interiori che minacciano di offuscare la gloria tua e dei tuoi amici."
 					]
 				}
 			]
@@ -3821,7 +3821,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"Immediately after you deal damage to a creature with your Divine Smite feature, you can use your Channel Divinity as a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals {@dice 2d8} + your level in this class, divided among the chosen creatures however you like."
+				"Immediatamente dopo aver inflitto danno a una creatura con il tuo privilegio Punizione Divina, puoi usare Incanalare Divinità come azione bonus e distribuire punti ferita temporanei a creature di tua scelta entro 9 metri da te, incluso te. Il numero totale di punti ferita temporanei è pari a {@dice 2d8} + il tuo livello in questa classe, diviso come preferisci tra le creature scelte."
 			]
 		},
 		{
@@ -3844,7 +3844,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength ({@skill Athletics}) and Dexterity ({@skill Acrobatics}) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal)."
+				"Come azione bonus, puoi usare Incanalare Divinità per aumentare il tuo atletismo. Per i prossimi 10 minuti, hai vantaggio sulle prove di Forza ({@skill Athletics}) e Destrezza ({@skill Acrobatics}); puoi trasportare, spingere, trascinare e sollevare il doppio del peso rispetto al normale; e la distanza dei tuoi salti lunghi e alti aumenta di 3 metri (questa distanza extra costa movimento come di norma)."
 			]
 		},
 		{
@@ -3865,8 +3865,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 7th-level Oath of Glory feature}",
-				"You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't {@condition incapacitated}, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.",
-				"When you reach 18th level in this class, the range of the aura increases to 10 feet."
+				"Emani un'aura che riempie te e i tuoi compagni con una velocità soprannaturale, permettendoti di correre attraverso un campo di battaglia in formazione. La tua velocità di camminata aumenta di 3 metri. Inoltre, se non lo sei {@condition incapacitated}, la velocità di camminata di qualsiasi alleato che inizia il suo turno entro 5 piedi da te aumenta di 10 piedi fino alla fine di quel turno.",
+				"Quando raggiungi il 18° livello in questa classe, la portata dell'aura aumenta a 3 metri."
 			]
 		},
 		{
@@ -3887,8 +3887,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 15th-level Oath of Glory feature}",
-				"You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction, provided the attacker is within your weapon's range.",
-				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest."
+				"Puoi trasformare la difesa in un attacco improvviso. Quando tu o un'altra creatura che puoi vedere entro 3 metri da te venite colpiti da un tiro per colpire, puoi usare la tua reazione per conferire un bonus alla CA del bersaglio contro quell'attacco, facendogli potenzialmente fallire. Il bonus è pari al tuo modificatore di Carisma (minimo +1). Se l'attacco fallisce, puoi effettuare un attacco con l'arma contro l'attaccante come parte di questa reazione, purché l'attaccante sia entro la portata della tua arma.",
+				"È possibile utilizzare questo privilegio un numero di volte pari al proprio modificatore di Carisma (minimo una volta) e si recuperano tutti gli usi spesi al termine di un riposo lungo."
 			]
 		},
 		{
@@ -3909,16 +3909,16 @@
 			"header": 2,
 			"entries": [
 				"{@i 20th-level Oath of Glory feature}",
-				"You can empower yourself with the legends\u2014whether true or exaggerated\u2014of your great deeds. As a bonus action, you gain the following benefits for 1 minute:",
+				"Puoi potenziarti con le leggende, vere o esagerate, delle tue grandi imprese. Come azione bonus, ottieni i seguenti benefici per 1 minuto:",
 				{
 					"type": "list",
 					"items": [
-						"You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.",
-						"Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.",
-						"If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll."
+						"Sei benedetto da una presenza ultraterrena, ottenendo vantaggio su tutte le prove di Carisma.",
+						"Una volta in ciascuno dei tuoi turni in cui effettui un attacco con un'arma e manchi, puoi invece far sì che quell'attacco colpisca.",
+						"Se fallisci un tiro salvezza, puoi usare la tua reazione per ripetere il tiro. Devi usare questo nuovo tiro."
 					]
 				},
-				"Once you use this feature, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again."
+				"Una volta utilizzato questo privilegio, non è possibile utilizzarlo nuovamente finché non si termina un riposo lungo, a meno che non si spenda uno slot incantesimo di 5° livello per utilizzarlo nuovamente."
 			]
 		},
 		{
@@ -3931,8 +3931,8 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"The Oath of the Watchers binds paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.",
-				"Paladins who follow the Watchers' oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle.",
+				"Il Giuramento dei Guardiani vincola i paladini a proteggere i regni mortali dalle predazioni delle creature extraplanari, molte delle quali possono devastare i soldati mortali. Pertanto, gli Osservatori affinano le loro menti, spiriti e corpi per essere le armi definitive contro tali minacce.",
+				"I paladini che seguono il giuramento degli Osservatori sono sempre vigili nell'individuare l'influenza delle forze extraplanari, spesso stabilendo una rete di spie e informatori per raccogliere informazioni sui sospetti culti. Per un Osservatore, mantenere un sano sospetto e consapevolezza riguardo a ciò che lo circonda è naturale come indossare un'armatura in battaglia.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of the Watchers|Paladin||Watchers|TCE|3"
@@ -3959,7 +3959,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Oath of the Watchers feature}",
-				"You gain the following Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.",
+				"Ottieni le seguenti opzioni di Incanalare Divinità. Vedi il privilegio di classe Giuramento Sacro per sapere come funziona Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Watcher's Will|Paladin||Watchers|TCE|3"
@@ -3982,7 +3982,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Oath of the Watchers feature}",
-				"You gain oath spells at the paladin levels listed in the Oath of the Watchers table. See the Sacred Oath class feature for how oath spells work.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati nella tabella Giuramento degli Osservatori. Vedi il privilegio di classe Giuramento Sacro per sapere come funzionano gli incantesimi del giuramento.",
 				{
 					"type": "table",
 					"caption": "Oath of the Watchers Spells",
@@ -4030,26 +4030,26 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms from otherworldly threats.",
+				"Un paladino che presta il Giuramento dei Guardiani giura di salvaguardare i regni mortali dalle minacce ultraterrene.",
 				{
 					"type": "entries",
 					"name": "Vigilance",
 					"entries": [
-						"The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption."
+						"Le minacce che affronti sono astute, potenti e sovversive. Siate sempre attenti alla loro corruzione."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Loyalty",
 					"entries": [
-						"Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty."
+						"Non accettare mai regali o favori da amici o da coloro che li accompagnano. Rimani fedele al tuo ordine, ai tuoi compagni e al tuo dovere."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Discipline",
 					"entries": [
-						"You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond."
+						"Tu sei lo scudo contro gli infiniti terrori che si trovano oltre le stelle. La tua lama deve essere sempre affilata e la tua mente desiderosa di sopravvivere a ciò che si trova oltre."
 					]
 				}
 			]
@@ -4068,8 +4068,8 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to castigate unworldly beings. As an action, you present your holy symbol and each aberration, celestial, elemental, fey, or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.",
-				"A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. For its action, it can use only the {@action Dash} action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can take the {@action Dodge} action."
+				"Puoi usare il tuo Incanalare Divinità per castigare gli esseri ultraterreni. Con un'azione, presenti il ​​tuo simbolo sacro e ogni aberrazione, celestiale, elementale, folletto o immondo entro 9 metri da te che possa sentirti, deve effettuare un tiro salvezza su Saggezza. Se il tiro salvezza fallisce, la creatura viene scacciata per 1 minuto o finché non subisce danni.",
+				"Una creatura scacciata deve trascorrere i suoi turni cercando di allontanarsi il più possibile da te, e non può terminare volontariamente il suo movimento in uno spazio entro 9 metri da te. Per la sua azione può utilizzare solo l'azione {@action Dash} oppure tentare di sfuggire a un effetto che gli impedisce di muoversi. Se non c'è nessun posto dove muoversi, la creatura può intraprendere l'azione {@action Dodge}."
 			]
 		},
 		{
@@ -4086,7 +4086,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to invest your presence with the warding power of your faith. As an action, you can choose a number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws."
+				"Puoi usare il tuo Canale Divinità per investire la tua presenza con il potere di protezione della tua fede. Come azione, puoi scegliere un numero di creature che puoi vedere entro 9 metri da te, fino a un numero pari al tuo modificatore di Carisma (minimo una creatura). Per 1 minuto, tu e le creature scelte avete vantaggio sui tiri salvezza su Intelligenza, Saggezza e Carisma."
 			]
 		},
 		{
@@ -4101,8 +4101,8 @@
 			"header": 2,
 			"entries": [
 				"{@i 7th-level Oath of the Watchers feature}",
-				"You emit an aura of alertness while you aren't {@condition incapacitated}. When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"Emetti un'aura di allerta mentre non lo sei {@condition incapacitated}. Quando tu e qualsiasi creatura di tua scelta entro 3 metri da te tirate l'iniziativa, ottenete tutti un bonus all'iniziativa pari al vostro bonus di competenza.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -4117,7 +4117,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 15th-level Oath of the Watchers feature}",
-				"You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal {@damage 2d8} + your Charisma modifier force damage to the creature that forced the saving throw."
+				"Hai imparato come castigare chiunque osi usare inganni contro di te e le tue difese. Ogni volta che tu o una creatura che puoi vedere entro 9 metri da te riuscite in un tiro salvezza di Intelligenza, Saggezza o Carisma, puoi usare la tua reazione per infliggere {@damage 2d8} + il tuo modificatore di Carisma danni forzali alla creatura che ha forzato il tiro salvezza."
 			]
 		},
 		{
@@ -4132,16 +4132,16 @@
 			"header": 2,
 			"entries": [
 				"{@i 20th-level Oath of the Watchers feature}",
-				"You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:",
+				"Manifesti una scintilla di potere divino in difesa dei regni mortali. Come azione bonus, ottieni i seguenti benefici per 1 minuto:",
 				{
 					"type": "list",
 					"items": [
-						"You gain {@sense truesight} with a range of 120 feet.",
-						"You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.",
-						"When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours."
+						"Guadagni {@sense truesight} con un raggio di 120 piedi.",
+						"Hai vantaggio ai tiri per colpire contro aberrazioni, celestiali, elementali, folletti e immondi.",
+						"Quando colpisci una creatura con un tiro per colpire e le infliggi danni, puoi anche obbligarla a effettuare un tiro salvezza su Carisma contro la CD del tiro salvezza dell'incantesimo. Se fallisce il Tiro Salvezza, la creatura viene magicamente esiliata nel suo piano di esistenza nativo se attualmente non è lì. Se il Tiro Salvezza riesce, la creatura non può essere bandita da questo privilegio per 24 ore."
 					]
 				},
-				"Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again."
+				"Una volta utilizzata questa azione bonus, non è possibile utilizzarla nuovamente finché non si termina un riposo lungo, a meno che non si spenda uno slot incantesimo di 5° livello per utilizzarla nuovamente."
 			]
 		},
 		{
@@ -4155,8 +4155,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon. Driven to search for adventure and mystery across and beneath every endless oceanic expanse, paladins who swear this oath stand against those who would deny liberty to like-minded travelers, rooting out tyranny and corruption wherever it is found.",
-				"Such guardians believe in the natural beauty of the sea, often making offerings and prayers to entities or deities such as the {@deity The Wildmother|Exandria|TDCSR|Wildmother} or the {@deity The Stormlord|Exandria|TDCSR|Stormlord} who influence safe passage. At the same time, they answer the call to hunt the monstrous creatures that too often bloody the waters with wanton violence and ill intent, and which terrorize the folk of the sea and shore.",
+				"Il Giuramento del Mare Aperto richiama guerrieri marinari, marinai spavaldi e guardiani viaggianti che cercano il brivido di un orizzonte illimitato. Spinti alla ricerca di avventure e misteri attraverso e sotto ogni infinita distesa oceanica, i paladini che prestano questo giuramento si oppongono a coloro che vorrebbero negare la libertà a viaggiatori che la pensano allo stesso modo, sradicando la tirannia e la corruzione ovunque si trovino.",
+				"Tali guardiani credono nella bellezza naturale del mare, spesso facendo offerte e preghiere a entità o divinità come il {@deity The Wildmother|Exandria|TDCSR|Wildmother} o il {@deity The Stormlord|Exandria|TDCSR|Stormlord} che influenzano il passaggio sicuro. Allo stesso tempo, rispondono alla chiamata di dare la caccia alle creature mostruose che troppo spesso insanguinano le acque con violenza sfrenata e cattive intenzioni, e che terrorizzano la gente del mare e della costa.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of the Open Sea|Paladin|PHB|Open Sea|TDCSR|3"
@@ -4182,7 +4182,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				"Quando presti questo giuramento al 3° livello, ottieni le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Marine Layer|Paladin||Open Sea|TDCSR|3"
@@ -4196,8 +4196,8 @@
 					"name": "Rules Tip: Visibility",
 					"page": 175,
 					"entries": [
-						"Fog and other effects can obscure vision for you, your enemies, and your allies. When you heavily obscure an area using your Marine Layer Channel Divinity option, all creatures within the area have their vision completely blocked, and creatures outside the area can't see in. Creatures that can't see automatically fail {@quickref ability checks|PHB|2|0} that require sight. Also, attack rolls against creatures that can't see have {@quickref Advantage and Disadvantage|PHB|2|0|advantage}, and their own attack rolls have {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage}.",
-						"Creatures in a lightly obscured area have {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage} only on Wisdom ({@skill Perception}) checks that rely on sight. The rules for when your vision is obscured are described completely in the fifth edition core rules."
+						"La nebbia e altri effetti possono oscurare la vista a te, ai tuoi nemici e ai tuoi alleati. Quando oscuri pesantemente un'area utilizzando l'opzione Marine Layer Channel Divinity, tutte le creature all'interno dell'area hanno la vista completamente bloccata e le creature all'esterno dell'area non possono vedere. Le creature che non possono vedere falliscono automaticamente {@quickref ability checks|PHB|2|0} che richiedono la vista. Inoltre, i tiri per colpire contro le creature che non possono vedere hanno {@quickref Advantage and Disadvantage|PHB|2|0|advantage} e i loro stessi tiri per colpire hanno {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage}.",
+						"Le creature in un'area leggermente oscurata hanno {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage} solo prove di Saggezza ({@skill Perception}) che si basano sulla vista. Le regole per quando la tua visione è oscurata sono descritte completamente nelle regole fondamentali della quinta edizione."
 					]
 				}
 			]
@@ -4216,7 +4216,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a bonus action, you channel the powerful might of the waves to bolster your attacks for 1 minute. Once per turn for the duration, when you hit a creature with a weapon attack, you can choose to push the target 10 feet away from you. If pushed into an obstacle or another creature, the target takes bludgeoning damage equal to your Charisma modifier."
+				"Come azione bonus, incanali la potente potenza delle onde per potenziare i tuoi attacchi per 1 minuto. Una volta per turno per la durata, quando colpisci una creatura con un attacco con arma, puoi scegliere di spingere il bersaglio a 3 metri lontano da te. Se spinto contro un ostacolo o un'altra creatura, il bersaglio subisce danni contundenti pari al tuo modificatore di Carisma."
 			]
 		},
 		{
@@ -4233,7 +4233,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As an action, you channel the sea to create a thick cloud of fog that surrounds you for 20 feet in all directions. The fog moves with you, remaining centered on you and making its area heavily obscured. You and each creature within 5 feet of you instead treat the area as lightly obscured. This fog lasts for 10 minutes, spreads around corners, and cannot be dispersed unless you choose to end this effect (no action required)."
+				"Con un'azione, incanali il mare per creare una fitta nuvola di nebbia che ti circonda per 6 metri in tutte le direzioni. La nebbia si muove con te, rimanendo centrata su di te e rendendo la sua area fortemente oscurata. Tu e ogni creatura entro 1,5 metri da te considerate invece l'area come leggermente oscurata. Questa nebbia dura 10 minuti, si diffonde dietro gli angoli e non può essere dispersa a meno che tu non scelga di porre fine a questo effetto (non è richiesta alcuna azione)."
 			]
 		},
 		{
@@ -4247,7 +4247,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"You gain oath spells at the paladin levels listed in the Oath of the Open Sea Spells table. Spells marked with an asterisk are new spells described on the {@filter spells page|spells|source=TDCSR}.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati nella tabella Incantesimi del Giuramento del Mare Aperto. Gli incantesimi contrassegnati da un asterisco sono nuovi incantesimi descritti su {@filter spells page|spells|source=TDCSR}.",
 				{
 					"type": "table",
 					"caption": "Oath of the Open Sea Spells",
@@ -4295,13 +4295,13 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Freedom can be a selfless virtue or a selfish want. For paladins who swear the Oath of the Open Sea, freedom is the highest calling, and a gift to be granted to all.",
+				"La libertà può essere una virtù altruistica o un desiderio egoistico. Per i paladini che prestano il Giuramento del Mare Aperto, la libertà è la vocazione più alta e un dono da concedere a tutti.",
 				{
 					"type": "entries",
 					"name": "No Greater Life than a Life Lived Free",
 					"page": 175,
 					"entries": [
-						"One should be free to chart their own path without oppression. Those who would exert their power to dominate others shall be smote."
+						"Uno dovrebbe essere libero di tracciare il proprio percorso senza oppressione. Coloro che vorrebbero esercitare il loro potere per dominare gli altri saranno colpiti."
 					]
 				},
 				{
@@ -4309,7 +4309,7 @@
 					"name": "Trust the Skies",
 					"page": 175,
 					"entries": [
-						"The guidance of a strong breeze. The rumbling warnings of a coming storm. Nature is a source of portent and council that should be heeded."
+						"La guida di una forte brezza. I rimbombanti avvertimenti di una tempesta imminente. La natura è una fonte di portenti e consigli a cui bisogna prestare attenzione."
 					]
 				},
 				{
@@ -4317,7 +4317,7 @@
 					"name": "Adapt Like the Water",
 					"page": 175,
 					"entries": [
-						"The waters of the ocean can shift around any obstacle\u2014or become the most impassable obstacle of all. They carve away the land to reveal the secrets of the past, or swallow the truth and hide it forever. To embrace this fluidity is to be ready for any challenge."
+						"Le acque dell’oceano possono aggirare qualsiasi ostacolo o diventare l’ostacolo più insormontabile di tutti. Scolpiscono la terra per rivelare i segreti del passato, oppure ingoiano la verità e la nascondono per sempre. Abbracciare questa fluidità significa essere pronti per qualsiasi sfida."
 					]
 				},
 				{
@@ -4325,7 +4325,7 @@
 					"name": "Explore the Uncharted",
 					"page": 175,
 					"entries": [
-						"The world is filled with mystery. Through the pursuit of enigmatic ends, one can uncover those who hide their foul deeds, and find the path to becoming something great."
+						"Il mondo è pieno di mistero. Attraverso il perseguimento di fini enigmatici, si possono scoprire coloro che nascondono le loro cattive azioni e trovare la strada per diventare qualcosa di grande."
 					]
 				}
 			]
@@ -4341,7 +4341,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Starting at 7th level, you fill nearby creatures with the energy of movement. While you're not {@condition incapacitated}, you and creatures of your choice within 10 feet of you cannot be {@condition grappled} or {@condition restrained}, and {@quickref Underwater Combat|PHB|3|0|ignore penalties on movement and attacks while underwater}. Creatures that are already {@condition grappled} or {@condition restrained} when they enter the aura can spend 5 feet of movement to automatically escape unless they are bound by magic restraints."
+				"A partire dal 7° livello, riempi le creature vicine con l'energia del movimento. Mentre non sei {@condition incapacitated}, tu e le creature di tua scelta entro 10 piedi da te non potete essere {@condition grappled} o {@condition restrained} e {@quickref Underwater Combat|PHB|3|0|ignore penalties on movement and attacks while underwater}. Le creature che sono già {@condition grappled} o {@condition restrained} quando entrano nell'aura possono spendere 5 piedi di movimento per scappare automaticamente a meno che non siano vincolate da restrizioni magiche."
 			]
 		},
 		{
@@ -4355,7 +4355,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"At 15th level, you can call on the force of crashing waters as a reaction whenever a creature moves into or out of your reach. The creature takes {@damage 1d12} bludgeoning damage and must succeed on a Strength {@quickref saving throws|PHB|2|1|saving throw} against your spell save DC or be knocked {@condition prone}."
+				"Al 15° livello, puoi invocare la forza delle acque che si infrangono come reazione ogni volta che una creatura entra o esce dalla tua portata. La creatura subisce {@damage 1d12} danni contundenti e deve superare un punteggio di Forza {@quickref saving throws|PHB|2|1|saving throw} contro la CD del tuo tiro salvezza dell'incantesimo o essere buttata a terra {@condition prone}."
 			]
 		},
 		{
@@ -4369,7 +4369,7 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"When you reach 18th level in this class, the aura affects creatures within 30 feet of you."
+				"Quando raggiungi il 18° livello in questa classe, l'aura influenza le creature entro 9 metri da te."
 			]
 		},
 		{
@@ -4383,17 +4383,17 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, you learn to channel the spirits of historic sea captains to briefly become a paragon of heroic adventure. As an action, you embrace these spirits of the sea to gain the following benefits for 1 minute:",
+				"Al 20° livello, impari a incanalare gli spiriti dei capitani di mare storici per diventare per breve tempo un esempio di avventure eroiche. Con un’azione, abbracci questi spiriti del mare per ottenere i seguenti benefici per 1 minuto:",
 				{
 					"type": "list",
 					"items": [
-						"You have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on Strength ({@skill Athletics}) checks and you gain a climbing speed equal to your walking speed. If you already have a climbing speed, it is doubled.",
-						"If you are within 5 feet of a creature and no other creatures are within 5 feet of you, you have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on attack rolls against that creature.",
-						"You can take the {@action Dash} or {@action Disengage} action as a bonus action.",
-						"You have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on Dexterity checks and Dexterity {@quickref saving throws|PHB|2|1} against effects you can see."
+						"Hai {@quickref Advantage and Disadvantage|PHB|2|0|advantage} sulle prove di Forza ({@skill Athletics}) e ottieni una velocità di arrampicata pari alla tua velocità di camminata. Se hai già una velocità di salita, questa viene raddoppiata.",
+						"Se ti trovi entro 5 piedi da una creatura e non ci sono altre creature entro 5 piedi da te, hai {@quickref Advantage and Disadvantage|PHB|2|0|advantage} sui tiri per colpire contro quella creatura.",
+						"Puoi eseguire l'azione {@action Dash} o {@action Disengage} come azione bonus.",
+						"Hai {@quickref Advantage and Disadvantage|PHB|2|0|advantage} sulle prove di Destrezza e Destrezza {@quickref saving throws|PHB|2|1} contro gli effetti che puoi vedere."
 					]
 				},
-				"Once you use this feature, you can't use it again until you finish a {@quickref resting|PHB|2|0|long rest}."
+				"Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@quickref resting|PHB|2|0|long rest}."
 			]
 		},
 		{
@@ -4406,8 +4406,8 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.",
-				"Some of these paladins go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these paladins\u2014called hell knights\u2014as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other paladins of this oath, who believe that the hell knights have wandered too far into darkness.",
+				"Il Giuramento di Conquista richiama paladini che cercano la gloria in battaglia e la sottomissione dei loro nemici. Non basta che questi paladini stabiliscano l'ordine. Devono schiacciare le forze del caos. A volte chiamati cavalieri tiranni o mercanti di ferro, coloro che prestano questo giuramento si riuniscono in cupi ordini che servono gli dei o le filosofie di guerra e il potere ben ordinato.",
+				"Alcuni di questi paladini arrivano al punto di associarsi con i poteri dei Nove Inferni, valorizzando lo stato di diritto rispetto al balsamo della misericordia. L'arcidiavolo Bel, signore della guerra dell'Avernus, annovera molti di questi paladini, chiamati cavalieri infernali, come i suoi più ardenti sostenitori. I cavalieri infernali ricoprono le loro armature con trofei presi dai nemici caduti, un cupo avvertimento per chiunque osi opporsi a loro e ai decreti dei loro signori. Questi cavalieri sono spesso ferocemente contrastati da altri paladini di questo giuramento, i quali credono che i cavalieri infernali abbiano vagato troppo lontano nell'oscurità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of Conquest|Paladin||Conquest|XGE|3"
@@ -4433,7 +4433,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				"Quando presti questo giuramento al 3° livello, ottieni le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Conquering Presence|Paladin||Conquest|XGE|3"
@@ -4458,7 +4458,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes {@condition frightened} of you for 1 minute. The {@condition frightened} creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success."
+				"Puoi usare Incanalare Divinità per emanare una presenza terrificante. Con un'azione, costringi ogni creatura di tua scelta che puoi vedere entro 9 metri da te a effettuare un tiro salvezza su Saggezza. In caso di tiro salvezza fallito, una creatura diventa {@condition frightened} di te per 1 minuto. La creatura {@condition frightened} può ripetere questo tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 			]
 		},
 		{
@@ -4475,7 +4475,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses."
+				"Puoi usare Incanalare Divinità per colpire con precisione soprannaturale. Quando effettui un tiro per colpire, puoi usare Incanalare Divinità per ottenere un bonus di +10 al tiro. Fai questa scelta dopo aver visto il tiro, ma prima che il DM dica se l'attacco va a segno o manca."
 			]
 		},
 		{
@@ -4489,7 +4489,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain oath spells at the paladin levels listed.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of Conquest Spells",
@@ -4537,7 +4537,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"A paladin who takes this oath has the tenets of conquest seared on the upper arm.",
+				"Un paladino che presta questo giuramento ha i principi della conquista impressi sulla parte superiore del braccio.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4545,21 +4545,21 @@
 							"type": "entries",
 							"name": "Douse the Flame of Hope",
 							"entries": [
-								"It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire."
+								"Non è sufficiente semplicemente sconfiggere un nemico in battaglia. La tua vittoria deve essere così schiacciante da distruggere per sempre la volontà di combattere dei tuoi nemici. Una lama può porre fine a una vita. La paura può porre fine a un impero."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Rule with an Iron Fist",
 							"entries": [
-								"Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow."
+								"Una volta conquistato, non tollerare alcun dissenso. La tua parola è legge. Coloro che obbediscono saranno favoriti. Coloro che lo sfidano saranno puniti come esempio per tutti coloro che potrebbero seguirlo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Strength Above All",
 							"entries": [
-								"You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin."
+								"Regnerai finché non sorgerà uno più forte. Allora dovrai diventare più potente e affrontare la sfida, altrimenti cadrai in rovina."
 							]
 						}
 					]
@@ -4577,9 +4577,9 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Starting at 7th level, you constantly emanate a menacing aura while you're not {@condition incapacitated}. The aura extends 10 feet from you in every direction, but not through {@quickref Cover||3||total cover}.",
-				"If a creature is {@condition frightened} of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"A partire dal 7° livello emani costantemente un'aura minacciosa mentre non lo sei {@condition incapacitated}. L'aura si estende per 3 metri da te in ogni direzione, ma non attraverso {@quickref Cover||3||total cover}.",
+				"Se una creatura è {@condition frightened} come te, la sua velocità viene ridotta a 0 mentre si trova nell'aura e quella creatura subisce danni psichici pari alla metà del tuo livello da paladino se inizia il suo turno lì.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -4593,7 +4593,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not {@condition incapacitated}."
+				"A partire dal 15° livello, coloro che osano colpirti vengono puniti psichicamente per la loro audacia. Ogni volta che una creatura ti colpisce con un attacco, quella creatura subisce danni psichici pari al tuo modificatore di Carisma (minimo 1) se non lo sei {@condition incapacitated}."
 			]
 		},
 		{
@@ -4607,16 +4607,16 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:",
+				"Al 20° livello, ottieni la capacità di sfruttare una straordinaria abilità marziale. Con un'azione, puoi diventare magicamente un avatar di conquista, ottenendo i seguenti benefici per 1 minuto:",
 				{
 					"type": "list",
 					"items": [
-						"You have resistance to all damage.",
-						"When you take the {@action Attack} action on your turn, you can make one additional attack as part of that action.",
-						"Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the {@dice d20}."
+						"Hai resistenza a tutti i danni.",
+						"Quando esegui l'azione {@action Attack} nel tuo turno, puoi effettuare un attacco aggiuntivo come parte di quell'azione.",
+						"I tuoi attacchi con armi da mischia ottengono un colpo critico con un tiro di 19 o 20 sul {@dice d20}."
 					]
 				},
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -4629,8 +4629,8 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning their foes to the light, and they slay their enemies only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.",
-				"While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, paladins who swear this oath bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption.",
+				"Il Giuramento di Redenzione pone il paladino su un percorso difficile, che richiede al guerriero sacro di usare la violenza solo come ultima risorsa. I paladini che si dedicano a questo giuramento credono che qualsiasi persona possa essere redenta e che la via della benevolenza e della giustizia sia quella che chiunque può percorrere. Questi paladini affrontano creature malvagie nella speranza di volgere i loro nemici verso la luce, e uccidono i loro nemici solo quando tale atto salverà chiaramente altre vite. I paladini che seguono questo percorso sono conosciuti come redentori.",
+				"Anche se i redentori sono idealisti, non sono degli sciocchi. I redentori sanno che i non morti, i demoni, i diavoli e altre minacce soprannaturali possono essere intrinsecamente malvagi. Contro tali nemici, i paladini che prestano questo giuramento impiegano tutta la furia delle loro armi e dei loro incantesimi. Eppure i redentori pregano ancora affinché, un giorno, anche le creature malvagie invitino alla propria redenzione.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tenets of Redemption|Paladin||Redemption|XGE|3"
@@ -4656,7 +4656,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				"Quando presti questo giuramento al 3° livello, ottieni le seguenti due opzioni di Incanalare Divinità.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Emissary of Peace|Paladin||Redemption|XGE|3"
@@ -4681,7 +4681,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ({@skill Persuasion}) checks for the next 10 minutes."
+				"Puoi usare il tuo Canale Divinità per aumentare la tua presenza con potere divino. Come azione bonus, ti concedi un bonus di +5 alle prove di Carisma ({@skill Persuasion}) per i successivi 10 minuti."
 			]
 		},
 		{
@@ -4695,7 +4695,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain oath spells at the paladin levels listed.",
+				"Ottieni gli incantesimi del giuramento ai livelli da paladino elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of Redemption Spells",
@@ -4746,7 +4746,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"You can use your Channel Divinity to rebuke those who use violence. Immediately after an attacker within 30 feet of you deals damage with an attack against a creature other than you, you can use your reaction to force the attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage."
+				"Puoi usare il tuo Canale Divinità per rimproverare coloro che usano la violenza. Immediatamente dopo che un attaccante entro 9 metri da te infligge danni con un attacco contro una creatura diversa da te, puoi usare la tua reazione per costringere l'attaccante a effettuare un tiro salvezza su Saggezza. Se fallisce il Tiro Salvezza, l'attaccante subisce danni radiosi pari al danno appena inflitto. Se il tiro salvezza riesce, subisce la metà dei danni."
 			]
 		},
 		{
@@ -4760,7 +4760,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.",
+				"I principi del Giuramento di Redenzione mantengono un paladino ad un elevato standard di pace e giustizia.",
 				{
 					"type": "entries",
 					"entries": [
@@ -4768,7 +4768,7 @@
 							"type": "entries",
 							"name": "Peace",
 							"entries": [
-								"Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace."
+								"La violenza è un’arma di ultima istanza. Diplomazia e comprensione sono le vie verso una pace duratura."
 							]
 						}
 					]
@@ -4780,7 +4780,7 @@
 							"type": "entries",
 							"name": "Innocence",
 							"entries": [
-								"All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path."
+								"Tutte le persone iniziano la vita in uno stato innocente, ed è il loro ambiente o l'influenza delle forze oscure che le spinge al male. Dando il giusto esempio e lavorando per curare le ferite di un mondo profondamente imperfetto, puoi indirizzare chiunque sulla retta via."
 							]
 						}
 					]
@@ -4792,7 +4792,7 @@
 							"type": "entries",
 							"name": "Patience",
 							"entries": [
-								"Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish."
+								"Il cambiamento richiede tempo. Coloro che hanno percorso il sentiero dei malvagi devono ricevere dei promemoria per mantenerli onesti e leali. Una volta che hai piantato il seme della rettitudine in una creatura, devi lavorare giorno dopo giorno per permettere a quel seme di sopravvivere e fiorire."
 							]
 						}
 					]
@@ -4804,7 +4804,7 @@
 							"type": "entries",
 							"name": "Wisdom",
 							"entries": [
-								"Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just."
+								"Il tuo cuore e la tua mente devono rimanere lucidi, perché alla fine sarai costretto ad ammettere la sconfitta. Anche se ogni creatura può essere redenta, alcune sono così lontane sulla via del male che non hai altra scelta se non quella di porre fine alle loro vite per un bene superiore. Qualsiasi azione di questo tipo deve essere attentamente valutata e le conseguenze pienamente comprese, ma una volta presa la decisione, proseguila sapendo che il tuo percorso è giusto."
 							]
 						}
 					]
@@ -4822,8 +4822,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Starting at 7th level, you can shield others from harm at the cost of your own health. When a creature within 10 feet of you takes damage, you can use your reaction to magically take that damage, instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"A partire dal 7° livello, puoi proteggere gli altri dai danni a scapito della tua salute. Quando una creatura entro 3 metri da te subisce danni, puoi usare la tua reazione per subire magicamente quel danno, anziché essere quella creatura a subirlo. Questa funzionalità non trasferisce nessun altro effetto che potrebbe accompagnare il danno e questo danno non può essere ridotto in alcun modo.",
+				"Al 18° livello, la portata di quest'aura aumenta a 9 metri."
 			]
 		},
 		{
@@ -4837,7 +4837,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to {@dice 1d6} + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't {@condition incapacitated}."
+				"A partire dal 15° livello, una presenza sacra cura le tue ferite in battaglia. Recuperi punti ferita pari a {@dice 1d6} + metà del tuo livello da paladino se finisci il tuo turno in combattimento con meno della metà dei tuoi punti ferita rimanenti e non lo sei {@condition incapacitated}."
 			]
 		},
 		{
@@ -4851,15 +4851,15 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"At 20th level, you become an avatar of peace, which gives you two benefits:",
+				"Al 20° livello, diventi un avatar di pace, che ti dà due benefici:",
 				{
 					"type": "list",
 					"items": [
-						"You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).",
-						"Whenever a creature hits you with an attack, it takes radiant damage equal to half the damage you take from the attack."
+						"Hai resistenza a tutti i danni inflitti da altre creature (i loro attacchi, incantesimi e altri effetti).",
+						"Ogni volta che una creatura ti colpisce con un attacco, subisce danni radiosi pari alla metà dei danni che subisci dall'attacco."
 					]
 				},
-				"If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a long rest."
+				"Se attacchi una creatura, lanci un incantesimo su di essa o le infliggi danni con qualsiasi mezzo tranne questa caratteristica, nessuno dei due benefici funziona contro quella creatura finché non finisci un riposo lungo."
 			]
 		},
 		{
@@ -4875,7 +4875,7 @@
 				"amount": 1
 			},
 			"entries": [
-				"Earth rises up around the target of your Divine Smite. The target has the {@condition Grappled|XPHB} condition (escape DC equal to your spell save DC). While {@condition Grappled|XPHB}, the target has the {@condition Restrained|XPHB} condition."
+				"La Terra si solleva attorno al bersaglio della tua Punizione Divina. Il bersaglio ha la condizione {@condition Grappled|XPHB} (CD di fuga pari alla CD del tuo salvataggio dell'incantesimo). Mentre {@condition Grappled|XPHB}, la destinazione ha la condizione {@condition Restrained|XPHB}."
 			]
 		},
 		{
@@ -4891,7 +4891,7 @@
 				"amount": 1
 			},
 			"entries": [
-				"You {@variantrule Teleportation|XPHB|teleport} to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have {@variantrule Resistance|XPHB} to Bludgeoning, Piercing, and Slashing damage, and you have {@variantrule Immunity|XPHB} to the {@condition Grappled|XPHB}, {@condition Prone|XPHB}, and {@condition Restrained|XPHB} conditions."
+				"Tu {@variantrule Teleportation|XPHB|teleport} in uno spazio non occupato che puoi vedere entro 9 metri da te e assumi una forma semi-incorporea, che dura fino alla fine del tuo turno successivo. Mentre sei in questa forma, hai {@variantrule Resistance|XPHB} per i danni contundenti, perforanti e taglienti e hai {@variantrule Immunity|XPHB} per le condizioni {@condition Grappled|XPHB}, {@condition Prone|XPHB} e {@condition Restrained|XPHB}."
 			]
 		},
 		{
@@ -4907,7 +4907,7 @@
 				"amount": 1
 			},
 			"entries": [
-				"The target of your Divine Smite takes an extra {@damage 2d4} Fire damage, and fire jumps from the target to another creature you can see within 30 feet of yourself. The second creature also takes {@damage 2d4} Fire damage."
+				"Il bersaglio della tua Punizione Divina subisce un danno da fuoco extra {@damage 2d4} e il fuoco salta dal bersaglio a un'altra creatura che puoi vedere entro 9 metri da te. Anche la seconda creatura subisce {@damage 2d4} danni da fuoco."
 			]
 		},
 		{
@@ -4919,7 +4919,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"Immediately after you cast {@spell Divine Smite|XPHB}, you can expend one use of your {@classFeature Channel Divinity|Paladin|XPHB|3|XPHB} and invoke one of the following effects.",
+				"Immediatamente dopo aver lanciato {@spell Divine Smite|XPHB}, puoi spendere un utilizzo del tuo {@classFeature Channel Divinity|Paladin|XPHB|3|XPHB} e invocare uno dei seguenti effetti.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Dao's Crush|Paladin|XPHB|Noble Genies|FRHoF|3|FRHoF"
@@ -4947,7 +4947,7 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"When you reach a Paladin level specified in the Genie Spells table, you thereafter always have the listed spells prepared.",
+				"Quando raggiungi il livello di Paladino specificato nella tabella Incantesimi del Genio, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -4992,8 +4992,8 @@
 			"subclassSource": "FRHoF",
 			"level": 3,
 			"entries": [
-				"When you aren't wearing any armor, your base {@variantrule Armor Class|XPHB} equals 10 plus your Dexterity and Charisma modifiers. You can use a Shield and still gain this benefit.",
-				"You also gain proficiency in one of the following skills of your choice: {@skill Acrobatics|XPHB}, {@skill Intimidation|XPHB}, {@skill Performance|XPHB}, or {@skill Persuasion|XPHB}."
+				"Quando non indossi alcuna armatura, la tua base {@variantrule Armor Class|XPHB} è pari a 10 più i tuoi modificatori di Destrezza e Carisma. Puoi usare uno Scudo e ottenere comunque questo beneficio.",
+				"Ottieni inoltre competenza in una delle seguenti abilità a tua scelta: {@skill Acrobatics|XPHB}, {@skill Intimidation|XPHB}, {@skill Performance|XPHB} o {@skill Persuasion|XPHB}."
 			]
 		},
 		{
@@ -5009,7 +5009,7 @@
 				"amount": 1
 			},
 			"entries": [
-				"The target of your Divine Smite and each creature of your choice in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you make a Strength saving throw against your spell save DC. On a failed save, a creature is pushed 15 feet straight away from you and has the {@condition Prone|XPHB} condition."
+				"Il bersaglio della tua Punizione Divina e ogni creatura di tua scelta in un raggio di 3 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originata da te effettuano un tiro salvezza su Forza contro la CD del tiro salvezza dell'incantesimo. In caso di tiro salvezza fallito, una creatura viene spinta a 15 piedi direttamente da te e presenta la condizione {@condition Prone|XPHB}."
 			]
 		},
 		{
@@ -5022,15 +5022,15 @@
 			"level": 3,
 			"entries": [
 				"{@i Brandish the Elemental Splendor of Genies}",
-				"Paladins sworn to the Oath of the Noble Genies revere the forces of the Elemental Planes. Through taking this oath, Paladins draw power from the four different types of genies\u2014dao, masters of earth; djinn, masters of air; efreet, masters of fire; and marids, masters of water. In Faerûn, many Paladins who swear this oath hail from Calimshan, a land teeming with genies.",
-				"Paladins who swear this oath often undertake quests that take them all over the Realms and across the multiverse\u2014including the Elemental Planes. These paladins share the following tenets:",
+				"I Paladini che hanno prestato giuramento ai Nobili Geni venerano le forze dei Piani Elementali. Prestando questo giuramento, i Paladini traggono potere dai quattro diversi tipi di geni: dao, signori della terra; djinn, signori dell'aria; efreet, maestri del fuoco; e marid, signori dell'acqua. Nel Faerûn, molti Paladini che prestano questo giuramento provengono da Calimshan, una terra brulicante di geni.",
+				"I paladini che prestano questo giuramento spesso intraprendono missioni che li portano in tutti i Regni e attraverso il multiverso, compresi i Piani Elementali. Questi paladini condividono i seguenti principi:",
 				{
 					"type": "list",
 					"page": 5,
 					"items": [
-						"Sow the seeds of creation amid the ashes of destruction.",
-						"Lead with splendor and grace.",
-						"Respect the elements, and fear their wrath."
+						"Seminare i semi della creazione tra le ceneri della distruzione.",
+						"Guida con splendore e grazia.",
+						"Rispetta gli elementi e temi la loro ira."
 					]
 				},
 				{
@@ -5057,8 +5057,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You and your allies have {@variantrule Resistance|XPHB} to that damage type while in your Aura of Protection.",
-				"At the start of each of your turns, you can change the damage type affected by this feature to one of the other listed options (no action required)."
+				"Scegli uno dei seguenti tipi di danno: acido, freddo, fuoco, fulmine o tuono. Tu e i tuoi alleati avete {@variantrule Resistance|XPHB} su quel tipo di danno mentre siete nella vostra Aura di protezione.",
+				"All'inizio di ciascuno dei tuoi turni, puoi cambiare il tipo di danno influenzato da questa funzione in una delle altre opzioni elencate (non è richiesta alcuna azione)."
 			]
 		},
 		{
@@ -5071,8 +5071,8 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you are hit by an attack roll, you can take a {@variantrule Reaction|XPHB} to halve the attack's damage against yourself (round down) and force the attacker to make a Dexterity saving throw against your spell save DC. On a failed save, the attacker takes damage equal to {@dice 2d10} plus your Charisma modifier of one of the following types (your choice): Acid, Cold, Fire, Lightning, or Thunder. On a successful save, the attacker takes half as much damage.",
-				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Quando vieni colpito da un tiro per colpire, puoi effettuare un {@variantrule Reaction|XPHB} per dimezzare il danno dell'attacco contro te stesso (arrotondato per difetto) e costringere l'attaccante a effettuare un tiro salvezza su Destrezza contro la tua CD del tiro salvezza dell'incantesimo. In caso di tiro salvezza fallito, l'attaccante subisce danni pari a {@dice 2d10} più il tuo modificatore di Carisma di uno dei seguenti tipi (a tua scelta): Acido, Freddo, Fuoco, Fulmine o Tuono. Se il Tiro Salvezza riesce, l'attaccante subisce la metà dei danni.",
+				"Puoi utilizzare questa funzione un numero di volte pari al tuo modificatore di Carisma (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -5085,13 +5085,13 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Come {@variantrule Bonus Action|XPHB}, ottieni i seguenti vantaggi per 10 minuti o finché non li termini (non è richiesta alcuna azione). Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}. Puoi anche ripristinarne l'utilizzo spendendo uno slot incantesimo di livello 5 (non è richiesta alcuna azione).",
 				{
 					"type": "entries",
 					"name": "Flight",
 					"page": 5,
 					"entries": [
-						"You have a {@variantrule Fly Speed|XPHB} of 60 feet and can hover."
+						"Hai un {@variantrule Fly Speed|XPHB} di 60 piedi e puoi librarti."
 					]
 				},
 				{
@@ -5099,7 +5099,7 @@
 					"name": "Minor Wish",
 					"page": 5,
 					"entries": [
-						"When you or an ally in your {@classFeature Aura of Protection|Paladin|XPHB|6|XPHB} fails a {@variantrule D20 Test|XPHB}, you can take a {@variantrule Reaction|XPHB} to make the {@variantrule D20 Test|XPHB} succeed instead."
+						"Quando tu o un alleato nel tuo {@classFeature Aura of Protection|Paladin|XPHB|6|XPHB} fallisci un {@variantrule D20 Test|XPHB}, puoi prendere un {@variantrule Reaction|XPHB} per far sì che il {@variantrule D20 Test|XPHB} abbia successo."
 					]
 				}
 			]
@@ -5117,7 +5117,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the {@condition Restrained|XPHB} condition for 1 minute. A {@condition Restrained|XPHB} creature repeats the save at the end of each of its turns, ending the effect on itself on a success."
+				"Come azione {@action Magic|XPHB}, puoi spendere un uso di Incanalare Divinità per evocare rampicanti spettrali attorno alle creature vicine. Ogni creatura di tua scelta che puoi vedere entro 15 piedi da te deve riuscire un tiro salvezza sulla Forza o avere la condizione {@condition Restrained|XPHB} per 1 minuto. Una creatura {@condition Restrained|XPHB} ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 			]
 		},
 		{
@@ -5131,14 +5131,14 @@
 			"level": 3,
 			"entries": [
 				"{@i Preserve Life and Light in the World}",
-				"The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They often adorn their armor and clothing with images of growing things\u2014leaves, antlers, or flowers\u2014to reflect their commitment to preserving life and light.",
-				"These paladins share the following tenets:",
+				"Il Giuramento degli Antichi è antico quanto i primi elfi. I paladini che prestano questo giuramento adorano la luce; amano le cose belle e vivificanti del mondo più di qualsiasi principio di onore, coraggio e giustizia. Spesso adornano le loro armature e i loro vestiti con immagini di cose che crescono (foglie, corna o fiori) per riflettere il loro impegno nel preservare la vita e la luce.",
+				"Questi paladini condividono i seguenti principi:",
 				{
 					"type": "list",
 					"items": [
-						"Kindle the light of hope.",
-						"Shelter life.",
-						"Delight in art and laughter."
+						"Accendi la luce della speranza.",
+						"Vita da rifugio.",
+						"Piacere dell'arte e delle risate."
 					]
 				},
 				{
@@ -5161,7 +5161,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of the Ancients Spells table, you thereafter always have the listed spells prepared.",
+				"La magia del tuo giuramento ti assicura di avere sempre certi incantesimi pronti; quando raggiungi il livello di Paladino specificato nella tabella degli incantesimi del Giuramento degli Antichi, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of the Ancients Spells",
@@ -5209,7 +5209,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have {@variantrule Resistance|XPHB} to Necrotic, Psychic, and Radiant damage while in your Aura of Protection."
+				"L'antica magia grava così pesantemente su di te da formare una barriera misteriosa, ottundendo l'energia proveniente da oltre il Piano Materiale; tu e i tuoi alleati subite {@variantrule Resistance|XPHB} danni necrotici, psichici e radiosi mentre siete nella vostra aura di protezione."
 			]
 		},
 		{
@@ -5223,8 +5223,8 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"When you are reduced to 0 {@variantrule Hit Points|XPHB} and not killed outright, you can drop to 1 {@variantrule Hit Points|XPHB|Hit Point} instead, and you regain a number of {@variantrule Hit Points|XPHB} equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}.",
-				"Additionally, you can't be aged magically, and you cease visibly aging."
+				"Quando sei ridotto a 0 {@variantrule Hit Points|XPHB} e non sei ucciso sul colpo, puoi invece scendere a 1 {@variantrule Hit Points|XPHB|Hit Point} e riguadagnare un numero di {@variantrule Hit Points|XPHB} pari a tre volte il tuo livello di Paladino. Una volta utilizzata questa funzione, non potrai farlo di nuovo finché non avrai completato un {@variantrule Long Rest|XPHB}.",
+				"Inoltre, non puoi invecchiare magicamente e smetti di invecchiare visibilmente."
 			]
 		},
 		{
@@ -5238,26 +5238,26 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Come {@variantrule Bonus Action|XPHB}, puoi impregnare la tua Aura di Protezione con potere primordiale, garantendo i benefici seguenti per 1 minuto o finché non li poni fine (non è richiesta alcuna azione). Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}. Puoi anche ripristinarne l'utilizzo spendendo uno slot incantesimo di livello 5 (non è richiesta alcuna azione).",
 				{
 					"type": "entries",
 					"name": "Diminish Defiance",
 					"entries": [
-						"Enemies in the aura have {@variantrule Disadvantage|XPHB} on saving throws against your spells and Channel Divinity options."
+						"I nemici nell'aura hanno {@variantrule Disadvantage|XPHB} sui tiri salvezza contro i tuoi incantesimi e le opzioni di Incanalare Divinità."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Regeneration",
 					"entries": [
-						"At the start of each of your turns, you regain 10 {@variantrule Hit Points|XPHB}."
+						"All'inizio di ogni tuo turno, recuperi 10 {@variantrule Hit Points|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Swift Spells",
 					"entries": [
-						"Whenever you cast a spell that has a casting time of an action, you can cast it using a {@variantrule Bonus Action|XPHB} instead."
+						"Ogni volta che lanci un incantesimo che ha un tempo di lancio pari a un'azione, puoi invece lanciarlo utilizzando un {@variantrule Bonus Action|XPHB}."
 					]
 				}
 			]
@@ -5275,15 +5275,15 @@
 			"level": 3,
 			"entries": [
 				"{@i Uphold the Ideals of Justice and Order}",
-				"The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some\u2014for better or worse\u2014hold the rest of the world to the same standards.",
-				"Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.",
-				"These paladins share the following tenets:",
+				"Il Giuramento di Devozione vincola i Paladini agli ideali di giustizia e ordine. Questi Paladini incontrano l'archetipo del cavaliere dall'armatura scintillante. Si attengono ai più alti standard di condotta e alcuni, nel bene e nel male, mantengono gli stessi standard anche nel resto del mondo.",
+				"Molti di coloro che prestano questo giuramento sono devoti agli dei della legge e del bene e usano i principi dei loro dei come misura della devozione personale. Altri considerano gli angeli come loro ideali e incorporano immagini di ali angeliche nei loro elmi o stemmi.",
+				"Questi paladini condividono i seguenti principi:",
 				{
 					"type": "list",
 					"items": [
-						"Let your word be your promise.",
-						"Protect the weak and never fear to act.",
-						"Let your honorable deeds be an example."
+						"Lascia che la tua parola sia la tua promessa.",
+						"Proteggi i deboli e non temere mai di agire.",
+						"Lascia che le tue azioni onorevoli siano un esempio."
 					]
 				},
 				{
@@ -5308,7 +5308,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Devotion Spells table, you thereafter always have the listed spells prepared.",
+				"La magia del tuo giuramento ti assicura di avere sempre certi incantesimi pronti; quando raggiungi il livello di Paladino specificato nella tabella Incantesimi del Giuramento di Devozione, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of Devotion Spells",
@@ -5360,9 +5360,9 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"When you take the {@action Attack|XPHB} action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.",
-				"The weapon also emits {@variantrule Bright Light|XPHB} in a 20-foot radius and {@variantrule Dim Light|XPHB} 20 feet beyond that.",
-				"You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon."
+				"Quando esegui l'azione {@action Attack|XPHB}, puoi spendere un uso della tua Incanala Divinità per infondere energia positiva in un'arma da mischia che impugni. Per 10 minuti o finché non usi nuovamente questa capacità, aggiungi il tuo modificatore di Carisma ai tiri per colpire che effettui con quell'arma (bonus minimo di +1), e ogni volta che colpisci con essa, le fai sì che infligga il suo normale tipo di danno o danno Radiante.",
+				"L'arma emette anche {@variantrule Bright Light|XPHB} in un raggio di 20 piedi e {@variantrule Dim Light|XPHB} 20 piedi oltre.",
+				"Puoi terminare questo effetto in anticipo (non è richiesta alcuna azione). Questo effetto termina anche se non porti l'arma."
 			]
 		},
 		{
@@ -5378,7 +5378,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"You and your allies have {@variantrule Immunity|XPHB} to the {@condition Charmed|XPHB} condition while in your Aura of Protection. If a {@condition Charmed|XPHB} ally enters the aura, that condition has no effect on that ally while there."
+				"Tu e i tuoi alleati avete {@variantrule Immunity|XPHB} alla condizione {@condition Charmed|XPHB} mentre siete nella vostra Aura di protezione. Se un alleato {@condition Charmed|XPHB} entra nell'aura, tale condizione non ha alcun effetto su quell'alleato mentre è lì."
 			]
 		},
 		{
@@ -5394,7 +5394,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Your magical smite now radiates protective energy. Whenever you cast {@spell Divine Smite|XPHB}, you and your allies have {@variantrule Cover|XPHB|Half Cover} while in your Aura of Protection. The aura has this benefit until the start of your next turn."
+				"La tua punizione magica ora irradia energia protettiva. Ogni volta che lanci {@spell Divine Smite|XPHB}, tu e i tuoi alleati avete {@variantrule Cover|XPHB|Half Cover} mentre siete nella vostra Aura di Protezione. L'aura gode di questo beneficio fino all'inizio del tuo turno successivo."
 			]
 		},
 		{
@@ -5410,26 +5410,26 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Come {@variantrule Bonus Action|XPHB}, puoi impregnare la tua Aura di Protezione con potere sacro, garantendo i benefici seguenti per 10 minuti o finché non li interrompi (non è richiesta alcuna azione). Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}. Puoi anche ripristinarne l'utilizzo spendendo uno slot incantesimo di livello 5 (non è richiesta alcuna azione).",
 				{
 					"type": "entries",
 					"name": "Holy Ward",
 					"entries": [
-						"You have {@variantrule Advantage|XPHB} on any saving throw you are forced to make by a Fiend or an Undead."
+						"Hai {@variantrule Advantage|XPHB} su qualsiasi tiro salvezza che sei costretto a effettuare da un Demone o un Non Morto."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Radiant Damage",
 					"entries": [
-						"Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your {@variantrule Proficiency|XPHB|Proficiency Bonus}."
+						"Ogni volta che un nemico inizia il suo turno nell'aura, quella creatura subisce danni radiosi pari al tuo modificatore di Carisma più il tuo {@variantrule Proficiency|XPHB|Proficiency Bonus}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Sunlight",
 					"entries": [
-						"The aura is filled with {@variantrule Bright Light|XPHB} that is sunlight."
+						"L'aura è piena di {@variantrule Bright Light|XPHB} cioè luce solare."
 					]
 				}
 			]
@@ -5447,7 +5447,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"Immediately after you cast {@spell Divine Smite|XPHB}, you can expend one use of your Channel Divinity and distribute {@variantrule Temporary Hit Points|XPHB} to creatures of your choice within 30 feet of yourself, which can include you. The total number of {@variantrule Temporary Hit Points|XPHB} equals {@dice 2d8} plus your Paladin level, divided among the chosen creatures however you like."
+				"Immediatamente dopo aver lanciato {@spell Divine Smite|XPHB}, puoi spendere un uso di Incanalare Divinità e distribuire {@variantrule Temporary Hit Points|XPHB} a creature di tua scelta entro 9 metri da te, incluso te. Il numero totale di {@variantrule Temporary Hit Points|XPHB} è uguale a {@dice 2d8} più il tuo livello da Paladino, diviso come preferisci tra le creature scelte."
 			]
 		},
 		{
@@ -5461,14 +5461,14 @@
 			"level": 3,
 			"entries": [
 				"{@i Strive for the Heights of Heroism}",
-				"Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.",
-				"These paladins share the following tenets:",
+				"I paladini che prestano il Giuramento di Gloria credono che loro e i loro compagni siano destinati a raggiungere la gloria attraverso atti di eroismo. Si allenano con impegno e incoraggiano i compagni, così sono tutti pronti quando il destino chiama.",
+				"Questi paladini condividono i seguenti principi:",
 				{
 					"type": "list",
 					"items": [
-						"Endeavor to be known by your deeds.",
-						"Face hardships with courage.",
-						"Inspire others to strive for glory."
+						"Sforzati di farti conoscere dalle tue azioni.",
+						"Affronta le difficoltà con coraggio.",
+						"Ispira gli altri a lottare per la gloria."
 					]
 				},
 				{
@@ -5495,7 +5495,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Glory Spells table, you thereafter always have the listed spells prepared.",
+				"La magia del tuo giuramento ti assicura di avere sempre certi incantesimi pronti; quando raggiungi il livello di Paladino specificato nella tabella degli incantesimi del Giuramento di Gloria, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of Glory Spells",
@@ -5545,7 +5545,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have {@variantrule Advantage|XPHB} on Strength ({@skill Athletics|XPHB}) and Dexterity ({@skill Acrobatics|XPHB}) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal)."
+				"Come {@variantrule Bonus Action|XPHB}, puoi spendere un uso della tua Divinità Incanalata per aumentare il tuo atletismo. Per 1 ora, hai {@variantrule Advantage|XPHB} sulle prove di Forza ({@skill Athletics|XPHB}) e Destrezza ({@skill Acrobatics|XPHB}) e la distanza dei tuoi salti in lungo e in alto aumenta di 3 metri (questa distanza extra costa il movimento normalmente)."
 			]
 		},
 		{
@@ -5559,8 +5559,8 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Your Speed increases by 10 feet.",
-				"In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's {@variantrule Speed|XPHB} increases by 10 feet until the end of their next turn."
+				"La tua velocità aumenta di 3 metri.",
+				"Inoltre, ogni volta che un alleato entra nella tua Aura di Protezione per la prima volta in un turno o inizia il suo turno lì, la sua {@variantrule Speed|XPHB} aumenta di 10 piedi fino alla fine del turno successivo."
 			]
 		},
 		{
@@ -5574,8 +5574,8 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a {@variantrule Reaction|XPHB} to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this {@variantrule Reaction|XPHB} if the attacker is within your weapon's range.",
-				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}."
+				"Puoi trasformare la difesa in un attacco improvviso. Quando tu o un'altra creatura che puoi vedere entro 3 metri da te venite colpiti da un tiro per colpire, puoi prendere un {@variantrule Reaction|XPHB} per garantire un bonus alla CA del bersaglio contro quell'attacco, facendolo potenzialmente fallire. Il bonus è pari al tuo modificatore di Carisma (minimo +1). Se l'attacco fallisce, puoi effettuare un attacco con un'arma contro l'attaccante come parte di questo {@variantrule Reaction|XPHB} se l'attaccante si trova nel raggio d'azione della tua arma.",
+				"Puoi utilizzare questa funzione un numero di volte pari al tuo modificatore di Carisma (minimo una volta) e riacquisti tutti gli usi spesi quando finisci un {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -5589,26 +5589,26 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"You can empower yourself with the legends\u2014whether true or exaggerated\u2014of your great deeds. As a {@variantrule Bonus Action|XPHB}, you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Puoi potenziarti con le leggende, vere o esagerate, delle tue grandi imprese. Come {@variantrule Bonus Action|XPHB}, ottieni i seguenti vantaggi per 10 minuti. Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}. Puoi anche ripristinarne l'utilizzo spendendo uno slot incantesimo di livello 5 (non è richiesta alcuna azione).",
 				{
 					"type": "entries",
 					"name": "Charismatic",
 					"entries": [
-						"You are blessed with an otherworldly presence and have {@variantrule Advantage|XPHB} on all Charisma checks."
+						"Sei benedetto da una presenza ultraterrena e hai {@variantrule Advantage|XPHB} su tutte le prove di Carisma."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Saving Throw Reroll",
 					"entries": [
-						"If you fail a saving throw, you can take a {@variantrule Reaction|XPHB} to reroll it. You must use this new roll."
+						"Se fallisci un tiro salvezza, puoi prendere un {@variantrule Reaction|XPHB} per rilanciarlo. Devi usare questo nuovo tiro."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Unerring Strike",
 					"entries": [
-						"Once on each of your turns when you make an attack roll with a weapon and miss, you can cause that attack to hit instead."
+						"Una volta per ciascuno dei tuoi turni, quando effettui un tiro per colpire con un'arma e manchi il bersaglio, puoi invece far sì che quell'attacco colpisca."
 					]
 				}
 			]
@@ -5624,14 +5624,14 @@
 			"level": 3,
 			"entries": [
 				"{@i Punish Evildoers at Any Cost}",
-				"The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent, when a dragon rampages through the countryside\u2014at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.",
-				"These paladins share the following tenets:",
+				"Il Giuramento di Vendetta è un impegno solenne a punire coloro che hanno commesso atti gravemente malvagi. Quando eserciti malvagi massacrano abitanti indifesi, quando un tiranno sfida la volontà degli dei, quando una gilda di ladri diventa troppo violenta, quando un drago imperversa per le campagne, in momenti come questi, i paladini si alzano e prestano giuramento di vendetta per correggere ciò che è andato storto.",
+				"Questi paladini condividono i seguenti principi:",
 				{
 					"type": "list",
 					"items": [
-						"Show the wicked no mercy.",
-						"Fight injustice and its causes.",
-						"Aid those harmed by injustice."
+						"Non mostrare pietà ai malvagi.",
+						"Combattere l’ingiustizia e le sue cause.",
+						"Aiuta coloro che sono danneggiati dall’ingiustizia."
 					]
 				},
 				{
@@ -5654,7 +5654,7 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Vengeance Spells table, you thereafter always have the listed spells prepared.",
+				"La magia del tuo giuramento ti assicura di avere sempre certi incantesimi pronti; quando raggiungi il livello di Paladino specificato nella tabella degli incantesimi del Giuramento di Vendetta, da quel momento in poi avrai sempre pronti gli incantesimi elencati.",
 				{
 					"type": "table",
 					"caption": "Oath of Vengeance Spells",
@@ -5704,8 +5704,8 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"When you take the {@action Attack|XPHB} action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have {@variantrule Advantage|XPHB} on attack rolls against the creature for 1 minute or until you use this feature again.",
-				"If the creature drops to 0 {@variantrule Hit Points|XPHB} before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required)."
+				"Quando esegui l'azione {@action Attack|XPHB}, puoi spendere un uso di Incanalare Divinità per pronunciare un voto di inimicizia contro una creatura che puoi vedere entro 9 metri da te. Hai {@variantrule Advantage|XPHB} sui tiri per colpire contro la creatura per 1 minuto o finché non utilizzi nuovamente questa funzionalità.",
+				"Se la creatura scende a 0 {@variantrule Hit Points|XPHB} prima che il voto finisca, puoi trasferire il voto a un'altra creatura entro 9 metri da te (non è richiesta alcuna azione)."
 			]
 		},
 		{
@@ -5719,7 +5719,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an {@action Opportunity Attack|XPHB}, you can reduce the creature's {@variantrule Speed|XPHB} to 0 until the end of the current turn. You can then move up to half your {@variantrule Speed|XPHB} as part of the same {@variantrule Reaction|XPHB}. This movement doesn't provoke {@action Opportunity Attack|XPHB|Opportunity Attacks}."
+				"La tua concentrazione soprannaturale ti aiuta a chiudere la ritirata del nemico. Quando colpisci una creatura con un {@action Opportunity Attack|XPHB}, puoi ridurre il {@variantrule Speed|XPHB} della creatura a 0 fino alla fine del turno corrente. Puoi quindi spostare fino alla metà del tuo {@variantrule Speed|XPHB} come parte dello stesso {@variantrule Reaction|XPHB}. Questo movimento non provoca {@action Opportunity Attack|XPHB|Opportunity Attacks}."
 			]
 		},
 		{
@@ -5733,7 +5733,7 @@
 			"level": 15,
 			"header": 2,
 			"entries": [
-				"Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a {@variantrule Reaction|XPHB} to make a melee attack against that creature if it's within range."
+				"Immediatamente dopo che una creatura sotto l'effetto del tuo Voto di inimicizia colpisce o manca un tiro per colpire, puoi prendere un {@variantrule Reaction|XPHB} per effettuare un attacco in mischia contro quella creatura se si trova nel raggio d'azione."
 			]
 		},
 		{
@@ -5747,19 +5747,19 @@
 			"level": 20,
 			"header": 2,
 			"entries": [
-				"As a {@variantrule Bonus Action|XPHB}, you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a {@variantrule Long Rest|XPHB}. You can also restore your use of it by expending a level 5 spell slot (no action required).",
+				"Come {@variantrule Bonus Action|XPHB}, ottieni i seguenti vantaggi per 10 minuti o finché non li termini (non è richiesta alcuna azione). Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@variantrule Long Rest|XPHB}. Puoi anche ripristinarne l'utilizzo spendendo uno slot incantesimo di livello 5 (non è richiesta alcuna azione).",
 				{
 					"type": "entries",
 					"name": "Flight",
 					"entries": [
-						"You sprout spectral wings on your back, have a {@variantrule Fly Speed|XPHB} of 60 feet, and can hover."
+						"Ti spuntano ali spettrali sulla schiena, hai un {@variantrule Fly Speed|XPHB} di 60 piedi e puoi librarti."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Frightful Aura",
 					"entries": [
-						"Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the {@condition Frightened|XPHB} condition for 1 minute or until it takes any damage. {@action Attack|XPHB} rolls against the {@condition Frightened|XPHB} creature have {@variantrule Advantage|XPHB}."
+						"Ogni volta che un nemico inizia il suo turno nella tua Aura di Protezione, quella creatura deve riuscire un tiro salvezza su Saggezza o avere la condizione {@condition Frightened|XPHB} per 1 minuto o finché non subisce danni. {@action Attack|XPHB} tira contro la {@condition Frightened|XPHB} creatura che ha {@variantrule Advantage|XPHB}."
 					]
 				}
 			]

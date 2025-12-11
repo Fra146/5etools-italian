@@ -74,7 +74,7 @@
 					"name": "Innate Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The brain in a jar's innate spellcasting ability is Intelligence (spell save {@dc 15}). It can innately cast the following spells, requiring no components:"
+						"L'abilità innata da incantatore del cervello contenuto in un barattolo è Intelligenza (salvataggio incantesimo {@dc 15}). Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti:"
 					],
 					"will": [
 						"{@spell detect thoughts}",
@@ -101,13 +101,13 @@
 				{
 					"name": "Detect Sentience",
 					"entries": [
-						"The brain in a jar can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a {@spell mind blank} spell."
+						"Il cervello in un barattolo può percepire la presenza e la posizione di qualsiasi creatura entro 90 metri da esso che abbia un'Intelligenza pari o superiore a 3, indipendentemente dalle barriere interposte, a meno che la creatura non sia protetta da un incantesimo {@spell mind blank}."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The brain in a jar has advantage on saving throws against spells and other magical effects."
+						"Il cervello in un barattolo ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -115,7 +115,7 @@
 				{
 					"name": "Mind Blast {@recharge 5}",
 					"entries": [
-						"The brain in a jar magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a {@dc 15} Intelligence saving throw or take 13 ({@damage 2d8 + 4}) psychic damage and be {@condition stunned} for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Il cervello in un barattolo emette magicamente energia psichica in un cono di 18 metri. Ogni creatura in quell'area deve riuscire un tiro salvezza su Intelligenza {@dc 15} o subire 13 ({@damage 2d8 + 4}) danni psichici ed essere {@condition stunned} per 1 minuto. Una creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -222,14 +222,14 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The clockwork kraken has advantage on saving throws against spells and other magical effects."
+						"Il kraken meccanico dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Independent Tentacles",
 					"entries": [
-						"The clockwork kraken has eight tentacles, each of which is treated as a Medium creature, moves independently on the construct's turn, and has a flying speed of 40 feet. The clockwork kraken's senses operate through its tentacles as well as its main body. Each tentacle can be attacked independently, with damage dealt to tentacles applied to the clockwork kraken's hit point total. A tentacle is destroyed if it takes more than 20 damage.",
-						"Reducing the construct to three or fewer tentacles reduces its attacks accordingly. A clockwork kraken can regrow any destroyed tentacles at the end of a long rest."
+						"Il kraken meccanico ha otto tentacoli, ognuno dei quali viene considerato una creatura Media, si muove indipendentemente durante il turno del costrutto e ha una velocità di volo di 40 piedi. I sensi del kraken meccanico operano attraverso i suoi tentacoli e il suo corpo principale. Ogni tentacolo può essere attaccato indipendentemente, con il danno inflitto ai tentacoli applicato al totale dei punti ferita del kraken meccanico. Un tentacolo viene distrutto se subisce più di 20 danni.",
+						"Ridurre il costrutto a tre o meno tentacoli riduce di conseguenza i suoi attacchi. Un kraken meccanico può far ricrescere qualsiasi tentacolo distrutto alla fine di un riposo lungo."
 					]
 				}
 			],
@@ -237,13 +237,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The clockwork kraken makes four tentacle slam attacks."
+						"Il kraken meccanico effettua quattro attacchi con schianto tentacolare."
 					]
 				},
 				{
 					"name": "Tentacle Slam",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}12 ({@damage 2d6 + 5}) danni contundenti."
 					]
 				}
 			],
@@ -289,7 +289,7 @@
 						"items": {
 							"name": "Coffin Imprisonment",
 							"entries": [
-								"Ctenmiir is imprisoned within a magical iron coffin mounted atop animated golem legs. Ctenmiir's coffin has a speed of 30 feet and a climbing speed of 10 feet, and protects the vampire from sunlight even as it prevents him from escaping his servitude."
+								"Ctenmiir è imprigionato in una magica bara di ferro montata su gambe di golem animati. La bara di Ctenmiir ha una velocità di 9 metri e una velocità di scalata di 3 metri, e protegge il vampiro dalla luce solare anche se gli impedisce di sfuggire alla sua servitù."
 							]
 						}
 					}
@@ -327,7 +327,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"East Wind is armed with a longsword that is a {@item polymorph blade|LLK}."
+								"Il Vento dell'Est è armato con una spada lunga che è un {@item polymorph blade|LLK}."
 							]
 						}
 					},
@@ -336,7 +336,7 @@
 						"items": {
 							"name": "Polymorph Blade",
 							"entries": [
-								"{@atk mw,rw} {@hit 5} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d8 + 3}) piercing damage. If East Wind rolls a 20 on the attack roll, the target must succeed on a {@dc 15} Wisdom saving throw or suffer the effects of a {@spell polymorph} spell."
+								"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}7 ({@damage 1d8 + 3}) danno perforante. Se Vento dell'Est ottiene 20 nel tiro per colpire, il bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 15} o subire gli effetti di un incantesimo {@spell polymorph}."
 							]
 						}
 					}
@@ -364,7 +364,7 @@
 						"items": {
 							"name": "Force Pike",
 							"entries": [
-								"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 40/100 ft., one creature. {@h}7 ({@damage 1d10 + 2}) force damage. The attack has disadvantage against any target with polished metal armor or shield, and has its ranged halved when firing through smoke or fog."
+								"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o un raggio di 40/100 piedi, una creatura. {@h}7 ({@damage 1d10 + 2}) danno di forza. L'attacco ha uno svantaggio contro qualsiasi bersaglio con armatura o scudo di metallo lucido e la sua gittata è dimezzata quando spara attraverso il fumo o la nebbia."
 							]
 						}
 					}
@@ -429,7 +429,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Garret is a 2nd-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 13}, {@hit 5} to hit with spell attacks). He has the following bard spells prepared:"
+						"Garret è un incantatore di 2° livello. La sua abilità da incantatore è Carisma (salvataggio incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da bardo:"
 					],
 					"spells": {
 						"0": {
@@ -456,25 +456,25 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Garret wears a {@item Ring of Warmth} (included in his statistics) and wields a {@item Gambler's Blade longsword|LLK}."
+						"Garret indossa un {@item Ring of Warmth} (incluso nelle sue statistiche) e brandisce un {@item Gambler's Blade longsword|LLK}."
 					]
 				},
 				{
 					"name": "Bardic Inspiration (3/Day)",
 					"entries": [
-						"As a bonus action, Garret can give one chosen creature (other than him) a {@dice d6} inspiration die. The chosen creature must be within 60 feet of Garret and able to hear him. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can use the inspiration die after the roll is made but before the DM says whether it succeeds or fails. Once the inspiration die is rolled, it is lost. A creature can have only one inspiration die at a time."
+						"Come azione bonus, Garret può dare a una creatura scelta (diversa da lui) un dado di ispirazione {@dice d6}. La creatura scelta deve trovarsi entro 60 piedi da Garret e in grado di sentirlo. Una volta entro i successivi 10 minuti, la creatura può lanciare il dado e aggiungere il numero ottenuto a una prova di caratteristica, tiro per colpire o tiro salvezza effettuato. La creatura può usare il dado di ispirazione dopo che il tiro è stato effettuato, ma prima che il DM dica se ha successo o meno. Una volta lanciato il dado ispirazione, è perso. Una creatura può avere un solo dado di ispirazione alla volta."
 					]
 				},
 				{
 					"name": "Cunning Action",
 					"entries": [
-						"On each of his turns, Garret can use a bonus action to take the Dash, Disengage, or Hide action."
+						"In ciascuno dei suoi turni, Garret può utilizzare un'azione bonus per eseguire l'azione Scattare, Disimpegnarsi o Nascondersi."
 					]
 				},
 				{
 					"name": "Sneak Attack (1/Turn)",
 					"entries": [
-						"Garret deals an extra 7 ({@damage 2d6}) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Garret that isn't {@condition incapacitated} and Garret doesn't have disadvantage on the attack roll."
+						"Garret infligge 7 ({@damage 2d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio sul tiro per colpire, o quando il bersaglio si trova entro 5 piedi da un alleato di Garret che non lo è {@condition incapacitated} e Garret non ha svantaggio sul tiro per colpire."
 					]
 				}
 			],
@@ -482,7 +482,7 @@
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -546,7 +546,7 @@
 						"items": {
 							"name": "Unique Programming",
 							"entries": [
-								"Gearbox's unique programming allows the modron to function as an {@item Orb of Direction|XGE} and an {@item Orb of Time|XGE}, to cast the {@spell light} cantrip at will, and to grant other characters advantage on Dexterity checks made with thieves' tools and on ability checks made to identify or operate mechanical or laboratory equipment."
+								"La programmazione unica di Gearbox consente al modron di funzionare come {@item Orb of Direction|XGE} e {@item Orb of Time|XGE}, per lanciare il trucchetto {@spell light} a piacimento e per garantire ad altri personaggi vantaggio sulle prove di Destrezza effettuate con strumenti da ladro e sulle prove di abilità effettuate per identificare o utilizzare attrezzature meccaniche o di laboratorio."
 							]
 						}
 					}
@@ -561,7 +561,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Gearbox can cast the {@spell light} cantrip at will."
+						"Gearbox può lanciare il trucchetto {@spell light} a piacimento."
 					],
 					"spells": {
 						"0": {
@@ -615,9 +615,9 @@
 				{
 					"name": "Petrifying Gaze",
 					"entries": [
-						"When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a {@dc 14} Constitution saving throw if the medusa isn't {@condition incapacitated} and can see the creature. If the saving throw fails by 5 or more, the creature is instantly {@condition petrified}. Otherwise, a creature that fails the save begins to turn to glass and is {@condition restrained}. The {@condition restrained} creature must repeat the saving throw at the end of its next turn, becoming {@condition petrified} on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  {@spell greater restoration} spell or other magic.",
-						"Unless {@status surprised}, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.",
-						"If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze."
+						"Quando una creatura che può vedere gli occhi della medusa inizia il suo turno entro 9 metri dalla medusa, la medusa può costringerla a effettuare un tiro salvezza su Costituzione {@dc 14} se la medusa non è {@condition incapacitated} e può vedere la creatura. Se il tiro salvezza fallisce di 5 o più, la creatura muore istantaneamente {@condition petrified}. Altrimenti, una creatura che fallisce il tiro salvezza inizia a trasformarsi in vetro ed è {@condition restrained}. La creatura {@condition restrained} deve ripetere il tiro salvezza alla fine del suo turno successivo, diventando {@condition petrified} in caso di fallimento o terminando l'effetto in caso di successo. La pietrificazione dura finché la creatura non viene liberata dall'incantesimo {@spell greater restoration} o da altra magia.",
+						"A meno che {@status surprised}, una creatura non possa distogliere lo sguardo per evitare il tiro salvezza all'inizio del suo turno. Se lo fa, la creatura non potrà vedere la medusa fino all'inizio del suo turno successivo, quando potrà distogliere nuovamente lo sguardo. Se nel frattempo la creatura guarda la medusa, deve effettuare immediatamente il tiro salvezza.",
+						"Se la medusa si vede riflessa su una superficie lucida entro 9 metri da sé e in un'area di luce intensa, a causa della sua maledizione viene influenzata dal suo stesso sguardo."
 					]
 				}
 			],
@@ -693,7 +693,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Mary is a 5th-level spellcaster. Her spellcasting ability is Charisma (spell save {@dc 12}, {@hit 4} to hit with spell attacks). She regains her expended spell slots when she finishes a short or long rest. She knows the following warlock spells:"
+						"Mary è un'incantatrice di 5° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). Riacquista gli slot degli incantesimi spesi quando termina un riposo breve o lungo. Conosce i seguenti incantesimi da stregone:"
 					],
 					"spells": {
 						"0": {
@@ -723,19 +723,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Mary wears {@item Bracers of Defense} and a {@item Ring of Protection}, and carries a {@item Deck of Several Things|LLK}"
+						"Mary indossa {@item Bracers of Defense} e un {@item Ring of Protection} e porta un {@item Deck of Several Things|LLK}"
 					]
 				},
 				{
 					"name": "Fey Presence (Recharges after a Short Rest)",
 					"entries": [
-						"Mary can cause each creature within 10 feet of her to succeed on a {@dc 12} Wisdom saving throw or become {@condition charmed} or {@condition frightened} by her (Mary's choice) until the end of her next turn."
+						"Mary può fare in modo che ogni creatura entro 10 piedi da lei riesca in un tiro salvezza su Saggezza {@dc 12} o diventi {@condition charmed} o {@condition frightened} da lei (a scelta di Mary) fino alla fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Mary has advantage on saving throws against being {@condition charmed}, and magic can't put her to sleep."
+						"Mary ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può farla addormentare."
 					]
 				}
 			],
@@ -743,7 +743,7 @@
 				{
 					"name": "Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d6}) danni contundenti."
 					]
 				}
 			],
@@ -851,7 +851,7 @@
 						"items": {
 							"name": "Hooked Polearm",
 							"entries": [
-								"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) piercing damage. If the target is a Medium or smaller creature, it is {@condition grappled} (escape {@dc 10}). Until this grapple ends, the monk cannot use its polearm on another target."
+								"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d6 + 1}) danno perforante. Se il bersaglio è una creatura Media o più piccola, è {@condition grappled} (fuga {@dc 10}). Fino al termine della lotta, il Monaco non può usare la sua arma ad asta su un altro bersaglio."
 							]
 						}
 					}
@@ -909,13 +909,13 @@
 				{
 					"name": "Transparent",
 					"entries": [
-						"Even when an ooze-folk is in plain sight, it takes a {@dc 12} Wisdom ({@skill Perception}) check to spot an ooze-folk that has neither moved nor attacked. A creature that tries to enter the ooze-folk's space while unaware of the ooze-folk is {@status surprised} by the ooze-folk."
+						"Anche quando un popolo della melma è in bella vista, è necessaria una prova di Saggezza ({@skill Perception} {@dc 12} per individuare un popolo della melma che non si è né mosso né attaccato. Una creatura che tenta di entrare nello spazio del popolo della melma mentre non si rende conto della presenza del popolo della melma è {@status surprised} da parte del popolo della melma."
 					]
 				},
 				{
 					"name": "Fragile Bones",
 					"entries": [
-						"For each 5 damage it takes, the ooze-folk's walking speed is reduced by 5 feet."
+						"Per ogni 5 danni subiti, la velocità di camminata del popolo della melma viene ridotta di 1,5 metri."
 					]
 				}
 			],
@@ -923,19 +923,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The ooze folk makes one glass longsword attack and one pseudopod attack."
+						"Il popolo della melma effettua un attacco con la spada lunga di vetro e un attacco con gli pseudopodi."
 					]
 				},
 				{
 					"name": "Glass Longsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}6 ({@damage 1d8 + 2}) slashing damage. If a 1 is rolled on an attack roll with a glass longsword, it shatters and can no longer be used."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}6 ({@damage 1d8 + 2}) danni taglienti. Se si ottiene un 1 in un tiro per colpire con una spada lunga di vetro, questa si frantuma e non può più essere utilizzata."
 					]
 				},
 				{
 					"name": "Pseudopod",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d6 + 2}) acid damage. "
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}5 ({@damage 1d6 + 2}) danni da acido."
 					]
 				}
 			],
@@ -977,7 +977,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"West Wind is armed with a longsword that is a {@item blade of the medusa|LLK}."
+								"Vento dell'Ovest è armato con una spada lunga che è un {@item blade of the medusa|LLK}."
 							]
 						}
 					},
@@ -986,7 +986,7 @@
 						"items": {
 							"name": "Blade of the Medusa",
 							"entries": [
-								"{@atk mw,rw} {@hit 5} to hit, reach 5 ft., one creature. {@h}7 ({@damage 1d8 + 3}) piercing damage. If West Wind rolls a 20 on the attack roll, the target must succeed on a {@dc 15} Constitution saving throw or suffer the effects of a {@spell flesh to stone} spell."
+								"{@atk mw,rw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}7 ({@damage 1d8 + 3}) danno perforante. Se Vento dell'Ovest ottiene 20 nel tiro per colpire, il bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 15} o subire gli effetti di un incantesimo {@spell flesh to stone}."
 							]
 						}
 					}

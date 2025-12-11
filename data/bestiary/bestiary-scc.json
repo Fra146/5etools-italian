@@ -74,7 +74,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The archaic casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 22}):"
+						"L'arcaico lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 22}):"
 					],
 					"will": [
 						"{@spell detect magic}",
@@ -95,19 +95,19 @@
 				{
 					"name": "Enigmatic Mind",
 					"entries": [
-						"The archaic's mind can't be read, creatures can communicate telepathically with the archaic only if it allows, and magic can't determine whether the archaic is lying."
+						"La mente dell'arcaico non può essere letta, le creature possono comunicare telepaticamente con l'arcaico solo se lo consente, e la magia non può determinare se l'arcaico sta mentendo."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the archaic fails a saving throw, it can choose to succeed instead."
+						"Se l'arcaico fallisce il tiro salvezza, può invece scegliere di superarlo."
 					]
 				},
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"The archaic doesn't require air, food, drink, or sleep."
+						"L'arcaico non ha bisogno di aria, cibo, bevande o sonno."
 					]
 				}
 			],
@@ -115,25 +115,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The archaic makes two Force Strike attacks. It can also use Gravity Shift, if available."
+						"L'arcaico effettua due attacchi di Colpo di Forza. Può anche utilizzare Gravity Shift, se disponibile."
 					]
 				},
 				{
 					"name": "Force Strike",
 					"entries": [
-						"{@atk ms,rs} {@hit 14} to hit, reach 15 ft. or range 120 ft., one target. {@h}19 ({@damage 2d10 + 8}) force damage, and the target is pulled up to 10 feet toward the archaic or pushed 10 feet away from it, as the archaic chooses."
+						"{@atk ms,rs} {@hit 14} per colpire, raggiungere 15 piedi o una portata di 120 piedi, un bersaglio. {@h}19 ({@damage 2d10 + 8}) danni di forza e il bersaglio viene trascinato fino a 3 metri verso l'arcaico o spinto a 3 metri lontano da esso, a scelta dell'arcaico."
 					]
 				},
 				{
 					"name": "Gravity Shift {@recharge 5}",
 					"entries": [
-						"The archaic reverses gravity for one creature it can see within 100 feet of itself. The creature must succeed on a {@dc 22} Wisdom saving throw or fall 100 feet upward. If the falling creature encounters a solid object (such as a ceiling) in this fall, it strikes the object just as it would during a downward fall. If the creature reaches the top of the area without striking anything, it hovers there until the start of the archaic's next turn, at which time gravity returns to normal and the creature falls."
+						"L'arcaico inverte la gravità per una creatura che può vedere entro 30 metri da sé. La creatura deve riuscire in un tiro salvezza su Saggezza {@dc 22} o cadere per 30 metri verso l'alto. Se la creatura che cade incontra un oggetto solido (come un soffitto) durante questa caduta, colpisce l'oggetto proprio come farebbe durante una caduta verso il basso. Se la creatura raggiunge la sommità dell'area senza colpire nulla, resta lì fino all'inizio del turno successivo dell'arcaico, momento in cui la gravità ritorna normale e la creatura cade."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"The archaic teleports to an unoccupied space that it can see within 120 feet of itself."
+						"L'arcaico si teletrasporta in uno spazio non occupato che può vedere entro 36 metri da sé."
 					]
 				}
 			],
@@ -141,7 +141,7 @@
 				{
 					"name": "Spell Mimicry (1/Day)",
 					"entries": [
-						"Immediately after a creature the archaic can see casts a spell of 5th level or lower, that creature must succeed on a {@dc 22} Charisma saving throw, or the archaic immediately casts the same spell at the same level ({@hit 14} to hit with spell attacks, spell save {@dc 22}), requiring no material components and choosing the spell's targets."
+						"Immediatamente dopo che una creatura che l'arcaico può vedere lancia un incantesimo di 5° livello o inferiore, quella creatura deve riuscire un tiro salvezza di Carisma {@dc 22} oppure l'arcaico lancia immediatamente lo stesso incantesimo allo stesso livello ({@hit 14} per colpire con attacchi con incantesimo, tiro salvezza dell'incantesimo {@dc 22}), senza richiedere componenti materiali e scegliendo i bersagli dell'incantesimo."
 					]
 				}
 			],
@@ -149,19 +149,19 @@
 				{
 					"name": "Strike",
 					"entries": [
-						"The archaic makes one Force Strike attack."
+						"L'arcaico effettua un attacco di Colpo di Forza."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"The archaic uses Teleport."
+						"L'arcaico usa il teletrasporto."
 					]
 				},
 				{
 					"name": "Unravel Magic (Costs 2 Actions)",
 					"entries": [
-						"The archaic targets one creature it can see within 120 feet of itself. The target must succeed on a {@dc 22} Constitution saving throw or take 35 ({@damage 10d6}) force damage, and each spell of 5th level or lower on the target ends."
+						"L'arcaico prende di mira una creatura che può vedere entro 32 metri da sé. Il bersaglio deve superare un tiro salvezza su Costituzione {@dc 22} o subire 35 ({@damage 10d6}) danni da forza e ogni incantesimo di 5° livello o inferiore sul bersaglio termina."
 					]
 				}
 			],
@@ -253,7 +253,7 @@
 				{
 					"name": "Death Burst",
 					"entries": [
-						"When the elemental dies, it explodes in a burst of colored light. Each creature within 5 feet of the elemental must succeed on a {@dc 11} Constitution saving throw or be {@condition blinded} for 1 minute. A {@condition blinded} creature can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+						"Quando l'elementale muore, esplode in un'esplosione di luce colorata. Ogni creatura entro 1,5 metri dall'elementale deve riuscire in un tiro salvezza su Costituzione {@dc 11} o essere {@condition blinded} per 1 minuto. Una creatura {@condition blinded} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo."
 					]
 				}
 			],
@@ -261,19 +261,19 @@
 				{
 					"name": "Joyful Flare",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d4 + 1}) fire damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 2d4 + 1}) danni da fuoco."
 					]
 				},
 				{
 					"name": "Melancholic Bolt",
 					"entries": [
-						"{@atk rw} {@hit 3} to hit, range 30 ft., one target. {@h}6 ({@damage 2d4 + 1}) cold damage."
+						"{@atk rw} {@hit 3} per colpire, portata 9 metri, un bersaglio. {@h}6 ({@damage 2d4 + 1}) danni da freddo."
 					]
 				},
 				{
 					"name": "Captivating Artistry (1/Day)",
 					"entries": [
-						"The elemental targets one creature it can see within 30 feet of itself. The target must succeed on a {@dc 12} Charisma saving throw or be {@condition charmed} for 1 minute. The {@condition charmed} target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+						"L'elementale prende di mira una creatura che può vedere entro 9 metri da sé. Il bersaglio deve riuscire in un tiro salvezza su Carisma {@dc 12} o essere {@condition charmed} per 1 minuto. Il bersaglio {@condition charmed} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -381,7 +381,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Beledros casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:"
+						"Beledros lancia uno dei seguenti incantesimi, non richiedendo componenti materiali e utilizzando Saggezza come capacità di lancio degli incantesimi:"
 					],
 					"daily": {
 						"1e": [
@@ -400,13 +400,13 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Beledros fails a saving throw, she can choose to succeed instead."
+						"Se Beledros fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"Beledros doesn't require air, food, or drink."
+						"Beledros non necessita di aria, cibo o bevande."
 					]
 				}
 			],
@@ -414,31 +414,31 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Beledros makes one Bite attack and two Claw attacks."
+						"Beledros effettua un attacco con il morso e due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 16} to hit, reach 15 ft., one target. {@h}14 ({@damage 1d10 + 9}) piercing damage plus 6 ({@damage 1d12}) necrotic damage."
+						"{@atk mw} {@hit 16} per colpire, raggiungere 15 piedi, un bersaglio. {@h}14 ({@damage 1d10 + 9}) danni perforanti più 6 ({@damage 1d12}) danni necrotici."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 16} to hit, reach 10 ft., one target. {@h}12 ({@damage 1d6 + 9}) slashing damage. If the target is a Huge or smaller creature, it is knocked {@condition prone}."
+						"{@atk mw} {@hit 16} per colpire, raggiungere 10 piedi, un bersaglio. {@h}12 ({@damage 1d6 + 9}) danni taglienti. Se il bersaglio è una creatura Enorme o più piccola, viene atterrato {@condition prone}."
 					]
 				},
 				{
 					"name": "Decaying Breath {@recharge 5}",
 					"entries": [
-						"Beledros exhales decaying energy in a 90-foot cone. Each creature in that area must make a {@dc 23} Constitution saving throw, taking 39 ({@damage 6d12}) necrotic damage and 39 ({@damage 6d12}) poison damage on a failed save, or half as much damage on a successful one. A creature that takes damage from the breath can't regain hit points until the start of Beledros's next turn."
+						"Beledros esala energia in decomposizione in un cono di 90 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 23} e subisce 39 ({@damage 6d12}) danni necrotici e 39 ({@damage 6d12}) danni da veleno se fallisce il tiro salvezza, o la metà dei danni se lo riesce. Una creatura che subisce danni dal soffio non può recuperare punti ferita fino all'inizio del turno successivo di Beledros."
 					]
 				},
 				{
 					"name": "Miasmal Flow",
 					"entries": [
-						"Beledros becomes a swirling cloud of green mist and can move up to half her flying speed without provoking opportunity attacks, then resumes her true form. During this movement, she can move through creatures and objects as if they were {@quickref difficult terrain||3}. If she moves through a creature, it must succeed on a {@dc 23} Constitution saving throw or become {@condition poisoned} until the end of its next turn. If Beledros ends this move inside an object, she takes 5 ({@damage 1d10}) force damage and is shunted to the nearest unoccupied space."
+						"Beledros diventa una nuvola vorticosa di nebbia verde e può muoversi fino alla metà della sua velocità di volo senza provocare attacchi di opportunità, quindi riprende la sua vera forma. Durante questo movimento, può muoversi attraverso creature e oggetti come se fossero {@quickref difficult terrain||3}. Se si muove attraverso una creatura, questa deve riuscire in un tiro salvezza su Costituzione {@dc 23} o diventare {@condition poisoned} fino alla fine del suo turno successivo. Se Beledros termina questo movimento all'interno di un oggetto, subisce 5 ({@damage 1d10}) danni da forza e viene deviato nello spazio non occupato più vicino."
 					]
 				}
 			],
@@ -446,19 +446,19 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"Beledros makes one Claw attack."
+						"Beledros effettua un attacco con gli artigli."
 					]
 				},
 				{
 					"name": "Miasmal Flow (Costs 2 Actions)",
 					"entries": [
-						"Beledros uses Miasmal Flow."
+						"Beledros usa il Flusso Miasmale."
 					]
 				},
 				{
 					"name": "Teeming with Life (Costs 3 Actions)",
 					"entries": [
-						"Beledros magically summons {@dice 1d4} {@creature pest mascot|SCC|pest mascots} in unoccupied spaces she can see within 60 feet of herself. The pests obey her commands and take their turns immediately after hers. Any creature, other than a pest, takes 9 ({@damage 2d8}) poison damage if it starts its turn within 5 feet of one or more of these pests. When one of these pests drops to 0 hit points, Beledros regains 9 hit points. These pests disappear after 10 minutes, when Beledros dies, or when she uses this action again."
+						"Beledros evoca magicamente {@dice 1d4} {@creature pest mascot|SCC|pest mascots} negli spazi non occupati che può vedere entro 60 piedi da se stesso. I parassiti obbediscono ai suoi comandi e si alternano immediatamente dopo i suoi. Qualsiasi creatura, eccetto un parassita, subisce 9 ({@damage 2d8}) danni da veleno se inizia il suo turno entro 1,5 metri da uno o più di questi parassiti. Quando uno di questi parassiti scende a 0 punti ferita, Beledros recupera 9 punti ferita. Questi parassiti scompaiono dopo 10 minuti, quando Beledros muore o quando utilizza nuovamente questa azione."
 					]
 				}
 			],
@@ -552,7 +552,7 @@
 				{
 					"name": "Fungal Fortitude",
 					"entries": [
-						"If damage reduces the trudge to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the trudge drops to 1 hit point instead."
+						"Se i danni riducono l'avanzata a 0 punti ferita, deve effettuare un tiro salvezza su Costituzione con CD pari a 5 + il danno subito, a meno che il danno non sia radiante o provenga da un colpo critico. In caso di successo, l'avanzata scende invece a 1 punto ferita."
 					]
 				}
 			],
@@ -560,7 +560,7 @@
 				{
 					"name": "Tusk",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 10 ft., one target. {@h}16 ({@damage 2d10 + 5}) piercing damage plus 3 ({@damage 1d6}) poison damage. If the target is a creature, it must succeed on a {@dc 15} Strength saving throw or be knocked {@condition prone}."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 10 piedi, un bersaglio. {@h}16 ({@damage 2d10 + 5}) danni perforanti più 3 ({@damage 1d6}) danni da veleno. Se il bersaglio è una creatura, deve riuscire in un tiro salvezza su Forza {@dc 15} o essere buttato giù {@condition prone}."
 					]
 				}
 			],
@@ -649,7 +649,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The archivist casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability:"
+						"L'archivista lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi:"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -668,7 +668,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The archivist has advantage on saving throws against spells and other magical effects."
+						"L'archivista dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -676,13 +676,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The archivist makes two Grasping Limb attacks."
+						"L'archivista effettua due attacchi con gli arti afferranti."
 					]
 				},
 				{
 					"name": "Grasping Limb",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 15 ft., one target. {@h}13 ({@damage 2d8 + 4}) bludgeoning damage, and the target is {@condition grappled} (escape {@dc 14}). The archivist can have no more than two targets {@condition grappled} at a time."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 15 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni contundenti e il bersaglio è {@condition grappled} (fuga {@dc 14}). L'archivista non può avere più di due destinazioni {@condition grappled} alla volta."
 					]
 				}
 			],
@@ -784,8 +784,8 @@
 				{
 					"name": "Pact of Pain",
 					"entries": [
-						"Using a 10-minute ritual, the daemogoth can forge a magical bond with a willing creature it touches throughout the ritual. The creature becomes bound by the pact until it dies, the daemogoth dies, or the pact is broken by any effect that can remove a curse.",
-						"The daemogoth chooses one spell from the {@filter necromancy or enchantment school that is 3rd level or lower|spells|level=0;1;2;3|school=N;E}. The bound creature can cast that spell using this pact, requiring no material components and using Intelligence as the spellcasting ability. When it casts the spell, the creature takes 7 ({@damage 2d6}) psychic damage, which can't break the creature's {@status concentration} on a spell. Once the bound creature casts the spell in this way, it can't do so again until it finishes a long rest."
+						"Utilizzando un rituale di 10 minuti, il daemogoth può forgiare un legame magico con una creatura consenziente che tocca durante il rituale. La creatura rimane vincolata al patto finché non muore, il daemogoth muore o il patto viene rotto da qualsiasi effetto che possa rimuovere una maledizione.",
+						"Il daemogoth sceglie un incantesimo dal {@filter necromancy or enchantment school that is 3rd level or lower|spells|level=0;1;2;3|school=N;E}. La creatura legata può lanciare quell'incantesimo utilizzando questo patto, senza richiedere componenti materiali e utilizzando l'Intelligenza come capacità di lancio dell'incantesimo. Quando lancia l'incantesimo, la creatura subisce 7 ({@damage 2d6}) danni psichici, che non possono interrompere i danni psichici {@status concentration} della creatura su un incantesimo. Una volta che la creatura legata lancia l'incantesimo in questo modo, non può farlo di nuovo finché non termina un riposo lungo."
 					]
 				}
 			],
@@ -793,19 +793,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The daemogoth makes three Agonizing Burst attacks. It can use Terrify, if available, in place of one of the attacks."
+						"Il daemogoth effettua tre attacchi Agonizing Burst. Può usare Terrificare, se disponibile, al posto di uno degli attacchi."
 					]
 				},
 				{
 					"name": "Agonizing Burst",
 					"entries": [
-						"{@atk ms,rs} {@hit 9} to hit, reach 10 ft. or range 120 ft., one target. {@h}11 ({@damage 2d10}) force damage. If the target is a creature, the daemogoth regains 5 hit points."
+						"{@atk ms,rs} {@hit 9} per colpire, raggiungere 10 piedi o un raggio di 120 piedi, un bersaglio. {@h}11 ({@damage 2d10}) danni fisici. Se il bersaglio è una creatura, il daemogoth recupera 5 punti ferita."
 					]
 				},
 				{
 					"name": "Terrify {@recharge 4}",
 					"entries": [
-						"The daemogoth targets one creature it can see within 120 feet of itself. The target must make a {@dc 17} Wisdom saving throw. On a failed save, the target takes 33 ({@damage 6d10}) psychic damage and is {@condition frightened} of the daemogoth until the end of the daemogoth's next turn, and the daemogoth regains 5 hit points. On a successful save, the target takes half as much damage and isn't {@condition frightened}, and the daemogoth doesn't heal."
+						"Il daemogoth prende di mira una creatura che può vedere entro 32 metri da sé. Il bersaglio deve effettuare un tiro salvezza su Saggezza {@dc 17}. Se fallisce il tiro salvezza, il bersaglio subisce 33 ({@damage 6d10}) danni psichici ed è {@condition frightened} del daemogoth fino alla fine del turno successivo del daemogoth, e il daemogoth recupera 5 punti ferita. Se il tiro salvezza riesce, il bersaglio subisce la metà dei danni e non lo è {@condition frightened} e il daemogoth non guarisce."
 					]
 				}
 			],
@@ -904,14 +904,14 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the titan fails a saving throw, it can choose to succeed instead."
+						"Se il titano fallisce il tiro salvezza, può invece scegliere di superarlo."
 					]
 				},
 				{
 					"name": "Pact of Suffering",
 					"entries": [
-						"Using a 10-minute long ritual, the titan can forge a magical bond with a willing creature it touches throughout the ritual. The creature becomes bound by the pact until it dies, the titan dies, or the pact is broken by a {@spell wish} spell.",
-						"The titan chooses one spell from the {@filter necromancy or enchantment school that is 8th level or lower|spells|level=0;1;2;3;4;5;6;7;8|school=N;E}. The bound creature can cast that spell using this pact, requiring no material components and using Intelligence as the spellcasting ability. When it casts the spell, the creature takes 21 ({@damage 6d6}) psychic damage, which can't break the creature's {@status concentration} on a spell. Once the bound creature casts the spell in this way, it can't do so again until it finishes a long rest."
+						"Usando un rituale della durata di 10 minuti, il titano può creare un legame magico con una creatura consenziente che tocca durante il rituale. La creatura rimane vincolata al patto finché non muore, il titano muore o il patto viene rotto da un incantesimo {@spell wish}.",
+						"Il titano sceglie un incantesimo dal {@filter necromancy or enchantment school that is 8th level or lower|spells|level=0;1;2;3;4;5;6;7;8|school=N;E}. La creatura legata può lanciare quell'incantesimo utilizzando questo patto, senza richiedere componenti materiali e utilizzando l'Intelligenza come capacità di lancio dell'incantesimo. Quando lancia l'incantesimo, la creatura subisce 21 ({@damage 6d6}) danni psichici, che non possono interrompere i danni psichici {@status concentration} della creatura su un incantesimo. Una volta che la creatura legata lancia l'incantesimo in questo modo, non può farlo di nuovo finché non termina un riposo lungo."
 					]
 				}
 			],
@@ -919,19 +919,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The titan makes two Agonizing Burst attacks."
+						"Il titano effettua due attacchi Agonizing Burst."
 					]
 				},
 				{
 					"name": "Agonizing Burst",
 					"entries": [
-						"{@atk ms,rs} {@hit 12} to hit, reach 15 ft. or range 120 ft., one target. {@h}17 ({@damage 3d6 + 7}) force damage. If the target is a creature, the titan regains 5 hit points."
+						"{@atk ms,rs} {@hit 12} per colpire, raggiungere 15 piedi o una portata di 120 piedi, un bersaglio. {@h}17 ({@damage 3d6 + 7}) danni fisici. Se il bersaglio è una creatura, il titano recupera 5 punti ferita."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"The titan teleports to an unoccupied space it can see within 120 feet of itself."
+						"Il titano si teletrasporta in uno spazio non occupato e visibile entro 36 metri da sé."
 					]
 				}
 			],
@@ -939,19 +939,19 @@
 				{
 					"name": "Attack",
 					"entries": [
-						"The titan makes one Agonizing Burst attack."
+						"Il titano effettua un attacco Agonizing Burst."
 					]
 				},
 				{
 					"name": "Stalking Nightmare (Costs 2 Actions)",
 					"entries": [
-						"The titan uses Teleport, after which it can target one creature within 20 feet of itself that it can see. The target must make a {@dc 20} Constitution saving throw. On a failed save, the target takes 22 ({@damage 4d10}) necrotic damage, and the titan regains 10 hit points. On a successful save, the target takes half as much damage, and the titan doesn't heal."
+						"Il titano usa il Teletrasporto, dopo di che può prendere di mira una creatura entro 20 piedi da lui che può vedere. Il bersaglio deve effettuare un tiro salvezza su Costituzione {@dc 20}. Se fallisce il tiro salvezza, il bersaglio subisce 22 ({@damage 4d10}) danni necrotici e il titano recupera 10 punti ferita. Se il tiro salvezza riesce, il bersaglio subisce la metà dei danni e il titano non guarisce."
 					]
 				},
 				{
 					"name": "Terrorize (Costs 3 Actions)",
 					"entries": [
-						"The titan targets one creature it can see within 120 feet of itself. The target must make a {@dc 20} Wisdom saving throw. On a failed save, the target takes 38 ({@damage 7d10}) psychic damage and is {@condition frightened} of the titan until the end of the target's next turn, and the titan regains 15 hit points. On a successful save, the target takes half as much damage and isn't {@condition frightened}, and the titan doesn't heal."
+						"Il titano prende di mira una creatura che può vedere entro 32 metri da sé. Il bersaglio deve effettuare un tiro salvezza su Saggezza {@dc 20}. Se fallisce il tiro salvezza, il bersaglio subisce 38 ({@damage 7d10}) danni psichici ed è {@condition frightened} del titano fino alla fine del turno successivo del bersaglio, e il titano recupera 15 punti ferita. Se il tiro salvezza riesce, il bersaglio subisce la metà dei danni e non lo è {@condition frightened} e il titano non guarisce."
 					]
 				}
 			],
@@ -1035,7 +1035,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 11}):"
+						"Lo studente lancia uno dei seguenti incantesimi, utilizzando Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 11}):"
 					],
 					"will": [
 						"{@spell mage hand}",
@@ -1054,7 +1054,7 @@
 				{
 					"name": "Excited to Be Here",
 					"entries": [
-						"The student has advantage on initiative rolls."
+						"Lo studente ha vantaggio sui tiri di iniziativa."
 					]
 				}
 			],
@@ -1062,7 +1062,7 @@
 				{
 					"name": "Magic Flare",
 					"entries": [
-						"{@atk ms,rs} {@hit 3} to hit, reach 5 ft. or range 60 ft., one target. {@h}7 ({@damage 1d12 + 1}) force damage."
+						"{@atk ms,rs} {@hit 3} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}7 ({@damage 1d12 + 1}) danno di forza."
 					]
 				}
 			],
@@ -1070,7 +1070,7 @@
 				{
 					"name": "Beginner's Luck (2/Day)",
 					"entries": [
-						"When the student fails a saving throw, it can reroll the {@dice d20}. It must use the new roll."
+						"Quando lo studente fallisce un tiro salvezza, può ripetere il tiro {@dice d20}. Deve utilizzare il nuovo tiro."
 					]
 				}
 			],
@@ -1131,7 +1131,7 @@
 				{
 					"name": "Relative Density",
 					"entries": [
-						"The fractal can move through creatures and objects as if they were {@quickref difficult terrain||3}. It takes 5 ({@damage 1d10}) force damage if it ends its turn inside an object."
+						"Il frattale può muoversi attraverso creature e oggetti come se fossero {@quickref difficult terrain||3}. Subisce 5 ({@damage 1d10}) danni da forza se termina il suo turno all'interno di un oggetto."
 					]
 				}
 			],
@@ -1139,7 +1139,7 @@
 				{
 					"name": "Quantum Strike",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d4 + 1}) force damage, or 6 ({@damage 2d4 + 1}) force damage if the fractal is Medium or bigger."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d4 + 1}) danni di forza o 6 ({@damage 2d4 + 1}) danni di forza se il frattale è medio o più grande."
 					]
 				}
 			],
@@ -1147,13 +1147,13 @@
 				{
 					"name": "Augment",
 					"entries": [
-						"The fractal's size increases by one category. While the fractal is Medium or bigger, it makes Strength checks and Strength saving throws with advantage. The fractal can become no larger than Huge via this bonus action."
+						"La dimensione del frattale aumenta di una categoria. Finché il frattale è di taglia Media o più grande, effettua prove di Forza e tiri salvezza su Forza con vantaggio. Il frattale non può diventare più grande di Enorme tramite questa azione bonus."
 					]
 				},
 				{
 					"name": "Diminish",
 					"entries": [
-						"The fractal's size decreases by one category. While the fractal is Tiny, it makes attack rolls, Dexterity checks, and Dexterity saving throws with advantage. The fractal can become no smaller than 1 foot in height via this bonus action."
+						"La dimensione del frattale diminuisce di una categoria. Anche se il frattale è Minuscolo, effettua tiri per colpire, prove di Destrezza e tiri salvezza su Destrezza con vantaggio. Il frattale non può diventare inferiore a 30 cm di altezza tramite questa azione bonus."
 					]
 				}
 			],
@@ -1244,7 +1244,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Galazeth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 23}):"
+						"Galazeth lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 23}):"
 					],
 					"daily": {
 						"1e": [
@@ -1261,7 +1261,7 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Galazeth fails a saving throw, he can choose to succeed instead."
+						"Se Galazeth fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -1269,25 +1269,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Galazeth makes one Bite attack and two Claw attacks."
+						"Galazeth effettua un attacco con il morso e due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 15} to hit, reach 15 ft., one target. {@h}13 ({@damage 1d10 + 8}) piercing damage plus 5 ({@damage 1d10}) lightning damage."
+						"{@atk mw} {@hit 15} per colpire, raggiungere 15 piedi, un bersaglio. {@h}13 ({@damage 1d10 + 8}) danni perforanti più 5 ({@damage 1d10}) danni da fulmine."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 15} to hit, reach 10 ft., one target. {@h}11 ({@damage 1d6 + 8}) slashing damage. If the target is a Large or smaller creature, it is knocked {@condition prone}."
+						"{@atk mw} {@hit 15} per colpire, raggiungere 10 piedi, un bersaglio. {@h}11 ({@damage 1d6 + 8}) danni taglienti. Se il bersaglio è una creatura Grande o più piccola, viene messo al tappeto {@condition prone}."
 					]
 				},
 				{
 					"name": "Dancing Elements Breath {@recharge 5}",
 					"entries": [
-						"Galazeth exhales a blast of flames and ice in a 90-foot cone. Each creature in that area must make a {@dc 22} Dexterity saving throw, gaining no benefit from cover (other than {@quickref Cover||3||total cover}) and taking 38 ({@damage 7d10}) fire damage and 38 ({@damage 7d10}) cold damage on a failed save, or half as much damage on a successful one."
+						"Galazeth esala un'esplosione di fiamme e ghiaccio in un cono di 90 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza {@dc 22}, senza ottenere alcun beneficio dalla copertura (tranne {@quickref Cover||3||total cover}) e subendo 38 ({@damage 7d10}) danni da fuoco e 38 ({@damage 7d10}) danni da freddo se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -1295,19 +1295,19 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"Galazeth makes one Claw attack."
+						"Galazeth effettua un attacco con gli artigli."
 					]
 				},
 				{
 					"name": "Lightning Flash (Costs 2 Actions)",
 					"entries": [
-						"Galazeth moves up to half his flying speed without provoking opportunity attacks. When he passes within 15 feet of a creature during this move, that creature must succeed on a {@dc 22} Dexterity saving throw or take 11 ({@damage 2d10}) lightning damage. A creature can take this damage no more than once during the move."
+						"Galazeth si muove fino alla metà della sua velocità di volo senza provocare attacchi di opportunità. Quando passa entro 15 piedi da una creatura durante questo movimento, quella creatura deve riuscire un tiro salvezza di Destrezza {@dc 22} o subire 11 ({@damage 2d10}) danni da fulmine. Una creatura può subire questo danno non più di una volta durante il movimento."
 					]
 				},
 				{
 					"name": "Flowing Creation (Costs 3 Actions)",
 					"entries": [
-						"Galazeth magically summons {@dice 1d4} {@creature art elemental mascot|SCC|elemental mascots} in unoccupied spaces he can see within 60 feet of himself. The art elementals obey his commands and take their turns immediately after his. Any creature, other than an art elemental, takes 5 ({@damage 1d10}) cold, fire, or lightning damage (Galazeth's choice) if it ends its turn within 5 feet of one or more of these elementals. When one of these elementals drops to 0 hit points, Galazeth can fly up to 20 feet without provoking opportunity attacks. These elementals disappear after 10 minutes, when Galazeth dies, or when he uses this action again."
+						"Galazeth evoca magicamente {@dice 1d4} {@creature art elemental mascot|SCC|elemental mascots} negli spazi non occupati che può vedere entro 60 piedi da se stesso. Gli elementali dell'arte obbediscono ai suoi comandi e svolgono il loro turno immediatamente dopo i suoi. Qualsiasi creatura, diversa da un elementale dell'arte, subisce 5 ({@damage 1d10}) danni da freddo, fuoco o fulmine (a scelta di Galazeth) se termina il suo turno entro 1,5 metri da uno o più di questi elementali. Quando uno di questi elementali scende a 0 punti ferita, Galazeth può volare fino a 6 metri senza provocare attacchi di opportunità. Questi elementali scompaiono dopo 10 minuti, quando Galazeth muore o quando utilizza nuovamente questa azione."
 					]
 				}
 			],
@@ -1403,13 +1403,13 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"If the groff is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the groff move or act, that creature must succeed on a {@dc 18} Intelligence ({@skill Investigation}) check to discern that the groff isn't an ordinary moss-covered bog patch."
+						"Se il groff è immobile all'inizio del combattimento, ha vantaggio sul tiro di iniziativa. Inoltre, se una creatura non ha osservato il movimento o l'azione del groff, deve superare una prova di {@dc 18} Intelligenza ({@skill Investigation}) per discernere che il groff non è una normale zona paludosa ricoperta di muschio."
 					]
 				},
 				{
 					"name": "Hold Breath",
 					"entries": [
-						"The groff can hold its breath for up to 1 hour."
+						"Il groff può trattenere il respiro fino a 1 ora."
 					]
 				}
 			],
@@ -1417,20 +1417,20 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The groff makes one Bite attack and one Swamp Claw attack."
+						"Il groff effettua un attacco con il morso e un attacco con gli artigli palustri."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) piercing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 1d8 + 5}) danno perforante."
 					]
 				},
 				{
 					"name": "Swamp Claw",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d6 + 5}) slashing damage. If the target is a Medium or smaller creature, it must succeed on a {@dc 15} Strength saving throw or become engulfed by the groff. While engulfed, the target can't breathe, is {@condition restrained}, and takes 10 ({@damage 3d6}) poison damage at the start of each of its turns. When the groff moves, the engulfed target moves with it. The groff can have only one target engulfed at a time.",
-						"An engulfed target can repeat the saving throw at the end of its turns. On a success, the target escapes and enters the nearest unoccupied space."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d6 + 5}) danni taglienti. Se il bersaglio è una creatura di taglia Media o inferiore, deve riuscire un tiro salvezza su Forza {@dc 15} o viene inghiottito dal groff. Mentre è inghiottito, il bersaglio non può respirare, è {@condition restrained} e subisce 10 ({@damage 3d6}) danni da veleno all'inizio di ciascuno dei suoi turni. Quando il groff si muove, il bersaglio inghiottito si muove con lui. Il groff può avere un solo bersaglio alla volta travolto.",
+						"Un bersaglio inghiottito può ripetere il tiro salvezza alla fine dei suoi turni. In caso di successo, il bersaglio fugge ed entra nello spazio non occupato più vicino."
 					]
 				}
 			],
@@ -1517,7 +1517,7 @@
 				{
 					"name": "Amorphous",
 					"entries": [
-						"The inkling can move through a space as narrow as 1 inch wide without squeezing."
+						"L'intuizione può muoversi attraverso uno spazio stretto fino a 1 pollice di larghezza senza stringersi."
 					]
 				}
 			],
@@ -1525,13 +1525,13 @@
 				{
 					"name": "Blot",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) psychic damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danno psichico."
 					]
 				},
 				{
 					"name": "Ink Spray (1/Day)",
 					"entries": [
-						"The inkling sprays viscous ink at one creature within 15 feet of itself. The target must succeed on a {@dc 12} Constitution saving throw or be {@condition blinded} until the end of the inkling's next turn."
+						"L'intuito spruzza inchiostro viscoso su una creatura entro 4,5 metri da sé. Il bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 12} o essere {@condition blinded} fino alla fine del turno successivo del sentore."
 					]
 				}
 			],
@@ -1539,7 +1539,7 @@
 				{
 					"name": "Shadow Stealth",
 					"entries": [
-						"While in dim light or darkness, the inkling takes the Hide action."
+						"Mentre si trova in penombra o nell'oscurità, il sentore effettua l'azione Nascondersi."
 					]
 				}
 			],
@@ -1621,7 +1621,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The apprentice casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 12}):"
+						"L'apprendista lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 12}):"
 					],
 					"will": [
 						"{@spell guidance}",
@@ -1642,13 +1642,13 @@
 				{
 					"name": "Scroll Bash",
 					"entries": [
-						"{@atk ms} {@hit 4} to hit, reach 30 ft., one target. {@h}7 ({@damage 1d10 + 2}) bludgeoning damage plus 9 ({@damage 2d8}) thunder damage."
+						"{@atk ms} {@hit 4} per colpire, raggiungere 9 metri, un bersaglio. {@h}7 ({@damage 1d10 + 2}) danni contundenti più 9 ({@damage 2d8}) danni da tuono."
 					]
 				},
 				{
 					"name": "Reduce to Memory {@recharge}",
 					"entries": [
-						"Thundering golden energy erupts around a creature the apprentice can see within 90 feet of it. The creature must make a {@dc 12} Constitution saving throw, taking 33 ({@damage 6d10}) thunder damage on a failed save, or half as much damage on a successful one. A Construct has disadvantage on the saving throw."
+						"Una tonante energia dorata erutta attorno a una creatura che l'apprendista può vedere entro 90 piedi da essa. La creatura deve effettuare un tiro salvezza su Costituzione {@dc 12} e subisce 33 ({@damage 6d10}) danni da tuono se fallisce il tiro salvezza, o la metà di quei danni se lo riesce. Un Costrutto ha svantaggio al tiro salvezza."
 					]
 				}
 			],
@@ -1656,7 +1656,7 @@
 				{
 					"name": "Learn from the Past (2/Day)",
 					"entries": [
-						"When another creature within 60 feet of the apprentice misses a target with an attack roll, the apprentice magically enables the attacker to reroll the attack roll. It must use the new roll."
+						"Quando un'altra creatura entro 18 metri dall'apprendista manca un bersaglio con un tiro per colpire, l'apprendista abilita magicamente l'attaccante a ripetere il tiro per colpire. Deve utilizzare il nuovo tiro."
 					]
 				}
 			],
@@ -1736,7 +1736,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pledgemage casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 13}):"
+						"Il mago giurato lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell guidance}",
@@ -1761,19 +1761,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The pledgemage makes two Scroll Bash attacks."
+						"Il mago giurato effettua due attacchi Scroll Bash."
 					]
 				},
 				{
 					"name": "Scroll Bash",
 					"entries": [
-						"{@atk ms} {@hit 5} to hit, reach 30 ft., one target. {@h}8 ({@damage 1d10 + 3}) bludgeoning damage plus 9 ({@damage 2d8}) thunder damage."
+						"{@atk ms} {@hit 5} per colpire, raggiungere 9 metri, un bersaglio. {@h}8 ({@damage 1d10 + 3}) danni contundenti più 9 ({@damage 2d8}) danni da tuono."
 					]
 				},
 				{
 					"name": "Reduce to Memory {@recharge 5}",
 					"entries": [
-						"Thundering golden energy erupts around a creature the pledgemage can see within 90 feet of it. The creature must make a {@dc 13} Constitution saving throw, taking 44 ({@damage 8d10}) thunder damage on a failed save, or half as much damage on a successful one. A Construct has disadvantage on the saving throw."
+						"Una tonante energia dorata erutta attorno a una creatura che il mago giurato può vedere entro 90 piedi da essa. La creatura deve effettuare un tiro salvezza su Costituzione {@dc 13} e subisce 44 ({@damage 8d10}) danni da tuono se fallisce il tiro salvezza, o la metà di quei danni se lo riesce. Un Costrutto ha svantaggio al tiro salvezza."
 					]
 				}
 			],
@@ -1781,7 +1781,7 @@
 				{
 					"name": "Chronal Break (1/Day)",
 					"entries": [
-						"The pledgemage chooses a point within 30 feet of itself, shunting the minds of nearby creatures out of this moment in time. Each creature in a 10-foot-radius sphere centered on that point must succeed on a {@dc 13} Wisdom saving throw or be {@condition incapacitated} until the end of the pledgemage's next turn."
+						"Il mago giurato sceglie un punto entro 9 metri da sé, distogliendo le menti delle creature vicine da questo momento nel tempo. Ogni creatura in una sfera di 3 metri di raggio centrata su quel punto deve riuscire un tiro salvezza su Saggezza {@dc 13} o essere {@condition incapacitated} fino alla fine del turno successivo del mago giurato."
 					]
 				}
 			],
@@ -1789,7 +1789,7 @@
 				{
 					"name": "Learn from the Past (2/Day)",
 					"entries": [
-						"When another creature within 60 feet of the pledgemage misses a target with an attack roll, the pledgemage magically enables the attacker to reroll the attack roll. It must use the new roll."
+						"Quando un'altra creatura entro 18 metri dal mago giurato manca un bersaglio con un tiro per colpire, il mago giurato consente magicamente all'attaccante di ripetere il tiro per colpire. Deve utilizzare il nuovo tiro."
 					]
 				}
 			],
@@ -1878,7 +1878,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability:"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiedono componenti materiali e utilizzano l'Intelligenza come capacità di lancio degli incantesimi:"
 					],
 					"will": [
 						"{@spell comprehend languages}",
@@ -1900,7 +1900,7 @@
 				{
 					"name": "Voice from the Past (1/Day)",
 					"entries": [
-						"The professor can cast the {@spell contact other plane} spell to contact a long-dead spirit, using Intelligence as the spellcasting ability."
+						"Il professore può lanciare l'incantesimo {@spell contact other plane} per contattare uno spirito morto da tempo, utilizzando l'Intelligenza come abilità di lancio dell'incantesimo."
 					]
 				}
 			],
@@ -1908,19 +1908,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Spectral Scroll attacks. It can also use Weight of {@skill History}, if available."
+						"Il professore effettua due attacchi con la Pergamena Spettrale. Può anche utilizzare Peso di {@skill History}, se disponibile."
 					]
 				},
 				{
 					"name": "Spectral Scroll",
 					"entries": [
-						"{@atk ms} {@hit 7} to hit, reach 30 ft., one target. {@h}15 ({@damage 2d10 + 4}) force damage. If the target is a creature, it must succeed on a {@dc 15} Strength saving throw or be knocked {@condition prone}."
+						"{@atk ms} {@hit 7} per colpire, raggiungere 9 metri, un bersaglio. {@h}15 ({@damage 2d10 + 4}) danni fisici. Se il bersaglio è una creatura, deve riuscire in un tiro salvezza su Forza {@dc 15} o essere buttato giù {@condition prone}."
 					]
 				},
 				{
 					"name": "Weight of History {@recharge 5}",
 					"entries": [
-						"The professor magically compresses time around up to six creatures of its choice that it can see within 30 feet of itself. Each target must succeed on a {@dc 15} Wisdom saving throw or be {@condition restrained} for 1 minute, but the {@condition restrained} target's speed is halved instead of being reduced to 0. At the start of each of its turns, the {@condition restrained} target takes 4 ({@damage 1d8}) force damage. A {@condition restrained} target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+						"Il professore comprime magicamente il tempo attorno a un massimo di sei creature di sua scelta che può vedere entro 9 metri da sé. Ogni bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 15} o essere {@condition restrained} per 1 minuto, ma la velocità del bersaglio {@condition restrained} viene dimezzata invece di essere ridotta a 0. All'inizio di ciascuno dei suoi turni, il bersaglio {@condition restrained} subisce 4 ({@damage 1d8}) danni da forza. Un bersaglio {@condition restrained} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -2008,7 +2008,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell comprehend languages}",
@@ -2031,7 +2031,7 @@
 				{
 					"name": "Voice from the Past (1/Day)",
 					"entries": [
-						"The professor can cast the {@spell contact other plane} spell to contact a long-dead spirit, using Intelligence as the spellcasting ability."
+						"Il professore può lanciare l'incantesimo {@spell contact other plane} per contattare uno spirito morto da tempo, utilizzando l'Intelligenza come abilità di lancio dell'incantesimo."
 					]
 				}
 			],
@@ -2039,19 +2039,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Repelling Burst attacks. It can also use Force Barrier, if available."
+						"Il professore effettua due attacchi Repelling Burst. Può anche usare la Barriera di Forza, se disponibile."
 					]
 				},
 				{
 					"name": "Repelling Burst",
 					"entries": [
-						"{@atk ms} {@hit 7} to hit, reach 30 ft., one target. {@h}13 ({@damage 2d8 + 4}) force damage. If the target is a Large or smaller creature, it must succeed on a {@dc 15} Strength saving throw or be pushed up to 10 feet directly away from the professor and become {@condition restrained} until the start of professor's next turn."
+						"{@atk ms} {@hit 7} per colpire, raggiungere 9 metri, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni fisici. Se il bersaglio è una creatura Grande o più piccola, deve riuscire in un tiro salvezza su Forza {@dc 15} o essere spinto fino a 3 metri direttamente lontano dal professore e diventare {@condition restrained} fino all'inizio del turno successivo del professore."
 					]
 				},
 				{
 					"name": "Force Barrier {@recharge 5}",
 					"entries": [
-						"The professor magically creates a wall of translucent, golden force within 90 feet of itself. The wall lasts for 1 minute or until the professor uses this action again. The barrier can be a vertical or horizontal plane up to 30 feet on a side or a 10-foot-radius hemispherical dome with a floor. The wall provides {@quickref Cover||3||total cover}. It has AC 17, 30 hit points, and immunity to poison and psychic damage."
+						"Il professore crea magicamente un muro di forza traslucida e dorata entro 90 piedi da se stesso. Il muro dura 1 minuto o finché il professore non usa nuovamente questa azione. La barriera può essere un piano verticale o orizzontale fino a 9 metri di lato o una cupola emisferica di 3 metri di raggio con un pavimento. Il muro fornisce {@quickref Cover||3||total cover}. Ha CA 17, 30 punti ferita e immunità al veleno e ai danni psichici."
 					]
 				}
 			],
@@ -2059,7 +2059,7 @@
 				{
 					"name": "Arcane Stasis (2/Day)",
 					"entries": [
-						"When a creature the professor can see within 60 feet of it casts a spell, the professor can magically lock the casting in the moment before completion. The spellcaster must succeed on a {@dc 15} saving throw using the spell's spellcasting ability, or the spell fails and is wasted."
+						"Quando una creatura che il professore può vedere entro 18 metri da essa lancia un incantesimo, il professore può magicamente bloccare il lancio un attimo prima del completamento. L'incantatore deve riuscire in un tiro salvezza {@dc 15} utilizzando la capacità di lancio dell'incantesimo, altrimenti l'incantesimo fallisce e viene sprecato."
 					]
 				}
 			],
@@ -2166,13 +2166,13 @@
 				{
 					"name": "Magic Sense",
 					"entries": [
-						"The hunter knows the location of every spellcaster, active spell, and magic item within 120 feet of itself."
+						"Il cacciatore conosce la posizione di ogni incantatore, incantesimo attivo e oggetto magico entro 36 metri da sé."
 					]
 				},
 				{
 					"name": "Spider Climb (Hunter Form Only)",
 					"entries": [
-						"The hunter can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"Il cacciatore può arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica."
 					]
 				}
 			],
@@ -2180,26 +2180,26 @@
 				{
 					"name": "Multiattack (Hunter Form Only)",
 					"entries": [
-						"The hunter makes two Claw attacks."
+						"Il cacciatore effettua due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Claw (Hunter Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}15 ({@damage 2d10 + 4}) slashing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}15 ({@damage 2d10 + 4}) danni taglienti."
 					]
 				},
 				{
 					"name": "Tail",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 10 ft., one target. {@h}22 ({@damage 4d8 + 4}) piercing damage, and the target is {@condition grappled} (escape {@dc 15}). Until this grapple ends, the target is {@condition restrained}, and the hunter can't make a Tail attack against another target."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 10 piedi, un bersaglio. {@h}22 ({@damage 4d8 + 4}) danni perforanti e il bersaglio è {@condition grappled} (fuga {@dc 15}). Fino al termine della presa, il bersaglio è {@condition restrained} e il cacciatore non può effettuare un attacco di coda contro un altro bersaglio."
 					]
 				},
 				{
 					"name": "Mage Tracker (Sentry Form Only)",
 					"entries": [
-						"The hunter emits a pulse of energy that helps it better locate its magical quarry. Each creature within 120 feet of the hunter that has the ability to cast spells must succeed on a {@dc 14} Wisdom saving throw or be mystically marked by the hunter for 1 hour.",
-						"While marked, a creature can't become hidden from the hunter and gains no benefit from the {@condition invisible} condition against the hunter. Additionally, while a marked creature is on the same plane of existence as the hunter, the hunter always knows the distance and direction to the creature."
+						"Il cacciatore emette un impulso di energia che lo aiuta a localizzare meglio la sua preda magica. Ogni creatura entro 120 piedi dal cacciatore che abbia la capacità di lanciare incantesimi deve riuscire un tiro salvezza su Saggezza {@dc 14} o essere segnata misticamente dal cacciatore per 1 ora.",
+						"Mentre è marchiata, una creatura non può nascondersi al cacciatore e non ottiene alcun beneficio dalla condizione {@condition invisible} contro il cacciatore. Inoltre, finché una creatura marchiata si trova sullo stesso piano di esistenza del cacciatore, questi conosce sempre la distanza e la direzione della creatura."
 					]
 				}
 			],
@@ -2207,7 +2207,7 @@
 				{
 					"name": "Shift Form",
 					"entries": [
-						"The hunter folds into its drone-like sentry form or unfolds into its hunter form. Its game statistics are the same in each form."
+						"Il cacciatore si trasforma nella sua forma di sentinella simile a un drone o si dispiega nella sua forma di cacciatore. Le sue statistiche di gioco sono le stesse in ogni forma."
 					]
 				}
 			],
@@ -2215,7 +2215,7 @@
 				{
 					"name": "Consume and Destroy",
 					"entries": [
-						"When the hunter takes damage from a spell, it takes only half the triggering damage (rounded down). If the creature that cast the spell is within 60 feet of the hunter, that creature must succeed on a {@dc 14} Dexterity saving throw or take the other half of the damage."
+						"Quando il cacciatore subisce danni da un incantesimo, subisce solo la metà del danno innescante (arrotondato per difetto). Se la creatura che ha lanciato l'incantesimo si trova entro 60 piedi dal cacciatore, quella creatura deve riuscire un tiro salvezza di Destrezza {@dc 14} o subire l'altra metà del danno."
 					]
 				}
 			],
@@ -2320,19 +2320,19 @@
 				{
 					"name": "Blood Aegis",
 					"entries": [
-						"The AC of Murgaxor includes his Constitution modifier while he isn't wearing armor or wielding a shield."
+						"La CA di Murgaxor include il suo modificatore di Costituzione mentre non indossa un'armatura o non brandisce uno scudo."
 					]
 				},
 				{
 					"name": "Oriq Mask",
 					"entries": [
-						"Murgaxor wears an Oriq mask. While wearing the mask, Murgaxor can't be targeted by any divination magic or perceived through magical scrying sensors, and he adds double his proficiency bonus to Charisma ({@skill Deception}) checks (included above)."
+						"Murgaxor indossa una maschera Oriq. Mentre indossa la maschera, Murgaxor non può essere preso di mira da alcuna magia di divinazione o percepito attraverso sensori di scrutamento magico, e aggiunge il doppio del suo bonus di competenza alle prove di Carisma ({@skill Deception}) (incluse sopra)."
 					]
 				},
 				{
 					"name": "Sanguine Sense",
 					"entries": [
-						"While Murgaxor isn't {@condition blinded}, he can see any creature that isn't an Undead or a Construct within 60 feet of himself, even through {@quickref Cover||3||total cover}, heavily obscured areas, invisibility, or any other phenomena that would prevent sight."
+						"Anche se Murgaxor non lo è {@condition blinded}, può vedere qualsiasi creatura che non sia un Non Morto o un Costrutto entro 18 metri da lui, anche attraverso {@quickref Cover||3||total cover}, aree fortemente oscurate, invisibilità o qualsiasi altro fenomeno che impedirebbe la vista."
 					]
 				}
 			],
@@ -2340,19 +2340,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Murgaxor makes two Blood Lash attacks."
+						"Murgaxor effettua due attacchi con Sferzata di Sangue."
 					]
 				},
 				{
 					"name": "Blood Lash",
 					"entries": [
-						"{@atk ms} {@hit 9} to hit, reach 10 ft., one target. {@h}21 ({@damage 3d10 + 5}) necrotic damage. If the target is a creature, it can't regain hit points until the start of Murgaxor's next turn."
+						"{@atk ms} {@hit 9} per colpire, raggiungere 10 piedi, un bersaglio. {@h}21 ({@damage 3d10 + 5}) danno necrotico. Se il bersaglio è una creatura, non può recuperare punti ferita fino all'inizio del turno successivo di Murgaxor."
 					]
 				},
 				{
 					"name": "Blood Boil {@recharge 4}",
 					"entries": [
-						"Murgaxor chooses a point within 150 feet of himself, and a 20-foot radius sphere centered on that point fills with a burst of searing, blood-red mist. Each creature of Murgaxor's choice that he can see in that area must make a {@dc 17} Constitution saving throw. On a failed save, a creature takes 38 ({@damage 7d10}) necrotic damage and is {@condition incapacitated} until the end of its next turn. On a success, a creature takes half as much damage and isn't {@condition incapacitated}. A creature dies if reduced to 0 hit points by this necrotic damage."
+						"Murgaxor sceglie un punto entro 45 metri da sé e una sfera del raggio di 6 metri centrata su quel punto si riempie di un'esplosione di nebbia bruciante rosso sangue. Ogni creatura a scelta di Murgaxor che può vedere in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 17}. Se il tiro salvezza fallisce, una creatura subisce 38 ({@damage 7d10}) danni necrotici e rimane {@condition incapacitated} fino alla fine del suo turno successivo. In caso di successo, una creatura subisce la metà del danno e non lo è {@condition incapacitated}. Una creatura muore se ridotta a 0 punti ferita da questo danno necrotico."
 					]
 				}
 			],
@@ -2457,7 +2457,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The Oracle casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 18}):"
+						"L'Oracolo lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 18}):"
 					],
 					"will": [
 						"{@spell detect magic}"
@@ -2483,7 +2483,7 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the Oracle fails a saving throw, she can choose to succeed instead."
+						"Se l'Oracolo fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -2491,25 +2491,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Oracle makes two Magic Flare attacks. She can also use Paradoxy, if available."
+						"L'Oracolo effettua due attacchi Magic Flare. Può anche usare Paradossia, se disponibile."
 					]
 				},
 				{
 					"name": "Magic Flare",
 					"entries": [
-						"{@atk ms,rs} {@hit 10} to hit, reach 5 ft. or range 60 ft., one target. {@h}24 ({@damage 3d12 + 5}) force damage."
+						"{@atk ms,rs} {@hit 10} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}24 ({@damage 3d12 + 5}) danni fisici."
 					]
 				},
 				{
 					"name": "Paradoxy {@recharge 4}",
 					"entries": [
-						"Momentary warps in reality appear at three different points the Oracle can see within 120 feet of her. Each creature in a 20-foot-radius sphere centered on each point must make a {@dc 18} Strength saving throw. On a failed save, a creature takes 33 ({@damage 6d10}) force damage and is pulled up to 15 feet in a straight line toward the center of the sphere. On a successful save, the creature takes half as much damage and isn't pulled. A creature caught in the area of multiple warps is affected by only one, which the Oracle chooses."
+						"In realtà, le deformazioni momentanee appaiono in tre diversi punti che l'Oracolo può vedere entro 120 piedi da lui. Ogni creatura in una sfera di 20 piedi di raggio centrata su ciascun punto deve effettuare un tiro salvezza di Forza {@dc 18}. Se fallisce il tiro salvezza, una creatura subisce 33 ({@damage 6d10}) danni da forza e viene trascinata fino a 15 piedi in linea retta verso il centro della sfera. Se il Tiro Salvezza riesce, la creatura subisce la metà dei danni e non viene trascinata. Una creatura catturata nell'area di più deformazioni viene influenzata da una sola, a scelta dell'Oracolo."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"The Oracle teleports, along with any equipment she is wearing or carrying, to an unoccupied space she can see within 60 feet of herself."
+						"L'Oracolo si teletrasporta, insieme a qualsiasi equipaggiamento che indossa o trasporta, in uno spazio non occupato che può vedere entro 18 metri da se stesso."
 					]
 				}
 			],
@@ -2517,19 +2517,19 @@
 				{
 					"name": "Vector Shift",
 					"entries": [
-						"The Oracle teleports one creature she can see within 60 feet of herself, along with any equipment it is wearing or carrying, to an unoccupied space within 30 feet of herself. An unwilling target must succeed on a {@dc 18} Charisma saving throw to avoid the effect."
+						"L'Oracolo teletrasporta una creatura che può vedere entro 18 metri da sé, insieme a qualsiasi equipaggiamento che indossa o trasporta, in uno spazio non occupato entro 9 metri da sé. Un bersaglio non consenziente deve riuscire in un tiro salvezza su Carisma {@dc 18} per evitare l'effetto."
 					]
 				},
 				{
 					"name": "Spellcasting (Costs 2 Actions)",
 					"entries": [
-						"The Oracle uses Spellcasting."
+						"L'Oracolo usa il lancio degli incantesimi."
 					]
 				},
 				{
 					"name": "Vortex Jaunt (Costs 2 Actions)",
 					"entries": [
-						"The Oracle uses Teleport, and immediately after she disappears, each creature within 30 feet of the space she left must succeed on a {@dc 18} Constitution saving throw or take 16 ({@damage 3d10}) force damage."
+						"L'Oracolo usa il Teletrasporto e, immediatamente dopo la sua scomparsa, ogni creatura entro 9 metri dallo spazio da lei lasciato deve riuscire un tiro salvezza su Costituzione {@dc 18} o subire 16 ({@damage 3d10}) danni da forza."
 					]
 				}
 			],
@@ -2633,19 +2633,19 @@
 				{
 					"name": "Blood Aegis",
 					"entries": [
-						"The AC of the blood mage includes its Constitution modifier while it isn't wearing armor or wielding a shield."
+						"La CA del mago del sangue include il suo modificatore di Costituzione mentre non indossa un'armatura o non brandisce uno scudo."
 					]
 				},
 				{
 					"name": "Oriq Mask",
 					"entries": [
-						"The blood mage wears an Oriq mask. While wearing the mask, the blood mage can't be targeted by any divination magic or perceived through magical scrying sensors, and it adds double its proficiency bonus to Charisma ({@skill Deception}) checks (included above)."
+						"Il mago del sangue indossa una maschera Oriq. Mentre indossa la maschera, il mago del sangue non può essere preso di mira da alcuna magia di divinazione o percepito attraverso sensori di scrutamento magico, e aggiunge il doppio del suo bonus di competenza alle prove di Carisma ({@skill Deception}) (incluse sopra)."
 					]
 				},
 				{
 					"name": "Sanguine Sense",
 					"entries": [
-						"While the blood mage isn't {@condition blinded}, it can see any creature that isn't an Undead or a Construct within 60 feet of itself, even through {@quickref Cover||3||total cover}, heavily obscured areas, invisibility, or any other phenomena that would prevent sight."
+						"Anche se il mago del sangue non lo è {@condition blinded}, può vedere qualsiasi creatura che non sia un Non Morto o un Costrutto entro 60 piedi da sé, anche attraverso {@quickref Cover||3||total cover}, aree fortemente oscurate, invisibilità o qualsiasi altro fenomeno che impedirebbe la vista."
 					]
 				}
 			],
@@ -2653,19 +2653,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The blood mage makes two Blood Lash attacks."
+						"Il mago del sangue effettua due attacchi con Sferzata di Sangue."
 					]
 				},
 				{
 					"name": "Blood Lash",
 					"entries": [
-						"{@atk ms} {@hit 9} to hit, reach 10 ft., one target. {@h}21 ({@damage 3d10 + 5}) necrotic damage. If the target is a creature, it can't regain hit points until the start of the blood mage's next turn."
+						"{@atk ms} {@hit 9} per colpire, raggiungere 10 piedi, un bersaglio. {@h}21 ({@damage 3d10 + 5}) danno necrotico. Se il bersaglio è una creatura, non può recuperare punti ferita fino all'inizio del turno successivo del mago del sangue."
 					]
 				},
 				{
 					"name": "Blood Boil {@recharge 4}",
 					"entries": [
-						"The blood mage chooses a point within 150 feet of itself, and a 20-foot radius sphere centered on that point fills with a burst of searing, blood-red mist. Each creature of the blood mage's choice that it can see in that area must make a {@dc 17} Constitution saving throw. On a failed save, a creature takes 38 ({@damage 7d10}) necrotic damage and is {@condition incapacitated} until the end of its next turn. On a success, a creature takes half as much damage and isn't {@condition incapacitated}. A creature dies if reduced to 0 hit points by this necrotic damage."
+						"Il mago del sangue sceglie un punto entro 45 metri da sé e una sfera del raggio di 6 metri centrata su quel punto si riempie di un'esplosione di nebbia bruciante rosso sangue. Ogni creatura a scelta del mago del sangue che può vedere in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 17}. Se il tiro salvezza fallisce, una creatura subisce 38 ({@damage 7d10}) danni necrotici e rimane {@condition incapacitated} fino alla fine del suo turno successivo. In caso di successo, una creatura subisce la metà del danno e non lo è {@condition incapacitated}. Una creatura muore se ridotta a 0 punti ferita da questo danno necrotico."
 					]
 				}
 			],
@@ -2760,7 +2760,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The recruiter casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 14}):"
+						"Il reclutatore lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell disguise self}",
@@ -2782,13 +2782,13 @@
 				{
 					"name": "Misdirecting Defense",
 					"entries": [
-						"The AC of the recruiter includes its Charisma modifier while it isn't wearing armor or wielding a shield."
+						"La CA del reclutatore include il suo modificatore di Carisma mentre non indossa un'armatura o non brandisce uno scudo."
 					]
 				},
 				{
 					"name": "Oriq Mask",
 					"entries": [
-						"The recruiter wears an Oriq mask. While wearing the mask, the recruiter can't be targeted by any divination magic or perceived through magical scrying sensors, and it adds double its proficiency bonus to Charisma ({@skill Deception}) checks (included above)."
+						"Il reclutatore indossa una maschera Oriq. Mentre indossa la maschera, il reclutatore non può essere preso di mira da alcuna magia di divinazione o percepito attraverso sensori di scrutamento magico, e aggiunge il doppio del suo bonus di competenza alle prove di Carisma ({@skill Deception}) (incluse sopra)."
 					]
 				}
 			],
@@ -2796,13 +2796,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The recruiter makes two Psychic Knife attacks. It can use Spellcasting in place of one of the attacks."
+						"Il reclutatore effettua due attacchi con il coltello psichico. Può usare il lancio degli incantesimi al posto di uno degli attacchi."
 					]
 				},
 				{
 					"name": "Psychic Knife",
 					"entries": [
-						"{@atk ms,rs} {@hit 6} to hit, reach 5 ft. or range 30 ft., one creature. {@h}21 ({@damage 5d6 + 4}) psychic damage."
+						"{@atk ms,rs} {@hit 6} per colpire, raggiungere 5 piedi o un raggio di 30 piedi, una creatura. {@h}21 ({@damage 5d6 + 4}) danni psichici."
 					]
 				}
 			],
@@ -2873,13 +2873,13 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The pest regains 5 hit points at the start of its turn if it has at least 1 hit point. If it takes fire damage, this trait doesn't function at the start of the pest's next turn."
+						"Il parassita recupera 5 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita. Se subisce danni da fuoco, questo tratto non funziona all'inizio del turno successivo del parassita."
 					]
 				},
 				{
 					"name": "Spiny Hide",
 					"entries": [
-						"At the start of each of its turns, the pest deals 2 ({@damage 1d4}) piercing damage to any creature grappling it or that it is grappling."
+						"All'inizio di ciascuno dei suoi turni, il parassita infligge 2 ({@damage 1d4}) danni perforanti a qualsiasi creatura che lo afferra o con cui è in lotta."
 					]
 				}
 			],
@@ -2887,7 +2887,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -2960,7 +2960,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The apprentice casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 12}):"
+						"L'apprendista lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 12}):"
 					],
 					"will": [
 						"{@spell minor illusion}"
@@ -2980,7 +2980,7 @@
 				{
 					"name": "Elemental Strike",
 					"entries": [
-						"{@atk ms,rs} {@hit 4} to hit, reach 5 ft. or range 60 ft., one target. {@h}10 ({@damage 3d6}) fire or cold damage (the apprentice's choice)."
+						"{@atk ms,rs} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}10 ({@damage 3d6}) danni da fuoco o freddo (a scelta dell'apprendista)."
 					]
 				}
 			],
@@ -2988,7 +2988,7 @@
 				{
 					"name": "Surge of Artistry {@recharge 4}",
 					"entries": [
-						"The apprentice moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the apprentice can move through the space of other creatures. The first time the apprentice enters a creature's space on a turn, that creature must succeed on a {@dc 12} Dexterity saving throw or be knocked {@condition prone}. If the apprentice ends its turn in another creature's space, the apprentice takes 5 ({@damage 1d10}) force damage and is pushed into the nearest unoccupied space."
+						"L'apprendista si muove alla sua velocità, circondandosi di magia elementale mentre si muove. Fino alla fine del suo turno, l'apprendista può muoversi attraverso lo spazio delle altre creature. La prima volta che l'apprendista entra nello spazio di una creatura in un turno, quella creatura deve riuscire in un tiro salvezza di Destrezza {@dc 12} o essere colpita {@condition prone}. Se l'apprendista termina il suo turno nello spazio di un'altra creatura, subisce 5 ({@damage 1d10}) danni da forza e viene spinto nello spazio non occupato più vicino."
 					]
 				}
 			],
@@ -3069,7 +3069,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pledgemage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Il mago giurato lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell minor illusion}"
@@ -3092,7 +3092,7 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If the pledgemage is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the pledgemage instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't {@condition incapacitated}."
+						"Se il mago consacrato è soggetto a un effetto che gli consente di effettuare un tiro salvezza di Destrezza per subire solo la metà dei danni, il mago consacrato invece non subisce danni se riesce nel tiro salvezza e solo la metà dei danni se fallisce, a condizione che non lo sia {@condition incapacitated}."
 					]
 				}
 			],
@@ -3100,19 +3100,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The pledgemage makes two Elemental Strike attacks."
+						"Il mago giurato effettua due attacchi di Colpo Elementale."
 					]
 				},
 				{
 					"name": "Elemental Strike",
 					"entries": [
-						"{@atk ms,rs} {@hit 5} to hit, reach 5 ft. or range 60 ft., one target. {@h}12 ({@damage 3d6 + 2}) fire or cold damage (the pledgemage's choice)."
+						"{@atk ms,rs} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}12 ({@damage 3d6 + 2}) danni da fuoco o freddo (a scelta del mago giurato)."
 					]
 				},
 				{
 					"name": "Showstopper (1/Day)",
 					"entries": [
-						"The pledgemage shines with elemental magic, targeting one creature it can see within 60 feet of itself. The target must make a {@dc 13} Wisdom saving throw. On a failed save, the target takes 28 ({@damage 8d6}) fire or cold damage (the pledgemage's choice) and is {@condition stunned} until the start of the pledgemage's next turn. On a successful save, the target takes half as much damage and isn't {@condition stunned}."
+						"Il mago consacrato brilla di magia elementale, prendendo di mira una creatura che può vedere entro 18 metri da sé. Il bersaglio deve effettuare un tiro salvezza su Saggezza {@dc 13}. Se il tiro salvezza fallisce, il bersaglio subisce 28 ({@damage 8d6}) danni da fuoco o da freddo (a scelta del mago giurato) ed è {@condition stunned} fino all'inizio del turno successivo del mago giurato. Se il tiro salvezza riesce, il bersaglio subisce la metà dei danni e non lo subisce {@condition stunned}."
 					]
 				}
 			],
@@ -3120,7 +3120,7 @@
 				{
 					"name": "Surge of Artistry {@recharge 4}",
 					"entries": [
-						"The pledgemage moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the pledgemage can move through the space of other creatures. The first time the pledgemage enters a creature's space on a turn, that creature must succeed on a {@dc 13} Dexterity saving throw or be knocked {@condition prone}. If the pledgemage ends its turn in another creature's space, the pledgemage takes 5 ({@damage 1d10}) force damage and is pushed into the nearest unoccupied space."
+						"Il mago giurato si muove alla sua velocità, circondandosi di magia elementale mentre si muove. Fino alla fine del suo turno, il mago giurato può muoversi attraverso lo spazio di altre creature. La prima volta che il mago impegnato entra nello spazio di una creatura in un turno, quella creatura deve riuscire in un tiro salvezza di Destrezza {@dc 13} o essere colpita {@condition prone}. Se il mago giurato termina il suo turno nello spazio di un'altra creatura, subisce 5 ({@damage 1d10}) danni da forza e viene spinto nello spazio non occupato più vicino."
 					]
 				}
 			],
@@ -3213,7 +3213,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell minor illusion}"
@@ -3233,19 +3233,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes three Cinder Strike attacks."
+						"Il professore effettua tre attacchi Cinder Strike."
 					]
 				},
 				{
 					"name": "Cinder Strike",
 					"entries": [
-						"{@atk ms} {@hit 7} to hit, reach 15 ft., one target. {@h}13 ({@damage 2d8 + 4}) fire damage."
+						"{@atk ms} {@hit 7} per colpire, raggiungere 15 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni da fuoco."
 					]
 				},
 				{
 					"name": "Lightning Flourish {@recharge}",
 					"entries": [
-						"The professor unleashes arcs of magical lightning at up to two creatures it can see within 60 feet of itself. Each target must make a {@dc 15} Dexterity saving throw, taking 35 ({@damage 10d6}) lightning damage on a failed save, or half as much damage on a successful one."
+						"Il professore scatena archi di fulmini magici contro un massimo di due creature che può vedere entro 18 metri da lui. Ogni bersaglio deve effettuare un tiro salvezza su Destrezza {@dc 15} e subisce 35 ({@damage 10d6}) danni da fulmine se fallisce il tiro salvezza, o la metà di questi danni se lo riesce."
 					]
 				}
 			],
@@ -3253,7 +3253,7 @@
 				{
 					"name": "Flaming Leap",
 					"entries": [
-						"The professor is wreathed in flames and jumps up to 30 feet in any direction. When the professor lands, the flames erupt in a 10-foot radius around the professor and then vanish. Each creature of the professor's choice in that area must succeed on a {@dc 15} Dexterity saving throw or take 7 ({@damage 2d6}) fire damage."
+						"Il professore è avvolto dalle fiamme e salta fino a 9 metri in qualsiasi direzione. Quando il professore atterra, le fiamme esplodono in un raggio di 3 metri attorno al professore e poi svaniscono. Ogni creatura a scelta del professore in quell'area deve riuscire un tiro salvezza di Destrezza {@dc 15} o subire 7 ({@damage 2d6}) danni da fuoco."
 					]
 				}
 			],
@@ -3343,7 +3343,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell minor illusion}"
@@ -3367,7 +3367,7 @@
 				{
 					"name": "Water Walking",
 					"entries": [
-						"The professor can walk across water and other liquids as if they were solid ground."
+						"Il professore può camminare sull'acqua e su altri liquidi come se fossero un terreno solido."
 					]
 				}
 			],
@@ -3375,13 +3375,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes three Tidal Strike attacks."
+						"Il professore effettua tre attacchi Tidal Strike."
 					]
 				},
 				{
 					"name": "Tidal Strike",
 					"entries": [
-						"{@atk ms,rs} {@hit 7} to hit, reach 5 ft. or range 60 ft., one target. {@h}13 ({@damage 2d8 + 4}) cold damage."
+						"{@atk ms,rs} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni da freddo."
 					]
 				}
 			],
@@ -3389,7 +3389,7 @@
 				{
 					"name": "Rushing Wave",
 					"entries": [
-						"The professor is momentarily surrounded by a swirling wave of water and moves up to 30 feet. When the professor moves within 5 feet of any other creature during this bonus action, that creature must succeed on a {@dc 15} Strength saving throw, or the creature is knocked {@condition prone} and it can't take reactions until the start of its next turn. A creature can suffer this effect only once during a turn."
+						"Il professore viene momentaneamente circondato da un'onda vorticosa d'acqua e si muove fino a 9 metri. Quando il professore si muove entro 1,5 metri da qualsiasi altra creatura durante questa azione bonus, quella creatura deve riuscire in un tiro salvezza su Forza {@dc 15} altrimenti viene buttata a terra {@condition prone} e non può effettuare reazioni fino all'inizio del suo turno successivo. Una creatura può subire questo effetto solo una volta durante un turno."
 					]
 				}
 			],
@@ -3476,7 +3476,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The apprentice casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 12}):"
+						"L'apprendista lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 12}):"
 					],
 					"will": [
 						"{@spell guidance}",
@@ -3496,13 +3496,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The apprentice makes two Exponential Lash attacks."
+						"L'apprendista effettua due attacchi con Sferzata Esponenziale."
 					]
 				},
 				{
 					"name": "Exponential Lash",
 					"entries": [
-						"{@atk ms,rs} {@hit 4} to hit, reach 5 ft. or range 60 ft., one target. {@h}5 ({@damage 1d6 + 2}) force damage, and the apprentice can cause one creature it can see within 30 feet of the target to take 9 ({@damage 2d6 + 2}) force damage."
+						"{@atk ms,rs} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni di forza e l'apprendista può far sì che una creatura che può vedere entro 9 metri dal bersaglio subisca 9 ({@damage 2d6 + 2}) danni di forza."
 					]
 				}
 			],
@@ -3578,7 +3578,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pledgemage casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 13}):"
+						"Il mago giurato lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell guidance}",
@@ -3600,13 +3600,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The pledgemage makes two Exponential Lash attacks."
+						"Il mago giurato effettua due attacchi con Sferzata Esponenziale."
 					]
 				},
 				{
 					"name": "Exponential Lash",
 					"entries": [
-						"{@atk ms,rs} {@hit 5} to hit, reach 5 ft. or range 60 ft., one target. {@h}6 ({@damage 1d6 + 3}) force damage, and the pledgemage can cause one creature it can see within 30 feet of the target to take 10 ({@damage 2d6 + 3}) force damage."
+						"{@atk ms,rs} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni di forza e il mago giurato può far sì che una creatura che può vedere entro 9 metri dal bersaglio subisca 10 ({@damage 2d6 + 3}) danni di forza."
 					]
 				}
 			],
@@ -3614,7 +3614,7 @@
 				{
 					"name": "Vortex Calculus {@recharge 4}",
 					"entries": [
-						"The pledgemage teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 60 feet of itself. Immediately after it teleports, each creature within 20 feet of the space it left must make a {@dc 13} Constitution saving throw. On a failed save, a creature takes 7 ({@damage 2d6}) force damage and is moved 10 feet in a random horizontal direction. On a successful save, a creature takes half as much damage and isn't moved."
+						"Il mago consacrato si teletrasporta, insieme a qualsiasi equipaggiamento che indossa o trasporta, in uno spazio non occupato e visibile entro 18 metri da sé. Immediatamente dopo il teletrasporto, ogni creatura entro 20 piedi dallo spazio lasciato deve effettuare un tiro salvezza su Costituzione {@dc 13}. Se il tiro salvezza fallisce, una creatura subisce 7 ({@damage 2d6}) danni da forza e viene spostata di 3 metri in una direzione orizzontale casuale. Se il tiro salvezza riesce, la creatura subisce la metà dei danni e non viene spostata."
 					]
 				}
 			],
@@ -3704,7 +3704,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell guidance}",
@@ -3728,13 +3728,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Spatial Blade attacks."
+						"Il professore effettua due attacchi con la lama spaziale."
 					]
 				},
 				{
 					"name": "Spatial Blade",
 					"entries": [
-						"{@atk ms,rs} {@hit 7} to hit (the target can't benefit from cover less than {@quickref Cover||3||total cover}), reach 5 ft. or range 120 ft., one target. {@h}13 ({@damage 2d8 + 4}) force damage, or 22 ({@damage 4d8 + 4}) force damage if the professor is Large or larger, and the professor can push the target horizontally up to 10 feet away."
+						"{@atk ms,rs} {@hit 7} per colpire (il bersaglio non può beneficiare di una copertura inferiore a {@quickref Cover||3||total cover}), raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}13 ({@damage 2d8 + 4}) danni di forza o 22 ({@damage 4d8 + 4}) danni di forza se il professore è di taglia Grande o superiore e può spingere il bersaglio orizzontalmente fino a 3 metri di distanza."
 					]
 				}
 			],
@@ -3742,19 +3742,19 @@
 				{
 					"name": "Dilation {@recharge 5}",
 					"entries": [
-						"The professor magically alters its physical form until it uses this bonus action again, until it is {@condition incapacitated} or dies, or until it dismisses the effect (no action required). Choose one of the following options:"
+						"Il professore altera magicamente la sua forma fisica finché non usa nuovamente questa azione bonus, finché non diventa {@condition incapacitated} o muore, o finché non annulla l'effetto (non è richiesta alcuna azione). Scegli una delle seguenti opzioni:"
 					]
 				},
 				{
 					"name": "Expand",
 					"entries": [
-						"The professor becomes Large if there is sufficient room for it to grow. It has advantage on attack rolls and on ability checks and saving throws that rely on Strength."
+						"Il professore diventa Grande se c'è spazio sufficiente per crescere. Dispone di vantaggio ai tiri per colpire, alle prove di caratteristica e ai tiri salvezza che si basano sulla Forza."
 					]
 				},
 				{
 					"name": "Contract",
 					"entries": [
-						"The professor becomes Small. Its walking speed increases to 60 feet, attack rolls against it have disadvantage, and it has advantage on ability checks and saving throws that rely on Dexterity."
+						"Il professore diventa Piccolo. La sua velocità di camminata aumenta fino a 18 metri, i tiri per colpire contro di lui hanno svantaggio e ha vantaggio alle prove di caratteristica e ai tiri salvezza che si basano sulla Destrezza."
 					]
 				}
 			],
@@ -3762,7 +3762,7 @@
 				{
 					"name": "Avoidant Translation (2/Day)",
 					"entries": [
-						"When the professor is hit by an attack roll, it can increase its AC by 3 against that attack, potentially causing it to miss. The professor can then teleport, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see."
+						"Quando il professore viene colpito da un tiro per colpire, può aumentare la sua CA di 3 contro quell'attacco, facendolo potenzialmente fallire. Il professore può quindi teletrasportarsi, insieme a qualsiasi attrezzatura che indossa o trasporta, fino a 9 metri in uno spazio non occupato e visibile."
 					]
 				}
 			],
@@ -3850,7 +3850,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell guidance}",
@@ -3873,19 +3873,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Heuristic Lance attacks. It can also use Overriding Theorem, if available."
+						"Il professore effettua due attacchi con lancia euristica. Può anche utilizzare il Teorema Overriding, se disponibile."
 					]
 				},
 				{
 					"name": "Heuristic Lance",
 					"entries": [
-						"{@atk ms,rs} {@hit 7} to hit, reach 5 ft. or range 60 ft., one creature. {@h}13 ({@damage 2d8 + 4}) psychic damage, and the target is {@condition poisoned} until the end of its next turn."
+						"{@atk ms,rs} {@hit 7} per colpire, raggiungere 5 piedi o un raggio di 60 piedi, una creatura. {@h}13 ({@damage 2d8 + 4}) danni psichici e il bersaglio è {@condition poisoned} fino alla fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Overriding Theorem {@recharge 4}",
 					"entries": [
-						"The professor magically influences the mind of up to two creatures it can see within 60 feet of itself. Each target must succeed on a {@dc 15} Intelligence saving throw or become {@condition charmed} by the professor until the start of the professor's next turn. The {@condition charmed} creature must immediately use its reaction, if available, to move up its speed toward another creature of the professor's choice and make one melee attack against that other creature."
+						"Il professore influenza magicamente la mente di un massimo di due creature che può vedere entro 18 metri da lui. Ogni bersaglio deve riuscire in un tiro salvezza su Intelligenza {@dc 15} o diventare {@condition charmed} dal professore fino all'inizio del turno successivo del professore. La creatura {@condition charmed} deve usare immediatamente la sua reazione, se disponibile, per aumentare la sua velocità verso un'altra creatura a scelta del professore ed effettuare un attacco in mischia contro quell'altra creatura."
 					]
 				}
 			],
@@ -3893,7 +3893,7 @@
 				{
 					"name": "Divide by Zero (2/Day)",
 					"entries": [
-						"When the professor sees another creature within 60 feet of itself casting a spell, the professor can try to nullify the spell's formation. The creature must succeed on a {@dc 15} saving throw using the spell's spellcasting ability, or the spell fails and is wasted."
+						"Quando il professore vede un'altra creatura entro 18 metri da sé lanciare un incantesimo, può provare ad annullare la formazione dell'incantesimo. La creatura deve riuscire in un tiro salvezza {@dc 15} utilizzando la capacità di lancio dell'incantesimo, altrimenti l'incantesimo fallisce e viene sprecato."
 					]
 				}
 			],
@@ -3962,7 +3962,7 @@
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 10 ft., one target. {@h}14 ({@damage 2d8 + 5}) slashing damage, and the target is {@condition grappled} (escape {@dc 15}). The relic sloth can grapple no more than two targets at a time."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 10 piedi, un bersaglio. {@h}14 ({@damage 2d8 + 5}) danni taglienti e il bersaglio è {@condition grappled} (fuga {@dc 15}). Il bradipo reliquia non può afferrare più di due bersagli alla volta."
 					]
 				}
 			],
@@ -3970,7 +3970,7 @@
 				{
 					"name": "Slow but Sturdy",
 					"entries": [
-						"When the relic sloth is subjected to an effect that would move it out of its current space or knock it {@condition prone}, it is neither moved nor knocked {@condition prone}."
+						"Quando il bradipo reliquia è soggetto a un effetto che lo sposterebbe fuori dal suo spazio attuale o lo farebbe cadere {@condition prone}, non viene né spostato né colpito {@condition prone}."
 					]
 				}
 			],
@@ -4044,19 +4044,19 @@
 				{
 					"name": "Fire Absorption",
 					"entries": [
-						"Whenever the ruin grinder is subjected to fire damage, it regains a number of hit points equal to half the fire damage dealt."
+						"Ogni volta che il trituratore delle rovine viene sottoposto a danni da fuoco, recupera un numero di punti ferita pari alla metà dei danni da fuoco inflitti."
 					]
 				},
 				{
 					"name": "Siege Monster",
 					"entries": [
-						"The ruin grinder deals double damage to objects and structures."
+						"Il trituratore delle rovine infligge danni doppi a oggetti e strutture."
 					]
 				},
 				{
 					"name": "Tunneler",
 					"entries": [
-						"The ruin grinder can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake."
+						"Il Tritarovine può scavare nella roccia solida a metà della sua velocità di scavo e lascia dietro di sé un tunnel del diametro di 3 metri."
 					]
 				}
 			],
@@ -4064,13 +4064,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The ruin grinder makes two Excavator attacks."
+						"Il trituratore di rovine effettua due attacchi con l'Escavatore."
 					]
 				},
 				{
 					"name": "Excavator",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) force damage. If the target is a Huge or smaller creature, it must succeed on a {@dc 17} Strength saving throw or be pushed up to 10 feet away and knocked {@condition prone}."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}13 ({@damage 2d6 + 6}) danni fisici. Se il bersaglio è una creatura Enorme o più piccola, deve riuscire un tiro salvezza sulla Forza {@dc 17} o essere spinto fino a 3 metri di distanza e sbattuto {@condition prone}."
 					]
 				}
 			],
@@ -4148,7 +4148,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d3 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d3 + 2}) danni contundenti."
 					]
 				}
 			],
@@ -4233,7 +4233,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Shadrix casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 23}):"
+						"Shadrix lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 23}):"
 					],
 					"daily": {
 						"1e": [
@@ -4252,7 +4252,7 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Shadrix fails a saving throw, he can choose to succeed instead."
+						"Se Shadrix fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -4260,25 +4260,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Shadrix makes one Bite attack and two Claw attacks."
+						"Shadrix effettua un attacco con il morso e due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 14} to hit, reach 15 ft., one target. {@h}12 ({@damage 1d10 + 7}) piercing damage plus 4 ({@damage 1d8}) radiant damage."
+						"{@atk mw} {@hit 14} per colpire, raggiungere 15 piedi, un bersaglio. {@h}12 ({@damage 1d10 + 7}) danni perforanti più 4 ({@damage 1d8}) danni radianti."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 14} to hit, reach 10 ft., one target. {@h}10 ({@damage 1d6 + 7}) slashing damage. If the target is a creature, it is wracked with despair and has disadvantage on attack rolls until the end of its next turn."
+						"{@atk mw} {@hit 14} per colpire, raggiungere 10 piedi, un bersaglio. {@h}10 ({@damage 1d6 + 7}) danni taglienti. Se il bersaglio è una creatura, è devastato dalla disperazione e ha svantaggio ai tiri per colpire fino alla fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Illuminating Shadow Breath {@recharge 5}",
 					"entries": [
-						"Shadrix exhales an entwined burst of blinding radiance and unnerving shadow in a 90-foot cone. Each creature in that area must make a {@dc 21} Constitution saving throw. On a failed save, a creature takes 31 ({@damage 7d8}) radiant damage and 31 ({@damage 7d8}) psychic damage and is {@condition blinded} until the start of Shadrix's next turn. On a successful save, a creature takes half as much damage and isn't {@condition blinded}."
+						"Shadrix esala un'esplosione intrecciata di splendore accecante e ombra inquietante in un cono di 90 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 21}. Se il tiro salvezza fallisce, una creatura subisce 31 ({@damage 7d8}) danni radiosi e 31 ({@damage 7d8}) danni psichici ed è {@condition blinded} fino all'inizio del turno successivo di Shadrix. Se il tiro salvezza riesce, una creatura subisce la metà dei danni e non lo subisce {@condition blinded}."
 					]
 				}
 			],
@@ -4286,19 +4286,19 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"Shadrix makes one Claw attack."
+						"Shadrix effettua un attacco con gli artigli."
 					]
 				},
 				{
 					"name": "Shadow Slip (Costs 2 Actions)",
 					"entries": [
-						"Shadrix becomes an inky cloud of shadow and can move up to half his flying speed without provoking opportunity attacks, then resumes his true form. During this movement, he can move through creatures and objects as if they were {@quickref difficult terrain||3}. If he moves through a creature, it must succeed on a {@dc 21} Constitution saving throw or become {@condition blinded} until the end of its next turn. If Shadrix ends this move inside an object, he takes 5 ({@damage 1d10}) force damage and is shunted to the nearest unoccupied space."
+						"Shadrix diventa una nuvola d'ombra come l'inchiostro e può muoversi fino alla metà della sua velocità di volo senza provocare attacchi di opportunità, quindi riprende la sua vera forma. Durante questo movimento, può muoversi attraverso creature e oggetti come se fossero {@quickref difficult terrain||3}. Se si muove attraverso una creatura, questa deve riuscire in un tiro salvezza su Costituzione {@dc 21} o diventare {@condition blinded} fino alla fine del suo turno successivo. Se Shadrix termina questo movimento all'interno di un oggetto, subisce 5 ({@damage 1d10}) danni da forza e viene deviato nello spazio non occupato più vicino."
 					]
 				},
 				{
 					"name": "Flash of Inspiration (Costs 3 Actions)",
 					"entries": [
-						"Shadrix magically summons {@dice 1d4} {@creature inkling mascot|SCC|inkling mascots} in unoccupied spaces he can see within 60 feet of himself. The inklings obey his commands and take their turns immediately after his. While any of these inklings live, Shadrix has advantage on attack rolls and saving throws. These inklings disappear after 10 minutes, when Shadrix dies, or when he uses this action again."
+						"Shadrix evoca magicamente {@dice 1d4} {@creature inkling mascot|SCC|inkling mascots} negli spazi non occupati che può vedere entro 60 piedi da se stesso. I sentori obbediscono ai suoi comandi e svolgono il loro turno immediatamente dopo i suoi. Finché uno qualsiasi di questi sentori è vivo, Shadrix ha vantaggio sui tiri per colpire e sui tiri salvezza. Questi sentori scompaiono dopo 10 minuti, quando Shadrix muore o quando utilizza nuovamente questa azione."
 					]
 				}
 			],
@@ -4399,7 +4399,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The apprentice casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 12}):"
+						"L'apprendista lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 12}):"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -4419,7 +4419,7 @@
 				{
 					"name": "Ink Blade",
 					"entries": [
-						"{@atk ms,rs} {@hit 4} to hit, reach 5 ft. or range 60 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage plus 9 ({@damage 2d8}) psychic damage."
+						"{@atk ms,rs} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni perforanti più 9 ({@damage 2d8}) danni psichici."
 					]
 				}
 			],
@@ -4427,7 +4427,7 @@
 				{
 					"name": "Rousing Verse",
 					"entries": [
-						"When a creature the apprentice can see within 30 feet of it fails a saving throw, the apprentice magically weaves together stirring prose, allowing the creature to reroll the saving throw and use the higher result."
+						"Quando una creatura che l'apprendista può vedere entro 9 metri da sé fallisce un tiro salvezza, l'apprendista si intreccia magicamente mescolando prosa, permettendo alla creatura di ripetere il tiro salvezza e utilizzare il risultato più alto."
 					]
 				}
 			],
@@ -4505,7 +4505,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pledgemage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Il mago giurato lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -4527,7 +4527,7 @@
 				{
 					"name": "Ink Blade",
 					"entries": [
-						"{@atk ms,rs} {@hit 5} to hit, reach 5 ft. or range 60 ft., one target. {@h}5 ({@damage 1d8 + 3}) piercing damage plus 10 ({@damage 3d6}) psychic damage."
+						"{@atk ms,rs} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 3}) danni perforanti più 10 ({@damage 3d6}) danni psichici."
 					]
 				}
 			],
@@ -4535,7 +4535,7 @@
 				{
 					"name": "Demotivate (2/Day)",
 					"entries": [
-						"The pledgemage hurls magical insults at one creature it can see within 30 feet of itself. The target must succeed on a {@dc 13} Wisdom saving throw or become {@condition frightened} of the pledgemage for 1 minute. While {@condition frightened} in this way, the target can't take reactions, its speed is halved, and any hit the pledgemage scores against the creature is a critical hit. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"Il mago giurato scaglia insulti magici contro una creatura che può vedere entro 9 metri da sé. Il bersaglio deve riuscire in un tiro salvezza di Saggezza {@dc 13} o diventare {@condition frightened} del mago giurato per 1 minuto. Mentre {@condition frightened} in questo modo, il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e qualsiasi colpo messo a segno dal mago giurato contro la creatura è un colpo critico. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -4543,7 +4543,7 @@
 				{
 					"name": "Rousing Verse",
 					"entries": [
-						"When a creature the pledgemage can see within 30 feet of it fails a saving throw, the pledgemage magically weaves together stirring prose, allowing the creature to reroll the saving throw and use the higher result."
+						"Quando una creatura che il mago consacrato può vedere entro 9 metri da lui fallisce un tiro salvezza, il mago consacrato si intreccia magicamente mescolando prosa, permettendo alla creatura di ripetere il tiro salvezza e utilizzare il risultato più alto."
 					]
 				}
 			],
@@ -4632,7 +4632,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -4659,13 +4659,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Radiant Strike attacks. The professor can replace one of the attacks with a use of Spellcasting."
+						"Il professore effettua due attacchi Radiant Strike. Il professore può sostituire uno degli attacchi con l'uso dell'incantesimo."
 					]
 				},
 				{
 					"name": "Radiant Strike",
 					"entries": [
-						"{@atk ms,rs} {@hit 7} to hit, reach 5 ft. or range 120 ft., one target. {@h}17 ({@damage 3d8 + 4}) radiant damage. If the target is a creature, it must succeed on a {@dc 15} Constitution saving throw be {@condition blinded} until the end of its next turn."
+						"{@atk ms,rs} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}17 ({@damage 3d8 + 4}) danni radianti. Se il bersaglio è una creatura, deve riuscire un tiro salvezza su Costituzione {@dc 15} essere {@condition blinded} fino alla fine del suo turno successivo."
 					]
 				}
 			],
@@ -4760,7 +4760,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell dancing lights}",
@@ -4785,7 +4785,7 @@
 				{
 					"name": "Devil's Sight",
 					"entries": [
-						"Magical darkness doesn't impede the professor's darkvision."
+						"L'oscurità magica non impedisce la scurovisione del professore."
 					]
 				}
 			],
@@ -4793,13 +4793,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Ink Lance attacks. The professor can replace one of the attacks with a use of Spellcasting."
+						"Il professore effettua due attacchi con Ink Lance. Il professore può sostituire uno degli attacchi con l'uso dell'incantesimo."
 					]
 				},
 				{
 					"name": "Ink Lance",
 					"entries": [
-						"{@atk ms,rs} {@hit 7} to hit, reach 5 ft. or range 120 ft., one target. {@h}17 ({@damage 3d8 + 4}) necrotic damage. If the target is a creature, it must succeed on a {@dc 15} Constitution saving throw be {@condition blinded} until the end of its next turn."
+						"{@atk ms,rs} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}17 ({@damage 3d8 + 4}) danno necrotico. Se il bersaglio è una creatura, deve riuscire un tiro salvezza su Costituzione {@dc 15} essere {@condition blinded} fino alla fine del suo turno successivo."
 					]
 				}
 			],
@@ -4884,7 +4884,7 @@
 				{
 					"name": "Death Burst",
 					"entries": [
-						"When the spirit statue is reduced to 0 hit points, the statue crumbles, and the spirit returns to the afterlife in a burst of ghostly white flame. Each creature within 5 feet of it must succeed on a {@dc 12} Constitution saving throw or take 3 ({@damage 1d6}) radiant damage."
+						"Quando la statua dello spirito viene ridotta a 0 punti ferita, la statua si sbriciola e lo spirito ritorna nell'aldilà in un'esplosione di fiamme bianche spettrali. Ogni creatura entro 1,5 metri da esso deve riuscire un tiro salvezza su Costituzione {@dc 12} o subire 3 ({@damage 1d6}) danni radiosi."
 					]
 				}
 			],
@@ -4892,13 +4892,13 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Counsel of the Past (2/Day)",
 					"entries": [
-						"The spirit statue touches one creature. Once within the next 10 minutes, that creature can roll a {@dice d4} and add the number rolled to one ability check of its choice, immediately after rolling the {@dice d20}."
+						"La statua dello spirito tocca una creatura. Una volta entro i successivi 10 minuti, quella creatura può lanciare un {@dice d4} e aggiungere il numero ottenuto a una prova di abilità a sua scelta, immediatamente dopo aver tirato il {@dice d20}."
 					]
 				}
 			],
@@ -4988,19 +4988,19 @@
 				{
 					"name": "Campus Knowledge",
 					"entries": [
-						"While at Strixhaven, the guide can't become lost by magical or nonmagical means. The guide also has advantage on ability checks made to locate creatures or objects at Strixhaven."
+						"Mentre si trova a Strixhaven, la guida non può perdersi con mezzi magici o non magici. La guida dispone anche di vantaggio sulle prove di caratteristica effettuate per individuare creature o oggetti a Strixhaven."
 					]
 				},
 				{
 					"name": "Univocal Speech",
 					"entries": [
-						"When the guide speaks, any creature that knows at least one language and can hear the guide understands what it says."
+						"Quando la guida parla, qualsiasi creatura che conosca almeno una lingua e possa ascoltarla capisce cosa dice."
 					]
 				},
 				{
 					"name": "Unusual Nature",
 					"entries": [
-						"The guide doesn't require air, food, drink, or sleep."
+						"La guida non necessita di aria, cibo, bevande o sonno."
 					]
 				}
 			],
@@ -5008,21 +5008,21 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The guide makes two Slam attacks."
+						"La guida effettua due attacchi Schianto."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Smile and Wave",
 					"entries": [
-						"Each creature of the guide's choice that is within 30 feet of the guide must succeed on a {@dc 11} Wisdom saving throw or be magically {@condition charmed} by the guide for 1 hour.",
-						"A {@condition charmed} target must move on its turn toward the guide, trying to get within 5 feet of the guide. The target doesn't move into obviously dangerous ground, such as a fire or a pit. Whenever the {@condition charmed} target takes damage, it can repeat the saving throw, ending the effect on itself on a success.",
-						"A target that successfully saves is immune to any guide's Smile and Wave ability for the next 24 hours."
+						"Ogni creatura a scelta della guida che si trova entro 9 metri dalla guida deve riuscire un tiro salvezza su Saggezza {@dc 11} o essere magicamente {@condition charmed} vicino alla guida per 1 ora.",
+						"Un bersaglio {@condition charmed} deve muoversi nel suo turno verso la guida, cercando di arrivare entro 5 piedi dalla guida. Il bersaglio non si muove su un terreno ovviamente pericoloso, come un fuoco o una fossa. Ogni volta che il bersaglio {@condition charmed} subisce danni, può ripetere il tiro salvezza, ponendo fine all'effetto su se stesso in caso di successo.",
+						"Un bersaglio che supera il tiro salvezza è immune all'abilità Sorridi e saluta di qualsiasi guida per le successive 24 ore."
 					]
 				}
 			],
@@ -5030,7 +5030,7 @@
 				{
 					"name": "Need Directions",
 					"entries": [
-						"The guide takes the Help action."
+						"La guida esegue l'azione Aiuto."
 					]
 				}
 			],
@@ -5138,7 +5138,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Tanazir casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save {@dc 24}):"
+						"Tanazir lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 24}):"
 					],
 					"daily": {
 						"1e": [
@@ -5158,7 +5158,7 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Tanazir fails a saving throw, she can choose to succeed instead."
+						"Se Tanazir fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -5166,31 +5166,31 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Tanazir makes one Bite attack and two Claw attacks."
+						"Tanazir effettua un attacco con il morso e due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 16} to hit, reach 15 ft., one target. {@h}14 ({@damage 1d10 + 9}) piercing damage plus 7 ({@damage 2d6}) force damage."
+						"{@atk mw} {@hit 16} per colpire, raggiungere 15 piedi, un bersaglio. {@h}14 ({@damage 1d10 + 9}) danni perforanti più 7 ({@damage 2d6}) danni fisici."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 16} to hit, reach 10 ft., one target. {@h}16 ({@damage 2d6 + 9}) slashing damage. If the target is a creature, it is addled by recursive thoughts, reducing its speed to 0 until the start of Tanazir's next turn."
+						"{@atk mw} {@hit 16} per colpire, raggiungere 10 piedi, un bersaglio. {@h}16 ({@damage 2d6 + 9}) danni taglienti. Se il bersaglio è una creatura, viene confuso da pensieri ricorsivi, riducendo la sua velocità a 0 fino all'inizio del turno successivo di Tanazir."
 					]
 				},
 				{
 					"name": "Diminution Breath {@recharge 5}",
 					"entries": [
-						"Tanazir exhales a weakening equation in a 90-foot cone. Each creature in that area must make a {@dc 23} Constitution saving throw. On a failed save, a creature takes 45 ({@damage 13d6}) force damage and 45 ({@damage 13d6}) psychic damage and is weakened until the start of Tanazir's next turn. While weakened, it has disadvantage on the following rolls that rely on Strength: attack rolls, ability checks, and saving throws. On a successful save, a creature takes half as much damage and isn't weakened."
+						"Tanazir emette un'equazione di indebolimento in un cono di 90 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 23}. Se il tiro salvezza fallisce, una creatura subisce 45 ({@damage 13d6}) danni di forza e 45 ({@damage 13d6}) danni psichici ed è indebolita fino all'inizio del turno successivo di Tanazir. Mentre è indebolito, ha svantaggio sui seguenti tiri che si basano sulla Forza: tiri per colpire, prove di caratteristica e tiri salvezza. Se il tiro salvezza riesce, la creatura subisce la metà dei danni e non viene indebolita."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"Tanazir teleports to an unoccupied space she can see within 100 feet of herself."
+						"Tanazir si teletrasporta in uno spazio non occupato e visibile entro 30 metri da sé."
 					]
 				}
 			],
@@ -5198,19 +5198,19 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"Tanazir makes one Claw attack."
+						"Tanazir effettua un attacco con gli artigli."
 					]
 				},
 				{
 					"name": "Fold Space (Costs 2 Actions)",
 					"entries": [
-						"Tanazir uses Teleport, and each other creature within 20 feet of the space she left must succeed on a {@dc 24} Strength saving throw or be pulled up to 30 feet closer to the center of that space and take 16 ({@damage 3d10}) force damage."
+						"Tanazir usa il Teletrasporto e ogni altra creatura entro 20 piedi dallo spazio da lei lasciato deve riuscire in un tiro salvezza di Forza {@dc 24} o essere trascinata fino a 9 metri più vicino al centro di quello spazio e subire 16 ({@damage 3d10}) danni di forza."
 					]
 				},
 				{
 					"name": "Fractal Refraction (Costs 3 Actions)",
 					"entries": [
-						"Tanazir magically summons {@dice 1d4} {@creature fractal mascot|SCC|fractal mascots} in unoccupied spaces she can see within 120 feet of herself. The fractals obey her commands and take their turns immediately after hers. While any of these fractals remain, attack rolls made against Tanazir have disadvantage. A summoned fractal disappears after 1 minute, when it or Tanazir dies, or when she uses this action again."
+						"Tanazir evoca magicamente {@dice 1d4} {@creature fractal mascot|SCC|fractal mascots} negli spazi non occupati che può vedere entro 120 piedi da se stessa. I frattali obbediscono ai suoi comandi e si alternano immediatamente dopo i suoi. Finché uno qualsiasi di questi frattali rimane, i tiri per colpire effettuati contro Tanazir hanno svantaggio. Un frattale evocato scompare dopo 1 minuto, quando lui o Tanazir muoiono, o quando utilizza nuovamente questa azione."
 					]
 				}
 			],
@@ -5326,7 +5326,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Velomachus casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability:"
+						"Velomachus lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi:"
 					],
 					"daily": {
 						"1e": [
@@ -5344,7 +5344,7 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Velomachus fails a saving throw, she can choose to succeed instead."
+						"Se Velomachus fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -5352,25 +5352,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Velomachus makes one Bite attack and two Claw attacks."
+						"Velomachus effettua un attacco con il morso e due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 18} to hit, reach 15 ft., one target. {@h}15 ({@damage 1d10 + 10}) piercing damage plus 6 ({@damage 1d12}) thunder damage."
+						"{@atk mw} {@hit 18} per colpire, raggiungere 15 piedi, un bersaglio. {@h}15 ({@damage 1d10 + 10}) danni perforanti più 6 ({@damage 1d12}) danni da tuono."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 18} to hit, reach 10 ft., one target. {@h}13 ({@damage 1d6 + 10}) slashing damage. If the target is a Huge or smaller creature, it is knocked {@condition prone}."
+						"{@atk mw} {@hit 18} per colpire, raggiungere 10 piedi, un bersaglio. {@h}13 ({@damage 1d6 + 10}) danni taglienti. Se il bersaglio è una creatura Enorme o più piccola, viene atterrato {@condition prone}."
 					]
 				},
 				{
 					"name": "Battle Tide Breath {@recharge 5}",
 					"entries": [
-						"Velomachus exhales thunderous sound in a 90-foot cone. Each creature in that area must make a {@dc 25} Constitution saving throw. On a failure, a creature takes 45 ({@damage 7d12}) force damage and 45 ({@damage 7d12}) thunder damage and is pushed up to 20 feet in a horizontal direction of Velomachus' choice. On a success, the creature takes half as much damage and isn't pushed. Objects that aren't being worn or carried take the damage and are pushed as if they were creatures that failed the saving throw."
+						"Velomaco emette un suono tonante in un cono di 90 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 25}. In caso di fallimento, una creatura subisce 45 ({@damage 7d12}) danni da forza e 45 ({@damage 7d12}) danni da tuono e viene spinta fino a 20 piedi in una direzione orizzontale a scelta di Velomaco. In caso di successo, la creatura subisce la metà dei danni e non viene spinta. Gli oggetti che non vengono indossati o trasportati subiscono i danni e vengono spinti come se fossero creature che hanno fallito il tiro salvezza."
 					]
 				}
 			],
@@ -5378,19 +5378,19 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"Velomachus makes one Claw attack."
+						"Velomachus effettua un attacco con gli artigli."
 					]
 				},
 				{
 					"name": "Chaotic Flow (Costs 2 Actions)",
 					"entries": [
-						"Velomachus moves up to half her flying speed. If a creature hits or misses her with an opportunity attack during this move, the attacker takes 19 ({@damage 3d12}) thunder damage."
+						"Velomaco si muove fino alla metà della sua velocità di volo. Se una creatura la colpisce o la manca con un attacco di opportunità durante questo movimento, l'attaccante subisce 19 ({@damage 3d12}) danni da tuono."
 					]
 				},
 				{
 					"name": "Repeating History (Costs 3 Actions)",
 					"entries": [
-						"Velomachus magically summons {@dice 1d4} {@creature spirit statue mascot|SCC|statue mascots} in unoccupied spaces she can see within 60 feet of herself. The spirit statues obey her commands and take their turns immediately after hers. Any creature, other than a spirit statue or Velomachus, is {@condition restrained} if it starts its turn within 5 feet of one or more of these spirit statues. This {@condition restrained} condition lasts until the end of the creature's turn. These spirit statues disappear after 10 minutes, when Velomachus dies, or when she uses this action again."
+						"Velomachus evoca magicamente {@dice 1d4} {@creature spirit statue mascot|SCC|statue mascots} negli spazi non occupati che può vedere entro 60 piedi da se stesso. Le statue degli spiriti obbediscono ai suoi comandi e svolgono il loro turno immediatamente dopo i suoi. Qualsiasi creatura, diversa da una statua spirituale o Velomaco, è {@condition restrained} se inizia il suo turno entro 5 piedi da una o più di queste statue spirituali. Questa condizione {@condition restrained} dura fino alla fine del turno della creatura. Queste statue spirituali scompaiono dopo 10 minuti, quando Velomaco muore o quando usa nuovamente questa azione."
 					]
 				}
 			],
@@ -5494,7 +5494,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:"
+						"L'apprendista lancia uno dei seguenti incantesimi, che non richiedono componenti materiali e utilizzano Saggezza come capacità da incantatore:"
 					],
 					"will": [
 						"{@spell druidcraft}",
@@ -5513,13 +5513,13 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The apprentice regains 5 hit points at the start of its turn if it has at least 1 hit point."
+						"L'apprendista recupera 5 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita."
 					]
 				},
 				{
 					"name": "Verdant Talisman",
 					"entries": [
-						"At the end of a 10-minute ritual, the apprentice can touch one willing creature (including itself) and bestow upon it a small talisman imbued with magic. Upon receiving the talisman, the creature gains 10 temporary hit points, and it can add {@dice 1d6} to its initiative rolls while it wears the talisman. These benefits last for 1 hour or until the apprentice conducts another ritual to bestow another talisman. When the benefits expire, the talisman crumbles to dust."
+						"Al termine di un rituale di 10 minuti, l'apprendista può toccare una creatura consenziente (compreso se stesso) e conferirle un piccolo talismano intriso di magia. Dopo aver ricevuto il talismano, la creatura guadagna 10 punti ferita temporanei e può aggiungere {@dice 1d6} ai suoi tiri di iniziativa mentre indossa il talismano. Questi benefici durano 1 ora o finché l'apprendista non conduce un altro rituale per conferire un altro talismano. Quando i benefici scadono, il talismano si sbriciola in polvere."
 					]
 				}
 			],
@@ -5527,7 +5527,7 @@
 				{
 					"name": "Briar Vine",
 					"entries": [
-						"{@atk ms} {@hit 4} to hit, reach 15 ft., one target. {@h}7 ({@damage 1d10 + 2}) piercing damage plus 9 ({@damage 2d8}) poison damage. If the target is a Large or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+						"{@atk ms} {@hit 4} per colpire, raggiungere 15 piedi, un bersaglio. {@h}7 ({@damage 1d10 + 2}) danni perforanti più 9 ({@damage 2d8}) danni da veleno. Se il bersaglio è una creatura di taglia Grande o inferiore, l'apprendista può trascinarla fino a 3 metri più vicino a sé."
 					]
 				}
 			],
@@ -5535,7 +5535,7 @@
 				{
 					"name": "Wither Burst",
 					"entries": [
-						"When the apprentice sees a creature within 30 feet of itself drop to 0 hit points, the apprentice channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a {@dc 12} Constitution saving throw or become {@condition poisoned} for 1 minute. While {@condition poisoned} in this way, the target takes 3 ({@damage 1d6}) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+						"Quando l'apprendista vede una creatura entro 9 metri da sé scendere a 0 punti ferita, incanala l'essenza vitale spesa e prende di mira un'altra creatura che può vedere entro 9 metri da sé. Il bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 12} o diventare {@condition poisoned} per 1 minuto. Mentre {@condition poisoned} è in questo modo, il bersaglio subisce 3 ({@damage 1d6}) danni da veleno all'inizio di ciascuno dei suoi turni. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -5629,7 +5629,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:"
+						"L'apprendista lancia uno dei seguenti incantesimi, che non richiedono componenti materiali e utilizzano Saggezza come capacità da incantatore:"
 					],
 					"will": [
 						"{@spell druidcraft}",
@@ -5650,13 +5650,13 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"As long as the pledgemage has at least 1 hit point remaining, the pledgemage regains 5 hit points at the start of its turn."
+						"Finché il mago consacrato ha almeno 1 punto ferita rimanente, recupera 5 punti ferita all'inizio del suo turno."
 					]
 				},
 				{
 					"name": "Verdant Talisman",
 					"entries": [
-						"At the end of a 10-minute ritual, the pledgemage can touch one willing creature (including itself) and bestow upon it a small talisman imbued with magic. Upon receiving the talisman, the creature gains 10 temporary hit points, and it can add {@dice 1d6} to its initiative rolls while it wears the talisman. These benefits last for 1 hour or until the pledgemage conducts another ritual to bestow another talisman. When the benefits expire, the talisman crumbles to dust."
+						"Alla fine di un rituale di 10 minuti, il mago giurato può toccare una creatura consenziente (compreso se stesso) e conferirle un piccolo talismano intriso di magia. Dopo aver ricevuto il talismano, la creatura guadagna 10 punti ferita temporanei e può aggiungere {@dice 1d6} ai suoi tiri di iniziativa mentre indossa il talismano. Questi benefici durano 1 ora o finché il mago giurato non conduce un altro rituale per conferire un altro talismano. Quando i benefici scadono, il talismano si sbriciola in polvere."
 					]
 				}
 			],
@@ -5664,7 +5664,7 @@
 				{
 					"name": "Briar Vine",
 					"entries": [
-						"{@atk ms} {@hit 5} to hit, reach 15 ft., one target. {@h}8 ({@damage 1d10 + 3}) piercing damage plus 18 ({@damage 4d8}) poison damage. If the target is a Large or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+						"{@atk ms} {@hit 5} per colpire, raggiungere 15 piedi, un bersaglio. {@h}8 ({@damage 1d10 + 3}) danni perforanti più 18 ({@damage 4d8}) danni da veleno. Se il bersaglio è una creatura di taglia Grande o inferiore, l'apprendista può trascinarla fino a 3 metri più vicino a sé."
 					]
 				}
 			],
@@ -5672,7 +5672,7 @@
 				{
 					"name": "Vociferous Form (1/Day)",
 					"entries": [
-						"The pledgemage transforms into an avatar of plants and shadow. While in this form, the pledgemage adds its Wisdom modifier to its AC if it isn't wearing armor or wielding a shield, and it has advantage on attack rolls against any creature missing hit points. This form lasts for 1 minute or until the pledgemage is reduced to 0 hit points."
+						"Il mago giurato si trasforma in un avatar di piante e ombre. Mentre è in questa forma, il mago consacrato aggiunge il suo modificatore di Saggezza alla sua CA se non indossa un'armatura o non brandisce uno scudo, e ha vantaggio ai tiri per colpire contro qualsiasi creatura a cui mancano punti ferita. Questa forma dura 1 minuto o finché il mago consacrato non viene ridotto a 0 punti ferita."
 					]
 				}
 			],
@@ -5680,7 +5680,7 @@
 				{
 					"name": "Wither Burst",
 					"entries": [
-						"When the pledgemage sees a creature within 30 feet of itself drop to 0 hit points, the pledgemage channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a {@dc 13} Constitution saving throw or become {@condition poisoned} for 1 minute. While {@condition poisoned} in this way, the target takes 3 ({@damage 1d6}) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+						"Quando il mago consacrato vede una creatura entro 9 metri da sé scendere a 0 punti ferita, incanala l'essenza vitale spesa e prende di mira un'altra creatura che può vedere entro 9 metri da sé. Il bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 13} o diventare {@condition poisoned} per 1 minuto. Mentre {@condition poisoned} è in questo modo, il bersaglio subisce 3 ({@damage 1d6}) danni da veleno all'inizio di ciascuno dei suoi turni. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],
@@ -5774,7 +5774,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Saggezza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell druidcraft}",
@@ -5796,7 +5796,7 @@
 				{
 					"name": "Essence Transfer (1/Day)",
 					"entries": [
-						"The professor can cast the {@spell animate dead} spell, using Wisdom as the spellcasting ability."
+						"Il professore può lanciare l'incantesimo {@spell animate dead}, utilizzando Saggezza come abilità di lancio degli incantesimi."
 					]
 				}
 			],
@@ -5804,19 +5804,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Mortality Spear attacks. It can replace one of the attacks with a use of Spellcasting."
+						"Il professore effettua due attacchi con la Lancia della Mortalità. Può sostituire uno degli attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Mortality Spear",
 					"entries": [
-						"{@atk ms,rs} {@hit 7} to hit, reach 5 ft. or range 120 ft., one target. {@h}17 ({@damage 3d8 + 4}) necrotic damage, and the target can't regain hit points until the start of the professor's next turn."
+						"{@atk ms,rs} {@hit 7} per colpire, raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}17 ({@damage 3d8 + 4}) danni necrotici e il bersaglio non può recuperare punti ferita fino all'inizio del turno successivo del professore."
 					]
 				},
 				{
 					"name": "Essence Pulse {@recharge 5}",
 					"entries": [
-						"The professor creates a life-draining vortex in a 30-foot-radius sphere centered on itself. Each creature of the professor's choice that it can see within that area must make a {@dc 15} Constitution saving throw, taking 23 ({@damage 5d8}) necrotic damage on a failed save, or half as much damage on a successful one. The professor then regains 10 hit points. An affected creature's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creature finishes a long rest. The creature dies if its hit point maximum is reduced to 0."
+						"Il professore crea un vortice risucchia-vita in una sfera del raggio di 9 metri centrata su se stessa. Ogni creatura a scelta del professore che può vedere all'interno di quell'area deve effettuare un tiro salvezza su Costituzione {@dc 15} e subisce 23 ({@damage 5d8}) danni necrotici se fallisce il tiro salvezza, o la metà di quel danno se lo riesce. Il professore poi riacquista 10 punti ferita. Il massimo dei punti ferita di una creatura influenzata viene ridotto di un ammontare pari al danno necrotico subito. Questa riduzione dura finché la creatura non termina un riposo lungo. La creatura muore se i suoi punti ferita massimi vengono ridotti a 0."
 					]
 				}
 			],
@@ -5916,7 +5916,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The professor casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability:"
+						"Il professore lancia uno dei seguenti incantesimi, che non richiedono componenti materiali e utilizzano Saggezza come capacità di lancio degli incantesimi:"
 					],
 					"will": [
 						"{@spell druidcraft}",
@@ -5940,19 +5940,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The professor makes two Verdant Lash attacks."
+						"Il professore effettua due attacchi con Verdant Lash."
 					]
 				},
 				{
 					"name": "Verdant Lash",
 					"entries": [
-						"{@atk ms} {@hit 7} to hit, reach 30 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage plus 7 ({@damage 2d6}) poison damage, and the target must succeed on a {@dc 15} Strength saving throw or be pulled up to 10 feet closer to the professor."
+						"{@atk ms} {@hit 7} per colpire, raggiungere 9 metri, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni perforanti più 7 ({@damage 2d6}) danni da veleno e il bersaglio deve riuscire un tiro salvezza sulla Forza {@dc 15} o essere trascinato fino a 3 metri più vicino al professore."
 					]
 				},
 				{
 					"name": "Summon Nature's Avatar (Recharges after a Short or Long Rest)",
 					"entries": [
-						"The professor magically summons a Groff. The groff appears in an unoccupied space within 60 feet of the professor, acts as the professor's ally, and takes its turns immediately after the professor's. The professor can communicate telepathically with this groff while it remains. The groff remains for 10 minutes, until it or the professor dies, or until the professor dismisses it as an action."
+						"Il professore evoca magicamente un Groff. Il groff appare in uno spazio non occupato entro 18 metri dal professore, agisce come alleato del professore e svolge il suo turno immediatamente dopo quello del professore. Il professore può comunicare telepaticamente con questo groff finché rimane. Il groff rimane per 10 minuti, finché lui o il professore non muoiono, o finché il professore non lo congeda con un'azione."
 					]
 				}
 			],
@@ -6045,19 +6045,19 @@
 				{
 					"name": "Blood Aegis",
 					"entries": [
-						"The AC of Y'demi includes her Constitution modifier while she isn't wearing armor or wielding a shield."
+						"La CA di Y'demi include il suo modificatore di Costituzione mentre non indossa un'armatura o non brandisce uno scudo."
 					]
 				},
 				{
 					"name": "Oriq Mask",
 					"entries": [
-						"Y'demi wears an Oriq mask. While wearing the mask, Y'demi can't be targeted by any divination magic or perceived through magical scrying sensors, and she adds double her proficiency bonus to Charisma ({@skill Deception}) checks (included above)."
+						"Y'demi indossa una maschera Oriq. Mentre indossa la maschera, Y'demi non può essere presa di mira da alcuna magia di divinazione o percepita attraverso sensori di scrutamento magico, e aggiunge il doppio del suo bonus di competenza alle prove di Carisma ({@skill Deception}) (incluse sopra)."
 					]
 				},
 				{
 					"name": "Sanguine Sense",
 					"entries": [
-						"While Y'demi isn't {@condition blinded}, she can see any creature that isn't an Undead or a Construct within 60 feet of itself, even through {@quickref Cover||3||total cover}, heavily obscured areas, invisibility, or any other phenomena that would prevent sight."
+						"Anche se Y'demi non lo è {@condition blinded}, può vedere qualsiasi creatura che non sia un Non Morto o un Costrutto entro 60 piedi da sé, anche attraverso {@quickref Cover||3||total cover}, aree fortemente oscurate, invisibilità o qualsiasi altro fenomeno che impedisca la vista."
 					]
 				}
 			],
@@ -6065,19 +6065,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Y'demi makes two Blood Lash attacks."
+						"Y'demi effettua due attacchi con Sferzata di Sangue."
 					]
 				},
 				{
 					"name": "Blood Lash",
 					"entries": [
-						"{@atk ms} {@hit 9} to hit, reach 10 ft., one target. {@h}21 ({@damage 3d10 + 5}) necrotic damage. If the target is a creature, it can't regain hit points until the start of the Y'demi's next turn."
+						"{@atk ms} {@hit 9} per colpire, raggiungere 10 piedi, un bersaglio. {@h}21 ({@damage 3d10 + 5}) danno necrotico. Se il bersaglio è una creatura, non può recuperare punti ferita fino all'inizio del turno successivo dello Y'demi."
 					]
 				},
 				{
 					"name": "Blood Boil {@recharge 4}",
 					"entries": [
-						"Y'demi chooses a point within 150 feet of itself, and a 20-foot radius sphere centered on that point fills with a burst of searing, blood-red mist. Each creature of Y'demi's choice that she can see in that area must make a {@dc 17} Constitution saving throw. On a failed save, a creature takes 38 ({@damage 7d10}) necrotic damage and is {@condition incapacitated} until the end of its next turn. On a success, a creature takes half as much damage and isn't {@condition incapacitated}. A creature dies if reduced to 0 hit points by this necrotic damage."
+						"Y'demi sceglie un punto entro 45 metri da sé e una sfera del raggio di 6 metri centrata su quel punto si riempie di un'esplosione di nebbia bruciante rosso sangue. Ogni creatura a scelta di Y'demi che può vedere in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 17}. Se il tiro salvezza fallisce, una creatura subisce 38 ({@damage 7d10}) danni necrotici e rimane {@condition incapacitated} fino alla fine del suo turno successivo. In caso di successo, una creatura subisce la metà del danno e non lo è {@condition incapacitated}. Una creatura muore se ridotta a 0 punti ferita da questo danno necrotico."
 					]
 				}
 			],
@@ -6085,7 +6085,7 @@
 				{
 					"name": "Sanguine Tentacles (1/Day)",
 					"entries": [
-						"The blood in the copper basin disappears as tentacles of congealed blood fill a 10-foot cube centered at a point on the ground that Y'demi can see within 15 feet of her. The effect lasts for 1 minute, during which time that area is {@quickref difficult terrain||3}. Any creature entering that area for the first time on a turn or starting its turn there must succeed on a {@dc 13} Dexterity saving throw or be {@condition restrained} by the tentacles. A creature that starts its turn {@condition restrained} by the tentacles takes 10 ({@damage 3d6}) bludgeoning damage. A creature {@condition restrained} by the tentacles can use its action to make either a {@dc 13} Strength ({@skill Athletics}) check or a {@dc 13} Dexterity ({@skill Acrobatics}) check, ending the {@condition restrained} condition on itself on a success."
+						"Il sangue nella bacinella di rame scompare mentre tentacoli di sangue rappreso riempiono un cubo di 3 metri centrato in un punto del terreno che Y'demi può vedere entro 4,5 piedi da lei. L'effetto dura 1 minuto, durante il quale l'area è {@quickref difficult terrain||3}. Qualsiasi creatura che entri in quell'area per la prima volta in un turno o inizi il suo turno lì deve riuscire un tiro salvezza su Destrezza {@dc 13} o trovarsi {@condition restrained} vicino ai tentacoli. Una creatura che inizia il suo turno {@condition restrained} dai tentacoli subisce 10 ({@damage 3d6}) danni contundenti. Una creatura {@condition restrained} vicino ai tentacoli può usare la sua azione per effettuare una prova di {@dc 13} Forza ({@skill Athletics}) o una prova di {@dc 13} Destrezza ({@skill Acrobatics}), ponendo fine alla condizione {@condition restrained} su se stessa in caso di successo."
 					]
 				}
 			],

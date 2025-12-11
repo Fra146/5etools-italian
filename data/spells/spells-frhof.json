@@ -38,8 +38,8 @@
 				}
 			],
 			"entries": [
-				"For the duration, moonlight fills a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you with {@variantrule Dim Light|XPHB}. While in that area, you and your allies have {@variantrule Cover|XPHB|Half Cover} and {@variantrule Resistance|XPHB} to Cold, Lightning, and Radiant damage.",
-				"While the spell lasts, you can use one of the following options, ending the spell immediately:",
+				"Per tutta la durata, la luce della luna riempie un'area di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente da te con {@variantrule Dim Light|XPHB}. Mentre ti trovi in ​​quell'area, tu e i tuoi alleati subite {@variantrule Cover|XPHB|Half Cover} e {@variantrule Resistance|XPHB} danni da freddo, fulmine e radioso.",
+				"Finché l'incantesimo dura, puoi utilizzare una delle seguenti opzioni, terminando immediatamente l'incantesimo:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -48,14 +48,14 @@
 							"type": "item",
 							"name": "Liberation",
 							"entries": [
-								"When you fail a saving throw to avoid or end the {@condition Frightened|XPHB}, {@condition Grappled|XPHB}, or {@condition Restrained|XPHB} condition, you can take a {@variantrule Reaction|XPHB} to succeed on the save instead."
+								"Quando fallisci un tiro salvezza per evitare o terminare la condizione {@condition Frightened|XPHB}, {@condition Grappled|XPHB} o {@condition Restrained|XPHB}, puoi invece effettuare un {@variantrule Reaction|XPHB} per riuscire nel tiro salvezza."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Respite",
 							"entries": [
-								"As a {@action Magic|XPHB} action, you or an ally within the area regains {@variantrule Hit Points|XPHB} equal to {@dice 4d10} plus your spellcasting ability modifier."
+								"Come azione {@action Magic|XPHB}, tu o un alleato all'interno dell'area recuperate {@variantrule Hit Points|XPHB} pari a {@dice 4d10} più il modificatore della vostra abilità di incantatore."
 							]
 						}
 					]
@@ -104,15 +104,15 @@
 				}
 			],
 			"entries": [
-				"You ward yourself against destructive energy, reducing the damage taken by {@dice 4d6} plus your spellcasting ability modifier.",
-				"If the triggering damage was from a creature within range, you can force the creature to make a Constitution saving throw. The creature takes {@damage 4d6} Force damage on a failed save or half as much damage on a successful one."
+				"Ti proteggi dall'energia distruttiva, riducendo i danni subiti del {@dice 4d6} più il tuo modificatore di abilità da incantatore.",
+				"Se il danno innescante proviene da una creatura entro la gittata, puoi costringere la creatura a effettuare un tiro salvezza su Costituzione. La creatura subisce {@damage 4d6} danni di Forza se fallisce il tiro salvezza o la metà dei danni se lo supera."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"The damage reduction and Force damage from this spell both increase by {@scaledamage 4d6|4-9|1d6} for every spell slot level above 4."
+						"La riduzione del danno e il danno della Forza derivanti da questo incantesimo aumentano entrambi del {@scaledamage 4d6|4-9|1d6} per ogni livello di slot incantesimo superiore a 4."
 					]
 				}
 			],
@@ -160,9 +160,9 @@
 				}
 			],
 			"entries": [
-				"You create a 3-foot-long blade-shaped planar rift that lasts for the duration. The rift appears within range in a space of your choice, and you can immediately make up to two melee spell attacks, each one against a creature or object within 5 feet of the rift. On a hit, the target takes {@damage 10d6} Force damage. This attack scores a {@variantrule Critical Hit|XPHB} if the number on the {@dice d20} is 18 or higher.",
-				"As a {@variantrule Bonus Action|XPHB} on your later turns, you can move the rift up to 60 feet and repeat the two attacks against a creature or an object within 5 feet of it. You can direct the attacks at the same target or at different ones.",
-				"The blade can harmlessly pass through any barrier, including ones created by spells like {@spell Wall of Force|XPHB}."
+				"Crei una spaccatura planare a forma di lama lunga 90 cm che dura per la durata. La spaccatura appare entro la gittata di uno spazio a tua scelta, e puoi immediatamente effettuare fino a due attacchi con incantesimi in mischia, ciascuno contro una creatura o un oggetto entro 1,5 metri dalla spaccatura. In caso di colpo, il bersaglio subisce {@damage 10d6} danni di Forza. Questo attacco ottiene un {@variantrule Critical Hit|XPHB} se il numero su {@dice d20} è 18 o superiore.",
+				"Come {@variantrule Bonus Action|XPHB} nei tuoi turni successivi, puoi spostare la spaccatura fino a 60 piedi e ripetere i due attacchi contro una creatura o un oggetto entro 5 piedi da essa. Puoi dirigere gli attacchi sullo stesso bersaglio o su obiettivi diversi.",
+				"La lama può attraversare senza danni qualsiasi barriera, comprese quelle create da incantesimi come {@spell Wall of Force|XPHB}."
 			],
 			"damageInflict": [
 				"force"
@@ -213,15 +213,15 @@
 				}
 			],
 			"entries": [
-				"Thunderous reverberations fill a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you for the duration. Whenever the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} enters a creature's space and whenever a creature enters the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} or ends its turn there, the creature makes a Constitution saving throw. On a failed save, the creature takes {@damage 3d6} Thunder damage and has the {@condition Deafened|XPHB} condition until the start of your next turn. On a successful save, the creature takes half as much damage only. A creature makes this save only once per turn. When you cast this spell, you can designate creatures to be unaffected by it.",
-				"In addition, you have {@variantrule Resistance|XPHB} to Thunder damage, and ranged attack rolls against you are made with {@variantrule Disadvantage|XPHB}."
+				"Riverberi fragorosi riempiono un'area di 3 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente da te per la durata. Ogni volta che {@variantrule Emanation [Area of Effect]|XPHB|Emanation} entra nello spazio di una creatura e ogni volta che una creatura entra in {@variantrule Emanation [Area of Effect]|XPHB|Emanation} o termina lì il suo turno, la creatura effettua un tiro salvezza su Costituzione. Se il tiro salvezza fallisce, la creatura subisce {@damage 3d6} danni da tuono e ha la condizione {@condition Deafened|XPHB} fino all'inizio del tuo turno successivo. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni. Una creatura effettua questo tiro salvezza solo una volta per turno. Quando lanci questo incantesimo, puoi designare le creature affinché non ne siano influenzate.",
+				"Inoltre, hai {@variantrule Resistance|XPHB} danni da tuono e i tiri per colpire a distanza contro di te vengono effettuati con {@variantrule Disadvantage|XPHB}."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"The damage increases by {@scaledamage 3d6|3-9|1d6} for each spell slot level above 3."
+						"Il danno aumenta del {@scaledamage 3d6|3-9|1d6} per ogni livello di slot incantesimo superiore a 3."
 					]
 				}
 			],
@@ -276,7 +276,7 @@
 				}
 			],
 			"entries": [
-				"You conjure a group of intangible, orderly spirits that appear as a Medium group of modrons or other Constructs in an unoccupied space you can see within range. The spirits last for the duration. When you cast this spell and as a {@action Magic|XPHB} action on subsequent turns, you can command the spirits to target one creature or object you can see within 5 feet of the spirits and create one of the following effects:",
+				"Evochi un gruppo di spiriti immateriali e ordinati che appaiono come un gruppo Medio di modroni o altri Costrutti in uno spazio non occupato e visibile entro la gittata. Gli spiriti durano per tutta la durata. Quando lanci questo incantesimo e come azione {@action Magic|XPHB} nei turni successivi, puoi comandare agli spiriti di prendere di mira una creatura o un oggetto che puoi vedere entro 1,5 piedi dagli spiriti e creare uno dei seguenti effetti:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -285,26 +285,26 @@
 							"type": "item",
 							"name": "Clockwork Force",
 							"entries": [
-								"The target makes a Dexterity saving throw, taking {@damage 3d6} Force damage on a failed save or half as much damage on a successful one."
+								"Il bersaglio effettua un tiro salvezza su Destrezza, subendo {@damage 3d6} danni di Forza se fallisce il tiro salvezza o la metà di questi danni se lo supera."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Orderly Ward",
 							"entries": [
-								"The target gains {@variantrule Temporary Hit Points|XPHB} equal to {@dice 1d6} plus your spellcasting ability modifier."
+								"Il bersaglio guadagna {@variantrule Temporary Hit Points|XPHB} pari a {@dice 1d6} più il tuo modificatore di abilità da incantatore."
 							]
 						}
 					]
 				},
-				"When you move on your turn, you can also move the spirits up to 30 feet to an unoccupied space you can see."
+				"Quando ti muovi nel tuo turno, puoi anche spostare gli spiriti fino a 9 metri in uno spazio non occupato che puoi vedere."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"The damage and {@variantrule Temporary Hit Points|XPHB} both increase by {@scaledamage 3d6|3-9|1d6} for each spell slot level above 3."
+						"Il danno e {@variantrule Temporary Hit Points|XPHB} aumentano entrambi del {@scaledamage 3d6|3-9|1d6} per ogni livello di slot incantesimo superiore a 3."
 					]
 				}
 			],
@@ -360,7 +360,7 @@
 				}
 			],
 			"entries": [
-				"For the duration, an inky aura surrounds one creature you touch. The target has {@variantrule Advantage|XPHB} on {@variantrule Death Saving Throw|XPHB|Death Saving Throws}, and once per turn, when a creature within 5 feet of the target hits it with a melee attack roll, the attacker takes {@damage 2d4} Necrotic damage."
+				"Per tutta la durata, un'aura d'inchiostro circonda una creatura toccata. Il bersaglio ha {@variantrule Advantage|XPHB} su {@variantrule Death Saving Throw|XPHB|Death Saving Throws} e una volta per turno, quando una creatura entro 5 piedi dal bersaglio lo colpisce con un tiro per colpire in mischia, l'attaccante subisce {@damage 2d4} danni necrotici."
 			],
 			"damageInflict": [
 				"necrotic"
@@ -413,8 +413,8 @@
 				"ritual": true
 			},
 			"entries": [
-				"You summon a group of helpful spirits, which lasts for the duration. The spirits appear as homunculi or as another Construct of your choice but are intangible and invulnerable, and they are considered to have proficiency in the {@skill Arcana|XPHB} skill and with the set or {@item Artisan's Tools|XPHB} used in the spell's casting.",
-				"If you are crafting an item, the spirits function as a single assistant for your crafting, halving the crafting time."
+				"Evochi un gruppo di spiriti utili, che dura per la durata. Gli spiriti appaiono come omuncoli o come un altro Costrutto a tua scelta, ma sono intangibili e invulnerabili e sono considerati competenti nell'abilità {@skill Arcana|XPHB} e nel set o {@item Artisan's Tools|XPHB} utilizzato nel lancio dell'incantesimo.",
+				"Se stai creando un oggetto, gli spiriti funzionano come un unico assistente per la tua creazione, dimezzando il tempo di creazione."
 			],
 			"miscTags": [
 				"SMN"
@@ -453,15 +453,15 @@
 				}
 			],
 			"entries": [
-				"Deathly power fills a 60-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from you for the duration.",
-				"When you cast this spell, you can designate creatures to be unaffected by it. Any other creature can't regain {@variantrule Hit Points|XPHB} while in the {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. Whenever the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} enters a creature's space and whenever a creature enters the {@variantrule Emanation [Area of Effect]|XPHB|Emanation} or ends its turn there, the creature makes a Constitution saving throw. On a failed save, the creature takes {@damage 3d10} Necrotic damage and has the {@condition Prone|XPHB} condition. On a successful save, the creature takes half as much damage and its {@variantrule Speed|XPHB} is halved. A creature makes this save only once per turn.",
+				"Il potere mortale riempie un'area di 60 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente da te per la durata.",
+				"Quando lanci questo incantesimo, puoi designare le creature affinché non ne siano influenzate. Qualsiasi altra creatura non può riconquistare {@variantrule Hit Points|XPHB} mentre si trova nel {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. Ogni volta che {@variantrule Emanation [Area of Effect]|XPHB|Emanation} entra nello spazio di una creatura e ogni volta che una creatura entra in {@variantrule Emanation [Area of Effect]|XPHB|Emanation} o termina lì il suo turno, la creatura effettua un tiro salvezza su Costituzione. Se il tiro salvezza fallisce, la creatura subisce {@damage 3d10} danni necrotici e ha la condizione {@condition Prone|XPHB}. Se il tiro salvezza riesce, la creatura subisce la metà del danno e il suo {@variantrule Speed|XPHB} viene dimezzato. Una creatura effettua questo tiro salvezza solo una volta per turno.",
 				{
 					"type": "entries",
 					"name": "Casting as a Circle Spell",
 					"entries": [
-						"Casting this as a Circle spell requires a minimum of two secondary casters. If the spell is cast as a Circle spell, its duration becomes {@status Concentration|XPHB}, up to 10 minutes.",
-						"A creature that fails its save against the spell's effect also gains 1 {@condition Exhaustion|XPHB} level. While the creature has {@condition Exhaustion|XPHB} levels, finishing a {@variantrule Long Rest|XPHB} neither restores lost {@variantrule Hit Points|XPHB} nor reduces the creature's {@condition Exhaustion|XPHB} level.",
-						"When the spell is cast, each secondary caster must expend a level 4+ spell slot; otherwise, the spell fails."
+						"Lanciarlo come incantesimo Circolo richiede un minimo di due lanciatori secondari. Se l'incantesimo viene lanciato come incantesimo Cerchio, la sua durata diventa {@status Concentration|XPHB}, fino a 10 minuti.",
+						"Anche una creatura che fallisce il tiro salvezza contro l'effetto dell'incantesimo guadagna 1 {@condition Exhaustion|XPHB} livello. Mentre la creatura ha {@condition Exhaustion|XPHB} livelli, terminare un {@variantrule Long Rest|XPHB} non ripristina il livello perso {@variantrule Hit Points|XPHB} né riduce il livello della creatura {@condition Exhaustion|XPHB}.",
+						"Quando l'incantesimo viene lanciato, ogni incantatore secondario deve spendere uno slot incantesimo di livello 4+; altrimenti l'incantesimo fallisce."
 					]
 				}
 			],
@@ -516,15 +516,15 @@
 				}
 			],
 			"entries": [
-				"You create a 20-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} of inky fog within range. The fog is magical {@variantrule Darkness|XPHB} and lasts for the duration or until a strong wind (such as the one created by the {@spell Gust of Wind|XPHB} spell) disperses it, ending the spell.",
-				"Each creature in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} when it appears makes a Wisdom saving throw. On a failed save, a creature takes {@damage 5d6} Psychic damage and subtracts {@dice 1d6} from its saving throws until the end of its next turn. On a successful save, a creature takes half as much damage only. A creature also makes this save when the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} moves into its space, when it enters the {@variantrule Sphere [Area of Effect]|XPHB|Sphere}, or when it ends its turn inside the {@variantrule Sphere [Area of Effect]|XPHB|Sphere}. A creature makes this save only once per turn.",
-				"The {@variantrule Sphere [Area of Effect]|XPHB|Sphere} moves 10 feet away from you at the start of each of your turns.",
+				"Crei un raggio di 20 piedi {@variantrule Sphere [Area of Effect]|XPHB|Sphere} di nebbia color inchiostro entro il raggio d'azione. La nebbia è magica {@variantrule Darkness|XPHB} e dura per tutta la durata o finché un forte vento (come quello creato dall'incantesimo {@spell Gust of Wind|XPHB}) la disperde, ponendo fine all'incantesimo.",
+				"Ogni creatura nel {@variantrule Sphere [Area of Effect]|XPHB|Sphere} quando appare effettua un tiro salvezza su Saggezza. Se il tiro salvezza fallisce, una creatura subisce {@damage 5d6} danni psichici e sottrae {@dice 1d6} dai suoi tiri salvezza fino alla fine del suo turno successivo. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni. Una creatura effettua questo salvataggio anche quando {@variantrule Sphere [Area of Effect]|XPHB|Sphere} si muove nel suo spazio, quando entra in {@variantrule Sphere [Area of Effect]|XPHB|Sphere} o quando termina il suo turno all'interno di {@variantrule Sphere [Area of Effect]|XPHB|Sphere}. Una creatura effettua questo tiro salvezza solo una volta per turno.",
+				"Il {@variantrule Sphere [Area of Effect]|XPHB|Sphere} si sposta di 10 piedi da te all'inizio di ogni tuo turno.",
 				{
 					"type": "entries",
 					"name": "Casting as a Circle Spell",
 					"entries": [
-						"Casting this as a Circle spell requires a minimum of five secondary casters. In addition to the spell's usual components, you must provide a special component (a string of three black pearls from Pandemonium), which the spell consumes. The spell's range increases to 1 mile, and its duration increases to until dispelled (no {@status Concentration|XPHB} required). The spell ends early if any caster who participated in this casting contributes to another casting of {@spell Doomtide|FRHoF} as a Circle spell.",
-						"When the spell is cast, each secondary caster must expend a level 3+ spell slot; otherwise, the spell fails."
+						"Lanciarlo come incantesimo Circolo richiede un minimo di cinque lanciatori secondari. Oltre ai consueti componenti dell'incantesimo, devi fornire un componente speciale (un filo di tre perle nere di Pandemonium), che l'incantesimo consuma. La portata dell'incantesimo aumenta a 1 miglio e la sua durata aumenta fino alla dissoluzione (non è richiesto {@status Concentration|XPHB}). L'incantesimo termina anticipatamente se qualsiasi lanciatore che ha partecipato a questo lancio contribuisce a un altro lancio di {@spell Doomtide|FRHoF} come incantesimo del Circolo.",
+						"Quando l'incantesimo viene lanciato, ogni incantatore secondario deve spendere uno slot incantesimo di livello 3+; altrimenti l'incantesimo fallisce."
 					]
 				}
 			],
@@ -574,8 +574,8 @@
 				}
 			],
 			"entries": [
-				"Six chromatic spheres orbit you for the duration.",
-				"While the spheres are present, you can expend spheres to create the following effects:",
+				"Sei sfere cromatiche ti orbitano attorno per tutta la durata.",
+				"Mentre le sfere sono presenti, puoi spenderle per creare i seguenti effetti:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -584,26 +584,26 @@
 							"type": "item",
 							"name": "Absorb Energy",
 							"entries": [
-								"When you take Acid, Cold, Fire, Lightning, or Thunder damage, you can take a {@variantrule Reaction|XPHB} to expend one sphere and give yourself {@variantrule Resistance|XPHB} to the triggering damage type until the start of your next turn."
+								"Quando subisci danni da acido, freddo, fuoco, fulmine o tuono, puoi prendere un {@variantrule Reaction|XPHB} per spendere una sfera e concederti {@variantrule Resistance|XPHB} al tipo di danno attivante fino all'inizio del tuo turno successivo."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Energy Blast",
 							"entries": [
-								"As a {@variantrule Bonus Action|XPHB}, you send one sphere hurtling toward a target within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes {@damage 3d6} Acid, Cold, Fire, Lightning, or Thunder damage (your choice). Regardless of whether you hit, the sphere is expended."
+								"Come {@variantrule Bonus Action|XPHB}, lanci una sfera che sfreccia verso un bersaglio entro 120 piedi da te. Effettua un attacco con incantesimo a distanza. In caso di colpo, il bersaglio subisce {@damage 3d6} danni da acido, freddo, fuoco, fulmine o tuono (a tua scelta). Indipendentemente dal fatto che tu colpisca, la sfera viene esaurita."
 							]
 						}
 					]
 				},
-				"The spell ends early if you have no more spheres remaining."
+				"L'incantesimo termina prima se non hai più sfere rimaste."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"The number of spheres increases by 1 for every spell slot level above 6."
+						"Il numero di sfere aumenta di 1 per ogni livello dello slot incantesimo superiore a 6."
 					]
 				}
 			],
@@ -658,7 +658,7 @@
 				}
 			],
 			"entries": [
-				"Arcane wards protect you against magic for the duration. You have {@variantrule Advantage|XPHB} on saving throws against spells and magical effects. Additionally, if you succeed on a saving throw against a spell or magical effect and would normally take half as much damage, you instead take no damage."
+				"Le protezioni arcane ti proteggono dalla magia per tutta la durata. Hai {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi ed effetti magici. Inoltre, se si supera un tiro salvezza contro un incantesimo o un effetto magico e normalmente si subirebbe la metà del danno, non si subisce invece alcun danno."
 			],
 			"miscTags": [
 				"ADV"
@@ -700,9 +700,9 @@
 				}
 			],
 			"entries": [
-				"You create a glowing mote of energy that hovers above you for the duration. The mote sheds {@variantrule Bright Light|XPHB} in a 5-foot radius and {@variantrule Dim Light|XPHB} for an additional 5 feet.",
-				"When you cast this spell and as a {@variantrule Bonus Action|XPHB} on later turns, you can unleash a shining bolt from the mote, targeting one creature within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes Force or Radiant damage (your choice) equal to {@dice 4d10} plus your spellcasting ability modifier.",
-				"In addition, while the mote is present, you have {@variantrule Cover|XPHB|Three-Quarters Cover}, and if you succeed on a saving throw against a spell of level 7 or lower that targeted only you and didn't create an area of effect, you can take a {@variantrule Reaction|XPHB} to deflect that spell back at the spell's caster; the caster makes a saving throw against that spell using that caster's own spell save DC."
+				"Crei un granello di energia luminosa che aleggia sopra di te per la durata. Il granello si stacca {@variantrule Bright Light|XPHB} in un raggio di 1,5 piedi e {@variantrule Dim Light|XPHB} per altri 5 piedi.",
+				"Quando lanci questo incantesimo e come {@variantrule Bonus Action|XPHB} nei turni successivi, puoi scatenare un dardo scintillante dal granello, prendendo di mira una creatura entro 120 piedi da te. Effettua un attacco con incantesimo a distanza. In caso di colpo, il bersaglio subisce danni di Forza o Radianti (a tua scelta) pari a {@dice 4d10} più il tuo modificatore di abilità da lanciatore.",
+				"Inoltre, mentre il granello è presente, hai {@variantrule Cover|XPHB|Three-Quarters Cover} e se riesci in un tiro salvezza contro un incantesimo di livello 7 o inferiore che prendeva di mira solo te e non ha creato un'area di effetto, puoi prendere un {@variantrule Reaction|XPHB} per deviare quell'incantesimo contro l'incantatore dell'incantesimo; l'incantatore effettua un tiro salvezza contro quell'incantesimo utilizzando la CD del tiro salvezza dell'incantesimo di quell'incantatore."
 			],
 			"spellAttack": [
 				"R"
@@ -748,14 +748,14 @@
 				}
 			],
 			"entries": [
-				"Silver energy bursts out from you in a 120-foot-long, 5-foot-wide {@variantrule Line [Area of Effect]|XPHB|Line}. Each creature of your choice in the {@variantrule Line [Area of Effect]|XPHB|Line} makes a Strength saving throw. On a failed save, a creature takes {@damage 3d10} Force damage and has the {@condition Prone|XPHB} condition. On a successful save, a creature takes half as much damage only."
+				"L'energia d'argento fuoriesce da te in un flusso lungo 120 piedi e largo 5 piedi {@variantrule Line [Area of Effect]|XPHB|Line}. Ogni creatura di tua scelta nel {@variantrule Line [Area of Effect]|XPHB|Line} effettua un tiro salvezza sulla Forza. Se il tiro salvezza fallisce, una creatura subisce {@damage 3d10} danni di Forza e ha la condizione {@condition Prone|XPHB}. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"The damage increases by {@scaledamage 3d10|3-9|1d10} for every spell slot level above 3."
+						"Il danno aumenta del {@scaledamage 3d10|3-9|1d10} per ogni livello di slot incantesimo superiore a 3."
 					]
 				}
 			],
@@ -804,7 +804,7 @@
 				}
 			],
 			"entries": [
-				"You imbue one creature you touch with magical healing energy for the duration. Whenever the target casts a spell using a spell slot, the target can immediately roll a number of unexpended {@variantrule Hit Point Dice|XPHB} equal to the spell slot's level and regain {@variantrule Hit Points|XPHB} equal to the roll's total plus your spellcasting ability modifier; those dice are then expended."
+				"Infondi una creatura che tocchi con energia curativa magica per la durata. Ogni volta che il bersaglio lancia un incantesimo utilizzando uno slot incantesimo, il bersaglio può immediatamente tirare un numero di non spesi {@variantrule Hit Point Dice|XPHB} pari al livello dello slot incantesimo e recuperare {@variantrule Hit Points|XPHB} pari al totale del tiro più il tuo modificatore di abilità di lancio di incantesimi; quei dadi vengono poi spesi."
 			],
 			"miscTags": [
 				"HL"
@@ -850,7 +850,7 @@
 				}
 			],
 			"entries": [
-				"You imbue yourself with the elemental power of genies. You gain the following benefits until the spell ends:",
+				"Ti imbevi del potere elementale dei geni. Ottieni i seguenti benefici fino al termine dell'incantesimo:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -859,21 +859,21 @@
 							"type": "item",
 							"name": "Elemental Immunity",
 							"entries": [
-								"When you cast this spell, choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You have {@variantrule Resistance|XPHB} to the chosen damage type."
+								"Quando lanci questo incantesimo, scegli uno dei seguenti tipi di danno: Acido, Freddo, Fuoco, Fulmine o Tuono. Hai {@variantrule Resistance|XPHB} per il tipo di danno scelto."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Elemental Pulse",
 							"entries": [
-								"When you cast this spell and at the start of each of your subsequent turns, you release a burst of elemental energy in a 15-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from yourself. Each creature of your choice in that area makes a Dexterity saving throw. On a failed save, a creature takes {@damage 2d6} Acid, Cold, Fire, Lightning, or Thunder damage (your choice) and has the {@condition Prone|XPHB} condition. On a successful save, a creature takes half as much damage only."
+								"Quando lanci questo incantesimo e all'inizio di ciascuno dei tuoi turni successivi, rilasci un'esplosione di energia elementale in un raggio di 15 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente da te stesso. Ogni creatura a tua scelta in quell'area effettua un tiro salvezza su Destrezza. Se il tiro salvezza fallisce, una creatura subisce {@damage 2d6} danni da acido, freddo, fuoco, fulmine o tuono (a tua scelta) e ha la condizione {@condition Prone|XPHB}. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Flight",
 							"entries": [
-								"You gain a {@variantrule Fly Speed|XPHB} of 30 feet and can hover."
+								"Guadagni un {@variantrule Fly Speed|XPHB} di 30 piedi e puoi restare librato."
 							]
 						}
 					]
@@ -882,8 +882,8 @@
 					"type": "entries",
 					"name": "Casting as a Circle Spell",
 					"entries": [
-						"If the spell is cast as a Circle spell, its casting time increases to 1 minute, and its duration increases to {@status Concentration|XPHB}, up to 10 minutes. For each secondary caster who participates in the casting, you can choose one additional creature, to a maximum of nine additional creatures. The chosen creatures also gain the benefits of the spell for its duration.",
-						"When the spell is cast, each secondary caster must expend a level 2+ spell slot; otherwise, the spell fails."
+						"Se l'incantesimo viene lanciato come incantesimo Cerchio, il suo tempo di lancio aumenta a 1 minuto e la sua durata aumenta a {@status Concentration|XPHB}, fino a 10 minuti. Per ogni incantatore secondario che partecipa al lancio, puoi scegliere una creatura aggiuntiva, fino a un massimo di nove creature aggiuntive. Le creature scelte ottengono inoltre i benefici dell'incantesimo per la sua durata.",
+						"Quando l'incantesimo viene lanciato, ogni incantatore secondario deve spendere uno slot incantesimo di livello 2+; altrimenti l'incantesimo fallisce."
 					]
 				}
 			],
@@ -934,14 +934,14 @@
 				}
 			],
 			"entries": [
-				"You unleash a blast of brilliant fire. Make a ranged spell attack against a target within range; a target gains no benefit from {@variantrule Cover|XPHB|Half Cover} or {@variantrule Cover|XPHB|Three-Quarters Cover} for this attack roll. On a hit, the target takes {@damage 2d10} Radiant damage."
+				"Scagli un'esplosione di fuoco brillante. Effettua un attacco con incantesimo a distanza contro un bersaglio entro la gittata; un bersaglio non ottiene alcun beneficio da {@variantrule Cover|XPHB|Half Cover} o {@variantrule Cover|XPHB|Three-Quarters Cover} per questo tiro di attacco. In caso di colpo, il bersaglio subisce {@damage 2d10} danni radiosi."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"You create an additional blast for each spell slot level above 1. You can direct the blasts at the same target or at different ones. Make a separate attack roll for each blast."
+						"Crei un'esplosione aggiuntiva per ogni livello di slot incantesimo superiore a 1. Puoi dirigere le esplosioni sullo stesso bersaglio o su bersagli diversi. Effettua un tiro per colpire separato per ogni esplosione."
 					]
 				}
 			],
@@ -989,14 +989,14 @@
 				}
 			],
 			"entries": [
-				"You conjure a pillar of spellfire in a 20-foot-radius, 20-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point within range. The area of the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} is {@variantrule Bright Light|XPHB}, and each creature in it when it appears makes a Constitution saving throw, taking {@damage 4d10} Radiant damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.",
-				"In addition, whenever a creature in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} casts a spell, that creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, {@variantrule Bonus Action|XPHB}, or {@variantrule Reaction|XPHB} used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.",
-				"When you cast this spell, you can designate creatures to be unaffected by it.",
+				"Evochi una colonna di fuoco magico in un raggio di 20 piedi, alto 20 piedi {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centrato su un punto entro la gittata. L'area del {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} è {@variantrule Bright Light|XPHB} e ogni creatura al suo interno quando appare effettua un tiro salvezza su Costituzione, subendo {@damage 4d10} danni radiosi se fallisce il tiro salvezza o metà del danno se lo riesce. Una creatura effettua questo tiro salvezza anche quando entra nell'area dell'incantesimo per la prima volta in un turno o termina lì il suo turno. Una creatura effettua questo tiro salvezza solo una volta per turno.",
+				"Inoltre, ogni volta che una creatura nel {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} lancia un incantesimo, quella creatura effettua un tiro salvezza su Costituzione. Se il tiro salvezza fallisce, l'incantesimo si dissipa senza alcun effetto e l'azione {@variantrule Bonus Action|XPHB} o {@variantrule Reaction|XPHB} utilizzata per lanciarlo viene sprecata. Se quell'incantesimo è stato lanciato con uno slot incantesimo, lo slot non viene speso.",
+				"Quando lanci questo incantesimo, puoi designare le creature affinché non ne siano influenzate.",
 				{
 					"type": "entries",
 					"name": "Casting as a Circle Spell",
 					"entries": [
-						"In addition to the spell's usual components, you must provide a special component (a blue star sapphire worth 25,000+ GP), which the spell consumes. The spell's range increases to 1 mile, and it no longer requires {@status Concentration|XPHB}. When the spell is cast, each secondary caster must expend a level 3+ spell slot; otherwise, the spell fails."
+						"Oltre ai componenti abituali dell'incantesimo, devi fornire un componente speciale (uno zaffiro stellato blu del valore di oltre 25.000 GP), che l'incantesimo consuma. La portata dell'incantesimo aumenta a 1 miglio e non richiede più {@status Concentration|XPHB}. Quando l'incantesimo viene lanciato, ogni incantatore secondario deve spendere uno slot incantesimo di livello 3+; altrimenti l'incantesimo fallisce."
 					]
 				}
 			],
@@ -1005,8 +1005,8 @@
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"The damage increases by {@scaledamage 4d10|4-9|1d10} for every spell slot level above 4.",
-						"The number of secondary casters determines the spell's area of effect and duration, as shown in the table below. The spell ends early if any caster who participated in this casting contributes to another casting of Spellfire Storm as a Circle spell.",
+						"Il danno aumenta del {@scaledamage 4d10|4-9|1d10} per ogni livello di slot incantesimo superiore a 4.",
+						"Il numero di lanciatori secondari determina l'area di effetto e la durata dell'incantesimo, come mostrato nella tabella seguente. L'incantesimo termina anticipatamente se qualsiasi incantatore che ha partecipato a questo lancio contribuisce a un altro lancio di Spellfire Storm come incantesimo Circolo.",
 						{
 							"type": "table",
 							"colStyles": [
@@ -1022,18 +1022,18 @@
 							"rows": [
 								[
 									"1-3",
-									"40-foot-radius, 40-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}",
+									"Raggio di 40 piedi, altezza 40 piedi {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}",
 									"1 Hour"
 								],
 								[
 									"4-6",
-									"60-foot-radius, 60-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}",
-									"8 Hours"
+									"Raggio di 60 piedi, altezza 60 piedi {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}",
+									"8 ore"
 								],
 								[
 									"7+",
-									"100-foot-radius, 100-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}",
-									"24 Hours"
+									"Raggio di 100 piedi, altezza 100 piedi {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder}",
+									"24 ore"
 								]
 							]
 						}
@@ -1086,8 +1086,8 @@
 				}
 			],
 			"entries": [
-				"A shimmering, spectral snake encircles your body for the duration. You gain 15 {@variantrule Temporary Hit Points|XPHB}; the spell ends early if you have no {@variantrule Temporary Hit Points|XPHB} left.",
-				"While the spell is active, you gain the following benefits:",
+				"Un serpente scintillante e spettrale circonda il tuo corpo per la durata. Guadagni 15 {@variantrule Temporary Hit Points|XPHB}; l'incantesimo termina prima se non hai più {@variantrule Temporary Hit Points|XPHB}.",
+				"Mentre l'incantesimo è attivo, ottieni i seguenti benefici:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -1096,14 +1096,14 @@
 							"type": "item",
 							"name": "Climbing",
 							"entries": [
-								"You gain a {@variantrule Climb Speed|XPHB} equal to your {@variantrule Speed|XPHB}."
+								"Guadagni un {@variantrule Climb Speed|XPHB} pari al tuo {@variantrule Speed|XPHB}."
 							]
 						},
 						{
 							"type": "item",
 							"name": "Venomous Bite",
 							"entries": [
-								"As a {@action Magic|XPHB} action, you can make a ranged spell attack using the snake against one creature within 50 feet. On a hit, the target takes {@damage 1d6} Force damage and has the {@condition Poisoned|XPHB} condition until the start of your next turn. While {@condition Poisoned|XPHB}, the target has the {@condition Incapacitated|XPHB} condition."
+								"Come azione {@action Magic|XPHB}, puoi effettuare un attacco con incantesimo a distanza usando il serpente contro una creatura entro 50 piedi. In caso di colpo, il bersaglio subisce {@damage 1d6} danni di Forza e ha la condizione {@condition Poisoned|XPHB} fino all'inizio del tuo turno successivo. Mentre {@condition Poisoned|XPHB}, la destinazione ha la condizione {@condition Incapacitated|XPHB}."
 							]
 						}
 					]
@@ -1114,7 +1114,7 @@
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"For each spell slot level above 3, the number of {@variantrule Temporary Hit Points|XPHB} you gain from this spell increases by 5, and the damage of Venomous Bite increases by {@scaledamage 1d6|3-9|1d6}."
+						"Per ogni livello di slot incantesimo superiore a 3, il numero di {@variantrule Temporary Hit Points|XPHB} che guadagni da questo incantesimo aumenta di 5 e il danno di Morso Velenoso aumenta del {@scaledamage 1d6|3-9|1d6}."
 					]
 				}
 			],
@@ -1165,15 +1165,15 @@
 				}
 			],
 			"entries": [
-				"You hurl a disorienting magical force toward one creature within range. The target makes a Constitution saving throw; Constructs and Undead automatically succeed on this save.",
-				"On a failed save, the target takes {@damage 2d4} Force damage, its {@variantrule Speed|XPHB} is halved until the start of your next turn, and on its next turn, it can take only an action or a {@variantrule Bonus Action|XPHB} (but not both). On a successful save, the target takes half as much damage only."
+				"Lanci una forza magica disorientante verso una creatura a gittata. Il bersaglio effettua un tiro salvezza su Costituzione; Costrutti e Non morti superano automaticamente questo tiro salvezza.",
+				"Se il tiro salvezza fallisce, il bersaglio subisce {@damage 2d4} danni di Forza, il suo {@variantrule Speed|XPHB} viene dimezzato fino all'inizio del tuo turno successivo e, nel turno successivo, può eseguire solo un'azione o un {@variantrule Bonus Action|XPHB} (ma non entrambi). Se il tiro salvezza riesce, il bersaglio subisce solo la metà dei danni."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "Using a Higher-Level Spell Slot",
 					"entries": [
-						"The damage increases by {@scaledamage 2d4|1-9|2d4} for every spell slot level above 1."
+						"Il danno aumenta del {@scaledamage 2d4|1-9|2d4} per ogni livello dello slot incantesimo superiore a 1."
 					]
 				}
 			],

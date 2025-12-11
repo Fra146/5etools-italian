@@ -19,7 +19,7 @@
 				}
 			],
 			"entries": [
-				"After spending a {@variantrule Long Rest|XPHB} in your {@book Bastion|XDMG|7}, you gain a magical Charm (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Identify|XPHB} without expending a spell slot or using Material components. You can't gain this Charm again while you still have it."
+				"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo {@book Bastion|XDMG|7}, ottieni un talismano magico (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Identify|XPHB} senza spendere uno slot incantesimo o utilizzare componenti materiali. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 			]
 		},
 		{
@@ -43,7 +43,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Athreos trait}",
-				"Your life is intertwined with the fate of the dead. You can cast {@spell gentle repose} with this trait, requiring no material components, a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"La tua vita è intrecciata con il destino dei morti. Puoi lanciare {@spell gentle repose} con questo tratto, senza richiedere componenti materiali, un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -67,7 +67,7 @@
 			],
 			"entries": [
 				"{@i Piety 25+ Athreos trait}",
-				"You can cast {@spell false life} with this trait, requiring no material components. When you do so, you gain an additional 25 temporary hit points. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Puoi lanciare {@spell false life} con questo tratto, senza richiedere componenti materiali. Quando lo fai, guadagni altri 25 punti ferita temporanei. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -91,7 +91,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Athreos trait}",
-				"You can cast {@spell speak with dead} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Puoi lanciare {@spell speak with dead} con questo tratto, senza richiedere componenti materiali. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -115,7 +115,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell hold person} (3rd-level version), {@spell command}, or {@spell counterspell} spell. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell hold person} (versione di 3° livello), {@spell command} o {@spell counterspell}. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -124,13 +124,13 @@
 			"page": 171,
 			"type": "Blessing",
 			"entries": [
-				"Your Strength score increases by 2, to a maximum of 22.",
+				"Il tuo punteggio di Forza aumenta di 2, fino a un massimo di 22.",
 				{
 					"type": "entries",
 					"name": "Consequence",
 					"id": "304",
 					"entries": [
-						"The character is cursed with werewolf {@variantrule Player Characters as Lycanthropes|MM|lycanthropy} (see the {@book Monster Manual|MM}) until the blessing ends on them. On nights when the moon is full, the cursed character flies into a rage that lasts until dawn; while in this state, the character becomes an NPC under the DM's control."
+						"Il personaggio è maledetto dal lupo mannaro {@variantrule Player Characters as Lycanthropes|MM|lycanthropy} (vedi {@book Monster Manual|MM}) finché la benedizione non finisce su di lui. Nelle notti di luna piena, il personaggio maledetto entra in una rabbia che dura fino all'alba; mentre è in questo stato, il personaggio diventa un NPC sotto il controllo del DM."
 					]
 				}
 			]
@@ -141,7 +141,7 @@
 			"page": 118,
 			"type": "Blessing",
 			"entries": [
-				"Your eyes become keen enough to pick out hidden secrets. You gain {@sense darkvision}. If you already had {@sense darkvision}, you can see in color in the dark. In addition, you can use an action to gain {@sense truesight} for 1 minute. Once you gain {@sense truesight} in this way, you can't do so again until you finish a long rest."
+				"I tuoi occhi diventano abbastanza acuti da individuare i segreti nascosti. Guadagni {@sense darkvision}. Se lo avevi già {@sense darkvision}, puoi vedere a colori al buio. Inoltre, puoi utilizzare un'azione per guadagnare {@sense truesight} per 1 minuto. Una volta guadagnato {@sense truesight} in questo modo, non potrai farlo di nuovo finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -153,7 +153,7 @@
 			],
 			"type": "Blessing",
 			"entries": [
-				"Your Constitution score increases by 2, up to a maximum of 22."
+				"Il tuo punteggio di Costituzione aumenta di 2, fino a un massimo di 22."
 			]
 		},
 		{
@@ -162,7 +162,7 @@
 			"page": 98,
 			"type": "Blessing",
 			"entries": [
-				"Your Constitution score increases by 2, up to a maximum of 22."
+				"Il tuo punteggio di Costituzione aumenta di 2, fino a un massimo di 22."
 			]
 		},
 		{
@@ -171,13 +171,13 @@
 			"page": 171,
 			"type": "Blessing",
 			"entries": [
-				"Your Intelligence score increases by 2, to a maximum of 22.",
+				"Il tuo punteggio di Intelligenza aumenta di 2, fino a un massimo di 22.",
 				{
 					"type": "entries",
 					"name": "Consequence",
 					"id": "306",
 					"entries": [
-						"The character's intellect rubs old friends the wrong way. Three NPCs of the DM's choice become indifferent or hostile toward the character, and the character automatically fails any Charisma check made to improve their attitudes."
+						"L'intelletto del personaggio irrita i vecchi amici. Tre NPC a scelta del DM diventano indifferenti o ostili nei confronti del personaggio, e il personaggio fallisce automaticamente qualsiasi prova di Carisma effettuata per migliorare i propri atteggiamenti."
 					]
 				}
 			]
@@ -191,7 +191,7 @@
 			],
 			"type": "Blessing",
 			"entries": [
-				"You have advantage on saving throws against spells and other magical effects."
+				"Hai vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 			]
 		},
 		{
@@ -200,7 +200,7 @@
 			"page": 98,
 			"type": "Blessing",
 			"entries": [
-				"You have {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+				"Hai {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 			]
 		},
 		{
@@ -212,7 +212,7 @@
 			],
 			"type": "Blessing",
 			"entries": [
-				"You gain a +1 bonus to AC and saving throws."
+				"Ottieni un bonus di +1 alla CA e ai tiri salvezza."
 			]
 		},
 		{
@@ -221,7 +221,7 @@
 			"page": 99,
 			"type": "Blessing",
 			"entries": [
-				"You gain a +1 bonus to AC and saving throws."
+				"Ottieni un bonus di +1 alla CA e ai tiri salvezza."
 			]
 		},
 		{
@@ -243,7 +243,7 @@
 				}
 			],
 			"entries": [
-				"Your eyes become as cold as ice. You gain immunity to cold damage. In addition, you can cast the {@spell cone of cold} spell (save {@dc 15}) once. You regain the ability to cast this spell when you finish a long rest."
+				"I tuoi occhi diventano freddi come il ghiaccio. Ottieni l'immunità ai danni da freddo. Inoltre, puoi lanciare l'incantesimo {@spell cone of cold} (salvataggio {@dc 15}) una volta. Riacquisti la capacità di lanciare questo incantesimo al termine di un riposo lungo."
 			]
 		},
 		{
@@ -251,7 +251,7 @@
 			"source": "DrDe",
 			"type": "Blessing",
 			"entries": [
-				"You gain the following benefits:",
+				"Ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -259,12 +259,12 @@
 						{
 							"type": "item",
 							"name": "Heroic Inspiration",
-							"entry": "You gain {@variantrule Heroic Inspiration|XPHB} when you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB} and whenever the DM has you roll Initiative."
+							"entry": "Guadagni {@variantrule Heroic Inspiration|XPHB} quando finisci un {@variantrule Short Rest|XPHB|Short} o {@variantrule Long Rest|XPHB} e ogni volta che il DM ti chiede di tirare l'Iniziativa."
 						},
 						{
 							"type": "item",
 							"name": "Temporary Hit Points",
-							"entry": "You gain a number of {@variantrule Temporary Hit Points|XPHB} equal to 10 times your level when you gain this blessing and when you gain a level."
+							"entry": "Ottieni un numero di {@variantrule Temporary Hit Points|XPHB} pari a 10 volte il tuo livello quando ottieni questa benedizione e quando guadagni un livello."
 						}
 					]
 				}
@@ -276,7 +276,7 @@
 			"page": 119,
 			"type": "Blessing",
 			"entries": [
-				"You gain 10 temporary hit points each day at dawn."
+				"Guadagni 10 punti ferita temporanei ogni giorno all'alba."
 			]
 		},
 		{
@@ -285,7 +285,7 @@
 			"page": 177,
 			"type": "Blessing",
 			"entries": [
-				"You access esoteric truths from an ancient tome by focusing deeply on your own thoughts. You can take an action to focus your inner mind. This focus lasts for 1 hour. While your inner mind is focused, you can't take reactions. For the duration, when you make an Intelligence check, Wisdom check, Intelligence saving throw, or Wisdom saving throw, you can roll a {@dice d8} and add the number rolled to the ability check or saving throw. You regain the ability to focus your inner mind when you finish a long rest."
+				"Accedi alle verità esoteriche di un antico tomo concentrandoti profondamente sui tuoi pensieri. Puoi intraprendere un'azione per focalizzare la tua mente interiore. Questo focus dura 1 ora. Mentre la tua mente interiore è concentrata, non puoi reagire. Per la durata, quando effettui una prova di Intelligenza, una prova di Saggezza, un tiro salvezza di Intelligenza o un tiro salvezza di Saggezza, puoi tirare un {@dice d8} e aggiungere il numero ottenuto alla prova di caratteristica o al tiro salvezza. Riacquisti la capacità di concentrare la tua mente interiore quando finisci un riposo lungo."
 			]
 		},
 		{
@@ -297,7 +297,7 @@
 			],
 			"type": "Blessing",
 			"entries": [
-				"Your Wisdom score increases by 2, up to a maximum of 22."
+				"Il tuo punteggio di Saggezza aumenta di 2, fino a un massimo di 22."
 			]
 		},
 		{
@@ -306,7 +306,7 @@
 			"page": 99,
 			"type": "Blessing",
 			"entries": [
-				"Your Wisdom score increases by 2, up to a maximum of 22."
+				"Il tuo punteggio di Saggezza aumenta di 2, fino a un massimo di 22."
 			]
 		},
 		{
@@ -315,13 +315,13 @@
 			"page": 171,
 			"type": "Blessing",
 			"entries": [
-				"The next time you search among or retrieve something from your belongings, you find an unmarked {@item pouch|PHB} containing five 1,000 gp gemstones.",
+				"La prossima volta che cerchi o recuperi qualcosa tra i tuoi averi, troverai un oggetto non contrassegnato {@item pouch|PHB} contenente cinque pietre preziose da 1.000 mo.",
 				{
 					"type": "entries",
 					"name": "Consequence",
 					"id": "308",
 					"entries": [
-						"The character's new fortune garners unwanted attention from a guild of violent mercenaries, who claim to have been robbed of exactly 5,000 gp worth of gems the same day as the character found the windfall. Every night for the next 7 days, the character is attacked by {@dice 1d4} neutral evil {@creature Veteran||veterans}. When the attacks end, so does this blessing."
+						"La nuova fortuna del personaggio attira l'attenzione indesiderata di una gilda di mercenari violenti, che affermano di essere stati derubati di gemme per un valore esatto di 5.000 mo lo stesso giorno in cui il personaggio ha trovato la manna. Ogni notte per i prossimi 7 giorni, il personaggio viene attaccato da {@dice 1d4} un male neutrale {@creature Veteran||veterans}. Quando gli attacchi finiscono, finisce anche questa benedizione."
 					]
 				}
 			]
@@ -335,7 +335,7 @@
 			],
 			"type": "Blessing",
 			"entries": [
-				"This blessing grants you the power to summon spirit warriors, as if you had blown a {@item horn of valhalla, silver||silver horn of Valhalla}. Once you use this blessing, you can't use it again until 7 days have passed."
+				"Questa benedizione ti conferisce il potere di evocare spiriti guerrieri, come se avessi fatto esplodere un {@item horn of valhalla, silver||silver horn of Valhalla}. Una volta utilizzata questa benedizione, non potrai utilizzarla nuovamente finché non saranno trascorsi 7 giorni."
 			]
 		},
 		{
@@ -344,7 +344,7 @@
 			"page": 99,
 			"type": "Blessing",
 			"entries": [
-				"This Blessing grants you the power to summon spirit warriors, as if you are blowing a {@item Horn of Valhalla, Silver|XDMG|silver Horn of Valhalla}. Once you use this Blessing, you can't use it again until 7 days have passed."
+				"Questa benedizione ti conferisce il potere di evocare guerrieri spirituali, come se stessi soffiando {@item Horn of Valhalla, Silver|XDMG|silver Horn of Valhalla}. Una volta utilizzata questa benedizione, non potrai utilizzarla nuovamente finché non saranno trascorsi 7 giorni."
 			]
 		},
 		{
@@ -356,7 +356,7 @@
 			],
 			"type": "Blessing",
 			"entries": [
-				"One nonmagical weapon in your possession becomes a +1 weapon whenever you wield it."
+				"Un'arma non magica in tuo possesso diventa un'arma +1 ogni volta che la impugni."
 			]
 		},
 		{
@@ -365,7 +365,7 @@
 			"page": 99,
 			"type": "Blessing",
 			"entries": [
-				"One nonmagical weapon in your possession becomes a {@item +1 Weapon|XDMG} while you wield it."
+				"Un'arma non magica in tuo possesso diventa un {@item +1 Weapon|XDMG} mentre la impugni."
 			]
 		},
 		{
@@ -377,7 +377,7 @@
 			],
 			"type": "Blessing",
 			"entries": [
-				"This blessing grants you the benefits of a {@item periapt of wound closure}."
+				"Questa benedizione ti garantisce i benefici di a {@item periapt of wound closure}."
 			]
 		},
 		{
@@ -386,7 +386,7 @@
 			"page": 99,
 			"type": "Blessing",
 			"entries": [
-				"This Blessing grants you the benefits of a {@item Periapt of Wound Closure|XDMG}."
+				"Questa benedizione ti garantisce i benefici di a {@item Periapt of Wound Closure|XDMG}."
 			]
 		},
 		{
@@ -401,7 +401,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"When you miss with a melee weapon attack, you can choose to hit instead. Once you use this boon, you can't use it again until you finish a short rest."
+				"Quando manchi un attacco con un'arma da mischia, puoi scegliere invece di colpire. Una volta utilizzato questo vantaggio, non è possibile utilizzarlo nuovamente finché non si termina un riposo breve."
 			]
 		},
 		{
@@ -429,7 +429,7 @@
 				}
 			],
 			"entries": [
-				"As an action, you can cast the {@spell misty step} spell, without using a spell slot or any components. Once you do so, you can't use this boon again until you finish a short rest."
+				"Come azione, puoi lanciare l'incantesimo {@spell misty step}, senza utilizzare uno slot incantesimo o alcun componente. Una volta fatto ciò, non potrai utilizzare nuovamente questo vantaggio finché non avrai terminato un riposo breve."
 			]
 		},
 		{
@@ -444,7 +444,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"When another creature that you can see within 60 feet of you makes an ability check, an attack roll, or a saving throw, you can roll a {@dice d10} and apply the result as a bonus or penalty to the roll. Once you use this boon, you can't use it again until you finish a short rest."
+				"Quando un'altra creatura che puoi vedere entro 60 piedi da te effettua una prova di caratteristica, un tiro per colpire o un tiro salvezza, puoi tirare un {@dice d10} e applicare il risultato come bonus o penalità al tiro. Una volta utilizzato questo vantaggio, non è possibile utilizzarlo nuovamente finché non si termina un riposo breve."
 			]
 		},
 		{
@@ -459,7 +459,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"Your hit point maximum increases by 40."
+				"Il tuo punto ferita massimo aumenta di 40."
 			]
 		},
 		{
@@ -468,7 +468,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You gain one 9th-level spell slot, provided that you already have one."
+				"Ottieni uno slot incantesimo di 9° livello, a condizione che ne abbia già uno."
 			]
 		},
 		{
@@ -477,7 +477,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You stop aging. You are immune to any effect that would age you, and you can't die from old age."
+				"Smetti di invecchiare. Sei immune a qualsiasi effetto che possa invecchiarti e non puoi morire di vecchiaia."
 			]
 		},
 		{
@@ -486,7 +486,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"When you take damage from any source, you can reduce that damage to 0. Once you use this boon, you can't use it again until you finish a short rest."
+				"Quando subisci danni da qualsiasi fonte, puoi ridurli a 0. Una volta utilizzato questo vantaggio, non puoi utilizzarlo nuovamente finché non finisci un riposo breve."
 			]
 		},
 		{
@@ -501,7 +501,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"You can bypass the damage resistances of any creature."
+				"Puoi oltrepassare le resistenze ai danni di qualsiasi creatura."
 			]
 		},
 		{
@@ -510,7 +510,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You can add a {@dice d10} roll to any ability check, attack roll, or saving throw you make. Once you use this boon, you can't use it again until you finish a short rest. "
+				"Puoi aggiungere un tiro {@dice d10} a qualsiasi prova di abilità, tiro per colpire o tiro salvezza che effettui. Una volta utilizzato questo vantaggio, non è possibile utilizzarlo nuovamente finché non si termina un riposo breve."
 			]
 		},
 		{
@@ -519,7 +519,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You have advantage on saving throws against spells and other magical effects."
+				"Hai vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 			]
 		},
 		{
@@ -528,7 +528,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You can give yourself a +20 bonus to a ranged attack roll you make. Once you use this boon, you can't use it again until you finish a short rest."
+				"Puoi concederti un bonus di +20 al tiro per colpire a distanza che effettui. Una volta utilizzato questo vantaggio, non è possibile utilizzarlo nuovamente finché non si termina un riposo breve."
 			]
 		},
 		{
@@ -537,7 +537,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You are immune to all diseases and poisons, and you have advantage on Constitution saving throws."
+				"Sei immune a tutte le malattie e ai veleni e hai vantaggio sui tiri salvezza su Costituzione."
 			]
 		},
 		{
@@ -546,7 +546,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"When you gain this boon, choose a plane of existence other than the Material Plane. You can now use an action to cast the {@spell plane shift} spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane. Once you use this boon, you can't use it again until you finish a short rest."
+				"Quando ottieni questo vantaggio, scegli un piano di esistenza diverso dal Piano Materiale. Ora puoi utilizzare un'azione per lanciare l'incantesimo {@spell plane shift} (nessuno slot incantesimo o componente richiesto), prendendo di mira solo te stesso, e viaggiare fino al piano scelto o da quel piano al Piano Materiale. Una volta utilizzato questo vantaggio, non è possibile utilizzarlo nuovamente finché non si termina un riposo breve."
 			]
 		},
 		{
@@ -555,7 +555,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"Choose one of your spells of 1st through 3rd level that has a casting time of 1 action. That spell's casting time is now 1 bonus action for you."
+				"Scegli uno dei tuoi incantesimi dal 1° al 3° livello che abbia un tempo di lancio di 1 azione. Il tempo di lancio di quell'incantesimo ora è 1 azione bonus per te."
 			]
 		},
 		{
@@ -570,7 +570,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"You can use a bonus action to regain a number of hit points equal to half your hit point maximum. Once you use this boon, you can't use it again until you finish a long rest."
+				"Puoi usare un'azione bonus per recuperare un numero di punti ferita pari alla metà dei tuoi punti ferita massimi. Una volta utilizzato questo vantaggio, non è possibile utilizzarlo nuovamente finché non si termina un riposo lungo."
 			]
 		},
 		{
@@ -579,7 +579,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
+				"Hai resistenza ai danni contundenti, perforanti e taglienti inflitti dalle armi non magiche."
 			]
 		},
 		{
@@ -594,7 +594,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"You gain proficiency in all skills."
+				"Ottieni competenza in tutte le abilità."
 			]
 		},
 		{
@@ -609,7 +609,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"Your walking speed increases by 30 feet. In addition, you can use a bonus action to take the {@action Dash} or {@action Disengage} action. Once you do so, you can't do so again until you finish a short rest."
+				"La tua velocità di camminata aumenta di 9 metri. Inoltre, puoi utilizzare un'azione bonus per eseguire l'azione {@action Dash} o {@action Disengage}. Una volta fatto ciò, non potrai farlo di nuovo finché non avrai terminato un riposo breve."
 			]
 		},
 		{
@@ -618,7 +618,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"Choose one 1st-level sorcerer, warlock, or wizard spell that you can cast. You can now cast that spell at its lowest level without expending a spell slot."
+				"Scegli un incantesimo da stregone, stregone o mago di 1° livello che puoi lanciare. Ora puoi lanciare quell'incantesimo al suo livello più basso senza spendere uno slot incantesimo."
 			]
 		},
 		{
@@ -633,7 +633,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"You can cast any spell you know or have prepared without expending a spell slot. Once you do so, you can't use this boon again until you finish a long rest."
+				"Puoi lanciare qualsiasi incantesimo che conosci o che hai preparato senza spendere uno slot incantesimo. Una volta fatto ciò, non potrai più utilizzare questo vantaggio finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -651,7 +651,7 @@
 				}
 			],
 			"entries": [
-				"You have immunity to fire damage. You can also cast {@spell burning hands} (save {@dc 15}) at will, without using a spell slot or any components. "
+				"Hai l'immunità ai danni da fuoco. Puoi anche lanciare {@spell burning hands} (salvataggio {@dc 15}) a piacimento, senza utilizzare uno slot incantesimo o alcun componente."
 			]
 		},
 		{
@@ -666,7 +666,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"While completely in an area of dim light or darkness, you can become {@condition invisible} as an action. You remain {@condition invisible} until you take an action or a reaction. "
+				"Mentre ti trovi completamente in un'area di scarsa illuminazione o oscurità, puoi diventare {@condition invisible} con un'azione. Rimani {@condition invisible} finché non esegui un'azione o una reazione."
 			]
 		},
 		{
@@ -684,7 +684,7 @@
 				}
 			],
 			"entries": [
-				"You have immunity to lightning and thunder damage. You can also cast {@spell thunderwave} (save {@dc 15}) at will, without using a spell slot or any components."
+				"Hai l'immunità ai danni da fulmini e tuoni. Puoi anche lanciare {@spell thunderwave} (salvataggio {@dc 15}) a piacimento, senza utilizzare uno slot incantesimo o alcun componente."
 			]
 		},
 		{
@@ -693,7 +693,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You have advantage on ability checks made to resist being {@condition grappled}. In addition, you can use an action to automatically escape a grapple or free yourself of restraints of any kind. "
+				"Hai vantaggio sulle prove di abilità effettuate per resistere all'essere {@condition grappled}. Inoltre, puoi usare un'azione per sfuggire automaticamente a una presa o liberarti da restrizioni di qualsiasi tipo."
 			]
 		},
 		{
@@ -708,7 +708,7 @@
 			],
 			"type": "Boon",
 			"entries": [
-				"You have {@sense truesight} out to a range of 60 feet."
+				"Hai {@sense truesight} entro un raggio di 60 piedi."
 			]
 		},
 		{
@@ -717,7 +717,7 @@
 			"page": 232,
 			"type": "Boon",
 			"entries": [
-				"You gain a +10 bonus to Dexterity ({@skill Stealth}) checks, and you can't be detected or targeted by {@filter divination|spells|school=D} magic, including scrying sensors."
+				"Ottieni un bonus di +10 alle prove di Destrezza ({@skill Stealth}) e non puoi essere rilevato o preso di mira dalla magia {@filter divination|spells|school=D}, compresi i sensori di divinazione."
 			]
 		},
 		{
@@ -741,7 +741,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell crusader's mantle} or {@spell haste} spell. Alternatively, you can cast the {@spell guiding bolt} spell, and if it hits, you regain a number of hit points equal to the damage it deals. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell crusader's mantle} o {@spell haste}. In alternativa, puoi lanciare l'incantesimo {@spell guiding bolt} e, se colpisce, recuperi un numero di punti ferita pari al danno che infligge. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -751,7 +751,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Pharika trait}",
-				"You can increase your Dexterity or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Destrezza o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -761,7 +761,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Phenax trait}",
-				"You can increase your Dexterity or Charisma score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Destrezza o Carisma di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -771,7 +771,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Klothys trait}",
-				"You can increase your Strength or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Forza o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -781,7 +781,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Karametra trait}",
-				"You can increase your Constitution or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Costituzione o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -791,7 +791,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Kruphix trait}",
-				"You can increase your Constitution or Intelligence score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Costituzione o Intelligenza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -801,7 +801,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Mogis trait}",
-				"You can increase your Strength or Constitution score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Forza o Costituzione di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -811,7 +811,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Keranos trait}",
-				"You can increase your Intelligence or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Intelligenza o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -821,7 +821,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Erebos trait}",
-				"You can increase your Constitution or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Costituzione o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -831,7 +831,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Purphoros trait}",
-				"You can increase your Strength or Intelligence score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Forza o Intelligenza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -841,7 +841,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Nylea trait}",
-				"You can increase your Dexterity or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Destrezza o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -851,7 +851,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Athreos trait}",
-				"You can increase your Intelligence or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Intelligenza o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -861,7 +861,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Ephara trait}",
-				"You can increase your Intelligence or Charisma score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Intelligenza o Carisma di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -871,7 +871,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Thassa trait}",
-				"You can increase your Dexterity or Intelligence score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Destrezza o Intelligenza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -881,7 +881,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Heliod trait}",
-				"You can increase your Strength or Wisdom score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Forza o Saggezza di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -891,7 +891,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 50+ Iroas trait}",
-				"You can increase your Strength or Charisma score by 2 and also increase your maximum for that score by 2."
+				"Puoi aumentare il tuo punteggio di Forza o Carisma di 2 e anche aumentare il tuo massimo per quel punteggio di 2."
 			]
 		},
 		{
@@ -900,7 +900,7 @@
 			"page": 215,
 			"type": "Charm",
 			"entries": [
-				"While you have this charm, you don't age naturally, and your skin gains the waxy complexion of a doll. Magical aging still affects you, however. This charm vanishes from you when you die."
+				"Anche se hai questo fascino, non invecchi in modo naturale e la tua pelle assume la carnagione cerosa di una bambola. Tuttavia, l’invecchiamento magico ti influenza ancora. Questo fascino svanisce da te quando muori."
 			]
 		},
 		{
@@ -922,8 +922,8 @@
 				}
 			],
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga astronaut|BAM} using their Magical Gift action.}",
-				"This charm allows you to cast the {@spell Air Bubble|AAG} spell (see the Astral Adventurer's Guide) as an action. Once used three times, this charm goes away."
+				"{@note This charm can be bestowed by a {@creature chwinga astronaut|BAM} usando la loro azione Regalo Magico.}",
+				"Questo amuleto ti permette di lanciare l'incantesimo {@spell Air Bubble|AAG} (vedi la Guida dell'avventuriero astrale) come azione. Una volta utilizzato tre volte, questo fascino scompare."
 			]
 		},
 		{
@@ -948,7 +948,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell conjure animals} spell (3rd-level version) as an action. Once used three times, the charm vanishes from you."
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell conjure animals} (versione di 3° livello) come azione. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -970,7 +970,7 @@
 				}
 			],
 			"entries": [
-				"This Charm allows you to cast {@spell Conjure Animals|XPHB}. Once used three times, the Charm vanishes from you."
+				"Questo amuleto ti consente di lanciare {@spell Conjure Animals|XPHB}. Una volta utilizzato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -991,7 +991,7 @@
 				}
 			],
 			"entries": [
-				"While you have this Charm, you know {@language Draconic|XPHB}. You can expend the Charm to cast {@spell Dragon's Breath|XPHB} (level 4 version), targeting yourself only."
+				"Mentre hai questo talismano, sai {@language Draconic|XPHB}. Puoi spendere il fascino per lanciare {@spell Dragon's Breath|XPHB} (versione di livello 4), prendendo di mira solo te stesso."
 			]
 		},
 		{
@@ -1012,7 +1012,7 @@
 				}
 			],
 			"entries": [
-				"While you have this Charm, you know {@language Abyssal|XPHB} and {@language Infernal|XPHB}. You can expend the Charm to cast {@spell Ray of Sickness|XPHB} (level 4 version)."
+				"Mentre hai questo talismano, conosci {@language Abyssal|XPHB} e {@language Infernal|XPHB}. Puoi spendere il fascino per lanciare {@spell Ray of Sickness|XPHB} (versione di livello 4)."
 			]
 		},
 		{
@@ -1021,7 +1021,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"When a creature you can see within 60 feet of you damages you, you can use your reaction to deal an amount of force damage to that creature equal to half the damage you took. Once used three times, the charm vanishes from you."
+				"Quando una creatura che puoi vedere entro 18 metri da te ti danneggia, puoi usare la tua reazione per infliggere a quella creatura un ammontare di danni da forza pari alla metà del danno che hai subito. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1030,8 +1030,8 @@
 			"page": 283,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|ToA} living in Icewind Dale or other cold regions by using their Magical Gift action.}",
-				"This charm has 3 charges. As a bonus action, you can expend 1 of the charm's charges to wreathe your weapon attacks with biting cold for 1 minute. Until this effect ends, you deal an extra {@damage 1d6} cold damage when you hit with a melee or ranged weapon attack. Once all its charges have been expended, this charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|ToA} che vivono a Icewind Dale o in altre regioni fredde usando la loro azione Dono Magico.}",
+				"Questo amuleto ha 3 cariche. Come azione bonus, è possibile spendere 1 delle cariche del talismano per avvolgere i propri attacchi con l'arma in un freddo pungente per 1 minuto. Fino al termine di questo effetto, infliggi un danno da freddo extra {@damage 1d6} quando colpisci con un attacco con arma da mischia o a distanza. Una volta esaurite tutte le sue cariche, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1040,8 +1040,8 @@
 			"page": 283,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|ToA} living in Icewind Dale or other cold regions by using their Magical Gift action.}",
-				"This charm has 3 charges. As an action, you can expend 1 of the charm's charges to cast the {@spell create food and water} spell, requiring no components. Once all its charges have been expended, this charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|ToA} che vivono a Icewind Dale o in altre regioni fredde usando la loro azione Dono Magico.}",
+				"Questo amuleto ha 3 cariche. Come azione, puoi spendere 1 delle cariche del talismano per lanciare l'incantesimo {@spell create food and water}, senza richiedere componenti. Una volta esaurite tutte le sue cariche, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1050,8 +1050,8 @@
 			"page": 283,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|ToA} living in Icewind Dale or other cold regions by using their Magical Gift action.}",
-				"This charm allows you to give yourself resistance to cold damage as an action. This benefit lasts for 24 hours, after which the charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|ToA} che vivono a Icewind Dale o in altre regioni fredde usando la loro azione Dono Magico.}",
+				"Questo amuleto ti consente di conferirti resistenza ai danni da freddo come azione. Questo beneficio dura 24 ore, dopodiché l'incantesimo svanisce da te."
 			]
 		},
 		{
@@ -1072,7 +1072,7 @@
 				}
 			],
 			"entries": [
-				"This charm infuses you with the righteous vengeance of the brass dragon Cozmioko. You can use it as a {@action Magic|XPHB} action and choose one of the following effects:",
+				"Questo amuleto ti infonde la giusta vendetta del drago d'ottone Cozmioko. Puoi usarlo come azione {@action Magic|XPHB} e scegliere uno dei seguenti effetti:",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",
@@ -1080,21 +1080,21 @@
 						{
 							"type": "item",
 							"name": "Cozmioko's Fire",
-							"entry": "You cast the {@spell Wall of Fire|XPHB} spell (level 7 version, spell save {@dc 20}), requiring no spell components."
+							"entry": "Hai lanciato l'incantesimo {@spell Wall of Fire|XPHB} (versione di livello 7, salvataggio incantesimo {@dc 20}), che non richiede componenti dell'incantesimo."
 						},
 						{
 							"type": "item",
 							"name": "Cozmioko's Light",
-							"entry": "You regain 28 ({@dice 8d6}) Hit Points."
+							"entry": "Recuperi 28 ({@dice 8d6}) punti ferita."
 						},
 						{
 							"type": "item",
 							"name": "Cozmioko's Revenge",
-							"entry": "One Melee weapon you are holding is infused with supernatural might for 1 minute or until you aren't holding the weapon. Once per turn, when you hit a Dragon with this weapon, the Dragon takes an extra {@dice 3d6} damage of the weapon's type."
+							"entry": "Un'arma da mischia che impugni viene infusa di potere soprannaturale per 1 minuto o finché non smetti di impugnare l'arma. Una volta per turno, quando colpisci un drago con quest'arma, il drago subisce un danno extra {@dice 3d6} del tipo di arma."
 						}
 					]
 				},
-				"Once you use the charm, it vanishes from you."
+				"Una volta usato l'incantesimo, questo svanisce da te."
 			]
 		},
 		{
@@ -1117,7 +1117,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell cure wounds} spell (3rd-level version) as an action, no components required. Your spellcasting ability for this charm is Wisdom. Once used, this charm vanishes from you."
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell cure wounds} (versione di 3° livello) come azione, senza componenti richiesti. La tua abilità da incantatore per questo amuleto è Saggezza. Una volta utilizzato, questo amuleto svanisce da te."
 			]
 		},
 		{
@@ -1142,7 +1142,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell darkvision} spell as an action, no components required. Once used three times, the charm goes away."
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell darkvision} come azione, senza componenti richiesti. Usato tre volte il fascino scompare."
 			]
 		},
 		{
@@ -1164,7 +1164,7 @@
 				}
 			],
 			"entries": [
-				"This Charm allows you to cast {@spell Darkvision|XPHB}. Once used three times, the Charm vanishes from you."
+				"Questo amuleto ti consente di lanciare {@spell Darkvision|XPHB}. Una volta utilizzato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1185,7 +1185,7 @@
 				}
 			],
 			"entries": [
-				"While you have this Charm, you know the {@language Goblin|XPHB} language. You can expend the Charm to cast {@spell Staggering Smite|XPHB}."
+				"Finché possiedi questo talismano, conosci la lingua {@language Goblin|XPHB}. Puoi spendere il fascino per lanciare {@spell Staggering Smite|XPHB}."
 			]
 		},
 		{
@@ -1194,7 +1194,7 @@
 			"page": 215,
 			"type": "Charm",
 			"entries": [
-				"You grow a short, vestigial tail when you receive this charm unless you have a tail already. When you make an ability check, an attack roll, or a saving throw, you can use this charm to gain advantage on the roll. Once used nine times, the charm vanishes from you, as does your vestigial tail."
+				"Quando ricevi questo amuleto ti cresce una coda corta e rudimentale, a meno che tu non abbia già una coda. Quando effettui una prova di caratteristica, un tiro per colpire o un tiro salvezza, puoi usare questo fascino per ottenere vantaggio sul tiro. Una volta utilizzato nove volte, il fascino svanisce da te, così come la tua coda rudimentale."
 			]
 		},
 		{
@@ -1216,7 +1216,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell druidcraft} cantrip as an action, no components required. Once used three times, this charm vanishes from you."
+				"Questo amuleto ti consente di lanciare il trucchetto {@spell druidcraft} come azione, senza componenti richiesti. Una volta utilizzato tre volte, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1225,8 +1225,8 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As an action, you can unleash a petrifying wave of magic from your eyes in a 30-foot cone. Each creature in that area must make a {@dc 15} Constitution saving throw. On a failed save, a creature has the {@condition petrified} condition for 1 hour. On a successful save, a creature is partially turned to stone and has the {@condition restrained} condition. A {@condition restrained} creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.",
-				"Once you use this charm, it vanishes from you."
+				"Come azione, puoi scatenare un'onda pietrificante di magia dai tuoi occhi in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 15}. Se il tiro salvezza fallisce, la creatura mantiene la condizione {@condition petrified} per 1 ora. Se il tiro salvezza riesce, la creatura viene parzialmente trasformata in pietra e presenta la condizione {@condition restrained}. Una creatura {@condition restrained} può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stessa in caso di successo.",
+				"Una volta che usi questo incantesimo, svanisce da te."
 			]
 		},
 		{
@@ -1238,7 +1238,7 @@
 			],
 			"type": "Charm",
 			"entries": [
-				"This charm grants you the benefits of a {@item ring of feather falling}. These benefits last for 10 days, after which the charm vanishes from you."
+				"Questo amuleto ti garantisce i benefici di a {@item ring of feather falling}. Questi benefici durano 10 giorni, trascorsi i quali il fascino svanisce da te."
 			]
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"page": 99,
 			"type": "Charm",
 			"entries": [
-				"This Charm grants you the benefits of a {@item Ring of Feather Falling|XDMG}. These benefits last for 10 days, after which the Charm vanishes from you."
+				"Questo amuleto ti garantisce i vantaggi di a {@item Ring of Feather Falling|XDMG}. Questi benefici durano 10 giorni, trascorsi i quali il Fascino svanisce da te."
 			]
 		},
 		{
@@ -1256,7 +1256,7 @@
 			"page": 215,
 			"type": "Charm",
 			"entries": [
-				"While you have this charm, you attract flies. As an action, you activate this charm to summon a {@creature horned devil}. This devil appears in an unoccupied space within 30 feet of you, obeys your commands begrudgingly, and serves you under protest for 9 days or until it dies, whereupon it disappears. When the devil disappears, this charm vanishes from you."
+				"Mentre hai questo fascino, attiri le mosche. Come azione, attivi questo incantesimo per evocare un {@creature horned devil}. Questo diavolo appare in uno spazio non occupato entro 9 metri da te, obbedisce a malincuore ai tuoi comandi e ti serve sotto protesta per 9 giorni o finché non muore, dopodiché scompare. Quando il diavolo scompare, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1278,7 +1278,7 @@
 				}
 			],
 			"entries": [
-				"A fiery halo appears above your head when you receive this charm. This charm allows you to cast the {@spell hellish rebuke} spell (9th-level version) as a reaction. Once used nine times, the charm vanishes from you, as does the fiery halo."
+				"Un'aureola infuocata appare sopra la tua testa quando ricevi questo amuleto. Questo amuleto ti consente di lanciare l'incantesimo {@spell hellish rebuke} (versione di 9° livello) come reazione. Una volta utilizzato nove volte, l'incantesimo svanisce, così come l'alone di fuoco."
 			]
 		},
 		{
@@ -1290,7 +1290,7 @@
 			],
 			"type": "Charm",
 			"entries": [
-				"This charm allows you to give yourself the benefit of a {@item potion of heroism} as an action. Once you do so, the charm vanishes from you."
+				"Questo amuleto ti consente di concederti il ​​beneficio di un {@item potion of heroism} come azione. Una volta fatto ciò, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1299,7 +1299,7 @@
 			"page": 99,
 			"type": "Charm",
 			"entries": [
-				"This Charm allows you to give yourself the benefit of a {@item Potion of Heroism|XDMG} as a {@action Magic|XPHB} action. Once you do so, the Charm vanishes from you."
+				"Questo amuleto ti consente di concederti il ​​beneficio di un {@item Potion of Heroism|XDMG} come azione {@action Magic|XPHB}. Una volta fatto ciò, l'Incantesimo svanirà da te."
 			]
 		},
 		{
@@ -1308,8 +1308,8 @@
 			"page": 17,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga astronaut|BAM} using their Magical Gift action.}",
-				"This charm allows you to magically conjure a set of artisan's tools, navigator's tools, or thieves' tools. The conjured tools appear either in your hand or somewhere else in your space (your choice). Once used, this charm goes away, but the tools remain."
+				"{@note This charm can be bestowed by a {@creature chwinga astronaut|BAM} usando la loro azione Regalo Magico.}",
+				"Questo amuleto ti permette di evocare magicamente un set di strumenti da artigiano, strumenti da navigatore o strumenti da ladro. Gli strumenti evocati appaiono nella tua mano o da qualche altra parte nel tuo spazio (a tua scelta). Una volta utilizzato, questo amuleto scompare, ma gli strumenti rimangono."
 			]
 		},
 		{
@@ -1331,7 +1331,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell invisibility} spell as an action, no components required. Once used three times, this charm vanishes from you."
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell invisibility} come azione, senza componenti richiesti. Una volta utilizzato tre volte, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1339,7 +1339,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"While you have this Charm, you have {@sense Darkvision|XPHB} with a range of 120 feet. You can expend the Charm to gain {@sense Truesight|XPHB} with a range of 60 feet for 1 minute."
+				"Mentre hai questo talismano, hai {@sense Darkvision|XPHB} con un raggio di 120 piedi. Puoi spendere il fascino per ottenere {@sense Truesight|XPHB} con un raggio di 60 piedi per 1 minuto."
 			]
 		},
 		{
@@ -1348,7 +1348,7 @@
 			"page": 215,
 			"type": "Charm",
 			"entries": [
-				"While you have this charm, you attract flies. As an action, you activate this charm to summon a {@creature barbed devil}, two {@creature Bearded Devil||bearded devils}, or three {@creature Spined Devil||spined devils}. All devils appear at once in unoccupied spaces within 30 feet of you. Each devil obeys your commands and serves you eagerly for 9 days or until it dies, whereupon the devil disappears. Once all devils summoned by this charm disappear, the charm vanishes from you."
+				"Mentre hai questo fascino, attiri le mosche. Come azione, attivi questo incantesimo per evocare un {@creature barbed devil}, due {@creature Bearded Devil||bearded devils} o tre {@creature Spined Devil||spined devils}. Tutti i diavoli compaiono contemporaneamente negli spazi non occupati entro 9 metri da te. Ogni diavolo obbedisce ai tuoi comandi e ti serve avidamente per 9 giorni o finché non muore, dopodiché il diavolo scompare. Una volta che tutti i diavoli evocati da questo incantesimo scompaiono, l'incantesimo svanisce da te."
 			]
 		},
 		{
@@ -1370,7 +1370,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell lightning bolt} spell (save {@dc 15}) as an action, no components required. Once used, this charm vanishes from you."
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell lightning bolt} (salvataggio {@dc 15}) come azione, senza componenti richiesti. Una volta utilizzato, questo amuleto svanisce da te."
 			]
 		},
 		{
@@ -1379,7 +1379,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"You are infused with a burst of magic from a {@item Deck of Many Things}. As an action, you can touch a willing creature other than yourself and bestow the effect of a single randomly determined card from the deck upon the target. Once you use this charm, it vanishes from you."
+				"Sei infuso con un'esplosione di magia da un {@item Deck of Many Things}. Come azione, puoi toccare una creatura consenziente diversa da te e conferire al bersaglio l'effetto di una singola carta determinata casualmente dal mazzo. Una volta che usi questo incantesimo, svanisce da te."
 			]
 		},
 		{
@@ -1388,7 +1388,7 @@
 			"page": 215,
 			"type": "Charm",
 			"entries": [
-				"You can speak and understand all languages, you gain proficiency in the {@skill Deception} and {@skill Persuasion} skills, and you can add double your normal proficiency bonus when using those skills. This charm vanishes from you when you die."
+				"Puoi parlare e comprendere tutte le lingue, acquisire competenza nelle abilità {@skill Deception} e {@skill Persuasion} e puoi aggiungere il doppio del tuo normale bonus di competenza quando utilizzi tali abilità. Questo fascino svanisce da te quando muori."
 			]
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"page": 167,
 			"type": "Charm",
 			"entries": [
-				"When you drop to 0 hit points as a result of taking damage, you can choose to drop to 1 hit point instead. Once used nine times, the charm goes away."
+				"Quando scendi a 0 punti ferita a causa dei danni subiti, puoi scegliere invece di scendere a 1 punto ferita. Una volta utilizzato nove volte, il fascino scompare."
 			]
 		},
 		{
@@ -1419,7 +1419,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell faerie fire} spell (violet light only; save {@dc 15}) as a bonus action instead of an action, no components required. Once used three times, this charm vanishes from you."
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell faerie fire} (solo luce viola; salvataggio {@dc 15}) come azione bonus invece che come azione, senza componenti richiesti. Una volta utilizzato tre volte, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1453,7 +1453,7 @@
 				}
 			],
 			"entries": [
-				"This charm has 6 charges. You can use an action to expend some of its charges to cast one of the following spells: {@spell greater restoration} (4 charges) or {@spell lesser restoration} (2 charges). Once all its charges have been expended, the charm vanishes from you."
+				"Questo amuleto ha 6 cariche. Puoi utilizzare un'azione per spendere alcune delle sue cariche per lanciare uno dei seguenti incantesimi: {@spell greater restoration} (4 cariche) o {@spell lesser restoration} (2 cariche). Una volta esaurite tutte le sue cariche, l'incantesimo svanisce da te."
 			]
 		},
 		{
@@ -1479,7 +1479,7 @@
 				}
 			],
 			"entries": [
-				"This Charm has 3 charges. You can expend some of its charges to cast one of the following spells: {@spell Greater Restoration|XPHB} (2 charges) or {@spell Lesser Restoration|XPHB} (1 charge). Once all its charges have been expended, the Charm vanishes from you."
+				"Questo talismano ha 3 cariche. Puoi spendere alcune delle sue cariche per lanciare uno dei seguenti incantesimi: {@spell Greater Restoration|XPHB} (2 cariche) o {@spell Lesser Restoration|XPHB} (1 carica). Una volta esaurite tutte le sue cariche, il Fascino svanisce da te."
 			]
 		},
 		{
@@ -1488,7 +1488,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As an action, you can touch a nonmagical object, or a section of a larger nonmagical object, that fits in a 5-foot cube. The target is reduced to dust. Once used three times, the charm vanishes from you."
+				"Come azione, puoi toccare un oggetto non magico, o una sezione di un oggetto non magico più grande, che possa stare in un cubo di 1,5 metri. Il bersaglio è ridotto in polvere. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1510,7 +1510,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell sending} spell as an action, no components required. Once used, this charm vanishes from you."
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell sending} come azione, senza componenti richiesti. Una volta utilizzato, questo amuleto svanisce da te."
 			]
 		},
 		{
@@ -1519,8 +1519,8 @@
 			"page": 283,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|ToA} living in Icewind Dale or other cold regions by using their Magical Gift action.}",
-				"This charm has 5 charges. As a bonus action, you can expend 1 of the charm's charges to create a magical snowball in your hand and throw it. You must have a hand free to hold the snowball, or the charge is wasted. The snowball is a magic ranged weapon with which you are proficient. It has a normal range of 20 feet and a long range of 60 feet, it deals {@damage 1d4} cold damage on a hit, and it scores a critical hit on a roll of 19 or 20. If you score a critical hit with the snowball, the target is {@condition blinded} until the end of its next turn. The snowball vanishes immediately after you hit or miss with it, or at the end of your turn if you don't throw it. Once all its charges have been expended, this charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|ToA} che vivono a Icewind Dale o in altre regioni fredde usando la loro azione Dono Magico.}",
+				"Questo amuleto ha 5 cariche. Come azione bonus, puoi spendere 1 delle cariche del talismano per creare una palla di neve magica nella tua mano e lanciarla. Devi avere una mano libera per tenere la palla di neve, altrimenti la carica sarà sprecata. La palla di neve è un'arma magica a distanza nella quale sei competente. Ha una portata normale di 20 piedi e una portata lunga di 60 piedi, infligge {@damage 1d4} danni da freddo con un colpo a segno e mette a segno un colpo critico con un tiro di 19 o 20. Se ottieni un colpo critico con la palla di neve, il bersaglio rimane {@condition blinded} fino alla fine del suo turno successivo. La palla di neve svanisce immediatamente dopo averla colpita o mancata, oppure alla fine del tuo turno se non la lanci. Una volta esaurite tutte le sue cariche, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1529,7 +1529,7 @@
 			"page": 215,
 			"type": "Charm",
 			"entries": [
-				"This charm has 9 charges. You can use an action to expend 1 charge from the charm to gain 30 temporary hit points. For the next hour, your eyes become voids of utter darkness, and you can't be {@condition charmed} or {@condition frightened}. Once all its charges have been expended, the charm vanishes from you."
+				"Questo amuleto ha 9 cariche. Puoi usare un'azione per spendere 1 carica dell'amuleto per ottenere 30 punti ferita temporanei. Per la prossima ora, i tuoi occhi diventeranno vuoti di totale oscurità e tu non potrai essere {@condition charmed} o {@condition frightened}. Una volta esaurite tutte le sue cariche, l'incantesimo svanisce da te."
 			]
 		},
 		{
@@ -1538,7 +1538,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As an action, you can force a creature you can see within 60 feet of you to focus on you. For 1 minute, creatures other than you and the target are {@condition invisible} to the target. The effect ends if any creature other than you damages the target or forces the target to make a saving throw. Once used three times, the charm vanishes from you."
+				"Con un'azione, puoi costringere una creatura che puoi vedere entro 18 metri da te a concentrarsi su di te. Per 1 minuto, le creature diverse da te e dal bersaglio sono {@condition invisible} verso il bersaglio. L'effetto termina se qualsiasi creatura diversa da te danneggia il bersaglio o costringe il bersaglio a effettuare un tiro salvezza. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"source": "VNotEE",
 			"type": "Charm",
 			"entries": [
-				"Once per turn, when you hit a creature with an attack roll using a weapon or an unarmed strike, you can infuse your strike with life-stealing energy. Your attack then deals an extra {@damage 1d10} necrotic damage, and you gain 5 {@book temporary hit points|PHB|9|Temporary Hit Points}. Once used five times, the charm vanishes."
+				"Una volta per turno, quando colpisci una creatura con un tiro per colpire utilizzando un'arma o un colpo senz'armi, puoi infondere nel tuo colpo un'energia rubavita. Il tuo attacco infligge quindi un danno necrotico extra {@damage 1d10} e tu guadagni 5 {@book temporary hit points|PHB|9|Temporary Hit Points}. Una volta utilizzato cinque volte, il fascino svanisce."
 			]
 		},
 		{
@@ -1555,7 +1555,7 @@
 			"page": 167,
 			"type": "Charm",
 			"entries": [
-				"This charm grants you immunity to piercing and slashing damage from nonmagical attacks, but you gain vulnerability to bludgeoning damage. These effects last for 10 days, after which the charm vanishes from you."
+				"Questo amuleto ti garantisce l'immunità ai danni perforanti e taglienti derivanti da attacchi non magici, ma ottieni vulnerabilità ai danni contundenti. Questi effetti durano 10 giorni, dopodiché il fascino svanisce da te."
 			]
 		},
 		{
@@ -1577,7 +1577,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Otiluke's Resilient Sphere}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Otiluke's Resilient Sphere}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1598,7 +1598,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Clairvoyance} as an action, without using a spell slot and requiring no material components. Once used three times, the charm vanishes."
+				"Puoi lanciare {@spell Clairvoyance} come azione, senza utilizzare uno slot incantesimo e senza richiedere componenti materiali. Una volta utilizzato tre volte, il fascino svanisce."
 			]
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"You can tug on the threads of fate to tweak circumstance in your favor. After you make an ability check, an attack roll, or a saving throw, you can roll a {@dice d10} and add it to the total, potentially turning failure into success. Once used three times, the charm vanishes from you."
+				"Puoi tirare i fili del destino per modificare le circostanze a tuo favore. Dopo aver effettuato una prova di abilità, un tiro per colpire o un tiro salvezza, puoi lanciare un {@dice d10} e aggiungerlo al totale, trasformando potenzialmente il fallimento in successo. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1616,7 +1616,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As an action, you can summon two {@creature Bearded Devil||bearded devils}. The summoned devils appear in unoccupied spaces within 60 feet of you, obey your commands, and can't summon other devils. The devils take their turns immediately after yours on the initiative count. A summoned devil remains for 10 minutes, until it or you die, or until you dismiss one or both summoned devils as an action. Once used three times, the charm vanishes from you."
+				"Come azione, puoi evocarne due {@creature Bearded Devil||bearded devils}. I diavoli evocati compaiono negli spazi non occupati entro 18 metri da te, obbediscono ai tuoi comandi e non possono evocare altri diavoli. I diavoli svolgono il loro turno immediatamente dopo il tuo conteggio dell'iniziativa. Un diavolo evocato rimane per 10 minuti, finché lui o l'utente non muore, o finché non congeda uno o entrambi i diavoli evocati con un'azione. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1638,7 +1638,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Major Image}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). When you cast the spell in this way, it lasts its full duration with no concentration required. Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Major Image}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Quando lanci l'incantesimo in questo modo, dura per tutta la sua durata senza che sia richiesta concentrazione. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As an action, you create a spray of {@dice 4d10} gems in a 30-foot cone originating from you. Each creature in that area must make a {@dc 15} Dexterity saving throw. On a failed save, a creature takes an amount of bludgeoning damage equal to the number of gems created. On a successful save, a creature takes half as much damage. The gems remain after the effect ends, and each one is worth 10 gp. Once used three times, the charm vanishes from you."
+				"Con un'azione, crei uno spruzzo di {@dice 4d10} gemme in un cono di 9 metri proveniente da te. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza {@dc 15}. Se fallisce il Tiro Salvezza, la creatura subisce un ammontare di danni contundenti pari al numero di gemme create. Se il tiro salvezza riesce, la creatura subisce la metà dei danni. Le gemme rimangono dopo la fine dell'effetto e ognuna vale 10 mo. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1656,7 +1656,7 @@
 			"page": 167,
 			"type": "Charm",
 			"entries": [
-				"This charm allows you to use an action to eat a mouthful of flesh from a humanoid that has been dead no longer than 1 day. When you do, you regain {@dice 3d8 + 3} hit points. Once used three times, the charm goes away."
+				"Questo amuleto ti consente di usare un'azione per mangiare un boccone di carne di un umanoide morto da non più di 1 giorno. Quando lo fai, recuperi {@dice 3d8 + 3} punti ferita. Usato tre volte il fascino scompare."
 			]
 		},
 		{
@@ -1665,8 +1665,8 @@
 			"page": 283,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|ToA} living in Icewind Dale or other cold regions by using their Magical Gift action.}",
-				"This charm allows you to use your reaction when you take cold damage to reduce the damage to 0. You regain a number of hit points equal to half the cold damage you would have taken. Once you do so, the charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|ToA} che vivono a Icewind Dale o in altre regioni fredde usando la loro azione Dono Magico.}",
+				"Questo amuleto ti consente di usare la tua reazione quando subisci danni da freddo per ridurre il danno a 0. Recuperi un numero di punti ferita pari alla metà del danno da freddo che avresti subito. Una volta fatto ciò, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1688,7 +1688,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Tasha's Hideous Laughter}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Tasha's Hideous Laughter}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As a bonus action, you can touch a nonmagical melee weapon and imbue it with magic for 1 hour. For the duration, the weapon deals an extra {@damage 1d8} force damage on a hit and deals double damage to objects and structures. Once used three times, the charm vanishes from you."
+				"Come azione bonus, è possibile toccare un'arma da mischia non magica e infonderla di magia per 1 ora. Per tutta la durata, l'arma infligge danni di forza aggiuntivi {@damage 1d8} in caso di colpo e infligge danni doppi a oggetti e strutture. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1706,7 +1706,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As an action, you can summon two neutral good {@creature Knight||knights} that are Celestials instead of Humanoids. The knights appear in unoccupied spaces within 60 feet of you and act as your allies. They take their turns immediately after yours on your initiative count. The knights remain for 10 minutes, until they or you die, or until you dismiss one or both of them as an action. Once used three times, the charm vanishes from you."
+				"Come azione, puoi evocare due beni neutrali {@creature Knight||knights} che siano Celestiali invece che Umanoidi. I cavalieri appaiono negli spazi non occupati entro 60 piedi da te e agiscono come tuoi alleati. Fanno il loro turno immediatamente dopo il tuo conteggio di iniziativa. I cavalieri rimangono per 10 minuti, finché loro o tu non muori, o finché non congedi uno o entrambi con un'azione. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1715,7 +1715,7 @@
 			"page": 167,
 			"type": "Charm",
 			"entries": [
-				"This charm allows you to regrow a lost appendage or organ, such as an arm, a foot, or an eye. After it is used once, the charm goes away."
+				"Questo incantesimo ti permette di far ricrescere un'appendice o un organo perduto, come un braccio, un piede o un occhio. Dopo averlo utilizzato una volta, il fascino scompare."
 			]
 		},
 		{
@@ -1737,8 +1737,8 @@
 				}
 			],
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|CM} living a desert by using their Magical Gift action.}",
-				"This charm allows you to cast the {@spell hallucinatory terrain} spell (save {@dc 15}) as an action. Once used, this charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|CM} vivono in un deserto usando la loro azione Dono Magico.}",
+				"Questo amuleto ti consente di lanciare l'incantesimo {@spell hallucinatory terrain} (salvataggio {@dc 15}) come azione. Una volta utilizzato, questo amuleto svanisce da te."
 			]
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As an action, you make a minor wish. When you do, you create the effects of a spell of 5th level or lower. The spell takes effect as part of this action and requires no spell components. Your Intelligence, Wisdom, or Charisma is the spellcasting ability for this spell (your choice). Once you use this charm, it vanishes from you."
+				"Come azione, esprimi un desiderio minore. Quando lo fai, crei gli effetti di un incantesimo di 5° livello o inferiore. L'incantesimo ha effetto come parte di questa azione e non richiede componenti dell'incantesimo. La tua Intelligenza, Saggezza o Carisma è l'abilità da incantatore per questo incantesimo (a tua scelta). Una volta che usi questo incantesimo, svanisce da te."
 			]
 		},
 		{
@@ -1769,7 +1769,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Hypnotic Pattern}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Hypnotic Pattern}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1791,7 +1791,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Mislead}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). When you cast the spell in this way, it lasts its full duration with no concentration required. Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Mislead}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Quando lanci l'incantesimo in questo modo, dura per tutta la sua durata senza che sia richiesta concentrazione. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1813,7 +1813,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Divination}, requiring no material components and using your Intelligence as the spellcasting ability. Once you cast the spell three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Divination}, senza richiedere componenti materiali e utilizzando la tua Intelligenza come abilità di lancio di incantesimi. Una volta lanciato l'incantesimo tre volte, l'incantesimo svanisce da te."
 			]
 		},
 		{
@@ -1822,7 +1822,7 @@
 			"page": 62,
 			"type": "Charm",
 			"entries": [
-				"As a bonus action, you can transform into a deathly apparition. Your game statistics are replaced by those of a {@creature wraith}, except for your alignment and personality; your Intelligence, Wisdom, and Charisma scores; and your passive Wisdom ({@skill Perception}) score and languages. You don't have the wraith's Create Specter ability. Your equipment vanishes when you transform but returns when the transformation ends. The transformation lasts for 1 minute, until your wraith form is reduced to 0 hit points, or until you use a bonus action to end it. If the wraith form is reduced to 0 hit points and there is still damage left over, the remaining damage applies to your normal hit points. Once used three times, the charm vanishes from you."
+				"Come azione bonus, puoi trasformarti in un'apparizione mortale. Le tue statistiche di gioco sono sostituite da quelle di a {@creature wraith}, ad eccezione del tuo allineamento e della tua personalità; i tuoi punteggi di Intelligenza, Saggezza e Carisma; e il tuo punteggio e le lingue di Saggezza passiva ({@skill Perception}). Non hai l'abilità Crea Spettro dello spettro. Il tuo equipaggiamento svanisce quando ti trasformi ma ritorna al termine della trasformazione. La trasformazione dura 1 minuto, finché la tua forma di spettro non viene ridotta a 0 punti ferita, o finché non usi un'azione bonus per porvi fine. Se la forma dello spettro viene ridotta a 0 punti ferita e c'è ancora del danno residuo, il danno rimanente si applica ai tuoi normali punti ferita. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1834,7 +1834,7 @@
 			],
 			"type": "Charm",
 			"entries": [
-				"One sword in your possession becomes a {@item dragon slayer} or {@item giant slayer} (DM's choice) for the next 9 days. The charm then vanishes from you and the weapon returns to normal."
+				"Una spada in tuo possesso diventa {@item dragon slayer} o {@item giant slayer} (a scelta del DM) per i prossimi 9 giorni. L'incantesimo poi svanisce da te e l'arma ritorna alla normalità."
 			]
 		},
 		{
@@ -1843,7 +1843,7 @@
 			"page": 99,
 			"type": "Charm",
 			"entries": [
-				"One weapon in your possession becomes a {@item Dragon Slayer|XDMG} or {@item Giant Slayer|XDMG} (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal."
+				"Un'arma in tuo possesso diventa {@item Dragon Slayer|XDMG} o {@item Giant Slayer|XDMG} (a scelta del DM) per i prossimi 9 giorni. L'incantesimo poi svanisce da te e l'arma ritorna normale."
 			]
 		},
 		{
@@ -1852,17 +1852,17 @@
 			"page": 283,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|ToA} living in Icewind Dale or other cold regions by using their Magical Gift action.}",
-				"This charm has 3 charges. As an action, you can expend 1 of the charm's charges to gain the following benefits for 24 hours:",
+				"{@note This charm can be bestowed by a {@creature chwinga|ToA} che vivono a Icewind Dale o in altre regioni fredde usando la loro azione Dono Magico.}",
+				"Questo amuleto ha 3 cariche. Come azione, puoi spendere 1 delle cariche del talismano per ottenere i seguenti benefici per 24 ore:",
 				{
 					"type": "list",
 					"items": [
-						"You and your allies within 15 feet of you ignore {@quickref difficult terrain||3} caused by snow or ice.",
-						"You can see through areas heavily obscured by snow to a distance of 60 feet.",
-						"You are immune to the effects of extreme cold, as described in the {@book Dungeon Master's Guide|DMG} (though you gain no protection from cold damage)."
+						"Tu e i tuoi alleati entro 15 piedi ignorate {@quickref difficult terrain||3} causato da neve o ghiaccio.",
+						"Puoi vedere attraverso aree pesantemente oscurate dalla neve fino a una distanza di 18 metri.",
+						"Sei immune agli effetti del freddo estremo, come descritto nel {@book Dungeon Master's Guide|DMG} (anche se non ottieni protezione dai danni da freddo)."
 					]
 				},
-				"Once all its charges have been expended, this charm vanishes from you."
+				"Una volta esaurite tutte le sue cariche, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -1884,7 +1884,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Enhance Ability}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). When you cast the spell in this way, it lasts its full duration with no concentration required. Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Enhance Ability}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Quando lanci l'incantesimo in questo modo, dura per tutta la sua durata senza che sia richiesta concentrazione. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1906,7 +1906,7 @@
 				}
 			],
 			"entries": [
-				"You become charged with the power of the storm, to the extent that tiny sparks crackle in your eyes. You can cast the {@spell lightning bolt} spell (3rd-level version) as an action. Once used three times, the charm vanishes from you."
+				"Ti carichi del potere della tempesta, al punto che piccole scintille scoppiettano nei tuoi occhi. Puoi lanciare l'incantesimo {@spell lightning bolt} (versione di 3° livello) come azione. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1914,7 +1914,7 @@
 			"source": "HFStCM",
 			"type": "Charm",
 			"entries": [
-				"When a creature you can see within 30 feet of you moves, you can use your reaction to give the creature the {@condition prone} condition. Allies of the target who are within 30 feet of the target must succeed on a {@dc 16} Wisdom saving throw or have the {@condition stunned} condition until the end of their next turn as they laugh uncontrollably at their friend's misfortune. Once used three times, the charm vanishes from you."
+				"Quando una creatura che puoi vedere entro 9 metri da te si muove, puoi usare la tua reazione per dare alla creatura la condizione {@condition prone}. Gli alleati del bersaglio che si trovano entro 9 metri dal bersaglio devono riuscire un tiro salvezza su Saggezza {@dc 16} o mantenere la condizione {@condition stunned} fino alla fine del loro turno successivo mentre ridono in modo incontrollabile della sfortuna del loro amico. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1941,7 +1941,7 @@
 				}
 			],
 			"entries": [
-				"You learn the {@spell Light} cantrip if you don't already know it. You can cast {@spell Sunburst}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). Once used, the charm vanishes from you, and you unlearn the {@spell Light} cantrip gained from this charm."
+				"Impari il trucchetto {@spell Light} se non lo conosci già. Puoi lanciare {@spell Sunburst}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Una volta utilizzato, l'incantesimo svanisce da te e disimpari il trucchetto {@spell Light} ottenuto da questo incantesimo."
 			]
 		},
 		{
@@ -1950,7 +1950,7 @@
 			"page": 167,
 			"type": "Charm",
 			"entries": [
-				"This charm allows you to spit up a frog as an action. The frog understands you and obeys your commands. Once used three times, the charm goes away."
+				"Questo amuleto ti permette di sputare una rana come azione. La rana ti capisce e obbedisce ai tuoi comandi. Usato tre volte il fascino scompare."
 			]
 		},
 		{
@@ -1972,7 +1972,7 @@
 				}
 			],
 			"entries": [
-				"As an action, you can cast {@spell Dispel Magic}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). If you successfully end any spells with it, you gain {@dice 1d6} {@book temporary hit points|PHB|9|Temporary Hit Points} for each spell level of the highest-level spell ended. Once used three times, the charm vanishes from you."
+				"Come azione, puoi lanciare {@spell Dispel Magic}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Se termini con successo qualsiasi incantesimo con esso, guadagni {@dice 1d6} {@book temporary hit points|PHB|9|Temporary Hit Points} per ogni livello dell'incantesimo di livello più alto terminato. Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -1994,7 +1994,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Mordenkainen's Magnificent Mansion}, requiring no spell components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Mordenkainen's Magnificent Mansion}, senza richiedere componenti di incantesimi e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -2016,8 +2016,8 @@
 				}
 			],
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|ToA} living in Icewind Dale or other cold regions by using their Magical Gift action.}",
-				"This charm has 3 charges. As an action, you can expend 1 of the charm's charges to cast the {@spell Leomund's tiny hut} spell, no components required. Once all its charges have been expended, this charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|ToA} che vivono a Icewind Dale o in altre regioni fredde usando la loro azione Dono Magico.}",
+				"Questo amuleto ha 3 cariche. Come azione, puoi spendere 1 delle cariche del fascino per lanciare l'incantesimo {@spell Leomund's tiny hut}, senza componenti richiesti. Una volta esaurite tutte le sue cariche, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -2039,7 +2039,7 @@
 				}
 			],
 			"entries": [
-				"You can cast {@spell Banishment}, requiring no material components and using your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice). Once used three times, the charm vanishes from you."
+				"Puoi lanciare {@spell Banishment}, senza richiedere componenti materiali e utilizzando Intelligenza, Saggezza o Carisma come abilità di lancio di incantesimi (a tua scelta). Una volta usato tre volte, il fascino svanisce da te."
 			]
 		},
 		{
@@ -2048,8 +2048,8 @@
 			"page": 212,
 			"type": "Charm",
 			"entries": [
-				"{@note This charm can be bestowed by a {@creature chwinga|CM} living a desert by using their Magical Gift action.}",
-				"This charm allows you to create up to 1 gallon of fresh water, which fills one or more empty containers in your possession. You can do this up to thrice per day for 10 days, after which this charm vanishes from you."
+				"{@note This charm can be bestowed by a {@creature chwinga|CM} vivono in un deserto usando la loro azione Dono Magico.}",
+				"Questo amuleto ti consente di creare fino a 1 litro di acqua dolce, che riempie uno o più contenitori vuoti in tuo possesso. Puoi farlo fino a tre volte al giorno per 10 giorni, dopodiché questo incantesimo svanisce da te."
 			]
 		},
 		{
@@ -2058,7 +2058,7 @@
 			"page": 167,
 			"type": "Charm",
 			"entries": [
-				"While this charm lasts, you can use an action to pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 30 feet of you. The effect lasts for 3 days, after which the charm vanishes from you."
+				"Finché dura questo fascino, puoi usare un'azione per individuare, tramite l'odore, la posizione di metalli e pietre preziose, come monete e gemme, entro 9 metri da te. L'effetto dura 3 giorni, trascorsi i quali il fascino svanisce da te."
 			]
 		},
 		{
@@ -2080,7 +2080,7 @@
 				}
 			],
 			"entries": [
-				"This charm allows you to cast the {@spell vicious mockery} cantrip (5th-level version; save {@dc 15}) as an action. Once used three times, this charm vanishes from you."
+				"Questo amuleto ti consente di lanciare il trucchetto {@spell vicious mockery} (versione di 5° livello; salvataggio {@dc 15}) come azione. Una volta utilizzato tre volte, questo fascino svanisce da te."
 			]
 		},
 		{
@@ -2092,7 +2092,7 @@
 			],
 			"type": "Charm",
 			"entries": [
-				"This charm allows you to give yourself the benefit of a {@item potion of vitality} as an action. Once you do so, the charm vanishes from you."
+				"Questo amuleto ti consente di concederti il ​​beneficio di un {@item potion of vitality} come azione. Una volta fatto ciò, il fascino svanisce da te."
 			]
 		},
 		{
@@ -2101,7 +2101,7 @@
 			"page": 99,
 			"type": "Charm",
 			"entries": [
-				"This Charm allows you to give yourself the benefit of a {@item Potion of Vitality|XDMG} as a {@action Magic|XPHB} action. Once you do so, the Charm vanishes from you."
+				"Questo amuleto ti consente di concederti il ​​beneficio di un {@item Potion of Vitality|XDMG} come azione {@action Magic|XPHB}. Una volta fatto ciò, l'Incantesimo svanirà da te."
 			]
 		},
 		{
@@ -2109,7 +2109,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"While you have this Charm, you know the {@language Giant|XPHB}. As a Bonus Action, you can expend the Charm to change your Strength score to 25 for 1 hour."
+				"Mentre hai questo talismano, conosci il {@language Giant|XPHB}. Come Azione Bonus, puoi spendere il Fascino per cambiare il tuo punteggio di Forza a 25 per 1 ora."
 			]
 		},
 		{
@@ -2118,8 +2118,8 @@
 			"page": 179,
 			"type": "Charm",
 			"entries": [
-				"While you have Clay No-Face in your possession, you don't need to eat, drink, or breathe. These benefits last for 30 days while the doll is in your possession, after which the charm vanishes from you.",
-				"The doll is a Tiny construct. Destroying the doll causes the child's soul within it to become trapped in {@adventure the Soulmonger|ToA|5|The Soulmonger}.",
+				"Mentre hai Clay No-Face in tuo possesso, non hai bisogno di mangiare, bere o respirare. Questi benefici durano 30 giorni mentre la bambola è in tuo possesso, dopodiché il fascino svanisce da te.",
+				"La bambola è un costrutto Tiny. Distruggere la bambola fa sì che l'anima del bambino al suo interno rimanga intrappolata {@adventure the Soulmonger|ToA|5|The Soulmonger}.",
 				{
 					"type": "statblockInline",
 					"dataType": "object",
@@ -2153,13 +2153,13 @@
 			"page": 39,
 			"type": "Curse",
 			"entries": [
-				"Countless legends invoke {@i hgar'Gruum}, the Curse of Ruin. Great orc warriors have been laid low when bloodlust overtook their reason. Mighty mages driven by a foolhardy ambition forsook caution and delved furiously into knowledge no mortal eyes should behold. The Curse of Ruin is said to be the birthright of all {@book orcs|TDCSR|4|orcs}\u2014a deadly taint carried in the blood of the {@deity The Ruiner|Exandria|TDCSR|Ruiner} that forged their people during the {@book Calamity|TDCSR|1|The Calamity}.",
+				"Innumerevoli leggende invocano {@i hgar'Gruum} la Maledizione della Rovina. I grandi guerrieri orchi sono stati annientati quando la sete di sangue ha preso il sopravvento sulla loro ragione. I potenti maghi guidati da un'ambizione sconsiderata abbandonarono la cautela e approfondirono furiosamente una conoscenza che nessun occhio mortale dovrebbe vedere. Si dice che la Maledizione della Rovina sia un diritto di nascita di tutti {@book orcs|TDCSR|4|orcs}: una contaminazione mortale portata nel sangue dei {@deity The Ruiner|Exandria|TDCSR|Ruiner} che ha forgiato il proprio popolo durante il {@book Calamity|TDCSR|1|The Calamity}.",
 				{
 					"type": "entries",
 					"name": "Truth of Ruin",
 					"page": 39,
 					"entries": [
-						"The truth is that the Curse of Ruin is a myth. The blood of the {@deity The Ruiner|Exandria|TDCSR|Ruiner} granted {@book orcs|TDCSR|4|orcs} physical strength and superhuman endurance, but it imparted none of the Betrayer God's evil. The power of the myth, however, is more ruinous than any magic."
+						"La verità è che la Maledizione della Rovina è un mito. Il sangue del {@deity The Ruiner|Exandria|TDCSR|Ruiner} ha concesso {@book orcs|TDCSR|4|orcs} forza fisica e resistenza sovrumana, ma non ha impartito nulla del male del Dio Traditore. Il potere del mito, però, è più rovinoso di qualunque magia."
 					]
 				},
 				{
@@ -2167,7 +2167,7 @@
 					"name": "Consequences of the Myth",
 					"page": 39,
 					"entries": [
-						"Countless superstitious folk across Exandria\u2014including many {@book orcs|TDCSR|4|orcs} themselves\u2014believe in the Curse of Ruin. This belief doesn't make the curse any more real. The myth's existence is a convenient way for any one orc to ignore the real consequences of their mistakes, or of any act of thoughtless harm\u2014the curse takes the blame. Even worse is when this \"birthright\" is leveled at wise, even-tempered {@book orcs|TDCSR|4|orcs} who have done nothing wrong, and their frustrated reactions are then taken as proof of the curse's existence."
+						"Innumerevoli persone superstiziose in tutta Exandria, inclusi molti {@book orcs|TDCSR|4|orcs} stessi, credono nella Maledizione della Rovina. Questa convinzione non rende la maledizione più reale. L'esistenza del mito è un modo conveniente per qualsiasi orco di ignorare le reali conseguenze dei propri errori, o di qualsiasi atto di danno sconsiderato: la maledizione si prende la colpa. Ancora peggio è quando questo \"diritto di nascita\" viene attribuito a persone sagge e di buon carattere {@book orcs|TDCSR|4|orcs} che non hanno fatto nulla di male, e le loro reazioni frustrate vengono poi prese come prova dell'esistenza della maledizione."
 					]
 				}
 			],
@@ -2179,14 +2179,14 @@
 			"page": 39,
 			"type": "Curse",
 			"entries": [
-				"The insidious voice of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor}, both damnable and damning, invades the minds of countless people across Tal'Dorei who have been afflicted by the Curse of Strife. The curse is especially prevalent in {@book Rifenmist|TDCSR|3|Rifenmist Peninsula}, where the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} faithful clerics bestow it upon their soldiery, transforming them into perfect weapons of war. The curse acts in unpredictable ways, turning some into chaotic berserkers, others into obedient legionnaires, and others still into selfish, isolationist thieves. Cultists of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} also use their power to covertly spread the curse throughout hospitable and kind communities across Exandria, aiming to destroy them from within and make them more susceptible to conquest.",
+				"La voce insidiosa del {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor}, sia dannata che dannosa, invade le menti di innumerevoli persone in tutta Tal'Dorei che sono state afflitte dalla Maledizione del Conflitto. La maledizione è particolarmente diffusa in {@book Rifenmist|TDCSR|3|Rifenmist Peninsula}, dove i chierici fedeli {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} la conferiscono ai loro soldati, trasformandoli in perfette armi da guerra. La maledizione agisce in modi imprevedibili, trasformando alcuni in caotici berserker, altri in legionari obbedienti e altri ancora in ladri egoisti e isolazionisti. I cultisti del {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} usano anche il loro potere per diffondere segretamente la maledizione nelle comunità ospitali e gentili di Exandria, con l'obiettivo di distruggerle dall'interno e renderle più suscettibili alla conquista.",
 				{
 					"type": "entries",
 					"name": "Origin of Strife",
 					"page": 39,
 					"entries": [
-						"Such transformations are the result of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} torment, which whispers constantly in the victims' minds. The free goblinkin of Tal'Dorei regard those who spread the curse with special contempt\u2014and those who suffer from it with immense pity.",
-						"For centuries, small-minded people in Tal'Dorei have feared {@book goblins|TDCSR|4|goblinkin} because they are the children of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor}. But while the first {@creature goblin|MM|goblins}, {@creature hobgoblin|MM|hobgoblins}, and {@creature bugbear|MM|bugbears} were created in the {@book Calamity|TDCSR|1|The Calamity} as soldiers for this fell god, the curse does not linger in their blood\u2014it spreads via those who pledge their souls to the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor}. Clerics of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} can use the {@spell bestow curse} spell to inflict the Curse of Strife."
+						"Tali trasformazioni sono il risultato del tormento {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's}, che sussurra costantemente nella mente delle vittime. I goblinkin liberi di Tal'Dorei considerano coloro che diffondono la maledizione con speciale disprezzo e coloro che ne soffrono con immensa pietà.",
+						"Per secoli, le persone meschine di Tal'Dorei hanno avuto paura {@book goblins|TDCSR|4|goblinkin} perché sono figli di {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor}. Ma mentre i primi {@creature goblin|MM|goblins}, {@creature hobgoblin|MM|hobgoblins} e {@creature bugbear|MM|bugbears} sono stati creati nel {@book Calamity|TDCSR|1|The Calamity} come soldati per questo dio malvagio, la maledizione non persiste nel loro sangue: si diffonde attraverso coloro che offrono la propria anima al {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor}. I chierici del {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} possono usare l'incantesimo {@spell bestow curse} per infliggere la Maledizione del Conflitto."
 					]
 				},
 				{
@@ -2194,7 +2194,7 @@
 					"name": "Curing the Curse",
 					"page": 39,
 					"entries": [
-						"Creatures who experience kindness or suffer near-death experiences can have epiphanies that allow their true self to tear through the bloody shroud of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} lies. A curse-afflicted creature who spends one week being treated with love and compassion instead of hatred and fear can make a {@dc 20} Wisdom {@quickref saving throws|PHB|2|1|saving throw}, breaking the curse on a success. The {@spell remove curse} spell also immediately ends the curse\u2014and many reformed clerics of the {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} have united with clerics of other faiths to loosen the bloody god's grip on their families."
+						"Le creature che provano gentilezza o soffrono esperienze di pre-morte possono avere epifanie che permettono al loro vero sé di squarciare il sudario insanguinato delle {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor's} bugie. Una creatura afflitta da una maledizione che trascorre una settimana a essere trattata con amore e compassione invece che con odio e paura può ottenere {@dc 20} Saggezza {@quickref saving throws|PHB|2|1|saving throw}, spezzando la maledizione in caso di successo. L'incantesimo {@spell remove curse} pone inoltre fine immediatamente alla maledizione e molti chierici riformati del {@deity The Strife Emperor|Exandria|TDCSR|Strife Emperor} si sono uniti con chierici di altre fedi per allentare la presa del dio sanguinario sulle loro famiglie."
 					]
 				}
 			],
@@ -2206,8 +2206,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a {@spell reincarnate} spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.",
-				"The beneficiary of this dark gift loses all of its teeth until it reincarnates for the third and final time."
+				"Il dono di Dahlver-Nar è il potere di vivere molte vite. Dopo aver ricevuto questo dono oscuro, il beneficiario si reincarna istantaneamente quando muore, come se fosse il bersaglio di un incantesimo {@spell reincarnate}. Il nuovo corpo appare entro 3 metri da quello vecchio. Dopo essere stato utilizzato tre volte, il dono oscuro svanisce.",
+				"Il beneficiario di questo dono oscuro perde tutti i denti finché non si reincarna per la terza ed ultima volta."
 			]
 		},
 		{
@@ -2216,8 +2216,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the {@spell cone of cold} spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the beneficiary also gains the benefits of a {@item ring of warmth}.",
-				"The beneficiary of this dark gift gains the following flaw: \"Fire terrifies me.\""
+				"Il dono di Delban è il potere di scatenare un freddo mortale. Questo dono oscuro consente al suo beneficiario di lanciare l'incantesimo {@spell cone of cold} come azione. Dopo essere stato usato sette volte, il dono oscuro svanisce. Fino a quando non svanisce, il beneficiario ottiene anche i benefici di un {@item ring of warmth}.",
+				"Il beneficiario di questo dono oscuro ottiene il seguente difetto: \"Il fuoco mi terrorizza\"."
 			]
 		},
 		{
@@ -2226,8 +2226,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Drizlash's gift is the power to walk on walls and ceilings. This dark gift allows its beneficiary to climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
-				"The beneficiary of this dark gift grows an extra eye somewhere on its body. The eye is blind and ever open."
+				"Il dono di Drizlash è il potere di camminare su muri e soffitti. Questo dono oscuro consente al suo beneficiario di arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica.",
+				"Al beneficiario di questo dono oscuro cresce un occhio in più da qualche parte sul suo corpo. L'occhio è cieco e sempre aperto."
 			]
 		},
 		{
@@ -2236,8 +2236,8 @@
 			"page": 191,
 			"type": "Charm",
 			"entries": [
-				"Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the {@spell contagion} spell as an action. After it has been used three times, the dark gift vanishes.",
-				"The beneficiary of this dark gift reeks of filth."
+				"Il dono di Fekre è il potere di diffondere la malattia. Questo dono oscuro consente al suo beneficiario di lanciare l'incantesimo {@spell contagion} come azione. Dopo essere stato utilizzato tre volte, il dono oscuro svanisce.",
+				"Il beneficiario di questo dono oscuro puzza di sporcizia."
 			]
 		},
 		{
@@ -2246,8 +2246,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a {@item belt of fire giant strength}. This benefit lasts for 10 days, after which the dark gift vanishes.",
-				"The beneficiary of this dark gift the following flaw: \"I like to bully others and make them feel weak and inferior.\""
+				"Il dono di Taar Haak è una grande forza. Questo dono oscuro garantisce al suo beneficiario il beneficio di un {@item belt of fire giant strength}. Questo beneficio dura 10 giorni, trascorsi i quali il dono oscuro svanisce.",
+				"Il beneficiario di questo dono oscuro ha il seguente difetto: \"Mi piace fare il prepotente con gli altri e farli sentire deboli e inferiori\"."
 			]
 		},
 		{
@@ -2256,8 +2256,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Khirad's gift is the power of divination. This gift allows its beneficiary to cast the {@spell scrying} spell as an action. After it has been used three times, the dark gift vanishes.",
-				"The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil."
+				"Il dono di Khirad è il potere della divinazione. Questo regalo consente al suo beneficiario di lanciare l'incantesimo {@spell scrying} come azione. Dopo essere stato utilizzato tre volte, il dono oscuro svanisce.",
+				"La voce del beneficiario diventa un sussurro basso e il suo sorriso diventa crudele e malvagio."
 			]
 		},
 		{
@@ -2266,8 +2266,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Norganas's gift is the power to turn life into undeath. This dark gift allows its beneficiary to cast the {@spell finger of death} spell as an action. After it has been used three times, the dark gift vanishes. When it vanishes, the beneficiary must succeed on a {@dc 15} Constitution saving throw or drop to 0 hit points.",
-				"This dark gift turns the beneficiary's blood pitch black and viscid, like tar."
+				"Il dono di Norganas è il potere di trasformare la vita in non morte. Questo dono oscuro consente al suo beneficiario di lanciare l'incantesimo {@spell finger of death} come azione. Dopo essere stato utilizzato tre volte, il dono oscuro svanisce. Quando svanisce, il beneficiario deve riuscire in un tiro salvezza su Costituzione {@dc 15} o scendere a 0 punti ferita.",
+				"Questo dono oscuro rende il sangue del beneficiario nero come la pece e viscoso, come catrame."
 			]
 		},
 		{
@@ -2276,8 +2276,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Savnok's gift is the power to shield the mind. This dark gift takes the form of a {@spell mind blank} spell cast on the beneficiary. The spell has an extended duration of 1 year, after which the dark gift vanishes.",
-				"The beneficiary's eyes melt away upon receiving this dark gift, leaving empty sockets that can still see."
+				"Il dono di Savnok è il potere di proteggere la mente. Questo dono oscuro prende la forma di un incantesimo {@spell mind blank} lanciato sul beneficiario. L'incantesimo ha una durata estesa di 1 anno, trascorso il quale il dono oscuro svanisce.",
+				"Gli occhi del beneficiario si sciolgono dopo aver ricevuto questo dono oscuro, lasciando le orbite vuote che possono ancora vedere."
 			]
 		},
 		{
@@ -2286,8 +2286,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Seriach's gift is the power to summon and control hell hounds. As an action, the beneficiary of this dark gift can summon and control two {@creature hell hound||hell hounds}. Both hounds appear at the same time. The beneficiary can summon hounds only once, and the dark gift vanishes when they die.",
-				"The beneficiary gains the ability to speak and understand Infernal, if he or she doesn't already know the language. (The hell hounds understand no other language.) Sulfurous smoke issues from the beneficiary's pores whenever he or she speaks Infernal."
+				"Il dono di Seriach è il potere di evocare e controllare i segugi infernali. Come azione, il beneficiario di questo dono oscuro può evocarne e controllarne due {@creature hell hound||hell hounds}. Entrambi i segugi compaiono contemporaneamente. Il beneficiario può evocare i segugi una sola volta e il dono oscuro svanisce quando muoiono.",
+				"Il beneficiario acquisisce la capacità di parlare e comprendere l'Infernale, se non conosce già la lingua. (I segugi infernali non capiscono nessun'altra lingua.) Fumo solforoso esce dai pori del beneficiario ogni volta che parla Infernale."
 			]
 		},
 		{
@@ -2296,8 +2296,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Shami-Amourae's gift is the power of persuasion. This dark gift allows its beneficiary to cast the {@spell suggestion} spell as an action, and saving throws against the spell have disadvantage. After it has been used three times, the dark gift vanishes.",
-				"The beneficiary of this dark gift gains an extra finger on each hand, as well as the following flaw: \"I can't get enough pleasure. I desire others to create beauty for me at all times.\""
+				"Il dono di Shami-Amourae è il potere della persuasione. Questo dono oscuro consente al suo beneficiario di lanciare l'incantesimo {@spell suggestion} come azione e i tiri salvezza contro l'incantesimo hanno uno svantaggio. Dopo essere stato utilizzato tre volte, il dono oscuro svanisce.",
+				"Il beneficiario di questo dono oscuro ottiene un dito in più su ciascuna mano, oltre al seguente difetto: \"Non riesco a ottenere abbastanza piacere. Desidero che gli altri creino bellezza per me in ogni momento\"."
 			]
 		},
 		{
@@ -2306,8 +2306,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the {@spell raise dead} spell as an action. After it has been used three times, the dark gift vanishes.",
-				"As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: \"If I help someone, I expect payment in return.\""
+				"Il dono di Sykane è il potere di resuscitare i defunti di recente. Questo dono oscuro consente al suo beneficiario di lanciare l'incantesimo {@spell raise dead} come azione. Dopo essere stato utilizzato tre volte, il dono oscuro svanisce.",
+				"Non appena viene ricevuto questo dono oscuro, gli occhi del beneficiario si illuminano di un giallo malaticcio finché il dono oscuro non svanisce. Il beneficiario guadagna anche il seguente difetto: \"Se aiuto qualcuno, mi aspetto un pagamento in cambio\"."
 			]
 		},
 		{
@@ -2316,8 +2316,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Tarakamedes's gift is the power of flight. The beneficiary of this dark gift grows skeletal wings and gains a flying speed of 50 feet.",
-				"The beneficiary of this dark gift must eat bones or grave dirt to survive. At dawn, if the creature has not eaten at least 1 pound of bones or grave dirt in the past 24 hours, it dies."
+				"Il dono di Tarakamedes è il potere del volo. Al beneficiario di questo dono oscuro crescono ali scheletriche e ottiene una velocità di volo di 15 metri.",
+				"Il beneficiario di questo dono oscuro deve mangiare ossa o terra tombale per sopravvivere. All'alba, se la creatura non ha mangiato almeno mezzo chilo di ossa o terra di tomba nelle ultime 24 ore, muore."
 			]
 		},
 		{
@@ -2326,8 +2326,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an {@item amulet of proof against detection and location} and a {@item ring of evasion}. These benefits last for 10 days, after which the dark gift vanishes.",
-				"The beneficiary of this dark gift becomes twitchy and nervous, and also gains the following flaw: \"I can't give a straight answer to any question put to me.\""
+				"Il dono di Vaund è il potere di evasione. Questo dono oscuro garantisce al suo beneficiario i benefici di un {@item amulet of proof against detection and location} e di un {@item ring of evasion}. Questi benefici durano 10 giorni, trascorsi i quali il dono oscuro svanisce.",
+				"Il beneficiario di questo dono oscuro diventa nervoso e nervoso, e guadagna anche il seguente difetto: \"Non posso dare una risposta diretta a qualsiasi domanda mi venga posta\"."
 			]
 		},
 		{
@@ -2336,8 +2336,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Yog's gift is one of physical resilience. This dark gift increases the beneficiary's hit point maximum by 30. This benefit lasts for 10 days, after which the dark gift vanishes.",
-				"Oily black fur covers the beneficiary's face and body."
+				"Il dono di Yog è la resilienza fisica. Questo dono oscuro aumenta i punti ferita massimi del beneficiario di 30. Questo beneficio dura 10 giorni, dopodiché il dono oscuro svanisce.",
+				"La pelliccia nera e oleosa copre il viso e il corpo del beneficiario."
 			]
 		},
 		{
@@ -2346,8 +2346,8 @@
 			"page": 193,
 			"type": "Charm",
 			"entries": [
-				"Yrrga's gift is the power of true seeing. This dark gift grants its beneficiary the benefits of {@sense truesight} out to a range of 60 feet. These benefits last for 30 days, after which the dark gift vanishes.",
-				"The eyes of the beneficiary become starry voids until the dark gift vanishes. The beneficiary of this dark gift also gains the following flaw: \"I believe that all life is pointless and look forward to death when it finally comes.\""
+				"Il dono di Yrrga è il potere della vera visione. Questo dono oscuro garantisce al suo beneficiario i benefici di {@sense truesight} fino a un raggio di 60 piedi. Questi benefici durano 30 giorni, trascorsi i quali il dono oscuro svanisce.",
+				"Gli occhi del beneficiario diventano vuoti stellati finché il dono oscuro non svanisce. Il beneficiario di questo dono oscuro guadagna anche il seguente difetto: \"Credo che tutta la vita sia inutile e attendo con ansia la morte quando finalmente arriverà\"."
 			]
 		},
 		{
@@ -2356,8 +2356,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Zantras's gift is power that comes from great presence and force of personality. This dark gift increases the beneficiary's Charisma by 4, up to a maximum of 22.",
-				"The beneficiary of this dark gift gains the following flaw: \"I won't take no for an answer.\""
+				"Il dono di Zantras è il potere che deriva dalla grande presenza e dalla forza della personalità. Questo dono oscuro aumenta il Carisma del beneficiario di 4, fino a un massimo di 22.",
+				"Il beneficiario di questo dono oscuro ottiene il seguente difetto: \"Non accetterò un no come risposta\"."
 			]
 		},
 		{
@@ -2366,8 +2366,8 @@
 			"page": 192,
 			"type": "Charm",
 			"entries": [
-				"Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the {@spell lightning bolt} spell as an action. After it has been used three times, the dark gift vanishes.",
-				"As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling."
+				"Il dono di Zrin-Hala è il potere di creare fulmini. Questo dono oscuro consente al suo beneficiario di lanciare l'incantesimo {@spell lightning bolt} come azione. Dopo essere stato utilizzato tre volte, il dono oscuro svanisce.",
+				"Non appena viene ricevuto questo dono oscuro, un lato del viso del beneficiario si affloscia e perde ogni sensibilità."
 			]
 		},
 		{
@@ -2390,7 +2390,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell blink} or {@spell sleep} (3rd-level version) spell. Alternatively, when you take damage, you can use your reaction to turn {@condition invisible} and teleport up to 30 feet to an unoccupied space you can see. You remain {@condition invisible} until the start of your next turn or until you attack or cast a spell. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell blink} o {@spell sleep} (versione di 3° livello). In alternativa, quando subisci danni, puoi usare la tua reazione per girarti {@condition invisible} e teletrasportarti fino a 9 metri in uno spazio non occupato che puoi vedere. Rimani {@condition invisible} fino all'inizio del tuo turno successivo o finché non attacchi o lanci un incantesimo. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -2411,9 +2411,9 @@
 				}
 			],
 			"entries": [
-				"You gain the aid of a draconic familiar, which might be a splinter of the consciousness of a dragon that invested you with power.",
-				"You can cast the {@spell find familiar} spell as a ritual without using any material components. When you cast the spell in this way, your familiar always takes the form of a {@creature pseudodragon}.",
-				"Additionally, when you take the {@action Attack} action on your turn, you can forgo one of your own attacks to allow your pseudodragon familiar to make one attack of its own with its reaction."
+				"Ottieni l'aiuto di un famiglio draconico, che potrebbe essere una scheggia della coscienza di un drago che ti ha investito di potere.",
+				"Puoi lanciare l'incantesimo {@spell find familiar} come rituale senza utilizzare componenti materiali. Quando lanci l'incantesimo in questo modo, il tuo famiglio assume sempre la forma di un {@creature pseudodragon}.",
+				"Inoltre, quando esegui l'azione {@action Attack} nel tuo turno, puoi rinunciare a uno dei tuoi attacchi per consentire al tuo famiglio pseudodrago di effettuare un attacco con la sua reazione."
 			]
 		},
 		{
@@ -2423,7 +2423,7 @@
 			"type": "Draconic Gift",
 			"rarity": "uncommon",
 			"entries": [
-				"You become a dragonborn. You replace the racial traits of your original race with the traits of a chromatic, gem, or metallic dragonborn (detailed in this {@book book|FTD|1|Draconic Races}). The kind of dragonborn you become matches the family of the dragon that is the source of this gift. You can keep any skill proficiencies you gained from your previous race, or you gain proficiency in two skills of your choice."
+				"Diventi un dragonide. Sostituisci i tratti razziali della tua razza originale con i tratti di un dragonide cromatico, gemma o metallico (dettagliati in questo {@book book|FTD|1|Draconic Races}). Il tipo di dragonide che diventi corrisponde alla famiglia del drago che è la fonte di questo dono. Puoi mantenere qualsiasi competenza nelle abilità acquisita nella tua razza precedente, oppure acquisire competenza in due abilità a tua scelta."
 			]
 		},
 		{
@@ -2433,19 +2433,19 @@
 			"type": "Draconic Gift",
 			"rarity": "rare",
 			"entries": [
-				"You gain keen senses like a dragon's.",
+				"Acquisisci sensi acuti come quelli di un drago.",
 				{
 					"type": "entries",
 					"name": "Blindsight",
 					"entries": [
-						"You have {@sense blindsight} to a range of 10 feet. Within that range, you can effectively see anything that isn't behind {@quickref cover||3||total cover}, even if you're {@condition blinded} or in darkness. Moreover, you can see {@condition invisible} creatures within that range, unless the creatures successfully hide from you."
+						"Hai {@sense blindsight} fino a un raggio di 10 piedi. All'interno di tale intervallo, puoi effettivamente vedere tutto ciò che non è dietro {@quickref cover||3||total cover}, anche se sei {@condition blinded} o nell'oscurità. Inoltre, puoi vedere {@condition invisible} le creature all'interno di quell'intervallo, a meno che le creature non si nascondano con successo."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Keen Senses",
 					"entries": [
-						"You have advantage on Wisdom ({@skill Perception}) checks."
+						"Hai vantaggio sulle prove di Saggezza ({@skill Perception})."
 					]
 				}
 			]
@@ -2456,7 +2456,7 @@
 			"page": 178,
 			"type": "Charm",
 			"entries": [
-				"You've seen a glimpse of the Dragon Queen's ambitions. It haunts your dreams but steels your will to oppose her. This charm grants you a +4 bonus on Wisdom saving throws. Once used three times, the charm vanishes. While you have this charm, you suffer unsettling but harmless dreams of ravenous dragons. You also permanently gain the ability to speak Draconic if you couldn't already."
+				"Hai intravisto le ambizioni della Regina Drago. Perseguita i tuoi sogni ma rafforza la tua volontà di opporti a lei. Questo amuleto ti garantisce un bonus di +4 ai tiri salvezza su Saggezza. Una volta utilizzato tre volte, il fascino svanisce. Mentre possiedi questo fascino, soffri di sogni inquietanti ma innocui di draghi famelici. Ottieni anche in modo permanente la capacità di parlare Draconico se non potevi già farlo."
 			]
 		},
 		{
@@ -2477,8 +2477,8 @@
 				}
 			],
 			"entries": [
-				"You have begun to extend your awareness beyond the single world of the Material Plane that is your home.",
-				"You can cast {@spell contact other plane} as a ritual. The entity you contact is a dragon on another world in the Material Plane, so its knowledge of your world might be limited. Also, this dragon is an echo of the dragon who is the source of the gift, which might affect its attitude and behavior toward you."
+				"Hai iniziato ad estendere la tua consapevolezza oltre l'unico mondo del Piano Materiale che è la tua casa.",
+				"Puoi lanciare {@spell contact other plane} come rituale. L'entità che contatti è un drago su un altro mondo nel Piano Materiale, quindi la sua conoscenza del tuo mondo potrebbe essere limitata. Inoltre, questo drago è un'eco del drago che è la fonte del dono, il che potrebbe influenzare il suo atteggiamento e comportamento nei tuoi confronti."
 			]
 		},
 		{
@@ -2502,7 +2502,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Ephara trait}",
-				"Ephara grants you insight into how people communicate. You can cast {@spell comprehend languages} with this trait, requiring no material component, a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest. Intelligence is your spellcasting ability for this spell."
+				"Ephara ti offre informazioni su come le persone comunicano. Puoi lanciare {@spell comprehend languages} con questo tratto, senza richiedere componenti materiali, un numero di volte pari al tuo modificatore di Intelligenza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. L'intelligenza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -2526,7 +2526,7 @@
 			],
 			"entries": [
 				"{@i Piety 25+ Ephara trait}",
-				"You can cast {@spell Mordenkainen's private sanctum} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell."
+				"Puoi lanciare {@spell Mordenkainen's private sanctum} con questo tratto, senza richiedere componenti materiali. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. L'intelligenza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -2536,8 +2536,8 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 10+ Ephara trait}",
-				"You gain advantage on Charisma ({@skill Persuasion}) checks while you are within a city.",
-				"In addition, when you fail an Intelligence check or Intelligence saving throw, you can reroll the die, and you must use the new roll. Once you use this reroll, you can't do so again until you finish a long rest."
+				"Ottieni vantaggio sulle prove di Carisma ({@skill Persuasion}) mentre ti trovi all'interno di una città.",
+				"Inoltre, quando fallisci una prova di Intelligenza o un tiro salvezza su Intelligenza, puoi ritirare il dado e devi utilizzare il nuovo tiro. Una volta utilizzato questo rilancio, non potrai farlo nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Erebos trait}",
-				"As a devotee of Erebos, you have proven yourself an executor of the Underworld's grim laws. You can call on Erebos's favor to cast {@spell bane} with this trait, requiring no material components, a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Come devoto di Erebos, ti sei dimostrato un esecutore delle cupe leggi degli Inferi. Puoi invocare il favore di Erebos per lanciare {@spell bane} con questo tratto, che non richiede componenti materiali, un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Erebos trait}",
-				"When a soul is sent to its rightful place, you can draw on the energy of the Underworld to empower you. When a creature dies within 10 feet of you, you can use your reaction to gain a number of temporary hit points equal to your level."
+				"Quando un'anima viene mandata al posto che le spetta, puoi attingere all'energia degli Inferi per potenziarti. Quando una creatura muore entro 3 metri da te, puoi usare la tua reazione per ottenere un numero di punti ferita temporanei pari al tuo livello."
 			]
 		},
 		{
@@ -2581,7 +2581,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Erebos trait}",
-				"You can cast {@spell vampiric touch} with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Puoi lanciare {@spell vampiric touch} con questa caratteristica. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -2603,7 +2603,7 @@
 				}
 			],
 			"entries": [
-				"You are scarred by knowledge you shouldn't possess. Your eyes turn black, except for your pupils, which turn white. This charm grants you advantage on Charisma ({@skill Persuasion}) checks made to interact with evil creatures. Additionally, you can cast the spell {@spell eyebite} as an action. Your spellcasting ability for this spell is Intelligence, Wisdom, or Charisma (your choice when you gain this charm). Once you cast this spell, you can't cast it again until the next dawn. This charm vanishes after 13 days, when your appearance returns to normal."
+				"Sei segnato da una conoscenza che non dovresti possedere. I tuoi occhi diventano neri, tranne le pupille, che diventano bianche. Questo amuleto ti garantisce un vantaggio sulle prove di Carisma ({@skill Persuasion}) effettuate per interagire con creature malvagie. Inoltre, puoi lanciare l'incantesimo {@spell eyebite} come azione. La tua capacità da incantatore per questo incantesimo è Intelligenza, Saggezza o Carisma (a tua scelta quando ottieni questo fascino). Una volta lanciato questo incantesimo, non potrai lanciarlo di nuovo fino all'alba successiva. Questo fascino svanisce dopo 13 giorni, quando il tuo aspetto ritorna normale."
 			]
 		},
 		{
@@ -2612,7 +2612,7 @@
 			"page": 101,
 			"type": "Charm",
 			"entries": [
-				"Two heroic steeds find you worthy and agree to serve you. This charm has 2 charges. As an action, you can expend 1 charge to summon a {@creature warhorse} wearing plate barding (AC 18). The warhorse serves you for 24 hours, then vanishes."
+				"Due destrieri eroici ti trovano degno e accettano di servirti. Questo amuleto ha 2 cariche. Come azione, puoi spendere 1 carica per evocare un {@creature warhorse} che indossa una bardatura a piastre (CA 18). Il cavallo da guerra ti serve per 24 ore, poi svanisce."
 			]
 		},
 		{
@@ -2621,9 +2621,9 @@
 			"page": 190,
 			"type": "Blessing",
 			"entries": [
-				"Your fate-touched essence can cause events to shift in your favor. When you make an attack roll, an ability check, or a {@quickref saving throws|PHB|2|1|saving throw}, you can choose to reroll the {@dice d20}. You must reroll the die before the outcome of the initial roll is determined.",
-				"Alternatively, when a creature you can see makes an attack against you or makes a {@quickref saving throws|PHB|2|1|saving throw} against one of your spells or features, you can force that creature to reroll the attack roll or {@quickref saving throws|PHB|2|1|saving throw}.",
-				"If the roll that triggers the reroll is made with {@quickref Advantage and Disadvantage|PHB|2|0|advantage} or {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage}, {@dice 2d20|both d20s} are rerolled. Once you use this feature, you can't use it again until you finish a {@quickref resting|PHB|2|0|long rest}."
+				"La tua essenza toccata dal destino può far sì che gli eventi si spostino a tuo favore. Quando effettui un tiro per colpire, una prova di abilità o un {@quickref saving throws|PHB|2|1|saving throw}, puoi scegliere di ripetere il tiro {@dice d20}. È necessario rilanciare il dado prima che venga determinato il risultato del tiro iniziale.",
+				"In alternativa, quando una creatura che puoi vedere effettua un attacco contro di te o effettua un {@quickref saving throws|PHB|2|1|saving throw} contro uno dei tuoi incantesimi o funzionalità, puoi forzare quella creatura a ripetere il tiro per colpire o {@quickref saving throws|PHB|2|1|saving throw}.",
+				"Se il tiro che attiva il rilancio viene effettuato con {@quickref Advantage and Disadvantage|PHB|2|0|advantage} o {@quickref Advantage and Disadvantage|PHB|2|0|disadvantage}, {@dice 2d20|both d20s} viene rilanciato. Una volta utilizzata questa funzionalità, non potrai utilizzarla nuovamente finché non avrai completato un {@quickref resting|PHB|2|0|long rest}."
 			]
 		},
 		{
@@ -2636,14 +2636,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"Once on each of your turns when you hit a creature with a weapon attack roll, you can force the target to move up to 10 feet away from you in a direction of your choice. A creature that can't be {@condition frightened} is immune to this effect."
+						"Una volta per ciascuno dei tuoi turni in cui colpisci una creatura con un tiro per colpire con un'arma, puoi forzare il bersaglio a spostarsi fino a 3 metri di distanza da te in una direzione a tua scelta. Una creatura che non può esserlo {@condition frightened} è immune a questo effetto."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"If you start your turn {@condition frightened}, you take {@damage 2d6} psychic damage."
+						"Se inizi il tuo turno {@condition frightened}, subisci {@damage 2d6} danni psichici."
 					]
 				}
 			]
@@ -2658,14 +2658,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"You can't be {@condition frightened} while within 10 feet of an ally. If you're already {@condition frightened} and move within 10 feet of an ally, the {@condition frightened} condition ends on you."
+						"Non puoi essere {@condition frightened} mentre sei a 3 metri da un alleato. Se sei già {@condition frightened} e ti muovi entro 10 piedi da un alleato, la condizione {@condition frightened} termina per te."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"You have disadvantage on Wisdom and Charisma saving throws while you aren't within 10 feet of an ally."
+						"Hai svantaggio ai tiri salvezza su Saggezza e Carisma finché non ti trovi entro 3 metri da un alleato."
 					]
 				}
 			]
@@ -2680,14 +2680,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"When you take damage, you can use your reaction to turn {@condition invisible} and teleport up to 60 feet to an unoccupied space you can see. You remain {@condition invisible} until the start of your next turn or until you make a damage roll or cast a spell."
+						"Quando subisci danni, puoi usare la tua reazione per girarti {@condition invisible} e teletrasportarti fino a 60 piedi in uno spazio non occupato che puoi vedere. Rimani {@condition invisible} fino all'inizio del tuo turno successivo o finché non effettui un tiro per i danni o lanci un incantesimo."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"You have disadvantage on Wisdom checks."
+						"Hai svantaggio alle prove di Saggezza."
 					]
 				}
 			]
@@ -2702,14 +2702,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"You are immune to the {@condition charmed} condition."
+						"Sei immune alla condizione {@condition charmed}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"You can't take the {@action Help} action."
+						"Non puoi eseguire l'azione {@action Help}."
 					]
 				}
 			]
@@ -2724,14 +2724,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"Another creature can't force you to move anywhere you don't want to go."
+						"Un'altra creatura non può obbligarti a spostarti dove non vuoi andare."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"You can't take the {@action Disengage} or {@action Dodge} action."
+						"Non puoi eseguire l'azione {@action Disengage} o {@action Dodge}."
 					]
 				}
 			]
@@ -2746,14 +2746,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"When a creature damages you with a weapon attack or a spell, you can focus your hatred on that creature. Until the end of your next turn, you have advantage on attack rolls you make against the creature. You can focus your hatred on only one creature at a time."
+						"Quando una creatura ti danneggia con un attacco con un'arma o con un incantesimo, puoi concentrare il tuo odio su quella creatura. Fino alla fine del tuo turno successivo, hai vantaggio sui tiri per colpire che effettui contro la creatura. Puoi concentrare il tuo odio su una sola creatura alla volta."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"You have disadvantage on Charisma checks."
+						"Hai svantaggio alle prove di Carisma."
 					]
 				}
 			]
@@ -2768,14 +2768,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"When you fail a Wisdom or Charisma saving throw, you can reroll it with advantage, potentially turning a failure into a success. After you use this benefit, you must finish a long rest before you can use it again."
+						"Quando fallisci un tiro salvezza su Saggezza o Carisma, puoi ripeterlo con vantaggio, trasformando potenzialmente un fallimento in un successo. Dopo aver utilizzato questo beneficio, è necessario terminare un riposo lungo prima di poterlo utilizzare nuovamente."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"If you use this fragment's benefit and it doesn't turn a failed saving throw into a success, you are {@condition incapacitated} until the end of your next turn, overcome with despair."
+						"Se usi il beneficio di questo frammento e non trasforma un tiro salvezza fallito in un successo, sei {@condition incapacitated} fino alla fine del tuo prossimo turno, sopraffatto dalla disperazione."
 					]
 				}
 			]
@@ -2790,14 +2790,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"Each time you spend a Hit Die to regain hit points, you regain additional hit points equal to your proficiency bonus."
+						"Ogni volta che spendi un Dado Vita per recuperare punti ferita, recuperi ulteriori punti ferita pari al tuo bonus di competenza."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"You have disadvantage on death saving throws."
+						"Hai svantaggio sui tiri salvezza dalla morte."
 					]
 				}
 			]
@@ -2812,14 +2812,14 @@
 					"type": "entries",
 					"name": "Benefit",
 					"entries": [
-						"When you hit a creature with an attack, you can choose to deal either an extra {@damage 2d6} psychic damage to the creature or {@damage 4d6} psychic damage to each other creature within 5 feet of it. After you use this benefit, you must finish a short or long rest before you can use it again."
+						"Quando colpisci una creatura con un attacco, puoi scegliere di infliggere un danno psichico extra {@damage 2d6} alla creatura o {@damage 4d6} danno psichico a ogni altra creatura entro 5 piedi da essa. Dopo aver utilizzato questo beneficio, è necessario terminare un riposo breve o lungo prima di poterlo utilizzare nuovamente."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Drawback",
 					"entries": [
-						"Whenever you are not {@condition unconscious} and fail a saving throw, you take {@damage 2d6} psychic damage."
+						"Ogni volta che non lo sei {@condition unconscious} e fallisci un tiro salvezza, subisci {@damage 2d6} danni psichici."
 					]
 				}
 			]
@@ -2831,9 +2831,9 @@
 			"type": "Draconic Gift",
 			"rarity": "very rare",
 			"entries": [
-				"Echoes of a dragon's might linger around you, and you can call on them to inspire fear in those who stand against you.",
-				"As a bonus action, you can manifest your frightful presence. Each creature of your choice that is within 120 feet of you and aware of you must make a Wisdom saving throw against a DC equal to 8 + your proficiency bonus + your Charisma modifier. A creature that fails becomes {@condition frightened} of you for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
-				"Once you use this ability a number of times equal to your proficiency bonus, you can't use it again until you finish a long rest."
+				"Gli echi di un drago potrebbero aleggiare intorno a te e puoi invocarli per ispirare paura in coloro che si oppongono a te.",
+				"Come azione bonus, puoi manifestare la tua spaventosa presenza. Ogni creatura di tua scelta che si trova entro 32 metri da te e che è consapevole di te deve effettuare un tiro salvezza su Saggezza contro una CD pari a 8 + il tuo bonus di competenza + il tuo modificatore di Carisma. Una creatura che fallisce diventa {@condition frightened} di te per 1 minuto. La creatura può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stessa in caso di successo.",
+				"Una volta utilizzata questa capacità un numero di volte pari al proprio bonus di competenza, non è possibile utilizzarla nuovamente finché non si termina un riposo lungo."
 			]
 		},
 		{
@@ -2857,7 +2857,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell dispel magic}, {@spell false life} (3rd-level version), or {@spell stinking cloud} spell. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell dispel magic}, {@spell false life} (versione di 3° livello) o {@spell stinking cloud}. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -2880,7 +2880,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell heroism} or {@spell thunderwave} spell (3rd-level versions). Alternatively, as a reaction when you miss with a weapon attack, you can make another attack against the target you missed. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell heroism} o {@spell thunderwave} (versioni di 3° livello). In alternativa, come reazione quando manchi un attacco con un'arma, puoi effettuare un altro attacco contro il bersaglio che hai mancato. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -2889,9 +2889,9 @@
 			"page": 116,
 			"type": "Charm",
 			"entries": [
-				"Habbakuk blesses your travels through the Northern Wastes. This charm grants you advantage on Wisdom ({@skill Survival}) checks made to notice the Wash's waters filling chasms.",
-				"Additionally, while traveling, you and up to 5 other creatures with you ignore {@book difficult terrain|PHB|8|Difficult Terrain} outdoors in the Northern Wastes, allowing you to move at double the pace listed on the Northern Wastes Land Travel table (see the \"{@adventure Into the Wastes|DSotDQ|5|Into the Wastes}\" section earlier in this chapter).",
-				"This charm vanishes 24 hours after you leave the Northern Wastes."
+				"Habbakuk benedice i tuoi viaggi attraverso le Desolazioni del Nord. Questo amuleto ti garantisce vantaggio sulle prove di Saggezza ({@skill Survival}) effettuate per notare le acque del Wash che riempiono gli abissi.",
+				"Inoltre, durante il viaggio, tu e fino a 5 altre creature con te ignorate {@book difficult terrain|PHB|8|Difficult Terrain} all'aperto nelle Desolazioni settentrionali, permettendoti di muoverti al doppio del ritmo indicato nella tabella Viaggio via terra nelle Desolazioni settentrionali (vedi la sezione \"{@adventure Into the Wastes|DSotDQ|5|Into the Wastes}\" all'inizio di questo capitolo).",
+				"Questo fascino svanisce 24 ore dopo aver lasciato le Desolazioni del Nord."
 			]
 		},
 		{
@@ -2901,7 +2901,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Heliod trait}",
-				"As a devotee of Heliod, you have proven yourself a worthy champion of the sun god. You can call on Heliod's favor and cast {@spell bless} with this trait, requiring no material components. Heliod's blessing manifests as a nimbus around the affected creatures, causing them to shed dim light in a 5-foot radius until the spell ends. You can cast the spell in this way a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Come devoto di Eliod, ti sei dimostrato un degno campione del dio del sole. Puoi invocare il favore di Eliod e lanciare {@spell bless} con questo tratto, senza richiedere componenti materiali. La benedizione di Eliod si manifesta come un'aureola attorno alle creature influenzate, facendole emettere luce fioca in un raggio di 1,5 metri finché l'incantesimo non termina. Puoi lanciare l'incantesimo in questo modo un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -2911,7 +2911,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Heliod trait}",
-				"You grow accustomed to the blazing radiance of the sun; you have advantage on saving throws against being {@condition blinded}, and you have resistance to fire damage."
+				"Ti abitui allo splendore ardente del sole; hai vantaggio sui tiri salvezza contro l'essere {@condition blinded} e hai resistenza ai danni da fuoco."
 			]
 		},
 		{
@@ -2935,7 +2935,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Heliod trait}",
-				"You can cast {@spell daylight} with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Puoi lanciare {@spell daylight} con questa caratteristica. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -2951,7 +2951,7 @@
 						{
 							"type": "item",
 							"name": "Gender:",
-							"entry": "Female"
+							"entry": "Femmina"
 						},
 						{
 							"type": "item",
@@ -2961,12 +2961,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Fickle and unpredictable"
+							"entry": "Volubile e imprevedibile"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I never stick to a plan.\""
+							"entry": "\"Non mi attengo mai a un piano.\""
 						},
 						{
 							"type": "item",
@@ -2976,7 +2976,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host's Dexterity score becomes 23, unless it is already higher."
+							"entry": "Il punteggio di Destrezza dell'ospite diventa 23, a meno che non sia già più alto."
 						}
 					]
 				}
@@ -3003,7 +3003,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Iroas trait}",
-				"As a devotee of Iroas, you have earned his favor through victories won in his name. You can cast {@spell compelled duel} with this trait a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest. Charisma is your spellcasting ability for this spell."
+				"In quanto devoto di Iroas, ti sei guadagnato il suo favore grazie alle vittorie ottenute in suo nome. Puoi lanciare {@spell compelled duel} con questo tratto un numero di volte pari al tuo modificatore di Carisma (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. Il Carisma è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -3013,7 +3013,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Iroas trait}",
-				"As a bonus action, you can call on Iroas's blessing, gaining the following benefit for 1 minute or until you are {@condition incapacitated}: creatures within 30 feet of you can't gain advantage on attack rolls against you. Once you use this trait, you can't do so again until you finish a long rest."
+				"Come azione bonus, puoi invocare la benedizione di Iroas, ottenendo il seguente beneficio per 1 minuto o finché non lo sei {@condition incapacitated}: le creature entro 9 metri da te non possono ottenere vantaggio sui tiri per colpire contro di te. Una volta utilizzato questo tratto, non è possibile farlo nuovamente finché non si termina un riposo lungo."
 			]
 		},
 		{
@@ -3037,8 +3037,8 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Iroas trait}",
-				"You can cast {@spell crusader's mantle} with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for this spell.",
-				"In addition, you have advantage on saving throws against being {@condition frightened}."
+				"Puoi lanciare {@spell crusader's mantle} con questa caratteristica. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. Il Carisma è la tua abilità da incantatore per questo incantesimo.",
+				"Inoltre, hai un vantaggio sui tiri salvezza contro l'essere {@condition frightened}."
 			]
 		},
 		{
@@ -3061,7 +3061,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell dispel magic} or {@spell lightning bolt} spell. Alternatively, as an action, you can regain one expended spell slot of 3rd level or lower. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell dispel magic} o {@spell lightning bolt}. In alternativa, come azione, puoi recuperare uno slot incantesimo speso di 3° livello o inferiore. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -3070,8 +3070,8 @@
 			"page": 179,
 			"type": "Charm",
 			"entries": [
-				"While you have Joho in your possession, it grants you the benefit of a {@item helm of comprehending languages}. This benefit lasts for 7 days while the doll is in your possession, after which the charm vanishes from you.",
-				"The doll is a Tiny construct. Destroying the doll causes the child's soul within it to become trapped in {@adventure the Soulmonger|ToA|5|The Soulmonger}.",
+				"Mentre hai Joho in tuo possesso, ti garantisce il beneficio di un {@item helm of comprehending languages}. Questo beneficio dura 7 giorni mentre la bambola è in tuo possesso, dopodiché il fascino svanisce da te.",
+				"La bambola è un costrutto Tiny. Distruggere la bambola fa sì che l'anima del bambino al suo interno rimanga intrappolata {@adventure the Soulmonger|ToA|5|The Soulmonger}.",
 				{
 					"type": "statblockInline",
 					"dataType": "object",
@@ -3106,7 +3106,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Karametra trait}",
-				"As a devotee of Karametra, you have proven yourself a worthy potential champion of the harvest god. As a bonus action, you can invoke her protection; spectral plants cover you, providing you with a +1 bonus to AC for 1 minute. Once you use this trait, you can't use it again until you finish a long rest."
+				"Come devoto di Karametra, ti sei dimostrato un degno potenziale campione del dio del raccolto. Come azione bonus, puoi invocare la sua protezione; le piante spettrali ti coprono, fornendoti un bonus di +1 alla CA per 1 minuto. Una volta utilizzato questo tratto, non è possibile utilizzarlo nuovamente finché non si termina un riposo lungo."
 			]
 		},
 		{
@@ -3116,7 +3116,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Karametra trait}",
-				"By performing an hour-long ritual, you can conjure enough grapes to fill three vials (4 ounces each) of wine. Each vial serves as a {@item potion of healing} for 24 hours, after which it loses this property. Once you use this trait, you can't do so again until you finish a long rest."
+				"Eseguendo un rituale della durata di un'ora, puoi evocare abbastanza uva da riempire tre fiale (4 once ciascuna) di vino. Ogni fiala funge da {@item potion of healing} per 24 ore, dopodiché perde questa proprietà. Una volta utilizzato questo tratto, non è possibile farlo nuovamente finché non si termina un riposo lungo."
 			]
 		},
 		{
@@ -3140,8 +3140,8 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Karametra trait}",
-				"You can cast {@spell create food and water} with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.",
-				"In addition, you have advantage on saving throws against being {@condition poisoned}."
+				"Puoi lanciare {@spell create food and water} con questa caratteristica. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo.",
+				"Inoltre, hai un vantaggio sui tiri salvezza contro l'essere {@condition poisoned}."
 			]
 		},
 		{
@@ -3151,7 +3151,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Keranos trait}",
-				"As a devotee of Keranos, you have proven your wisdom and your allegiance to the storm lord. Once on each of your turns when you hit a creature with a weapon attack, you can deal an extra {@damage 1d6} lightning damage to the target. You can use this trait a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest."
+				"Come devoto di Keranos, hai dimostrato la tua saggezza e la tua fedeltà al Signore della Tempesta. Una volta in ciascuno dei tuoi turni in cui colpisci una creatura con un attacco con un'arma, puoi infliggere un danno da fulmine extra {@damage 1d6} al bersaglio. Puoi utilizzare questo tratto un numero di volte pari al tuo modificatore di Intelligenza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo."
 			]
 		},
 		{
@@ -3161,7 +3161,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Keranos trait}",
-				"The energy of the storm fills your being, granting you advantage on initiative rolls."
+				"L'energia della tempesta riempie il tuo essere, garantendoti vantaggio sui tiri di iniziativa."
 			]
 		},
 		{
@@ -3171,7 +3171,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 10+ Keranos trait}",
-				"When you fail an Intelligence or a Wisdom saving throw, you can reroll the die, and you must use the new roll. Once you use this trait, you can't do so again until you finish a long rest."
+				"Quando fallisci un tiro salvezza su Intelligenza o Saggezza, puoi ritirare il dado e devi utilizzare il nuovo tiro. Una volta utilizzato questo tratto, non è possibile farlo nuovamente finché non si termina un riposo lungo."
 			]
 		},
 		{
@@ -3195,7 +3195,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Klothys trait}",
-				"As a devotee of Klothys, you can manipulate the bonds of destiny that invisibly entangle every living thing. You can cast {@spell command} with this trait a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Come devoto di Klothys, puoi manipolare i vincoli del destino che intrappolano invisibilmente ogni essere vivente. Puoi lanciare {@spell command} con questo tratto un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -3205,7 +3205,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Klothys trait}",
-				"You develop a second sense, allowing you to intuit the tug and pull of destiny. You can't be surprised, provided you aren't {@condition incapacitated}."
+				"Sviluppi un secondo senso, che ti permette di intuire la forza del destino. Non puoi essere sorpreso, a patto che non lo sia {@condition incapacitated}."
 			]
 		},
 		{
@@ -3229,8 +3229,8 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Klothys trait}",
-				"You can cast {@spell clairvoyance} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.",
-				"In addition, you have advantage on saving throws against being {@condition charmed}."
+				"Puoi lanciare {@spell clairvoyance} con questo tratto, senza richiedere componenti materiali. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo.",
+				"Inoltre, hai un vantaggio sui tiri salvezza contro l'essere {@condition charmed}."
 			]
 		},
 		{
@@ -3259,8 +3259,8 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Kruphix trait}",
-				"As a devotee of Kruphix, you have proven yourself a devotee of reality's mysteries and laws. You can cast {@spell detect magic} with this trait a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.",
-				"In addition, you know the {@spell mage hand} cantrip. Intelligence is your spellcasting ability for these spells."
+				"Come devoto di Kruphix, hai dimostrato di essere un devoto dei misteri e delle leggi della realtà. Puoi lanciare {@spell detect magic} con questo tratto un numero di volte pari al tuo modificatore di Intelligenza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo.",
+				"Inoltre, conosci il trucchetto {@spell mage hand}. L'intelligenza è la tua abilità da incantatore per questi incantesimi."
 			]
 		},
 		{
@@ -3279,7 +3279,7 @@
 			],
 			"entries": [
 				"{@i Piety 25+ Kruphix trait}",
-				"As a true champion of Kruphix, you can use your {@spell mage hand} cantrip to protect yourself. While your spectral hand is within 5 feet of you, you gain a +2 bonus to your AC against ranged attacks."
+				"Da vero campione di Kruphix, puoi usare il tuo trucchetto {@spell mage hand} per proteggerti. Mentre la tua mano spettrale è entro 1,5 metri da te, ottieni bonus +2 alla tua CA contro gli attacchi a distanza."
 			]
 		},
 		{
@@ -3303,8 +3303,8 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Kruphix trait}",
-				"You can cast {@spell detect thoughts} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell.",
-				"In addition, you have advantage on saving throws against being {@condition charmed}."
+				"Puoi lanciare {@spell detect thoughts} con questo tratto, senza richiedere componenti materiali. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. L'intelligenza è la tua abilità da incantatore per questo incantesimo.",
+				"Inoltre, hai un vantaggio sui tiri salvezza contro l'essere {@condition charmed}."
 			]
 		},
 		{
@@ -3330,12 +3330,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Wild and spirited"
+							"entry": "Selvaggio e vivace"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I am fearless and not afraid to take great risks.\""
+							"entry": "\"Sono impavido e non ho paura di correre grandi rischi.\""
 						},
 						{
 							"type": "item",
@@ -3345,7 +3345,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host's Strength score becomes 23, unless it is already higher."
+							"entry": "Il punteggio di Forza dell'ospite diventa 23, a meno che non sia già più alto."
 						}
 					]
 				}
@@ -3356,7 +3356,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"You can expend the Charm (no action required) to end the {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, or {@condition Poisoned|XPHB} condition on yourself."
+				"Puoi spendere il fascino (nessuna azione richiesta) per porre fine alla condizione {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB} o {@condition Poisoned|XPHB} su te stesso."
 			]
 		},
 		{
@@ -3364,7 +3364,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you use a spell slot to cast a spell from the Necromancy school, you can expend the Charm (no action required) to treat the spell as if it were cast using a spell slot 1 level above the slot expended."
+				"Quando usi uno slot incantesimo per lanciare un incantesimo della scuola di Negromanzia, puoi spendere il Fascino (non è richiesta alcuna azione) per trattare l'incantesimo come se fosse lanciato utilizzando uno slot incantesimo di 1 livello sopra lo slot speso."
 			]
 		},
 		{
@@ -3372,7 +3372,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you use a spell slot to cast a spell that deals Fire damage, you can expend the Charm (no action required) to treat the spell as if it were cast using a spell slot 1 level above the slot expended."
+				"Quando usi uno slot incantesimo per lanciare un incantesimo che infligge danni da fuoco, puoi spendere il fascino (non è richiesta alcuna azione) per trattare l'incantesimo come se fosse lanciato utilizzando uno slot incantesimo di 1 livello sopra lo slot speso."
 			]
 		},
 		{
@@ -3380,7 +3380,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you use a spell slot to cast a spell that restores Hit Points or deals Radiant damage, you can expend the Charm (no action required) to treat the spell as if it were cast using a spell slot 1 level above the slot expended."
+				"Quando usi uno slot incantesimo per lanciare un incantesimo che ripristina Punti Ferita o infligge danni Radianti, puoi spendere il Fascino (non è richiesta alcuna azione) per trattare l'incantesimo come se fosse lanciato utilizzando uno slot incantesimo di 1 livello sopra lo slot speso."
 			]
 		},
 		{
@@ -3388,7 +3388,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you use a spell slot to cast a spell that conjures or summons a Beast, an Elemental, or a Fey (including {@spell Conjure Animals|XPHB}, {@spell Conjure Elemental|XPHB}, {@spell Conjure Fey|XPHB}, {@spell Conjure Minor Elementals|XPHB}, {@spell Conjure Woodland Beings|XPHB}, {@spell Find Steed|XPHB}, {@spell Summon Beast|XPHB}, {@spell Summon Elemental|XPHB}, or {@spell Summon Fey|XPHB}), you can expend the Charm (no action required) to treat the spell as if it were cast using a spell slot 1 level above the slot expended."
+				"Quando usi uno slot incantesimo per lanciare un incantesimo che evoca o evoca una Bestia, un Elementale o una Fata (incluso {@spell Conjure Animals|XPHB}, {@spell Conjure Elemental|XPHB}, {@spell Conjure Fey|XPHB}, {@spell Conjure Minor Elementals|XPHB}, {@spell Conjure Woodland Beings|XPHB}, {@spell Find Steed|XPHB}, {@spell Summon Beast|XPHB}, {@spell Summon Elemental|XPHB} o {@spell Summon Fey|XPHB}), puoi spendere il Fascino (non è richiesta alcuna azione) per trattare l'incantesimo come se fosse lanciato utilizzando uno slot incantesimo di 1 livello sopra lo slot speso."
 			]
 		},
 		{
@@ -3396,7 +3396,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you use a spell slot to cast a spell that animates or summons an Undead (including {@spell Animate Dead|XPHB}, {@spell Create Undead|XPHB}, or {@spell Summon Undead|XPHB}), you can expend the Charm (no action required) to treat the spell as if it were cast using a spell slot 1 level above the slot expended."
+				"Quando usi uno slot incantesimo per lanciare un incantesimo che anima o evoca un non morto (incluso {@spell Animate Dead|XPHB}, {@spell Create Undead|XPHB} o {@spell Summon Undead|XPHB}), puoi spendere il Fascino (nessuna azione richiesta) per trattare l'incantesimo come se fosse lanciato utilizzando uno slot incantesimo di 1 livello sopra lo slot speso."
 			]
 		},
 		{
@@ -3404,7 +3404,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you use a spell slot to cast a spell that deals Cold damage, you can expend the Charm (no action required) to treat the spell as if it were cast using a spell slot 1 level above the slot expended."
+				"Quando usi uno slot incantesimo per lanciare un incantesimo che infligge danni da freddo, puoi spendere il fascino (non è richiesta alcuna azione) per trattare l'incantesimo come se fosse lanciato utilizzando uno slot incantesimo di 1 livello sopra lo slot speso."
 			]
 		},
 		{
@@ -3412,7 +3412,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you score a Critical Hit, you can expend the Charm (no action required) to deal an extra 10 damage of one of the types dealt by the attack."
+				"Quando ottieni un colpo critico, puoi spendere il fascino (non è richiesta alcuna azione) per infliggere 10 danni extra di uno dei tipi inflitti dall'attacco."
 			]
 		},
 		{
@@ -3420,7 +3420,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"You can expend the Charm as a Bonus Action to gain a Fly Speed equal to your Speed for 1 minute."
+				"Puoi spendere il fascino come azione bonus per ottenere una velocità di volo pari alla tua velocità per 1 minuto."
 			]
 		},
 		{
@@ -3428,7 +3428,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you cast a spell from the Enchantment or Illusion school, you can expend the Charm (no action required) to give one target of the spell Disadvantage on its saving throw against the spell."
+				"Quando lanci un incantesimo della scuola Ammaliamento o Illusione, puoi spendere il Fascino (non è richiesta alcuna azione) per conferire Svantaggio a un bersaglio dell'incantesimo al suo tiro salvezza contro l'incantesimo."
 			]
 		},
 		{
@@ -3436,7 +3436,7 @@
 			"source": "EFA",
 			"type": "Charm",
 			"entries": [
-				"When you use a spell slot to cast a spell, you can expend the Charm (no action required) to roll on the {@table Wild Magic Surge|XPHB|Wild Magic Surge table} in the {@book Player's Handbook|XPHB}."
+				"Quando usi uno slot incantesimo per lanciare un incantesimo, puoi spendere il Fascino (non è richiesta alcuna azione) per tirare sul {@table Wild Magic Surge|XPHB|Wild Magic Surge table} nel {@book Player's Handbook|XPHB}."
 			]
 		},
 		{
@@ -3462,12 +3462,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Truthful and kind"
+							"entry": "Sincero e gentile"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I must always speak the truth.\""
+							"entry": "\"Devo sempre dire la verità.\""
 						},
 						{
 							"type": "item",
@@ -3477,7 +3477,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host can use an action to turn {@condition invisible}. Anything the host is wearing or carrying is {@condition invisible} as long as it is on the host's person. The effect ends if the host attacks, casts a spell, forces a saving throw, or deals damage."
+							"entry": "L'host può utilizzare un'azione per girare {@condition invisible}. Tutto ciò che l'host indossa o trasporta è {@condition invisible} purché sia ​​con la persona dell'host. L'effetto termina se l'ospite attacca, lancia un incantesimo, impone un tiro salvezza o infligge danni."
 						}
 					]
 				}
@@ -3490,7 +3490,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Mogis trait}",
-				"As a devotee of Mogis, you have shown yourself to be a brutal combatant. You can call on Mogis's favor and cast {@spell wrathful smite} with this trait. Mogis's blessing manifest as a blood-red glow around your weapon, causing it to shed dim light in a 5-foot radius until the spell ends. You can cast the spell in this way a number of times equal to your Constitution modifier (minimum of once). You regain all expended uses when you finish a long rest. Constitution is your spellcasting ability for this spell."
+				"Come devoto di Mogis, hai dimostrato di essere un combattente brutale. Puoi invocare il favore di Mogis e lanciare {@spell wrathful smite} con questa caratteristica. La benedizione di Mogis si manifesta come un bagliore rosso sangue attorno alla tua arma, facendole emettere una luce fioca in un raggio di 1,5 metri fino al termine dell'incantesimo. Puoi lanciare l'incantesimo in questo modo un numero di volte pari al tuo modificatore di Costituzione (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. Costituzione è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -3500,7 +3500,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Mogis trait}",
-				"Countless battles and vicious visions have given you focus. You have advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+				"Innumerevoli battaglie e visioni feroci ti hanno dato concentrazione. Hai vantaggio sui tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}."
 			]
 		},
 		{
@@ -3524,7 +3524,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Mogis trait}",
-				"You can cast {@spell blinding smite} with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Constitution is your spellcasting ability for this spell."
+				"Puoi lanciare {@spell blinding smite} con questa caratteristica. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. Costituzione è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -3540,7 +3540,7 @@
 						{
 							"type": "item",
 							"name": "Gender:",
-							"entry": "Female"
+							"entry": "Femmina"
 						},
 						{
 							"type": "item",
@@ -3550,12 +3550,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Selfish and cruel"
+							"entry": "Egoista e crudele"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I won't share with others.\""
+							"entry": "\"Non lo condividerò con gli altri.\""
 						},
 						{
 							"type": "item",
@@ -3565,7 +3565,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host can move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. It gains a climbing speed equal to its walking speed."
+							"entry": "L'ospite può muoversi su, giù e su superfici verticali e capovolto lungo i soffitti, lasciando le mani libere. Ottiene una velocità di scalata pari alla sua velocità di camminata."
 						}
 					]
 				}
@@ -3592,7 +3592,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Nylea trait}",
-				"As a devotee of Nylea, you have proven yourself a guardian of the wilds. You can cast {@spell hunter's mark} with this trait a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Come devoto di Nylea, ti sei dimostrato un guardiano delle terre selvagge. Puoi lanciare {@spell hunter's mark} con questo tratto un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -3602,7 +3602,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Nylea trait}",
-				"When a beast is about to attack you, it must make a {@dc 15} Wisdom saving throw. On a failed save, the creature must choose a different target, or the attack automatically misses you. On a successful save, the creature is immune to this trait for 24 hours."
+				"Quando una bestia sta per attaccarti, deve effettuare un tiro salvezza su Saggezza {@dc 15}. Se fallisce il Tiro Salvezza, la creatura deve scegliere un bersaglio diverso, altrimenti l'attacco ti manca automaticamente. Se il Tiro Salvezza riesce, la creatura diventa immune a questo tratto per 24 ore."
 			]
 		},
 		{
@@ -3626,8 +3626,8 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Nylea trait}",
-				"You can cast {@spell speak with animals} with this trait a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell.",
-				"In addition, you have advantage on saving throws against being {@condition poisoned}."
+				"Puoi lanciare {@spell speak with animals} con questo tratto un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo.",
+				"Inoltre, hai un vantaggio sui tiri salvezza contro l'essere {@condition poisoned}."
 			]
 		},
 		{
@@ -3643,7 +3643,7 @@
 						{
 							"type": "item",
 							"name": "Gender:",
-							"entry": "Female"
+							"entry": "Femmina"
 						},
 						{
 							"type": "item",
@@ -3653,12 +3653,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Nervous and obsessive"
+							"entry": "Nervoso e ossessivo"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I am risk-averse and a slave to routine.\""
+							"entry": "\"Sono avverso al rischio e schiavo della routine.\""
 						},
 						{
 							"type": "item",
@@ -3668,7 +3668,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host can attune to one additional magic item. When Obo'laka leaves the host, all magic items to which the host is attuned are no longer attuned to it."
+							"entry": "L'ospite può sintonizzarsi con un oggetto magico aggiuntivo. Quando Obo'laka lascia l'ospite, tutti gli oggetti magici con cui l'ospite è in sintonia non sono più in sintonia con lui."
 						}
 					]
 				}
@@ -3693,7 +3693,7 @@
 				}
 			],
 			"entries": [
-				"You can use your Observatory to peer into the far corners of {@book Wildspace|XDMG|5|Wildspace} and the {@book Astral Plane|XDMG|5|Astral Plane}. After spending a Long Rest in your Observatory, you gain a magical Charm (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Contact Other Plane|XPHB} without expending a spell slot. You can't gain this Charm again while you still have it."
+				"Puoi usare il tuo Osservatorio per scrutare gli angoli più remoti di {@book Wildspace|XDMG|5|Wildspace} e {@book Astral Plane|XDMG|5|Astral Plane}. Dopo aver trascorso un riposo lungo nel tuo Osservatorio, ottieni un talismano magico (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Contact Other Plane|XPHB} senza spendere uno slot incantesimo. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 			]
 		},
 		{
@@ -3716,7 +3716,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell bestow curse} or {@spell fear} spell. Alternatively, when a creature you can see within 30 feet of you is reduced to 0 hit points, you can use your reaction to have it drop to 1 hit point instead. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell bestow curse} o {@spell fear}. In alternativa, quando una creatura che puoi vedere entro 9 metri da te viene ridotta a 0 punti ferita, puoi usare la tua reazione per farla scendere invece a 1 punto ferita. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -3742,12 +3742,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Shrewd and conniving"
+							"entry": "Astuto e connivente"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I bow before no one and expect others to do as I command.\""
+							"entry": "\"Non mi inchino davanti a nessuno e mi aspetto che gli altri facciano ciò che comando.\""
 						},
 						{
 							"type": "item",
@@ -3757,7 +3757,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host can't be {@status surprised}, gains advantage on all Wisdom checks, and never takes damage from falling."
+							"entry": "L'ospite non può essere {@status surprised}, ottiene vantaggio su tutte le prove di Saggezza e non subisce mai danni dalla caduta."
 						}
 					]
 				}
@@ -3784,7 +3784,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Pharika trait}",
-				"As a devotee of Pharika, you have power over affliction. You can cast {@spell ray of sickness} with this trait a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest. Wisdom is your spellcasting ability for this spell."
+				"Come devoto di Farika, hai potere sulle afflizioni. Puoi lanciare {@spell ray of sickness} con questo tratto un numero di volte pari al tuo modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. La saggezza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -3794,15 +3794,15 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Pharika trait}",
-				"Pharika blesses you with Pharika's Balm, an effect that can cure or enfeeble. As an action, you can touch a creature and choose one of the following:",
+				"Pharika ti benedice con il Balsamo di Pharika, un effetto che può curare o indebolire. Come azione, puoi toccare una creatura e scegliere una delle seguenti opzioni:",
 				{
 					"type": "list",
 					"items": [
-						"The target regains hit points equal to {@dice 1d8} + your Wisdom modifier, and you can cure the target of one disease or neutralize one poison affecting it.",
-						"The target must succeed on a {@dc 15} Constitution saving throw, or for 1 minute, the target deals only half damage with weapon attacks. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success."
+						"Il bersaglio riacquista punti ferita pari a {@dice 1d8} + il tuo modificatore di Saggezza e puoi curare il bersaglio da una malattia o neutralizzare un veleno che lo colpisce.",
+						"Il bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 15} altrimenti, per 1 minuto, il bersaglio infligge solo la metà dei danni con gli attacchi con l'arma. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto in caso di successo."
 					]
 				},
-				"You can use this action a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest."
+				"È possibile utilizzare questa azione un numero di volte pari al proprio modificatore di Saggezza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo."
 			]
 		},
 		{
@@ -3812,7 +3812,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 10+ Pharika trait}",
-				"Pharika's blessing shields you from most maladies. You have advantage on saving throws against being {@condition poisoned}, and you are immune to disease."
+				"La benedizione di Farika ti protegge dalla maggior parte delle malattie. Hai vantaggio sui tiri salvezza contro l'essere {@condition poisoned} e sei immune alle malattie."
 			]
 		},
 		{
@@ -3822,7 +3822,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 3+ Phenax trait}",
-				"As a devotee of Phenax, you have proven yourself accomplished at deception. You can call on Phenax's blessing and cast {@spell disguise self} with this trait. While the spell is active, your shadow still resembles your original form. You can cast the spell in this way a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest. Charisma is your spellcasting ability for this spell."
+				"Come devoto di Phenax, hai dimostrato di essere abile nell'inganno. Puoi invocare la benedizione di Fenax e lanciare {@spell disguise self} con questa caratteristica. Mentre l'incantesimo è attivo, la tua ombra assomiglia ancora alla tua forma originale. Puoi lanciare l'incantesimo in questo modo un numero di volte pari al tuo modificatore di Carisma (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. Il Carisma è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -3832,7 +3832,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Phenax trait}",
-				"When you are hidden from a creature and miss it with an attack, making the attack doesn't reveal your position."
+				"Quando sei nascosto da una creatura e la manchi con un attacco, effettuare l'attacco non rivela la tua posizione."
 			]
 		},
 		{
@@ -3842,7 +3842,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 10+ Phenax trait}",
-				"Your words are inspired by Theros's greatest liar. You have advantage on Charisma ({@skill Deception}) checks."
+				"Le tue parole sono ispirate al più grande bugiardo di Theros. Hai vantaggio sulle prove di Carisma ({@skill Deception})."
 			]
 		},
 		{
@@ -3852,8 +3852,8 @@
 			"type": "Draconic Gift",
 			"rarity": "very rare",
 			"entries": [
-				"The psionic energy of a gem dragon empowers your mind. You gain resistance to psychic damage.",
-				"In addition, you learn the {@spell telekinesis} spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can't do so again until you finish a long rest. You can also cast this spell using spell slots you have of the appropriate level. The spellcasting ability is Intelligence, Wisdom, or Charisma when you cast the spell with this gift (choose when you gain the gift)."
+				"L'energia psionica di un drago gemma potenzia la tua mente. Ottieni resistenza ai danni psichici.",
+				"Inoltre, impari l'incantesimo {@spell telekinesis}. Puoi lanciare questo incantesimo senza spendere uno slot incantesimo. Una volta lanciato l'incantesimo in questo modo, non potrai farlo di nuovo finché non avrai terminato un riposo lungo. Puoi anche lanciare questo incantesimo usando gli slot incantesimo che possiedi del livello appropriato. L'abilità da incantatore è Intelligenza, Saggezza o Carisma quando lanci l'incantesimo con questo dono (scegli quando ottieni il dono)."
 			]
 		},
 		{
@@ -3882,8 +3882,8 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Purphoros trait}",
-				"As a devotee of Purphoros, you have drawn the notice of the forge god with your skill. You can cast {@spell shield of faith} with this trait, requiring no material components, a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.",
-				"In addition, you know the {@spell mending} cantrip. Intelligence is your spellcasting ability for these spells."
+				"Come devoto di Purphoros, hai attirato l'attenzione del dio della forgia con la tua abilità. Puoi lanciare {@spell shield of faith} con questo tratto, senza richiedere componenti materiali, un numero di volte pari al tuo modificatore di Intelligenza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo.",
+				"Inoltre, conosci il trucchetto {@spell mending}. L'intelligenza è la tua abilità da incantatore per questi incantesimi."
 			]
 		},
 		{
@@ -3893,7 +3893,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Purphoros trait}",
-				"While you are standing and an effect would push you 1 foot or more, you can use your reaction to not be pushed."
+				"Mentre sei in piedi e un effetto ti spingerebbe di 30 cm o più, puoi usare la tua reazione per non essere spinto."
 			]
 		},
 		{
@@ -3917,8 +3917,8 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Purphoros trait}",
-				"You can cast {@spell heat metal} with this trait, requiring no material components. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell.",
-				"In addition, you have advantage on saving throws against being knocked {@condition prone}."
+				"Puoi lanciare {@spell heat metal} con questo tratto, senza richiedere componenti materiali. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. L'intelligenza è la tua abilità da incantatore per questo incantesimo.",
+				"Inoltre, hai un vantaggio sui tiri salvezza contro gli urti {@condition prone}."
 			]
 		},
 		{
@@ -3942,7 +3942,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell crown of madness}, {@spell hellish rebuke}, or {@spell shatter} spell. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell crown of madness}, {@spell hellish rebuke} o {@spell shatter}. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -3964,7 +3964,7 @@
 				}
 			],
 			"entries": [
-				"After spending a {@variantrule Long Rest|XPHB} in your {@book Bastion|XDMG|7}, you gain a magical Charm (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Greater Restoration|XPHB} once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it."
+				"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo {@book Bastion|XDMG|7}, ottieni un talismano magico (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Greater Restoration|XPHB} una volta senza spendere uno slot incantesimo o utilizzare componenti materiali. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 			]
 		},
 		{
@@ -3986,7 +3986,7 @@
 				}
 			],
 			"entries": [
-				"After spending a {@variantrule Long Rest|XPHB} in your {@book Bastion|XDMG|7}, you gain a magical Charm (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Healing Word|XPHB} once without expending a spell slot. You can't gain this Charm again while you still have it."
+				"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo {@book Bastion|XDMG|7}, ottieni un talismano magico (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Healing Word|XPHB} una volta senza spendere uno slot incantesimo. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 			]
 		},
 		{
@@ -4008,7 +4008,7 @@
 				}
 			],
 			"entries": [
-				"After spending a {@variantrule Long Rest|XPHB} in your {@book Bastion|XDMG|7}, you gain a magical Charm (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Heal|XPHB} once without expending a spell slot. You can't gain this Charm again while you still have it."
+				"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo {@book Bastion|XDMG|7}, ottieni un talismano magico (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Heal|XPHB} una volta senza spendere uno slot incantesimo. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 			]
 		},
 		{
@@ -4018,7 +4018,7 @@
 			"type": "Draconic Gift",
 			"rarity": "legendary",
 			"entries": [
-				"Your skin toughens, making you resistant to certain types of physical harm. You gain resistance to piercing and slashing damage."
+				"La tua pelle si rinforza, rendendoti resistente a certi tipi di danni fisici. Ottieni resistenza ai danni perforanti e taglienti."
 			]
 		},
 		{
@@ -4041,7 +4041,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell aura of vitality} or {@spell conjure animals} spell. Alternatively, as an action, you can give up to three creatures of your choice within 30 feet of you resistance to bludgeoning, piercing, and slashing damage until the end of your next turn. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell aura of vitality} o {@spell conjure animals}. In alternativa, come azione, puoi conferire a un massimo di tre creature di tua scelta entro 9 metri da te resistenza ai danni contundenti, perforanti e taglienti fino alla fine del tuo turno successivo. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -4057,7 +4057,7 @@
 						{
 							"type": "item",
 							"name": "Gender:",
-							"entry": "Female"
+							"entry": "Femmina"
 						},
 						{
 							"type": "item",
@@ -4067,12 +4067,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Wise and virtuous"
+							"entry": "Saggio e virtuoso"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I never show mercy to evildoers.\""
+							"entry": "\"Non mostro mai misericordia ai malfattori.\""
 						},
 						{
 							"type": "item",
@@ -4082,7 +4082,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host can make one extra attack when taking the {@action Attack} action on its turn."
+							"entry": "L'host può effettuare un attacco extra quando esegue l'azione {@action Attack} nel suo turno."
 						}
 					]
 				}
@@ -4109,7 +4109,7 @@
 				}
 			],
 			"entries": [
-				"When you activate this charm, you can cast the {@spell enhance ability} (3rd-level version), {@spell enlarge/reduce}, or {@spell gaseous form} spell. The charm vanishes after you activate it."
+				"Quando attivi questo incantesimo, puoi lanciare l'incantesimo {@spell enhance ability} (versione di 3° livello), {@spell enlarge/reduce} o {@spell gaseous form}. L'incantesimo svanisce dopo averlo attivato."
 			]
 		},
 		{
@@ -4131,8 +4131,8 @@
 				}
 			],
 			"entries": [
-				"While you have Strawbundle in your possession, this charm allows you to cast the {@spell etherealness} spell as an action, no components required. After it is used three times, the charm vanishes.",
-				"The doll is a Tiny construct. Destroying the doll causes the child's soul within it to become trapped in {@adventure the Soulmonger|ToA|5|The Soulmonger}.",
+				"Mentre sei in possesso di Strawbundle, questo amuleto ti consente di lanciare l'incantesimo {@spell etherealness} come azione, senza componenti richiesti. Dopo essere stato utilizzato tre volte, l'incantesimo svanisce.",
+				"La bambola è un costrutto Tiny. Distruggere la bambola fa sì che l'anima del bambino al suo interno rimanga intrappolata {@adventure the Soulmonger|ToA|5|The Soulmonger}.",
 				{
 					"type": "statblockInline",
 					"dataType": "object",
@@ -4181,7 +4181,7 @@
 			],
 			"entries": [
 				"{@i Piety 3+ Thassa trait}",
-				"As a devotee of Thassa, you have proven yourself a worthy representative of the god of the sea. You can cast {@spell fog cloud} with this trait. Fog created in this way smells strongly of the sea. You can cast the spell in this way a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest. Intelligence is your spellcasting ability for this spell."
+				"Come devoto di Thassa, ti sei dimostrato un degno rappresentante del dio del mare. Puoi lanciare {@spell fog cloud} con questa caratteristica. La nebbia creata in questo modo odora fortemente di mare. Puoi lanciare l'incantesimo in questo modo un numero di volte pari al tuo modificatore di Intelligenza (minimo una volta). Recuperi tutti gli usi spesi quando termini un riposo lungo. L'intelligenza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -4191,7 +4191,7 @@
 			"type": "Piety Trait",
 			"entries": [
 				"{@i Piety 25+ Thassa trait}",
-				"You are inspired by the tempestuous, uncontrollable nature of the sea; you have advantage on saving throws against being {@condition charmed} or {@condition restrained}."
+				"Ti ispiri alla natura tempestosa e incontrollabile del mare; hai vantaggio sui tiri salvezza contro l'essere {@condition charmed} o {@condition restrained}."
 			]
 		},
 		{
@@ -4215,7 +4215,7 @@
 			],
 			"entries": [
 				"{@i Piety 10+ Thassa trait}",
-				"You can cast {@spell blink} with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for this spell."
+				"Puoi lanciare {@spell blink} con questa caratteristica. Una volta lanciato l'incantesimo in questo modo, non puoi farlo di nuovo finché non finisci un riposo lungo. L'intelligenza è la tua abilità da incantatore per questo incantesimo."
 			]
 		},
 		{
@@ -4224,8 +4224,8 @@
 			"page": 45,
 			"type": "Other",
 			"entries": [
-				"Ever changing, mirthful, and beautiful, the primal elves could assume whatever sex they liked. When they bowed to Lolth's influence and chose to fix their physical forms, elves lost the ability to transform in this way. Yet occasionally elves are born who are so androgynous that they are proclaimed to be among the blessed of Corellon\u2014living symbols of the god's love and of the primal elves' original fluid state of being. Many of Corellon's chief priests bear this blessing.",
-				"The rarest of these blessed elves can change their sex whenever they finish a long rest-a miracle celebrated by elves of all sorts except drow. (The DM decides whether an elf can manifest this miracle.) Dark elves find this ability to be terrifying and characterize it as a curse, for it could destabilize their entire society. If Corellon's blessing manifests in a drow, that elf usually flees to the surface world to seek shelter among those dedicated to Corellon."
+				"In continua evoluzione, allegri e belli, gli elfi primordiali potevano assumere qualunque sesso preferissero. Quando si piegarono all'influenza di Lolth e scelsero di fissare le loro forme fisiche, gli elfi persero la capacità di trasformarsi in questo modo. Eppure, occasionalmente, nascono elfi così androgini da essere proclamati tra i benedetti di Corellon: simboli viventi dell'amore del dio e dell'originale stato fluido dell'essere degli elfi primordiali. Molti dei capi sacerdoti di Corellon portano questa benedizione.",
+				"I più rari tra questi elfi benedetti possono cambiare sesso ogni volta che terminano un lungo riposo: un miracolo celebrato da elfi di ogni tipo, tranne che dai drow. (Il DM decide se un elfo può manifestare questo miracolo.) Gli elfi oscuri trovano questa capacità terrificante e la caratterizzano come una maledizione, poiché potrebbe destabilizzare la loro intera società. Se la benedizione di Corellon si manifesta in un drow, quell'elfo di solito fugge nel mondo di superficie per cercare rifugio tra coloro che si dedicano a Corellon."
 			]
 		},
 		{
@@ -4234,7 +4234,7 @@
 			"page": 68,
 			"type": "Charm",
 			"entries": [
-				"While holding the scale, you can use an action to summon Renesnuprah, an {@creature adult time dragon|MPP} (see {@book Morte's Planar Parade|MPP}). The dragon appears in an unoccupied space of your choice that you can see within 60 feet of you and aids you for 10 minutes. Afterward, the time dragon vanishes, and the scale crumbles."
+				"Mentre tieni la bilancia, puoi usare un'azione per evocare Renesnuprah, un {@creature adult time dragon|MPP} (vedi {@book Morte's Planar Parade|MPP}). Il drago appare in uno spazio non occupato a tua scelta e che puoi vedere entro 18 metri da te e ti aiuta per 10 minuti. Successivamente, il drago del tempo svanisce e la scaglia si sbriciola."
 			]
 		},
 		{
@@ -4244,26 +4244,26 @@
 			"type": "Draconic Gift",
 			"rarity": "uncommon",
 			"entries": [
-				"You gain some of the majestic presence of a dragon.",
+				"Ottieni parte della maestosa presenza di un drago.",
 				{
 					"type": "entries",
 					"name": "Dragon's Speech",
 					"entries": [
-						"You can speak, read, and write Draconic."
+						"Puoi parlare, leggere e scrivere in Draconico."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Dragon's Voice",
 					"entries": [
-						"As a bonus action, you can make your voice audible up to 300 feet away for 1 minute."
+						"Come azione bonus, puoi rendere la tua voce udibile fino a 90 metri di distanza per 1 minuto."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Dragon's Wiles",
 					"entries": [
-						"You have advantage on Charisma ({@skill Persuasion}) checks."
+						"Hai vantaggio sulle prove di Carisma ({@skill Persuasion})."
 					]
 				}
 			]
@@ -4281,7 +4281,7 @@
 						{
 							"type": "item",
 							"name": "Gender:",
-							"entry": "Female"
+							"entry": "Femmina"
 						},
 						{
 							"type": "item",
@@ -4291,12 +4291,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Self-absorbed and indecisive"
+							"entry": "Egocentrico e indeciso"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I am incapable of making decisions.\""
+							"entry": "\"Sono incapace di prendere decisioni.\""
 						},
 						{
 							"type": "item",
@@ -4306,7 +4306,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host's Constitution score becomes 23, unless it is already higher."
+							"entry": "Il punteggio di Costituzione dell'ospite diventa 23, a meno che non sia già più alto."
 						}
 					]
 				}
@@ -4318,7 +4318,7 @@
 			"page": 227,
 			"type": "Charm",
 			"entries": [
-				"You gain 1 foot of height every hour and become proportionately heavier until you stand 21 feet tall and weigh 7,700 pounds. When you are 9 feet tall, your Strength becomes 19 unless it is already higher. For every 3 additional feet of height you gain, your Strength increases by 1, to a maximum of 23. Armor and clothing you are wearing and weapons you are carrying magically increase in size to match your growth. If you are the recipient of a {@spell greater restoration} spell or similar magic, this charm vanishes from you, and you immediately shrink back to normal size, along with any armor, clothing, and weapons in your possession."
+				"Guadagni 1 piede di altezza ogni ora e diventi proporzionalmente più pesante fino a raggiungere 21 piedi di altezza e pesare 7.700 libbre. Quando sei alto 9 piedi, la tua Forza diventa 19 a meno che non sia già più alta. Per ogni 3 piedi aggiuntivi di altezza che guadagni, la tua Forza aumenta di 1, fino a un massimo di 23. L'armatura, i vestiti che indossi e le armi che porti aumentano magicamente di dimensioni per adattarsi alla tua crescita. Se sei il destinatario di un incantesimo {@spell greater restoration} o di una magia simile, questo fascino svanisce da te e ritorni immediatamente alle dimensioni normali, insieme a qualsiasi armatura, abbigliamento e arma in tuo possesso."
 			]
 		},
 		{
@@ -4344,12 +4344,12 @@
 						{
 							"type": "item",
 							"name": "Personality:",
-							"entry": "Violent and deranged"
+							"entry": "Violento e squilibrato"
 						},
 						{
 							"type": "item",
 							"name": "Inherited flaw:",
-							"entry": "\"I act without concern for the well-being of others.\""
+							"entry": "\"Agisco senza preoccuparmi del benessere degli altri.\""
 						},
 						{
 							"type": "item",
@@ -4359,7 +4359,7 @@
 						{
 							"type": "item",
 							"name": "Power:",
-							"entry": "The host can use an action to unleash a psionic assault on a creature it can see within 60 feet of it. The target must succeed on a {@dc 16} Wisdom saving throw or be {@condition stunned} until the end of the target's next turn."
+							"entry": "L'ospite può usare un'azione per scatenare un assalto psionico su una creatura che può vedere entro 18 metri da lui. Il bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 16} o essere {@condition stunned} fino alla fine del turno successivo del bersaglio."
 						}
 					]
 				}
@@ -4391,33 +4391,33 @@
 				}
 			],
 			"entries": [
-				"A human can be transformed into a yuan-ti pureblood. The transformation can be undone only by a {@spell wish} spell or divine intervention. A character who survives it gains a random form of {@table indefinite madness} (see \"{@book Madness|DMG|8|Madness}\" in chapter 8 of the {@i Dungeon Master's Guide}). A human that undergoes and survives the ritual retains its traits and gains the following yuan-ti racial traits.",
+				"Un essere umano può essere trasformato in un purosangue Yuan-ti. La trasformazione può essere annullata solo da un incantesimo {@spell wish} o da un intervento divino. Un personaggio che sopravvive ottiene una forma casuale di {@table indefinite madness} (vedere \"{@book Madness|DMG|8|Madness}\" nel capitolo 8 di {@i Dungeon Master's Guide}). Un essere umano che si sottopone e sopravvive al rituale conserva i suoi tratti e acquisisce i seguenti tratti razziali yuan-ti.",
 				{
 					"type": "entries",
 					"name": "Darkvision",
 					"entries": [
-						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+						"Puoi vedere in condizioni di scarsa luce entro 18 metri da te come se fosse luce intensa, e nell'oscurità come se fosse luce fioca. Non puoi distinguere i colori nell'oscurità, solo le sfumature di grigio."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Innate Spellcasting",
 					"entries": [
-						"You know the {@spell poison spray} cantrip. You can cast {@spell animal friendship} an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast {@spell suggestion} with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+						"Conosci il trucchetto {@spell poison spray}. Puoi lanciare {@spell animal friendship} un numero illimitato di volte con questa caratteristica, ma puoi bersagliare solo i serpenti con essa. A partire dal 3° livello, puoi anche lanciare {@spell suggestion} con questo tratto. Una volta lanciato, non puoi farlo di nuovo finché non finisci un riposo lungo. Il carisma è la tua abilità da incantatore per questi incantesimi."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Magic Resistance",
 					"entries": [
-						"You have advantage on saving throws against spells and other magical effects."
+						"Hai vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Poison Immunity",
 					"entries": [
-						"You are immune to poison damage and the {@condition poisoned} condition."
+						"Sei immune ai danni da veleno e alla condizione {@condition poisoned}."
 					]
 				}
 			]

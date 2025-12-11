@@ -7,8 +7,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Originating from the dream-warped elven realm of Silvanesti, dream eaters are violent manifestations of nightmares and subconscious terrors. The true appearance of a dream eater is obscured, as the dream eater twists its hazy form into surreal illusions of its foes' greatest fears. However, all dream eaters share one thing: a gaping, always-smiling mouth, which it reveals before engulfing its prey in a phantasmagorical nightmare.",
-						"The key to defeating a dream eater lies not in brute force but in the ability to pierce its illusions and wrest others from its terrors. As such, bards and other persuasive adventurers find themselves uniquely poised to confront a hungering dream eater."
+						"Provenienti dal regno elfico deformato dai sogni di Silvanesti, i mangiatori di sogni sono manifestazioni violente di incubi e terrori subconsci. Il vero aspetto di un mangiatore di sogni è oscurato, poiché il mangiatore di sogni distorce la sua forma confusa in illusioni surreali delle più grandi paure dei suoi nemici. Tuttavia, tutti i mangiatori di sogni hanno in comune una cosa: una bocca spalancata, sempre sorridente, che rivela prima di inghiottire la sua preda in un incubo fantasmagorico.",
+						"La chiave per sconfiggere un mangiatore di sogni non risiede nella forza bruta, ma nella capacità di perforare le sue illusioni e strappare gli altri ai suoi terrori. Pertanto, i bardi e altri persuasivi avventurieri si trovano nella posizione unica di affrontare un affamato divoratore di sogni."
 					]
 				}
 			],
@@ -32,11 +32,11 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Emperor Ariakas,",
-								"Glory to the Dragon Queen's name! Our designs on Abanasinia unfold according to your plans. This is no thanks to the so-called \"adviser\" I've been saddled with, the dragon Ember. The beast is terrifying, both in might and cunning, but it undermines my every design and terrorizes my forces. It's too canny to be caught, but I'm certain some portion of the troops we've lost to Qualinesti ambushes in fact smolder in the wyrm's gut. It thinks I don't hear, but it whispers curses in reply to my every command. Were it not one of our queen's favored children, I would have replaced my bed linens with its hide.",
-								"I will complete our queen's work with the troops at my disposal, but when I return to Neraka, I would have this viper reassigned. I recommend to Icewall.",
-								"By Her Will, Verminaard",
-								"Highlord of the Red Dragon Army"
+								"Imperatore Ariakas,",
+								"Gloria al nome della Regina Drago! I nostri progetti su Abanasinia si sviluppano secondo i tuoi piani. E questo non è dovuto al cosiddetto \"consigliere\" che mi è stato affidato, il drago Ember. La bestia è terrificante, sia in potenza che in astuzia, ma mina ogni mio progetto e terrorizza le mie forze. È troppo astuto per essere catturato, ma sono certo che una parte delle truppe che abbiamo perso nelle imboscate di Qualinesti in realtà brucia nelle viscere del dragone. Pensa che non senta, ma sussurra imprecazioni in risposta ad ogni mio comando. Se non fosse stato uno dei figli prediletti della nostra regina, avrei sostituito la mia biancheria da letto con la sua pelle.",
+								"Completerò il lavoro della nostra regina con le truppe a mia disposizione, ma quando tornerò a Neraka, farei riassegnare questa vipera. Raccomando a Icewall.",
+								"Per sua volontà, Verminaard",
+								"Signore dell'Armata del Drago Rosso"
 							]
 						}
 					]
@@ -44,8 +44,8 @@
 				{
 					"type": "section",
 					"entries": [
-						"Also known as Pyros, Ember is an imperious and ruthless red dragon who serves the Dragon Queen Takhisis. In his service to the Dragon Queen, Ember has taken on many roles at her behest\u2014including that of a black-robed human member of the Mages of High Sorcery\u2014but he is best known as the adviser of Dragon Highlord Verminaard, leader of the Red Dragon Army.",
-						"Empowered by Takhisis herself, Ember's innate fire can sear those nearby, and his breath weapon is a molten storm of ash and flame. In combat, Ember wears a set of magic plate armor that bolsters his already-impressive might, allowing him to annihilate entire cohorts with terrifying ease."
+						"Conosciuto anche come Pyros, Ember è un drago rosso imperioso e spietato che serve la Regina dei Draghi Takhisis. Nel suo servizio alla Regina dei Draghi, Ember ha assunto molti ruoli per suo volere, incluso quello di un membro umano vestito di nero dei Maghi dell'Alta Stregoneria, ma è meglio conosciuto come consigliere del Sommo Signore dei Draghi Verminaard, leader dell'Esercito del Drago Rosso.",
+						"Potenziato dalla stessa Takhisis, il fuoco innato di Ember può bruciare chi si trova nelle vicinanze, e il suo soffio è una tempesta fusa di cenere e fiamme. In combattimento, Ember indossa un set di armature a piastre magiche che rafforzano la sua già impressionante potenza, permettendogli di annientare intere schiere con terrificante facilità."
 					]
 				}
 			],
@@ -66,7 +66,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Said to be older than the trees themselves, the Forest Master is a wise and powerful unicorn who rules over the creatures of Darken Wood in Krynn. The ancient being's body is wreathed in protective briars, and moonlight dances around the unicorn's horn. Those who threaten the Forest Master's lands find themselves beguiled by magical mist and nigh-impregnable thorny thickets, but those who gain the Forest Master's favor are blessed with healing and protected as they traverse the woods."
+						"Si dice che sia più antico degli alberi stessi, il Signore della Foresta è un unicorno saggio e potente che governa le creature di Darken Wood a Krynn. Il corpo dell'antico essere è avvolto in rovi protettivi e la luce della luna danza attorno al corno dell'unicorno. Coloro che minacciano le terre del Signore della Foresta si ritrovano ingannati dalla nebbia magica e dai boschetti spinosi quasi inespugnabili, ma coloro che ottengono il favore del Signore della Foresta vengono benedetti con la guarigione e protetti mentre attraversano i boschi."
 					]
 				}
 			],
@@ -87,8 +87,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Foresworn are the spirits of fallen Solamnic knights who attend to their duty long after death. Armed with spectral armor and weaponry, a foresworn maintains the martial prowess it had in life and can call on magic and its fallen brethren for aid.",
-						"Like revenants, foresworn fixate on a singular purpose, and they refuse to abandon their undead state until the duty they had in life is fulfilled. For example, a foresworn might be pledged to protect a family's bloodline from harm or guard a dangerous artifact against thieves. If a foresworn is destroyed before it can complete its duty, it returns within a few days, its strength and purpose renewed."
+						"I Rinnegati sono gli spiriti dei cavalieri solamnici caduti che compiono il loro dovere molto tempo dopo la morte. Armato di armi e armature spettrali, un rinnegato mantiene l'abilità marziale che aveva in vita e può invocare l'aiuto della magia e dei suoi fratelli caduti.",
+						"Come i revenant, i rinnegati si fissano su un unico scopo e si rifiutano di abbandonare il loro stato di non morti finché il dovere che avevano in vita non viene adempiuto. Ad esempio, un rinnegato potrebbe essere impegnato a proteggere la linea di sangue di una famiglia dai danni o a custodire un pericoloso artefatto dai ladri. Se un rinnegato viene distrutto prima di poter completare il suo dovere, ritorna entro pochi giorni, con la sua forza e il suo scopo rinnovati."
 					]
 				}
 			],
@@ -109,7 +109,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Irda seekers are skilled spies who use their magic to disguise themselves and gather intelligence for their allies. In combat, irda seekers can momentarily cloak themselves as they dart around the battlefield."
+						"I cercatori Irda sono spie abili che usano la loro magia per camuffarsi e raccogliere informazioni per i loro alleati. In combattimento, i cercatori irda possono momentaneamente occultarsi mentre sfrecciano sul campo di battaglia."
 					]
 				},
 				{
@@ -119,8 +119,8 @@
 							"type": "entries",
 							"name": "Irda",
 							"entries": [
-								"The Dragon Queen created the irda long ago. While most irda embraced their wicked creator's teachings, some of them adopted the philosophies of other deities. Those irda who don't serve the Dragon Queen live in hidden communities across Krynn, avoiding the eyes of their creator and her minions.",
-								"Distantly related to oni, ogres, and other giant folk, irda have shimmering skin that ranges through shades of indigo and sea green. Their innate magic provides them with limited shape-shifting abilities and the power to create illusions."
+								"La Regina Drago ha creato l'irda molto tempo fa. Mentre la maggior parte degli irda abbracciava gli insegnamenti del loro malvagio creatore, alcuni di loro adottavano le filosofie di altre divinità. Quegli irda che non servono la Regina Drago vivono in comunità nascoste in tutta Krynn, evitando gli occhi del loro creatore e dei suoi servi.",
+								"Lontanamente imparentati con oni, orchi e altri popoli giganti, gli irda hanno una pelle scintillante che spazia dalle sfumature dell'indaco al verde mare. La loro magia innata fornisce loro limitate capacità di mutaforma e il potere di creare illusioni."
 							]
 						}
 					]
@@ -143,7 +143,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Masters of their innate illusory powers, irda veil keepers protect their companions by weaving magical mirages that disorient foes. Rumors say that the most skilled irda veil keepers can keep entire enclaves hidden, guarding a community's inhabitants from the outside world for centuries."
+						"Padroni dei loro innati poteri illusori, i custodi del velo irda proteggono i loro compagni tessendo miraggi magici che disorientano i nemici. Si dice che i più abili custodi del velo irda riescano a tenere nascoste intere enclavi, proteggendo per secoli gli abitanti di una comunità dal mondo esterno."
 					]
 				},
 				{
@@ -153,8 +153,8 @@
 							"type": "entries",
 							"name": "Irda",
 							"entries": [
-								"The Dragon Queen created the irda long ago. While most irda embraced their wicked creator's teachings, some of them adopted the philosophies of other deities. Those irda who don't serve the Dragon Queen live in hidden communities across Krynn, avoiding the eyes of their creator and her minions.",
-								"Distantly related to oni, ogres, and other giant folk, irda have shimmering skin that ranges through shades of indigo and sea green. Their innate magic provides them with limited shape-shifting abilities and the power to create illusions."
+								"La Regina Drago ha creato l'irda molto tempo fa. Mentre la maggior parte degli irda abbracciava gli insegnamenti del loro malvagio creatore, alcuni di loro adottavano le filosofie di altre divinità. Quegli irda che non servono la Regina Drago vivono in comunità nascoste in tutta Krynn, evitando gli occhi del loro creatore e dei suoi servi.",
+								"Lontanamente imparentati con oni, orchi e altri popoli giganti, gli irda hanno una pelle scintillante che spazia dalle sfumature dell'indaco al verde mare. La loro magia innata fornisce loro limitate capacità di mutaforma e il potere di creare illusioni."
 							]
 						}
 					]
@@ -180,9 +180,9 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Who among us hasn't marveled at a majestic bird soaring high above and thought, \"I can do better\"?",
-								"First, thanks to the work of esteemed elavationist, Rirordinees Thrump, we created lifts to climb the heights of Mount Nevermind. Then, with the gnomeflinger, we brushed the heavens as gracefully as skipping stones. Now, let me present the next stage in automated ascendancy: the cloud clinger!",
-								"Where is it, you ask? You're seated in it! And in just three... two... one..."
+								"Chi di noi non si è meravigliato vedendo un maestoso uccello librarsi in alto e ha pensato: \"Posso fare di meglio\"?",
+								"Innanzitutto, grazie al lavoro dello stimato elavazionista Rirordinees Thrump, abbiamo creato degli ascensori per scalare le vette del Monte Nevermind. Poi, con lo gnomeflinger, abbiamo sfiorato il cielo con la stessa grazia con cui rimbalzano le pietre. Ora lasciatemi presentare la fase successiva dell'ascesa automatizzata: il cloud cler!",
+								"Dov'è, chiedi? Ci sei seduto dentro! E in soli tre... due... uno..."
 							],
 							"from": "Last words of inventor Meeka Mallowswain prior to her disappearance"
 						}
@@ -191,7 +191,7 @@
 				{
 					"type": "section",
 					"entries": [
-						"Brimming with innovative ideas and reckless enthusiasm, the inventors of Mount Nevermind love any chance to showcase their creations. These talented inventors use their cleverness and technological know-how to outwit foes."
+						"Traboccanti di idee innovative ed entusiasmo spericolato, gli inventori di Mount Nevermind adorano ogni occasione per mostrare le loro creazioni. Questi talentuosi inventori usano la loro intelligenza e il loro know-how tecnologico per superare in astuzia i nemici."
 					]
 				},
 				{
@@ -201,7 +201,7 @@
 							"type": "entries",
 							"name": "Nevermind Gnomes",
 							"entries": [
-								"Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn. Within the mountain, a vibrant community of rock gnome tinkerers and other inventors relentlessly study various scientific pursuits to create mechanical marvels."
+								"Il Monte Non importa è un vulcano cavo e dormiente sull'isola di Sancrist a Krynn. All'interno della montagna, una vivace comunità di gnomi delle rocce armeggiatori e altri inventori studia incessantemente varie attività scientifiche per creare meraviglie meccaniche."
 							]
 						}
 					]
@@ -224,7 +224,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"The gnome masterminds of Mount Nevermind temper their creativity with years of experience. While they still create wild inventions on a whim, these masterminds also wield at least one more stable clockwork invention\u2014typically something that affords the mastermind more movement, extends their reach with extra appendages, or both."
+						"Le menti gnomesche del Monte Non importa temperano la loro creatività con anni di esperienza. Anche se continuano a creare invenzioni selvagge per capriccio, queste menti brandiscono anche almeno un'invenzione a orologeria più stabile, in genere qualcosa che offre alla mente più movimento, estende la sua portata con appendici extra o entrambi."
 					]
 				},
 				{
@@ -234,7 +234,7 @@
 							"type": "entries",
 							"name": "Nevermind Gnomes",
 							"entries": [
-								"Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn. Within the mountain, a vibrant community of rock gnome tinkerers and other inventors relentlessly study various scientific pursuits to create mechanical marvels."
+								"Il Monte Non importa è un vulcano cavo e dormiente sull'isola di Sancrist a Krynn. All'interno della montagna, una vivace comunità di gnomi delle rocce armeggiatori e altri inventori studia incessantemente varie attività scientifiche per creare meraviglie meccaniche."
 							]
 						}
 					]
@@ -257,8 +257,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Thanoi are walrus-like beings who dwell in the frozen wastelands of Krynn. They sport thick, ivory tusks, which they use both to defend themselves and to poke breathing holes in sea ice as they swim.",
-						"Often at odds with the monstrous creatures that live in the frozen wastes, thanoi are adept hunters. In addition to their tusks, they use harpoons on long ropes that they can quickly reel back. Groups of thanoi hunters work together to take down monsters far larger than themselves, including remorhazes and white dragons."
+						"I Thanoi sono esseri simili a trichechi che vivono nelle terre ghiacciate di Krynn. Sfoggiano spesse zanne d'avorio, che usano sia per difendersi che per creare buchi respiratori nel ghiaccio marino mentre nuotano.",
+						"Spesso in contrasto con le creature mostruose che vivono nelle lande ghiacciate, i thanoi sono abili cacciatori. Oltre alle zanne, usano arpioni su lunghe corde che possono riavvolgere rapidamente. Gruppi di cacciatori di thanoi lavorano insieme per abbattere mostri molto più grandi di loro, inclusi remorhaz e draghi bianchi."
 					]
 				}
 			],
@@ -279,8 +279,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"In their experimentation with corrupting dragon eggs, the Dragon Armies created traag draconians, the precursor to what would become baaz draconian foot soldiers. Unlike their draconian brethren, traag draconians are little more than bloodthirsty engines of carnage. Few commanders have successfully used a traag draconian's reckless violence to their advantage in battle; for most, a traag draconian is as much of a danger to its allies as it is to its enemies. Even magic cannot tame a traag draconian's thirst for violence.",
-						"A traag draconian's vestigial wings lack the strength to support its hulking body in true flight, and they only minimally help to slow a falling traag's descent. Its metallic scales are coated in a sickly patina. In battle, the draconian can charge its body with vicious fire, burning all in its wake. When a traag draconian dies, its body explodes in a thick, disgusting sludge."
+						"Nella loro sperimentazione con la corruzione delle uova di drago, gli Eserciti dei Draghi crearono i draconici traag, i precursori di quelli che sarebbero diventati i fanti draconiani baaz. A differenza dei loro fratelli draconici, i draconici traag sono poco più che sanguinarie macchine di carneficina. Pochi comandanti hanno utilizzato con successo la violenza spericolata di un draconico traag a proprio vantaggio in battaglia; per la maggior parte, un traag draconico rappresenta un pericolo tanto per i suoi alleati quanto lo è per i suoi nemici. Neppure la magia può domare la sete di violenza di un traag draconico.",
+						"Le ali rudimentali di un traag draconico non hanno la forza necessaria per sostenere il suo corpo massiccio durante il volo vero e proprio, e aiutano solo in minima parte a rallentare la discesa di un traag che cade. Le sue scaglie metalliche sono ricoperte da una patina malaticcia. In battaglia, il draconico può caricare il suo corpo con un fuoco feroce, bruciando tutto sulla sua scia. Quando un draconico traag muore, il suo corpo esplode in una melma densa e disgustosa."
 					]
 				}
 			],
@@ -305,11 +305,11 @@
 							"type": "quote",
 							"entries": [
 								"Ariakas,",
-								"As the Dragon Queen wills me to obey, here is my assessment of your servant, Verminaard of Nidus: Unchanged. The man remains a blustering dastard awash in blessings earned by his blood rather than his brains. He glories in Takhisis's favor and wields her power in manners both frivolous and brutal. In their bunks, his troops whisper of his zealotry and claim that those missing from their ranks have been sacrificed on his secret altar. I don't dismiss this possibility.",
-								"While his work progresses, it is the effort of an instrument as blunt as the mace he wields.",
-								"Verminaard thinks himself invincible, and I pray to her majesty that I'm present when she divests him of that delusion.",
-								"I hope you find these reports illuminating.",
-								"Ember"
+								"Poiché la Regina Drago vuole che obbedisca, ecco la mia valutazione del tuo servitore, Verminaard di Nidus: immutata. L'uomo rimane un vigliacco spavaldo inondato di benedizioni guadagnate con il suo sangue piuttosto che con il suo cervello. Si gloria del favore di Takhisis ed esercita il suo potere in modi sia frivoli che brutali. Nelle loro cuccette, le sue truppe sussurrano del suo fanatismo e affermano che i dispersi tra i loro ranghi sono stati sacrificati sul suo altare segreto. Non escludo questa possibilità.",
+								"Mentre il suo lavoro progredisce, è lo sforzo di uno strumento ottuso come la mazza che brandisce.",
+								"Verminaard si ritiene invincibile e prego Sua Maestà di essere presente quando lo priverà di quell'illusione.",
+								"Spero che troverete questi resoconti illuminanti.",
+								"Brace"
 							]
 						}
 					]
@@ -317,15 +317,15 @@
 				{
 					"type": "section",
 					"entries": [
-						"Dragon Highlord Verminaard leads the Red Dragon Army\u2014the largest and most powerful of the Dragon Queen's forces\u2014with fanatic zeal and ruthless might. Though prophesied to banish evil forces from the lands of Krynn, Verminaard was tempted by Takhisis and her promises of glory. Corrupted by the Dragon Queen, Verminaard rose to become one of her champions, claiming command of the fiercest among the Dragon Armies.",
-						"Verminaard's extreme devotion to Takhisis allows him to channel her unholy power on the battlefield, bolstering those under his command while raining cursed fire on his foes. His towering silhouette is often wreathed in the fire of Ember, his red dragon companion and adviser."
+						"Il Signore dei Draghi Verminaard guida l'Esercito del Drago Rosso, la più grande e potente delle forze della Regina dei Draghi, con zelo fanatico e forza spietata. Sebbene nella profezia fosse stato profetizzato che avrebbe bandito le forze del male dalle terre di Krynn, Verminaard fu tentato da Takhisis e dalle sue promesse di gloria. Corrotta dalla Regina dei Draghi, Verminaard divenne uno dei suoi campioni, rivendicando il comando del più feroce tra gli eserciti dei draghi.",
+						"L'estrema devozione di Verminaard verso Takhisis gli permette di incanalare il suo potere empio sul campo di battaglia, rafforzando coloro che sono sotto il suo comando e facendo piovere fuoco maledetto sui suoi nemici. La sua sagoma imponente è spesso avvolta nel fuoco di Ember, il suo compagno e consigliere drago rosso."
 					]
 				},
 				{
 					"type": "inset",
 					"name": "Draconic Devotion",
 					"entries": [
-						"Verminaard's stat block references the Draconic Devotion monster trait. Though this trait does not appear in any of the creatures in this compendium, you will find several monsters with the Draconic Devotion trait terrorizing the lands of Krynn in the book {@adventure Dragonlance: Shadow of the Dragon Queen|DSotDQ}."
+						"Il blocco delle statistiche di Verminaard fa riferimento al tratto del mostro Devozione Draconica. Sebbene questo tratto non appaia in nessuna delle creature di questo compendio, nel libro troverai diversi mostri con il tratto Devozione Draconica che terrorizzano le terre di Krynn {@adventure Dragonlance: Shadow of the Dragon Queen|DSotDQ}."
 					]
 				}
 			],

@@ -110,7 +110,7 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"Slurmy can take the Disengage or Hide action as a bonus action on each of their turns."
+						"Slurmy può eseguire l'azione Disimpegno o Nascondersi come azione bonus in ciascuno dei suoi turni."
 					]
 				}
 			],
@@ -118,7 +118,7 @@
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) slashing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni taglienti."
 					]
 				}
 			],

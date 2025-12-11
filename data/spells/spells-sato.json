@@ -37,14 +37,14 @@
 				}
 			],
 			"entries": [
-				"You fortify the fabric of the planes in a 30-foot cube you can see within range. Within that area, portals close and can't be opened for the duration. Spells and other effects that allow planar travel or open portals, such as {@spell gate} or {@spell plane shift}, fail if used to enter or leave the area. The cube is stationary."
+				"Fortifichi la struttura degli aerei in un cubo di 9 metri che puoi vedere entro gittata. All'interno di quell'area, i portali si chiudono e non possono essere aperti per la durata. Incantesimi e altri effetti che consentono il viaggio planare o l'apertura di portali, come {@spell gate} o {@spell plane shift}, falliscono se utilizzati per entrare o uscire dall'area. Il cubo è fermo."
 			],
 			"entriesHigherLevel": [
 				{
 					"type": "entries",
 					"name": "At Higher Levels",
 					"entries": [
-						"When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled."
+						"Quando esegui questo incantesimo utilizzando uno slot incantesimo di 6° livello o superiore, l'incantesimo dura finché non viene dissolto."
 					]
 				}
 			],
@@ -86,9 +86,9 @@
 				}
 			],
 			"entries": [
-				"For the duration, you sense the presence of portals, even inactive ones, within 30 feet of yourself.",
-				"If you detect a portal in this way, you can use your action to study it. Make a {@dc 15} ability check using your spellcasting ability. On a successful check, you learn the destination plane of the portal and what portal key it requires, then the spell ends. On a failed check, you learn nothing and can't study that portal again using this spell until you cast it again.",
-				"The spell can penetrate most barriers but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+				"Per tutta la durata, percepisci la presenza di portali, anche quelli inattivi, entro 9 metri da te.",
+				"Se rilevi un portale in questo modo, puoi usare la tua azione per studiarlo. Effettua una prova di abilità {@dc 15} usando la tua abilità da incantatore. Con una prova riuscita, si apprende il piano di destinazione del portale e quale chiave del portale richiede, quindi l'incantesimo termina. Se la prova fallisce, non impari nulla e non puoi studiare di nuovo quel portale usando questo incantesimo finché non lo lanci di nuovo.",
+				"L'incantesimo può penetrare la maggior parte delle barriere, ma viene bloccato da 30 cm di pietra, 2,5 cm di metallo comune, un sottile foglio di piombo o 90 cm di legno o terra."
 			]
 		}
 	]

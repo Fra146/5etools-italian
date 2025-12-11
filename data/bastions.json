@@ -24,19 +24,19 @@
 				"empower"
 			],
 			"entries": [
-				"This den for an amethyst dragon is an enclosed open chamber with a pool, and one of its entrances is underwater. The facility's hireling maintains the den and helps any visiting amethyst dragons feel comfortable.",
+				"Questa tana per un drago di ametista è una camera aperta e chiusa con una piscina e uno dei suoi ingressi è sott'acqua. Il mercenario della struttura si occupa della manutenzione della tana e aiuta i draghi di ametista in visita a sentirsi a proprio agio.",
 				{
 					"type": "entries",
 					"name": "Empower: Psionic Defenses",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, latent draconic power fills the facility, allowing you to train in psionic combat. This training takes 8 hours per day for 7 days, after which you gain {@variantrule Resistance|XPHB} to Psychic damage. This benefit lasts for 7 days."
+						"Quando impartisci l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, il potere draconico latente riempie la struttura, permettendoti di addestrarti nel combattimento psionico. Questo addestramento richiede 8 ore al giorno per 7 giorni, dopodiché guadagni {@variantrule Resistance|XPHB} in danno psichico. Questo vantaggio dura 7 giorni."
 					]
 				},
 				{
 					"type": "inset",
 					"name": "Amethyst Dragons",
 					"entries": [
-						"Amethyst dragons are detailed in {@book Fizban's Treasury of Dragons|FTD|6}, and you can find their stat blocks there along with more information on Eldenser. They are the most powerful kind of gem dragon. Whereas chromatic dragons are typically evil, and metallic dragons typically good, gem dragons are typically neutral. They have the same age categories as other dragons (wyrmling, young, adult, ancient) but their spellcasting powers are psionic in nature. The breath weapon of an amethyst dragon is a bead of exploding gravitational force. Amethyst dragons can breathe underwater and swim at great speed."
+						"I draghi di ametista sono dettagliati in {@book Fizban's Treasury of Dragons|FTD|6} e lì puoi trovare i loro blocchi delle statistiche insieme a ulteriori informazioni su Eldenser. Sono il tipo più potente di drago gemma. Mentre i draghi cromatici sono tipicamente malvagi e i draghi metallici tipicamente buoni, i draghi gemma sono tipicamente neutrali. Hanno le stesse categorie di età degli altri draghi (cutteri, giovani, adulti, antichi) ma i loro poteri di incantatore sono di natura psionica. L'arma a soffio di un drago di ametista è una perla di forza gravitazionale che esplode. I draghi di ametista possono respirare sott'acqua e nuotare a grande velocità."
 					]
 				}
 			],
@@ -68,19 +68,19 @@
 				"craft"
 			],
 			"entries": [
-				"An Arcane Study is a place of quiet research that contains one or more desks and bookshelves.",
+				"Uno studio arcano è un luogo di ricerca silenziosa che contiene una o più scrivanie e scaffali.",
 				{
 					"type": "entries",
 					"name": "Arcane Study Charm",
 					"entries": [
-						"After spending a {@variantrule Long Rest|XPHB} in your Bastion, you gain a magical {@reward Arcane Study Charm|XDMG|Charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Identify|XPHB} without expending a spell slot or using Material components. You can't gain this Charm again while you still have it."
+						"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo Bastione, ottieni un magico {@reward Arcane Study Charm|XDMG|Charm} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Identify|XPHB} senza spendere uno slot incantesimo o utilizzare componenti materiali. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Craft Options",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Craft|XDMG|7|Craft} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -88,17 +88,17 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Arcane Focus. You commission the facility's hireling to craft an {@item Arcane Focus|XPHB}. The work takes 7 days and costs no money. The Arcane Focus remains in your Bastion until you claim it."
+									"entry": "Focalizzazione arcana. Incarichi il mercenario della struttura di creare un {@item Arcane Focus|XPHB}. Il lavoro dura 7 giorni e non costa nulla. Il Focus Arcano rimane nel tuo Bastione finché non lo rivendichi."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Book. You commission the facility's hireling to craft a blank book. The work takes 7 days and costs you 10 GP. The book remains in your Bastion until you claim it."
+									"entry": "Libro. Incarichi il mercenario della struttura di creare un libro bianco. Il lavoro dura 7 giorni e ti costa 10 GP. Il libro rimane nel tuo Bastione finché non lo rivendichi."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Magic Item (Arcana). If you are level 9+, you can commission the facility's hireling to craft a Common or an Uncommon magic item chosen by you from the {@book Arcana tables|XDMG|6|Arcana Tables} in {@book chapter 7|XDMG|6}. The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the {@skill Arcana|XPHB} skill. See the \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" section in {@book chapter 7|XDMG|6} for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hireling can assist), and you must have all those spells prepared every day you spend crafting the item."
+									"entry": "Oggetto magico (Arcana). Se sei di livello 9+, puoi incaricare il mercenario della struttura di creare un oggetto magico comune o non comune scelto da te dal {@book Arcana tables|XDMG|6|Arcana Tables} in {@book chapter 7|XDMG|6}. La struttura dispone dello strumento necessario per fabbricare l'oggetto e il mercenario ha competenza con tale strumento e competenza nell'abilità {@skill Arcana|XPHB}. Consulta la sezione \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" in {@book chapter 7|XDMG|6} per il tempo e il denaro che devono essere spesi per creare l'oggetto. Se l'oggetto consente a chi lo utilizza di lanciare qualsiasi incantesimo da esso, devi fabbricare l'oggetto tu stesso (il mercenario della struttura può aiutarti) e devi avere tutti quegli incantesimi preparati ogni giorno che trascorri a creare l'oggetto."
 								}
 							]
 						}
@@ -125,19 +125,19 @@
 				"research"
 			],
 			"entries": [
-				"An Archive is a repository of valuable books, maps, and scrolls. It is usually attached to a Library behind a locked or secret door.",
+				"Un archivio è un deposito di libri, mappe e pergamene di valore. Di solito è collegato a una Biblioteca dietro una porta chiusa a chiave o segreta.",
 				{
 					"type": "entries",
 					"name": "Research: Helpful Lore",
 					"entries": [
-						"When you issue the {@book Research|XDMG|7|Research} order to this facility, you commission the facility's hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the {@spell Legend Lore|XPHB} spell, then shares this knowledge with you the next time you speak with them."
+						"Quando emetti l'ordine {@book Research|XDMG|7|Research} a questa struttura, incarichi il mercenario della struttura di cercare informazioni utili nell'Archivio. Il lavoro dura 7 giorni. Il mercenario acquisisce conoscenza come se avesse lanciato l'incantesimo {@spell Legend Lore|XPHB}, quindi condivide questa conoscenza con te la prossima volta che parli con lui."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Reference Book",
 					"entries": [
-						"Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. You can choose one of the following options (your DM might make more options available):",
+						"Il tuo archivio contiene una copia di un libro di consultazione raro e prezioso, che ti dà un vantaggio mentre tu e il libro siete nel vostro Bastione. Puoi scegliere una delle seguenti opzioni (il tuo DM potrebbe rendere disponibili più opzioni):",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -145,27 +145,27 @@
 								{
 									"type": "item",
 									"name": "Bigby's Handy Arcana Codex",
-									"entry": "You have {@variantrule Advantage|XPHB} on any Intelligence ({@skill Arcana|XPHB}) check you make when you take the {@action Study|XPHB} action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence."
+									"entry": "Hai {@variantrule Advantage|XPHB} su qualsiasi prova di Intelligenza ({@skill Arcana|XPHB}) effettuata quando esegui l'azione {@action Study|XPHB} per ricordare conoscenze su incantesimi, oggetti magici, simboli misteriosi, tradizioni magiche e piani dell'esistenza."
 								},
 								{
 									"type": "item",
 									"name": "The Chronepsis Chronicles",
-									"entry": "You have {@variantrule Advantage|XPHB} on any Intelligence ({@skill History|XPHB}) check you make when you take the {@action Study|XPHB} action to recall lore about historical events, legendary people, ancient kingdoms, past disputes, wars, and lost civilizations."
+									"entry": "Hai {@variantrule Advantage|XPHB} su qualsiasi prova di Intelligenza ({@skill History|XPHB}) effettuata quando esegui l'azione {@action Study|XPHB} per ricordare tradizioni su eventi storici, personaggi leggendari, antichi regni, controversie passate, guerre e civiltà perdute."
 								},
 								{
 									"type": "item",
 									"name": "Investigations of the Inquisitive",
-									"entry": "You have {@variantrule Advantage|XPHB} on any Intelligence ({@skill Investigation|XPHB}) check you make when you take the {@action Study|XPHB} action to make deductions based on clues or evidence or to recall lore about traps, ciphers, riddles, and gadgetry."
+									"entry": "Hai {@variantrule Advantage|XPHB} su qualsiasi prova di Intelligenza ({@skill Investigation|XPHB}) effettuata quando esegui l'azione {@action Study|XPHB} per fare deduzioni basate su indizi o prove o per ricordare tradizioni su trappole, codici, enigmi e gadget."
 								},
 								{
 									"type": "item",
 									"name": "Material Musings on the Nature of the World",
-									"entry": "You have {@variantrule Advantage|XPHB} on any Intelligence ({@skill Nature|XPHB}) check you make when you take the {@action Study|XPHB} action to recall lore about terrain, plants, animals, and the weather."
+									"entry": "Hai {@variantrule Advantage|XPHB} su qualsiasi prova di Intelligenza ({@skill Nature|XPHB}) effettuata quando esegui l'azione {@action Study|XPHB} per ricordare conoscenze su terreno, piante, animali e tempo meteorologico."
 								},
 								{
 									"type": "item",
 									"name": "The Old Faith and Other Religions",
-									"entry": "You have {@variantrule Advantage|XPHB} on any Intelligence ({@skill Religion|XPHB}) check you make when you take the {@action Study|XPHB} action to recall lore about deities, rites and prayers, hierarchies, holy symbols, and the practices of secret cults."
+									"entry": "Hai {@variantrule Advantage|XPHB} su qualsiasi prova di Intelligenza ({@skill Religion|XPHB}) effettuata quando esegui l'azione {@action Study|XPHB} per ricordare tradizioni su divinità, riti e preghiere, gerarchie, simboli sacri e pratiche di culti segreti."
 								}
 							]
 						}
@@ -175,7 +175,7 @@
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Archive to a Vast facility by spending 2,000 GP. If you do so, you gain two additional reference books chosen from the list above."
+						"Puoi ampliare il tuo Archivio fino a renderlo una struttura Vasta spendendo 2.000 GP. Se lo fai, ottieni due libri di consultazione aggiuntivi scelti dall'elenco sopra."
 					]
 				}
 			]
@@ -198,13 +198,13 @@
 				"trade"
 			],
 			"entries": [
-				"An Armory contains mannequins for displaying armor, hooks for holding Shields, racks for storing weapons, and chests for holding ammunition.",
+				"Un'armeria contiene manichini per esporre armature, ganci per tenere gli scudi, rastrelliere per riporre armi e bauli per contenere munizioni.",
 				{
 					"type": "entries",
 					"name": "Trade: Stock Armory",
 					"entries": [
-						"When you issue the {@book Trade|XDMG|7|Trade} order to this facility, you commission the facility's hireling to stock the Armory with armor, {@item Shield|XPHB|Shields}, weapons, and ammunition. This equipment costs you 100 GP plus an extra 100 GP for each Bastion Defender in your Bastion. If your Bastion has a {@book Smithy|XDMG|7|Smithy}, the total cost is halved.",
-						"While your Armory is stocked, your Bastion Defenders are harder to kill. When any event causes you to roll dice to determine if your Bastion loses one or more of its defenders (see \"{@book Bastion Events|XDMG|7|Bastion Events}\" at the end of this chapter), roll {@dice 1d8} in place of each {@dice d6} you would normally roll. When the event is over, the equipment in your Armory is expended regardless of how many Bastion Defenders you have or how many you lost, leaving your Armory depleted until you issue another Trade order to the facility and pay the cost to restock it."
+						"Quando emetti l'ordine {@book Trade|XDMG|7|Trade} a questa struttura, incarichi i mercenari della struttura di rifornire l'armeria con armature, {@item Shield|XPHB|Shields}, armi e munizioni. Questo equipaggiamento ti costa 100 GP più 100 GP extra per ogni Difensore del Bastione nel tuo Bastione. Se il tuo Bastione ha un {@book Smithy|XDMG|7|Smithy}, il costo totale è dimezzato.",
+						"Mentre la tua armeria è rifornita, i tuoi difensori del bastione sono più difficili da uccidere. Quando un evento ti fa lanciare dadi per determinare se il tuo Bastione perde uno o più dei suoi difensori (vedi \"{@book Bastion Events|XDMG|7|Bastion Events}\" alla fine di questo capitolo), tira {@dice 1d8} al posto di ciascuno {@dice d6} che lanceresti normalmente. Al termine dell'evento, l'equipaggiamento nella tua armeria viene esaurito indipendentemente da quanti difensori del bastione hai o da quanti ne hai persi, lasciando la tua armeria esaurita finché non emetti un altro ordine commerciale alla struttura e paghi il costo per rifornirla."
 					]
 				}
 			]
@@ -233,26 +233,26 @@
 				"craft"
 			],
 			"entries": [
-				"An Artificer's Forge includes two magewright hirelings who are skilled in creating magic items.",
+				"La Forgia di un Artigiano include due mercenari maghi esperti nella creazione di oggetti magici.",
 				{
 					"type": "entries",
 					"name": "Crafting Assistants",
 					"entries": [
-						"If you {@book create a magic item|XDMG|2|Creating a Magic Item} in your Bastion using the rules in the {@book Dungeon Master's Guide|XDMG}, one or both of this facility's hirelings can assist you, reducing the time required for the crafting."
+						"Se tu {@book create a magic item|XDMG|2|Creating a Magic Item} nel tuo Bastione usi le regole del {@book Dungeon Master's Guide|XDMG}, uno o entrambi i mercenari di questa struttura possono aiutarti, riducendo il tempo richiesto per la creazione."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Craft: Magic Item",
 					"entries": [
-						"When you issue the Craft order to this facility, you commission the facility's hirelings to craft a {@book Common or an Uncommon magic item|XDMG|6|Magic Items} chosen by you from the {@book Dungeon Master's Guide|XDMG}. The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the {@skill Arcana|XPHB} skill. The two hirelings assist each other, reducing the time required to craft the item. If the item allows its user to cast any spells from it, the hirelings have those spells prepared."
+						"Quando emetti l'ordine di Creazione a questa struttura, incarichi i mercenari della struttura di creare un {@book Common or an Uncommon magic item|XDMG|6|Magic Items} scelto da te dal {@book Dungeon Master's Guide|XDMG}. La struttura dispone dello strumento necessario per fabbricare l'oggetto e i mercenari hanno competenza con tale strumento e competenza nell'abilità {@skill Arcana|XPHB}. I due mercenari si aiutano a vicenda, riducendo il tempo necessario per realizzare l'oggetto. Se l'oggetto consente a chi lo usa di lanciare incantesimi, i mercenari preparano quegli incantesimi."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Charge Refreshment",
 					"entries": [
-						"Whenever a magic item in your Bastion regains charges, it regains 1 extra expended charge."
+						"Ogni volta che un oggetto magico nel tuo Bastione recupera delle cariche, recupera 1 carica extra spesa."
 					]
 				}
 			]
@@ -276,20 +276,20 @@
 				"recruit"
 			],
 			"entries": [
-				"A Bastion can have more than one Barrack, each of which is furnished to serve as sleeping quarters for up to twelve Bastion Defenders.",
+				"Un Bastione può avere più di una Caserma, ciascuna delle quali è arredata per fungere da alloggio per un massimo di dodici Difensori del Bastione.",
 				{
 					"type": "entries",
 					"name": "Recruit: Bastion Defenders",
 					"entries": [
-						"Each time you issue the {@book Recruit|XDMG|7|Recruit} order to this facility, up to four Bastion Defenders are recruited to your Bastion and assigned quarters in this Barrack. The recruitment costs no money. You can't issue the Recruit order to this facility if it's fully occupied.",
-						"Keep track of the Bastion Defenders housed in each of your Barracks. If you lose Bastion Defenders, deduct them from your roster. Assign names and personalities to your Bastion Defenders as you see fit."
+						"Ogni volta che emetti l'ordine {@book Recruit|XDMG|7|Recruit} a questa struttura, fino a quattro difensori del bastione vengono reclutati nel tuo bastione e assegnati alloggi in questa caserma. Il reclutamento non costa denaro. Non puoi impartire l'ordine di reclutamento a questa struttura se è completamente occupata.",
+						"Tieni traccia dei difensori del bastione ospitati in ciascuna delle tue caserme. Se perdi i Difensori del Bastione, deducili dalla tua lista. Assegna nomi e personalità ai tuoi difensori del bastione come ritieni opportuno."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Barrack to a Vast facility by spending 2,000 GP. A Vast Barrack can accommodate up to twenty-five Bastion Defenders."
+						"Puoi ampliare la tua caserma trasformandola in una struttura vasta spendendo 2.000 GP. Una Caserma Vasta può ospitare fino a venticinque Difensori del Bastione."
 					]
 				}
 			]
@@ -305,7 +305,7 @@
 				"vast"
 			],
 			"entries": [
-				"A basic facility comes with nonmagical furnishings and decor appropriate for that facility."
+				"Una struttura di base è dotata di arredi e decorazioni non magici adatti a quella struttura."
 			]
 		},
 		{
@@ -332,13 +332,13 @@
 				"recruit"
 			],
 			"entries": [
-				"A Construct Forge is used to create Constructs.",
+				"Una Forgia di Costrutti viene utilizzata per creare Costrutti.",
 				{
 					"type": "entries",
 					"name": "Recruit: Construct",
 					"entries": [
-						"When you issue the Recruit order to this facility, you commission the facility's hirelings to craft a Construct from the Forge Constructs table. The construction takes the time and costs you the amount listed in the table.",
-						"Constructs made in this facility count as Bastion Defenders. Deduct any you lose from your Bastion Defenders roster. You can choose not to count one or more of these creatures as Bastion Defenders, in which case they can't be called on to defend the Bastion. Instead, they act in accordance with their nature and use their stat blocks in the {@book Monster Manual|XMM}.",
+						"Quando impartisci l'ordine di reclutamento a questa struttura, incarichi i mercenari della struttura di creare un costrutto dalla tabella Forgia costrutti. La costruzione richiede tempo e ti costa l'importo elencato nella tabella.",
+						"I costrutti realizzati in questa struttura contano come Difensori del Bastione. Deduci tutto ciò che perdi dal tuo elenco di Difensori del Bastione. Puoi scegliere di non contare una o più di queste creature come Difensori del Bastione, nel qual caso non potranno essere chiamate a difendere il Bastione. Agiscono invece in base alla loro natura e utilizzano i blocchi delle statistiche nel {@book Monster Manual|XMM}.",
 						{
 							"type": "table",
 							"caption": "Forge Constructs",
@@ -413,7 +413,7 @@
 				"vast"
 			],
 			"entries": [
-				"A basic facility comes with nonmagical furnishings and decor appropriate for that facility."
+				"Una struttura di base è dotata di arredi e decorazioni non magici adatti a quella struttura."
 			]
 		},
 		{
@@ -440,26 +440,26 @@
 				"research"
 			],
 			"entries": [
-				"A Cult of the Dragon Archive contains extensive records on specific topics, including dragons.",
+				"L'archivio del culto del drago contiene numerosi documenti su argomenti specifici, inclusi i draghi.",
 				{
 					"type": "entries",
 					"name": "Research: Helpful Lore",
 					"entries": [
-						"When you issue the Research order to this facility, you commission the facility's hireling to search the archive for lore. The work takes 7 days. The hireling gains knowledge as if they had cast the {@spell Legend Lore|XPHB} spell, then shares this knowledge with you the next time you speak with them."
+						"Quando emetti l'ordine di ricerca a questa struttura, incarichi il mercenario della struttura di cercare informazioni nell'archivio. Il lavoro dura 7 giorni. Il mercenario acquisisce conoscenza come se avesse lanciato l'incantesimo {@spell Legend Lore|XPHB}, quindi condivide questa conoscenza con te la prossima volta che parli con lui."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Reference Books",
 					"entries": [
-						"Your Cult of the Dragon Archive contains a collection of draconic lore. You have {@variantrule Advantage|XPHB} on Intelligence ({@skill Nature|XPHB} or {@skill Religion|XPHB}) checks you make in your Bastion when you take the {@action Study|XPHB} action to recall lore about Dragons, Tiamat, or the Cult of the Dragon."
+						"Il tuo archivio del Culto del Drago contiene una raccolta di tradizioni draconica. Hai {@variantrule Advantage|XPHB} sulle prove di Intelligenza ({@skill Nature|XPHB} o {@skill Religion|XPHB}) effettuate nel tuo Bastione quando esegui l'azione {@action Study|XPHB} per ricordare la tradizione sui Draghi, Tiamat o il Culto del Drago."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Cult of the Dragon Archive to a Vast facility by spending 2,000 GP. If you do so, you gain two reference books chosen from those listed in the Archive entry in {@book chapter 8|XDMG|10} of the {@book Dungeon Master's Guide|XDMG}."
+						"Puoi ampliare il tuo Archivio del Culto del Drago trasformandolo in una struttura Vast spendendo 2.000 GP. Se lo fai, ottieni due libri di consultazione scelti tra quelli elencati nella voce Archivio in {@book chapter 8|XDMG|10} del {@book Dungeon Master's Guide|XDMG}."
 					]
 				}
 			],
@@ -491,20 +491,20 @@
 				"empower"
 			],
 			"entries": [
-				"A door up to 5 feet wide and 10 feet tall appears on a flat, solid surface in one of the other facilities in your Bastion. You choose the location. If you are in your Bastion during a Bastion turn, you can relocate this door to another facility in your Bastion.",
-				"Only you and your Bastion's hirelings can open the door, which leads to a Demiplane that takes the form of a stone room. The Demiplane exists in an extradimensional space and therefore isn't attached physically to other locations in your Bastion. Neither the Demiplane nor its door can be dispelled.",
+				"Una porta larga fino a 5 piedi e alta 10 piedi appare su una superficie piana e solida in una delle altre strutture del tuo Bastione. Scegli tu la posizione. Se ti trovi nel tuo Bastione durante un turno di Bastione, puoi spostare questa porta in un'altra struttura del tuo Bastione.",
+				"Solo tu e i mercenari del tuo Bastione potete aprire la porta, che conduce a un semipiano che assume la forma di una stanza di pietra. Il Semipiano esiste in uno spazio extradimensionale e quindi non è collegato fisicamente ad altre posizioni nel tuo Bastione. Né il Semipiano né la sua porta possono essere dissolti.",
 				{
 					"type": "entries",
 					"name": "Empower: Arcane Resilience",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you gain {@variantrule Temporary Hit Points|XPHB} equal to five times your level after spending an entire {@variantrule Long Rest|XPHB} in the Demiplane."
+						"Quando emetti l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, le rune magiche appariranno sulle pareti del Semipiano e dureranno 7 giorni. Fino alla scomparsa delle rune, guadagni {@variantrule Temporary Hit Points|XPHB} pari a cinque volte il tuo livello dopo aver trascorso un intero {@variantrule Long Rest|XPHB} nel Semipiano."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Fabrication",
 					"entries": [
-						"While in the Demiplane, you can take a {@action Magic|XPHB} action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can't have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a {@variantrule Long Rest|XPHB} before you can take this action again."
+						"Mentre sei nel Semipiano, puoi eseguire un'azione {@action Magic|XPHB} per creare dal nulla un oggetto non magico a tua scelta, facendolo apparire in uno spazio non occupato nel Semipiano. L'oggetto non può essere più grande di 5 piedi in qualsiasi dimensione; non può avere un valore superiore a 5 GP; e deve essere fatto di legno, pietra, argilla, porcellana, vetro, carta, cristallo non prezioso o metallo non prezioso. Devi completare un {@variantrule Long Rest|XPHB} prima di poter eseguire nuovamente questa azione."
 					]
 				}
 			]
@@ -520,7 +520,7 @@
 				"vast"
 			],
 			"entries": [
-				"A basic facility comes with nonmagical furnishings and decor appropriate for that facility."
+				"Una struttura di base è dotata di arredi e decorazioni non magici adatti a quella struttura."
 			]
 		},
 		{
@@ -531,7 +531,7 @@
 			"prerequisite": [
 				{
 					"otherSummary": {
-						"entry": "Renown 10+ with any {@book dragonmarked house|EFA|5|Dragonmarked House Renown}",
+						"entry": "Fama 10+ con qualsiasi {@book dragonmarked house|EFA|5|Dragonmarked House Renown}",
 						"entrySummary": "Dragonmarked House Renown 10+"
 					}
 				}
@@ -548,20 +548,20 @@
 				"empower"
 			],
 			"entries": [
-				"A Dragonmark Outpost is an area set aside for the use of your dragonmarked house. The hireling is a house agent and serves as a liaison between you and your superiors in the house.",
-				"When you add this facility to your Bastion, your Renown Score with your house increases by 1.",
+				"Un avamposto del marchio del drago è un'area riservata all'uso della tua casa con il marchio del drago. Il mercenario è un agente immobiliare e funge da collegamento tra te e i tuoi superiori in casa.",
+				"Quando aggiungi questa struttura al tuo Bastione, il tuo punteggio di Fama con la tua casa aumenta di 1.",
 				{
 					"type": "entries",
 					"name": "Dragonmark Empowerment (Requires Any Dragonmark Feat)",
 					"entries": [
-						"When you finish a {@variantrule Long Rest|XPHB} in your Bastion, you gain one extra spell slot of level 2. You can use this spell slot to cast only a spell you have prepared because of a {@book Dragonmark feat|EFA|2|Dragonmark Feats}."
+						"Quando finisci un {@variantrule Long Rest|XPHB} nel tuo Bastione, ottieni uno slot incantesimo extra di livello 2. Puoi usare questo slot incantesimo per lanciare solo un incantesimo che hai preparato a causa di un {@book Dragonmark feat|EFA|2|Dragonmark Feats}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Empower: House Favor",
 					"entries": [
-						"When you issue the Empower order to this facility, you instruct your hireling to call in a favor from your dragonmarked house. You can use any benefit of your house that your Renown Score affords you (as described in {@book chapter 5|EFA|5|Dragonmarked House Renown}), and this favor doesn't count against the total number of favors available to you. Once you use this feature, you can't use it again until your Renown Score with your house increases."
+						"Quando emetti l'ordine di Potenziamento a questa struttura, istruisci il tuo mercenario a chiedere un favore alla tua casata con il marchio del drago. Puoi utilizzare qualsiasi beneficio della tua casa che il tuo punteggio di Fama ti offre (come descritto in {@book chapter 5|EFA|5|Dragonmarked House Renown}) e questo favore non conta nel numero totale di favori a tua disposizione. Una volta utilizzata questa funzione, non potrai utilizzarla di nuovo finché il tuo punteggio di Fama con la tua casa non aumenterà."
 					]
 				}
 			]
@@ -590,13 +590,13 @@
 				"recruit"
 			],
 			"entries": [
-				"Veteran agents of the Emerald Enclave create safe havens with trees, grass, and flowing water, where magical creatures that embody the power of nature live in peace and safety. The Emerald Enclave Grove can house one Huge creature or two Large creatures; four Small or Medium creatures or eight Tiny creatures can occupy the same space as one Large creature there.",
+				"Gli agenti veterani dell'Enclave di Smeraldo creano rifugi sicuri con alberi, erba e acqua corrente, dove creature magiche che incarnano il potere della natura vivono in pace e sicurezza. Il Boschetto dell'Enclave di Smeraldo può ospitare una creatura Enorme o due creature Grandi; quattro creature Piccole o Medie o otto creature Minuscole possono occupare lo stesso spazio di una creatura Grande lì presente.",
 				{
 					"type": "entries",
 					"name": "Recruit: Creature of Nature",
 					"entries": [
-						"When you issue the Recruit order to this facility, you invite a creature from the Emerald Enclave Grove Creatures table to your Emerald Enclave Grove. Roll any die. If the number rolled is odd, the creature doesn't accept your invitation and you gain no benefit from having issued the order. If the number rolled is even, a creature accepts your invitation and moves into your Emerald Enclave Grove after 7 days. Your hirelings care for the creature and perform upkeep in the facility.",
-						"Creatures in your Emerald Enclave Grove count as Bastion Defenders. Deduct any you lose from your Bastion Defenders roster. You can choose not to count one or more of these creatures as Bastion Defenders, in which case they can't be called on to defend the Bastion. Instead, they act in accordance with their nature and use their stat blocks in the {@book Monster Manual|XMM}.",
+						"Quando emetti l'ordine di reclutamento in questa struttura, inviti una creatura dalla tabella Creature del Boschetto dell'Enclave di Smeraldo al tuo Boschetto dell'Enclave di Smeraldo. Lancia un dado qualsiasi. Se il numero ottenuto è dispari, la creatura non accetta il tuo invito e non ottieni alcun beneficio dall'aver impartito l'ordine. Se il numero ottenuto è pari, una creatura accetta il tuo invito e si trasferisce nel tuo Boschetto dell'Enclave di Smeraldo dopo 7 giorni. I tuoi mercenari si prendono cura della creatura e si occupano della manutenzione della struttura.",
+						"Le creature nel tuo Boschetto dell'Enclave di Smeraldo contano come Difensori del Bastione. Deduci tutto ciò che perdi dal tuo elenco di Difensori del Bastione. Puoi scegliere di non contare una o più di queste creature come Difensori del Bastione, nel qual caso non potranno essere chiamate a difendere il Bastione. Agiscono invece in base alla loro natura e utilizzano i blocchi delle statistiche nel {@book Monster Manual|XMM}.",
 						{
 							"type": "table",
 							"caption": "Emerald Enclave Grove Creatures",
@@ -611,7 +611,7 @@
 							"rows": [
 								[
 									"{@creature Awakened Shrub|XMM}",
-									"Small"
+									"Piccolo"
 								],
 								[
 									"{@creature Awakened Tree|XMM}",
@@ -619,23 +619,23 @@
 								],
 								[
 									"{@creature Blink Dog|XMM}",
-									"Medium"
+									"Medio"
 								],
 								[
 									"{@creature Centaur Trooper|XMM}",
-									"Large"
+									"Grande"
 								],
 								[
 									"{@creature Dryad|XMM}",
-									"Medium"
+									"Medio"
 								],
 								[
 									"{@creature Myconid Adult|XMM}",
-									"Medium"
+									"Medio"
 								],
 								[
 									"{@creature Myconid Sprout|XMM}",
-									"Small"
+									"Piccolo"
 								],
 								[
 									"{@creature Pixie|XMM}",
@@ -643,7 +643,7 @@
 								],
 								[
 									"{@creature Satyr|XMM}",
-									"Medium"
+									"Medio"
 								],
 								[
 									"{@creature Sprite|XMM}",
@@ -651,11 +651,11 @@
 								],
 								[
 									"{@creature Treant|XMM}",
-									"Large"
+									"Grande"
 								],
 								[
 									"{@creature Unicorn|XMM}",
-									"Large"
+									"Grande"
 								]
 							]
 						}
@@ -682,12 +682,12 @@
 				"trade"
 			],
 			"entries": [
-				"A Gaming Hall offers recreational activities like chess and games of darts, cards, or dice.",
+				"Una sala da gioco offre attività ricreative come scacchi e giochi di freccette, carte o dadi.",
 				{
 					"type": "entries",
 					"name": "Trade: Gambling Hall",
 					"entries": [
-						"When you issue the {@book Trade|XDMG|7|Trade} order to this facility, the facility's hirelings turn the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll {@dice 1d100} and consult the following table to determine your portion of the house's winnings.",
+						"Quando emetti l'ordine {@book Trade|XDMG|7|Trade} a questa struttura, i mercenari della struttura trasformeranno la sala da gioco in una bisca per 7 giorni. Alla fine del settimo giorno, tira {@dice 1d100} e consulta la tabella seguente per determinare la tua parte delle vincite della casa.",
 						{
 							"type": "table",
 							"colLabels": [
@@ -700,19 +700,19 @@
 							],
 							"rows": [
 								[
-									"01\u201350",
+									"01–50",
 									"{@dice 1d6 × 10} GP"
 								],
 								[
-									"51\u201385",
+									"51–85",
 									"{@dice 2d6 × 10} GP"
 								],
 								[
-									"86\u201395",
+									"86–95",
 									"{@dice 4d6 × 10} GP"
 								],
 								[
-									"96\u201300",
+									"96–00",
 									"{@dice 10d6 × 10} GP"
 								]
 							]
@@ -745,13 +745,13 @@
 				"harvest"
 			],
 			"entries": [
-				"A Bastion can have more than one Garden. Each time you add a Garden to your Bastion, choose its type from the options in the Garden Types table.",
-				"While in your Bastion, you can instruct the facility's hireling to change the Garden from one type to another. This work takes 21 days, during which time no other activity can occur in this facility.",
+				"Un Bastione può avere più di un Giardino. Ogni volta che aggiungi un Giardino al tuo Bastione, scegli il suo tipo dalle opzioni nella tabella Tipi di Giardino.",
+				"Mentre sei nel tuo Bastione, puoi istruire i mercenari della struttura a cambiare il Giardino da un tipo all'altro. Questo lavoro dura 21 giorni, durante i quali non è possibile svolgere altre attività in questa struttura.",
 				{
 					"type": "entries",
 					"name": "Harvest: Garden Growth",
 					"entries": [
-						"When you issue the {@book Harvest|XDMG|7|Harvest} order to this facility, you commission the facility's hireling to collect items from the Garden as noted in the Garden Types table. The work takes 7 days and costs no money.",
+						"Quando emetti l'ordine {@book Harvest|XDMG|7|Harvest} a questa struttura, incarichi il mercenario della struttura di raccogliere oggetti dal giardino come indicato nella tabella Tipi di giardino. Il lavoro dura 7 giorni e non costa nulla.",
 						{
 							"type": "table",
 							"caption": "Garden Types",
@@ -767,24 +767,24 @@
 							],
 							"rows": [
 								[
-									"Decorative",
-									"Aesthetically pleasing garden full of flowers and topiaries.",
-									"Ten exquisite floral bouquets (worth 5 GP each), ten vials of {@item Perfume|XPHB}, or ten {@item Candle|XPHB|Candles}"
+									"Decorativo",
+									"Giardino esteticamente gradevole pieno di fiori e topiarie.",
+									"Dieci squisiti bouquet floreali (del valore di 5 GP ciascuno), dieci fiale di {@item Perfume|XPHB} o dieci {@item Candle|XPHB|Candles}"
 								],
 								[
 									"Food",
-									"Garden of delicious mushrooms or vegetables",
-									"100 days worth of {@item Rations|XPHB}"
+									"Giardino di deliziosi funghi o verdure",
+									"100 giorni di {@item Rations|XPHB}"
 								],
 								[
 									"Herb",
-									"Garden of rare herbs, some of which have medicinal uses",
-									"Herbs that are used to create either ten {@item Healer's Kit|XPHB|Healer's Kits} or one {@item Potion of Healing|XDMG}"
+									"Giardino di erbe rare, alcune delle quali hanno usi medicinali",
+									"Erbe utilizzate per creare dieci {@item Healer's Kit|XPHB|Healer's Kits} o una {@item Potion of Healing|XDMG}"
 								],
 								[
-									"Poison",
-									"Garden stocked with plants and fungi from which poisons and antitoxin can be extracted",
-									"Plants that are used to create either two vials of {@item Antitoxin|XPHB} or one vial of {@item Basic Poison|XPHB}"
+									"Veleno",
+									"Giardino ricco di piante e funghi da cui si estraggono veleni e antitossine",
+									"Piante utilizzate per creare due fiale di {@item Antitoxin|XPHB} o una fiala di {@item Basic Poison|XPHB}"
 								]
 							]
 						}
@@ -794,7 +794,7 @@
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Garden to a Vast facility by spending 2,000 GP. A Vast Garden is equivalent to two Roomy Gardens and can include two of the same type of Garden or two different types. When you issue the Harvest order to a Vast Garden, each component garden produces its own harvest. A Vast Garden gains one additional hireling."
+						"Puoi ampliare il tuo giardino fino a renderlo una struttura vasta spendendo 2.000 GP. Un Giardino Vasto equivale a due Giardini Spaziosi e può comprenderne due dello stesso tipo o due di tipo diverso. Quando impartisci l'ordine di raccolto a un Giardino Vasto, ogni giardino componente produce il proprio raccolto. Un Vast Garden ottiene un mercenario aggiuntivo."
 					]
 				}
 			]
@@ -817,19 +817,19 @@
 				"harvest"
 			],
 			"entries": [
-				"A Greenhouse is an enclosure where rare plants and fungi are nurtured in a controlled climate.",
+				"Una serra è un recinto dove piante e funghi rari vengono coltivati ​​in un clima controllato.",
 				{
 					"type": "entries",
 					"name": "Fruit of Restoration",
 					"entries": [
-						"One plant in your Greenhouse has three magical fruits growing on it. Any creature that eats one of these fruits gains the benefit of a {@spell Lesser Restoration|XPHB} spell. Fruits that aren't eaten within 24 hours of being picked lose their magic. The plant replaces all picked fruits daily at dawn, and it can't be transplanted without killing it."
+						"Su una pianta della tua serra crescono tre frutti magici. Qualsiasi creatura che mangia uno di questi frutti ottiene il beneficio di un incantesimo {@spell Lesser Restoration|XPHB}. I frutti che non vengono mangiati entro 24 ore dalla raccolta perdono la loro magia. La pianta sostituisce tutti i frutti raccolti ogni giorno all'alba e non può essere trapiantata senza ucciderla."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Harvest Options",
 					"entries": [
-						"When you issue the {@book Harvest|XDMG|7|Harvest} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Harvest|XDMG|7|Harvest} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -837,12 +837,12 @@
 								{
 									"type": "item",
 									"name": "Harvest:",
-									"entry": "Healing Herbs. You commission the facility's hireling to create a {@item Potion of Greater Healing|XDMG|Potion of Healing (greater)} made from healing herbs. The work takes 7 days and costs no money."
+									"entry": "Erbe curative. Incarichi il mercenario della struttura di creare un {@item Potion of Greater Healing|XDMG|Potion of Healing (greater)} fatto con erbe curative. Il lavoro dura 7 giorni e non costa nulla."
 								},
 								{
 									"type": "item",
 									"name": "Harvest:",
-									"entry": "Poison. You commission the facility's hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: {@item Assassin's Blood|XDMG}, {@item Malice|XDMG}, {@item Pale Tincture|XDMG}, or {@item Truth Serum|XDMG}. See \"{@book Poison|XDMG|2|Poison}\" in {@book chapter 3|XDMG|2} for each poison's effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money."
+									"entry": "Veleno. Incarichi il mercenario della struttura di estrarre un'applicazione di un veleno da piante o funghi rari. Scegli il tipo di veleno tra le seguenti opzioni: {@item Assassin's Blood|XDMG}, {@item Malice|XDMG}, {@item Pale Tincture|XDMG} o {@item Truth Serum|XDMG}. Vedi \"{@book Poison|XDMG|2|Poison}\" in {@book chapter 3|XDMG|2} per l'effetto di ogni veleno. Una volta raccolto, il veleno può essere contenuto in una fiala. Il lavoro dura 7 giorni e non costa nulla."
 								}
 							]
 						}
@@ -877,13 +877,13 @@
 				"recruit"
 			],
 			"entries": [
-				"A Guildhall comes with a guild, for which you are the guild master. Choose the type of guild from the options in the Sample Guilds table, or work with your DM to create a new guild. The facility is a meeting room where members of your guild can discuss important matters in your presence.",
-				"Your guild has roughly fifty members made up of skilled folk who live and work outside your Bastion, usually in nearby settlements.",
+				"Una Guildhall viene fornita con una gilda, di cui tu sei il capogilda. Scegli il tipo di gilda dalle opzioni nella tabella Gilde di esempio o collabora con il tuo DM per creare una nuova gilda. La struttura è una sala riunioni dove i membri della tua gilda possono discutere questioni importanti in tua presenza.",
+				"La tua gilda ha circa cinquanta membri composti da persone qualificate che vivono e lavorano fuori dal tuo Bastione, di solito negli insediamenti vicini.",
 				{
 					"type": "entries",
 					"name": "Recruit: Guild Assignment",
 					"entries": [
-						"Each time you issue the {@book Recruit|XDMG|7|Recruit} order to this facility, you commission the facility's hireling to recruit guild members to perform a special assignment. Each guild in the Sample Guilds table specifies the nature of that assignment. With your DM's permission and help, you can create new assignments for guild members to complete.",
+						"Ogni volta che emetti l'ordine {@book Recruit|XDMG|7|Recruit} a questa struttura, incarichi i mercenari della struttura di reclutare membri della gilda per eseguire un incarico speciale. Ciascuna gilda nella tabella Gilde campione specifica la natura di tale incarico. Con il permesso e l'aiuto del tuo DM, puoi creare nuovi incarichi da completare per i membri della gilda.",
 						{
 							"type": "table",
 							"caption": "Sample Guilds",
@@ -899,34 +899,34 @@
 							],
 							"rows": [
 								[
-									"Adventurers' Guild",
-									"Lit torch",
-									"You send adventurers to track down a Beast that has a {@variantrule Challenge Rating|XPHB} of 2 or lower and is known to lair within 50 miles of your Bastion. The adventurers slay or capture the creature (your choice) in {@dice 1d6 + 1} days. If the creature is slain and your Bastion has a Trophy Room, you can add a trophy taken from the creature to that facility. If the creature is captured and your Bastion has a Menagerie, you can add the creature to that facility, provided the facility has space to house it."
+									"Gilda degli avventurieri",
+									"Torcia accesa",
+									"Invii avventurieri a rintracciare una Bestia che ha un {@variantrule Challenge Rating|XPHB} pari a 2 o inferiore e che è nota che nasconde entro 50 miglia dal tuo Bastione. Gli avventurieri uccidono o catturano la creatura (a tua scelta) in {@dice 1d6 + 1} giorni. Se la creatura viene uccisa e il tuo Bastione ha una Stanza dei Trofei, puoi aggiungere un trofeo preso dalla creatura a quella struttura. Se la creatura viene catturata e il tuo Bastione ha un Serraglio, puoi aggiungere la creatura a quella struttura, a condizione che la struttura abbia spazio per ospitarla."
 								],
 								[
-									"Bakers' Guild",
-									"Pastry",
-									"You assign bakers to create baked goods for a prestigious event that occurs within the next 7 days. You can receive payment in coin (500 GP) or in the form of a favor owed to you by the event's host, the details of which are left to you and the DM."
+									"Gilda dei panettieri",
+									"Pasticceria",
+									"Assegni ai panettieri il compito di creare prodotti da forno per un evento prestigioso che si svolgerà nei prossimi 7 giorni. Puoi ricevere il pagamento in monete (500 GP) o sotto forma di un favore che ti è dovuto dall'ospite dell'evento, i cui dettagli sono lasciati a te e al DM."
 								],
 								[
-									"Brewers' Guild",
-									"Foaming mug",
-									"You assign brewers to deliver fifty 40-gallon barrels of ale (worth 10 GP each) to your Bastion in 7 days."
+									"Gilda dei birrai",
+									"Tazza schiumosa",
+									"Assegna ai birrai la consegna di cinquanta barili di birra da 40 galloni (del valore di 10 GP ciascuno) al tuo Bastione in 7 giorni."
 								],
 								[
-									"Masons' Guild",
-									"Stone mask",
-									"You assign masons to add a defensive wall to your Bastion at no cost. Alternatively, you can have the masons perform this work for another character's Bastion, provided their Bastion is within 1 mile of yours. Each 5-foot square of defensive wall takes 1 day to build instead of 10 (see \"{@book Bastion Map|XDMG|7|Bastion Map}\")."
+									"Gilda dei Massoni",
+									"Maschera di pietra",
+									"Assegna ai muratori il compito di aggiungere un muro difensivo al tuo Bastione senza alcun costo. In alternativa, puoi chiedere ai muratori di eseguire questo lavoro per il Bastione di un altro personaggio, purché il suo Bastione si trovi entro 1 miglio dal tuo. Per costruire ogni quadrato di 1,5 metri di muro difensivo occorre 1 giorno invece di 10 (vedi \"{@book Bastion Map|XDMG|7|Bastion Map}\")."
 								],
 								[
-									"Shipbuilders' Guild",
-									"Crossed oars",
-									"You assign shipbuilders to build one of the vehicles in the {@table Large Vehicles; Airborne and Waterborne Vehicles|XPHB|Airborne and Waterborne Vehicles} table of the {@book Player's Handbook|XPHB}. You pay the full cost of the vehicle, and the work takes 1 day per 1,000 GP of the vehicle's cost (a {@item Rowboat|XPHB} can be made in 1 day)."
+									"Gilda dei costruttori navali",
+									"Remi incrociati",
+									"Assegna ai costruttori navali la costruzione di uno dei veicoli nella tabella {@table Large Vehicles; Airborne and Waterborne Vehicles|XPHB|Airborne and Waterborne Vehicles} del {@book Player's Handbook|XPHB}. Paghi l'intero costo del veicolo e il lavoro richiede 1 giorno per 1.000 GP del costo del veicolo (un {@item Rowboat|XPHB} può essere effettuato in 1 giorno)."
 								],
 								[
-									"Thieves' Guild",
-									"White key",
-									"You assign thieves to infiltrate a location within 50 miles of your Bastion and steal a nonmagical object from it. The object can be no bigger than 5 feet in any dimension and is delivered to your Bastion in {@dice 1d6 + 1} days. The DM may decide this activity leaves you at risk of retaliation from law enforcement or the victim."
+									"Gilda dei ladri",
+									"Tasto bianco",
+									"Assegni ai ladri di infiltrarsi in un luogo entro 50 miglia dal tuo Bastione e di rubare da esso un oggetto non magico. L'oggetto non può essere più grande di 5 piedi in qualsiasi dimensione e viene consegnato al tuo Bastione entro {@dice 1d6 + 1} giorni. Il DM può decidere che questa attività ti espone al rischio di ritorsioni da parte delle forze dell'ordine o della vittima."
 								]
 							]
 						}
@@ -958,21 +958,21 @@
 				"empower"
 			],
 			"entries": [
-				"You have a safe house hidden near your Bastion and connected to it by a tunnel no more than a quarter mile in length. Your hireling maintains the hideout, using a cover identity that doesn't link them to your Bastion. You can change the location of your Harper Hideout each time you gain a level.",
+				"Hai un rifugio nascosto vicino al tuo Bastione e collegato ad esso da un tunnel lungo non più di un quarto di miglio. I tuoi mercenari mantengono il nascondiglio, utilizzando un'identità di copertura che non li collega al tuo Bastione. Puoi cambiare la posizione del tuo Nascondiglio dell'Arpista ogni volta che sali di livello.",
 				{
 					"type": "entries",
 					"name": "Hideout Defenses",
 					"entries": [
-						"Your Harper Hideout is constantly protected by the {@spell Alarm|XPHB} spell. At level 9, your Harper Hideout can be connected to your Bastion by a magic doorway instead of a tunnel; anyone passing through the door from the Harper Hideout emerges from a specific door in your Bastion or vice versa, and your Harper Hideout can be located anywhere within 100 miles of your Bastion. At level 13, the facility can be located anywhere in Faerûn. At level 17, the magic doorway works across planes, and the facility can be anywhere in the multiverse."
+						"Il tuo nascondiglio dell'Arpista è costantemente protetto dall'incantesimo {@spell Alarm|XPHB}. Al livello 9, il tuo Nascondiglio dell'Arpista può essere collegato al tuo Bastione tramite una porta magica anziché un tunnel; chiunque passi attraverso la porta del Nascondiglio dell'Arpista emerge da una porta specifica nel tuo Bastione o viceversa, e il tuo Nascondiglio dell'Arpista può trovarsi ovunque entro 100 miglia dal tuo Bastione. Al livello 13, la struttura può essere posizionata ovunque nel Faerûn. Al livello 17, la porta magica funziona attraverso i piani e la struttura può trovarsi ovunque nel multiverso."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Empower: Harper Training",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, the facility's hireling extends an invitation to another Harper agent nearby. Roll any die. If the number is odd, no Harper needs your facility and you gain no benefit from having issued the order. If the number rolled is even, a {@variantrule Friendly [Attitude]|XPHB|Friendly} Harper takes up temporary residence in your hideout.",
-						"The Harper stays for 7 days. While at your Bastion, the Harper can share their knowledge. Any character who trains with the Harper here for at least 8 hours on each of those days gains proficiency in one of the following skills of their choice: {@skill Deception|XPHB}, {@skill Investigation|XPHB}, or {@skill Performance|XPHB}. This benefit lasts for 7 days.",
-						"The Harper won't defend your Bastion and departs immediately if the Bastion is attacked."
+						"Quando emetti l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, il mercenario della struttura estende un invito a un altro agente Harper nelle vicinanze. Lancia un dado qualsiasi. Se il numero è dispari, nessun Arpista avrà bisogno della tua assistenza e non otterrai alcun beneficio dall'emissione dell'ordine. Se il numero ottenuto è pari, un Arpista {@variantrule Friendly [Attitude]|XPHB|Friendly} si stabilirà temporaneamente nel tuo nascondiglio.",
+						"L'Arpista rimane per 7 giorni. Mentre si trova al tuo Bastione, l'Arpista può condividere le sue conoscenze. Qualsiasi personaggio che si allena qui con l'Arpista per almeno 8 ore in ciascuno di quei giorni acquisisce competenza in una delle seguenti abilità a sua scelta: {@skill Deception|XPHB}, {@skill Investigation|XPHB} o {@skill Performance|XPHB}. Questo vantaggio dura 7 giorni.",
+						"L'Arpista non difenderà il tuo Bastione e se ne andrà immediatamente se il Bastione viene attaccato."
 					]
 				}
 			],
@@ -995,22 +995,22 @@
 				"research"
 			],
 			"entries": [
-				"This facility is an office for an inquisitive agency\u2014either the headquarters of an agency you control or a branch office for a larger agency (such as {@book Middle Dura|EFA|4|Middle Dura} or {@book Karr'Aashta's Investigations|EFA|4|Karr'Aashta's Investigations}, both of which are discussed in chapter 4). Its one hireling is a secretary who maintains an extensive directory of useful contacts and helpful agents.",
+				"Questa struttura è l'ufficio di un'agenzia curiosa: il quartier generale di un'agenzia che controlli o una filiale di un'agenzia più grande (come {@book Middle Dura|EFA|4|Middle Dura} o {@book Karr'Aashta's Investigations|EFA|4|Karr'Aashta's Investigations}, entrambi discussi nel capitolo 4). L'unico assunto è una segretaria che mantiene un ampio elenco di contatti utili e agenti utili.",
 				{
 					"type": "entries",
 					"name": "Research: Information Gathering",
 					"entries": [
-						"When you issue the Research order to this facility, you commission the agency's secretary to gather information from contacts and agents regarding a specific individual you designate, assembling a comprehensive picture of that person's activities during the previous 7 days and over the course of the next 7 days, within 10 miles of your Bastion. Unless the DM deems that certain information is beyond these agents' ability to uncover, you learn the following information:",
+						"Quando emetti l'ordine di ricerca a questa struttura, incarichi il segretario dell'agenzia di raccogliere informazioni da contatti e agenti riguardanti un individuo specifico da te designato, raccogliendo un quadro completo delle attività di quella persona durante i 7 giorni precedenti e nel corso dei successivi 7 giorni, entro 10 miglia dal tuo Bastione. A meno che il DM ritenga che determinate informazioni vadano oltre la capacità di questi agenti di scoprire, apprendi le seguenti informazioni:",
 						{
 							"type": "list",
 							"items": [
-								"Where the person is and has been staying",
-								"What they've spent money on",
-								"Whom they've met with",
-								"Where they've shown identification papers to the authorities"
+								"Dove si trova e ha soggiornato la persona",
+								"Per cosa hanno speso soldi",
+								"Chi hanno incontrato",
+								"Dove hanno mostrato i documenti d'identità alle autorità"
 							]
 						},
-						"If your Bastion is mobile, it takes time to establish this network of agents in a new place. When your Bastion is traveling, you can't issue the Research order to this facility. After it arrives at its destination, the first time you issue the Research order, this facility's hireling spends 7 days establishing a new network, after which you can use the Research order normally."
+						"Se il tuo Bastion è mobile, ci vuole tempo per stabilire questa rete di agenti in un nuovo posto. Quando il tuo Bastione è in viaggio, non puoi impartire l'ordine di ricerca a questa struttura. Dopo essere arrivato a destinazione, la prima volta che emetti l'ordine di ricerca, il mercenario di questa struttura trascorre 7 giorni a stabilire una nuova rete, dopodiché potrai utilizzare normalmente l'ordine di ricerca."
 					]
 				}
 			]
@@ -1026,7 +1026,7 @@
 				"vast"
 			],
 			"entries": [
-				"A basic facility comes with nonmagical furnishings and decor appropriate for that facility."
+				"Una struttura di base è dotata di arredi e decorazioni non magici adatti a quella struttura."
 			]
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"prerequisite": [
 				{
 					"otherSummary": {
-						"entry": "Renown 15+ with {@book House Kundarak|EFA|5|House Kundarak}",
+						"entry": "Fama 15+ con {@book House Kundarak|EFA|5|House Kundarak}",
 						"entrySummary": "House Kundarak Renown 15+"
 					}
 				}
@@ -1054,20 +1054,20 @@
 				"trade"
 			],
 			"entries": [
-				"A Kundarak Vault occupies space in your Bastion like any other special facility, but it is an extradimensional space that can be accessed from other places. As a Kundarak facility, it provides exceptionally secure storage for your trade goods and other treasures. Only you and your Bastion's hirelings can open the vault door.",
+				"Una Cripta Kundarak occupa lo spazio nel tuo Bastione come qualsiasi altra struttura speciale, ma è uno spazio extradimensionale a cui è possibile accedere da altri luoghi. Essendo una struttura Kundarak, fornisce un deposito eccezionalmente sicuro per i tuoi beni commerciali e altri tesori. Solo tu e i mercenari del tuo Bastione potete aprire la porta del caveau.",
 				{
 					"type": "entries",
 					"name": "Kundarak Access",
 					"entries": [
-						"Because the vault is an extradimensional space, you (and only you) can access its contents from any Kundarak bank facility in the world. These banks are found in cities across {@book Khorvaire|ERLW|5|Nations of Khorvaire} (and also in {@book Stormreach, in Xen'drik|ERLW|6|Notable Locations|3})."
+						"Poiché il caveau è uno spazio extradimensionale, tu (e solo tu) puoi accedere ai suoi contenuti da qualsiasi banca Kundarak nel mondo. Queste banche si trovano nelle città di {@book Khorvaire|ERLW|5|Nations of Khorvaire} (e anche di {@book Stormreach, in Xen'drik|ERLW|6|Notable Locations|3})."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Trade: Goods",
 					"entries": [
-						"When you issue the Trade order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 2,000 GP or less and stores them in the Kundarak Vault, or the hireling uses those 7 days to sell goods in the Kundarak Vault. You bear the total cost of any purchases, and the maximum value of the items purchased increases to 5,000 GP when you reach level 13.",
-						"When you sell goods from your Kundarak Vault, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17."
+						"Quando emetti l'ordine di commercio a questa struttura, il suo mercenario trascorre i successivi 7 giorni procurandosi oggetti non magici che hanno un valore totale di 2.000 GP o inferiore e li immagazzina nella Cripta Kundarak, oppure il mercenario usa quei 7 giorni per vendere merci nella Cripta Kundarak. Sostieni il costo totale di qualsiasi acquisto e il valore massimo degli oggetti acquistati aumenta a 5.000 GP quando raggiungi il livello 13.",
+						"Quando vendi beni dal tuo Kundarak Vault, l'acquirente ti paga il 20% in più rispetto al prezzo standard; questo profitto aumenta al 50% quando raggiungi il livello 13 e al 100% quando raggiungi il livello 17."
 					]
 				}
 			]
@@ -1090,12 +1090,12 @@
 				"craft"
 			],
 			"entries": [
-				"A Laboratory contains storage space for alchemical supplies and workspaces for crafting various concoctions.",
+				"Un laboratorio contiene spazio per riporre le scorte alchemiche e spazi di lavoro per creare varie miscele.",
 				{
 					"type": "entries",
 					"name": "Craft Options",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Craft|XDMG|7|Craft} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1103,12 +1103,12 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Alchemist's Supplies. The facility's hireling crafts anything that can be made with {@item Alchemist's Supplies|XPHB} using the rules in the {@book Player's Handbook|XPHB} and {@book chapter 7|XDMG|6} of this book."
+									"entry": "Le scorte dell'alchimista. I mercenari della struttura creano tutto ciò che può essere realizzato con {@item Alchemist's Supplies|XPHB} utilizzando le regole contenute in {@book Player's Handbook|XPHB} e {@book chapter 7|XDMG|6} di questo libro."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Poison. You commission the facility's hireling to craft a vial containing one application of a poison. The poison must be one of the following: {@item Burnt Othur Fumes|XDMG}, {@item Essence of Ether|XDMG}, or {@item Torpor|XDMG}. This work takes 7 days, and you must pay half the poison's cost. See \"{@book Poison|XDMG|2|Poison}\" in {@book chapter 3|XDMG|2} for descriptions and costs of poisons."
+									"entry": "Veleno. Incarichi il mercenario della struttura di creare una fiala contenente un'applicazione di un veleno. Il veleno deve essere uno dei seguenti: {@item Burnt Othur Fumes|XDMG}, {@item Essence of Ether|XDMG} o {@item Torpor|XDMG}. Questo lavoro richiede 7 giorni e devi pagare la metà del costo del veleno. Vedi \"{@book Poison|XDMG|2|Poison}\" in {@book chapter 3|XDMG|2} per le descrizioni e i costi dei veleni."
 								}
 							]
 						}
@@ -1135,12 +1135,12 @@
 				"research"
 			],
 			"entries": [
-				"This Library contains a collection of books plus one or more desks and reading chairs.",
+				"Questa Biblioteca contiene una collezione di libri più una o più scrivanie e sedie da lettura.",
 				{
 					"type": "entries",
 					"name": "Research: Topical Lore",
 					"entries": [
-						"When you issue the {@book Research|XDMG|7|Research} order to this facility, you commission the facility's hireling to research a topic. The topic can be a legend, a known event or location, a person of significance, a type of creature, or a famous object. The work takes 7 days. When the research concludes, the hireling obtains up to three accurate pieces of information about the topic that were previously unknown to you and shares this knowledge with you the next time you speak with them. The DM determines what information you learn."
+						"Quando emetti l'ordine {@book Research|XDMG|7|Research} a questa struttura, incarichi il mercenario della struttura di ricercare un argomento. L'argomento può essere una leggenda, un evento o un luogo noto, una persona importante, un tipo di creatura o un oggetto famoso. Il lavoro dura 7 giorni. Quando la ricerca si conclude, il mercenario ottiene fino a tre informazioni precise sull'argomento che prima ti erano sconosciute e condivide queste conoscenze con te la prossima volta che parli con lui. Il DM determina quali informazioni apprendi."
 					]
 				}
 			],
@@ -1170,15 +1170,15 @@
 				"recruit"
 			],
 			"entries": [
-				"You maintain a luxurious apartment fit for the ruler of a city such as Neverwinter, Waterdeep, or Baldur's Gate. Your hireling is a butler who tends to the resident's needs.",
-				"After spending a {@variantrule Long Rest|XPHB} in your Noble Residence, you gain {@variantrule Heroic Inspiration|XPHB}.",
+				"Mantieni un lussuoso appartamento adatto al sovrano di una città come Neverwinter, Waterdeep o Baldur's Gate. Il tuo mercenario è un maggiordomo che si prende cura dei bisogni del residente.",
+				"Dopo aver speso un {@variantrule Long Rest|XPHB} nella tua Residenza Nobiliare, guadagni {@variantrule Heroic Inspiration|XPHB}.",
 				{
 					"type": "entries",
 					"name": "Recruit: Visiting Noble",
 					"entries": [
-						"When you issue the Recruit order to your Lords' Alliance Noble Residence, you forgo sleeping in it for 14 days and instead make it available to a noble from a settlement that is a member of the Lords' Alliance. Roll any die. If the number rolled is odd, no one accepts your invitation and you gain no benefit from having issued the order. If the number rolled is even, a noble from the settlement you chose accepts your invitation, arriving within 7 days and staying for another 7 days.",
-						"The visiting noble gossips about events and inhabitants in their home settlement, revealing to you the location of any creature familiar to you if that creature is within 50 miles of the settlement from which the noble has come, if that creature isn't hidden by magic, and if that creature isn't confined to a location that the DM deems beyond the noble's ability to know. If the noble knows the location of the individual, they also tell you where that creature was for the 7 days prior to the noble's departure for your Bastion.",
-						"The visiting noble won't defend your Bastion and departs immediately if the Bastion is attacked."
+						"Quando impartisci l'ordine di reclutamento alla Residenza nobiliare dell'Alleanza dei tuoi Lord, rinunci a dormirci per 14 giorni e lo rendi invece disponibile a un nobile di un insediamento che è membro dell'Alleanza dei Lord. Lancia un dado qualsiasi. Se il numero lanciato è dispari, nessuno accetterà il tuo invito e non otterrai alcun vantaggio dall'emissione dell'ordine. Se il numero ottenuto è pari, un nobile dell'insediamento che hai scelto accetta il tuo invito, arrivando entro 7 giorni e rimanendo per altri 7 giorni.",
+						"Il nobile in visita spettegola sugli eventi e sugli abitanti del suo insediamento natale, rivelandoti la posizione di qualsiasi creatura a te familiare se quella creatura si trova entro 50 miglia dall'insediamento da cui proviene il nobile, se quella creatura non è nascosta dalla magia e se quella creatura non è confinata in un luogo che il DM ritiene oltre la capacità di conoscenza del nobile. Se il nobile conosce la posizione dell'individuo, ti dirà anche dove si trovava quella creatura nei 7 giorni precedenti la partenza del nobile per il tuo Bastione.",
+						"Il nobile in visita non difenderà il tuo Bastione e se ne andrà immediatamente se il Bastione viene attaccato."
 					]
 				}
 			],
@@ -1192,7 +1192,7 @@
 			"prerequisite": [
 				{
 					"otherSummary": {
-						"entry": "Renown 25+ with {@book House Lyrandar|EFA|5|House Lyrandar}",
+						"entry": "Fama 25+ con {@book House Lyrandar|EFA|5|House Lyrandar}",
 						"entrySummary": "House Lyrandar Renown 25+"
 					}
 				}
@@ -1209,13 +1209,13 @@
 				"empower"
 			],
 			"entries": [
-				"A Lyrandar Helm allows a mobile Bastion built within an elemental airship or an elemental galleon to travel. This facility's hireling is a {@book dragonmarked heir of House Lyrandar|EFA|5|House Lyrandar}. On an elemental airship, the airship's {@book Helm|EFA|7|Helm} crew station is part of this facility (see {@book chapter 7|EFA|7|Crew Members and Stations}).",
+				"Un Elmo di Lyrandar consente a un Bastione mobile costruito all'interno di un dirigibile o di un galeone elementale di viaggiare. Il mercenario di questa struttura è un {@book dragonmarked heir of House Lyrandar|EFA|5|House Lyrandar}. Su un dirigibile elementare, la postazione dell'equipaggio del dirigibile {@book Helm|EFA|7|Helm} fa parte di questa struttura (vedi {@book chapter 7|EFA|7|Crew Members and Stations}).",
 				{
 					"type": "entries",
 					"name": "Empower: Travel",
 					"entries": [
-						"When you issue the Empower order to this facility, you instruct its hireling to pilot the Bastion to a destination you specify. The Bastion travels at the vehicle's speed, 8 hours per day, for the duration of the Bastion turn. The Bastion stops early when it reaches the specified destination or if something happens to stop your travel.",
-						"When you issue the Empower order to this facility, the DM rolls on the {@book Bastion Events table|XDMG|7|Bastion Events} as if you had issued the Maintain order to your Bastion."
+						"Quando impartisci l'ordine di Potenziamento a questa struttura, ordini ai suoi assoldati di pilotare il Bastione verso una destinazione da te specificata. Il Bastione viaggia alla velocità del veicolo, 8 ore al giorno, per tutta la durata del turno del Bastione. Il Bastione si ferma presto quando raggiunge la destinazione specificata o se succede qualcosa che interrompe il tuo viaggio.",
+						"Quando emetti l'ordine di Potenziamento a questa struttura, il DM tira sul {@book Bastion Events table|XDMG|7|Bastion Events} come se avessi impartito l'ordine di Mantenimento al tuo Bastione."
 					]
 				}
 			]
@@ -1242,12 +1242,12 @@
 				"empower"
 			],
 			"entries": [
-				"A Bastion with a Manifest Zone is infused with the planar energy of one of Eberron's planes of existence. Choose the plane when you build this facility.",
+				"Un Bastione con una Zona Manifesta è infuso con l'energia planare di uno dei piani di esistenza di Eberron. Scegli l'aereo quando costruisci questa struttura.",
 				{
 					"type": "entries",
 					"name": "Empower: Manifest Charm",
 					"entries": [
-						"When you issue the Empower order to this facility, the facility's hireling conducts magical rites for the next 7 days. At the end of that period, you gain a special {@filter Charm|rewards|type=charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in the {@book Dungeon Master's Guide|XDMG}) called a Manifest Charm, which lasts until you use it. You don't need to be in the Bastion while the rites are performed to gain their benefit. The effects of the Charm depend on the facility's linked plane:",
+						"Quando emetti l'ordine di Potenziamento a questa struttura, il mercenario della struttura condurrà riti magici per i prossimi 7 giorni. Alla fine di quel periodo, ottieni uno speciale {@filter Charm|rewards|type=charm} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book Dungeon Master's Guide|XDMG}) chiamato Fascino manifesto, che dura finché non lo usi. Non è necessario che tu sia nel Bastione mentre i riti vengono eseguiti per ottenere i loro benefici. Gli effetti del Fascino dipendono dal piano collegato alla struttura:",
 						{
 							"type": "list",
 							"items": [
@@ -1264,7 +1264,7 @@
 								"{@reward Manifest Charm of Xoriat, the Realm of Delirium|EFA} ({@book Xoriat, the Realm of Delirium|ERLW|10|Xoriat, the Realm of Madness})"
 							]
 						},
-						"If your Bastion is mobile, its connection to the linked plane of existence is suspended while the Bastion moves, and you can't issue the Empower order to this facility while it is in transit. When the Bastion reaches a destination, you can issue the Empower order to establish a new planar connection, linking the Bastion either to the same plane of existence or to a different one you choose. Establishing the new connection takes 7 days, after which you can issue the Empower order normally."
+						"Se il tuo Bastione è mobile, la sua connessione al piano di esistenza collegato viene sospesa mentre il Bastione si muove e non puoi impartire l'ordine di Potenziamento a questa struttura mentre è in transito. Quando il Bastione raggiunge una destinazione, puoi impartire l'ordine di Potenziamento per stabilire una nuova connessione planare, collegando il Bastione allo stesso piano di esistenza o a un diverso piano di tua scelta. Per stabilire la nuova connessione sono necessari 7 giorni, trascorsi i quali è possibile emettere normalmente l'ordine Empower."
 					]
 				}
 			]
@@ -1287,19 +1287,19 @@
 				"empower"
 			],
 			"entries": [
-				"A Meditation Chamber is a relaxing space that helps align one's mind, body, and spirit.",
+				"Una camera di meditazione è uno spazio rilassante che aiuta ad allineare la mente, il corpo e lo spirito.",
 				{
 					"type": "entries",
 					"name": "Empower: Inner Peace",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, your Bastion's hirelings can use the Meditation Chamber to gain a measure of inner peace. The next time you roll for a Bastion event, you can roll twice and choose either result."
+						"Quando impartisci l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, i mercenari del tuo Bastione possono utilizzare la Camera di meditazione per ottenere un po' di pace interiore. La prossima volta che tiri per un evento Bastione, puoi tirare due volte e scegliere uno dei due risultati."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Fortify Self",
 					"entries": [
-						"You can meditate in this facility over a period of 7 days. If you leave the Bastion during this time, you gain no benefit. Otherwise, at the end of the seventh day, you gain {@variantrule Advantage|XPHB} on two kinds of saving throws for the next 7 days, determined randomly by rolling on the table below. Reroll if you get a duplicate result.",
+						"Puoi meditare in questa struttura per un periodo di 7 giorni. Se lasci il Bastione durante questo periodo, non ottieni alcun beneficio. Altrimenti, alla fine del settimo giorno, guadagni {@variantrule Advantage|XPHB} su due tipi di tiri salvezza per i successivi 7 giorni, determinati casualmente tirando sulla tabella sottostante. Rilancia se ottieni un risultato duplicato.",
 						{
 							"type": "table",
 							"colLabels": [
@@ -1313,27 +1313,27 @@
 							"rows": [
 								[
 									"1",
-									"Strength"
+									"Forza"
 								],
 								[
 									"2",
-									"Dexterity"
+									"Destrezza"
 								],
 								[
 									"3",
-									"Constitution"
+									"Costituzione"
 								],
 								[
 									"4",
-									"Intelligence"
+									"Intelligenza"
 								],
 								[
 									"5",
-									"Wisdom"
+									"Saggezza"
 								],
 								[
 									"6",
-									"Charisma"
+									"Carisma"
 								]
 							]
 						}
@@ -1359,13 +1359,13 @@
 				"recruit"
 			],
 			"entries": [
-				"A Menagerie has enclosures big enough to contain up to four Large creatures. Four Small or Medium creatures can occupy the same space as one Large creature there.",
+				"Un serraglio ha recinti abbastanza grandi da contenere fino a quattro creature Grandi. Quattro creature Piccole o Medie possono occupare lo stesso spazio di una creatura Grande lì presente.",
 				{
 					"type": "entries",
 					"name": "Recruit: Creature",
 					"entries": [
-						"When you issue the {@book Recruit|XDMG|7|Recruit} order to this facility, you commission the facility's hirelings to add a creature from the Menagerie Creatures table to your Menagerie. The recruitment takes 7 days and costs you the amount listed in the table. The hirelings look after the creature.",
-						"Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from your Bastion Defenders roster. You can choose not to count one or more of these creatures as Bastion Defenders, in which case they can't be called on to defend the Bastion. Instead, they act in accordance with their nature and use their stat blocks in the {@book Monster Manual|XMM}.",
+						"Quando emetti l'ordine {@book Recruit|XDMG|7|Recruit} a questa struttura, incarichi i mercenari della struttura di aggiungere una creatura dalla tabella Creature del Serraglio al tuo Serraglio. Il reclutamento dura 7 giorni e ti costa l'importo indicato nella tabella. I mercenari si prendono cura della creatura.",
+						"Le creature nel tuo serraglio contano come difensori del bastione. Deduci tutto ciò che perdi dal tuo elenco di Difensori del Bastione. Puoi scegliere di non contare una o più di queste creature come Difensori del Bastione, nel qual caso non potranno essere chiamate a difendere il Bastione. Agiscono invece in base alla loro natura e utilizzano i blocchi delle statistiche nel {@book Monster Manual|XMM}.",
 						{
 							"type": "table",
 							"caption": "Menagerie Creatures",
@@ -1382,72 +1382,72 @@
 							"rows": [
 								[
 									"{@creature Ape|XMM}",
-									"Medium",
+									"Medio",
 									"500 GP"
 								],
 								[
 									"{@creature Black Bear|XMM}",
-									"Medium",
+									"Medio",
 									"500 GP"
 								],
 								[
 									"{@creature Brown Bear|XMM}",
-									"Large",
+									"Grande",
 									"1,000 GP"
 								],
 								[
 									"{@creature Constrictor Snake|XMM}",
-									"Large",
+									"Grande",
 									"250 GP"
 								],
 								[
 									"{@creature Crocodile|XMM}",
-									"Large",
+									"Grande",
 									"500 GP"
 								],
 								[
 									"{@creature Dire Wolf|XMM}",
-									"Large",
+									"Grande",
 									"1,000 GP"
 								],
 								[
 									"{@creature Giant Vulture|XMM}",
-									"Large",
+									"Grande",
 									"1,000 GP"
 								],
 								[
 									"{@creature Hyena|XMM}",
-									"Medium",
+									"Medio",
 									"50 GP"
 								],
 								[
 									"{@creature Jackal|XMM}",
-									"Small",
+									"Piccolo",
 									"50 GP"
 								],
 								[
 									"{@creature Lion|XMM}",
-									"Large",
+									"Grande",
 									"1,000 GP"
 								],
 								[
 									"{@creature Owlbear|XMM}",
-									"Large",
+									"Grande",
 									"3,500 GP"
 								],
 								[
 									"{@creature Panther|XMM}",
-									"Medium",
+									"Medio",
 									"250 GP"
 								],
 								[
 									"{@creature Tiger|XMM}",
-									"Large",
+									"Grande",
 									"1,000 GP"
 								]
 							]
 						},
-						"With the DM's consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its {@variantrule Challenge Rating|XPHB}, as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.",
+						"Con il consenso del DM, puoi aggiungere al tuo serraglio creature diverse da quelle mostrate nella tabella Creature del serraglio. Il costo di una creatura dipende dal suo {@variantrule Challenge Rating|XPHB}, come mostrato nella tabella Costi delle creature per Grado di sfida. In genere solo le Bestie e alcune Mostruosità possono essere tenute in un Serraglio, sebbene il DM possa consentire l'uso di altre creature.",
 						{
 							"type": "table",
 							"caption": "Creature Costs by Challenge Rating",
@@ -1513,19 +1513,19 @@
 				"research"
 			],
 			"entries": [
-				"A Museum contains relics and treasures brought back from expeditions you participated in or sponsored, carefully cataloged and displayed.",
+				"Un Museo contiene cimeli e tesori riportati dalle spedizioni a cui hai partecipato o sponsorizzato, accuratamente catalogati ed esposti.",
 				{
 					"type": "entries",
 					"name": "Research: Specialized Lore",
 					"entries": [
-						"When you issue the Research order to this facility, you commission the hireling to study particular treasures in the museum. The work takes 7 days. The hireling gains knowledge regarding some question of ancient history as if they had cast the {@spell Legend Lore|XPHB} spell, then shares this knowledge with you the next time you speak with them."
+						"Quando impartisci l'ordine di ricerca a questa struttura, incarichi il mercenario di studiare particolari tesori nel museo. Il lavoro dura 7 giorni. Il mercenario acquisisce conoscenza riguardo ad alcune questioni di storia antica come se avesse lanciato l'incantesimo {@spell Legend Lore|XPHB}, quindi condivide questa conoscenza con te la prossima volta che parli con lui."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Secrets of the Past",
 					"entries": [
-						"Your Museum contains one treasure that gives you a magical {@filter Charm|rewards|type=charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in the {@book Dungeon Master's Guide|XDMG}) when you spend 7 days studying it and then finish a Long Rest in your Bastion. The Charm lasts for 7 days or until you use it. You can't gain another Charm from this facility while you still have one. The effect of the Charm depends on the origin of the treasure in your Museum. You can choose one of the following options (your DM might make more options available or limit the existing options based on your past expeditions):",
+						"Il tuo Museo contiene un tesoro che ti dà un magico {@filter Charm|rewards|type=charm} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book Dungeon Master's Guide|XDMG}) quando trascorri 7 giorni a studiarlo e poi finisci un riposo lungo nel tuo Bastione. L'incantesimo dura 7 giorni o finché non lo usi. Non puoi ottenere un altro Amuleto da questa struttura mentre ne hai ancora uno. L'effetto del Talismano dipende dall'origine del tesoro nel tuo Museo. Puoi scegliere una delle seguenti opzioni (il tuo DM potrebbe rendere disponibili più opzioni o limitare quelle esistenti in base alle tue spedizioni passate):",
 						{
 							"type": "list",
 							"items": [
@@ -1542,7 +1542,7 @@
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Museum to a Vast facility by spending 2,000 GP. If you do so, the Museum can have two treasures with different origins. A Vast Museum gains two additional hirelings, for a total of three. Assign names and personalities to them as you see fit."
+						"Puoi ampliare il tuo Museo fino a renderlo una struttura Vasta spendendo 2.000 GP. Se lo fai, il Museo può avere due tesori con origini diverse. Un Museo Vasto ottiene due mercenari aggiuntivi, per un totale di tre. Assegna loro nomi e personalità come ritieni opportuno."
 					]
 				}
 			],
@@ -1565,13 +1565,13 @@
 				"empower"
 			],
 			"entries": [
-				"A Navigator's Helm allows a mobile Bastion built within a mundane waterborne vehicle to travel.",
+				"L'Elmo del Navigatore consente a un Bastione mobile costruito all'interno di un banale veicolo acquatico di viaggiare.",
 				{
 					"type": "entries",
 					"name": "Empower: Travel",
 					"entries": [
-						"When you issue the Empower order to this facility, you instruct its hireling to pilot the Bastion to a destination you specify. The Bastion sails at the vehicle's speed, 8 hours per day, for the duration of the Bastion turn. The Bastion stops early when it reaches the specified destination or if something happens to stop your travel.",
-						"When you issue the Empower order to this facility, the DM rolls on the {@book Bastion Events table|XDMG|7|Bastion Events} as if you had issued the Maintain order to your Bastion."
+						"Quando impartisci l'ordine di Potenziamento a questa struttura, ordini ai suoi assoldati di pilotare il Bastione verso una destinazione da te specificata. Il Bastione naviga alla velocità del veicolo, 8 ore al giorno, per la durata del turno del Bastione. Il Bastione si ferma presto quando raggiunge la destinazione specificata o se succede qualcosa che interrompe il tuo viaggio.",
+						"Quando emetti l'ordine di Potenziamento a questa struttura, il DM tira sul {@book Bastion Events table|XDMG|7|Bastion Events} come se avessi impartito l'ordine di Mantenimento al tuo Bastione."
 					]
 				}
 			]
@@ -1599,19 +1599,19 @@
 				"empower"
 			],
 			"entries": [
-				"Situated atop your Bastion, your Observatory contains a telescope aimed at the night sky.",
+				"Situato in cima al tuo Bastione, il tuo Osservatorio contiene un telescopio puntato sul cielo notturno.",
 				{
 					"type": "entries",
 					"name": "Observatory Charm",
 					"entries": [
-						"You can use your Observatory to peer into the far corners of {@book Wildspace|XDMG|5|Wildspace} and the {@book Astral Plane|XDMG|5|Astral Plane}. After spending a {@variantrule Long Rest|XPHB} in your Observatory, you gain a magical {@reward Observatory Charm|XDMG|Charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Contact Other Plane|XPHB} without expending a spell slot. You can't gain this Charm again while you still have it."
+						"Puoi usare il tuo Osservatorio per scrutare gli angoli più remoti di {@book Wildspace|XDMG|5|Wildspace} e {@book Astral Plane|XDMG|5|Astral Plane}. Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo Osservatorio, ottieni un magico {@reward Observatory Charm|XDMG|Charm} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Contact Other Plane|XPHB} senza spendere uno slot incantesimo. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Empower: Eldritch Discovery",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, you enable yourself or the facility's hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is on the same plane of existence as you: {@book Charm of Darkvision|XDMG|2|Charm of Darkvision}, {@book Charm of Heroism|XDMG|2|Charm of Heroism}, or {@book Charm of Vitality|XDMG|2|Charm of Vitality} (all described in {@book chapter 3|XDMG|2})."
+						"Quando emetti l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, consenti a te stesso o ai mercenari della struttura di esplorare gli misteriosi misteri delle stelle per 7 notti consecutive. Trascorso questo tempo, lancia un dado. Se il numero lanciato è pari, non si guadagna nulla. Se il numero ottenuto è dispari, un potere sconosciuto conferisce a te o a un'altra creatura di tua scelta che si trova sul tuo stesso piano di esistenza uno dei seguenti Incantesimi: {@book Charm of Darkvision|XDMG|2|Charm of Darkvision}, {@book Charm of Heroism|XDMG|2|Charm of Heroism} o {@book Charm of Vitality|XDMG|2|Charm of Vitality} (tutti descritti in {@book chapter 3|XDMG|2})."
 					]
 				}
 			],
@@ -1641,13 +1641,13 @@
 				"empower"
 			],
 			"entries": [
-				"The Order of the Gauntlet Tournament Field is a marked-off area for combat between two armed individuals. It includes room for spectators.",
-				"Your hireling is a {@creature Knight|XMM} whose alignment matches your own. If your Bastion lacks facilities to house this knight, the knight secures accommodations in the inn or settlement closest to the Bastion. This knight isn't a Bastion Defender, but if your Bastion is attacked, the knight reduces by 1 the number of dice you roll to determine how many Bastion Defenders are lost in the attack.",
+				"Il campo da torneo dell'Ordine del Guanto è un'area delimitata per il combattimento tra due individui armati. Comprende spazio per gli spettatori.",
+				"Il tuo mercenario è un {@creature Knight|XMM} il cui allineamento corrisponde al tuo. Se il tuo Bastione non dispone di strutture per ospitare questo cavaliere, il cavaliere si assicura un alloggio nella locanda o nell'insediamento più vicino al Bastione. Questo cavaliere non è un Difensore del Bastione, ma se il tuo Bastione viene attaccato, il cavaliere riduce di 1 il numero di dadi che tiri per determinare quanti Difensori del Bastione vengono persi nell'attacco.",
 				{
 					"type": "entries",
 					"name": "Empower: Hold Tournament",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, you host a tournament at your Bastion. It takes 7 days for word of the tournament to spread to nearby settlements, and another 7 days for contestants to travel to your Bastion and participate in the tournament. You must spend 2,000 GP for prizes. At the conclusion of the tournament, your Renown Score with the Order of the Gauntlet increases by 1."
+						"Quando emetti l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, ospiti un torneo nel tuo Bastione. Ci vogliono 7 giorni perché la voce del torneo si diffonda agli insediamenti vicini e altri 7 giorni affinché i concorrenti si rechino al tuo Bastione e partecipino al torneo. Devi spendere 2.000 GP per i premi. Alla conclusione del torneo, il tuo punteggio di Fama con l'Ordine del Guanto aumenta di 1."
 					]
 				}
 			],
@@ -1661,7 +1661,7 @@
 			"prerequisite": [
 				{
 					"otherSummary": {
-						"entry": "Renown 15+ with {@book House Orien|EFA|5|House Orien}",
+						"entry": "Fama 15+ con {@book House Orien|EFA|5|House Orien}",
 						"entrySummary": "House Orien Renown 15+"
 					}
 				}
@@ -1678,13 +1678,13 @@
 				"empower"
 			],
 			"entries": [
-				"An Orien Helm allows a mobile Bastion built within a Lightning Rail cart to travel. This facility's hireling is a {@book dragonmarked heir of House Orien|EFA|5|House Orien}.",
+				"Un Elmo Orien consente a un Bastione mobile costruito all'interno di un carrello Lightning Rail di viaggiare. Il mercenario di questa struttura è un {@book dragonmarked heir of House Orien|EFA|5|House Orien}.",
 				{
 					"type": "entries",
 					"name": "Empower: Travel",
 					"entries": [
-						"When you issue the Empower order to this facility, you instruct its hireling to pilot the Bastion to a destination you specify. The Bastion travels at a rate of 30 miles per hour, 8 hours per day, along an existing route of conductor stones for the duration of the Bastion turn. The Bastion stops early when it reaches the specified destination or if something happens to stop your travel.",
-						"When you issue the Empower order to this facility, the DM rolls on the {@book Bastion Events table|XDMG|7|Bastion Events} as if you had issued the Maintain order to your Bastion."
+						"Quando impartisci l'ordine di Potenziamento a questa struttura, ordini ai suoi assoldati di pilotare il Bastione verso una destinazione da te specificata. Il Bastione viaggia ad una velocità di 30 miglia orarie, 8 ore al giorno, lungo un percorso esistente di pietre conduttrici per tutta la durata del turno del Bastione. Il Bastione si ferma presto quando raggiunge la destinazione specificata o se succede qualcosa che interrompe il tuo viaggio.",
+						"Quando emetti l'ordine di Potenziamento a questa struttura, il DM tira sul {@book Bastion Events table|XDMG|7|Bastion Events} come se avessi impartito l'ordine di Mantenimento al tuo Bastione."
 					]
 				}
 			]
@@ -1700,7 +1700,7 @@
 				"vast"
 			],
 			"entries": [
-				"A basic facility comes with nonmagical furnishings and decor appropriate for that facility."
+				"Una struttura di base è dotata di arredi e decorazioni non magici adatti a quella struttura."
 			]
 		},
 		{
@@ -1727,19 +1727,19 @@
 				"research"
 			],
 			"entries": [
-				"Folks come here to consume tasty beverages and socialize. Your Pub might be a bar, coffee shop, or tea room, and it might have a colorful name, such as the Rusty Flagon or the Dragon's Loft. The facility's hireling, who serves as the bartender, maintains a network of spies scattered throughout nearby communities. These spies are useful sources of information and frequent the Pub, often incognito.",
+				"La gente viene qui per consumare bevande gustose e socializzare. Il tuo pub potrebbe essere un bar, una caffetteria o una sala da tè e potrebbe avere un nome colorato, come Rusty Flagon o Dragon's Loft. Il mercenario della struttura, che funge da barista, mantiene una rete di spie sparse nelle comunità vicine. Queste spie sono utili fonti di informazioni e frequentano i Pub, spesso in incognito.",
 				{
 					"type": "entries",
 					"name": "Research: Information Gathering",
 					"entries": [
-						"When you issue the {@book Research|XDMG|7|Research} order to this facility, you commission the Pub's bartender to gather information from spies who are aware of all important events happening within 10 miles of your Bastion over the next 7 days. During that time, these spies can divulge the location of any creature that is familiar to you, provided the creature is within 50 miles of your Bastion and not hidden by magic or confined to a location that the DM deems is beyond the spy network's ability to locate. If the spies learn the target's location, they also learn where that creature has been for the previous 7 days."
+						"Quando emetti l'ordine {@book Research|XDMG|7|Research} a questa struttura, incarichi il barista del pub di raccogliere informazioni dalle spie che sono a conoscenza di tutti gli eventi importanti che accadono entro 10 miglia dal tuo Bastione nei prossimi 7 giorni. Durante questo periodo, queste spie possono rivelare la posizione di qualsiasi creatura a te familiare, a condizione che la creatura si trovi entro 50 miglia dal tuo Bastione e non sia nascosta dalla magia o confinata in un luogo che il DM ritiene sia oltre la capacità di localizzazione della rete di spie. Se le spie scoprono la posizione del bersaglio, apprendono anche dove è stata quella creatura nei 7 giorni precedenti."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Pub Special",
 					"entries": [
-						"The Pub has one magical beverage on tap, chosen from the options below:",
+						"Il Pub ha una bevanda magica alla spina, scelta tra le opzioni seguenti:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1747,38 +1747,38 @@
 								{
 									"type": "item",
 									"name": "Bigby's Burden",
-									"entry": "Drinking a pint of this beverage grants you the \"enlarge\" effect of an {@spell Enlarge/Reduce|XPHB} spell that has a duration of 24 hours (no saving throw allowed)."
+									"entry": "Bere una pinta di questa bevanda ti garantisce l'effetto di \"ingrandimento\" di un incantesimo {@spell Enlarge/Reduce|XPHB} che ha una durata di 24 ore (non è consentito alcun tiro salvezza)."
 								},
 								{
 									"type": "item",
 									"name": "Kiss of the Spider Queen",
-									"entry": "Drinking a pint of this beverage grants you the effect of a {@spell Spider Climb|XPHB} spell that has a duration of 24 hours."
+									"entry": "Bere mezzo litro di questa bevanda ti garantisce l'effetto di un incantesimo {@spell Spider Climb|XPHB} che dura 24 ore."
 								},
 								{
 									"type": "item",
 									"name": "Moonlight Serenade",
-									"entry": "Drinking a pint of this beverage gives you {@sense Darkvision|XPHB} out to 60 feet for 24 hours. If you already have {@sense Darkvision|XPHB}, its range is extended by 60 feet for the same duration."
+									"entry": "Bere una pinta di questa bevanda ti dà {@sense Darkvision|XPHB} fino a 60 piedi per 24 ore. Se hai già {@sense Darkvision|XPHB}, il suo raggio d'azione viene esteso di 60 piedi per la stessa durata."
 								},
 								{
 									"type": "item",
 									"name": "Positive Reinforcement",
-									"entry": "Drinking a pint of this beverage gives you {@variantrule Resistance|XPHB} to Necrotic damage for 24 hours."
+									"entry": "Bere una pinta di questa bevanda ti dà {@variantrule Resistance|XPHB} danni necrotici per 24 ore."
 								},
 								{
 									"type": "item",
 									"name": "Sterner Stuff",
-									"entry": "For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the {@condition Frightened|XPHB} condition."
+									"entry": "Per 24 ore dopo aver bevuto una pinta di questa bevanda, riesci automaticamente a effettuare tiri salvezza per evitare o terminare la condizione {@condition Frightened|XPHB}."
 								}
 							]
 						},
-						"At the start of a Bastion turn, you can switch to one of the other options. Your DM may create new options. A pint of this magical beverage loses its magic 24 hours after it's poured."
+						"All'inizio del turno del Bastione, puoi passare a una delle altre opzioni. Il tuo DM potrebbe creare nuove opzioni. Una pinta di questa bevanda magica perde la sua magia 24 ore dopo essere stata versata."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Pub to a Vast facility by spending 2,000 GP. If you do so, the Pub can have two magical beverages from the Pub Special list on tap at a time. A Vast Pub gains three additional hirelings, for a total of four. These new hirelings are servers. Assign names and personalities to them as you see fit."
+						"Puoi ampliare il tuo Pub trasformandolo in una struttura Vast spendendo 2.000 GP. Se lo fai, il Pub può avere alla spina due bevande magiche dalla lista Pub Special alla volta. Un Pub Vasto ottiene tre mercenari aggiuntivi, per un totale di quattro. Questi nuovi mercenari sono servitori. Assegna loro nomi e personalità come ritieni opportuno."
 					]
 				}
 			]
@@ -1808,13 +1808,13 @@
 				"recruit"
 			],
 			"entries": [
-				"Red Wizards defend their strongholds with Undead minions. A Red Wizard Necropolis can accommodate up to eight Bastion Defenders.",
+				"I maghi rossi difendono le loro roccaforti con servitori non morti. Una Necropoli del Mago Rosso può ospitare fino a otto Difensori del Bastione.",
 				{
 					"type": "entries",
 					"name": "Recruit: Undead Defenders",
 					"entries": [
-						"Each time you issue the Recruit action to this facility, up to four Undead Bastion Defenders are created and take shelter in the crypts and burial chambers of your Red Wizard Necropolis. You can't issue the Recruit order to this facility if it's fully occupied.",
-						"Keep track of Undead Bastion Defenders you lose and deduct them from your Bastion Defenders roster. An Undead Bastion Defender returns to your Red Wizard Necropolis 14 days after being destroyed. Undead Bastion Defenders can't return from being killed if the facility is shut down or fully occupied."
+						"Ogni volta che effettui l'azione Recluta in questa struttura, vengono creati fino a quattro Difensori del Bastione Non Morto che si rifugiano nelle cripte e nelle camere sepolcrali della tua Necropoli del Mago Rosso. Non puoi impartire l'ordine di reclutamento a questa struttura se è completamente occupata.",
+						"Tieni traccia dei difensori del bastione non morti che perdi e deducili dal tuo elenco di difensori del bastione. Un difensore del bastione non morto ritorna nella tua necropoli del mago rosso 14 giorni dopo essere stato distrutto. I difensori del bastione non morto non possono tornare dopo essere stati uccisi se la struttura è chiusa o completamente occupata."
 					]
 				}
 			],
@@ -1846,19 +1846,19 @@
 				"harvest"
 			],
 			"entries": [
-				"This vault holds sacred objects.",
+				"Questa volta contiene oggetti sacri.",
 				{
 					"type": "entries",
 					"name": "Reliquary Charm",
 					"entries": [
-						"After spending a {@variantrule Long Rest|XPHB} in your Bastion, you gain a magical {@reward Reliquary Charm|XDMG|Charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Greater Restoration|XPHB} once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it."
+						"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo Bastione, ottieni un magico {@reward Reliquary Charm|XDMG|Charm} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Greater Restoration|XPHB} una volta senza spendere uno slot incantesimo o utilizzare componenti materiali. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Harvest: Talisman",
 					"entries": [
-						"When you issue the {@book Harvest|XDMG|7|Harvest} order to this facility, you commission its hireling to produce a specially prepared talisman for your use. The talisman usually takes the form of an amulet, a rune-carved box, or a statuette, but it can be any Tiny, nonmagical object that has religious significance. The work takes 7 days and costs no money. You can use this talisman in place of one spell's Material components, provided the components have a cost of 1,000 GP or less. If the spell normally consumes its components, the talisman isn't consumed. After the talisman has been used in this way, it can't be used again until you return it to your Reliquary and use another Harvest order to prepare it."
+						"Quando emetti l'ordine {@book Harvest|XDMG|7|Harvest} a questa struttura, incarichi i suoi mercenari di produrre un talismano appositamente preparato per il tuo utilizzo. Il talismano di solito assume la forma di un amuleto, di una scatola intagliata con rune o di una statuetta, ma può essere qualsiasi oggetto minuscolo e non magico che abbia un significato religioso. Il lavoro dura 7 giorni e non costa nulla. Puoi usare questo talismano al posto delle componenti materiali di un incantesimo, a condizione che le componenti abbiano un costo pari o inferiore a 1.000 GP. Se l'incantesimo consuma normalmente i suoi componenti, il talismano non viene consumato. Dopo che il talismano è stato utilizzato in questo modo, non potrà essere utilizzato nuovamente finché non lo riporterai nel tuo Reliquiario e non utilizzerai un altro ordine di Raccolto per prepararlo."
 					]
 				}
 			]
@@ -1889,12 +1889,12 @@
 				"craft"
 			],
 			"entries": [
-				"A Sacristy serves as a preparation and storage room for the sacred items and religious vestments.",
+				"Una Sagrestia funge da locale di preparazione e deposito degli oggetti sacri e dei paramenti religiosi.",
 				{
 					"type": "entries",
 					"name": "Craft Options",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Craft|XDMG|7|Craft} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1902,12 +1902,12 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Holy Water. You commission the facility's hireling to craft a flask of {@item Holy Water|XPHB}. The work takes 7 days and costs no money. You can spend GP during the creation process to increase the potency of the Holy Water. For every 100 GP you spend, up to a maximum of 500 GP, the damage dealt by the Holy Water increases by {@dice 1d8}."
+									"entry": "Acqua Santa. Incarichi il mercenario della struttura di fabbricare un'ampolla di {@item Holy Water|XPHB}. Il lavoro dura 7 giorni e non costa nulla. Puoi spendere GP durante il processo di creazione per aumentare la potenza dell'Acqua Santa. Per ogni 100 GP spesi, fino a un massimo di 500 GP, il danno inflitto dall'Acqua Santa aumenta del {@dice 1d8}."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Magic Item (Relic). You commission the facility's hireling to craft a Common or an Uncommon magic item chosen by you from the {@book Relics|XDMG|6|Relics Tables} tables in {@book chapter 7|XDMG|6}. The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the {@skill Arcana|XPHB} skill. See the \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" section in {@book chapter 7|XDMG|6} for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hireling can assist), and you must have all those spells prepared every day you spend crafting the item."
+									"entry": "Oggetto magico (reliquia). Incarichi il mercenario della struttura di creare un oggetto magico comune o non comune scelto da te dalle tabelle {@book Relics|XDMG|6|Relics Tables} in {@book chapter 7|XDMG|6}. La struttura dispone dello strumento necessario per fabbricare l'oggetto e il mercenario ha competenza con tale strumento e competenza nell'abilità {@skill Arcana|XPHB}. Consulta la sezione \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" in {@book chapter 7|XDMG|6} per il tempo e il denaro che devono essere spesi per creare l'oggetto. Se l'oggetto consente a chi lo utilizza di lanciare qualsiasi incantesimo da esso, devi fabbricare l'oggetto tu stesso (il mercenario della struttura può aiutarti) e devi avere tutti quegli incantesimi preparati ogni giorno che trascorri a creare l'oggetto."
 								}
 							]
 						}
@@ -1917,7 +1917,7 @@
 					"type": "entries",
 					"name": "Spell Refreshment",
 					"entries": [
-						"Having a Sacristy allows you to regain one expended spell slot of level 5 or lower after spending an entire {@variantrule Short Rest|XPHB} in your Bastion. You can't gain this benefit again until you finish a {@variantrule Long Rest|XPHB}."
+						"Avere una Sagrestia ti consente di riguadagnare uno slot incantesimo speso di livello 5 o inferiore dopo aver speso un intero {@variantrule Short Rest|XPHB} nel tuo Bastione. Non potrai ottenere nuovamente questo vantaggio finché non avrai completato un {@variantrule Long Rest|XPHB}."
 					]
 				}
 			]
@@ -1948,19 +1948,19 @@
 				"craft"
 			],
 			"entries": [
-				"Icons of your religion are displayed in this facility, which includes a quiet place for worship.",
+				"Le icone della tua religione sono esposte in questa struttura, che comprende un luogo tranquillo per il culto.",
 				{
 					"type": "entries",
 					"name": "Sanctuary Charm",
 					"entries": [
-						"After spending a {@variantrule Long Rest|XPHB} in your Bastion, you gain a magical {@reward Sanctuary Charm|XDMG|Charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Healing Word|XPHB} once without expending a spell slot. You can't gain this Charm again while you still have it."
+						"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo Bastione, ottieni un magico {@reward Sanctuary Charm|XDMG|Charm} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Healing Word|XPHB} una volta senza spendere uno slot incantesimo. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Craft: Sacred Focus",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, you commission the facility's hireling to craft a {@item Druidic Focus|XPHB} ({@item wooden staff|XPHB}) or a {@item Holy Symbol|XPHB}. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it."
+						"Quando emetti l'ordine {@book Craft|XDMG|7|Craft} a questa struttura, incarichi il mercenario della struttura di creare un {@item Druidic Focus|XPHB} ({@item wooden staff|XPHB}) o un {@item Holy Symbol|XPHB}. Il lavoro dura 7 giorni e non costa nulla. L'oggetto rimane nel tuo Bastione finché non lo rivendichi."
 					]
 				}
 			]
@@ -1991,26 +1991,26 @@
 				"empower"
 			],
 			"entries": [
-				"A Sanctum is a place of solace and healing.",
+				"Un Sanctum è un luogo di conforto e guarigione.",
 				{
 					"type": "entries",
 					"name": "Sanctum Charm",
 					"entries": [
-						"After spending a {@variantrule Long Rest|XPHB} in your Bastion, you gain a magical {@reward Sanctum Charm|XDMG|Charm} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) that lasts for 7 days or until you use it. The Charm allows you to cast {@spell Heal|XPHB} once without expending a spell slot. You can't gain this Charm again while you still have it."
+						"Dopo aver speso un {@variantrule Long Rest|XPHB} nel tuo Bastione, ottieni un magico {@reward Sanctum Charm|XDMG|Charm} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book chapter 3|XDMG|2}) che dura 7 giorni o finché non lo usi. Il Fascino ti consente di lanciare {@spell Heal|XPHB} una volta senza spendere uno slot incantesimo. Non puoi ottenere nuovamente questo amuleto finché lo possiedi ancora."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Empower: Fortifying Rites",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, you inspire its hirelings to perform daily rites that benefit you or another character you name. The beneficiary doesn't need to be in the Bastion when the rites are performed to gain their benefit. Each time the beneficiary finishes a {@variantrule Long Rest|XPHB}, they gain {@variantrule Temporary Hit Points|XPHB} equal to your level. This effect lasts for 7 days."
+						"Quando emetti l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, ispiri i suoi assoldati a eseguire riti quotidiani a beneficio tuo o di un altro personaggio da te nominato. Non è necessario che il beneficiario si trovi nel Bastione quando i riti vengono eseguiti per ottenere i propri benefici. Ogni volta che il beneficiario termina un {@variantrule Long Rest|XPHB}, guadagna {@variantrule Temporary Hit Points|XPHB} pari al tuo livello. Questo effetto dura 7 giorni."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Sanctum Recall",
 					"entries": [
-						"While the Sanctum exists, you always have the {@spell Word of Recall|XPHB} spell prepared. When you cast {@spell Word of Recall|XPHB}, you can make your Sanctum the destination of the spell instead of another place you have previously designated. In addition, one creature of your choice that arrives in the Sanctum via this spell gains the benefit of a {@spell Heal|XPHB} spell."
+						"Finché esiste il Sanctum, hai sempre preparato l'incantesimo {@spell Word of Recall|XPHB}. Quando lanci {@spell Word of Recall|XPHB}, puoi rendere il tuo Sanctum la destinazione dell'incantesimo invece di un altro luogo che hai precedentemente designato. Inoltre, una creatura a tua scelta che arriva al Sanctum tramite questo incantesimo ottiene il beneficio di un incantesimo {@spell Heal|XPHB}."
 					]
 				}
 			]
@@ -2033,12 +2033,12 @@
 				"craft"
 			],
 			"entries": [
-				"A Scriptorium contains desks and writing supplies.",
+				"Uno scriptorium contiene scrivanie e materiale per scrivere.",
 				{
 					"type": "entries",
 					"name": "Craft Options",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Craft|XDMG|7|Craft} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -2046,17 +2046,17 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Book Replica. You commission the facility's hireling to make a copy of a nonmagical Book. Doing so requires a blank book. The work takes 7 days."
+									"entry": "Replica del libro. Incarichi il mercenario della struttura di creare una copia di un libro non magico. Per fare ciò è necessario un libro bianco. Il lavoro dura 7 giorni."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Spell Scroll. You commission the facility's hireling to scribe a {@item Spell Scroll|XDMG} containing one Cleric or Wizard spell of level 3 or lower. The facility has the necessary {@item Calligrapher's Supplies|XPHB}, and the hireling meets all the prerequisites needed to scribe the scroll. The \"{@book Crafting Equipment|XPHB|6|Crafting Equipment}\" section in the {@book Player's Handbook|XPHB} specifies the time needed to scribe the scroll and the cost of the scroll, which you must pay."
+									"entry": "Pergamena dell'incantesimo. Incarichi il mercenario della struttura di scrivere un {@item Spell Scroll|XDMG} contenente un incantesimo da chierico o mago di livello 3 o inferiore. La struttura dispone del necessario {@item Calligrapher's Supplies|XPHB} e il mercenario soddisfa tutti i prerequisiti necessari per scrivere la pergamena. La sezione \"{@book Crafting Equipment|XPHB|6|Crafting Equipment}\" in {@book Player's Handbook|XPHB} specifica il tempo necessario per scrivere la pergamena e il costo della pergamena, che devi pagare."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Paperwork. You commission the facility's hireling to create up to fifty copies of a broadsheet, a pamphlet, or another loose-leaf paper product. The work takes 7 days and costs you 1 GP per copy. At no additional cost in time or money, the facility's hireling can distribute the paperwork to one or more locations within 50 miles of your Bastion."
+									"entry": "Scartoffie. Incarichi il lavoratore della struttura di creare fino a cinquanta copie di un manifesto, un opuscolo o un altro prodotto cartaceo a fogli sciolti. Il lavoro richiede 7 giorni e ti costa 1 GP per copia. Senza alcun costo aggiuntivo in termini di tempo o denaro, il mercenario della struttura può distribuire i documenti in una o più località entro 50 miglia dal tuo Bastione."
 								}
 							]
 						}
@@ -2083,12 +2083,12 @@
 				"craft"
 			],
 			"entries": [
-				"This Smithy contains a forge, an anvil, and other tools needed to craft weapons, armor, and other equipment.",
+				"Questa fucina contiene una fucina, un'incudine e altri strumenti necessari per creare armi, armature e altro equipaggiamento.",
 				{
 					"type": "entries",
 					"name": "Craft Options",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Craft|XDMG|7|Craft} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -2096,12 +2096,12 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Smith's Tools. The facility's hirelings craft anything that can be made with {@item Smith's Tools|XPHB}, using the rules in the {@book Player's Handbook|XPHB}."
+									"entry": "Gli strumenti di Smith. I mercenari della struttura realizzano tutto ciò che è possibile realizzare con {@item Smith's Tools|XPHB}, utilizzando le regole di {@book Player's Handbook|XPHB}."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Magic Item (Armament). If you are level 9+, can you commission the facility's hirelings to craft a Common or an Uncommon magic item chosen by you from the {@book Armaments|XDMG|6|Armaments Tables} tables in {@book chapter 7|XDMG|6}. The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the {@skill Arcana|XPHB} skill. See the \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" section in {@book chapter 7|XDMG|6} for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hirelings can assist), and you must have all those spells prepared every day you spend crafting the item."
+									"entry": "Oggetto magico (armamento). Se sei di livello 9+, puoi incaricare i mercenari della struttura di creare un oggetto magico comune o non comune scelto da te dalle tabelle {@book Armaments|XDMG|6|Armaments Tables} in {@book chapter 7|XDMG|6}. La struttura dispone dello strumento necessario per fabbricare l'oggetto e i mercenari hanno competenza con tale strumento e competenza nell'abilità {@skill Arcana|XPHB}. Consulta la sezione \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" in {@book chapter 7|XDMG|6} per il tempo e il denaro che devono essere spesi per creare l'oggetto. Se l'oggetto consente a chi lo utilizza di lanciare incantesimi, devi crearlo tu stesso (i mercenari della struttura possono aiutarti) e devi avere tutti quegli incantesimi preparati ogni giorno che trascorri a creare l'oggetto."
 								}
 							]
 						}
@@ -2128,21 +2128,21 @@
 				"trade"
 			],
 			"entries": [
-				"A Bastion can have more than one Stable. Each Stable you add to your Bastion comes with one {@creature Riding Horse|XMM} or {@creature Camel|XMM} and two {@creature Pony|XMM|Ponies} or {@creature Mule|XMM|Mules}; see the {@book Player's Handbook|XPHB} or the {@book Monster Manual|XMM} for these creatures' stat blocks. The facility is big enough to house three Large animals. Two Medium creatures occupy the same amount of space as one Large creature there. The facility's hireling looks after these creatures.",
-				"After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ({@skill Animal Handling|XPHB}) checks made with respect to it have {@variantrule Advantage|XPHB}.",
+				"Un Bastione può avere più di una Stalla. Ogni stalla che aggiungi al tuo Bastione viene fornita con una {@creature Riding Horse|XMM} o {@creature Camel|XMM} e due {@creature Pony|XMM|Ponies} o {@creature Mule|XMM|Mules}; vedi {@book Player's Handbook|XPHB} o {@book Monster Manual|XMM} per i blocchi delle statistiche di queste creature. La struttura è abbastanza grande da ospitare tre animali di taglia grande. Due creature Medie occupano la stessa quantità di spazio di una creatura Grande lì presente. Il mercenario della struttura si prende cura di queste creature.",
+				"Dopo che una Bestia che può fungere da cavalcatura trascorre almeno 14 giorni in questa struttura, tutte le prove di Saggezza ({@skill Animal Handling|XPHB}) effettuate rispetto ad essa hanno {@variantrule Advantage|XPHB}.",
 				{
 					"type": "entries",
 					"name": "Trade: Animals",
 					"entries": [
-						"When you issue the {@book Trade|XDMG|7|Trade} order to this facility, you commission the facility's hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase\u2014horses, ponies, and mules being the most common. The {@table Mounts and Vehicles; Mounts and Other Animals|XPHB|Mounts and Other Animals} table in the {@book Player's Handbook|XPHB} gives standard prices for various mounts. You bear the total cost of any purchases.",
-						"When you sell a mount from your Stable, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17."
+						"Quando emetti l'ordine {@book Trade|XDMG|7|Trade} a questa struttura, incarichi i mercenari della struttura di acquistare o vendere una o più cavalcature al costo normale, mantenendo quelle che acquisti nella tua scuderia. Il lavoro dura 7 giorni e il DM decide quali tipi di animali sono disponibili per l'acquisto: cavalli, pony e muli sono i più comuni. La tabella {@table Mounts and Vehicles; Mounts and Other Animals|XPHB|Mounts and Other Animals} in {@book Player's Handbook|XPHB} fornisce i prezzi standard per varie montature. Sei tu a sostenere il costo totale di eventuali acquisti.",
+						"Quando vendi una cavalcatura dalla tua Scuderia, l'acquirente ti paga il 20% in più rispetto al prezzo standard; questo profitto aumenta al 50% quando raggiungi il livello 13 e al 100% quando raggiungi il livello 17."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Stable to a Vast facility by spending 2,000 GP. If you do so, the Stable is large enough to house six Large animals."
+						"Puoi ampliare la tua scuderia trasformandola in una struttura vasta spendendo 2.000 GP. Se lo fai, la Stalla sarà abbastanza grande da ospitare sei animali Grandi."
 					]
 				}
 			]
@@ -2158,7 +2158,7 @@
 				"vast"
 			],
 			"entries": [
-				"A basic facility comes with nonmagical furnishings and decor appropriate for that facility."
+				"Una struttura di base è dotata di arredi e decorazioni non magici adatti a quella struttura."
 			]
 		},
 		{
@@ -2179,13 +2179,13 @@
 				"trade"
 			],
 			"entries": [
-				"A Storehouse is a cool, dark space meant to contain trade goods objects from the {@book Trade Goods|XDMG|6|Trade Goods} table in {@book chapter 7|XDMG|6} and from {@book chapter 6|XDMG|5} of the {@book Player's Handbook|XPHB}.",
+				"Un magazzino è uno spazio fresco e buio destinato a contenere oggetti di beni commerciali dalla tabella {@book Trade Goods|XDMG|6|Trade Goods} in {@book chapter 7|XDMG|6} e da {@book chapter 6|XDMG|5} del {@book Player's Handbook|XPHB}.",
 				{
 					"type": "entries",
 					"name": "Trade: Goods",
 					"entries": [
-						"When you issue the {@book Trade|XDMG|7|Trade} order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 500 GP or less and stores them in the Storehouse, or the hireling uses those 7 days to sell goods in the Storehouse. You bear the total cost of any purchases, and the maximum value of the items purchased increases to 2,000 GP when you reach level 9 and 5,000 GP when you reach level 13.",
-						"When you sell goods from your Storehouse, the buyer pays you 10 percent more than the standard price; this profit increases to 20 percent when you reach level 9, 50 percent when you reach level 13, and 100 percent when you reach level 17."
+						"Quando emetti l'ordine {@book Trade|XDMG|7|Trade} a questa struttura, il suo mercenario trascorre i successivi 7 giorni procurandosi oggetti non magici che hanno un valore totale di 500 GP o inferiore e li immagazzina nel magazzino, oppure il mercenario usa quei 7 giorni per vendere merci nel magazzino. Sostieni il costo totale di qualsiasi acquisto e il valore massimo degli oggetti acquistati aumenta a 2.000 GP quando raggiungi il livello 9 e 5.000 GP quando raggiungi il livello 13.",
+						"Quando vendi merci dal tuo magazzino, l'acquirente ti paga il 10% in più rispetto al prezzo standard; questo profitto aumenta al 20% quando raggiungi il livello 9, al 50% quando raggiungi il livello 13 e al 100% quando raggiungi il livello 17."
 					]
 				}
 			]
@@ -2208,14 +2208,14 @@
 				"recruit"
 			],
 			"entries": [
-				"Inscribed on the floor of this room is a permanent teleportation circle created by the {@spell Teleportation Circle|XPHB} spell.",
+				"Sul pavimento di questa stanza c'è un cerchio di teletrasporto permanente creato dall'incantesimo {@spell Teleportation Circle|XPHB}.",
 				{
 					"type": "entries",
 					"name": "Recruit: Spellcaster",
 					"entries": [
-						"Each time you issue the {@book Recruit|XDMG|7|Recruit} order to this facility, its hireling extends an invitation to a {@variantrule Friendly [Attitude]|XPHB|Friendly} NPC spellcaster. Roll any die. If the number rolled is odd, the invitee declines the invitation, and you gain no benefit from having issued the order. If the number rolled is even, the invitee accepts the invitation and arrives in your Bastion via your Teleportation Circle.",
-						"While you are in your Bastion, you can ask the spellcaster to cast one Wizard spell of level 4 or lower; if you are level 17+, the spell's maximum level increases to 8. The spellcaster is assumed to have the spell prepared. If the spell has one or more Material components that cost money, you must pay for them before the spell can be cast.",
-						"The spellcaster stays for 14 days or until they cast a spell for you. The spellcaster won't defend your Bastion and departs immediately if the Bastion is attacked (see \"{@book Bastion Events|XDMG|7|Bastion Events}\" at the end of the chapter)."
+						"Ogni volta che emetti l'ordine {@book Recruit|XDMG|7|Recruit} a questa struttura, il suo mercenario estende un invito a un incantatore NPC {@variantrule Friendly [Attitude]|XPHB|Friendly}. Lancia un dado qualsiasi. Se il numero ottenuto è dispari, l'invitato declina l'invito e tu non ottieni alcun beneficio dall'emissione dell'ordine. Se il numero ottenuto è pari, l'invitato accetta l'invito e arriva al tuo Bastione tramite il tuo Circolo di Teletrasporto.",
+						"Mentre sei nel tuo Bastione, puoi chiedere all'incantatore di lanciare un incantesimo da Mago di livello 4 o inferiore; se sei di livello 17+, il livello massimo dell'incantesimo aumenta a 8. Si presume che l'incantatore abbia preparato l'incantesimo. Se l'incantesimo ha una o più componenti Materiali che costano denaro, devi pagarle prima che l'incantesimo possa essere lanciato.",
+						"L'incantatore resta per 14 giorni o finché non lancia un incantesimo per te. L'incantatore non difenderà il tuo Bastione e se ne andrà immediatamente se il Bastione viene attaccato (vedi \"{@book Bastion Events|XDMG|7|Bastion Events}\" alla fine del capitolo)."
 					]
 				}
 			]
@@ -2238,13 +2238,13 @@
 				"empower"
 			],
 			"entries": [
-				"The Theater contains a stage, a backstage area where props and sets are kept, and a seating area for a small audience.",
+				"Il teatro contiene un palco, un'area dietro le quinte dove sono conservati oggetti di scena e scenografie e un'area salotto per un piccolo pubblico.",
 				{
 					"type": "entries",
 					"name": "Empower: Theatrical Event",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, its hirelings begin work on a theatrical production or concert. Rehearsals and other preparations take 14 days, followed by at least 7 days of performances. The performances can continue indefinitely until a new production gets underway.",
-						"You or another character can contribute to a production in the following ways:",
+						"Quando emetti l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, i suoi mercenari iniziano a lavorare su una produzione teatrale o un concerto. Le prove e gli altri preparativi durano 14 giorni, seguiti da almeno 7 giorni di spettacoli. Le rappresentazioni possono continuare indefinitamente fino all'inizio di una nuova produzione.",
+						"Tu o un altro personaggio potete contribuire a una produzione nei seguenti modi:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -2252,21 +2252,21 @@
 								{
 									"type": "item",
 									"name": "Composer/Writer",
-									"entry": "A character can compose music or write a script for a concert or production that hasn't started rehearsals yet. This effort takes 14 days."
+									"entry": "Un personaggio può comporre musica o scrivere una sceneggiatura per un concerto o una produzione di cui non sono ancora iniziate le prove. Questo sforzo richiede 14 giorni."
 								},
 								{
 									"type": "item",
 									"name": "Conductor/Director",
-									"entry": "A character who remains in the Bastion for the entirety of the production can serve as the concert's conductor or the production's director."
+									"entry": "Un personaggio che rimane nel Bastione per l'intera produzione può fungere da direttore d'orchestra del concerto o direttore della produzione."
 								},
 								{
 									"type": "item",
 									"name": "Performer",
-									"entry": "A character who remains in the Bastion for the entirety of the rehearsal period can be a star performer in one or more of the performances; one of the Theater's hirelings can serve as an understudy for additional performances."
+									"entry": "Un personaggio che rimane nel Bastione per l'intero periodo delle prove può essere un attore protagonista in una o più rappresentazioni; uno dei mercenari del teatro può fungere da sostituto per spettacoli aggiuntivi."
 								}
 							]
 						},
-						"At the end of a rehearsal period, each character who contributed to the concert or production can make a {@dc 15} Charisma ({@skill Performance|XPHB}) check. If more of these checks succeed than fail, you and any other character who contributed to the concert or production each gain a Theater die, a {@dice d6}. This die changes to a {@dice d8} when you reach level 13 and a {@dice d10} when you reach level 17. At any point after the rehearsals end, a character can expend their Theater die to roll it and add the number rolled to one {@variantrule D20 Test|XPHB} they make, immediately after rolling the {@dice d20}. If a character hasn't expended their Theater die before gaining another, their first die is lost."
+						"Alla fine di un periodo di prove, ogni personaggio che ha contribuito al concerto o alla produzione può effettuare una prova di Carisma ({@skill Performance|XPHB} ({@dc 15}). Se più di queste prove riescono che falliscono, tu e qualsiasi altro personaggio che ha contribuito al concerto o alla produzione guadagnate ciascuno un dado Teatro, a {@dice d6}. Questo dado cambia in a {@dice d8} quando raggiungi il livello 13 e a {@dice d10} quando raggiungi il livello 17. In qualsiasi momento dopo la fine delle prove, un personaggio può spendere il suo dado Teatro per lanciarlo e aggiungere il numero tirato a uno {@variantrule D20 Test|XPHB} immediatamente dopo aver lanciato il {@dice d20}. Se un personaggio non ha speso il proprio dado Teatro prima di guadagnarne un altro, il primo dado è perso."
 					]
 				}
 			]
@@ -2289,8 +2289,8 @@
 				"empower"
 			],
 			"entries": [
-				"A Bastion can have more than one Training Area. A Training Area might be an open courtyard, a gymnasium, a music or dance hall, or a cleverly built gauntlet of traps and hazards. It might contain inanimate targets (for weapon practice), padded mats, and other equipment. One of the facility's hirelings is an expert trainer; the others serve as training partners.",
-				"When a Training Area becomes part of your Bastion, choose one trainer from the {@book Expert Trainers|XDMG|7|Expert Trainers} table. On each Bastion turn, you can replace that trainer with another one from the table.",
+				"Un Bastione può avere più di un'Area di Addestramento. Un'area di allenamento potrebbe essere un cortile aperto, una palestra, una sala da musica o da ballo oppure un complesso di trappole e pericoli abilmente costruito. Potrebbe contenere bersagli inanimati (per esercitarsi con le armi), tappetini imbottiti e altro equipaggiamento. Uno dei collaboratori della struttura è un formatore esperto; gli altri servono come partner di formazione.",
+				"Quando un'area di addestramento diventa parte del tuo Bastione, scegli un allenatore dalla tabella {@book Expert Trainers|XDMG|7|Expert Trainers}. Ad ogni turno del Bastione, puoi sostituire quell'allenatore con un altro dal tavolo.",
 				{
 					"type": "table",
 					"caption": "Expert Trainers",
@@ -2304,24 +2304,24 @@
 					],
 					"rows": [
 						[
-							"Battle Expert",
-							"When you take damage from an attack made with an {@variantrule Unarmed Strike|XPHB} or a weapon, you can take a {@variantrule Reaction|XPHB} to reduce this damage by {@dice 1d4}."
+							"Esperto di battaglia",
+							"Quando subisci danni da un attacco effettuato con un {@variantrule Unarmed Strike|XPHB} o un'arma, puoi prendere un {@variantrule Reaction|XPHB} per ridurre questo danno del {@dice 1d4}."
 						],
 						[
-							"Skills Expert",
-							"You gain proficiency in one of the following skills of your choice: {@skill Acrobatics|XPHB}, {@skill Athletics|XPHB}, {@skill Performance|XPHB}, {@skill Sleight of Hand|XPHB}, or {@skill Stealth|XPHB}."
+							"Esperto di competenze",
+							"Ottieni competenza in una delle seguenti abilità a tua scelta: {@skill Acrobatics|XPHB}, {@skill Athletics|XPHB}, {@skill Performance|XPHB}, {@skill Sleight of Hand|XPHB} o {@skill Stealth|XPHB}."
 						],
 						[
-							"Tools Expert",
-							"You gain proficiency with one tool of your choice."
+							"Esperto di strumenti",
+							"Acquisisci competenza con uno strumento a tua scelta."
 						],
 						[
-							"Unarmed Combat Expert",
-							"When you hit with your {@variantrule Unarmed Strike|XPHB} and deal damage, the attack deals an extra {@damage 1d4} Bludgeoning damage."
+							"Esperto di combattimento a mani nude",
+							"Quando colpisci con il tuo {@variantrule Unarmed Strike|XPHB} e infliggi danni, l'attacco infligge un danno contundente extra {@damage 1d4}."
 						],
 						[
-							"Weapon Expert",
-							"Choose a kind of Simple or Martial weapon, such as {@item Spear|XPHB} or {@item Longbow|XPHB}. If you aren't proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property."
+							"Esperto di armi",
+							"Scegli un tipo di arma semplice o marziale, come {@item Spear|XPHB} o {@item Longbow|XPHB}. Se non sei competente con l'arma, acquisisci competenza con essa. Se hai già competenza con l'arma, puoi usare la sua proprietà di maestria."
 						]
 					]
 				},
@@ -2329,7 +2329,7 @@
 					"type": "entries",
 					"name": "Empower: Training",
 					"entries": [
-						"When you issue the {@book Empower|XDMG|7|Empower} order to this facility, the facility's hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted in the Expert Trainers table. The benefit lasts for 7 days."
+						"Quando emetti l'ordine {@book Empower|XDMG|7|Empower} a questa struttura, i dipendenti della struttura condurranno esercizi di addestramento per i prossimi 7 giorni. Qualsiasi personaggio che si allena qui per almeno 8 ore in ciascuno di quei giorni ottiene un beneficio alla fine del periodo di addestramento. Il vantaggio dipende da quale formatore è presente nella struttura, come indicato nella tabella Formatori Esperti. Il beneficio dura 7 giorni."
 					]
 				}
 			]
@@ -2352,12 +2352,12 @@
 				"research"
 			],
 			"entries": [
-				"This room houses a collection of mementos, such as weapons from old battles, the mounted heads of slain creatures, trinkets plucked from dungeons and ruins, and trophies passed down from ancestors.",
+				"Questa stanza ospita una collezione di ricordi, come armi di antiche battaglie, teste a cavallo di creature uccise, ninnoli strappati da sotterranei e rovine e trofei tramandati dagli antenati.",
 				{
 					"type": "entries",
 					"name": "Research Options",
 					"entries": [
-						"When you issue the {@book Research|XDMG|7|Research} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Research|XDMG|7|Research} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -2365,12 +2365,12 @@
 								{
 									"type": "item",
 									"name": "Research:",
-									"entry": "Lore. You commission the facility's hireling to research a topic of your choice. The topic can be a legend, any kind of creature, or a famous object. The topic need not be directly related to items on display in the room, as the trophies provide clues to research a wide variety of other subjects. The work takes 7 days. When the research concludes, the hireling obtains up to three accurate pieces of information about the topic that were previously unknown to you and shares this knowledge with you the next time you speak with them. The DM determines what information is learned."
+									"entry": "Lore. Incarichi il mercenario della struttura di effettuare ricerche su un argomento di tua scelta. L'argomento può essere una leggenda, qualsiasi tipo di creatura o un oggetto famoso. Non è necessario che l'argomento sia direttamente correlato agli oggetti esposti nella stanza, poiché i trofei forniscono indizi per effettuare ricerche su un'ampia varietà di altri argomenti. Il lavoro dura 7 giorni. Quando la ricerca si conclude, il mercenario ottiene fino a tre informazioni precise sull'argomento che prima ti erano sconosciute e condivide queste conoscenze con te la prossima volta che parli con lui. Il DM determina quali informazioni vengono apprese."
 								},
 								{
 									"type": "item",
 									"name": "Research:",
-									"entry": "Trinket Trophy. You commission the facility's hireling to search for a trinket that might be of use to you. The work takes 7 days. When the research concludes, roll any die. If the number rolled is odd, the hireling finds nothing useful. If the number rolled is even, the hireling finds a magic item. Roll on the {@book Implements\u2014Common|XDMG|6|Implements\u2014Common} table in {@book chapter 7|XDMG|6} to determine what it is."
+									"entry": "Trofeo gingillo. Incarichi il mercenario della struttura di cercare un ninnolo che potrebbe esserti utile. Il lavoro dura 7 giorni. Quando la ricerca si conclude, lancia un dado qualsiasi. Se il numero tirato è dispari, il mercenario non trova nulla di utile. Se il numero ottenuto è pari, il mercenario trova un oggetto magico. Tira sulla tabella {@book Implements—Common|XDMG|6|Implements—Common} in {@book chapter 7|XDMG|6} per determinare di cosa si tratta."
 								}
 							]
 						}
@@ -2387,7 +2387,7 @@
 			"prerequisite": [
 				{
 					"otherSummary": {
-						"entry": "Fighting Style feature or Unarmored Defense feature",
+						"entry": "Funzionalità Stile di combattimento o Funzionalità di difesa senza armatura",
 						"entrySummary": "Fighting Style/Unarmored Defense"
 					}
 				}
@@ -2404,13 +2404,13 @@
 				"recruit"
 			],
 			"entries": [
-				"The War Room is where you plan military actions in consultation with an inner circle of loyal lieutenants, each one a battle-hardened {@b Veteran Warrior} (see the {@book Monster Manual|XMM}) whose alignment matches yours. You start with two lieutenants but can add more, as described below. If your Bastion lacks facilities to house your lieutenants, they secure accommodations in the inn or settlement closest to your Bastion. Lieutenants are hirelings, not Bastion Defenders; however, if your Bastion is attacked (see \"{@book Bastion Events|XDMG|7|Attack}\" at the end of this chapter), each lieutenant housed in your Bastion reduces by 1 the number of dice you roll to determine how many Bastion Defenders are lost in the attack.",
-				"The War Room contains war memorabilia plus a large table surrounded by enough chairs for you and your lieutenants.",
+				"La War Room è il luogo in cui pianifichi le azioni militari consultando una cerchia ristretta di leali luogotenenti, ognuno dei quali è un esperto in battaglia {@b Veteran Warrior} (vedi {@book Monster Manual|XMM}) il cui allineamento corrisponde al tuo. Inizi con due luogotenenti ma puoi aggiungerne altri, come descritto di seguito. Se il tuo Bastione non dispone di strutture per ospitare i tuoi luogotenenti, questi ti garantiranno una sistemazione nella locanda o nell'insediamento più vicino al tuo Bastione. I Luogotenenti sono mercenari, non Difensori del Bastione; tuttavia, se il tuo Bastione viene attaccato (vedi \"{@book Bastion Events|XDMG|7|Attack}\" alla fine di questo capitolo), ogni luogotenente ospitato nel tuo Bastione riduce di 1 il numero di dadi che tiri per determinare quanti Difensori del Bastione vengono persi nell'attacco.",
+				"La War Room contiene cimeli di guerra oltre a un grande tavolo circondato da abbastanza sedie per te e i tuoi luogotenenti.",
 				{
 					"type": "entries",
 					"name": "Recruit Options",
 					"entries": [
-						"When you issue the {@book Recruit|XDMG|7|Recruit} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Recruit|XDMG|7|Recruit} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -2418,12 +2418,12 @@
 								{
 									"type": "item",
 									"name": "Recruit:",
-									"entry": "Lieutenant. You gain one new lieutenant. You can have up to ten lieutenants at any time. Assign names and personalities to them as you see fit."
+									"entry": "Tenente. Ottieni un nuovo tenente. Puoi avere fino a dieci luogotenenti alla volta. Assegna loro nomi e personalità come ritieni opportuno."
 								},
 								{
 									"type": "item",
 									"name": "Recruit:",
-									"entry": "Soldiers. You commission one or more of your lieutenants to assemble a small army. Each lieutenant can muster one hundred {@creature Guard|XMM|Guards} (see the {@book Monster Manual|XMM}) in 7 days to fight for your cause. Reduce that number to twenty if you want them to be mounted on {@creature Riding Horse|XMM|Riding Horses} (see the {@book Monster Manual|XMM}). It costs you 1 GP per day to feed each guard and each horse in your army. Wherever the army goes, it must be led by you or at least one of your lieutenants, or else it disbands immediately. The army also disbands if it goes 1 day without being fed. Otherwise, the army remains until it is destroyed or you command it to disband. You can't issue this Recruit order again until your current army disbands or is destroyed."
+									"entry": "Soldati. Incarichi uno o più dei tuoi luogotenenti di riunire un piccolo esercito. Ogni luogotenente può radunarne cento {@creature Guard|XMM|Guards} (vedi {@book Monster Manual|XMM}) in 7 giorni per combattere per la tua causa. Riduci quel numero a venti se vuoi che siano montati su {@creature Riding Horse|XMM|Riding Horses} (vedi {@book Monster Manual|XMM}). Ti costa 1 GP al giorno nutrire ogni guardia e ogni cavallo del tuo esercito. Ovunque vada, l'esercito deve essere guidato da te o da almeno uno dei tuoi luogotenenti, altrimenti si scioglie immediatamente. L'esercito si scioglie anche se trascorre 1 giorno senza essere nutrito. Altrimenti, l'esercito rimane finché non viene distrutto o finché non gli ordini di sciogliersi. Non puoi impartire nuovamente questo ordine di reclutamento finché il tuo esercito attuale non si scioglie o non viene distrutto."
 								}
 							]
 						}
@@ -2455,12 +2455,12 @@
 				"craft"
 			],
 			"entries": [
-				"This Workshop is a creative space where useful items can be crafted.",
+				"Questo laboratorio è uno spazio creativo in cui è possibile creare oggetti utili.",
 				{
 					"type": "entries",
 					"name": "Artisan's Tools",
 					"entries": [
-						"The Workshop comes equipped with six different kinds of {@item Artisan's Tools|XPHB}, chosen from the following list:",
+						"Il Workshop è dotato di sei diversi tipi di {@item Artisan's Tools|XPHB}, scelti dal seguente elenco:",
 						{
 							"type": "list",
 							"columns": 3,
@@ -2484,7 +2484,7 @@
 					"type": "entries",
 					"name": "Craft Options",
 					"entries": [
-						"When you issue the {@book Craft|XDMG|7|Craft} order to this facility, choose one of the following options:",
+						"Quando emetti l'ordine {@book Craft|XDMG|7|Craft} a questa struttura, scegli una delle seguenti opzioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -2492,12 +2492,12 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Adventuring Gear. The facility's hirelings craft anything that can be made with the tools you chose when you added the Workshop to your Bastion (see above), using the rules in the {@book Player's Handbook|XPHB}."
+									"entry": "Equipaggiamento per l'avventura. I mercenari della struttura creano tutto ciò che può essere realizzato con gli strumenti che hai scelto quando hai aggiunto il Laboratorio al tuo Bastione (vedi sopra), utilizzando le regole nel {@book Player's Handbook|XPHB}."
 								},
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Magic Item (Implement). If you are level 9+, you can commission the facility's hirelings to craft a Common or an Uncommon magic item chosen by you from the {@book Implements|XDMG|6|Implements Tables} tables in {@book chapter 7|XDMG|6}. The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the {@skill Arcana|XPHB} skill. See the \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" section in {@book chapter 7|XDMG|6} for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hirelings can assist), and you must have all those spells prepared every day you spend crafting the item."
+									"entry": "Oggetto magico (attrezzo). Se sei di livello 9+, puoi incaricare i mercenari della struttura di creare un oggetto magico comune o non comune scelto da te dalle tabelle {@book Implements|XDMG|6|Implements Tables} in {@book chapter 7|XDMG|6}. La struttura dispone dello strumento necessario per fabbricare l'oggetto e i mercenari hanno competenza con tale strumento e competenza nell'abilità {@skill Arcana|XPHB}. Consulta la sezione \"{@book Crafting Magic Items|XDMG|6|Crafting Magic Items}\" in {@book chapter 7|XDMG|6} per il tempo e il denaro che devono essere spesi per creare l'oggetto. Se l'oggetto consente a chi lo utilizza di lanciare incantesimi, devi crearlo tu stesso (i mercenari della struttura possono aiutarti) e devi avere tutti quegli incantesimi preparati ogni giorno che trascorri a creare l'oggetto."
 								}
 							]
 						}
@@ -2507,14 +2507,14 @@
 					"type": "entries",
 					"name": "Source of Inspiration",
 					"entries": [
-						"After spending an entire {@variantrule Short Rest|XPHB} in your Workshop, you gain {@variantrule Heroic Inspiration|XPHB}. You can't gain this benefit again until you finish a {@variantrule Long Rest|XPHB}."
+						"Dopo aver speso un intero {@variantrule Short Rest|XPHB} nel tuo Laboratorio, guadagni {@variantrule Heroic Inspiration|XPHB}. Non potrai ottenere nuovamente questo vantaggio finché non avrai completato un {@variantrule Long Rest|XPHB}."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Enlarging the Facility",
 					"entries": [
-						"You can enlarge your Workshop to a Vast facility by spending 2,000 GP. If you do so, the Workshop gains two additional hirelings and three additional {@item Artisan's Tools|XPHB} (chosen from the list above)."
+						"Puoi ampliare la tua officina fino a farla diventare una struttura vasta spendendo 2.000 GP. Se lo fai, l'Officina guadagna due mercenari aggiuntivi e tre aggiuntivi {@item Artisan's Tools|XPHB} (scelti dall'elenco sopra)."
 					]
 				}
 			]
@@ -2543,19 +2543,19 @@
 				"research"
 			],
 			"entries": [
-				"The Zhentarim maintain stations to facilitate safe and swift long-distance travel on journeys (see {@book chapter 2|XDMG|1|Travel} of the {@book Dungeon Master's Guide|XDMG}). Your travel station includes temporary stabling facilities for four Large creatures; two Medium creatures occupy the same space as one Large creature there. The facility's hirelings look after these creatures.",
+				"Gli Zhentarim mantengono stazioni per facilitare viaggi sicuri e rapidi a lunga distanza durante i viaggi (vedi {@book chapter 2|XDMG|1|Travel} del {@book Dungeon Master's Guide|XDMG}). La tua stazione di viaggio include strutture di ricovero temporanee per quattro creature di taglia Grande; due creature Medie occupano lo stesso spazio di una creatura Grande lì presente. I mercenari della struttura si prendono cura di queste creature.",
 				{
 					"type": "entries",
 					"name": "Long-Distance Travel Speed",
 					"entries": [
-						"Finishing a {@variantrule Long Rest|XPHB} in your Bastion better prepares you for travel; your group's maximum travel pace increases by one step (from Slow to Normal or from Normal to Fast)."
+						"Completare un {@variantrule Long Rest|XPHB} nel tuo Bastione ti prepara meglio al viaggio; il ritmo di viaggio massimo del tuo gruppo aumenta di un passo (da Lento a Normale o da Normale a Veloce)."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Research: Reconnaissance",
 					"entries": [
-						"When you issue the Research order to this facility, you commission the Zhentarim Travel Station's hirelings to gather information that facilitates an upcoming journey. This work takes 7 days. For the duration of the journey, you have {@variantrule Advantage|XPHB} on Wisdom ({@skill Survival|XPHB}) checks to forage or navigate."
+						"Quando emetti l'ordine di ricerca a questa struttura, incarichi i mercenari della Stazione Viaggiante Zhentarim di raccogliere informazioni che facilitino il viaggio imminente. Questo lavoro richiede 7 giorni. Per tutta la durata del viaggio, hai {@variantrule Advantage|XPHB} prove di Saggezza ({@skill Survival|XPHB}) per cercare cibo o navigare."
 					]
 				}
 			],

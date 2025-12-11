@@ -19,9 +19,9 @@
 					"name": "Dragons in Dungeons",
 					"id": "001",
 					"entries": [
-						"Nothing is more quintessentially Dungeons & Dragons than gathering a group of heroes to face a mighty dragon in a mysterious dungeon. These classic elements link players across time and space, from the first adventurers who forayed into the gloom more than 50 years ago to players beginning their first adventure now.",
-						"{@i Dragon Delves} is a celebration of this shared tradition. Each of the ten adventures in this book features a dragon in a lair. Designed for characters of levels 1 through 12, the adventures offer a range of challenges, from defeating evil dragons to working with good dragons, as well as navigating more complicated moral dilemmas. The dungeons where the dragons make their lairs range from cavern complexes to ruined cities and more.",
-						"Where there are dragons in dungeons, there's always adventure!"
+						"Non c'è niente di più tipico di Dungeons & Dragons che riunire un gruppo di eroi per affrontare un potente drago in un misterioso dungeon. Questi elementi classici collegano i giocatori attraverso il tempo e lo spazio, dai primi avventurieri che fecero incursioni nell'oscurità più di 50 anni fa ai giocatori che iniziano ora la loro prima avventura.",
+						"{@i Dragon Delves} è una celebrazione di questa tradizione condivisa. Ognuna delle dieci avventure di questo libro presenta un drago in una tana. Progettate per personaggi di livello da 1 a 12, le avventure offrono una serie di sfide, dallo sconfiggere i draghi malvagi alla collaborazione con i draghi buoni, oltre ad affrontare dilemmi morali più complicati. I sotterranei in cui i draghi costruiscono le loro tane vanno da complessi di caverne a città in rovina e altro ancora.",
+						"Dove ci sono draghi nei sotterranei, c'è sempre avventura!"
 					]
 				},
 				{
@@ -29,14 +29,14 @@
 					"name": "Using This Book",
 					"id": "002",
 					"entries": [
-						"The adventures in an anthology such as {@i Dragon Delves} are versatile resources that can fill a variety of needs at your gaming table: as one-shot adventures, as \"filler episodes\" in an ongoing campaign, or as a series that forms a campaign, bringing characters from level 1 to a climactic conclusion at level 12.",
-						"These adventures are designed to require minimal preparation (see {@area Running the Adventures|009|x} later in this introduction).",
+						"Le avventure in un'antologia come {@i Dragon Delves} sono risorse versatili che possono soddisfare una varietà di esigenze sul tuo tavolo da gioco: come avventure one-shot, come \"episodi di riempimento\" in una campagna in corso o come serie che forma una campagna, portando i personaggi dal livello 1 a una conclusione culminante al livello 12.",
+						"Queste avventure sono progettate per richiedere una preparazione minima (vedi {@area Running the Adventures|009|x} più avanti in questa introduzione).",
 						{
 							"type": "entries",
 							"name": "One-Shot Adventure",
 							"id": "003",
 							"entries": [
-								"Maybe you're normally a player in an ongoing campaign, but you want to try your hand at being the Dungeon Master. Maybe you're trying to pull a new group together, and you want to see how all the players get along before you start a whole campaign. Maybe your regular DM is sick or has a scheduling conflict, but everyone else is ready to play. Or maybe your group needs a break or a diversion from the ongoing campaign. In any of these cases, you can pick an adventure from this book and run it."
+								"Forse normalmente sei un giocatore in una campagna in corso, ma vuoi provare a diventare il Dungeon Master. Forse stai cercando di mettere insieme un nuovo gruppo e vuoi vedere come vanno d'accordo tutti i giocatori prima di iniziare un'intera campagna. Forse il tuo DM abituale è malato o ha un conflitto di programmazione, ma tutti gli altri sono pronti a giocare. O forse il tuo gruppo ha bisogno di una pausa o di un diversivo dalla campagna in corso. In ognuno di questi casi, puoi scegliere un'avventura da questo libro ed eseguirla."
 							]
 						},
 						{
@@ -44,7 +44,7 @@
 							"name": "In an Ongoing Campaign",
 							"id": "004",
 							"entries": [
-								"Maybe your players' characters know what they have to do to foil the evil boss's plans, but they're not quite high enough level to accomplish their goal. Or they've just hit a significant milestone in the campaign, and you want to give them a change of pace before they get immersed in the next act of the unfolding drama. Or they're traveling halfway around the world, and you're looking for something to keep the journey interesting\u2014a little adventure along the way. Or you're not prepared for the next adventure, and you need a diversion! In any of these cases, you can pick an adventure from this book to serve as a \"filler\" episode or side quest in the ongoing campaign.",
+								"Forse i personaggi dei tuoi giocatori sanno cosa devono fare per sventare i piani del boss malvagio, ma non sono di livello abbastanza alto per raggiungere il loro obiettivo. Oppure hanno appena raggiunto un traguardo significativo nella campagna e vuoi dare loro un cambio di ritmo prima che si immergano nell'atto successivo del dramma in corso. Oppure stanno viaggiando dall'altra parte del mondo e tu stai cercando qualcosa per rendere il viaggio interessante: una piccola avventura lungo il percorso. Oppure non sei preparato per la prossima avventura e hai bisogno di un diversivo! In ognuno di questi casi, puoi scegliere un'avventura da questo libro da utilizzare come episodio \"riempitivo\" o missione secondaria nella campagna in corso.",
 								{
 									"type": "image",
 									"href": {
@@ -54,8 +54,8 @@
 									"width": 850,
 									"height": 2286
 								},
-								"When the characters are the appropriate level for the adventure you wish to run, simply narrate how the characters end up in the adventure's locale. Each adventure's beginning includes a simple setting description, such as \"a village with a nearby forest.\" Beyond these basic details, feel free to alter the adventure's location to match your campaign.",
-								"But if you do have time to prepare, you can incorporate the adventure you're running into the themes and threats of your campaign. You can alter the names of people and places in the adventure to fit better into your world, link the adventure villains to organizations and events that are important in your campaign, and plant clues to the themes of your campaign in the dragon's treasure hoard."
+								"Quando i personaggi sono al livello appropriato per l'avventura che desideri svolgere, racconta semplicemente come i personaggi finiscono nel luogo dell'avventura. L'inizio di ogni avventura include una semplice descrizione dell'ambientazione, come \"un villaggio con una foresta vicina\". Oltre a questi dettagli di base, sentiti libero di modificare il luogo dell'avventura per adattarlo alla tua campagna.",
+								"Ma se hai tempo per prepararti, puoi incorporare l'avventura che stai affrontando nei temi e nelle minacce della tua campagna. Puoi modificare i nomi delle persone e dei luoghi dell'avventura per adattarli meglio al tuo mondo, collegare i cattivi dell'avventura a organizzazioni ed eventi importanti nella tua campagna e piantare indizi sui temi della tua campagna nel tesoro del drago."
 							]
 						}
 					]
@@ -65,15 +65,15 @@
 					"name": "Creating a Campaign",
 					"id": "005",
 					"entries": [
-						"These adventures can be strung together as a complete dragon-themed campaign. Simply guide your players through the adventures in the order presented in this book and award story-based level advancement at each adventure's end, so their characters are the appropriate level for the next challenge they'll face. (No level advancement is necessary before the final adventure.) You can also use one of the following narrative frameworks to connect the adventures to one another.",
+						"Queste avventure possono essere messe insieme come una campagna completa a tema drago. Guida semplicemente i tuoi giocatori attraverso le avventure nell'ordine presentato in questo libro e premia l'avanzamento di livello basato sulla storia alla fine di ogni avventura, in modo che i loro personaggi raggiungano il livello appropriato per la prossima sfida che dovranno affrontare. (Non è necessario alcun avanzamento di livello prima dell'avventura finale.) Puoi anche utilizzare una delle seguenti strutture narrative per collegare le avventure tra loro.",
 						{
 							"type": "entries",
 							"name": "Option 1: Mysterious Patron",
 							"id": "006",
 							"entries": [
-								"Have a friendly patron whose true identity is somewhat mysterious befriend the adventurers early in their careers and send them on each adventure in sequence. The patron might be a charismatic young monk, a kindly teacher, a diminutive scamp, or a scatter-brained elder, and might or might not be accompanied by seven golden canaries or dazzling yellow butterflies, which are actually ancient gold dragons in disguise\u2014the companions of the dragon god Bahamut, which is the patron's true identity.",
-								"Perhaps foreseeing that they are destined to become mighty heroes, Bahamut takes the adventurers under his metaphorical wing and sends them on adventures to deal with draconic concerns, great and small, across the world. The patron might feign surprise when an adventure that doesn't at first seem to involve a dragon (such as \"{@adventure The Will of Orcus|DrDe-TWoO|1},\" chapter 3) turns out to revolve around one, but of course that's exactly the reason Bahamut sent the characters to investigate.",
-								"You can use each adventure as written, with the characters' patron steering them in the general direction of the adventure hook without spoiling any surprises in the adventure ahead. Alternatively, the patron could let the characters in on the secret early on, telling them that dragons will be a particular focus of their adventures and altering some of the adventure hooks along the way."
+								"Chiedi a un mecenate amichevole la cui vera identità è alquanto misteriosa di fare amicizia con gli avventurieri all'inizio della loro carriera e di inviarli in ogni avventura in sequenza. Il patrono potrebbe essere un giovane monaco carismatico, un insegnante gentile, un minuscolo furfante o un anziano sventato, e potrebbe o meno essere accompagnato da sette canarini dorati o abbaglianti farfalle gialle, che in realtà sono antichi draghi d'oro sotto mentite spoglie: i compagni del dio drago Bahamut, che è la vera identità del patrono.",
+								"Forse prevedendo che sarebbero destinati a diventare potenti eroi, Bahamut prende gli avventurieri sotto la sua metaforica ala protettrice e li manda all'avventura per affrontare problemi draconiani, grandi e piccoli, in tutto il mondo. Il cliente potrebbe fingere sorpresa quando un'avventura che a prima vista non sembra coinvolgere un drago (come \"{@adventure The Will of Orcus|DrDe-TWoO|1}\" capitolo 3) si scopre che ruota attorno a uno di essi, ma ovviamente questo è esattamente il motivo per cui Bahamut ha inviato i personaggi a indagare.",
+								"Puoi utilizzare ogni avventura così come è scritta, con il patrono dei personaggi che li guida nella direzione generale dell'avventura senza rovinare alcuna sorpresa nell'avventura successiva. In alternativa, il mecenate potrebbe far conoscere il segreto ai personaggi fin dall'inizio, dicendo loro che i draghi saranno il fulcro particolare delle loro avventure e alterando alcuni degli agganci dell'avventura lungo il percorso."
 							]
 						},
 						{
@@ -81,8 +81,8 @@
 							"name": "Option 2: Brazen Egg",
 							"id": "007",
 							"entries": [
-								"Begin the campaign with the introductory encounter of chapter 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1},\" ending with Eldemere entrusting the Brazen Egg to the characters. Eldemere's instructions are different, though: she explains that the egg must be \"steeped\" in the hoards of ten dragons, one of each chromatic and metallic kind, to activate its power. She also suggests that the egg will lead the characters toward suitable hoards. In fact, any character who sleeps within 15 feet of the egg has vivid dreams leading them toward the start of the next adventure.",
-								"To draw power from a dragon's hoard, the egg must spend 8 hours in the midst of the treasure, covered with coins and surrounded by other items. However, as soon as the empowered egg is brought within Anthradusk's hoard chamber ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} in chapter 10), it reaches its full potential and begins to crack open, as described in that adventure."
+								"Inizia la campagna con l'incontro introduttivo del capitolo 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1}\", che termina con Eldemere che affida l'Uovo di Bronzo ai personaggi. Le istruzioni di Eldemere sono diverse, però: spiega che l'uovo deve essere \"immerso\" nelle orde di dieci draghi, uno per ogni tipo cromatico e metallico, per attivare il suo potere. Suggerisce anche che l'uovo condurrà i personaggi verso i tesori adatti. In effetti, qualsiasi personaggio che dorme entro 15 piedi dall'uovo fa sogni vividi che lo portano verso l'inizio della prossima avventura.",
+								"Per trarre potere dal tesoro di un drago, l'uovo deve trascorrere 8 ore in mezzo al tesoro, coperto di monete e circondato da altri oggetti. Tuttavia, non appena l'uovo potenziato viene portato nella camera del tesoro di Anthradusk ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} nel capitolo 10), raggiunge il suo pieno potenziale e inizia ad aprirsi, come descritto in quell'avventura."
 							]
 						},
 						{
@@ -90,7 +90,7 @@
 							"name": "Option 3: Hoard Magic Items",
 							"id": "008",
 							"entries": [
-								"If you have {@book Fizban's Treasury of Dragons|FTD|4}, the hoard of magic items described in that book can provide an incentive for characters to seek out dragons of increasing power and different kinds. Add the following items to the rewards acquired in the first three adventures: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1},\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1},\" and a {@item Dragon's Wrath Weapon|FTD} and a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" All four items are Slumbering when the characters first acquire them, but in later adventures, the items can be awakened by steeping them in dragons' hoards."
+								"Se hai {@book Fizban's Treasury of Dragons|FTD|4}, il tesoro di oggetti magici descritti in quel libro può fornire un incentivo ai personaggi a cercare draghi di crescente potenza e di diverso tipo. Aggiungi i seguenti oggetti alle ricompense acquisite nelle prime tre avventure: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1}\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1}\" e a {@item Dragon's Wrath Weapon|FTD} e a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" Tutti e quattro gli oggetti sono addormentati quando i personaggi li acquisiscono per la prima volta, ma nelle avventure successive gli oggetti possono essere risvegliati immergendoli nei tesori dei draghi."
 							]
 						}
 					]
@@ -100,14 +100,14 @@
 					"name": "Running the Adventures",
 					"id": "009",
 					"entries": [
-						"To run each of these adventures, you need the fifth edition core rulebooks: the {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|XMM}. Spells and equipment mentioned in the adventures are described in the {@book Player's Handbook|XPHB}. Magic items are detailed in the {@book Dungeon Master's Guide|XDMG}, and monsters appear in the {@book Monster Manual|XMM}.",
-						"The table of contents summarizes the adventures in this anthology. Each adventure is designed for four to six characters of a particular level, but you can adjust for larger or smaller groups by changing the number of foes in an encounter and giving a small group additional resources, as explained in the {@book Dungeon Master's Guide|XDMG}. Each of the adventures can take place in any world you choose, as long as the location has the basic elements listed at the beginning of each adventure.",
+						"Per eseguire ciascuna di queste avventure, sono necessari i regolamenti base della quinta edizione: {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|XMM}. Gli incantesimi e l'equipaggiamento menzionati nelle avventure sono descritti nel {@book Player's Handbook|XPHB}. Gli oggetti magici sono dettagliati in {@book Dungeon Master's Guide|XDMG} e i mostri appaiono in {@book Monster Manual|XMM}.",
+						"Il sommario riassume le avventure di questa antologia. Ogni avventura è progettata per quattro-sei personaggi di un particolare livello, ma puoi adattarti a gruppi più o meno grandi modificando il numero di nemici in un incontro e fornendo a un piccolo gruppo risorse aggiuntive, come spiegato nel {@book Dungeon Master's Guide|XDMG}. Ognuna delle avventure può svolgersi in qualsiasi mondo tu scelga, purché il luogo contenga gli elementi di base elencati all'inizio di ogni avventura.",
 						{
 							"type": "entries",
 							"name": "Preparation",
 							"id": "00a",
 							"entries": [
-								"Every adventure in this book begins with a page that helps you prepare and run the adventure. It includes the following elements:",
+								"Ogni avventura in questo libro inizia con una pagina che ti aiuta a preparare e gestire l'avventura. Comprende i seguenti elementi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -115,17 +115,17 @@
 										{
 											"type": "item",
 											"name": "Key Plot Points",
-											"entry": "A summary of the key elements in the adventure's story"
+											"entry": "Un riassunto degli elementi chiave della storia dell'avventura"
 										},
 										{
 											"type": "item",
 											"name": "Preparation",
-											"entry": "Steps to get yourself ready to run the adventure, including a list of all the stat blocks from the {@book Monster Manual|XMM} you might need"
+											"entry": "Passaggi per prepararti a vivere l'avventura, incluso un elenco di tutti i blocchi delle statistiche del {@book Monster Manual|XMM} di cui potresti aver bisogno"
 										},
 										{
 											"type": "item",
 											"name": "Key NPCs",
-											"entry": "A table summarizing key nonplayer characters in the adventure\u2014their names, roles, stat blocks, and locations\u2014to help you keep track of them during play"
+											"entry": "Una tabella che riassume i principali personaggi non giocanti dell'avventura (i loro nomi, ruoli, blocchi delle statistiche e posizioni) per aiutarti a tenerne traccia durante il gioco"
 										}
 									]
 								}
@@ -136,7 +136,7 @@
 							"name": "Player Assistance",
 							"id": "00b",
 							"entries": [
-								"As described in the {@book Dungeon Master's Guide|XDMG}, you can streamline your role as Dungeon Master by delegating certain tasks to the other players, especially if this is your first time behind the DM's screen. Before play begins, work with the other players to divide any or all of the following tasks among them:",
+								"Come descritto nel {@book Dungeon Master's Guide|XDMG}, puoi semplificare il tuo ruolo di Dungeon Master delegando determinati compiti agli altri giocatori, soprattutto se è la prima volta dietro lo schermo del DM. Prima che il gioco inizi, collabora con gli altri giocatori per dividere tra loro alcuni o tutti i seguenti compiti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,17 +144,17 @@
 										{
 											"type": "item",
 											"name": "Initiative Tracker",
-											"entry": "In combat, one player tracks Initiative for the characters and monsters."
+											"entry": "In combattimento, un giocatore tiene traccia dell'iniziativa dei personaggi e dei mostri."
 										},
 										{
 											"type": "item",
 											"name": "Monster Wranglers",
-											"entry": "Whenever the characters enter combat with Hostile monsters, one or two players run these monsters using the stat blocks in the {@book Monster Manual|XMM}. (Two players can share this role.)"
+											"entry": "Ogni volta che i personaggi entrano in combattimento con mostri ostili, uno o due giocatori gestiscono questi mostri utilizzando i blocchi delle statistiche nel {@book Monster Manual|XMM}. (Due giocatori possono condividere questo ruolo.)"
 										},
 										{
 											"type": "item",
 											"name": "Rules Consultant",
-											"entry": "One player references rules in the {@book Player's Handbook|XPHB} or other books as needed."
+											"entry": "Un giocatore fa riferimento alle regole nel {@book Player's Handbook|XPHB} o in altri libri secondo necessità."
 										}
 									]
 								}
@@ -165,15 +165,15 @@
 							"name": "Adventures for One Character",
 							"id": "00c",
 							"entries": [
-								"While the {@book Dungeon Master's Guide|XDMG} explains how to adjust adventures for different party sizes, three of the adventures (indicated in the table of contents) are particularly well-suited for play with a single adventurer. Each of these adventures includes instructions for ensuring the character faces an appropriate challenge.",
-								"Central to those instructions is the {@i Blessing of the Lone Champion}, a supernatural gift that bolsters the solo character's abilities.",
+								"Mentre il {@book Dungeon Master's Guide|XDMG} spiega come adattare le avventure alle diverse dimensioni del gruppo, tre delle avventure (indicate nel sommario) sono particolarmente adatte per essere giocate con un singolo avventuriero. Ognuna di queste avventure include istruzioni per garantire che il personaggio affronti una sfida adeguata.",
+								"Al centro di queste istruzioni c'è il {@i Blessing of the Lone Champion}, un dono soprannaturale che rafforza le abilità del personaggio solista.",
 								{
 									"type": "statblock",
 									"name": "Blessing of the Lone Champion",
 									"source": "DrDe",
 									"tag": "reward"
 								},
-								"The blessing lasts for the duration of the adventure."
+								"La benedizione dura per tutta la durata dell'avventura."
 							]
 						},
 						{
@@ -181,10 +181,10 @@
 							"name": "A Draconic History",
 							"id": "00e",
 							"entries": [
-								"In addition to ten adventures, this book includes special sections that feature art of each dragon variety, drawing from almost the whole 50-year history of Dungeons & Dragons, from the 1977 Monster Manual to the one published in 2025. The appearance of all ten dragon types has evolved significantly over the past fifty years, but close examination of these images reveals points of continuity as well, from the blue dragon's nose horn to the silver dragon's crest.",
-								"Artist Todd Lockwood spearheaded a thorough revision of all ten dragon types for the release of D&D's third edition in 2000, basing his designs on the anatomy of real-world animals and certain points of continuity with earlier designs. With a few variations, those designs set the standard for D&D's dragons for over 20 years.",
-								"In preparation for the release of the {@book Monster Manual|XMM} (2025), art director Josh Herman led a comprehensive refresh of all the dragon looks as D&D began its second half-century. With the goal of ensuring each dragon's distinct identity\u2014its personality, preferred habitat, and combat style\u2014shines through in its look, this redesign showcases visually what's unique about each type of dragon.",
-								"In the same way, this book highlights how an adventure featuring one kind of dragon can feel distinct from all the others."
+								"Oltre a dieci avventure, questo libro include sezioni speciali che presentano illustrazioni di ciascuna varietà di drago, attingendo da quasi tutti i 50 anni di storia di Dungeons & Dragons, dal Manuale dei Mostri del 1977 a quello pubblicato nel 2025. L'aspetto di tutti e dieci i tipi di drago si è evoluto in modo significativo negli ultimi cinquant'anni, ma un attento esame di queste immagini rivela anche punti di continuità, dal corno nasale del drago blu alla cresta del drago d'argento.",
+								"L'artista Todd Lockwood ha guidato una revisione approfondita di tutti e dieci i tipi di drago per l'uscita della terza edizione di D&D nel 2000, basando i suoi progetti sull'anatomia degli animali del mondo reale e su alcuni punti di continuità con i progetti precedenti. Con poche variazioni, questi design stabiliscono lo standard per i draghi di D&D per oltre 20 anni.",
+								"In preparazione all'uscita di {@book Monster Manual|XMM} (2025), il direttore artistico Josh Herman ha condotto un aggiornamento completo di tutti i look dei draghi mentre D&D iniziava la sua seconda metà di secolo. Con l'obiettivo di garantire che l'identità distinta di ogni drago (la sua personalità, l'habitat preferito e lo stile di combattimento) traspaia nel suo aspetto, questa riprogettazione mostra visivamente ciò che rende unico ogni tipo di drago.",
+								"Allo stesso modo, questo libro evidenzia come un’avventura che abbia come protagonista un tipo di drago possa sembrare distinta da tutti gli altri."
 							]
 						}
 					]
@@ -243,7 +243,7 @@
 					"name": "Key Plot Points",
 					"id": "20d",
 					"entries": [
-						"The following information is key to this adventure's story:",
+						"Le seguenti informazioni sono fondamentali per la storia di questa avventura:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -251,12 +251,12 @@
 								{
 									"type": "item",
 									"name": "Mountain Wildfires",
-									"entry": "A red dragon is igniting wildfires near a small town called Arborean Springs. The adventurers need to stop the wildfires, but must decide whether to slay the dragon or return it to slumber using a potent sleeping concoction."
+									"entry": "Un drago rosso sta appiccando degli incendi vicino a una piccola città chiamata Arborean Springs. Gli avventurieri devono fermare gli incendi, ma devono decidere se uccidere il drago o riportarlo in sonno usando un potente intruglio soporifero."
 								},
 								{
 									"type": "item",
 									"name": "Forbidden Vale",
-									"entry": "The group journeys to the Forbidden Vale, facing wildfires and other natural threats on the way. The red dragon lairs in magical gardens that githyanki exiles built ages ago. In the gardens, the characters face the dragon and various other monstrous foes."
+									"entry": "Il gruppo si reca nella Valle Proibita, affrontando incendi e altre minacce naturali lungo la strada. Il drago rosso vive nei giardini magici che gli esuli githyanki costruirono secoli fa. Nei giardini i personaggi affrontano il drago e vari altri nemici mostruosi."
 								}
 							]
 						}
@@ -267,7 +267,7 @@
 					"name": "Preparation",
 					"id": "20e",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -275,17 +275,17 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "Read the \"{@area Adventure Background|20f|x}\" section."
+									"entry": "Leggi la sezione \"{@area Adventure Background|20f|x}\"."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Familiarize yourself with the individuals described in the {@adventure Key NPCs|DrDe-TFV|1|Key NPCs} table. The characters will interact with these NPCs throughout the adventure."
+									"entry": "Acquisisci familiarità con le persone descritte nella tabella {@adventure Key NPCs|DrDe-TFV|1|Key NPCs}. I personaggi interagiranno con questi NPC durante l'avventura."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Bookmark the following stat blocks in the {@book Monster Manual|XMM} or on D&D Beyond:"
+									"entry": "Aggiungi ai segnalibri i seguenti blocchi di statistiche in {@book Monster Manual|XMM} o su D&D Beyond:"
 								}
 							]
 						},
@@ -347,75 +347,75 @@
 							],
 							"rows": [
 								[
-									"Catacus",
-									"Druidic elf elder who wants the dragon protected",
-									"{@creature Archpriest|XMM} (Medium)",
+									"Cataco",
+									"Elfo druidico anziano che vuole che il drago sia protetto",
+									"{@creature Archpriest|XMM} (Medio)",
 									"\"{@area Nature Lovers|215|x}\""
 								],
 								[
 									"Eblus",
-									"Elf who disappeared three months ago",
-									"{@creature Druid|XMM} (Medium)",
+									"Elfo scomparso tre mesi fa",
+									"{@creature Druid|XMM} (Medio)",
 									"{@area G21|289|x}"
 								],
 								[
-									"Deathkiss, Demondream, and Murderbliss",
-									"Allies of Xabazhut",
+									"Bacio della Morte, Sogno Demoniaco e Murderbliss",
+									"Alleati di Xabazhut",
 									"{@creature Green Hag|XMM}",
 									"{@area G15|275|x}"
 								],
 								[
 									"Duban",
-									"Ozzadraz's unwilling servant",
+									"Il servitore riluttante di Ozzadraz",
 									"{@creature Marid|XMM}",
 									"{@area G25|296|x}"
 								],
 								[
 									"Ginder Nanik",
-									"Human merchant who wants to exploit the gardens' magic",
-									"{@creature Noble Prodigy|XMM} (Medium)",
+									"Mercante umano che vuole sfruttare la magia dei giardini",
+									"{@creature Noble Prodigy|XMM} (Medio)",
 									"\"{@area Merchants|21c|x}\""
 								],
 								[
 									"Gree",
-									"Javek Horn's human ancestor, long missing",
-									"{@creature Berserker|XMM} (Small)",
+									"L'antenato umano di Javek Horn, scomparso da tempo",
+									"{@creature Berserker|XMM} (Piccolo)",
 									"{@area G21|289|x}"
 								],
 								[
-									"Hate's Embrace",
-									"Garden guardian",
+									"L'abbraccio dell'odio",
+									"Guardiano del giardino",
 									"{@creature Spirit Naga|XMM}",
 									"{@area G6|252|x}"
 								],
 								[
-									"Javek and Vara Horn",
-									"Human elders trying to protect the region",
-									"{@creature Tough Boss|XMM|Tough Bosses} (Small)",
+									"Javek e Vara Horn",
+									"Anziani umani che cercano di proteggere la regione",
+									"{@creature Tough Boss|XMM|Tough Bosses} (Piccolo)",
 									"\"{@area Traditionalists|21e|x}\""
 								],
 								[
 									"Ozzadraz",
-									"Githyanki commander in suspended animation",
+									"Comandante Githyanki in animazione sospesa",
 									"{@creature Githyanki Knight|XMM}",
 									"{@area G12|264|x}"
 								],
 								[
 									"Serev",
-									"Human from Arcadian Springs",
-									"{@creature Noble|XMM} (Medium)",
+									"Umano di Arcadian Springs",
+									"{@creature Noble|XMM} (Medio)",
 									"{@area G21|289|x}"
 								],
 								[
 									"Xabazhut",
-									"The gardens' dragon protector",
+									"Il drago protettore dei giardini",
 									"{@creature Young Red Dragon|XMM}",
 									"{@area G14|26e|x}"
 								],
 								[
 									"Zumzn",
-									"Githyanki transformed into a treant",
-									"{@creature Treant|XMM} (Neutral)",
+									"Githyanki si trasformò in un treant",
+									"{@creature Treant|XMM} (Neutro)",
 									"{@area G24|291|x}"
 								]
 							]
@@ -427,19 +427,19 @@
 					"name": "Adventure Background",
 					"id": "20f",
 					"entries": [
-						"Ages ago, four powerful githyanki who were banished from the Astral Plane for treason against their lich-queen built a ziggurat in a region now known as the Forbidden Vale. There they cultivated magical plants to extend their lives. From this idyllic capital, the githyanki conquered the surrounding region with the aid of a red dragon who followed them into exile.",
-						"In the end, though, the same fractiousness that set these githyanki against their lich-queen turned them against each other, and their subjects took advantage of this weakness to throw off their yoke. The kingdom's subjects defeated the githyanki and declared independence, but centuries later, the magical gardens endure under the watchful protection of a different red dragon, Xabazhut.",
-						"Xabazhut is a young dragon born from the ashes of the ancient dragon who died in the gardens. He now seeks to carry on the ancient dragon's tradition of driving people away from the valley. Every two centuries, the ancient dragon flew over the region, raining down fiery destruction. This bicentennial rampage ensured that people didn't build their farms and villages too close to the valley. Xabazhut now carries out this practice of his forebear.",
+						"Secoli fa, quattro potenti githyanki che furono banditi dal Piano Astrale per tradimento contro la loro regina dei lich costruirono uno ziggurat in una regione ora conosciuta come la Valle Proibita. Lì coltivavano piante magiche per prolungare la loro vita. Da questa idilliaca capitale, i githyanki conquistarono la regione circostante con l'aiuto di un drago rosso che li seguì in esilio.",
+						"Alla fine, però, la stessa ribellione che mise questi githyanki contro la loro regina dei lich li spinse l'uno contro l'altro, e i loro sudditi approfittarono di questa debolezza per liberarsi dal loro giogo. I sudditi del regno sconfissero i githyanki e dichiararono l'indipendenza, ma secoli dopo, i giardini magici sopravvivono sotto la vigile protezione di un diverso drago rosso, Xabazhut.",
+						"Xabazhut è un giovane drago nato dalle ceneri dell'antico drago morto nei giardini. Ora cerca di portare avanti l'antica tradizione del drago di scacciare le persone dalla valle. Ogni due secoli, l'antico drago volava sulla regione, facendo piovere distruzione infuocata. Questa furia bicentenaria fece sì che le persone non costruissero le loro fattorie e i loro villaggi troppo vicino alla valle. Xabazhut ora porta avanti questa pratica del suo antenato.",
 						{
 							"type": "entries",
 							"name": "Githyanki Exiles",
 							"id": "210",
 							"entries": [
-								"The four githyanki who created the Forbidden Vale and its magical gardens filled different roles and came to different ends:",
-								"{@b Kh'krai}, a mage, was responsible for much of the magic in the gardens. He attempted to overthrow Ozzadraz and was killed.",
-								"{@b Ozzadraz} was the military commander of the githyanki exiles and ruler of their kingdom. After the realm fell, he entered a state of suspended animation and lies in state within the first tier of the gardens (area {@area G12|264|x}).",
-								"{@b Suthket} designed the gardens. She sided with Kh'krai in his revolt and also was killed.",
-								"{@b Zumzn} was responsible for cultivating the gardens. Ultimately, she became one with the plants she tended, transforming into a treant who now guards the top tier of the gardens (area {@area G24|291|x})."
+								"I quattro githyanki che crearono la Valle Proibita e i suoi giardini magici ricoprirono ruoli diversi e arrivarono a fini diversi:",
+								"{@b Kh'krai}, un mago, era responsabile di gran parte della magia nei giardini. Ha tentato di rovesciare Ozzadraz ed è stato ucciso.",
+								"{@b Ozzadraz} era il comandante militare degli esuli githyanki e sovrano del loro regno. Dopo la caduta del regno, entrò in uno stato di animazione sospesa e giace all'interno del primo livello dei giardini (area {@area G12|264|x}).",
+								"{@b Suthket} ha progettato i giardini. Si schierò con Kh'krai nella sua rivolta e fu uccisa anche lei.",
+								"{@b Zumzn} era responsabile della coltivazione dei giardini. Alla fine, è diventata tutt'uno con le piante che curava, trasformandosi in un treant che ora custodisce il livello più alto dei giardini (area {@area G24|291|x})."
 							]
 						}
 					]
@@ -449,9 +449,9 @@
 					"name": "Beginning the Adventure",
 					"id": "211",
 					"entries": [
-						"The characters are traveling near the Paradise Mountains when wildfires catch their attention. As they travel, they notice that a curtain of smoke tints the midday sky an unnatural shade of orange.",
-						"You can decide why the characters are traveling in the region; they might just be passing through or be traveling to the town of Arborean Springs. Perhaps local residents sent messengers to nearby communities seeking help from adventurers. The characters might all have dreamed about a lush valley threatened by wildfires or received a divine message directing them to the valley. Or they could plan to visit the hot springs in town as a relaxing break from their adventures.",
-						"When the characters investigate the smoke's source, they find the town of Arborean Springs."
+						"I personaggi stanno viaggiando vicino alle Montagne Paradiso quando gli incendi attirano la loro attenzione. Mentre viaggiano, notano che una cortina di fumo tinge il cielo di mezzogiorno di un'innaturale tonalità arancione.",
+						"Puoi decidere perché i personaggi viaggiano nella regione; potrebbero essere solo di passaggio o in viaggio verso la città di Arborean Springs. Forse i residenti locali hanno inviato messaggeri alle comunità vicine in cerca di aiuto dagli avventurieri. Tutti i personaggi potrebbero aver sognato una valle lussureggiante minacciata da incendi o aver ricevuto un messaggio divino che li indirizzava verso la valle. Oppure potrebbero programmare di visitare le sorgenti termali della città come pausa rilassante dalle loro avventure.",
+						"Quando i personaggi indagano sulla fonte del fumo, trovano la città di Arborean Springs."
 					]
 				},
 				{
@@ -459,15 +459,15 @@
 					"name": "Arborean Springs",
 					"id": "212",
 					"entries": [
-						"Read or paraphrase the following aloud when the characters approach Arborean Springs:",
+						"Leggi o parafrasa quanto segue ad alta voce quando i personaggi si avvicinano ad Arborean Springs:",
 						{
 							"type": "insetReadaloud",
 							"id": "213",
 							"entries": [
-								"A small town surrounded by ancient stone walls perches on a rocky outcropping overlooking a valley containing hot springs and lush fields. In the fields beyond, wheat and barley grow in abundance alongside flourishing vineyards. Sheep and goats graze on the surrounding hills. The town itself is a mix of recent wooden construction and ancient stone buildings."
+								"Una piccola cittadina circondata da antiche mura in pietra è arroccata su uno sperone roccioso che domina una valle contenente sorgenti termali e campi rigogliosi. Nei campi circostanti, il grano e l'orzo crescono in abbondanza accanto a rigogliosi vigneti. Pecore e capre pascolano sulle colline circostanti. La città stessa è un mix di recenti costruzioni in legno e antichi edifici in pietra."
 							]
 						},
-						"The people of Arborean Springs fall into three broad groups:",
+						"La gente di Arborean Springs si divide in tre grandi gruppi:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -475,48 +475,48 @@
 								{
 									"type": "item",
 									"name": "Traditionalists",
-									"entry": "Most of the people of Arborean Springs are farmers and herders descended from folk the githyanki subjugated ages ago. Their folklore describes this history, though it has become distorted over time."
+									"entry": "La maggior parte della popolazione di Arborean Springs sono agricoltori e pastori, discendenti di popoli soggiogati dai githyanki secoli fa. Il loro folklore descrive questa storia, sebbene sia stata distorta nel tempo."
 								},
 								{
 									"type": "item",
 									"name": "Nature Lovers",
-									"entry": "After the fall of the githyanki's kingdom, followers of a druidic nature religion came here, drawn by the unique plants that have spread from the githyanki's magical gardens."
+									"entry": "Dopo la caduta del regno dei githyanki, i seguaci di una religione della natura druidica vennero qui, attratti dalle piante uniche che si sono diffuse dai giardini magici dei githyanki."
 								},
 								{
 									"type": "item",
 									"name": "Merchants",
-									"entry": "In the two centuries since the dragon's last fiery rampage, the town's population has expanded significantly, with merchants, artisans, and entrepreneurs seeking to profit from the health benefits of the town's hot springs."
+									"entry": "Nei due secoli trascorsi dall'ultima furia del drago, la popolazione della città è cresciuta in modo significativo, con mercanti, artigiani e imprenditori che cercano di trarre profitto dai benefici per la salute delle sorgenti termali della città."
 								}
 							]
 						},
-						"These groups are described in more detail in the next section.",
+						"Questi gruppi sono descritti più dettagliatamente nella sezione successiva.",
 						{
 							"type": "entries",
 							"name": "Interacting with Townsfolk",
 							"id": "214",
 							"entries": [
-								"Tensions are high in Arborean Springs when the characters arrive. The wildfires present a significant threat to the surrounding fields and pasturelands. Already the little town can't accommodate the people the fires have displaced.",
-								"Some townspeople are aware that a dragon caused the wildfires. They recognize that the dragon could threaten the town even if wind doesn't carry the wildfires there. The most prominent locals disagree about what to do, and this has exacerbated tensions.",
-								"Townsfolk are initially Indifferent to the characters. If the characters seek out local leaders, they're quickly directed to Catacus (see \"{@area Nature Lovers|215|x}\"), Javek and Vara Horn (see \"{@area Traditionalists|21e|x}\"), or Ginder Nanik (see \"{@area Merchants|21c|x}\"). If the characters are more interested in talking to people on the street, they encounter merchants and traditionalists, but they might also find members of the Burning Circle (see \"Nature Lovers\" below). Each group's general opinions align with its leader's, as described below.",
+								"La tensione è alta ad Arborean Springs quando arrivano i personaggi. Gli incendi rappresentano una minaccia significativa per i campi e i pascoli circostanti. La cittadina non può già accogliere le persone sfollate a causa degli incendi.",
+								"Alcuni cittadini sono consapevoli che un drago ha causato gli incendi. Riconoscono che il drago potrebbe minacciare la città anche se il vento non trasportasse gli incendi lì. I locali più in vista non sono d’accordo su cosa fare e questo ha esacerbato le tensioni.",
+								"I cittadini inizialmente sono indifferenti ai personaggi. Se i personaggi cercano leader locali, vengono rapidamente indirizzati a Catacus (vedi \"{@area Nature Lovers|215|x}\"), Javek e Vara Horn (vedi \"{@area Traditionalists|21e|x}\") o Ginder Nanik (vedi \"{@area Merchants|21c|x}\"). Se i personaggi sono più interessati a parlare con la gente per strada, incontreranno mercanti e tradizionalisti, ma potrebbero anche trovare membri del Circolo Ardente (vedi \"Amanti della Natura\" di seguito). Le opinioni generali di ciascun gruppo sono in linea con quelle del suo leader, come descritto di seguito.",
 								{
 									"type": "entries",
 									"name": "Nature Lovers",
 									"id": "215",
 									"entries": [
-										"Herbalists, naturalists, and druids came to Arborean Springs not long after the fall of the githyanki exiles' realm, drawn by the special plants that grow near the gardens on Mount Glathek. Their initial attempts to explore the gardens were rebuffed by a red dragon living there. The dragon retaliated against this intrusion by igniting a cataclysmic wildfire that almost eliminated the young town of Arborean Springs and the surrounding farms and pasturelands. This rampage turned out to be the first of many.",
+										"Erboristi, naturalisti e druidi giunsero ad Arborean Springs non molto tempo dopo la caduta del regno degli esuli githyanki, attratti dalle piante speciali che crescono vicino ai giardini sul Monte Glathek. I loro primi tentativi di esplorare i giardini furono respinti da un drago rosso che viveva lì. Il drago si vendicò di questa intrusione innescando un incendio catastrofico che quasi eliminò la giovane città di Arborean Springs e le fattorie e i pascoli circostanti. Questa furia si è rivelata la prima di molte.",
 										{
 											"type": "entries",
 											"name": "Burning Circle",
 											"id": "216",
 											"entries": [
-												"A small group of nature priests calling themselves the Burning Circle teach that the dragon is a force of nature to be respected, not destroyed. Just as controlled burns are necessary to keep forests healthy, they say, the dragon's rampages are an essential part of nature's cycle. The length of each rampage should be kept short, though, to reduce danger to locals.",
-												"Circle members have developed a means to keep the dragon's rampages relatively short. They have a recipe for a concoction that can usher the dragon quickly back to its centuries-long slumber once the wildfires have raged long enough. When the bright-orange dragoneye flower blooms in the ashes where the fires have run their course, it is time to put the dragon back to sleep. That time is at hand.",
+												"Un piccolo gruppo di sacerdoti della natura che si fanno chiamare Burning Circle insegnano che il drago è una forza della natura da rispettare, non da distruggere. Proprio come gli incendi controllati sono necessari per mantenere le foreste in salute, dicono, le furie del drago sono una parte essenziale del ciclo della natura. La durata di ogni furia dovrebbe essere ridotta, tuttavia, per ridurre il pericolo per la gente del posto.",
+												"I membri del Circolo hanno sviluppato un mezzo per mantenere la furia del drago relativamente breve. Hanno una ricetta per una miscela che può riportare rapidamente il drago al suo sonno secolare una volta che gli incendi hanno infuriato abbastanza a lungo. Quando il fiore arancione brillante dell'occhio di drago sboccia tra le ceneri dove i fuochi hanno fatto il loro corso, è tempo di rimettere il drago a dormire. Quel momento è vicino.",
 												{
 													"type": "inset",
 													"name": "Running Arborean Springs",
 													"id": "217",
 													"entries": [
-														"You can spend as much or as little time in Arborean Springs as you and your players want. The simplest approach is to steer the characters toward the NPC who will put them on the path you think they'll find most enjoyable. If they relish combat challenges, introduce them to the merchant Ginder Nanik, who pleads with the characters to go slay the dragon. Steer them to Catacus if they'd enjoy the treasure hunt of gathering ingredients to return the dragon to slumber, or local elders Javek and Vara Horn if they'd enjoy spending more time exploring the region. If your players want to interact with the various NPCs and weigh the different options these individuals present, then spend up to a whole game session in Arborean Springs playing out these interactions."
+														"Puoi trascorrere ad Arborean Springs tutto il tempo che desideri tu e i tuoi giocatori. L'approccio più semplice è indirizzare i personaggi verso l'NPC che li metterà sul percorso che ritieni troveranno più divertente. Se apprezzano le sfide di combattimento, presentali al mercante Ginder Nanik, che implora i personaggi di andare a uccidere il drago. Portali a Catacus se desiderano godersi la caccia al tesoro e raccogliere ingredienti per riportare il drago in sonno, oppure guidali verso gli anziani locali Javek e Vara Horn se desiderano trascorrere più tempo esplorando la regione. Se i tuoi giocatori vogliono interagire con i vari NPC e valutare le diverse opzioni che questi individui presentano, trascorri fino a un'intera sessione di gioco ad Arborean Springs per riprodurre queste interazioni."
 													]
 												}
 											]
@@ -526,7 +526,7 @@
 											"name": "The Gardens' History",
 											"id": "218",
 											"entries": [
-												"The Burning Circle preserves what little lore is known about the Gardens of Xabazhut. Circle members know the gardens grow in a stepped structure made up of three tiers. The first tier is called the Garden of Sacred Repose, the second is the Garden of Unearthly Delights, and the third is the Garden of Everflowing Springs. The priests are unsure of these names' origins."
+												"Il Cerchio Ardente preserva quel poco di sapere sui Giardini di Xabazhut. I membri del circolo sanno che i giardini crescono in una struttura a gradini composta da tre livelli. Il primo livello è chiamato il Giardino del Sacro Riposo, il secondo è il Giardino delle Delizie Ultraterrene e il terzo è il Giardino delle Sorgenti Eterne. I sacerdoti non sono sicuri dell'origine di questi nomi."
 											]
 										},
 										{
@@ -534,8 +534,8 @@
 											"name": "Catacus",
 											"id": "219",
 											"entries": [
-												"The Burning Circle's leader is a world-weary wood elf named Catacus (Medium {@creature Archpriest|XMM}), who has survived two previous rampages. In the first one, four hundred years ago, Catacus volunteered to join the adventurers who tried to put the dragon back to sleep. He saw the dragon\u2014\"an enormous, ancient wyrm\"\u2014and sustained severe injuries before the other adventurers managed to deliver the sleeping concoction. He uses an exquisitely carved wooden wheelchair whenever he needs to travel more than a few hundred feet.",
-												"Now that the dragoneye flower is blooming, Catacus and the other members of the Burning Circle urge the characters and townsfolk to brew the concoction and use it to put the dragon back to sleep. They are convinced that the dragon's death would spell catastrophe for the region, as people would plunder the gardens\u2014the source of the region's magic."
+												"Il leader del Cerchio Infuocato è un elfo dei boschi stanco del mondo di nome Catacus (Medio {@creature Archpriest|XMM}), sopravvissuto a due precedenti furie. Nel primo, quattrocento anni fa, Catacus si offrì volontario per unirsi agli avventurieri che cercavano di riaddormentare il drago. Vide il drago - \"un enorme, antico dragone\" - e subì gravi ferite prima che gli altri avventurieri riuscissero a consegnare il sonnifero. Usa una sedia a rotelle in legno squisitamente scolpito ogni volta che ha bisogno di percorrere più di qualche centinaio di piedi.",
+												"Ora che il fiore dell'occhio di drago sta sbocciando, Catacus e gli altri membri del Cerchio Infuocato esortano i personaggi e i cittadini a preparare la miscela e ad usarla per riaddormentare il drago. Sono convinti che la morte del drago significherebbe una catastrofe per la regione, poiché le persone saccheggerebbero i giardini, la fonte della magia della regione."
 											]
 										},
 										{
@@ -543,16 +543,16 @@
 											"name": "The Sleeping Concoction",
 											"id": "21a",
 											"entries": [
-												"If the characters are amenable to the Burning Circle's solution, Catacus gives them a list of plants to find in the gardens and a recipe to make the concoction. After the characters locate the ingredients, they can brew it in 1 hour using {@item Alchemist's Supplies|XPHB} or {@item Brewer's Supplies|XPHB} (Catacus happily lends characters a set of {@item Alchemist's Supplies|XPHB} if needed).",
-												"Catacus explains that the characters must coat their weapons in the concoction and injure the dragon with those weapons until he retreats to his lair and enters a magical slumber. (The dragon retreats when he has taken 90 damage from weapons or ammunition coated in the sleeping concoction.) However, Catacus warns, the dragon will awaken immediately if he becomes injured again or if anyone steals treasure from his lair.",
-												"Once applied to a weapon or piece of ammunition, the concoction retains its potency for 24 hours. It has no effect on creatures other than the red dragon of the Forbidden Vale.",
-												"The recipe requires the following ingredients from the gardens:",
+												"Se i personaggi accettano la soluzione del Cerchio Ardente, Catacus fornisce loro un elenco di piante da trovare nei giardini e una ricetta per preparare la miscela. Dopo che i personaggi hanno individuato gli ingredienti, possono prepararli in 1 ora usando {@item Alchemist's Supplies|XPHB} o {@item Brewer's Supplies|XPHB} (Catacus presta volentieri ai personaggi un set di {@item Alchemist's Supplies|XPHB} se necessario).",
+												"Catacus spiega che i personaggi devono rivestire le loro armi con la miscela e ferire il drago con quelle armi finché non si ritira nella sua tana ed entra in un sonno magico. (Il drago si ritira quando ha subito 90 danni dalle armi o dalle munizioni ricoperte dall'intruglio addormentato.) Tuttavia, Catacus avverte, il drago si risveglierà immediatamente se viene nuovamente ferito o se qualcuno ruba un tesoro dalla sua tana.",
+												"Una volta applicata ad un'arma o ad una munizione, la miscela mantiene la sua potenza per 24 ore. Non ha alcun effetto su creature diverse dal drago rosso della Valle Proibita.",
+												"La ricetta richiede i seguenti ingredienti provenienti dagli orti:",
 												{
 													"type": "list",
 													"items": [
-														"Three Arborean rose blossoms from the Garden of Sacred Repose (area {@area G13|26a|x})",
-														"Two Arcadian lotus blossoms from the Garden of Unearthly Delights (area {@area G20|284|x})",
-														"The fruit of life from the Garden of Everflowing Springs (area {@area G24|291|x})"
+														"Tre fiori di rosa arborea del Giardino del Sacro Riposo (superficie {@area G13|26a|x})",
+														"Due fiori di loto arcadici del Giardino delle Delizie Ultraterrene (area {@area G20|284|x})",
+														"Il frutto della vita dal Giardino delle Sorgenti Eterna (area {@area G24|291|x})"
 													]
 												}
 											]
@@ -562,7 +562,7 @@
 											"name": "Missing Druid",
 											"id": "21b",
 											"entries": [
-												"If the characters agree to put the dragon back to sleep, Catacus reveals that a member of the Burning Circle named Eblus ventured toward the gardens about three months ago. Eblus hoped to learn more about the magical plants that grow there, but she never returned to Arborean Springs. (She is trapped in the mirror in area {@area G21|289|x} of the Gardens of Xabazhut.)"
+												"Se i personaggi accettano di rimettere il drago a dormire, Catacus rivela che un membro del Circolo Ardente di nome Eblus si è avventurato verso i giardini circa tre mesi fa. Eblus sperava di saperne di più sulle piante magiche che crescono lì, ma non è mai tornata ad Arborean Springs. (È intrappolata nello specchio nell'area {@area G21|289|x} dei Giardini di Xabazhut.)"
 											]
 										}
 									]
@@ -572,14 +572,14 @@
 									"name": "Merchants",
 									"id": "21c",
 									"entries": [
-										"Merchants come to Arborean Springs between the dragon's rampages, but each new rampage drives them away. Within the last century, a new crop of business-minded people seeking to capitalize on the hot springs has come to town. The merchants who now live here are nervous for their homes and concerned about the wildfires' effect on business.",
+										"I mercanti giungono ad Arborean Springs durante la furia del drago, ma ogni nuova furia li allontana. Nell'ultimo secolo, un nuovo gruppo di persone orientate agli affari che cercano di trarre vantaggio dalle sorgenti termali è arrivato in città. I commercianti che ora vivono qui sono nervosi per le loro case e preoccupati per gli effetti degli incendi sugli affari.",
 										{
 											"type": "entries",
 											"name": "Ginder Nanik",
 											"id": "21d",
 											"entries": [
-												"A charming human, Ginder Nanik (Medium {@creature Noble Prodigy|XMM}), is the merchants' de facto leader and spokesperson. Though he couches everything in terms of \"what the good folk of Arborean Springs want,\" Ginder puts commercial interests first, and the other merchants follow his lead. Ginder believes the dragon should be slain and the lands of the Forbidden Vale\u2014including the ancient gardens in the valley's heart\u2014should be claimed and made profitable.",
-												"Ginder and other merchants in town urge the characters to kill the dragon. They have no suggestions for how to accomplish this feat."
+												"Un essere umano affascinante, Ginder Nanik (Medio {@creature Noble Prodigy|XMM}), è il leader e portavoce de facto dei commercianti. Sebbene esprima tutto in termini di \"ciò che vuole la brava gente di Arborean Springs\", Ginder mette gli interessi commerciali al primo posto e gli altri mercanti seguono il suo esempio. Ginder crede che il drago dovrebbe essere ucciso e che le terre della Valle Proibita, compresi gli antichi giardini nel cuore della valle, dovrebbero essere rivendicate e rese redditizie.",
+												"Ginder e altri mercanti in città esortano i personaggi a uccidere il drago. Non hanno suggerimenti su come realizzare questa impresa."
 											]
 										}
 									]
@@ -589,15 +589,15 @@
 									"name": "Traditionalists",
 									"id": "21e",
 									"entries": [
-										"The descendants of the githyanki's original subjects are largely farmers, herders, and hunters. Their folklore contains the only surviving historical accounts of the githyanki's kingdom. Their tales center around the dragon's rampages, which began when the region's people rose up in revolt against diabolical tyrants. These rulers are remembered today as magically powerful and casually cruel. They wielded shining swords, and their dragon ally breathed fire.",
-										"Local tales include stories of heroes who stood against the dragon to protect their herds or fields during past rampages, but according to their legends, if anyone enters the Forbidden Vale to confront the dragon, such a trespass will be punished with even more violence.",
+										"I discendenti dei sudditi originari dei githyanki sono in gran parte agricoltori, pastori e cacciatori. Il loro folklore contiene gli unici resoconti storici sopravvissuti del regno dei githyanki. I loro racconti sono incentrati sulla furia del drago, iniziata quando la popolazione della regione si ribellò contro i tiranni diabolici. Questi governanti sono ricordati oggi come magicamente potenti e casualmente crudeli. Brandivano spade lucenti e il loro alleato drago sputava fuoco.",
+										"I racconti locali includono storie di eroi che si opposero al drago per proteggere le loro mandrie o i loro campi durante le furie del passato, ma secondo le loro leggende, se qualcuno entra nella Valle Proibita per affrontare il drago, tale violazione sarà punita con ancora più violenza.",
 										{
 											"type": "entries",
 											"name": "Javek and Vara Horn",
 											"id": "21f",
 											"entries": [
-												"Two married human shepherds, Javek Horn and Vara Horn (Small {@creature Tough Boss|XMM|Tough Bosses}), command the respect of most who follow the traditional ways of Arborean Springs. As two of the oldest human residents of the region, the women preserve and pass on ancient lore and freely share their hard-won wisdom with others. It is largely their influence that keeps the merchants from entering the Forbidden Vale.",
-												"Any traditionalist in town tells the characters the same thing: stay away from the Forbidden Vale lest they make the problem worse. If the characters feel like emulating the heroes of old, they should face the dragon outside the vale, trying to catch it while it's spreading flames across the hillsides."
+												"Due pastori umani sposati, Javek Horn e Vara Horn (Piccolo {@creature Tough Boss|XMM|Tough Bosses}), suscitano il rispetto della maggior parte di coloro che seguono i metodi tradizionali di Arborea Springs. Essendo due dei più antichi abitanti umani della regione, le donne preservano e trasmettono antiche tradizioni e condividono liberamente con gli altri la loro saggezza conquistata a fatica. È in gran parte la loro influenza che impedisce ai mercanti di entrare nella Valle Proibita.",
+												"Qualsiasi tradizionalista in città dice ai personaggi la stessa cosa: state lontani dalla Valle Proibita per evitare che peggiorino il problema. Se i personaggi hanno voglia di emulare gli eroi del passato, dovrebbero affrontare il drago fuori dalla valle, cercando di catturarlo mentre diffonde fiamme sui pendii delle colline."
 											]
 										}
 									]
@@ -611,8 +611,8 @@
 					"name": "To the Forbidden Vale",
 					"id": "220",
 					"entries": [
-						"{@adventure Map: Overland Map|DrDe-TFV|1|Map: Overland Map} shows the locations of Arborean Springs, the wildfires (shown in orange), the Forbidden Vale (area {@area V8|235|x}), and other key sites in the region. Each area is described further below.",
-						"Arborean Springs lies about 19 miles from the Forbidden Vale as the dragon flies. However, the easiest routes from the town to the vale bring the characters up one of two parallel river valleys that feed into the Celestial River. The western Bytopian River valley is a steeper climb, while the eastern Ysgardian River valley is a longer route. Characters can choose their own route, but the most likely course looks like this:",
+						"{@adventure Map: Overland Map|DrDe-TFV|1|Map: Overland Map} mostra le posizioni di Arborean Springs, degli incendi (mostrati in arancione), della Valle Proibita (area {@area V8|235|x}) e di altri siti chiave della regione. Ciascuna area è descritta più avanti.",
+						"Arborean Springs si trova a circa 19 miglia dalla Valle Proibita in linea d'aria. Tuttavia, i percorsi più facili dalla città alla valle portano i personaggi su una delle due valli fluviali parallele che sfociano nel Fiume Celestiale. La valle occidentale del fiume Bytopian è una salita più ripida, mentre la valle orientale del fiume Ysgardian è un percorso più lungo. I personaggi possono scegliere il proprio percorso, ma il percorso più probabile è questo:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -620,17 +620,17 @@
 								{
 									"type": "item",
 									"name": "Stage 1",
-									"entry": "The characters go from Arborean Springs along the road (area {@area V1|221|x}) to Godshead Crossing (area {@area V2|223|x}). The good road allows them to choose any travel pace for this 8-mile stage."
+									"entry": "I personaggi vanno da Arborean Springs lungo la strada (area {@area V1|221|x}) a Godshead Crossing (area {@area V2|223|x}). La buona strada permette loro di scegliere qualsiasi ritmo di viaggio per questa tappa di 8 miglia."
 								},
 								{
 									"type": "item",
 									"name": "Stage 2",
-									"entry": "The group travels from Godshead Crossing area {@area (V2)|223|x} to Mount Glathek area ({@area V7|233|x}). The western route, along the Bytopian River valley, takes the characters 14 miles through mountainous terrain, forcing them to travel at a Slow pace. They'll pass the Headless Statue (area {@area V3|226|x}) on the way. The eastern route, along the Ysgardian River valley, runs 27 miles through hilly terrain, allowing the characters to travel at a Normal or Slow pace. They'll have to deal with a wildfire (area {@area V4|229|x}) before reaching the mountain."
+									"entry": "Il gruppo viaggia dall'area di Godshead Crossing {@area (V2)|223|x} all'area del Monte Glathek ({@area V7|233|x}). Il percorso occidentale, lungo la valle del fiume Bytopian, porta i personaggi per 14 miglia attraverso un terreno montuoso, costringendoli a viaggiare ad un ritmo lento. Lungo la strada oltrepasseranno la statua senza testa (area {@area V3|226|x}). Il percorso orientale, lungo la valle del fiume Ysgardian, corre per 27 miglia attraverso un terreno collinare, consentendo ai personaggi di viaggiare a ritmo Normale o Lento. Dovranno affrontare un incendio (area {@area V4|229|x}) prima di raggiungere la montagna."
 								},
 								{
 									"type": "item",
 									"name": "Stage 3",
-									"entry": "Climbing Mount Glathek (area {@area V7|233|x}) to the vale (area {@area V8|235|x}) involves a 3-mile journey up the mountainside at a Slow pace."
+									"entry": "Scalare il Monte Glathek (area {@area V7|233|x}) fino alla valle (area {@area V8|235|x}) comporta un viaggio di 3 miglia lungo il fianco della montagna a un ritmo lento."
 								}
 							]
 						},
@@ -843,11 +843,11 @@
 									"type": "insetReadaloud",
 									"id": "222",
 									"entries": [
-										"Your journey from Arborean Springs leads you along a smooth road heading northeast, skirting the edge of a forest. A plume of thick smoke a few miles ahead of you signals the presence of a raging forest fire along your path, and smoke stings your nostrils. About three miles into your journey, the source of the smoke becomes clear: flames dance in the trees perhaps half a mile to the north. A charred wagon smolders in the middle of the road ahead, with no sign of life."
+										"Il tuo viaggio da Arborean Springs ti conduce lungo una strada agevole in direzione nord-est, costeggiando il bordo di una foresta. Un pennacchio di fumo denso pochi chilometri davanti a te segnala la presenza di un furioso incendio boschivo lungo il tuo cammino e il fumo ti pizzica le narici. A circa tre miglia dall'inizio del viaggio, la fonte del fumo diventa chiara: le fiamme danzano tra gli alberi, forse mezzo miglio a nord. Un carro carbonizzato brucia in mezzo alla strada, senza alcun segno di vita."
 									]
 								},
-								"As the characters come closer, they notice skeletal humanoid corpses lying on the ground near the burned wagon. If they come within 10 feet of the bodies, the corpses reveal themselves to be monsters: four {@creature Flaming Skeleton|XMM|Flaming Skeletons} and two {@creature Flameskull|XMM|Flameskulls} that fight the characters.",
-								"The wagon and its goods are burned almost beyond recognition. As a {@action Study|XPHB} action, a character can examine the wreckage and make a {@dc 15} Intelligence ({@skill Investigation|XPHB}) check. On a success, the character deduces that the wagon carried bolts of woolen fabric. There is no sign of the animals that pulled the wagon."
+								"Quando i personaggi si avvicinano, notano cadaveri umanoidi scheletrici che giacciono a terra vicino al carro bruciato. Se si avvicinano a 3 metri dai corpi, i cadaveri si rivelano essere dei mostri: quattro {@creature Flaming Skeleton|XMM|Flaming Skeletons} e due {@creature Flameskull|XMM|Flameskulls} che combattono i personaggi.",
+								"Il carro e le sue merci vengono bruciati quasi fino a diventare irriconoscibili. Come azione {@action Study|XPHB}, un personaggio può esaminare i rottami ed effettuare una prova di {@dc 15} Intelligenza ({@skill Investigation|XPHB}). In caso di successo, il personaggio deduce che il carro trasportava pezze di tessuto di lana. Non c'è traccia degli animali che trainavano il carro."
 							]
 						},
 						{
@@ -859,17 +859,17 @@
 									"type": "insetReadaloud",
 									"id": "224",
 									"entries": [
-										"Just across a sturdy stone bridge, the road from Arborean Springs meets another road and comes to an end. The land is blackened and scarred by wildfires, but three things stand out. The first is a granite head the size of a wagon on the ground, gazing skyward. The second is the remains of a farmer's market clustered near the stone head, now only broken beams and crumbling ash. Finally, clusters of flame-colored flowers grow through the ashes here and there, particularly near the stone head."
+										"Appena oltre un robusto ponte di pietra, la strada da Arborean Springs incontra un'altra strada e termina. La terra è annerita e devastata dagli incendi, ma tre cose risaltano. La prima è una testa di granito grande quanto un carro posata a terra, che guarda verso il cielo. Il secondo sono i resti di un mercato agricolo raggruppati vicino alla testa di pietra, ora solo travi rotte e cenere sgretolata. Infine, grappoli di fiori color fiamma crescono qua e là tra le ceneri, in particolare vicino alla testa di pietra."
 									]
 								},
-								"The head, broken from the colossal statue at area {@area V3|226|x}, depicts Ozzadraz the Conqueror, a githyanki. Deep gouges from massive claws pierce the stone head on either side. As a {@action Study|XPHB} action, a character can examine the claw marks and make a {@dc 15} Intelligence ({@skill Nature|XPHB}) check. On a success, the character recognizes that an unnaturally massive bird of prey made the scrapes.",
+								"La testa, staccata dalla colossale statua nell'area {@area V3|226|x}, raffigura Ozzadraz il Conquistatore, un githyanki. Profondi sgorbie ricavati da enormi artigli perforano la testa di pietra su entrambi i lati. Come azione {@action Study|XPHB}, un personaggio può esaminare i segni degli artigli ed effettuare una prova di {@dc 15} Intelligenza ({@skill Nature|XPHB}). In caso di successo, il personaggio riconosce che un rapace innaturalmente massiccio ha causato i graffi.",
 								{
 									"type": "entries",
 									"name": "Dragoneye Flowers",
 									"id": "225",
 									"entries": [
-										"The flowers are dragoneye flowers. The Burning Circle members believe that when dragoneye flowers bloom, it is time for Xabazhut to return to his slumber (see \"{@area Nature Lovers|215|x}\"). These flowers have slender petals like tongues of flame surrounding bright yellow centers, and the flowers' oblong, black pistils resemble the slitted pupils of dragons.",
-										"A crushed dragoneye flower produces sparks that can start a fire; the flower functions as a {@item Tinderbox|XPHB} with a single use. A picked flower retains its potency for {@dice 1d4 + 3} days."
+										"I fiori sono fiori di dragoneye. I membri del Burning Circle credono che quando i fiori dell'occhio di drago sbocciano, è tempo che Xabazhut ritorni al suo sonno (vedi \"{@area Nature Lovers|215|x}\"). Questi fiori hanno petali sottili come lingue di fiamma che circondano centri di colore giallo brillante, e i pistilli neri e oblunghi dei fiori ricordano le pupille a fessura dei draghi.",
+										"Un fiore di occhio di drago schiacciato produce scintille che possono provocare un incendio; il fiore funziona come {@item Tinderbox|XPHB} con un solo utilizzo. Un fiore raccolto mantiene la sua potenza per {@dice 1d4 + 3} giorni."
 									]
 								}
 							]
@@ -893,17 +893,17 @@
 									"type": "insetReadaloud",
 									"id": "227",
 									"entries": [
-										"As you crest a hill, you discover an ancient monument. A headless granite sculpture of an armored figure holding an enormous sword looms over the surrounding land, over fifty feet tall. Cracked flakes of faded pigments speckle the stone like fungus."
+										"Mentre sali in cima a una collina, scopri un antico monumento. Una scultura in granito senza testa di una figura corazzata che impugna un'enorme spada incombe sul terreno circostante, alta più di cinquanta piedi. Scaglie screpolate di pigmenti sbiaditi punteggiano la pietra come funghi."
 									]
 								},
-								"The monument was a likeness of Ozzadraz, the githyanki commander who once ruled this land. The head rests 3 miles south at area {@area V2|223|x}, where it was deposited after being broken off the body.",
+								"Il monumento somigliava a Ozzadraz, il comandante githyanki che un tempo governava questa terra. La testa riposa 3 miglia a sud nell'area {@area V2|223|x}, dove è stata depositata dopo essere stata staccata dal corpo.",
 								{
 									"type": "entries",
 									"name": "Attack from Above",
 									"id": "228",
 									"entries": [
-										"The mountains are the hunting grounds for a {@creature Roc|XMM} that is none too pleased that the forests are going up in flames\u2014even though it happily hunts prey fleeing the fires. Its primary motivation is finding food; it is unlikely to fight to the death. Its nest lies near the top of Paradise Peak to the east. It initiates combat as soon as it spots one of the characters.",
-										"After seeing the roc, characters who successfully identified the claw marks on the statue's head at Godshead Crossing (area {@area V2|223|x}) recognize that this massive creature is responsible for damaging the statue, likely having mistaken it for prey."
+										"Le montagne sono il terreno di caccia di un {@creature Roc|XMM} che non è affatto contento che le foreste stiano andando in fiamme, anche se caccia felicemente la preda che fugge dagli incendi. La sua motivazione principale è trovare cibo; è improbabile che combatta fino alla morte. Il suo nido si trova vicino alla cima del Paradise Peak a est. Inizia il combattimento non appena individua uno dei personaggi.",
+										"Dopo aver visto il roc, i personaggi che hanno identificato con successo i segni degli artigli sulla testa della statua a Godshead Crossing (area {@area V2|223|x}) riconoscono che questa enorme creatura è responsabile del danneggiamento della statua, probabilmente avendola scambiata per una preda."
 									]
 								}
 							]
@@ -917,17 +917,17 @@
 									"type": "insetReadaloud",
 									"id": "22a",
 									"entries": [
-										"Following the river toward its source is relatively easy\u2014until you find the valley blocked by a raging wildfire. The forest grew close to the water here, and blazing trees have fallen, spanning the river and spreading flames on both sides."
+										"Seguire il fiume verso la sua sorgente è relativamente facile, finché non trovi la valle bloccata da un furioso incendio. Qui la foresta cresceva vicino all'acqua e gli alberi in fiamme sono caduti, attraversando il fiume e diffondendo fiamme su entrambi i lati."
 									]
 								},
-								"The fire has spread through much of the valley. Characters must choose if they want to go around or through the fire.",
+								"L'incendio si è diffuso in gran parte della valle. I personaggi devono scegliere se vogliono andare in giro o attraverso il fuoco.",
 								{
 									"type": "entries",
 									"name": "Going Around",
 									"id": "22b",
 									"entries": [
-										"Skirting the wildfire by land involves moving into mountainous terrain and adding several extra miles to the characters' trip. About one hour into the journey, the characters encounter a group of fiery monsters\u2014three {@creature Fire Elemental|XMM|Fire Elementals} and five {@creature Smoke Mephit|XMM|Smoke Mephits}\u2014that emerge from the flames to fight them.",
-										"If the characters are able to keep the entire party aloft for 2 miles of travel, they could travel over the fire instead. For every hour a creature spends in the air above the wildfire, it makes a {@dc 10} Constitution saving throw. On a failed save, the creature gains 1 {@condition Exhaustion|XPHB} level from exposure to the heat and smoke."
+										"Per aggirare l'incendio via terra è necessario spostarsi in un terreno montuoso e aggiungere diverse miglia extra al viaggio dei personaggi. A circa un'ora dall'inizio del viaggio, i personaggi incontrano un gruppo di mostri infuocati, tre {@creature Fire Elemental|XMM|Fire Elementals} e cinque {@creature Smoke Mephit|XMM|Smoke Mephits}, che emergono dalle fiamme per combatterli.",
+										"Se i personaggi riescono a tenere in volo l'intero gruppo per 2 miglia di viaggio, potrebbero invece viaggiare sul fuoco. Per ogni ora che una creatura trascorre nell'aria sopra il fuoco, effettua un tiro salvezza su Costituzione {@dc 10}. Se il tiro salvezza fallisce, la creatura guadagna 1 {@condition Exhaustion|XPHB} livello dall'esposizione al calore e al fumo."
 									]
 								},
 								{
@@ -935,7 +935,7 @@
 									"name": "Going Through",
 									"id": "22c",
 									"entries": [
-										"The portion of the valley containing the wildfire is considered the area of an inferno (see the \"Hazards\" section of the {@book Dungeon Master's Guide|XDMG}).",
+										"La porzione di valle contenente l'incendio è considerata zona di un inferno (vedi sezione “Pericoli” del {@book Dungeon Master's Guide|XDMG}).",
 										{
 											"type": "inset",
 											"name": "Other Wildfires Other fires rage throughout this region. If the characters choose a route that takes them into or near another wildfire, use the guidelines in area V4 to decide how the flames affect them.",
@@ -955,17 +955,17 @@
 									"type": "insetReadaloud",
 									"id": "22f",
 									"entries": [
-										"Wildfires have engulfed the forest, spreading for miles across the mountainsides and choking the sky with smoke. Raging fires burn right down to the edges of a beautiful alpine lake that measures about a half-mile across. At the north end of the lake, fire has almost entirely consumed a wood-and-stone structure."
+										"Gli incendi hanno inghiottito la foresta, diffondendosi per chilometri attraverso i fianchi delle montagne e soffocando il cielo di fumo. Incendi violenti bruciano fino ai bordi di un bellissimo lago alpino che misura circa mezzo miglio di diametro. All'estremità nord del lago, il fuoco ha quasi interamente consumato una struttura in legno e pietra."
 									]
 								},
-								"Arcadian Springs was a resort that sought to profit off the healthful properties of the area's waters and natural beauty. The guests, proprietors, and staff have long since fled the resort.",
+								"Arcadian Springs era un resort che cercava di trarre profitto dalle proprietà salutari delle acque e delle bellezze naturali della zona. Gli ospiti, i proprietari e il personale hanno abbandonato da tempo il resort.",
 								{
 									"type": "entries",
 									"name": "Source of the Flames",
 									"id": "230",
 									"entries": [
-										"If the characters linger here, looking for people trapped in the fire or otherwise exploring, they might draw the attention of the wildfires' source: the dragon Xabazhut ({@creature Young Red Dragon|XMM}).",
-										"Don't use this encounter if the characters have already fought Xabazhut elsewhere. The dragon tries to remain hidden in the smoky air until he can breathe fire down on the party from above. If the dragon realizes the characters survived, he stays and fights them until he becomes Bloodied; then he returns to his lair to recover."
+										"Se i personaggi si soffermano qui, cercando persone intrappolate nel fuoco o esplorandole in altro modo, potrebbero attirare l'attenzione della fonte degli incendi: il drago Xabazhut ({@creature Young Red Dragon|XMM}).",
+										"Non utilizzare questo incontro se i personaggi hanno già combattuto Xabazhut altrove. Il drago cerca di rimanere nascosto nell'aria fumosa finché non riesce a sputare fuoco sul gruppo dall'alto. Se il drago si rende conto che i personaggi sono sopravvissuti, resta e li combatte finché non diventa Insanguinato; poi torna nella sua tana per riprendersi."
 									]
 								}
 							]
@@ -979,11 +979,11 @@
 									"type": "insetReadaloud",
 									"id": "232",
 									"entries": [
-										"Beside a small alpine lake, an elegant mansion stands untouched by wildfire. A handful of armed people patrol around the building, keeping a nervous watch on the fires to the south and the sky overhead."
+										"Accanto a un piccolo lago alpino, un'elegante dimora si erge incontaminata dagli incendi. Un pugno di persone armate pattuglia l’edificio, tenendo d’occhio nervosamente gli incendi a sud e il cielo sopra di loro."
 									]
 								},
-								"Elysian Springs is a luxury resort that attracts rich clients who seek to relax in beautiful surroundings. The fires have not yet reached it, but the mansion is mostly evacuated. Those who remain are staff members attempting to protect the property from looters and, if possible, from the spreading fires.",
-								"These staff members consist of eleven human {@creature Guard|XMM|Guards} who are Indifferent to the characters. They have no interest in fighting the characters or the dragon. The staff members hesitate to allow the characters inside the resort, but a character can try to persuade the staff to allow them to rest here. As an Influence action, the character makes a {@dc 14} Charisma ({@skill Persuasion|XPHB}) check. On a success, the staff allow the characters to rest here as long as they need. On a failure, they allow the characters to complete only a {@variantrule Short Rest|XPHB} here."
+								"Elysian Springs è un resort di lusso che attira clienti facoltosi che cercano di rilassarsi in un ambiente splendido. Gli incendi non l'hanno ancora raggiunta, ma la villa è in gran parte evacuata. Quelli che rimangono sono membri dello staff che tentano di proteggere la proprietà dai saccheggiatori e, se possibile, dal dilagare degli incendi.",
+								"Questi membri dello staff sono costituiti da undici umani {@creature Guard|XMM|Guards} che sono indifferenti ai personaggi. Non hanno alcun interesse a combattere i personaggi o il drago. I membri dello staff esitano a permettere ai personaggi di entrare nel resort, ma un personaggio può provare a persuadere lo staff a permettere loro di riposare qui. Come azione di Influenza, il personaggio effettua una prova di Carisma {@dc 14} ({@skill Persuasion|XPHB}). In caso di successo, lo staff permette ai personaggi di riposare qui per tutto il tempo necessario. In caso di fallimento, consentono ai personaggi di completare solo un {@variantrule Short Rest|XPHB} qui."
 							]
 						},
 						{
@@ -995,10 +995,10 @@
 									"type": "insetReadaloud",
 									"id": "234",
 									"entries": [
-										"Your destination juts above the surrounding mountains like a jagged tooth. No flames have touched these mountains, which are covered with lush vegetation and colorful wildflowers. Wisps of white smoke or steam rise from the peak, in contrast to the black wildfire smoke hanging over the valleys to the south."
+										"La tua destinazione sporge sopra le montagne circostanti come un dente frastagliato. Nessuna fiamma ha toccato queste montagne, ricoperte da una vegetazione lussureggiante e da fiori selvatici colorati. Dalla vetta si alzano ciuffi di fumo bianco o vapore, in contrasto con il fumo nero degli incendi che incombe sulle valli a sud."
 									]
 								},
-								"The characters face one significant obstacle on their ascent up the mountain: a sheer cliff they must scale. Climbing the cliff requires each character to succeed on a {@dc 15} Strength ({@skill Athletics|XPHB}) check. If the characters rope themselves together, they can instead make a group check, succeeding as a group if at least half of them succeed on the check. Each character who fails the check\u2014or every character, in the case of a failed group check\u2014falls 60 feet."
+								"I personaggi affrontano un ostacolo significativo durante la loro ascesa sulla montagna: una scogliera a strapiombo che devono scalare. Scalare la scogliera richiede che ogni personaggio superi una prova di Forza {@dc 15} ({@skill Athletics|XPHB}). Se i personaggi si legano insieme, possono invece effettuare una prova di gruppo, superandola come gruppo se almeno la metà di loro riesce nella prova. Ogni personaggio che fallisce la prova (o ogni personaggio nel caso di una prova di gruppo fallita) cade per 18 metri."
 							]
 						},
 						{
@@ -1010,22 +1010,22 @@
 									"type": "insetReadaloud",
 									"id": "236",
 									"entries": [
-										"Your ascent ends at a broad caldera filled with a steaming lake. An ancient ziggurat stands on an island in the lake's center, connected to the south shore by a long stone bridge. Vegetation grows in neat rows on the ziggurat's three tiers. Canals flow around each tier and cascade down to the lower tiers in waterfalls that create clouds of spray."
+										"La tua salita termina in un'ampia caldera piena di un lago fumante. Un'antica ziggurat sorge su un'isola al centro del lago, collegata alla sponda meridionale da un lungo ponte in pietra. La vegetazione cresce in file ordinate sui tre livelli dello ziggurat. I canali scorrono attorno a ogni livello e scendono verso i livelli inferiori in cascate che creano nuvole di spruzzi."
 									]
 								},
-								"Descending to the edge of the lake is a trivial matter. On reaching the water's edge, the characters notice, strewn along the lake bed, thousands of bones crusted with mineral deposits. Many of the bones appear to have come from various humanoid creatures.",
+								"Scendere fino alla riva del lago è una cosa da poco. Giunti in riva al mare, i personaggi notano, sparse lungo il fondale del lago, migliaia di ossa incrostate di depositi minerali. Molte delle ossa sembrano provenire da varie creature umanoidi.",
 								{
 									"type": "entries",
 									"name": "Lake of Bones",
 									"id": "237",
 									"entries": [
-										"The Lake of Bones is a hot spring 50 feet deep. Any creature that enters the scalding lake for the first time on a turn or starts its turn in the water takes 11 ({@dice 2d10}) Fire damage. Being underwater doesn't grant {@variantrule Resistance|XPHB} to this Fire damage.",
+										"Il Lago delle Ossa è una sorgente termale profonda 50 piedi. Qualsiasi creatura che entra nel lago bollente per la prima volta in un turno o inizia il suo turno nell'acqua subisce 11 ({@dice 2d10}) danni da fuoco. Essere sott'acqua non conferisce {@variantrule Resistance|XPHB} a questo danno da fuoco.",
 										{
 											"type": "entries",
 											"name": "Hidden Entrance",
 											"id": "238",
 											"entries": [
-												"A character who swims to the bottom of the scalding lake beneath the bridge and takes a {@action Search|XPHB} action can make a {@dc 20} Wisdom ({@skill Perception|XPHB}) check. On a successful check, the character discovers a hidden underwater tunnel leading to the dragon's lair (area {@area G14|26e|x}). The tunnel measures 10 feet high, 10 feet wide, and 200 feet long."
+												"Un personaggio che nuota sul fondo del lago bollente sotto il ponte ed esegue un'azione {@action Search|XPHB} può effettuare una prova di {@dc 20} Saggezza ({@skill Perception|XPHB}). Se la prova riesce, il personaggio scopre un tunnel sottomarino nascosto che conduce alla tana del drago (area {@area G14|26e|x}). Il tunnel misura 10 piedi di altezza, 10 piedi di larghezza e 200 piedi di lunghezza."
 											]
 										}
 									]
@@ -1035,7 +1035,7 @@
 									"name": "Stone Bridge",
 									"id": "239",
 									"entries": [
-										"The bridge is 20 feet wide, 30 feet high, and 250 feet long. It spans the lake from its southern shore to the first tier of the gardens. Stone statues of red dragons flank both ends of the bridge. Wisps of steam rising from the lake sometimes create the impression that the dragons are moving, but they are ordinary statues."
+										"Il ponte è largo 20 piedi, alto 30 piedi e lungo 250 piedi. Attraversa il lago dalla sponda meridionale fino al primo ordine dei giardini. Statue di pietra di draghi rossi fiancheggiano entrambe le estremità del ponte. Soffi di vapore che salgono dal lago a volte creano l'impressione che i draghi si muovano, ma sono statue normali."
 									]
 								}
 							]
@@ -1047,19 +1047,19 @@
 					"name": "Gardens of Xabazhut",
 					"id": "23a",
 					"entries": [
-						"External stairs provide access to all three garden tiers as shown on {@adventure Map: Garden of Sacred Repose|DrDe-TFV|1|Map: Garden of Sacred Repose}, {@adventure Map: Garden of Unearthly Delights|DrDe-TFV|1|Map: Garden of Unearthly Delights}, and {@adventure Map: The Garden of Everflowing Springs|DrDe-TFV|1|Map: The Garden of Everflowing Springs}. The front entrance leads to area {@area G1|244|x} on {@adventure Map: Garden of Sacred Repose|DrDe-TFV|1|Map: Garden of Sacred Repose}. A hidden entrance in the lake leads to Xabazhut's lair, shown on {@adventure Map: Garden of the Dragon|DrDe-TFV|1|Map: Garden of the Dragon}. The roof of the top tier is a vibrant garden with no walkways or inhabitants.",
+						"Le scale esterne forniscono l'accesso a tutti e tre i livelli del giardino come mostrato su {@adventure Map: Garden of Sacred Repose|DrDe-TFV|1|Map: Garden of Sacred Repose}, {@adventure Map: Garden of Unearthly Delights|DrDe-TFV|1|Map: Garden of Unearthly Delights} e {@adventure Map: The Garden of Everflowing Springs|DrDe-TFV|1|Map: The Garden of Everflowing Springs}. L'ingresso principale conduce all'area {@area G1|244|x} su {@adventure Map: Garden of Sacred Repose|DrDe-TFV|1|Map: Garden of Sacred Repose}. Un'entrata nascosta nel lago conduce alla tana di Xabazhut, mostrata su {@adventure Map: Garden of the Dragon|DrDe-TFV|1|Map: Garden of the Dragon}. Il tetto del livello più alto è un giardino vibrante senza passaggi o abitanti.",
 						{
 							"type": "entries",
 							"name": "Garden Features",
 							"id": "23b",
 							"entries": [
-								"Each tier of the stone ziggurat is 20 feet tall. Earthquakes have weakened the structure in the centuries since it was built, knocking down walls and obstructing passageways. Other general features are summarized below.",
+								"Ogni livello dello ziggurat di pietra è alto 20 piedi. Nei secoli successivi alla sua costruzione, i terremoti hanno indebolito la struttura, abbattendo muri e ostruendo i passaggi. Altre caratteristiche generali sono riassunte di seguito.",
 								{
 									"type": "entries",
 									"name": "Astral Lift",
 									"id": "23c",
 									"entries": [
-										"A 10-foot-diameter shaft runs through the center of the ziggurat, from the dragon's underground lair in area {@area G14|26e|x} to areas {@area G9|25a|x}, {@area G19|282|x}, and {@area G25|296|x}. The shaft is infused with energy from the Astral Plane that magically interferes with movement and the Material Plane's gravity. An object in the shaft that is neither worn nor carried hangs motionless in the air, and ammunition and thrown weapons stop moving when they enter the shaft. A creature in the shaft has a Fly Speed (in feet) equal to 5 times its Intelligence score and can hover. As soon as the creature moves outside the boundaries of the shaft, the effect ends. The shaft extends to the ceiling of area {@area G25|296|x}, 15 feet above the floor, and to the surface of the lake in area {@area G14|26e|x}. It passes through the Antechamber of Sacred Repose (area {@area G9|25a|x}) and the Antechamber of Unearthly Delights (area {@area G19|282|x}). All chambers connected to the Astral lift are warm and humid thanks to the hot water below."
+										"Un pozzo del diametro di 3 metri attraversa il centro dello ziggurat, dalla tana sotterranea del drago nell'area {@area G14|26e|x} alle aree {@area G9|25a|x}, {@area G19|282|x} e {@area G25|296|x}. L'asta è infusa con l'energia del Piano Astrale che interferisce magicamente con il movimento e la gravità del Piano Materiale. Un oggetto nell'asta che non viene né indossato né trasportato rimane sospeso immobile nell'aria e le munizioni e le armi da lancio smettono di muoversi quando entrano nell'asta. Una creatura nel pozzo ha una Velocità di Volare (in piedi) pari a 5 volte il suo punteggio di Intelligenza e può restare librata. Non appena la creatura esce dai confini del pozzo, l'effetto termina. Il pozzo si estende fino al soffitto dell'area {@area G25|296|x}, 15 piedi sopra il pavimento e fino alla superficie del lago nell'area {@area G14|26e|x}. Attraversa l'Anticamera del Sacro Riposo (area {@area G9|25a|x}) e l'Anticamera delle Delizie Ultraterrene (area {@area G19|282|x}). Tutte le camere collegate all'ascensore Astral sono calde e umide grazie all'acqua calda sottostante."
 									]
 								},
 								{
@@ -1067,7 +1067,7 @@
 									"name": "Ceilings",
 									"id": "23d",
 									"entries": [
-										"Unless stated otherwise, ceilings in rooms are 15 feet high, and those in passages are 10 feet high."
+										"A meno che non sia indicato diversamente, i soffitti nelle stanze sono alti 15 piedi, e quelli nei passaggi sono alti 10 piedi."
 									]
 								},
 								{
@@ -1075,7 +1075,7 @@
 									"name": "Doors",
 									"id": "23e",
 									"entries": [
-										"Doors in the gardens are made of stone."
+										"Le porte dei giardini sono in pietra."
 									]
 								},
 								{
@@ -1093,7 +1093,7 @@
 											"width": 1700,
 											"height": 1246
 										},
-										"Several plants in the gardens originate in the Outer Planes. As a {@action Study|XPHB} action, a character can make a {@dc 15} Intelligence ({@skill Arcana|XPHB} or {@skill Nature|XPHB}) check. On a success, the character knows the plane of existence where a plant originated. If the check's total is at least 20, the character also knows the plant's properties and effects. The plants can't survive more than one day outside the gardens on the Material Plane. One gallon of water from its native plane sustains a plant for {@dice 1d4} weeks; pools in the Astral garden (area {@area G20|284|x}) contain such water."
+										"Molte piante nei giardini hanno origine nei Piani Esterni. Come azione {@action Study|XPHB}, un personaggio può effettuare una prova di {@dc 15} Intelligenza ({@skill Arcana|XPHB} o {@skill Nature|XPHB}). In caso di successo, il personaggio conosce il piano di esistenza in cui ha avuto origine la pianta. Se il totale della prova è almeno 20, il personaggio conosce anche le proprietà e gli effetti della pianta. Le piante non possono sopravvivere più di un giorno fuori dai giardini del Piano Materiale. Un litro d'acqua dal suo piano nativo sostiene una pianta per {@dice 1d4} settimane; le piscine del Giardino Astrale (area {@area G20|284|x}) contengono tale acqua."
 									]
 								},
 								{
@@ -1101,7 +1101,7 @@
 									"name": "Lighting",
 									"id": "240",
 									"entries": [
-										"Windows (see below) and broken walls allow daylight into rooms on the edges of the ziggurat, filling them with {@variantrule Bright Light|XPHB} in the daytime. The lift chambers on the second and third tiers (areas {@area G19|282|x} and {@area G25|296|x}) are filled with Bright Light in daylight hours, while the lift chamber on the first tier (area {@area G9|25a|x}) is filled with {@variantrule Dim Light|XPHB} from the shaft above."
+										"Le finestre (vedi sotto) e i muri rotti lasciano entrare la luce del giorno nelle stanze ai bordi dello ziggurat, riempiendole di {@variantrule Bright Light|XPHB} durante il giorno. Le camere di sollevamento sul secondo e terzo livello (aree {@area G19|282|x} e {@area G25|296|x}) sono riempite di luce intensa durante le ore diurne, mentre la camera di sollevamento sul primo livello (area {@area G9|25a|x}) è riempita con {@variantrule Dim Light|XPHB} proveniente dal pozzo sopra."
 									]
 								},
 								{
@@ -1109,7 +1109,7 @@
 									"name": "Water",
 									"id": "241",
 									"entries": [
-										"Pools and irrigation canals are 3 feet deep."
+										"Le piscine e i canali di irrigazione sono profondi 3 piedi."
 									]
 								},
 								{
@@ -1117,7 +1117,7 @@
 									"name": "Windows",
 									"id": "242",
 									"entries": [
-										"Window shafts allow daylight into every room alongside the outer walls of the gardens. These windows are 3 feet square; are set near the top of each tier; and slant downward into the room, opening about 10 feet above the floor."
+										"Gli alberi delle finestre consentono alla luce del giorno di entrare in ogni stanza lungo le pareti esterne dei giardini. Queste finestre misurano 3 piedi quadrati; sono posizionati vicino alla parte superiore di ciascun livello; e inclinarsi verso il basso nella stanza, aprendosi a circa 10 piedi sopra il pavimento."
 									]
 								}
 							]
@@ -1127,7 +1127,7 @@
 							"name": "Tier 1 Locations",
 							"id": "243",
 							"entries": [
-								"The first tier, the ground floor of the gardens, appears on {@adventure Map: Garden of Sacred Repose|DrDe-TFV|1|Map: Garden of Sacred Repose}. This tier is called the Garden of Sacred Repose.",
+								"Il primo livello, il piano terra dei giardini, appare su {@adventure Map: Garden of Sacred Repose|DrDe-TFV|1|Map: Garden of Sacred Repose}. Questo livello è chiamato il Giardino del Sacro Riposo.",
 								{
 									"type": "entries",
 									"name": "G1: Hall of the Dragon",
@@ -1137,11 +1137,11 @@
 											"type": "insetReadaloud",
 											"id": "245",
 											"entries": [
-												"This wide, vaulted hall has a row of pillars on either side, supporting elegant arches and framing colorful frescoes on the east and west walls. Rubble from the remains of immense stone doors lies to the north. A smaller, intact stone door leads out to the east."
+												"Questa ampia sala a volta ha una fila di pilastri su entrambi i lati, che sostengono eleganti archi e incorniciano affreschi colorati sulle pareti est e ovest. A nord si trovano le macerie dei resti di immense porte di pietra. Una porta in pietra più piccola e intatta conduce a est."
 											]
 										},
-										"The fresco on the west wall depicts an enormous red dragon exhaling fire over a forested landscape. Several burning villages appear in distinct scenes along the wall's length.",
-										"The fresco on the east wall shows an armored knight on the back of a red dragon flying across the landscape. This pair appears in multiple scenes along the wall, with the dragon's wings in a different position in each scene. The land below the knight and dragon is depicted as a raging inferno."
+										"L'affresco sulla parete ovest raffigura un enorme drago rosso che esala fuoco su un paesaggio boscoso. Diversi villaggi in fiamme appaiono in scene distinte lungo il muro.",
+										"L'affresco sulla parete est mostra un cavaliere in armatura sul dorso di un drago rosso che vola attraverso il paesaggio. Questa coppia appare in più scene lungo il muro, con le ali del drago in una posizione diversa in ogni scena. La terra sotto il cavaliere e il drago è raffigurata come un inferno furioso."
 									]
 								},
 								{
@@ -1153,7 +1153,7 @@
 											"type": "insetReadaloud",
 											"id": "247",
 											"entries": [
-												"Four chambers branch from a central hub. Frescoes cover the walls of every chamber. In both southern rooms, an obsidian sarcophagus stands upright against the south wall. Ornate carvings of the sarcophagi's githyanki occupants adorn the lids."
+												"Quattro camere si diramano da un mozzo centrale. Gli affreschi ricoprono le pareti di ogni camera. In entrambe le stanze meridionali, un sarcofago di ossidiana si trova in posizione verticale contro il muro sud. Intagli decorati degli occupanti githyanki dei sarcofagi adornano i coperchi."
 											]
 										},
 										{
@@ -1961,14 +1961,14 @@
 												}
 											]
 										},
-										"The frescoes in these chambers depict four githyanki building and tending the gardens, conquering the surrounding region, and feasting in celebration. An enormous red dragon is visible in many scenes, soaring triumphantly through the sky or coiled atop a great hoard of plundered treasure. Ozzadraz appears in the frescoes of the northeast chamber, and Zumzn in the northwest chamber.",
+										"Gli affreschi in queste camere raffigurano quattro githyanki che costruiscono e si prendono cura dei giardini, conquistano la regione circostante e festeggiano. In molte scene è visibile un enorme drago rosso, che svetta trionfante nel cielo o attorcigliato su un grande tesoro saccheggiato. Ozzadraz appare negli affreschi della camera nord-est e Zumzn in quella nord-ovest.",
 										{
 											"type": "entries",
 											"name": "Sarcophagi",
 											"id": "248",
 											"entries": [
-												"The sarcophagus in the southwest holds the remains of Kh'krai, and the one in the southeast holds the remains of Suthket. They were buried with honor despite their rebellion against Ozzadraz. Touching either sarcophagus casts the {@spell Speak with Dead|XPHB} spell, targeting the corpse within. The carved face on the sarcophagus animates as if it were the speaking corpse.",
-												"Both githyanki died centuries ago, so their knowledge of the gardens is outdated. They act belligerent but answer questions honestly. They also warn of curses that will befall anyone who disturbs their remains. These warnings are empty threats. The sarcophagi contain only the mummified corpses of the githyanki."
+												"Il sarcofago a sud-ovest contiene i resti di Kh'krai, mentre quello a sud-est contiene i resti di Suthket. Furono sepolti con onore nonostante la loro ribellione contro Ozzadraz. Toccando uno dei sarcofagi si lancia l'incantesimo {@spell Speak with Dead|XPHB}, prendendo di mira il cadavere all'interno. Il volto scolpito sul sarcofago si anima come se fosse il cadavere parlante.",
+												"Entrambi i githyanki sono morti secoli fa, quindi la loro conoscenza dei giardini è obsoleta. Si comportano in modo bellicoso ma rispondono alle domande onestamente. Avvertono anche delle maledizioni che colpiranno chiunque disturberà i loro resti. Questi avvertimenti sono minacce vuote. I sarcofagi contengono solo i cadaveri mummificati dei githyanki."
 											]
 										}
 									]
@@ -1982,16 +1982,16 @@
 											"type": "insetReadaloud",
 											"id": "24a",
 											"entries": [
-												"The floor of this hall curves upward to become the walls and the ceiling, forming a cylindrical corridor fifteen feet in diameter. The surfaces are inky black but studded with tiny lights like stars in the night sky."
+												"Il pavimento di questa sala curva verso l'alto per diventare le pareti e il soffitto, formando un corridoio cilindrico di quindici piedi di diametro. Le superfici sono nere come l'inchiostro ma tempestate di minuscole luci come stelle nel cielo notturno."
 											]
 										},
-										"The \"stars\" embedded in the surfaces of the hall are tiny chips of glowing stone harvested from a mountain in Elysium. They can be pried out using {@item Jeweler's Tools|XPHB} or {@item Mason's Tools|XPHB}, at a rate of {@dice 1d8} stones per minute (to a maximum of 300 stones). Each one sheds {@variantrule Dim Light|XPHB} in a 5-foot radius and can be sold for 5 SP.",
+										"Le \"stelle\" incastonate nelle superfici della sala sono minuscoli frammenti di pietra luminosa raccolti da una montagna dei Campi Elisi. Possono essere estratti utilizzando {@item Jeweler's Tools|XPHB} o {@item Mason's Tools|XPHB}, a una velocità di {@dice 1d8} pietre al minuto (fino a un massimo di 300 pietre). Ognuno perde {@variantrule Dim Light|XPHB} in un raggio di 5 piedi e può essere venduto per 5 SP.",
 										{
 											"type": "entries",
 											"name": "Secret Door",
 											"id": "24b",
 											"entries": [
-												"A character who has a Passive {@skill Perception|XPHB} of 15+ or who searches the west wall for secret doors and succeeds on a {@dc 15} Wisdom ({@skill Perception|XPHB}) check notices that the curving wall just west of the southern entrance is less smooth than the other walls, holding stair-like footholds. They go about four feet up the side of the hall. The space above them is a secret door that opens at the slightest touch. On the other side, a few stairs lead down into the Well of Repose (area {@area G4|24c|x})."
+												"Un personaggio che ha una Passività {@skill Perception|XPHB} di 15+ o che cerca porte segrete nel muro ovest e supera una prova di Saggezza ({@skill Perception|XPHB} {@dc 15} nota che il muro curvo appena a ovest dell'ingresso sud è meno liscio degli altri muri e contiene punti d'appoggio simili a scale. Risalgono circa quattro piedi lungo il lato del corridoio. Lo spazio sopra di loro è una porta segreta che si apre al minimo tocco. Dall'altro lato, alcune scale conducono al Pozzo del Riposo (area {@area G4|24c|x})."
 											]
 										}
 									]
@@ -2005,16 +2005,16 @@
 											"type": "insetReadaloud",
 											"id": "24d",
 											"entries": [
-												"The walls of this hidden chamber are lined with frescoes of grim githyanki warriors. A silvery sky studded with stars swirls above them. At the north end of the room, a low wall encircles a well. The floor behind it is strewn with rubble from damage to the wall and the ceiling above."
+												"Le pareti di questa camera nascosta sono rivestite con affreschi di cupi guerrieri githyanki. Un cielo argentato tempestato di stelle volteggia sopra di loro. All'estremità nord della stanza, un muretto circonda un pozzo. Il pavimento dietro è cosparso di macerie dovute ai danni al muro e al soffitto sopra."
 											]
 										},
-										"The frescoes here memorialize the githyanki warriors who fought alongside the gardens' founders in their ill-fated revolt against the lich-queen. The githyanki exiles would toss coins into the well periodically to honor them.",
+										"Gli affreschi qui commemorano i guerrieri githyanki che combatterono al fianco dei fondatori dei giardini nella loro sfortunata rivolta contro la regina dei lich. Gli esuli githyanki lanciavano periodicamente monete nel pozzo per onorarli.",
 										{
 											"type": "entries",
 											"name": "Secret Doors",
 											"id": "24e",
 											"entries": [
-												"Any character can easily notice the door to area G3, which opens at the slightest touch. A character who has a Passive {@skill Perception|XPHB} of 15+ or a character who searches the west wall for secret doors and succeeds on a {@dc 15} Wisdom (Perception) check notices the secret door to area {@area G10|25c|x} and the latch to open it."
+												"Qualsiasi personaggio può facilmente notare la porta dell'area G3, che si apre al minimo tocco. Un personaggio che ha una Passività {@skill Perception|XPHB} di 15+ o un personaggio che cerca porte segrete nel muro ovest e supera una prova di Saggezza (Percezione) {@dc 15} nota la porta segreta dell'area {@area G10|25c|x} e il chiavistello per aprirla."
 											]
 										},
 										{
@@ -2022,8 +2022,8 @@
 											"name": "Well",
 											"id": "24f",
 											"entries": [
-												"The well is 10 feet wide and 100 feet deep. The water it once held drained out after an earthquake, and the now-dry passage deep below eventually connects to the Underdark. The coins that once lay at the bottom of the well have been plundered; see area {@area G10|25c|x} for their fate.",
-												"A Hostile {@creature Behir|XMM} hides about 20 feet down the well. Angered at the proximity of Xabazhut to its territory, the creature is scouting the gardens to determine if it can kill the dragon. It remains in the well and waits for the characters to leave, but if the characters search the well or attempt to rest here, it fights them. The behir is narrow enough to fit through doorways and 5-foot-wide tunnels, but they are {@variantrule Difficult Terrain|XPHB} for the creature."
+												"Il pozzo è largo 10 piedi e profondo 100 piedi. L'acqua che un tempo conteneva si è prosciugata dopo un terremoto e il passaggio ormai asciutto nelle profondità sottostanti alla fine si collega al Buio Profondo. Le monete che un tempo giacevano sul fondo del pozzo sono state depredate; vedi l'area {@area G10|25c|x} per il loro destino.",
+												"Un ostile {@creature Behir|XMM} si nasconde a circa 20 piedi nel pozzo. Arrabbiata per la vicinanza di Xabazhut al suo territorio, la creatura sta esplorando i giardini per determinare se può uccidere il drago. Rimane nel pozzo e aspetta che i personaggi se ne vadano, ma se i personaggi cercano nel pozzo o tentano di riposarsi qui, li combatte. Il behir è abbastanza stretto da passare attraverso porte e tunnel larghi 1,5 metri, ma sono {@variantrule Difficult Terrain|XPHB} per la creatura."
 											]
 										}
 									]
@@ -2037,11 +2037,11 @@
 											"type": "insetReadaloud",
 											"id": "251",
 											"entries": [
-												"The walls of this cavernous chamber are barely visible. The room holds a scene of chaos: a river cascades through a bottomless abyss, suddenly transforming into a ribbon of iron. A nearby boulder blooms into fire as lightning scatters from it in every direction. Constant chaotic motion and noise assail your senses."
+												"Le pareti di questa camera cavernosa sono appena visibili. La stanza ospita una scena di caos: un fiume precipita attraverso un abisso senza fondo, trasformandosi improvvisamente in un nastro di ferro. Un masso vicino prende fuoco mentre i fulmini si disperdono in ogni direzione. Il movimento caotico e il rumore costanti assalgono i tuoi sensi."
 											]
 										},
-										"The githyanki exiles used this simulation to practice the combat skills needed to battle githzerai on the Plane of Limbo. An infusion of energy from Limbo makes the room permanently behave like that plane. In particular, a creature here can attempt to move or alter objects or to stabilize an area as described in the \"Limbo\" section of the {@book Dungeon Master's Guide|XDMG}. Characters can use these techniques to create a safe pathway to the room's exit.",
-										"Despite appearing to be a bottomless abyss, the room has a floor creatures can move across. However, a creature that moves across the floor takes 2 ({@dice 1d4}) Psychic damage for every 5 feet it moves, as the visual dissonance of moving across an abyss tears at the creature's mind."
+										"Gli esuli githyanki usarono questa simulazione per praticare le abilità di combattimento necessarie per combattere i githzerai sul Piano del Limbo. Un'infusione di energia dal Limbo fa sì che la stanza si comporti permanentemente come quel piano. In particolare, una creatura qui può tentare di spostare o alterare oggetti o di stabilizzare un'area come descritto nella sezione \"Limbo\" del {@book Dungeon Master's Guide|XDMG}. I personaggi possono utilizzare queste tecniche per creare un percorso sicuro verso l'uscita della stanza.",
+										"Nonostante sembri un abisso senza fondo, la stanza ha un pavimento su cui le creature possono muoversi. Tuttavia, una creatura che si muove sul pavimento subisce 2 ({@dice 1d4}) danni psichici per ogni 1,5 metri di movimento, poiché la dissonanza visiva del movimento attraverso un abisso lacera la mente della creatura."
 									]
 								},
 								{
@@ -2053,33 +2053,33 @@
 											"type": "insetReadaloud",
 											"id": "253",
 											"entries": [
-												"An enormous serpentine horror slithers between the north and south walls of this room, which are lined with massive trees carved from green marble. In the alcoves between them, a variety of objects\u2014weapons, a shield, an urn, and the like\u2014rest on pedestals. Green and blue tiles on the floor suggest a river flowing through a fertile delta."
+												"Un enorme orrore serpentino striscia tra le pareti nord e sud di questa stanza, che sono fiancheggiate da enormi alberi scolpiti nel marmo verde. Nelle nicchie tra loro, una varietà di oggetti - armi, uno scudo, un'urna e simili - poggiano su piedistalli. Le piastrelle verdi e blu sul pavimento suggeriscono un fiume che scorre attraverso un delta fertile."
 											]
 										},
-										"A {@creature Spirit Naga|XMM} called Hate's Embrace dwells in this grand hall, placed here by Ozzadraz long ago to guard the githyanki exiles' most sacred objects. The naga resents and fears Xabazhut and Ozzadraz, but with the dragon in its lair (or out spreading wildfires around the countryside) and the githyanki leader in suspended animation, the naga enjoys unimpeded access to the first tier of the gardens.",
-										"The naga captured the last party of adventurers who came here\u2014a group hired by Ginder Nanik in Arborean Springs to scout the gardens for exploitable resources\u2014and slowly and torturously transformed them into yuan-ti. These creatures live in the servants' quarters (area {@area G7|255|x}) and come to the naga's aid when called.",
+										"Un {@creature Spirit Naga|XMM} chiamato Abbraccio dell'Odio dimora in questa grande sala, collocata qui da Ozzadraz molto tempo fa per custodire gli oggetti più sacri degli esuli githyanki. I Naga si risentono e temono Xabazhut e Ozzadraz, ma con il drago nella sua tana (o fuori a diffondere incendi nella campagna) e il leader githyanki in animazione sospesa, i Naga godono di accesso senza ostacoli al primo livello dei giardini.",
+										"I Naga catturarono l'ultimo gruppo di avventurieri giunti qui, un gruppo ingaggiato da Ginder Nanik ad Arborean Springs per esplorare i giardini alla ricerca di risorse sfruttabili, e li trasformarono lentamente e in modo tortuoso in yuan-ti. Queste creature vivono negli alloggi dei servi (area {@area G7|255|x}) e vengono in aiuto dei Naga quando vengono chiamati.",
 										{
 											"type": "entries",
 											"name": "Sacred Objects",
 											"id": "254",
 											"entries": [
-												"Each of the alcoves on the north and south walls contains an object with sacred significance to the githyanki.",
-												"From west to east on the north wall, the five objects are as follows:",
+												"Ciascuna delle nicchie sulle pareti nord e sud contiene un oggetto dal significato sacro per i githyanki.",
+												"Da ovest a est sulla parete nord, i cinque oggetti sono i seguenti:",
 												{
 													"type": "list",
 													"items": [
-														"Elaborately decorated {@item Shield|XPHB} covered with silver filigree (worth 250 GP)",
-														"Ornate {@item Breastplate|XPHB} with several large gemstones embedded in the decoration (worth 750 GP)",
-														"Urn carved from gleaming red jade (worth 750 GP) and containing the ashes of a red dragon (worth an additional 250 GP to the right buyer)",
-														"{@item Greatsword of Vengeance|XDMG|Sword of Vengeance (Greatsword)}, whose hilt is carved with an angry demonic face",
-														"Ceremonial {@item Dagger|XPHB} with a gold handle (worth 25 GP)"
+														"Decorato in modo elaborato {@item Shield|XPHB} ricoperto di filigrana d'argento (del valore di 250 GP)",
+														"Ornato {@item Breastplate|XPHB} con diverse grandi pietre preziose incastonate nella decorazione (del valore di 750 GP)",
+														"Urna scolpita in scintillante giada rossa (del valore di 750 GP) e contenente le ceneri di un drago rosso (del valore di 250 GP aggiuntivi per l'acquirente giusto)",
+														"{@item Greatsword of Vengeance|XDMG|Sword of Vengeance (Greatsword)}, sulla cui elsa è scolpita una faccia demoniaca arrabbiata",
+														"Cerimoniale {@item Dagger|XPHB} con manico d'oro (del valore di 25 GP)"
 													]
 												},
-												"From west to east on the south wall, the two objects are as follows:",
+												"Da ovest a est sulla parete sud i due oggetti sono i seguenti:",
 												{
 													"type": "list",
 													"items": [
-														"Bronze helmet with mother-of-pearl inlay (worth 250 GP)",
+														"Elmo in bronzo con intarsio in madreperla (del valore di 250 GP)",
 														"{@item Periapt of Health|XDMG}"
 													]
 												}
@@ -2096,17 +2096,17 @@
 											"type": "insetReadaloud",
 											"id": "256",
 											"entries": [
-												"Four serpentine creatures with humanoid upper bodies mill about restlessly, and straw mats and personal tokens lie strewn across the floor. Murals showing humans laboring in the gardens decorate the walls of these three connected chambers."
+												"Quattro creature serpentine con la parte superiore del corpo umanoide si aggirano irrequiete, e stuoie di paglia e gettoni personali giacciono sparsi sul pavimento. Murales che mostrano esseri umani che lavorano nei giardini decorano le pareti di queste tre camere collegate."
 											]
 										},
-										"Four {@creature Yuan-ti Malison (Type 3)|XMM|Yuan-ti Malisons (Type 3)} lair in these chambers, which once belonged to humans conscripted to help the githyanki build and maintain the gardens. The yuan-ti were humans themselves only a few years ago, when Ginder Nanik in Arborean Springs hired them to scout the gardens for resources the merchant might exploit. But the naga in area {@area G6|252|x} captured them and transformed them into their current forms through sinister rites and excruciating torture.",
-										"The yuan-ti have no memories of their previous existence and serve the naga unwaveringly. They rush out of this area to aid the naga when they notice combat or a cry for help.",
+										"Quattro {@creature Yuan-ti Malison (Type 3)|XMM|Yuan-ti Malisons (Type 3)} si trovano in queste camere, che un tempo appartenevano a umani arruolati per aiutare i githyanki a costruire e mantenere i giardini. Gli yuan-ti erano umani solo pochi anni fa, quando Ginder Nanik ad Arborean Springs li assunse per esplorare i giardini alla ricerca di risorse che il mercante avrebbe potuto sfruttare. Ma i Naga della zona {@area G6|252|x} li catturarono e li trasformarono nelle loro forme attuali attraverso riti sinistri e torture atroci.",
+										"Gli yuan-ti non hanno ricordi della loro esistenza precedente e servono i Naga incrollabilmente. Si precipitano fuori da quest'area per aiutare i Naga quando notano un combattimento o un grido di aiuto.",
 										{
 											"type": "entries",
 											"name": "Personal Effects",
 											"id": "257",
 											"entries": [
-												"Among the items strewn around the chamber floors are things that point to the yuan-ti's previous existence, including boots, pants, and a broken wax seal belonging to Ginder Nanik: a stylized depiction of water flowing down over rocks, like the hot springs of the region."
+												"Tra gli oggetti sparsi sul pavimento della camera ci sono cose che indicano l'esistenza precedente dello yuan-ti, tra cui stivali, pantaloni e un sigillo di cera rotto appartenente a Ginder Nanik: una rappresentazione stilizzata dell'acqua che scorre sulle rocce, come le sorgenti termali della regione."
 											]
 										}
 									]
@@ -2120,14 +2120,14 @@
 											"type": "insetReadaloud",
 											"id": "259",
 											"entries": [
-												"Mushrooms, moss, and other growths cover the floor of this cavernous room. A wooden rack on the south wall holds five slender silver circlets. A patch of yellowish mold spreads around and covers the rack."
+												"Funghi, muschio e altre piante ricoprono il pavimento di questa stanza cavernosa. Una rastrelliera di legno sulla parete sud contiene cinque sottili cerchietti d'argento. Una macchia di muffa giallastra si allarga e ricopre la griglia."
 											]
 										},
-										"The mold is one patch of yellow mold, described in the {@book Dungeon Master's Guide|XDMG}. It grows all over the rack, so touching any of the silver circlets causes the mold to discharge spores.",
-										"A character who dons a circlet activates a phantasm\u2014a training exercise for the githyanki exiles. The character observes a {@creature Mind Flayer|XMM} and a {@creature Cyclops Sentry|XMM} in the center of the room, with the illithid hovering in the air above and behind the cyclops.",
-										"Characters who aren't wearing circlets can't affect or perceive these creatures\u2014illusions that exist only in the mind of the character wearing the circlet. Any other characters who don circlets perceive the same illusions. When the characters initiate combat, or after 1 minute, the monsters fight characters wearing circlets. Their damaging actions deal Psychic damage rather than the type the creatures depicted would normally deal, but they are otherwise fully real as far as the characters wearing circlets are concerned. The monsters can be damaged or destroyed by those characters' actions.",
-										"A character can't pierce the illusion while wearing a circlet, but simply taking off the circlet causes the illusion to disappear for that character. The illusory monsters can't harm or otherwise affect characters who aren't wearing circlets.",
-										"The circlets' magic functions only in this room. Each is worth 25 GP."
+										"La muffa è una macchia di muffa gialla, descritta nel {@book Dungeon Master's Guide|XDMG}. Cresce su tutto lo scaffale, quindi toccare uno qualsiasi dei cerchietti d'argento fa sì che lo stampo rilasci spore.",
+										"Un personaggio che indossa un cerchietto attiva un'illusione, un esercizio di addestramento per gli esuli githyanki. Il personaggio osserva un {@creature Mind Flayer|XMM} e un {@creature Cyclops Sentry|XMM} al centro della stanza, con l'illithid che volteggia nell'aria sopra e dietro il ciclope.",
+										"I personaggi che non indossano il cerchietto non possono influenzare o percepire queste creature: illusioni che esistono solo nella mente del personaggio che indossa il cerchietto. Tutti gli altri personaggi che indossano cerchietti percepiscono le stesse illusioni. Quando i personaggi iniziano il combattimento, o dopo 1 minuto, i mostri combattono i personaggi che indossano cerchietti. Le loro azioni dannose infliggono danni psichici anziché il tipo che normalmente infliggerebbero le creature raffigurate, ma per il resto sono completamente reali per quanto riguarda i personaggi che indossano i cerchietti. I mostri possono essere danneggiati o distrutti dalle azioni di quei personaggi.",
+										"Un personaggio non può perforare l'illusione mentre indossa un cerchietto, ma semplicemente togliersi il cerchietto fa sì che l'illusione scompaia per quel personaggio. I mostri illusori non possono ferire o influenzare in altro modo i personaggi che non indossano cerchietti.",
+										"La magia dei cerchietti funziona solo in questa stanza. Ciascuno vale 25 GP."
 									]
 								},
 								{
@@ -2139,10 +2139,10 @@
 											"type": "insetReadaloud",
 											"id": "25b",
 											"entries": [
-												"This chamber's warm humidity is oppressive. Passages that once led out to the west and south are collapsed and impassible. Four beautiful frescoes on the walls between exits feature scenes of conquest, each lorded over by a githyanki warrior mounted on an enormous red dragon. A column of shimmering air connects large shafts in the floor and ceiling."
+												"La calda umidità di questa camera è opprimente. I passaggi che un tempo portavano a ovest e a sud sono crollati e impraticabili. Quattro bellissimi affreschi sulle pareti tra le uscite presentano scene di conquista, ciascuna dominata da un guerriero githyanki a cavallo di un enorme drago rosso. Una colonna d'aria scintillante collega grandi condotti nel pavimento e nel soffitto."
 											]
 										},
-										"The Astral lift is described in \"{@area Garden Features|23b|x}.\" The lift connects to the dragon's lair 50 feet below (area {@area G14|26e|x}) and to the Antechamber of Unearthly Delights 20 feet above (area {@area G19|282|x})."
+										"Il sollevamento astrale è descritto in \"{@area Garden Features|23b|x}\". L'ascensore collega alla tana del drago 15 metri più in basso (area {@area G14|26e|x}) e all'Anticamera delle delizie ultraterrene 20 piedi più in alto (area {@area G19|282|x})."
 									]
 								},
 								{
@@ -2154,16 +2154,16 @@
 											"type": "insetReadaloud",
 											"id": "25d",
 											"entries": [
-												"This small chamber serves as the final resting place for two skeletal corpses welded in place against the eastern wall with a blob of precious metal."
+												"Questa piccola camera funge da luogo di riposo finale per due cadaveri scheletrici saldati contro la parete orientale con una massa di metallo prezioso."
 											]
 										},
-										"Two would-be thieves entered the gardens from the Underdark by way of the well (area {@area G4|24c|x}), after collecting the coins from the bottom of the pit in that chamber. They barely made any progress into the ziggurat before Xabazhut emerged from the Astral lift, discovered their presence, and destroyed them and their treasure.",
+										"Due potenziali ladri sono entrati nei giardini dal Sottosuolo attraverso il pozzo (area {@area G4|24c|x}), dopo aver raccolto le monete dal fondo della fossa in quella camera. Fecero a malapena progressi nello ziggurat prima che Xabazhut emergesse dall'ascensore astrale, scoprisse la loro presenza e distrusse loro e il loro tesoro.",
 										{
 											"type": "entries",
 											"name": "Melted Metal",
 											"id": "25e",
 											"entries": [
-												"Given 10 minutes of prying with a {@item Crowbar|XPHB} or similar tool, characters can remove the metal from both the wall and the corpses. A mix of copper, silver, and gold, the blob weighs 50 pounds and is worth 250 GP."
+												"Dopo aver fatto leva per 10 minuti con uno strumento simile {@item Crowbar|XPHB} o simile, i personaggi possono rimuovere il metallo sia dal muro che dai cadaveri. Un mix di rame, argento e oro, il blob pesa 50 libbre e vale 250 GP."
 											]
 										},
 										{
@@ -2171,7 +2171,7 @@
 											"name": "Secret Door",
 											"id": "25f",
 											"entries": [
-												"Once the melted metal is removed, the secret door leading to the well (area {@area G4|24c|x}) becomes obvious. Finding the hidden latch, however, requires a character to take a {@action Search|XPHB} action and succeed on a {@dc 15} Wisdom ({@skill Perception|XPHB}) check."
+												"Una volta rimosso il metallo fuso, diventa evidente la porta segreta che conduce al pozzo (area {@area G4|24c|x}). Trovare la chiusura nascosta, tuttavia, richiede che un personaggio esegua un'azione {@action Search|XPHB} e superi una prova di {@dc 15} Saggezza ({@skill Perception|XPHB})."
 											]
 										}
 									]
@@ -2185,16 +2185,16 @@
 											"type": "insetReadaloud",
 											"id": "261",
 											"entries": [
-												"At the end of a long, pillared hall, a stone sculpture depicts an emaciated githyanki sitting on a grand throne. Above the sculpture, a dragon skull hangs suspended by three chains. A fresco on the west wall depicts the same figure, pointing a withered finger as four githyanki depart from her presence, their heads dropped in shame."
+												"Alla fine di una lunga sala con colonne, una scultura in pietra raffigura un githyanki emaciato seduto su un grande trono. Sopra la scultura, un teschio di drago è sospeso a tre catene. Un affresco sulla parete ovest raffigura la stessa figura, che punta un dito avvizzito mentre quattro githyanki si allontanano dalla sua presenza, con la testa abbassata per la vergogna."
 											]
 										},
-										"In this shrine, the githyanki paid penitent homage to Vlaakith, the dread githyanki ruler they rebelled against, who banished them as punishment for their insurrection. The sense of malice in this room is palpable. A powerful curse protects the sculpture from any who would deface it.",
+										"In questo santuario, i githyanki rendevano penitente omaggio a Vlaakith, il terribile sovrano githyanki contro cui si ribellarono, che li bandì come punizione per la loro insurrezione. Il senso di malizia in questa stanza è palpabile. Una potente maledizione protegge la scultura da chiunque voglia deturparla.",
 										{
 											"type": "entries",
 											"name": "Dragon Skull",
 											"id": "262",
 											"entries": [
-												"The skull belonged to a sizable red dragon."
+												"Il teschio apparteneva a un considerevole drago rosso."
 											]
 										},
 										{
@@ -2202,7 +2202,7 @@
 											"name": "Sculpture",
 											"id": "263",
 											"entries": [
-												"The sculpture of Vlaakith wears a spiked crown and carries a dragon-headed scepter. Two sculpted dragon heads snake from behind the throne. A creature who touches the statue, hits it with an attack roll, or otherwise tries to damage the statue makes a {@dc 16} Constitution saving throw, taking 22 ({@dice 4d10}) Necrotic damage on a failed save or half as much damage on a successful one. At the same time, an {@condition Invisible|XPHB} sensor appears before the statue's face, showing Xabazhut the room as if he had cast {@spell Clairvoyance|XPHB}. The Large statue has AC 17, HP 38, and Immunity to Poison and Psychic damage."
+												"La scultura di Vlaakith indossa una corona a spillo e porta uno scettro con la testa di drago. Due teste di drago scolpite serpeggiano da dietro il trono. Una creatura che tocca la statua, la colpisce con un tiro per colpire o tenta in altro modo di danneggiare la statua effettua un tiro salvezza su Costituzione {@dc 16} e subisce 22 ({@dice 4d10}) danni necrotici se fallisce il tiro salvezza o la metà di questi danni se lo riesce. Allo stesso tempo, un sensore {@condition Invisible|XPHB} appare davanti al volto della statua, mostrando a Xabazhut la stanza come se avesse lanciato {@spell Clairvoyance|XPHB}. La statua grande ha CA 17, PF 38 e immunità al veleno e ai danni psichici."
 											]
 										}
 									]
@@ -2216,16 +2216,16 @@
 											"type": "insetReadaloud",
 											"id": "265",
 											"entries": [
-												"A magnificent, dragon-prowed ship spans this large chamber. Instead of sails, apparatuses resembling dragon wings lie against the ship's hull. A sculpted sarcophagus rests on the deck. A deep pit surrounds the vessel, and wisps of steam drift in the air."
+												"Una magnifica nave con la prora di drago attraversa questa grande camera. Invece delle vele, contro lo scafo della nave si trovano apparati che ricordano le ali del drago. Sul ponte poggia un sarcofago scolpito. Una fossa profonda circonda la nave e sbuffi di vapore fluttuano nell'aria."
 											]
 										},
-										"This is the lair of the {@creature Githyanki Knight|XMM} Ozzadraz the Conqueror, ruler of the exiled githyanki who built the gardens. He lies in the sarcophagus under the effect of the {@spell Sequester|XPHB} spell, which makes him {@condition Invisible|XPHB} and keeps him in suspended animation. The spell ends if Ozzadraz takes any damage or if Xabazhut takes damage while within the ziggurat. Ozzadraz responds by confronting the characters and demanding their obeisance, fighting them if they refuse.",
+										"Questa è la tana del {@creature Githyanki Knight|XMM} Ozzadraz il Conquistatore, sovrano dei githyanki in esilio che costruirono i giardini. Giace nel sarcofago sotto l'effetto dell'incantesimo {@spell Sequester|XPHB} che lo rende {@condition Invisible|XPHB} e lo mantiene in animazione sospesa. L'incantesimo termina se Ozzadraz subisce danni o se Xabazhut subisce danni mentre si trova all'interno dello ziggurat. Ozzadraz risponde affrontando i personaggi e chiedendo il loro obbedienza, combattendoli se rifiutano.",
 										{
 											"type": "entries",
 											"name": "Dragon-Prowed Ship",
 											"id": "266",
 											"entries": [
-												"This magical Airship rests on a pillar rising up from the dragon's lair (area {@area G14|26e|x}) and is equipped with two Ballistae. Activating the ship's magic and launching it into the air requires Attunement to its throne-like helm. Ozzadraz is currently attuned to it."
+												"Questo dirigibile magico poggia su un pilastro che sale dalla tana del drago (area {@area G14|26e|x}) ed è dotato di due baliste. Attivare la magia della nave e lanciarla in aria richiede la sintonia con il suo timone simile a un trono. Ozzadraz è attualmente in sintonia con esso."
 											]
 										},
 										{
@@ -2233,7 +2233,7 @@
 											"name": "Sarcophagus",
 											"id": "267",
 											"entries": [
-												"The sarcophagus's creators painted it to look like a red-scaled, bipedal draconic figure wearing black armor and carrying a silver sword. Ozzadraz rests in suspended animation within it. The sarcophagus has the magical property of casting the {@spell Sequester|XPHB} spell on any willing creature inside it when the lid is closed. The targeted creature chooses the condition that will end the spell."
+												"I creatori del sarcofago lo hanno dipinto in modo che assomigliasse a una figura draconica bipede a scaglie rosse che indossa un'armatura nera e porta una spada d'argento. Ozzadraz riposa in un'animazione sospesa al suo interno. Il sarcofago ha la proprietà magica di lanciare l'incantesimo {@spell Sequester|XPHB} su qualsiasi creatura consenziente al suo interno quando il coperchio è chiuso. La creatura bersaglio sceglie la condizione che porrà fine all'incantesimo."
 											]
 										},
 										{
@@ -2241,7 +2241,7 @@
 											"name": "Steaming Pit",
 											"id": "268",
 											"entries": [
-												"The room is {@variantrule Lightly Obscured|XPHB} by dense steam rising from the 50-foot-deep pit that surrounds the Airship."
+												"La stanza è {@variantrule Lightly Obscured|XPHB} circondata da un denso vapore che sale dalla fossa profonda 50 piedi che circonda l'aeronave."
 											]
 										},
 										{
@@ -2249,7 +2249,7 @@
 											"name": "Treasure",
 											"id": "269",
 											"entries": [
-												"Ozzadraz wears a suit of black Plate Armor fashioned to look like the night sky and inlaid with topaz and blue spinel gems, worth 6,000 GP total. He also carries a {@item Horn of Blasting|XDMG}."
+												"Ozzadraz indossa un'armatura a piastre nera modellata per assomigliare al cielo notturno e intarsiata con gemme di topazio e spinello blu, del valore di 6.000 GP in totale. Porta anche un {@item Horn of Blasting|XDMG}."
 											]
 										}
 									]
@@ -2263,16 +2263,16 @@
 											"type": "insetReadaloud",
 											"id": "26b",
 											"entries": [
-												"Three rose hedges grow along this terrace on the north side of the first tier. Their flowers are red as heart's blood, and their perfume is cloyingly sweet."
+												"Tre siepi di rose crescono lungo questa terrazza sul lato nord del primo ordine. I loro fiori sono rossi come il sangue del cuore e il loro profumo è stucchevolmente dolce."
 											]
 										},
-										"These hedges are Arborean roses, transplanted from the plane of Arborea. The first time a creature comes within 15 feet of one of these hedges, the creature makes a {@dc 12} Constitution saving throw. On a failed save, the next time the creature notices a creature that isn't one of its allies, it becomes besotted with that creature and has the {@condition Charmed|XPHB} condition for 1 hour.",
+										"Queste siepi sono rose arboree, trapiantate dalla piana di Arborea. La prima volta che una creatura si avvicina a 4,5 metri da una di queste siepi, effettua un tiro salvezza su Costituzione {@dc 12}. In caso di tiro salvezza fallito, la prossima volta che la creatura nota una creatura che non è uno dei suoi alleati, si innamora di quella creatura e ha la condizione {@condition Charmed|XPHB} per 1 ora.",
 										{
 											"type": "entries",
 											"name": "Sleeping Concoction",
 											"id": "26c",
 											"entries": [
-												"The Burning Circle's sleeping concoction requires three Arborean rose blossoms (see \"{@area Nature Lovers|215|x}\")."
+												"L'intruglio soporifero del Cerchio Ardente richiede tre fiori di rosa arborea (vedi \"{@area Nature Lovers|215|x}\")."
 											]
 										}
 									]
@@ -2284,7 +2284,7 @@
 							"name": "Xabazhut's Lair",
 							"id": "26d",
 							"entries": [
-								"The dragon's lair is accessible through the Astral lift in area {@area G9|25a|x} and the pit in area {@area G12|264|x}. A hidden tunnel in the Lake of Bones (see area {@area V8|235|x}) leads to the hot spring in the lair. The lair is shown on {@adventure Map: Garden of the Dragon|DrDe-TFV|1|Map: Garden of the Dragon}.",
+								"La tana del drago è accessibile tramite l'ascensore astrale nell'area {@area G9|25a|x} e la fossa nell'area {@area G12|264|x}. Un tunnel nascosto nel Lago delle Ossa (vedi area {@area V8|235|x}) conduce alla sorgente termale nella tana. La tana viene mostrata su {@adventure Map: Garden of the Dragon|DrDe-TFV|1|Map: Garden of the Dragon}.",
 								{
 									"type": "entries",
 									"name": "G14: Garden of the Dragon",
@@ -2950,17 +2950,17 @@
 											"type": "insetReadaloud",
 											"id": "26f",
 											"entries": [
-												"Thick steam from a boiling spring suffuses this hot, volcanic cavern and rises through a hole in the ceiling above. Magnificent treasures gleam among a pile of coins heaped around a square granite pillar. Near the pillar lounges a mighty red dragon."
+												"Il vapore denso proveniente da una sorgente bollente pervade questa calda caverna vulcanica e sale attraverso un foro nel soffitto sovrastante. Magnifici tesori brillano tra un mucchio di monete ammucchiate attorno a un pilastro quadrato di granito. Vicino al pilastro giace un potente drago rosso."
 											]
 										},
-										"This area is Xabazhut's lair and holds his hoard, plundered from the towns of the Paradise Mountains region. Xabazhut is a {@creature Young Red Dragon|XMM} who wants to burn the area and grow his hoard, as his predecessor did. He emerges from his lair from time to time to start new wildfires, but he spends most of every day here in his lair.",
-										"As soon as Xabazhut takes damage, Ozzadraz awakens from his suspended animation on the Airship (area {@area G12|264|x})\u2014if he hasn't already\u2014and hurries to the dragon's aid. He calls for the dragon to fly up toward the ceiling of the cavern, allowing the githyanki to teleport onto his back. If {@status Bloodied|XPHB}, Xabazhut attempts to bargain or compromise to escape with his life.",
+										"Questa zona è la tana di Xabazhut e custodisce il suo tesoro, saccheggiato dalle città della regione delle Montagne Paradiso. Xabazhut è un {@creature Young Red Dragon|XMM} che vuole bruciare l'area e aumentare il suo tesoro, come ha fatto il suo predecessore. Di tanto in tanto esce dalla sua tana per appiccare nuovi incendi, ma trascorre la maggior parte della giornata qui nella sua tana.",
+										"Non appena Xabazhut subisce danni, Ozzadraz si risveglia dall'animazione sospesa sull'aeronave (area {@area G12|264|x}) (se non l'ha già fatto) e corre in aiuto del drago. Chiede al drago di volare verso il soffitto della caverna, permettendo ai githyanki di teletrasportarsi sulla sua schiena. Se {@status Bloodied|XPHB}, Xabazhut tenta di contrattare o scendere a compromessi per salvarsi la vita.",
 										{
 											"type": "entries",
 											"name": "Astral Lift",
 											"id": "270",
 											"entries": [
-												"The Astral lift, which connects to several chambers above, is described in \"{@area Garden Features|23b|x}.\""
+												"L'ascensore astrale, che collega a diverse camere superiori, è descritto in \"{@area Garden Features|23b|x}.\""
 											]
 										},
 										{
@@ -2968,8 +2968,8 @@
 											"name": "Hot Spring",
 											"id": "271",
 											"entries": [
-												"Steam from the spring makes this area {@variantrule Lightly Obscured|XPHB}. The spring is 50 feet deep and connects to the Lake of Bones via a hidden entrance. A character who swims to the bottom of the spring and takes a {@action Search|XPHB} action can make a {@dc 20} Wisdom ({@skill Perception|XPHB}) check. On a success, the character discovers a hidden underwater tunnel leading to area {@area V8|235|x} (see \"{@area Lake of Bones|237|x}\" above).",
-												"Any creature that enters the scalding spring for the first time on a turn or starts its turn in the water takes 11 ({@dice 2d10}) Fire damage. Being underwater doesn't grant {@variantrule Resistance|XPHB} to this Fire damage."
+												"Il vapore della sorgente rende questa zona {@variantrule Lightly Obscured|XPHB}. La sorgente è profonda 50 piedi e si collega al Lago delle Ossa tramite un ingresso nascosto. Un personaggio che nuota fino al fondo della sorgente ed esegue un'azione {@action Search|XPHB} può effettuare una prova di {@dc 20} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio scopre un tunnel sottomarino nascosto che conduce all'area {@area V8|235|x} (vedi \"{@area Lake of Bones|237|x}\" sopra).",
+												"Qualsiasi creatura che entra nella sorgente bollente per la prima volta in un turno o inizia il suo turno nell'acqua subisce 11 ({@dice 2d10}) danni da fuoco. Essere sott'acqua non conferisce {@variantrule Resistance|XPHB} a questo danno da fuoco."
 											]
 										},
 										{
@@ -2977,7 +2977,7 @@
 											"name": "Pillar",
 											"id": "272",
 											"entries": [
-												"The pillar supports Ozzadraz's Airship (true), 50 feet above the cavern floor."
+												"Il pilastro sostiene l'aeronave di Ozzadraz (vero), a 50 piedi sopra il pavimento della caverna."
 											]
 										},
 										{
@@ -2985,19 +2985,19 @@
 											"name": "Treasure",
 											"id": "273",
 											"entries": [
-												"Xabazhut sleeps on his hoard, which includes the following treasures:",
+												"Xabazhut dorme sul suo tesoro, che include i seguenti tesori:",
 												{
 													"type": "list",
 													"items": [
-														"300 PP, 4,500 GP, 15,000 SP, and 4,500 CP",
-														"Three coral stones (worth 100 GP each)",
-														"Two jet stones (worth 100 GP each)",
-														"Two carnelians (worth 50 GP each)",
-														"Three onyx stones (worth 50 GP each)",
-														"Seven hematite stones (worth 10 GP each)",
-														"Three obsidian stones (worth 10 GP each)",
-														"Ancient lyre whose arms are capped with dragon heads made of gold (worth 250 GP)",
-														"Jade orb (worth 100 GP) engraved in Infernal with the name of Nessus",
+														"300 PP, 4.500 GP, 15.000 SP e 4.500 PC",
+														"Tre pietre di corallo (del valore di 100 GP ciascuna)",
+														"Due pietre jet (del valore di 100 GP ciascuna)",
+														"Due corniole (del valore di 50 GP ciascuna)",
+														"Tre pietre di onice (del valore di 50 GP ciascuna)",
+														"Sette pietre di ematite (del valore di 10 GP ciascuna)",
+														"Tre pietre di ossidiana (del valore di 10 GP ciascuna)",
+														"Antica lira le cui braccia sono ricoperte da teste di drago d'oro (del valore di 250 GP)",
+														"Sfera di giada (del valore di 100 GP) incisa nell'Inferno con il nome di Nessus",
 														"{@item Cube of Summoning|XDMG}",
 														"{@item Instrument of the Bards, Doss Lute|XDMG|Instrument of the Bards (Doss lute)}",
 														"{@item Silvered Spear|XDMG|Silvered Weapon (Spear)}"
@@ -3459,16 +3459,16 @@
 										}
 									]
 								},
-								"The second tier of the gardens, shown on Map: Garden of Unearthly Delights, is called the Garden of Unearthly Delights. It is the most verdant of the garden tiers, especially since a coven of {@creature Green Hag|XMM|Green Hags} from the Feywild took up residence here to serve Xabazhut and revel in the dragon's reign of terror. The hags lair in a bog that has formed in one of the ziggurat's rooms (true), but the characters might encounter them anywhere on this tier.",
-								"The coven consists of the following hags:",
-								"{@b Deathkiss}, a male Green Hag with a tawny mane like a lion's",
-								"{@b Demondream}, a female Green Hag with the hooves and horns of a goat",
-								"{@b Murderbliss}, a genderless reptilian Green Hag with scaled skin and horns like a red dragon's",
-								"The three hags bicker incessantly with one another, but they also finish each other's sentences and coordinate their activities as if they were a single creature. They refer to the chimera in area {@area G16|279|x} as their \"son.\"",
-								"The hags roam around this tier. Though Indifferent to the characters, as allies of Xabazhut, they interfere with whatever the characters do. If engaged in combat, the hags try to escape and regroup in the menagerie (area {@area G21|289|x}), where they can call on the creatures there to aid them. Each hag carries an iron key that opens all the pens in the menagerie (area {@area G21|289|x}).",
-								"If the adventurers display enough strength, the hags might believe the characters could actually slay Xabazhut. In that case, the characters might be able to convince the hags to betray the dragon by revealing the location of Xabazhut's lair (area {@area G14|26e|x}), the location of the plants needed for the sleeping concoction (areas {@area G13|26a|x}, {@area G20|284|x}, and {@area G24|291|x}), or other information that might help the characters.",
-								"The hags offer to exchange this information for each adventurer's favorite childhood memory. If the characters agree to this bargain, the hags siphon the memories from their heads with a tiny pipette and deposit them into small glass Vials. A character who drinks the contents of a Vial gains the memory it contains (regardless of whose memory it was originally).",
-								"The last thing any of the hags wants is to face a group of powerful adventurers in combat. As soon as a hag takes damage, the hag flees, hoping to interfere with the characters' activities elsewhere on this tier.",
+								"Il secondo livello dei giardini, mostrato sulla mappa: Giardino delle Delizie Ultraterrene, è chiamato Giardino delle Delizie Ultraterrene. È il livello più verdeggiante del giardino, soprattutto da quando una congrega di {@creature Green Hag|XMM|Green Hags} provenienti dalla Selva dei Folletti si è stabilita qui per servire Xabazhut e godersi il regno del terrore del drago. Le megere fanno la tana in una palude che si è formata in una delle stanze dello ziggurat (vero), ma i personaggi potrebbero incontrarle ovunque su questo livello.",
+								"La congrega è composta dalle seguenti streghe:",
+								"{@b Deathkiss}, una Megera Verde maschio con una criniera fulva come quella di un leone",
+								"{@b Demondream}, una femmina di Strega Verde con gli zoccoli e le corna di una capra",
+								"{@b Murderbliss}, una megera verde rettiliana senza sesso con pelle squamosa e corna come quelle di un drago rosso",
+								"Le tre streghe litigano incessantemente tra loro, ma finiscono anche le frasi l'una dell'altra e coordinano le loro attività come se fossero un'unica creatura. Si riferiscono alla chimera nell'area {@area G16|279|x} come al loro \"figlio\".",
+								"Le streghe vagano per questo livello. Sebbene indifferenti ai personaggi, in quanto alleati di Xabazhut, interferiscono con qualunque cosa facciano i personaggi. Se impegnate in un combattimento, le megere tentano di scappare e di raggrupparsi nel serraglio (area {@area G21|289|x}), dove possono invocare l'aiuto delle creature presenti. Ogni megera porta con sé una chiave di ferro che apre tutti i recinti del serraglio (area {@area G21|289|x}).",
+								"Se gli avventurieri mostrano abbastanza forza, le megere potrebbero credere che i personaggi possano effettivamente uccidere Xabazhut. In tal caso, i personaggi potrebbero riuscire a convincere le megere a tradire il drago rivelando la posizione della tana di Xabazhut (area {@area G14|26e|x}), la posizione delle piante necessarie per il sonnifero (aree {@area G13|26a|x}, {@area G20|284|x} e {@area G24|291|x}) o altre informazioni che potrebbero aiutare i personaggi.",
+								"Le streghe si offrono di scambiare queste informazioni con il ricordo d'infanzia preferito di ogni avventuriero. Se i personaggi accettano questo patto, le megere aspirano i ricordi dalle loro teste con una minuscola pipetta e li depositano in piccole fiale di vetro. Un personaggio che beve il contenuto di una Fiala ottiene la memoria che contiene (indipendentemente da chi fosse originariamente).",
+								"L'ultima cosa che le streghe vogliono è affrontare un gruppo di potenti avventurieri in combattimento. Non appena una megera subisce danni, fugge, sperando di interferire con le attività dei personaggi altrove su questo livello.",
 								{
 									"type": "entries",
 									"name": "G15: Bog of the Green Hags",
@@ -3478,17 +3478,17 @@
 											"type": "insetReadaloud",
 											"id": "276",
 											"entries": [
-												"A murky grove grows through a shattered chamber open to the outside. A waterfall pours through the collapsed ceiling and into the misty bog. Butterflies flit through the branches of trees draped in moss and vines, and frogs croak and chirp among the snaking roots."
+												"Un boschetto oscuro cresce attraverso una camera distrutta aperta verso l'esterno. Una cascata si riversa attraverso il soffitto crollato e nella palude nebbiosa. Le farfalle svolazzano tra i rami degli alberi ricoperti di muschio e viti, e le rane gracidano e cinguettano tra le radici serpeggianti."
 											]
 										},
-										"Natural deterioration has transformed this former Feywild garden into a bog, and three {@creature Green Hag|XMM|Green Hags} (see above) now lair here. When alerted to the approach of intruders, the hags use magic to disguise themselves as dryads and pretend to be bound to the trees in this chamber.",
-										"If combat begins in this room, the {@creature Chimera|XMM} in area {@area G16|279|x} comes to the hags' aid immediately.",
+										"Il degrado naturale ha trasformato questo ex giardino della Selva Fatata in una palude e tre {@creature Green Hag|XMM|Green Hags} (vedi sopra) ora si annidano qui. Quando vengono allertate dell'avvicinarsi degli intrusi, le megere usano la magia per mascherarsi da driadi e fingere di essere legate agli alberi in questa camera.",
+										"Se il combattimento inizia in questa stanza, il {@creature Chimera|XMM} nell'area {@area G16|279|x} viene immediatamente in aiuto delle megere.",
 										{
 											"type": "entries",
 											"name": "Waterfall",
 											"id": "277",
 											"entries": [
-												"The ceiling once contained a canal that channeled water from the third tier to the second. Now the water falls straight into the room, creating the bog."
+												"Il soffitto un tempo conteneva un canale che convogliava l'acqua dal terzo ordine al secondo. Ora l'acqua cade direttamente nella stanza, creando la palude."
 											]
 										},
 										{
@@ -3496,7 +3496,7 @@
 											"name": "Treasure",
 											"id": "278",
 											"entries": [
-												"Submerged in the bog is a human skeleton wearing an {@item Amulet of Proof against Detection and Location|XDMG}. As a {@action Search|XPHB} action, a character can comb through the bog and make a {@dc 18} Wisdom ({@skill Perception|XPHB}) check. On a success, the character finds the amulet."
+												"Sommerso nella palude c'è uno scheletro umano che indossa un {@item Amulet of Proof against Detection and Location|XDMG}. Come azione {@action Search|XPHB}, un personaggio può setacciare la palude ed effettuare una prova di {@dc 18} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio trova l'amuleto."
 											]
 										}
 									]
@@ -3510,16 +3510,16 @@
 											"type": "insetReadaloud",
 											"id": "27a",
 											"entries": [
-												"Tall pillars decorated with painted reliefs are barely visible through curtains of ivy that climb toward the vaulted ceiling. Low shrubs and trees grow densely around a long central pool, and harsh bird cries pierce the air."
+												"Alti pilastri decorati con rilievi dipinti sono appena visibili attraverso cortine d'edera che si arrampicano verso il soffitto a volta. Bassi arbusti e alberi crescono fitti attorno a una lunga vasca centrale e le aspre grida degli uccelli perforano l'aria."
 											]
 										},
-										"A {@creature Chimera|XMM} dwells in this room, often lounging in the water or sunning itself in the southwest corner. The hags flatter it, feed it well, and present it with gifts to ensure its cooperation. It comes to the hags' aid if they are threatened within earshot of it.",
+										"A {@creature Chimera|XMM} abita in questa stanza, spesso sdraiandosi nell'acqua o prendendo il sole nell'angolo sud-ovest. Le streghe lo adulano, lo nutrono bene e gli presentano doni per assicurarsi la sua collaborazione. Viene in aiuto delle megere se vengono minacciate a portata d'orecchio.",
 										{
 											"type": "entries",
 											"name": "Treasure",
 											"id": "27b",
 											"entries": [
-												"Concealed under lily pads in the western end of the pool lies the chimera's meager treasure: 42 GP, 30 SP, a red garnet worth 100 GP, and a simple gold bracelet worth 25 GP. The chimera stole the garnet from the manticores in area {@area G18|27e|x}."
+												"Nascosto sotto le ninfee all'estremità occidentale della piscina si trova il magro tesoro della chimera: 42 GP, 30 SP, un granato rosso del valore di 100 GP e un semplice braccialetto d'oro del valore di 25 GP. La chimera ha rubato il granato alle manticore della zona {@area G18|27e|x}."
 											]
 										}
 									]
@@ -3543,10 +3543,10 @@
 											"type": "insetReadaloud",
 											"id": "27d",
 											"entries": [
-												"Falling water and birdsong echo through the ruined stone passages of this garden, mingled with eerie, distant animal calls. A prodigious flower blooms in the northwest corner. Its pale-yellow, ten-foot-tall stalk rises from a cluster of jagged leaves to support a head of three-foot petals."
+												"L'acqua che cade e il canto degli uccelli risuonano attraverso i passaggi di pietra in rovina di questo giardino, mescolati a inquietanti e distanti richiami di animali. Un fiore prodigioso sboccia nell'angolo nord-ovest. Il suo gambo giallo pallido, alto tre piedi, si alza da un grappolo di foglie frastagliate per sostenere una testa di petali di tre piedi."
 											]
 										},
-										"This hellbloom flower, native to the Nine Hells, exudes a sweetly pleasant musk. The first time a creature comes within 5 feet of the hellbloom, the flower emits a cloud of noxious gas that duplicates the effect of the {@spell Stinking Cloud|XPHB} spell (spell save {@dc 15}). Once the flower has emitted this gas, it can't do so again until the next dawn."
+										"Questo fiore infernale, originario dei Nove Inferni, emana un muschio dolcemente gradevole. La prima volta che una creatura si avvicina a 1,5 metri dalla fioritura infernale, il fiore emette una nuvola di gas nocivo che duplica l'effetto dell'incantesimo {@spell Stinking Cloud|XPHB} (salvezza incantesimo {@dc 15}). Una volta che il fiore ha emesso questo gas, non potrà farlo di nuovo fino all'alba successiva."
 									]
 								},
 								{
@@ -3554,12 +3554,12 @@
 									"name": "G18: Astral Reliefs",
 									"id": "27e",
 									"entries": [
-										"This chamber is the lair of three Hostile {@creature Manticore|XMM|Manticores} that grudgingly serve the hags in the bog (true). During the day, one manticore lurks in the lair while the other two travel around this tier of the gardens. All three monsters are here at night. Describe how many are present after describing the room as follows:",
+										"Questa camera è la tana di tre ostili {@creature Manticore|XMM|Manticores} che a malincuore servono le streghe nella palude (vero). Durante il giorno, una manticora si nasconde nella tana mentre le altre due viaggiano intorno a questa fila dei giardini. Tutti e tre i mostri sono qui di notte. Descrivi quanti sono presenti dopo aver descritto la stanza come segue:",
 										{
 											"type": "insetReadaloud",
 											"id": "27f",
 											"entries": [
-												"Reliefs on the walls here depict githyanki going about their daily life beneath a silvery, star-studded sky. A row of text runs along the walls' middle, worn away in places or covered by spreading moss. The room reeks of rotting meat."
+												"I rilievi sulle pareti qui raffigurano i githyanki che svolgono la loro vita quotidiana sotto un cielo argentato tempestato di stelle. Una riga di testo corre lungo il centro delle pareti, consumata in alcuni punti o coperta da muschio diffuso. La stanza puzza di carne marcia."
 											]
 										},
 										{
@@ -3567,7 +3567,7 @@
 											"name": "Monstrous Feud",
 											"id": "280",
 											"entries": [
-												"The manticores fear the chimera in the overgrown garden (area {@area G16|279|x}) and hate it for stealing their treasure, a red garnet. The manticores become Friendly toward the characters if the characters destroy the chimera or return the gemstone."
+												"Le manticore temono la chimera nel giardino incolto (area {@area G16|279|x}) e la odiano perché ha rubato il loro tesoro, un granato rosso. Le manticore diventano amichevoli nei confronti dei personaggi se questi distruggono la chimera o restituiscono la gemma."
 											]
 										},
 										{
@@ -3575,7 +3575,7 @@
 											"name": "Inscription",
 											"id": "281",
 											"entries": [
-												"The text, written in the Gith language, is an ode to \"the githyanki, lords of all lords\" and \"Vlaakith our queen, queen of the multiverse.\" It says nothing of significance, though near the end the author expresses regret for their \"unwarranted rebellion\" and \"treasonous disregard for the sublime will\" of the lich-queen."
+												"Il testo, scritto in lingua Gith, è un inno ai \"githyanki, signori di tutti i signori\" e \"Vlaakith la nostra regina, regina del multiverso\". Non dice nulla di significativo, anche se verso la fine l'autore esprime rammarico per la loro \"ribellione ingiustificata\" e il \"traditore disprezzo per la volontà sublime\" della regina dei lich."
 											]
 										}
 									]
@@ -3589,10 +3589,10 @@
 											"type": "insetReadaloud",
 											"id": "283",
 											"entries": [
-												"A fresco here depicts a gentle scene of a githyanki with a red dragon, resting in a green landscape with abundant plant growth. The githyanki holds a flower in her hand. A column of shimmering air connects large shafts in the floor and ceiling."
+												"Un affresco qui raffigura una scena delicata di un githyanki con un drago rosso, che riposa in un paesaggio verde con un'abbondante crescita di piante. Il githyanki tiene un fiore in mano. Una colonna d'aria scintillante collega grandi condotti nel pavimento e nel soffitto."
 											]
 										},
-										"The Astral lift, which passes through this chamber, is described in \"{@area Garden Features|23b|x}.\" The lift connects 20 feet below to the Antechamber of Sacred Repose (area {@area G9|25a|x}) and 20 feet above to the gardens' pinnacle (area {@area G25|296|x})."
+										"L'ascensore astrale, che passa attraverso questa camera, è descritto in \"{@area Garden Features|23b|x}.\" L'ascensore collega 20 piedi più in basso all'Anticamera del Sacro Riposo (area {@area G9|25a|x}) e 20 piedi più in alto al pinnacolo dei giardini (area {@area G25|296|x})."
 									]
 								},
 								{
@@ -3604,22 +3604,22 @@
 											"type": "insetReadaloud",
 											"id": "285",
 											"entries": [
-												"The rush of falling water resounds in this misty room. Four stone fountains each flow into a pool filled with a different color of water\u2014ruby red, sapphire blue, fiery orange, and rich indigo. Many-colored lotuses float in the pools, their sweet fragrance borne on the silver mist."
+												"Lo scorrere dell'acqua che cade risuona in questa stanza nebbiosa. Quattro fontane di pietra sfociano ciascuna in una piscina riempita con un colore diverso dell'acqua: rosso rubino, blu zaffiro, arancione fuoco e ricco indaco. Loti multicolori galleggiano nelle pozze, la loro dolce fragranza trasportata dalla nebbia argentata."
 											]
 										},
-										"This is a meditation and healing chamber. The gardens' builders created it to recall their home among the color pools of the Astral Plane and to nourish plants from the Outer Planes.",
+										"Questa è una camera di meditazione e guarigione. I costruttori dei giardini lo hanno creato per ricordare la loro casa tra le pozze di colore del Piano Astrale e per nutrire le piante dei Piani Esterni.",
 										{
 											"type": "entries",
 											"name": "Arcadian Lotus Flowers",
 											"id": "286",
 											"entries": [
-												"One lotus plant grows in each pool. These plants once grew in Arcadia, and their flowers' sweet aroma carries some of that plane's blessed vitality. A creature that spends the entirety of a Short or Long Rest in this chamber gains the following benefits at the end of the rest:",
+												"In ogni vasca cresce una pianta di loto. Queste piante un tempo crescevano in Arcadia e il dolce aroma dei loro fiori porta con sé parte della benedetta vitalità di quel piano. Una creatura che trascorre l'intero riposo breve o lungo in questa camera ottiene i seguenti benefici alla fine del riposo:",
 												{
 													"type": "list",
 													"items": [
-														"All {@condition Exhaustion|XPHB} levels are removed from the creature.",
-														"The {@condition Poisoned|XPHB} condition ends on the creature.",
-														"The creature regains the maximum number of Hit Points for any Hit Point Die spent at the end of this rest."
+														"Tutti i livelli {@condition Exhaustion|XPHB} vengono rimossi dalla creatura.",
+														"La condizione {@condition Poisoned|XPHB} termina sulla creatura.",
+														"La creatura riacquista il numero massimo di Punti Ferita per qualsiasi Dado Punti Ferita speso alla fine di questo riposo."
 													]
 												}
 											]
@@ -3629,7 +3629,7 @@
 											"name": "Fountain Pools",
 											"id": "287",
 											"entries": [
-												"The pools radiate magic. A character who interacts with the pools can take a {@action Study|XPHB} action and make a {@dc 15} Intelligence ({@skill Arcana|XPHB}) check. On a success, the character deduces that each fountain magically draws nutrient-rich water from the Outer Planes, with the color of the pool matching the hue of an Astral color pool leading to that plane (see the \"{@book Astral Plane|XDMG|5|Astral Plane}\" section of the {@book Dungeon Master's Guide|XDMG}). Water taken from a pool can sustain an extraplanar plant removed from the gardens, as shown on the Fountain Pools table (see \"{@area Extraplanar Plants\"|23f|x}):",
+												"Le piscine irradiano magia. Un personaggio che interagisce con le riserve può intraprendere un'azione {@action Study|XPHB} ed effettuare una prova di {@dc 15} Intelligenza ({@skill Arcana|XPHB}). In caso di successo, il personaggio deduce che ogni fontana attinge magicamente acqua ricca di sostanze nutritive dai Piani Esterni, con il colore della pozza che corrisponde alla tonalità di una pozza di colore astrale che conduce a quel piano (vedi la sezione \"{@book Astral Plane|XDMG|5|Astral Plane}\" del {@book Dungeon Master's Guide|XDMG}). L'acqua prelevata da una piscina può sostenere una pianta extraplanare rimossa dai giardini, come mostrato nella tabella Piscine con fontane (vedi \"{@area Extraplanar Plants\"|23f|x}):",
 												{
 													"type": "table",
 													"caption": "Fountain Pools",
@@ -3647,22 +3647,22 @@
 														[
 															"Blue",
 															"Arborea",
-															"Arborean rose ({@area G13|26a|x})"
+															"Rosa arborea ({@area G13|26a|x})"
 														],
 														[
-															"Indigo",
+															"Indaco",
 															"Ysgard",
 															"Godsvine ({@area G23|28e|x})"
 														],
 														[
-															"Orange",
-															"Elysium",
-															"Elysian cherry ({@area G24|291|x})"
+															"Arancia",
+															"Elisio",
+															"Ciliegia Elisi ({@area G24|291|x})"
 														],
 														[
 															"Red",
-															"Nine Hells",
-															"Hellbloom ({@area G17|27c|x})"
+															"Nove Inferni",
+															"Fiore dell'Inferno ({@area G17|27c|x})"
 														]
 													]
 												}
@@ -3673,7 +3673,7 @@
 											"name": "Sleeping Concoction",
 											"id": "288",
 											"entries": [
-												"The Burning Circle's sleeping concoction requires two Arcadian lotus blossoms (see \"{@area Nature Lovers|215|x}\")."
+												"L'intruglio soporifero del Cerchio Ardente richiede due fiori di loto arcadici (vedi \"{@area Nature Lovers|215|x}\")."
 											]
 										}
 									]
@@ -3687,16 +3687,16 @@
 											"type": "insetReadaloud",
 											"id": "28a",
 											"entries": [
-												"This chamber reeks of dung. Dense vegetation grows through the northeast corner, which has collapsed. To the southwest, a dragon-headed fountain splashes water into a basin. A large ornate mirror hangs on the wall above the fountain's spout. On the east and west, six cages constructed from heavy iron bars stand empty."
+												"Questa camera puzza di sterco. Una fitta vegetazione cresce attraverso l'angolo nord-est, che è crollato. A sud-ovest, una fontana a forma di testa di drago spruzza acqua in una vasca. Un grande specchio decorato è appeso al muro sopra il beccuccio della fontana. A est e a ovest, sei gabbie costruite con pesanti sbarre di ferro sono vuote."
 											]
 										},
-										"The mirror is a {@item Mirror of Life Trapping|XDMG}, which contains the denizens of the menagerie. The hags know the command words for the mirror and use the mirror's cells to keep their monstrous pets.",
+										"Lo specchio è un {@item Mirror of Life Trapping|XDMG} che contiene gli abitanti del serraglio. Le megere conoscono le parole di comando per lo specchio e usano le celle dello specchio per trattenere i loro mostruosi animali domestici.",
 										{
 											"type": "entries",
 											"name": "Cages",
 											"id": "28b",
 											"entries": [
-												"The gates to the six cages are unlocked and squeal on rusty hinges. Straw lines the bottoms of the cages."
+												"I cancelli delle sei gabbie sono aperti e stridono sui cardini arrugginiti. La paglia ricopre il fondo delle gabbie."
 											]
 										},
 										{
@@ -3704,8 +3704,8 @@
 											"name": "Mirror Menagerie",
 											"id": "28c",
 											"entries": [
-												"Nine of the mirror's extradimensional cells are occupied by monsters and people who foolishly ventured into the gardens in recent years, summarized on the Captives of the Mirror table.",
-												"If one of the {@creature Green Hag|XMM|Green Hags} from {@area G15|275|x} confronts adventurers here, the hag activates the mirror and frees the {@creature Hydra|XMM} to create as much chaos as possible. Given the chance, the hag next frees the {@creature Hill Giant|XMM}, promising that if the giant helps kill the adventurers, the hags will let the giant go free.",
+												"Nove celle extradimensionali dello specchio sono occupate da mostri e persone che stupidamente si sono avventurate nei giardini negli ultimi anni, riassunti nella tabella Prigionieri dello Specchio.",
+												"Se uno dei {@creature Green Hag|XMM|Green Hags} di {@area G15|275|x} affronta gli avventurieri qui, la megera attiva lo specchio e libera il {@creature Hydra|XMM} per creare quanto più caos possibile. Data la possibilità, la megera libera poi il {@creature Hill Giant|XMM}, promettendo che se il gigante aiuta a uccidere gli avventurieri, le megere lo lasceranno libero.",
 												{
 													"type": "table",
 													"caption": "Captives of the Mirror",
@@ -3720,11 +3720,11 @@
 													"rows": [
 														[
 															"1",
-															"Eblus (Medium {@creature Druid|XMM}), an elf member of the Burning Circle from Arborean Springs, captured about three months ago and extremely bored"
+															"Eblus (Medio {@creature Druid|XMM}), un elfo membro del Cerchio Infuocato di Arborean Springs, catturato circa tre mesi fa ed estremamente annoiato"
 														],
 														[
 															"2",
-															"Serev (Medium {@creature Noble|XMM}), a human who fled the destruction of Arcadian Springs and came here in a fury, seeking revenge against the dragon"
+															"Serev (Medio {@creature Noble|XMM}), un umano che è fuggito dalla distruzione di Arcadian Springs ed è arrivato qui furioso, in cerca di vendetta contro il drago"
 														],
 														[
 															"3",
@@ -3740,7 +3740,7 @@
 														],
 														[
 															"6",
-															"Gree (Small {@creature Berserker|XMM}), a human who is Javek Horn's great-grandmother"
+															"Gree (Piccola {@creature Berserker|XMM}), un'umana che è la bisnonna di Javek Horn"
 														],
 														[
 															"7",
@@ -3755,8 +3755,8 @@
 															"{@creature Grick Ancient|XMM}"
 														],
 														[
-															"10\u201312",
-															"Empty"
+															"10–12",
+															"Vuoto"
 														]
 													]
 												}
@@ -3769,7 +3769,7 @@
 									"name": "G22: Overgrown Passage",
 									"id": "28d",
 									"entries": [
-										"A collapse in the northeast corner allows vegetation to grow through the wall and into the menagerie (area {@area G21|289|x}). The rubble and dense vegetation make the passage {@variantrule Difficult Terrain|XPHB}, and two vicious vines (see \"{@book Hazards|XDMG|2|Hazards}\" in the {@book Dungeon Master's Guide|XDMG}) grow in the passage. These vines deal 11 ({@dice 2d10}) Piercing damage to creatures {@condition Grappled|XPHB} by them; the DC to avoid or escape their grip is 14."
+										"Un crollo nell'angolo nord-est consente alla vegetazione di crescere attraverso il muro e nel serraglio (area {@area G21|289|x}). Le macerie e la fitta vegetazione rendono il passaggio {@variantrule Difficult Terrain|XPHB} e due viti viziose (vedi \"{@book Hazards|XDMG|2|Hazards}\" nel {@book Dungeon Master's Guide|XDMG}) crescono nel passaggio. Questi rampicanti infliggono 11 ({@dice 2d10}) danni perforanti alle creature {@condition Grappled|XPHB} da parte loro; la CD per evitare o sfuggire alla loro presa è 14."
 									]
 								},
 								{
@@ -3781,10 +3781,10 @@
 											"type": "insetReadaloud",
 											"id": "28f",
 											"entries": [
-												"Plump grapes hang in heavy bunches from vines along this terrace, their skins the burgundy hue of shed blood."
+												"L'uva carnosa pende in grappoli pesanti dalle viti lungo questa terrazza, la loro buccia ha il colore bordeaux del sangue versato."
 											]
 										},
-										"Five particularly large bunches of grapes hang on this godsvine from Ysgard. Eating one bunch of these grapes takes 1 minute and grants the effects of a {@item Potion of Heroism|XDMG}."
+										"Cinque grappoli d'uva particolarmente grandi pendono da questa vite divina di Ysgard. Mangiare un grappolo di quest'uva richiede 1 minuto e conferisce gli effetti di a {@item Potion of Heroism|XDMG}."
 									]
 								}
 							]
@@ -3794,7 +3794,7 @@
 							"name": "Tier 3 Locations",
 							"id": "290",
 							"entries": [
-								"The top tier of the gardens, which is shown on {@adventure Map: The Garden of Everflowing Springs|DrDe-TFV|1|Map 6.5: The Garden of Everflowing Springs}, is called the Garden of Everflowing Springs. It holds the unending sources of the water that flows through the ziggurat, and it imprisons the genie responsible for keeping the water flowing.",
+								"Il livello più alto dei giardini, mostrato su {@adventure Map: The Garden of Everflowing Springs|DrDe-TFV|1|Map 6.5: The Garden of Everflowing Springs}, è chiamato il Giardino delle Sorgenti Eterne. Contiene le fonti infinite dell'acqua che scorre attraverso lo ziggurat e imprigiona il genio responsabile del mantenimento del flusso dell'acqua.",
 								{
 									"type": "entries",
 									"name": "G24: High Terrace",
@@ -3804,16 +3804,16 @@
 											"type": "insetReadaloud",
 											"id": "292",
 											"entries": [
-												"The cherry trees here are in various states of bloom, with some covered in white blossoms and others boasting succulent fruit. The trees shed a sweet, otherworldly fragrance. Wandering around the terrace's edge is an enormous tree with a humanlike face and a fanged, humanoid skull embedded in its trunk."
+												"I ciliegi qui sono in vari stati di fioritura, alcuni ricoperti di fiori bianchi e altri che vantano frutti succulenti. Gli alberi emanano una fragranza dolce e ultraterrena. Intorno al bordo della terrazza si aggira un enorme albero con un volto umano e un teschio umanoide zannuto incastonato nel tronco."
 											]
 										},
-										"The Neutral {@creature Treant|XMM} is a reincarnation of Zumzn, the githyanki gardener who cultivated this place. The creature uses Zumzn's name but remembers nothing of its previous existence except that Zumzn tended these gardens. Zumzn's only goal is to protect the gardens. As long as it regards the adventurers as intruders and thus a potential threat, it is Hostile to them. But if convinced they don't pose a threat to the gardens, it becomes Indifferent.",
+										"Il Neutro {@creature Treant|XMM} è una reincarnazione di Zumzn, il giardiniere githyanki che coltivava questo luogo. La creatura usa il nome di Zumzn ma non ricorda nulla della sua esistenza precedente tranne che Zumzn si prendeva cura di questi giardini. L'unico obiettivo di Zumzn è proteggere i giardini. Finché considera gli avventurieri come intrusi e quindi una potenziale minaccia, è loro ostile. Ma se convinto che non rappresentino una minaccia per i giardini, diventa Indifferente.",
 										{
 											"type": "entries",
 											"name": "Fruit of Life",
 											"id": "293",
 											"entries": [
-												"Zumzn's trunk forks around a githyanki skull, and a heart-shaped fruit\u2014the fruit of life\u2014grows inside the skull. Zumzn can remove the fruit from the skull without harming itself, or someone can free the fruit after the treant's death. The first time a character takes a bite of the fruit, the character's physical age is reduced by {@dice 1d6 + 6} years, to a minimum of 13 years."
+												"Il tronco di Zumzn si biforca attorno a un teschio githyanki e un frutto a forma di cuore, il frutto della vita, cresce all'interno del cranio. Zumzn può rimuovere il frutto dal teschio senza farsi del male, oppure qualcuno può liberare il frutto dopo la morte del treant. La prima volta che un personaggio dà un morso al frutto, la sua età fisica si riduce del {@dice 1d6 + 6} anni, fino a un minimo di 13 anni."
 											]
 										},
 										{
@@ -3821,7 +3821,7 @@
 											"name": "Elysian Cherry Trees",
 											"id": "294",
 											"entries": [
-												"Elysian cherry trees line all four sides of the terrace and are the primary source of this region's miraculous health. A creature that eats a cherry from one of these trees is cured of all magical contagions, and the following conditions end on the creature: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB}, and {@condition Poisoned|XPHB}. A creature can be cured in this way once per day. Once picked, the cherries lose their magic after 24 hours."
+												"I ciliegi elisi fiancheggiano tutti e quattro i lati della terrazza e sono la fonte primaria della salute miracolosa di questa regione. Una creatura che mangia una ciliegia da uno di questi alberi viene curata da tutti i contagi magici e sulla creatura si verificano le seguenti condizioni: {@condition Blinded|XPHB}, {@condition Deafened|XPHB}, {@condition Paralyzed|XPHB} e {@condition Poisoned|XPHB}. Una creatura può essere curata in questo modo una volta al giorno. Una volta raccolte, le ciliegie perdono la loro magia dopo 24 ore."
 											]
 										},
 										{
@@ -3829,7 +3829,7 @@
 											"name": "Sleeping Concoction",
 											"id": "295",
 											"entries": [
-												"The fruit of life is an ingredient of the Burning Circle's sleeping concoction (see \"{@area Nature Lovers|215|x}\") and regrows in {@dice 2d4} days if Zumzn removes it willingly. The whole fruit is required to make the concoction that will return Xabazhut to his slumber."
+												"Il frutto della vita è un ingrediente dell'intruglio soporifero del Cerchio Ardente (vedi \"{@area Nature Lovers|215|x}\") e ricresce in {@dice 2d4} giorni se Zumzn lo rimuove volontariamente. L'intero frutto è necessario per preparare la miscela che riporterà Xabazhut al suo sonno."
 											]
 										}
 									]
@@ -4055,17 +4055,17 @@
 											"type": "insetReadaloud",
 											"id": "297",
 											"entries": [
-												"A palatial apartment crowns the gardens. Wide arches leave it open to the air, and tattered silks of many colors swoop from the vaulted ceiling, which is painted with images of clouds and air spirits. Four whispering streams flow continually from four pools, spilling into the canals that irrigate the gardens. A column of shimmering air descends from the ceiling through a large shaft in the floor."
+												"Un sontuoso appartamento corona i giardini. Ampi archi lo lasciano aperto all'aria e sete sbrindellate di molti colori scendono dal soffitto a volta, dipinto con immagini di nuvole e spiriti dell'aria. Quattro ruscelli sussurranti scorrono continuamente da quattro piscine, riversandosi nei canali che irrigano i giardini. Una colonna d'aria scintillante scende dal soffitto attraverso un grande pozzo nel pavimento."
 											]
 										},
-										"This is the lair of Duban the Magnificent, a haughty {@creature Marid|XMM} bound to serve Ozzadraz. When the characters arrive in his lair, Duban is Indifferent and has cast {@spell Invisibility|XPHB} to observe them unseen and gauge their intent.",
-										"Duban oversees the irrigation of the gardens and defends them from invaders. He opposes the characters unless he thinks them capable of defeating Xabazhut and Ozzadraz. If the characters convince Duban of their strength, whether through combat or conversation, Duban enchants one of their weapons with a {@reward Charm of the Slayer|XDMG} (see \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in the {@book Dungeon Master's Guide|XDMG}) against the dragon.",
+										"Questa è la tana di Duban il Magnifico, un altezzoso {@creature Marid|XMM} destinato a servire Ozzadraz. Quando i personaggi arrivano nella sua tana, Duban è Indifferente e ha lanciato {@spell Invisibility|XPHB} per osservarli senza essere visti e valutare le loro intenzioni.",
+										"Duban sovrintende all'irrigazione dei giardini e li difende dagli invasori. Si oppone ai personaggi a meno che non li ritenga capaci di sconfiggere Xabazhut e Ozzadraz. Se i personaggi convincono Duban della loro forza, attraverso il combattimento o la conversazione, Duban incanta una delle loro armi con un {@reward Charm of the Slayer|XDMG} (vedi \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book Dungeon Master's Guide|XDMG}) contro il drago.",
 										{
 											"type": "entries",
 											"name": "Astral Lift",
 											"id": "298",
 											"entries": [
-												"The Astral lift, which connects the chamber to several below, is described in \"{@area Garden Features|23b|x}.\" The lift connects 20 feet below to the Antechamber of Unearthly Delights (area {@area G19|282|x}), and it extends to the ceiling of this room, 15 feet above the floor."
+												"L'ascensore astrale, che collega la camera a diverse stanze sottostanti, è descritto in \"{@area Garden Features|23b|x}.\" L'ascensore collega 20 piedi più in basso all'Anticamera delle Delizie Ultraterrene (area {@area G19|282|x}) e si estende fino al soffitto di questa stanza, 15 piedi sopra il pavimento."
 											]
 										},
 										{
@@ -4073,7 +4073,7 @@
 											"name": "Pools",
 											"id": "299",
 											"entries": [
-												"In the stonework beneath each pool, a tiny portal leads to the Elemental Plane of Water. The portals are big enough for only a Tiny creature to pass through, and Duban is bound to remain here until Ozzadraz dies. The portals allow in clean, fresh water to keep the pools constantly filled, thus refreshing the canals that irrigate the gardens."
+												"Nella muratura sotto ogni piscina, un piccolo portale conduce al Piano Elementale dell'Acqua. I portali sono abbastanza grandi da consentire il passaggio solo di una creatura Minuscola e Duban è destinato a rimanere qui finché Ozzadraz non muore. I portali lasciano entrare acqua fresca e pulita per mantenere le piscine costantemente piene, rinfrescando così i canali che irrigano i giardini."
 											]
 										}
 									]
@@ -4097,9 +4097,9 @@
 							"width": 1700,
 							"height": 746
 						},
-						"If the characters defeat Xabazhut before the dragon's fire consumes the region, the wildfires dwindle, and the valley begins to heal. But at what cost? Ultimately, the characters' actions determine the fate of the region.",
-						"If the dragon is slain, will the gardens be destroyed? Will nature's balance be upset? Will Ginder Nanik and other merchants seek to capitalize on the magic of the Forbidden Vale in the absence of its protector?",
-						"If the dragon is returned to slumber, similar questions arise. How long will the Burning Circle and the traditionalists be able to keep merchants away from the Forbidden Vale? What happens to the relationships among the folk of the region?"
+						"Se i personaggi sconfiggono Xabazhut prima che il fuoco del drago consumi la regione, gli incendi diminuiscono e la valle inizia a guarire. Ma a quale costo? Alla fine, le azioni dei personaggi determinano il destino della regione.",
+						"Se il drago viene ucciso, i giardini verranno distrutti? L'equilibrio della natura verrà sconvolto? Ginder Nanik e gli altri mercanti cercheranno di sfruttare la magia della Valle Proibita in assenza del suo protettore?",
+						"Se il drago viene riportato al sonno, sorgono domande simili. Per quanto tempo il Cerchio Infuocato e i tradizionalisti riusciranno a tenere i mercanti lontani dalla Valle Proibita? Cosa succede ai rapporti tra gli abitanti della regione?"
 					]
 				},
 				{
@@ -4112,7 +4112,7 @@
 							"type": "insetReadaloud",
 							"id": "29c",
 							"entries": [
-								"Aside from their fiery red scales, red dragons' most constant feature through the years is the frill of horns at their cheeks. Joshua Raphael's illustration for the 2025 {@book Monster Manual|XMM} accentuates this feature as it catches the light of the dragon's fire breath."
+								"A parte le scaglie rosso fuoco, la caratteristica più costante dei draghi rossi nel corso degli anni è il collare di corna sulle loro guance. L'illustrazione di Joshua Raphael per il 2025 {@book Monster Manual|XMM} accentua questa caratteristica poiché cattura la luce del soffio di fuoco del drago."
 							]
 						},
 						{
@@ -4269,22 +4269,22 @@
 						{
 							"type": "item",
 							"name": "Designers:",
-							"entry": "Justice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
+							"entry": "Il giudice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
 						},
 						{
 							"type": "item",
 							"name": "Rules Developers:",
-							"entry": "Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen"
+							"entry": "Makenzie De Armas (protagonista), Jeremy Crawford, Ron Lundeen"
 						},
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Judy Bauer (lead), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
+							"entry": "Judy Bauer (protagonista), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
 						},
 						{
 							"type": "item",
 							"name": "Art Directors:",
-							"entry": "Matt Cole (lead), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
+							"entry": "Matt Cole (protagonista), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
 						},
 						{
 							"type": "item",
@@ -4314,7 +4314,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
+							"entry": "Rob Hawkey (protagonista), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
 						}
 					]
 				},

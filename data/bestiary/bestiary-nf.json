@@ -63,13 +63,13 @@
 				{
 					"name": "Disintegration",
 					"entries": [
-						"If the magen dies, it disintegrates into dust, leaving behind anything it was wearing or carrying."
+						"Se il magen muore, si disintegra in polvere, lasciando dietro di sé tutto ciò che indossava o trasportava."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The magen has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il magen ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -77,19 +77,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The magen makes two attacks, using Extended Fist or Acid Spittle in any combination."
+						"Il magen effettua due attacchi, usando Pugno Esteso o Sputo Acido in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Extended Fist",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 15 ft. {@h}8 ({@damage 1d8 + 4}) Bludgeoning damage plus 5 ({@damage 1d10}) Acid damage. If the target is a Medium or smaller creature, it has the {@condition Grappled|XPHB} condition (escape {@dc 14}) from one of two fists."
+						"{@atkr m} {@hit 6}, portata 15 piedi {@h}8 ({@damage 1d8 + 4}) Danni contundenti più 5 ({@damage 1d10}) danni da acido. Se il bersaglio è una creatura Media o più piccola, ha la condizione {@condition Grappled|XPHB} (fuga {@dc 14}) da uno dei due pugni."
 					]
 				},
 				{
 					"name": "Acid Spittle",
 					"entries": [
-						"{@atkr r} {@hit 6}, range 60 ft. {@h}13 ({@damage 2d8 + 4}) Acid damage."
+						"{@atkr r} {@hit 6}, portata 60 piedi {@h}13 ({@damage 2d8 + 4}) Danni da acido."
 					]
 				}
 			],
@@ -190,7 +190,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The eddy has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il vortice ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -198,19 +198,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The eddy makes two attacks, using Searing Swipe or Arcane Bolt in any combination."
+						"Il vortice effettua due attacchi, usando Searing Swipe o Arcane Bolt in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Searing Swipe",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 10 ft. {@h}13 ({@damage 3d6 + 3}) Fire or Lightning damage (eddy's choice)."
+						"{@atkr m} {@hit 6}, portata 10 piedi {@h}13 ({@damage 3d6 + 3}) Danni da fuoco o fulmine (a scelta del vortice)."
 					]
 				},
 				{
 					"name": "Arcane Bolt",
 					"entries": [
-						"{@atkr r} {@hit 6}, range 120 ft. {@h}14 ({@damage 2d10 + 3}) Force damage."
+						"{@atkr r} {@hit 6}, portata 120 piedi. {@h}14 ({@damage 2d10 + 3}) Danno di forza."
 					]
 				}
 			],
@@ -218,7 +218,7 @@
 				{
 					"name": "Eldritch Overload",
 					"entries": [
-						"{@actTrigger} The eddy takes damage. {@actResponse d}{@actSave str} {@dc 14}, each creature of the eddy's choice in a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the eddy. {@actSaveFail} 7 ({@damage 2d6}) Force damage, and the target has the {@condition Prone|XPHB} condition."
+						"{@actTrigger} Il vortice subisce danni. {@actResponse d}{@actSave str} {@dc 14}, ogni creatura scelta dal vortice in un raggio di 5 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dal vortice. {@actSaveFail} 7 ({@damage 2d6}) Danni di forza e il bersaglio ha la condizione {@condition Prone|XPHB}."
 					]
 				}
 			],
@@ -322,7 +322,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The phaerimm casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
+						"Il phaerimm lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 17}):"
 					],
 					"will": [
 						"{@spell Command|XPHB} (level 3 version)",
@@ -345,7 +345,7 @@
 					"name": "Protective Magic (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The phaerimm casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"Il phaerimm lancia {@spell Counterspell|XPHB} o {@spell Shield|XPHB} in risposta all'attivazione dell'incantesimo, utilizzando la stessa abilità di lancio degli incantesimi di Lancio degli incantesimi."
 					],
 					"daily": {
 						"3": [
@@ -364,7 +364,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The phaerimm has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il phaerimm ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -372,25 +372,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The phaerimm makes three Mind Lash attacks. It can replace one attack with either (A) a Vicious Stinger attack or (B) a use of Spellcasting to cast {@spell Command|XPHB} (level 3 version)."
+						"Il phaerimm effettua tre attacchi con Sferza Mentale. Può sostituire un attacco con (A) un attacco Vicious Stinger o (B) un uso di Incantesimi per lanciare {@spell Command|XPHB} (versione di livello 3)."
 					]
 				},
 				{
 					"name": "Mind Lash",
 					"entries": [
-						"{@atkr m,r} {@hit 9}, reach 10 ft. or range 120 ft. {@h}32 ({@damage 6d8 + 4}) Psychic damage."
+						"{@atkr m,r} {@hit 9}, portata 10 piedi o portata 120 piedi. {@h}32 ({@damage 6d8 + 4}) Danni psichici."
 					]
 				},
 				{
 					"name": "Vicious Stinger",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 5 ft. {@h}11 ({@damage 2d6 + 4}) Piercing damage plus 26 ({@damage 4d12}) Poison damage, and the target's {@variantrule Speed|XPHB} is reduced to 0 feet until the start of the phaerimm's next turn."
+						"{@atkr m} {@hit 9} raggiunge 5 piedi. {@h}11 ({@damage 2d6 + 4}) Danno perforante più 26 ({@damage 4d12}) Danno da veleno e il bersaglio {@variantrule Speed|XPHB} viene ridotto a 0 piedi fino all'inizio del turno successivo del phaerimm."
 					]
 				},
 				{
 					"name": "Siphon Magic {@recharge 5}",
 					"entries": [
-						"The phaerimm focuses on a magic item it can see within 10 feet. When it does, the phaerimm drains the magic item of any charges. Regardless of whether charges are drained, the phaerimm can cast {@spell Clairvoyance|XPHB}, {@spell Geas|XPHB}, {@spell Major Image|XPHB}, and {@spell Mirage Arcane|XPHB} one additional time that day."
+						"Il phaerimm si concentra su un oggetto magico che può vedere entro 3 metri. Quando lo fa, il phaerimm prosciuga l'oggetto magico da ogni carica. Indipendentemente dal fatto che le cariche vengano risucchiate, il phaerimm può lanciare {@spell Clairvoyance|XPHB}, {@spell Geas|XPHB}, {@spell Major Image|XPHB} e {@spell Mirage Arcane|XPHB} una volta in più nello stesso giorno."
 					]
 				}
 			],
@@ -398,7 +398,7 @@
 				{
 					"name": "Teleport",
 					"entries": [
-						"The phaerimm teleports up to 30 feet to an unoccupied space it can see."
+						"Il phaerimm si teletrasporta fino a 9 metri in uno spazio non occupato che può vedere."
 					]
 				}
 			],
@@ -511,7 +511,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The phaerimm casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Il phaerimm lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -531,7 +531,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The phaerimm has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il phaerimm ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -539,19 +539,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The phaerimm makes two attacks, using Stinger or Mindwarp Ray in any combination."
+						"Il phaerimm effettua due attacchi, usando Stinger o Mindwarp Ray in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Stinger",
 					"entries": [
-						"{@atkr m} {@hit 3}, reach 5 ft. {@h}4 ({@damage 1d6 + 1}) Piercing damage plus 9 ({@damage 2d8}) Poison damage."
+						"{@atkr m} {@hit 3}, portata 5 piedi. {@h}4 ({@damage 1d6 + 1}) Danni perforanti più 9 ({@damage 2d8}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Mindwarp Ray",
 					"entries": [
-						"{@atkr r} {@hit 5}, range 120 ft. {@h}6 ({@damage 1d6 + 3}) Psychic damage, and the target has the {@condition Charmed|XPHB} condition until the start of the phaerimm's next turn."
+						"{@atkr r} {@hit 5}, portata 120 piedi. {@h}6 ({@damage 1d6 + 3}) Danni psichici e il bersaglio ha la condizione {@condition Charmed|XPHB} fino all'inizio del turno successivo del phaerimm."
 					]
 				}
 			],
@@ -559,7 +559,7 @@
 				{
 					"name": "Uncanny Dodge",
 					"entries": [
-						"{@actTrigger} The phaerimm is hit by an attack roll. {@actResponse} The phaerimm halves the damage (round down) it takes from that attack."
+						"{@actTrigger} Il phaerimm viene colpito da un tiro per colpire. {@actResponse} Il phaerimm dimezza il danno (arrotondato per difetto) che subisce da quell'attacco."
 					]
 				}
 			],
@@ -672,7 +672,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The magen casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save {@dc 15}):"
+						"Il magen lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Saggezza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell Mage Hand|XPHB}",
@@ -694,13 +694,13 @@
 				{
 					"name": "Disintegration",
 					"entries": [
-						"If the magen dies, it disintegrates into dust, leaving behind anything it was wearing or carrying."
+						"Se il magen muore, si disintegra in polvere, lasciando dietro di sé tutto ciò che indossava o trasportava."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The magen has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il magen ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -708,19 +708,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The magen makes two attacks, using Hammer Fist or Thunderous Boom in any combination."
+						"Il magen effettua due attacchi, usando Hammer Fist o Thunderous Boom in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Hammer Fist",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}16 ({@damage 3d8 + 3}) Bludgeoning damage plus 13 ({@damage 3d8}) Force damage."
+						"{@atkr m} {@hit 6}, portata 5 piedi {@h}16 ({@damage 3d8 + 3}) Danni contundenti più 13 ({@damage 3d8}) Danni di forza."
 					]
 				},
 				{
 					"name": "Thunderous Boom",
 					"entries": [
-						"{@atkr r} {@hit 7}, range 60 ft. {@h}28 ({@damage 8d6}) Thunder damage."
+						"{@atkr r} {@hit 7}, portata 60 piedi {@h}28 ({@damage 8d6}) Danni da tuono."
 					]
 				}
 			],
@@ -824,7 +824,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The magen casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 14}):"
+						"Il magen lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell Dancing Lights|XPHB}",
@@ -844,13 +844,13 @@
 				{
 					"name": "Disintegration",
 					"entries": [
-						"If the magen dies, it disintegrates into dust, leaving behind anything it was wearing or carrying."
+						"Se il magen muore, si disintegra in polvere, lasciando dietro di sé tutto ciò che indossava o trasportava."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The magen has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il magen ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -858,13 +858,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The magen makes two Psychic Blast attacks."
+						"Il magen effettua due attacchi Psychic Blast."
 					]
 				},
 				{
 					"name": "Psychic Blast",
 					"entries": [
-						"{@atkr m,r} {@hit 6}, reach 5 ft. or range 60 ft. {@h}21 ({@damage 6d6}) Psychic damage."
+						"{@atkr m,r} {@hit 6}, portata 5 piedi o portata 60 piedi {@h}21 ({@damage 6d6}) Danni psichici."
 					]
 				}
 			],

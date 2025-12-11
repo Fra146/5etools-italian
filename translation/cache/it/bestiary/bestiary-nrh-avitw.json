@@ -1,0 +1,9 @@
+{
+	"The fox has fur that changes color to match its surroundings, giving it advantage on Dexterity ({@skill Stealth}) checks.": "La volpe ha una pelliccia che cambia colore per adattarsi all'ambiente circostante, conferendole vantaggio alle prove di Destrezza ({@skill Stealth}).",
+	"The fox has advantage on Wisdom ({@skill Perception}) checks that rely on hearing.": "La volpe ha vantaggio alle prove di Saggezza ({@skill Perception}) basate sull'udito.",
+	"{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}1 piercing damage.": "{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, una creatura. {@h}1 danno perforante.",
+	"The Scarlet Sentinel is immune to any spell or effect that would alter its form.": "La Sentinella Scarlatta è immune a qualsiasi incantesimo o effetto che ne alteri la forma.",
+	"The Scarlet Sentinel has advantage on saving throws against spells and other magical effects.": "La Sentinella Scarlatta ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.",
+	"The Scarlet Sentinel's weapon attacks are magical.": "Gli attacchi con le armi della Sentinella Scarlatta sono magici.",
+	"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d8 + 2}) bludgeoning damage.": "{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d8 + 2}) danni contundenti."
+}

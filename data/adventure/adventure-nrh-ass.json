@@ -5,10 +5,10 @@
 			"name": "Restoring Harmony: A Sticky Situation",
 			"page": 2,
 			"entries": [
-				"Welcome to Restoring Harmony, a Dungeons & Dragons adventure series in collaboration with the tasty and colorful world of NERDS.",
-				"To run this adventure, you need the fifth edition Basic Rules for D&D, which is available as a free download here. All the magic items and monster stat blocks you need are included at the end of this adventure.",
-				"Restoring Harmony is a campaign that's divided into six 1st-level mini adventures for a solo player and one longer adventure for multiple players. Each mini adventure takes approximately 45 minutes to play and the final adventure takes approximately 60\u201390 minutes to play.",
-				"The mini adventures can be played in any order, but the final adventure should be played last. Here is a list of all the adventures:",
+				"Benvenuti a Restoring Harmony, una serie di avventure di Dungeons & Dragons in collaborazione con il gustoso e colorato mondo di NERDS.",
+				"Per eseguire quest'avventura, hai bisogno della quinta edizione delle Regole Base di D&D, disponibili come download gratuito qui. Tutti gli oggetti magici e i blocchi delle statistiche dei mostri di cui hai bisogno sono inclusi alla fine di questa avventura.",
+				"Ristabilire l'armonia è una campagna divisa in sei mini avventure di 1° livello per un giocatore singolo e un'avventura più lunga per più giocatori. Ogni miniavventura richiede circa 45 minuti per essere giocata, mentre l'avventura finale dura circa 60-90 minuti.",
+				"Le mini avventure possono essere giocate in qualsiasi ordine, ma l'avventura finale dovrebbe essere giocata per ultima. Ecco l'elenco di tutte le avventure:",
 				{
 					"type": "list",
 					"items": [
@@ -26,10 +26,10 @@
 					"name": "Story Summary",
 					"page": 2,
 					"entries": [
-						"Ever jealous of the cheery dispositions and colorful deliciousness of the NERDS, Emo the beholder and his hired muscle, Mr. Greystone, have struck a blow against the NERDS' beloved city of Harmony. After years of searching, the nefarious duo have found the sacred Prismatic Well that gives Harmony its vibrant and fabulous colors. Now, with access to the Prismatic Well, Emo and Mr. Greystone have begun to leech the color from the city of Harmony. If they aren't stopped, the city will gradually turn gray, with everything eventually becoming black and white.",
-						"To the NERDS, the colors beginning to flicker and drain out of Harmony is an unsettling mystery. What brings the colors to Harmony is an enigma to them. All they can do is hope the power comes back on and restores the vibrancy of Harmony's colors once more.",
-						"But one group knows what's up, and that group is the Lorekeeper Society\u2014a secret society sworn to protect Harmony. The Lorekeepers know about the power of the Prismatic Well, but its true location is lost even to themselves. However, they have a way to find the well using an ancient artifact known as the Amulet of Harmony, but to activate it they need to find the six Gems of Power. Once activated, the amulet guides whoever controls it to the secret location of the Prismatic Well. But once activated, the amulet also has the power to turn off the well.",
-						"The Gems of Power were long ago hidden away for safekeeping in dungeons, forests, and towers. No one in the Lorekeeper Society knows the details of the magical beasts and traps guarding the gems, but our heroic NERDS are more than up to the challenge of restoring Harmony!"
+						"Sempre geloso dell'indole allegra e della colorata prelibatezza dei NERDS, Emo lo spettatore e il suo mercenario, Mr. Greystone, hanno sferrato un duro colpo all'amata città di Harmony dei NERDS. Dopo anni di ricerca, il malvagio duo ha trovato il sacro Pozzo Prismatico che dona ad Armonia i suoi colori vibranti e favolosi. Ora, con l'accesso al Pozzo Prismatico, Emo e Mr. Greystone hanno iniziato a succhiare il colore dalla città di Harmony. Se non verranno fermati, la città diventerà gradualmente grigia e tutto alla fine diventerà bianco e nero.",
+						"Per i NERDS, i colori che iniziano a tremolare e a svanire da Harmony è un mistero inquietante. Ciò che porta i colori ad Harmony è per loro un enigma. Tutto quello che possono fare è sperare che la corrente ritorni e ripristini la vivacità dei colori di Harmony ancora una volta.",
+						"Ma un gruppo sa cosa sta succedendo, e quel gruppo è la Lorekeeper Society, una società segreta che ha giurato di proteggere Harmony. I Custodi del Sapere conoscono il potere del Pozzo Prismatico, ma la sua vera posizione è sconosciuta anche a loro stessi. Tuttavia, riescono a trovare il pozzo utilizzando un antico artefatto noto come Amuleto dell'Armonia, ma per attivarlo devono trovare le sei Gemme del Potere. Una volta attivato, l'amuleto guida chi lo controlla nel luogo segreto del Pozzo Prismatico. Ma una volta attivato, l’amuleto ha anche il potere di spegnere il pozzo.",
+						"Le Gemme del Potere furono molto tempo fa nascoste per essere custodite in sotterranei, foreste e torri. Nessuno nella Lorekeeper Society conosce i dettagli delle bestie magiche e delle trappole a guardia delle gemme, ma i nostri eroici NERDS sono più che all'altezza della sfida di ripristinare l'armonia!"
 					],
 					"id": "001"
 				},
@@ -38,15 +38,15 @@
 					"name": "Solo Play",
 					"page": 2,
 					"entries": [
-						"Due to the solo player nature of the adventures (with the exception of Adventure 7 Adventure Together), the power level of some monsters may be difficult with respect to the level of the character. You may want to present a roleplaying solution (such as making friends with the monster or tricking them) to players who are eager to rush into combat. With any encounter in this or subsequent adventures, feel free to present opportunities for unconventional solutions and alternatives to combat.",
-						"You can also adjust the story to be more benevolent in nature, allowing automatic successes on rolls, having monsters become instant friends, or giving your player advantage on all their rolls.",
+						"A causa della natura delle avventure per giocatore singolo (ad eccezione di Adventure 7 Adventure Together), il livello di potenza di alcuni mostri potrebbe essere difficile rispetto al livello del personaggio. Potresti voler presentare una soluzione di gioco di ruolo (come fare amicizia con il mostro o ingannarlo) ai giocatori che sono ansiosi di lanciarsi in combattimento. Con qualsiasi incontro in questa o nelle avventure successive, sentiti libero di presentare opportunità per soluzioni non convenzionali e alternative al combattimento.",
+						"Puoi anche modificare la storia in modo che sia di natura più benevola, consentendo successi automatici sui tiri, facendo diventare i mostri amici istantanei o dando al tuo giocatore un vantaggio su tutti i suoi tiri.",
 						{
 							"type": "entries",
 							"name": "TPK: Total Party Kill",
 							"page": 3,
 							"entries": [
-								"In solo play, there's always a chance the character can die. In the case of a single adventurer, this death results in the end of play; which isn't optimal for an afternoon of fun! One way to avoid death is to have healing readily available to the adventurer. If they're without healing, have the character find the odd {@item potion of healing} lying in a dusty crate or have them discover a special healing plant on their journey that, if eaten, puts them back to full hit points.",
-								"In the case of an untimely death, you can have a helpful NPC (like Mr. Honeycutt) save the day and revive them, or you can have them forego death saving throws and wake up as they're being dragged someplace unpleasant."
+								"Nel gioco da solista, c'è sempre la possibilità che il personaggio possa morire. Nel caso di un singolo avventuriero, questa morte pone fine al gioco; il che non è ottimale per un pomeriggio di divertimento! Un modo per evitare la morte è avere la guarigione prontamente disponibile per l'avventuriero. Se non hanno cure, chiedi al personaggio di trovare la strana {@item potion of healing} che giace in una cassa polverosa o fagli scoprire una speciale pianta curativa durante il suo viaggio che, se mangiata, li riporta ai punti ferita completi.",
+								"Nel caso di una morte prematura, puoi chiedere a un NPC utile (come il signor Honeycutt) di salvare la situazione e rianimarli, oppure puoi fargli rinunciare ai tiri salvezza dalla morte e svegliarsi mentre vengono trascinati in un posto spiacevole."
 							],
 							"id": "003"
 						}
@@ -58,14 +58,14 @@
 					"name": "Adventure Outline",
 					"page": 3,
 					"entries": [
-						"Here is a quick overview of the adventure:",
+						"Ecco una rapida panoramica dell'avventura:",
 						{
 							"type": "list",
 							"items": [
-								"Orange the Fighter gets jumped in his martial arts school by a couple of goons who've been sent to take him out.",
-								"After the fight, Orange meets Mr. Honeycutt, the Magister of the Lorekeeper Society. Mr. Honeycutt asks Orange to find the Peach Gem located in a ruined mausoleum.",
-								"Orange goes to the mausoleum and must defeat a gelatinous cube which has engulfed the gem into its acidic body.",
-								"Orange returns to Mr. Honeycutt with the gem."
+								"Orange the Fighter viene aggredito nella sua scuola di arti marziali da un paio di scagnozzi che sono stati mandati a eliminarlo.",
+								"Dopo il combattimento, Orange incontra il signor Honeycutt, il Magister della Lorekeeper Society. Il signor Honeycutt chiede ad Orange di trovare la gemma della pesca situata in un mausoleo in rovina.",
+								"L'arancia va al mausoleo e deve sconfiggere un cubo gelatinoso che ha inghiottito la gemma nel suo corpo acido.",
+								"Orange ritorna dal signor Honeycutt con la gemma."
 							]
 						}
 					],
@@ -76,9 +76,9 @@
 					"name": "Beginning Play",
 					"page": 3,
 					"entries": [
-						"Hand the character sheet (see \"Orange the Fighter,\" below) to your player and let them familiarize themselves with Orange.",
-						"All creatures or NPCs that are bolded have stat blocks, which are included at the end of the adventure along with any magic items the characters can earn.",
-						"Whenever you're both ready, you can start the session."
+						"Consegna la scheda del personaggio (vedi \"Orange the Fighter\", di seguito) al tuo giocatore e lascia che familiarizzi con Orange.",
+						"Tutte le creature o gli NPC in grassetto hanno blocchi delle statistiche, che vengono inclusi alla fine dell'avventura insieme a tutti gli oggetti magici che i personaggi possono guadagnare.",
+						"Ogni volta che siete entrambi pronti, potete iniziare la sessione."
 					],
 					"id": "005"
 				},
@@ -87,36 +87,36 @@
 					"name": "A Sticky Situation",
 					"page": 3,
 					"entries": [
-						"Begin play in the sparring room of the Critical Strike Combat School where Orange is exercising and practicing various skills with the sword. In the training room, Orange has access to one energy drink which acts as a {@item potion of healing}.",
-						"When everyone's ready, read the following:",
+						"Inizia a giocare nella sala sparring della Critical Strike Combat School dove Orange esercita e pratica varie abilità con la spada. Nella sala corsi Orange ha accesso ad una bevanda energetica che funge da {@item potion of healing}.",
+						"Quando tutti sono pronti, leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"page": 3,
 							"entries": [
-								"You're at the gym early in the morning before the students arrive, getting in an hour of training when two tough-looking goons swagger into the room. One locks the door behind them as the other sneers at you. They have swords, and you can tell instantly that they aren't blunted for training.",
-								"\"Time for a little candy-coated nap!\" one goon says with a gap-toothed grin."
+								"Sei in palestra la mattina presto prima che arrivino gli studenti, stai iniziando un'ora di allenamento quando due scagnozzi dall'aspetto duro entrano spavaldi nella stanza. Uno chiude la porta dietro di sé mentre l'altro ti sogghigna. Hanno delle spade e puoi capire subito che non sono smussate per l'addestramento.",
+								"\"È ora di un piccolo pisolino ricoperto di caramelle!\" dice uno scagnozzo con un sorriso a denti stretti."
 							],
 							"id": "007"
 						},
-						"The two {@creature goon|NRH-ASS|goons} begin swaggering up to Orange, ready for a fight. They've been sent by Mr. Graystone to capture or kill Orange. Emo the Beholder has seen how Mr. Honeycutt is recruiting all the heroes in Harmony to look for the Gems of Power, and they want to put an end to Honeycutt's chances of foiling their master plan.",
-						"Orange can try intimidating the two toughs, but it'll be difficult as they're fairly determined to carry out their grim task. To intimidate them, Orange must make a successful {@dc 15} Charisma ({@skill Intimidation}) check followed by a successful {@dc 15} Strength ({@skill Athletics}) check to show just how powerful they are. If both checks succeed, the goons run off, leaving their swords behind.",
-						"If Orange takes the goons alive, they won't talk or reveal who sent them unless Orange makes a successful {@dc 15} Charisma ({@skill Intimidation}) check. If Orange gets them to talk, they explain they were hired to kill Orange by a huge, shadowy man who wore a gray overcoat and spoke in an icy whisper.",
-						"If Orange gets into trouble during the fight with the goons, have a warrior from the Lorekeeper Society (a {@creature guard}) who's a former student of Orange's kick down the door and come to the rescue.",
-						"If Orange gets knocked out by dropping to 0 hit points, they wake up to find Mr. Honeycutt looking over them.",
+						"I due {@creature goon|NRH-ASS|goons} iniziano ad avvicinarsi spavaldi a Orange, pronti a combattere. Sono stati inviati dal signor Graystone per catturare o uccidere Orange. Emo the Beholder ha visto come il signor Honeycutt sta reclutando tutti gli eroi di Harmony per cercare le Gemme del Potere, e vogliono porre fine alle possibilità di Honeycutt di sventare il loro piano generale.",
+						"Gli Orange possono provare a intimidire i due duri, ma sarà difficile perché sono abbastanza determinati a portare a termine il loro triste compito. Per intimidirli, gli arancioni devono effettuare con successo una prova di Carisma ({@skill Intimidation}) {@dc 15} seguita da una prova di Forza ({@skill Athletics}) riuscita {@dc 15} per dimostrare quanto sono potenti. Se entrambi i controlli hanno successo, gli scagnozzi scappano, lasciando dietro di sé le spade.",
+						"Se Orange prende vivi gli scagnozzi, non parleranno né riveleranno chi li ha mandati a meno che Orange non effettui con successo una prova di Carisma ({@skill Intimidation} {@dc 15} di Carisma. Se Orange li convince a parlare, spiegano che sono stati assunti per uccidere Orange da un uomo enorme e oscuro che indossava un soprabito grigio e parlava con un sussurro gelido.",
+						"Se Orange si mette nei guai durante lo scontro con gli scagnozzi, chiedi a un guerriero della Lorekeeper Society (un {@creature guard}) che è un ex studente di Orange di buttare giù la porta e di venire in soccorso.",
+						"Se Orange viene messo KO scendendo a 0 punti ferita, si svegliano e trovano il signor Honeycutt che li osserva.",
 						{
 							"type": "entries",
 							"name": "Meeting Mr. Honeycutt",
 							"page": 4,
 							"entries": [
-								"If Orange defeats the goons, {@creature Mr. Honeycutt|NRH-TCMC} arrives just after, hoping to warn Orange of the impending fight.",
-								"If the goons defeat Orange, Mr. Honeycutt arrives just in time to drive them off and resuscitate Orange. Either way, Mr. Honeycutt introduces himself as the leader of the secret Lorekeeper Society\u2014the ancestral guardians of Harmony. He believes nefarious forces are at work, attempting to steal the color from Harmony and use it for their own gain, robbing the color from the world as they do so. To save Harmony, Mr. Honeycutt first needs to collect six Gems of Power, and he hopes Orange can help him get the Peach Gem.",
+								"Se Orange sconfigge gli scagnozzi, {@creature Mr. Honeycutt|NRH-TCMC} arriva subito dopo, sperando di avvisare Orange dello scontro imminente.",
+								"Se gli scagnozzi sconfiggono Orange, il signor Honeycutt arriva giusto in tempo per scacciarli e rianimare Orange. In ogni caso, il signor Honeycutt si presenta come il leader della segreta Lorekeeper Society, i guardiani ancestrali dell'Armonia. Crede che forze nefaste siano all'opera, tentando di rubare il colore ad Harmony e usarlo per il proprio guadagno, derubando il colore dal mondo mentre lo fanno. Per salvare Harmony, il signor Honeycutt deve prima raccogliere sei gemme del potere e spera che Orange possa aiutarlo a ottenere la gemma pesca.",
 								{
 									"type": "entries",
 									"name": "The Mission",
 									"page": 4,
 									"entries": [
-										"After much research, Mr. Honeycutt says he's finally ascertained where the Peach Gem is: it's hidden in a ruined mausoleum notorious for monster activity. He needs a fighter like Orange to go into the mausoleum, return the gem to the Lorekeeper Society, and help him solve the mystery of the color outages.",
-										"If Orange agrees to help, Mr. Honeycutt offers a reward of 20 gp for the return of the gem. He also gives Orange a {@item necklace of fireballs} with one bead remaining. As he gives the item to Orange, Mr. Honeycutt says, \"I hope you never have to use this.\""
+										"Dopo molte ricerche, il signor Honeycutt dice di aver finalmente accertato dove si trova la gemma pesca: è nascosta in un mausoleo in rovina noto per l'attività dei mostri. Ha bisogno che un combattente come Orange entri nel mausoleo, restituisca la gemma alla Lorekeeper Society e lo aiuti a risolvere il mistero delle interruzioni dei colori.",
+										"Se Orange accetta di aiutare, il signor Honeycutt offre una ricompensa di 20 mo per la restituzione della gemma. Dà anche all'Arancio un {@item necklace of fireballs} con una perla rimasta. Mentre dà l'oggetto a Orange, il signor Honeycutt dice: \"Spero che tu non debba mai usarlo\"."
 									],
 									"id": "009"
 								}
@@ -131,24 +131,24 @@
 					"name": "Ruined Mausoleum",
 					"page": 4,
 					"entries": [
-						"Deep in the forest outside of Harmony lie the ruins of a mausoleum. When Orange arrives read the following:",
+						"Nel profondo della foresta fuori Harmony si trovano le rovine di un mausoleo. Quando arriva Orange leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"page": 4,
 							"entries": [
-								"You see a crumbling building being reclaimed by the forest. Stone walls poke through the vegetation and the courtyard's flagstones are covered with leaves and broken by tree roots.",
-								"Oddly, the birds don't sing here which makes the area unnaturally quiet."
+								"Vedi un edificio fatiscente che viene bonificato dalla foresta. Muri di pietra spuntano dalla vegetazione e le lastre di pietra del cortile sono ricoperte di foglie e spezzate dalle radici degli alberi.",
+								"Stranamente, gli uccelli non cantano qui, il che rende la zona innaturalmente silenziosa."
 							],
 							"id": "00b"
 						},
-						"The entrance (area M1) can be found with a quick search inside the collapsed walls of the mausoleum. Sweeping aside a thick covering of vines, Orange finds an iron-barred gate with an old, rusted padlock. Breaking the padlock requires a successful {@dc 12} Strength check. If Orange has a tool, like a crowbar, or uses a creative way to open the padlock, they have advantage on the check.",
-						"All the doors in the mausoleum are made of rotting wood. They have AC 10, 8 hit points, and immunity to poison and psychic damage.",
+						"L'ingresso (area M1) può essere trovato con una rapida ricerca all'interno delle mura crollate del mausoleo. Spazzando via una fitta copertura di viti, Orange trova un cancello con sbarre di ferro con un vecchio lucchetto arrugginito. Per rompere il lucchetto è necessario superare con successo una prova di Forza {@dc 12}. Se l'arancione ha uno strumento, come un piede di porco, o usa un modo creativo per aprire il lucchetto, ha vantaggio sulla prova.",
+						"Tutte le porte del mausoleo sono fatte di legno marcio. Hanno CA 10, 8 punti ferita e immunità al veleno e ai danni psichici.",
 						{
 							"type": "entries",
 							"name": "Exploring the Mausoleum",
 							"page": 4,
 							"entries": [
-								"The following locations are keyed to the Ruined Mausoleum map:",
+								"Le seguenti posizioni sono collegate alla mappa Mausoleo in rovina:",
 								{
 									"type": "image",
 									"href": {
@@ -339,16 +339,16 @@
 							"name": "M1. Entrance",
 							"page": 4,
 							"entries": [
-								"When Orange opens the gate, read the following.",
+								"Quando Orange apre il cancello, leggi quanto segue.",
 								{
 									"type": "insetReadaloud",
 									"page": 4,
 									"entries": [
-										"You see a stone staircase descending down into darkness. Thin root tendrils hang from the ceiling and the moss-covered walls glisten and drip."
+										"Vedi una scala di pietra che scende nell'oscurità. Sottili viticci di radici pendono dal soffitto e le pareti ricoperte di muschio luccicano e gocciolano."
 									],
 									"id": "00e"
 								},
-								"The staircase leads down to a corridor that ends in a rotting wood door which can be easily opened or broken down. However, lurking on the ceiling of this corridor is a {@creature gray ooze}.",
+								"La scala conduce ad un corridoio che termina con una porta di legno marcio che può essere facilmente aperta o sfondata. Tuttavia, in agguato sul soffitto di questo corridoio c'è un {@creature gray ooze}.",
 								{
 									"type": "entries",
 									"entries": [
@@ -357,8 +357,8 @@
 											"name": "Monster Tactics",
 											"page": 4,
 											"entries": [
-												"The gray ooze uses its False Appearance trait to blend in with the tunnel's wet stone walls. When a creature approaches within 60 feet of the gray ooze, it senses its next snack and either waits for its target to come within reach of a pseudopod or begins a slow pursuit.",
-												"Defeating the gray ooze isn't essential to move on, but its ability to corrode metal provides a taste of what's to come deeper in the mausoleum. This encounter is an opportunity for Orange to learn about Oozes firsthand and to devise tactics against them."
+												"La melma grigia usa il suo tratto Falsa Apparenza per mimetizzarsi con le pareti di pietra bagnate del tunnel. Quando una creatura si avvicina entro 18 metri dalla melma grigia, percepisce il suo prossimo spuntino e attende che il suo bersaglio arrivi alla portata di uno pseudopodo oppure inizia un lento inseguimento.",
+												"Sconfiggere la melma grigia non è essenziale per andare avanti, ma la sua capacità di corrodere il metallo fornisce un assaggio di ciò che accadrà nelle profondità del mausoleo. Questo incontro è un'opportunità per Orange di conoscere in prima persona le Melme e di escogitare tattiche contro di loro."
 											],
 											"id": "010"
 										}
@@ -373,12 +373,12 @@
 							"name": "M2. Mausoleum",
 							"page": 4,
 							"entries": [
-								"When Orange steps into this area, read the following:",
+								"Quando Orange entra in quest'area, leggi quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"page": 4,
 									"entries": [
-										"The walls are covered with trails of slime, some of which drips on the floor and forms slick pools. Four alcoves, each with a rotted wood door, line the corridor."
+										"Le pareti sono ricoperte da tracce di melma, alcune delle quali gocciolano sul pavimento e formano pozze scivolose. Quattro nicchie, ciascuna con una porta di legno marcio, fiancheggiano il corridoio."
 									],
 									"id": "012"
 								},
@@ -390,7 +390,7 @@
 											"name": "Dimensions and Terrain",
 											"page": 4,
 											"entries": [
-												"Each tomb (A\u2013D) is a 10-foot-wide, 15-foot-long room with a stone sarcophagus at the far end. Due to the slippery nature of the slime, the floors are considered {@quickref difficult terrain||3}."
+												"Ogni tomba (A–D) è una stanza larga 3 metri e lunga 4,5 con un sarcofago di pietra all'estremità. A causa della natura scivolosa della melma, vengono considerati i pavimenti {@quickref difficult terrain||3}."
 											],
 											"id": "014"
 										}
@@ -402,14 +402,14 @@
 									"name": "Tomb A",
 									"page": 5,
 									"entries": [
-										"If Orange listens at the door to this tomb before opening it, they hear tapping or clacking sounds. Opening the door reveals two {@creature skeleton||skeletons} repeatedly bumping into each other. When the door opens, they attack.",
-										"If Orange's weapons have rusted due to the encounter with the gray ooze, the fighter can loot the skeletons' shortswords.",
+										"Se gli Orange ascoltano la porta di questa tomba prima di aprirla, sentiranno dei colpi o degli schiocchi. Aprendo la porta si vedono due {@creature skeleton||skeletons} che si scontrano ripetutamente. Quando la porta si apre, attaccano.",
+										"Se le armi di Orange si sono arrugginite a causa dell'incontro con la melma grigia, il combattente può saccheggiare le spade corte degli scheletri.",
 										{
 											"type": "entries",
 											"name": "Sarcophagus Inscription",
 											"page": 5,
 											"entries": [
-												"The inscription reads: \"Two warriors, so great was their love, they were buried together.\""
+												"L'iscrizione recita: \"Due guerrieri, tanto grande era il loro amore, furono sepolti insieme\"."
 											],
 											"id": "016"
 										}
@@ -421,13 +421,13 @@
 									"name": "Tomb B",
 									"page": 5,
 									"entries": [
-										"If Orange opens this tomb, they find a skeleton surrounded by hard candies in wax paper wrappers. The skeleton has a parchment closed with a wax seal clutched in its hand. On the parchment is the long-lost recipe for Professor Fizzwidget's famous tart and tangy candies.",
+										"Se Orange apre questa tomba, trovano uno scheletro circondato da caramelle dure in involucri di carta oleata. Lo scheletro stringe in mano una pergamena chiusa con un sigillo di ceralacca. Sulla pergamena c'è la ricetta perduta da tempo delle famose caramelle aspre e piccanti del Professor Fizzwidget.",
 										{
 											"type": "entries",
 											"name": "Sarcophagus Inscription",
 											"page": 5,
 											"entries": [
-												"The inscription reads: \"Here lies Professor Fizzwidget, inventor of sweet candy treats for all of Harmony.\""
+												"L'iscrizione recita: \"Qui giace il Professor Fizzwidget, inventore di dolci caramelle per tutta Harmony\"."
 											],
 											"id": "018"
 										}
@@ -439,22 +439,22 @@
 									"name": "Tomb C",
 									"page": 5,
 									"entries": [
-										"When Orange opens the door to this tomb, read:",
+										"Quando Orange apre la porta di questa tomba, leggi:",
 										{
 											"type": "insetReadaloud",
 											"page": 5,
 											"entries": [
-												"Hovering in the middle of the tunnel is an assortment of trinkets, equipment, and bones. An odd, shimmering surface reveals a gelatinous form filling the passageway wall-to-wall."
+												"Al centro del tunnel c'è un assortimento di ninnoli, equipaggiamento e ossa. Una superficie strana e scintillante rivela una forma gelatinosa che riempie il passaggio da parete a parete."
 											],
 											"id": "01a"
 										},
-										"Orange has discovered a {@creature gelatinous cube} that's behaving oddly!",
+										"Orange ha scoperto un {@creature gelatinous cube} che si comporta in modo strano!",
 										{
 											"type": "entries",
 											"name": "Encounter Adjustments",
 											"page": 5,
 											"entries": [
-												"The gelatinous cube is weakened from its attempts to digest the Peach Gem and a magic sword, both of which it has engulfed. When Orange discovers the {@creature gelatinous cube}, it only has 40 hit points remaining and it doesn't have its Transparent trait."
+												"Il cubo gelatinoso è indebolito dai suoi tentativi di digerire la gemma pesca e una spada magica, che ha entrambi inghiottiti. Quando Orange scopre il {@creature gelatinous cube}, gli restano solo 40 punti ferita e non ha il tratto Trasparente."
 											],
 											"id": "01b"
 										},
@@ -463,7 +463,7 @@
 											"name": "Defeating the Cube",
 											"page": 5,
 											"entries": [
-												"Even in its weakened stat, a gelatinous cube is no easy task. Hopefully, Orange uses the last bead of the necklace of fireballs to finish off the cube. If that doesn't work, have {@creature Mr. Honeycutt|NRH-TCMC} arrive with four {@creature guard||guards} to help Orange defeat the cube. Have the cube attack the guards first before attacking Mr. Honeycutt or Orange."
+												"Anche se indebolito, un cubo gelatinoso non è un compito facile. Se tutto va bene, Orange usa l'ultima perla della collana di palle di fuoco per finire il cubo. Se non funziona, chiedi a {@creature Mr. Honeycutt|NRH-TCMC} di arrivare con quattro {@creature guard||guards} per aiutare Orange a sconfiggere il cubo. Chiedi al cubo di attaccare le guardie prima di attaccare Mr. Honeycutt o Orange."
 											],
 											"id": "01c"
 										},
@@ -472,8 +472,8 @@
 											"name": "Monster Tactics",
 											"page": 5,
 											"entries": [
-												"The gelatinous cube is a floor-to-ceiling blob. Due to its digestive issues, this one is a sickly green. Regardless, its pseudopods sweep out in search of more things to digest, slow-moving like a street sweeper. If it senses a living creature, it moves toward them at full speed and uses its Engulf action as soon as it can.",
-												"If Orange is engulfed, the fighter can attempt to grab items from within the gelatinous cube. Roll a {@dice d6} (rerolling duplicates) to determine what Orange retrieves from the table below:",
+												"Il cubo gelatinoso è una massa informe dal pavimento al soffitto. A causa dei suoi problemi digestivi, questo è un verde malaticcio. In ogni caso, i suoi pseudopodi spazzano via alla ricerca di altre cose da digerire, muovendosi lentamente come uno spazzino. Se percepisce una creatura vivente, si muove verso di essa a tutta velocità e usa la sua azione Fagocitare non appena può.",
+												"Se l'Arancio viene inghiottito, il combattente può tentare di afferrare oggetti dall'interno del cubo gelatinoso. Tira un {@dice d6} (rilanciando i duplicati) per determinare cosa Orange recupera dalla tabella seguente:",
 												{
 													"type": "table",
 													"caption": "Gelatinous Cube Treasures",
@@ -500,19 +500,19 @@
 														],
 														[
 															"4",
-															"Two metal gambling dice"
+															"Due dadi da gioco in metallo"
 														],
 														[
 															"5",
-															"The Peach Gem"
+															"La gemma della pesca"
 														],
 														[
 															"6",
-															"Brass bell"
+															"Campana in ottone"
 														]
 													]
 												},
-												"When the gelatinous cube is reduced to 24 hit points or fewer, it spits out the {@item +1 greatsword}, the {@item potion of healing}, and the glowing orange gem (the Peach Gem), and makes its retreat by dashing away."
+												"Quando il cubo gelatinoso viene ridotto a 24 punti ferita o meno, sputa il {@item +1 greatsword}, il {@item potion of healing} e la gemma arancione brillante (la gemma pesca) e si ritira scattando via."
 											],
 											"id": "01d"
 										},
@@ -521,7 +521,7 @@
 											"name": "Sarcophagus Inscription",
 											"page": 5,
 											"entries": [
-												"The sarcophagus and its inscriptions have been scratched off."
+												"Il sarcofago e le sue iscrizioni sono stati raschiati."
 											],
 											"id": "01e"
 										}
@@ -533,13 +533,13 @@
 									"name": "Tomb D",
 									"page": 5,
 									"entries": [
-										"Inside the sarcophagus, the robed skeleton of the librarian lies in repose, holding a parchment across their chest. The parchment is a scroll of protection (aberrations).",
+										"All'interno del sarcofago, lo scheletro vestito del bibliotecario giace a riposo, con una pergamena sul petto. La pergamena è un rotolo di protezione (aberrazioni).",
 										{
 											"type": "entries",
 											"name": "Sarcophagus Inscription",
 											"page": 5,
 											"entries": [
-												"\"Here lies the First Librarian of the Great Library of Harmony.\""
+												"\"Qui giace il Primo Bibliotecario della Grande Biblioteca dell'Armonia.\""
 											],
 											"id": "020"
 										}
@@ -554,7 +554,7 @@
 							"name": "Completing the Mission",
 							"page": 5,
 							"entries": [
-								"Arriving back in Harmony, Orange is invited to meet with Mr. Honeycutt at the local tavern. On return of the Peach Gem, Mr. Honeycutt is visibly relieved. He offers Orange membership in the Lorekeeper Society and asks if Orange will help him put an end to those who'd steal the color from Harmony. He's close to figuring out who's behind the color outages and feels as if he's going to need the help of heroes to stop them."
+								"Tornando ad Harmony, Orange è invitato a incontrare il signor Honeycutt alla taverna locale. Alla restituzione della gemma pesca, il signor Honeycutt è visibilmente sollevato. Offre a Orange l'adesione alla Lorekeeper Society e chiede se Orange lo aiuterà a porre fine a coloro che vorrebbero rubare il colore ad Harmony. È quasi sul punto di scoprire chi si nasconde dietro le interruzioni del colore e ha la sensazione di aver bisogno dell'aiuto degli eroi per fermarle."
 							],
 							"id": "021"
 						}
@@ -566,7 +566,7 @@
 					"name": "Magic Items",
 					"page": 6,
 					"entries": [
-						"The following magic items appear in this adventure.",
+						"I seguenti oggetti magici compaiono in questa avventura.",
 						{
 							"type": "list",
 							"columns": 4,
@@ -667,7 +667,7 @@
 													"type": "item",
 													"name": "Illustrations",
 													"entries": [
-														"Red Central"
+														"Rosso Centrale"
 													]
 												},
 												{
@@ -708,14 +708,14 @@
 													"type": "item",
 													"name": "Sr. Associate Brand Manager, NERDS:",
 													"entries": [
-														"Lukas Krause"
+														"Lucas Krause"
 													]
 												},
 												{
 													"type": "item",
 													"name": "Content Manager, NERDS:",
 													"entries": [
-														"Annie Belgrade"
+														"Annie Belgrado"
 													]
 												},
 												{
@@ -756,7 +756,7 @@
 													"type": "item",
 													"name": "Founder, Managing Partner",
 													"entries": [
-														"Christopher Erb"
+														"Cristoforo Erb"
 													]
 												},
 												{
@@ -770,7 +770,7 @@
 													"type": "item",
 													"name": "Additional Support",
 													"entries": [
-														"VMLY&R Commerce, Taxi, Pep, and Golin"
+														"VMLY&R Commercio, Taxi, Pep e Golin"
 													]
 												}
 											]

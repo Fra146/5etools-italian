@@ -751,7 +751,7 @@
 							"type": "entries",
 							"name": "Blessings of Moradin",
 							"entries": [
-								"While attuned to the axe, you gain the following benefits:"
+								"Mentre sei in sintonia con l'ascia, ottieni i seguenti benefici:"
 							]
 						}
 					]
@@ -3041,21 +3041,21 @@
 							"type": "entries",
 							"name": "Poison Resistance",
 							"entries": [
-								"You have Resistance to Poison damage."
+								"Hai resistenza ai danni da veleno."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spider Climb",
 							"entries": [
-								"You have a Climb Speed equal to your Speed and can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free."
+								"Hai una velocità di scalata pari alla tua velocità e puoi muoverti su, giù e su superfici verticali e lungo i soffitti, lasciando le mani libere."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spider Walk",
 							"entries": [
-								"You can't be caught in webs of any sort and can move through webs as if they were Difficult Terrain."
+								"Non puoi rimanere intrappolato in ragnatele di alcun tipo e puoi muoverti attraverso le ragnatele come se fossero terreni difficili."
 							]
 						}
 					]
@@ -4920,7 +4920,7 @@
 					}
 				},
 				{
-					"name": "2\u20149: Obeys Commands",
+					"name": "2—9: Obeys Commands",
 					"type": "summon",
 					"activation": {
 						"type": ""

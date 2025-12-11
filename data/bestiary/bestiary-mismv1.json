@@ -67,7 +67,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Coral has advantage on saving throws against spells and other magical effects."
+						"Il corallo ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -75,19 +75,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Coral makes two Hoof attacks and uses Tail Thump."
+						"Coral effettua due attacchi con lo zoccolo e usa Colpo di coda."
 					]
 				},
 				{
 					"name": "Hoof",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}12 ({@damage 2d6 + 5}) bludgeoning damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}12 ({@damage 2d6 + 5}) danni contundenti."
 					]
 				},
 				{
 					"name": "Tail Thump",
 					"entries": [
-						"Coral slams her tail down, unleashing a burst of magical force toward one creature she can see within 60 feet of her. The target must make a {@dc 16} Dexterity saving throw. On a failed save, the target takes 22 ({@damage 4d10}) force damage and has the {@condition prone} condition. On a successful save, the target takes half as much damage only. If this damage reduces the target to 0 hit points, the target dies, and its body is reduced to fine dust."
+						"Coral sbatte la coda verso il basso, scatenando un'esplosione di forza magica verso una creatura che può vedere entro 18 metri da lei. Il bersaglio deve effettuare un tiro salvezza su Destrezza {@dc 16}. Se il tiro salvezza fallisce, il bersaglio subisce 22 ({@damage 4d10}) danni da forza e ha la condizione {@condition prone}. Se il tiro salvezza riesce, il bersaglio subisce solo la metà dei danni. Se questo danno riduce il bersaglio a 0 punti ferita, il bersaglio muore e il suo corpo viene ridotto in polvere sottile."
 					]
 				}
 			],
@@ -95,7 +95,7 @@
 				{
 					"name": "Bubbles of Whimsy (2/Day)",
 					"entries": [
-						"Coral produces a stream of magical bubbles from her horn. These bubbles float toward a creature Coral can see within 60 feet of herself. Roll a {@dice d6} to determine the bubbles' effect:",
+						"Coral produce un flusso di bolle magiche dal suo corno. Queste bolle fluttuano verso una creatura che Coral può vedere entro 18 metri da sé. Tira un {@dice d6} per determinare l'effetto delle bolle:",
 						{
 							"type": "list",
 							"items": [
@@ -103,21 +103,21 @@
 									"name": "1-2: Bolstering Treat",
 									"type": "item",
 									"entries": [
-										"The bubbles transform into {@dice 1d4} cookies that appear in the target's space. The target gains 11 ({@dice 2d8 + 2}) temporary hit points if it immediately uses its reaction to eat one of the cookies. Any leftover cookies are delicious but confer no benefits."
+										"Le bolle si trasformano in {@dice 1d4} biscotti che appaiono nello spazio del bersaglio. Il bersaglio guadagna 11 ({@dice 2d8 + 2}) punti ferita temporanei se usa immediatamente la sua reazione per mangiare uno dei biscotti. Eventuali biscotti avanzati sono deliziosi ma non apportano alcun beneficio."
 									]
 								},
 								{
 									"name": "3-4: Sparkle Burst",
 									"type": "item",
 									"entries": [
-										"The bubbles transform into glitter that swirls around the target before bursting outward. Each creature within 5 feet of the target must succeed on a {@dc 16} Constitution saving throw or have the {@condition blinded} condition until the start of Coral's next turn."
+										"Le bolle si trasformano in glitter che vorticano attorno al bersaglio prima di esplodere. Ogni creatura entro 1,5 metri dal bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 16} o avere la condizione {@condition blinded} fino all'inizio del turno successivo di Coral."
 									]
 								},
 								{
 									"name": "5-6: Stink Bomb Shield",
 									"type": "item",
 									"entries": [
-										"The bubbles transform into a foul-smelling cloud of gas that surrounds and shields the target. The target has {@quickref Cover||3||half cover} until the gas disappears at the start of Coral's next turn."
+										"Le bolle si trasformano in una nube di gas maleodorante che circonda e protegge il bersaglio. Il bersaglio ha {@quickref Cover||3||half cover} finché il gas non scompare all'inizio del turno successivo di Coral."
 									]
 								}
 							]
@@ -127,7 +127,7 @@
 				{
 					"name": "Gift of Speech (1/Day)",
 					"entries": [
-						"Coral targets one Beast she can see within 10 feet of herself. The target gains the ability to understand and speak Common or Sylvan (Coral's choice) for 10 minutes."
+						"Il corallo prende di mira una Bestia che può vedere entro 3 metri da sé. Il bersaglio ottiene la capacità di comprendere e parlare il Comune o il Silvano (a scelta di Coral) per 10 minuti."
 					]
 				}
 			],
@@ -217,7 +217,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The dandylion casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
+						"Il dente di leone lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell druidcraft}",
@@ -241,13 +241,13 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The dandylion has advantage on saving throws against spells and other magical effects."
+						"Il dente di leone dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Pack Tactics",
 					"entries": [
-						"The dandylion has advantage on an attack roll against a creature if at least one of the dandylion's allies is within 5 feet of the creature and the ally doesn't have the {@condition incapacitated} condition."
+						"Il dandylion ha vantaggio ai tiri per colpire contro una creatura se almeno uno degli alleati del dandylion si trova entro 1,5 metri dalla creatura e l'alleato non ha la condizione {@condition incapacitated}."
 					]
 				}
 			],
@@ -255,25 +255,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dandylion makes one Bite attack and one Claws attack."
+						"Il dente di leone effettua un attacco con il morso e un attacco con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) piercing damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}13 ({@damage 2d6 + 6}) danni perforanti."
 					]
 				},
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}20 ({@damage 4d6 + 6}) slashing damage. If the dandylion moved at least 20 feet straight toward the target immediately before the hit, the target must succeed on a {@dc 17} Strength saving throw or have the {@condition prone} condition. If the target has the {@condition prone} condition, the dandylion can make one Bite attack against it as a bonus action."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}20 ({@damage 4d6 + 6}) danni taglienti. Se il dente di leone si è mosso di almeno 20 piedi verso il bersaglio immediatamente prima del colpo, il bersaglio deve riuscire un tiro salvezza su Forza {@dc 17} o avere la condizione {@condition prone}. Se il bersaglio ha la condizione {@condition prone}, il dente di leone può effettuare un attacco con il morso contro di esso come azione bonus."
 					]
 				},
 				{
 					"name": "Rejuvenating Seedpods (2/Day)",
 					"entries": [
-						"The dandylion releases a burst of seedpods from its tail, filling a 10-foot-radius sphere centered on itself. Each creature of the dandylion's choice in the sphere can immediately end one of the following conditions on itself (creature's choice): {@condition blinded}, {@condition deafened}, {@condition paralyzed}, or {@condition poisoned}. In addition, all soil in the sphere's area is enriched, restoring withered vegetation in the area to full health and causing all crops in the area to produce twice the normal harvest for the next year."
+						"Il dente di leone rilascia un'esplosione di baccelli dalla coda, riempiendo una sfera del raggio di 3 metri centrata su se stessa. Ogni creatura nella sfera, scelta dal dandylion, può immediatamente porre fine a una delle seguenti condizioni su se stessa (a scelta della creatura): {@condition blinded}, {@condition deafened}, {@condition paralyzed} o {@condition poisoned}. Inoltre, tutto il terreno nell'area della sfera viene arricchito, ripristinando la piena salute della vegetazione appassita nell'area e facendo sì che tutti i raccolti nell'area producano il doppio del raccolto normale per l'anno successivo."
 					]
 				}
 			],
@@ -281,7 +281,7 @@
 				{
 					"name": "Roar of Pride",
 					"entries": [
-						"When a creature within 60 feet of the dandylion hits it with an attack roll, the dandylion can unleash a furious roar. The creature that triggered this reaction must succeed on a {@dc 15} Wisdom saving throw or have the {@condition frightened} condition until the end of the dandylion's next turn."
+						"Quando una creatura entro 18 metri dal dente di leone lo colpisce con un tiro per colpire, il dente di leone può scatenare un ruggito furioso. La creatura che ha attivato questa reazione deve riuscire in un tiro salvezza su Saggezza {@dc 15} o avere la condizione {@condition frightened} fino alla fine del turno successivo del dente di leone."
 					]
 				}
 			],
@@ -403,13 +403,13 @@
 				{
 					"name": "Fiery Wings",
 					"entries": [
-						"Rain's wings are made of flame, and they shed bright light out to 15 feet and dim light for an additional 15 feet. At the start of each of Rain's turns, each creature of Rain's choice within 5 feet of her takes 3 ({@damage 1d6}) fire damage. A creature that hits Rain with a melee attack takes 3 ({@damage 1d6}) fire damage."
+						"Le ali della pioggia sono fatte di fiamma e diffondono luce intensa fino a 15 piedi e luce fioca per altri 15 piedi. All'inizio di ogni turno di Rain, ogni creatura scelta da Rain entro 1,5 metri da lei subisce 3 ({@damage 1d6}) danni da fuoco. Una creatura che colpisce la pioggia con un attacco in mischia subisce 3 ({@damage 1d6}) danni da fuoco."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Rain has advantage on saving throws against spells and other magical effects."
+						"La pioggia ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -417,31 +417,31 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Rain makes two Hoof attacks."
+						"La pioggia effettua due attacchi con gli zoccoli."
 					]
 				},
 				{
 					"name": "Hoof",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 2d4}) bludgeoning damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 2d4}) danni contundenti."
 					]
 				},
 				{
 					"name": "Haloed Horn Burst {@recharge 5}",
 					"entries": [
-						"Rain uses her haloed horn to produce one of the following magical effects:"
+						"La pioggia usa il suo corno aureolato per produrre uno dei seguenti effetti magici:"
 					]
 				},
 				{
 					"name": "Glitterstorm",
 					"entries": [
-						"Rain emits a rainbow beam in a 30-foot line that is 5 feet wide. Each creature in that area must make a {@dc 15} Dexterity saving throw, taking 21 ({@damage 6d6}) radiant damage on a failed saving throw, or half as much damage on a successful one; creatures of evil alignment have disadvantage on this saving throw. If the damage from this effect reduces a creature to 0 hit points, the creature dies, and its body turns into glittery flowers."
+						"La pioggia emette un raggio arcobaleno in una linea di 9 metri larga 5 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza di Destrezza {@dc 15} e subisce 21 ({@damage 6d6}) danni radiosi se fallisce il tiro salvezza, o la metà di questi danni se lo riesce; le creature di allineamento malvagio hanno svantaggio in questo tiro salvezza. Se il danno derivante da questo effetto riduce una creatura a 0 punti ferita, la creatura muore e il suo corpo si trasforma in fiori scintillanti."
 					]
 				},
 				{
 					"name": "Healing Rainbows",
 					"entries": [
-						"Rain releases a wave of rejuvenating multicolored light in a 30-foot cone. Each creature of Rain's choice in that area regains 18 ({@dice 4d8}) hit points."
+						"La pioggia rilascia un'onda di luce multicolore rigenerante in un cono di 9 metri. Ogni creatura scelta da Rain in quell'area recupera 18 ({@dice 4d8}) punti ferita."
 					]
 				}
 			],
@@ -449,7 +449,7 @@
 				{
 					"name": "Nimble Escape",
 					"entries": [
-						"Rain takes either the Disengage or the Hide action."
+						"La pioggia effettua l'azione Disingaggio o Nascondersi."
 					]
 				}
 			],
@@ -541,7 +541,7 @@
 				{
 					"name": "Electrified Chassis",
 					"entries": [
-						"A creature that hits the scrapper with a melee attack while within 5 feet of it takes 19 ({@damage 3d12}) lightning damage."
+						"Una creatura che colpisce il rottamatore con un attacco in mischia mentre si trova entro 1,5 metri da esso subisce 19 ({@damage 3d12}) danni da fulmine."
 					]
 				}
 			],
@@ -549,25 +549,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The scrapper makes two Spike Punch attacks. It can replace one of those with a Wires attack."
+						"Lo scrapper effettua due attacchi Spike Punch. Può sostituirne uno con un attacco Wires."
 					]
 				},
 				{
 					"name": "Spike Punch",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) bludgeoning damage plus 5 ({@damage 1d10}) piercing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}14 ({@damage 2d8 + 5}) danni contundenti più 5 ({@damage 1d10}) danni perforanti."
 					]
 				},
 				{
 					"name": "Wires",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 20 ft., one Large or smaller creature. {@h}The target has the {@condition grappled} condition (escape {@dc 16}) and must succeed on a {@dc 16} Strength saving throw or be pulled into an unoccupied space within 5 feet of the scrapper and take 19 ({@damage 3d12}) lightning damage. The scrapper can have only one creature {@condition grappled} in this way at a time."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 20 piedi, una creatura Grande o più piccola. {@h} Il bersaglio ha la condizione {@condition grappled} (fuga {@dc 16}) e deve riuscire un tiro salvezza sulla Forza {@dc 16} o essere trascinato in uno spazio non occupato entro 5 piedi dallo scrapper e subire 19 ({@damage 3d12}) danni da fulmine. In questo modo lo scrapper può avere solo una creatura {@condition grappled} alla volta."
 					]
 				},
 				{
 					"name": "Eye Beam {@recharge 5}",
 					"entries": [
-						"The scrapper shoots a magical beam from its extended eye at one creature it can see within 120 feet of itself. The target must make a {@dc 16} Dexterity saving throw, taking 44 ({@damage 8d10}) force damage on a failed save, or half as much damage on a successful one."
+						"Il rottamatore spara un raggio magico dal suo occhio esteso verso una creatura che può vedere entro 36 metri da sé. Il bersaglio deve effettuare un tiro salvezza su Destrezza {@dc 16} e subisce 44 ({@damage 8d10}) danni da forza se fallisce il tiro salvezza, o la metà di questi danni se lo riesce."
 					]
 				}
 			],
@@ -663,13 +663,13 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Seth can breathe air and water."
+						"Seth può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Invisible in Water",
 					"entries": [
-						"Seth has the {@condition invisible} condition while fully immersed in water."
+						"Seth ha la condizione {@condition invisible} mentre è completamente immerso nell'acqua."
 					]
 				}
 			],
@@ -677,25 +677,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Seth makes one Bite attack and two Claw attacks."
+						"Seth effettua un attacco con il morso e due attacchi con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 11} to hit, reach 10 ft., one target. {@h}10 ({@damage 1d6 + 7}) piercing damage plus 9 ({@damage 2d8}) cold damage."
+						"{@atk mw} {@hit 11} per colpire, raggiungere 10 piedi, un bersaglio. {@h}10 ({@damage 1d6 + 7}) danni perforanti più 9 ({@damage 2d8}) danni da freddo."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atk mw} {@hit 11} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d6 + 7}) slashing damage."
+						"{@atk mw} {@hit 11} per colpire, raggiungere 5 piedi, un bersaglio. {@h}14 ({@damage 2d6 + 7}) danni taglienti."
 					]
 				},
 				{
 					"name": "Riptide Breath {@recharge 5}",
 					"entries": [
-						"Seth exhales a torrent of frigid water in a 30-foot cone. Each creature in that area must make a {@dc 16} Constitution saving throw. On a failed save, the creature takes 36 ({@damage 8d8}) cold damage and has the {@condition incapacitated} condition until the end of its next turn. On a successful save, the creature takes half as much damage only."
+						"Seth esala un torrente di acqua gelida in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione {@dc 16}. Se il tiro salvezza fallisce, la creatura subisce 36 ({@damage 8d8}) danni da freddo e mantiene la condizione {@condition incapacitated} fino alla fine del suo turno successivo. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni."
 					]
 				}
 			],
@@ -703,13 +703,13 @@
 				{
 					"name": "Change Shape",
 					"entries": [
-						"Seth magically transforms into a Small Humanoid or a Beast that is Tiny or Small, while retaining his game statistics (other than his size). This transformation ends if Seth is reduced to 0 hit points or uses another bonus action to end it."
+						"Seth si trasforma magicamente in un Umanoide Piccolo o in una Bestia Minuscola o Piccola, pur mantenendo le sue statistiche di gioco (a parte la sua taglia). Questa trasformazione termina se Seth viene ridotto a 0 punti ferita o utilizza un'altra azione bonus per porvi fine."
 					]
 				},
 				{
 					"name": "Superspeed (2/Day)",
 					"entries": [
-						"Seth's speed is doubled for as long as he maintains {@status concentration} (as if {@status concentration||concentrating} on a spell). While his speed is increased in this way, all attack rolls against him are made with disadvantage, and he becomes partially incorporeal, allowing him to move through creatures and objects as if they were difficult terrain. Seth takes 5 ({@damage 1d10}) force damage if he ends his turn inside an object."
+						"La velocità di Seth raddoppia finché mantiene {@status concentration} (come se {@status concentration||concentrating} su un incantesimo). Anche se la sua velocità aumenta in questo modo, tutti i tiri per colpire contro di lui vengono effettuati con svantaggio, ed egli diventa parzialmente incorporeo, permettendogli di muoversi attraverso creature e oggetti come se fossero terreno difficile. Seth subisce 5 ({@damage 1d10}) danni da forza se termina il suo turno all'interno di un oggetto."
 					]
 				}
 			],
@@ -816,7 +816,7 @@
 					"name": "Spellcasting (Psionics)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sheldon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 14}):"
+						"Sheldon lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell light}",
@@ -836,7 +836,7 @@
 				{
 					"name": "Space Dweller",
 					"entries": [
-						"Sheldon can breathe normally in a vacuum."
+						"Sheldon può respirare normalmente nel vuoto."
 					]
 				}
 			],
@@ -844,25 +844,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Sheldon makes either two Bite attacks, two Blueberry Fling attacks, or one of each."
+						"Sheldon effettua due attacchi con il morso, due attacchi con Scatto al mirtillo o uno di ciascuno."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage plus 4 ({@damage 1d8}) psychic damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni perforanti più 4 ({@damage 1d8}) danni psichici."
 					]
 				},
 				{
 					"name": "Blueberry Fling",
 					"entries": [
-						"{@atk rw} {@hit 7} to hit, range 30 ft., one creature. {@h}11 ({@damage 2d6 + 4}) blueberry damage."
+						"{@atk rw} {@hit 7} per colpire, portata 9 metri, una creatura. {@h}11 ({@damage 2d6 + 4}) danni al mirtillo."
 					]
 				},
 				{
 					"name": "Jetstream Breath {@recharge 5}",
 					"entries": [
-						"Sheldon exhales a line of magical wind that is 60 feet long and 5 feet wide. Each creature in that area must make a {@dc 15} Strength saving throw. On a failed save, the creature takes 21 ({@damage 6d6}) force damage, is pushed 15 feet away from Sheldon, and has the {@condition prone} condition. On a successful save, the creature takes half as much damage only."
+						"Sheldon esala una linea di vento magico lunga 60 piedi e larga 5 piedi. Ogni creatura in quell'area deve effettuare un tiro salvezza sulla Forza {@dc 15}. Se fallisce il tiro salvezza, la creatura subisce 21 ({@damage 6d6}) danni da forza, viene spinta a 15 piedi lontano da Sheldon e ha la condizione {@condition prone}. Se il tiro salvezza riesce, la creatura subisce solo la metà dei danni."
 					]
 				}
 			],
@@ -870,7 +870,7 @@
 				{
 					"name": "Wind Dash (2/Day)",
 					"entries": [
-						"Sheldon summons a powerful gust of wind and flies up to his speed. This movement doesn't provoke opportunity attacks. At the end of this movement, each creature within 5 feet of Sheldon must succeed on a {@dc 15} Strength saving throw or have the {@condition prone} condition, as the wind bursts around Sheldon."
+						"Sheldon evoca una potente folata di vento e vola alla sua velocità. Questo movimento non provoca attacchi di opportunità. Alla fine di questo movimento, ogni creatura entro 1,5 metri da Sheldon deve riuscire un tiro salvezza sulla Forza {@dc 15} o avere la condizione {@condition prone}, poiché il vento scoppia attorno a Sheldon."
 					]
 				}
 			],

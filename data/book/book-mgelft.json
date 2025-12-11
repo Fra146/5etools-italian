@@ -22,7 +22,7 @@
 					"type": "quote",
 					"style": "quote-pull",
 					"entries": [
-						"An adventure activity book for players of all levels"
+						"Un libro di attività avventurose per giocatori di tutti i livelli"
 					],
 					"skipMarks": true,
 					"skipItalics": true
@@ -40,9 +40,9 @@
 									"page": 1,
 									"entries": [
 										"",
-										"Created & Illustrated by Emi Tanji",
-										"Adventure & Design Genius by Adam Lee and Chris Lindsay",
-										"Special Thanks to Bart Carroll and Brandy Camel"
+										"Creato e illustrato da Emi Tanji",
+										"Avventura e genio del design di Adam Lee e Chris Lindsay",
+										"Un ringraziamento speciale a Bart Carroll e Brandy Camel"
 									],
 									"id": "003"
 								}
@@ -148,10 +148,10 @@
 					"page": 9,
 					"style": "text-center",
 					"entries": [
-						"A spell {@b COMPONENT} is what you need to cast a spell.",
-						"But they're not always items!",
-						"Sometimes it is a magical phrase or gesture.",
-						"What are some ingredients you might use for a spell?",
+						"Un incantesimo {@b COMPONENT} è ciò di cui hai bisogno per lanciare un incantesimo.",
+						"Ma non sono sempre oggetti!",
+						"A volte è una frase o un gesto magico.",
+						"Quali sono alcuni ingredienti che potresti usare per un incantesimo?",
 						{
 							"type": "inset",
 							"name": "Types of Spell Components",
@@ -179,7 +179,7 @@
 											"type": "item",
 											"name": "Verbal (V):",
 											"entries": [
-												"Magical words that can be spoken, chanted or sung in a particular way."
+												"Parole magiche che possono essere pronunciate, recitate o cantate in un modo particolare."
 											]
 										},
 										{
@@ -198,7 +198,7 @@
 											"type": "item",
 											"name": "Somatic (S):",
 											"entries": [
-												"Physical movements like waving your hands or wiggling your nose."
+												"Movimenti fisici come agitare le mani o muovere il naso."
 											]
 										},
 										{
@@ -217,7 +217,7 @@
 											"type": "item",
 											"name": "Material (M):",
 											"entries": [
-												"Particular objects that are needed to cast your spell."
+												"Oggetti particolari necessari per lanciare il tuo incantesimo."
 											]
 										}
 									]
@@ -260,7 +260,7 @@
 					"page": 12,
 					"style": "text-center",
 					"entries": [
-						"Find {@b 10} differences between these two pictures!",
+						"Trova {@b 10} differenze tra queste due immagini!",
 						{
 							"type": "gallery",
 							"images": [
@@ -308,9 +308,9 @@
 							"width": 1280,
 							"height": 1655
 						},
-						"Help our adventurers choose the right route to get to {@b safety!}",
-						"Use the whirlpool arrows to move Muk's boat faster down the river.",
-						"They can navigate around rocks, logs and bumpy water. But if they hit a monster (shown with an {@b X}), it'll be a very soggy trip."
+						"Aiuta i nostri avventurieri a scegliere il percorso giusto per arrivare a {@b safety!}",
+						"Usa le frecce del vortice per muovere più velocemente la barca di Muk lungo il fiume.",
+						"Possono navigare intorno a rocce, tronchi e acque sconnesse. Ma se colpiscono un mostro (mostrato con un {@b X}), sarà un viaggio molto fradicio."
 					],
 					"id": "009"
 				},
@@ -319,8 +319,8 @@
 					"name": "The winnieberry tree! We made it!",
 					"page": 15,
 					"entries": [
-						"Watch out for the {@creature vargouille|VGM|Vargouilles}!",
-						"Tiny weirdos who fly around with {@b bat-like} wings where their ears should be! Yuck!",
+						"Attenzione al {@creature vargouille|VGM|Vargouilles}!",
+						"Piccoli strani che volano in giro con {@b bat-like} ali al posto delle orecchie! Che schifo!",
 						{
 							"type": "image",
 							"href": {
@@ -332,8 +332,8 @@
 							"width": 1280,
 							"height": 1653
 						},
-						"Which tree branch should Muk climb that will give him the MOST fruit?",
-						"Hurry, the {@creature vargouille|VGM|vargouilles} are starting to swarm!"
+						"Quale ramo dell'albero dovrebbe arrampicarsi Muk per dargli PIÙ frutti?",
+						"Sbrigati, i {@creature vargouille|VGM|vargouilles} stanno iniziando a sciamare!"
 					],
 					"id": "00a"
 				},
@@ -373,7 +373,7 @@
 												{
 													"type": "quote",
 													"entries": [
-														"We've been inseparable since the day I was born!"
+														"Siamo inseparabili dal giorno in cui sono nato!"
 													]
 												}
 											]
@@ -385,7 +385,7 @@
 												{
 													"type": "quote",
 													"entries": [
-														"Thank you for pulling me from the Rough River!"
+														"Grazie per avermi tirato fuori dal Rough River!"
 													]
 												}
 											]
@@ -397,7 +397,7 @@
 												{
 													"type": "quote",
 													"entries": [
-														"I like you kid, you might smell funny but I'll show you the way out of this maze."
+														"Mi piaci ragazzo, potresti avere un odore strano ma ti mostrerò la via d'uscita da questo labirinto."
 													]
 												}
 											]
@@ -409,7 +409,7 @@
 												{
 													"type": "quote",
 													"entries": [
-														"I love picking locks! And sneaking. And treasure. Let me come along!"
+														"Adoro scassinare le serrature! E furtivamente. E tesoro. Lasciami venire!"
 													]
 												}
 											]
@@ -483,7 +483,7 @@
 							"name": "Fun Fact",
 							"page": 20,
 							"entries": [
-								"{@creature Tasha the Witch|VEoR|Tasha} is adopted. She was raised by the famous witch, Baba Yaga, who lives in a hut that sits on giant chicken legs!"
+								"{@creature Tasha the Witch|VEoR|Tasha} viene adottato. È stata allevata dalla famosa strega Baba Yaga, che vive in una capanna su gigantesche cosce di pollo!"
 							],
 							"id": "00e"
 						}
@@ -494,7 +494,7 @@
 					"type": "entries",
 					"page": 21,
 					"entries": [
-						"Help Muk choose just the right words to describe his adventure with Tasha!",
+						"Aiuta Muk a scegliere le parole giuste per descrivere la sua avventura con Tasha!",
 						{
 							"type": "image",
 							"href": {
@@ -638,7 +638,7 @@
 									"name": "Instructions",
 									"page": 21,
 									"entries": [
-										"Once you've finished choosing your words, flip to the next page and fill in the blanks in the order as it's listed. What type of spell has Muk discovered?"
+										"Una volta che hai finito di scegliere le parole, vai alla pagina successiva e riempi gli spazi vuoti nell'ordine in cui sono elencati. Che tipo di incantesimo ha scoperto Muk?"
 									],
 									"id": "010"
 								},
@@ -656,35 +656,35 @@
 													"type": "item",
 													"name": "Adjective:",
 													"entries": [
-														"A word that {@i describes} something or someone"
+														"Una parola che {@i describes} qualcosa o qualcuno"
 													]
 												},
 												{
 													"type": "item",
 													"name": "Adverb:",
 													"entries": [
-														"A verb (action) usually ending in \"ly\""
+														"Un verbo (azione) che solitamente termina con \"ly\""
 													]
 												},
 												{
 													"type": "item",
 													"name": "Noun:",
 													"entries": [
-														"A person, place or thing"
+														"Una persona, un luogo o una cosa"
 													]
 												},
 												{
 													"type": "item",
 													"name": "Plural Noun:",
 													"entries": [
-														"Multiple persons, places or things"
+														"Più persone, luoghi o cose"
 													]
 												},
 												{
 													"type": "item",
 													"name": "Verb:",
 													"entries": [
-														"Ab action, or something someone does"
+														"Azione ab o qualcosa che qualcuno fa"
 													]
 												}
 											]
@@ -706,9 +706,9 @@
 							"page": 22,
 							"style": "text-center",
 							"entries": [
-								"I was a bit {@footnote _______________|ADJECTIVE} when Tasha first {@footnote _______________|VERB, PAST TENSE} in to the Dankwood. She's so {@footnote _______________|ADJECTIVE} and meeting her for the first time made our {@footnote _______________|PART OF THE BODY (PLURAL)} {@footnote _______________|VERB}!",
-								"Tasha's most famous spell is called {@spell Tasha's hideous laughter}. With her help, I was able to create my very own spell: Muk's {@footnote _______________|ADJECTIVE} {@footnote _______________|NOUN}. It is pretty advanced and requires the following components: {@footnote _______________|NUMBER} winnieberries, a handful of {@footnote _______________|ADJECTIVE} {@footnote _______________|PLURAL NOUN}, two {@footnote _______________|COLOR} {@footnote _______________|PLURAL NOUN} the size of a {@footnote _______________|NOUN}. Combine them together in a large {@footnote _______________|TYPE OF CONTAINER} and sing, \"Oh {@footnote _______________|PERSON IN ROOM}, lend me your {@footnote _______________|NOUN}!\"",
-								"Enjoy my magical spell!"
+								"Ero un po' {@footnote _______________|ADJECTIVE} quando Tasha {@footnote _______________|VERB, PAST TENSE} è entrata per la prima volta al Dankwood. È così {@footnote _______________|ADJECTIVE} e incontrarla per la prima volta ha reso il nostro {@footnote _______________|PART OF THE BODY (PLURAL)} {@footnote _______________|VERB}!",
+								"L'incantesimo più famoso di Tasha si chiama {@spell Tasha's hideous laughter}. Con il suo aiuto, sono riuscito a creare il mio incantesimo personale: quello di Muk {@footnote _______________|ADJECTIVE} {@footnote _______________|NOUN}. È piuttosto avanzato e richiede i seguenti componenti: {@footnote _______________|NUMBER} bacche di bacche, una manciata di {@footnote _______________|ADJECTIVE} {@footnote _______________|PLURAL NOUN}, due {@footnote _______________|COLOR} {@footnote _______________|PLURAL NOUN} delle dimensioni di un {@footnote _______________|NOUN}. Combinali insieme in un grande {@footnote _______________|TYPE OF CONTAINER} e canta: \"Oh {@footnote _______________|PERSON IN ROOM}, prestami il tuo {@footnote _______________|NOUN}!\"",
+								"Godetevi il mio incantesimo magico!"
 							],
 							"id": "013"
 						},
@@ -727,7 +727,7 @@
 							"type": "inset",
 							"page": 22,
 							"entries": [
-								"Check out page 40 for instructions on how to make your own, mini spellbook!"
+								"Consulta pagina 40 per istruzioni su come creare il tuo mini libro degli incantesimi!"
 							],
 							"id": "014"
 						}
@@ -738,7 +738,7 @@
 					"type": "entries",
 					"page": 23,
 					"entries": [
-						"Spells come from the caster and can be influenced by their personality or traits! What do your spells look like? Smell like?",
+						"Gli incantesimi provengono dall'incantatore e possono essere influenzati dalla sua personalità o dai suoi tratti! Che aspetto hanno i tuoi incantesimi? Che odore hai?",
 						{
 							"type": "image",
 							"href": {
@@ -1050,20 +1050,20 @@
 									"items": [
 										"BABA YAGA",
 										"BARD",
-										"CAULDRON",
-										"CLERIC",
-										"DRUID",
+										"CALDERONE",
+										"CHIERICO",
+										"DRUIDO",
 										"FEYWILD",
-										"KOBOLD",
-										"MAGIC",
+										"FOLLETTO",
+										"MAGIA",
 										"SIDEKICK",
-										"SORCERER",
-										"SPELL",
-										"SPELLBOOK",
+										"STREGONE",
+										"SILLABARE",
+										"LIBRO DEGLI INCANTESIMI",
 										"TASHA",
-										"WARLOCK",
-										"WITCH",
-										"WIZARD"
+										"STREGONE",
+										"STREGA",
+										"PROCEDURA GUIDATA"
 									]
 								}
 							],
@@ -1109,11 +1109,11 @@
 							"page": 25,
 							"name": "Down",
 							"items": [
-								"1. A small and clever reptilian creature. They are known to worship dragons.",
-								"2. Tasha grew up in a hut that stood on this animal's legs.",
-								"3. {@creature Birdsquirrel|AWM|Birdsquirrel's} best friend.",
-								"5. Something you need in order to cast a spell.",
-								"6. Vargouilles have this animal's wings sprouting from their heads."
+								"1. Una creatura rettile piccola e intelligente. Sono noti per adorare i draghi.",
+								"2. Tasha è cresciuta in una capanna che poggiava sulle zampe di questo animale.",
+								"3. {@creature Birdsquirrel|AWM|Birdsquirrel's} migliore amico.",
+								"5. Qualcosa di cui hai bisogno per lanciare un incantesimo.",
+								"6. I Vargouille hanno le ali di questo animale che spuntano dalle loro teste."
 							]
 						},
 						{
@@ -1122,9 +1122,9 @@
 							"page": 25,
 							"name": "Across",
 							"items": [
-								"4. Someone who helps you on your adventures.",
-								"7. A baby yeti is called this.",
-								"8. The name of this famous spell: {@spell Tasha's Hideous Laughter||Tasha's Hideous ___________}."
+								"4. Qualcuno che ti aiuta nelle tue avventure.",
+								"7. Un cucciolo di Yeti si chiama così.",
+								"8. Il nome di questo famoso incantesimo: {@spell Tasha's Hideous Laughter||Tasha's Hideous ___________}."
 							]
 						}
 					],
@@ -1203,15 +1203,15 @@
 					"name": "Adventure Ideas",
 					"page": 30,
 					"entries": [
-						"Every adventure in the Dankwood has a solution that can be attained without resorting to combat. Goblins can sneak out of danger, they can act all tough and bluff their way through a problem, and they are also known to be able to make friends with just about anybody (even {@creature Dankwood Grung|MGELFT|grumpy grung}!).",
-						"Read over the adventure hooks to get an idea of the problem or mystery and then check out the questions. These questions are prompts to let your players invent their own creative ways to solve the adventure and tell their own Dankwood story. There are infinite possible paths as to how each story can be told, so let your imagination lead the way!",
+						"Ogni avventura nel Dankwood ha una soluzione che può essere raggiunta senza ricorrere al combattimento. I Goblin possono sfuggire al pericolo, possono comportarsi in modo duro e bluffare per risolvere un problema, e sono anche noti per essere in grado di fare amicizia praticamente con chiunque (anche {@creature Dankwood Grung|MGELFT|grumpy grung}!).",
+						"Leggi gli agganci dell'avventura per avere un'idea del problema o del mistero e poi controlla le domande. Queste domande sono spunti per consentire ai tuoi giocatori di inventare i propri modi creativi per risolvere l'avventura e raccontare la propria storia di Dankwood. Ci sono infiniti percorsi possibili su come raccontare ogni storia, quindi lascia che la tua immaginazione apra la strada!",
 						{
 							"type": "entries",
 							"name": "Tasha's Party",
 							"page": 30,
 							"entries": [
-								"Tasha needs your help! She wants to throw a party and make her super special Green Bubble soup. Everyone in Gob-Town is excited but Tasha says to make Green Bubble soup she needs some gooey webs from the rare and elusive {@creature spiderfrog|MGELFT}. Do you know where to get some for her?",
-								"You've heard that the {@creature King Robbit the Slimy|MGELFT|grung king, Robbit the Slimy}, might know where to get some\u2014or he and {@creature Dankwood Grung|MGELFT|his grungs} may even have some webs to trade.",
+								"Tasha ha bisogno del tuo aiuto! Vuole organizzare una festa e preparare la sua specialissima zuppa Green Bubble. Tutti a Gob-Town sono eccitati, ma Tasha dice che per preparare la zuppa Green Bubble ha bisogno di alcune ragnatele appiccicose rare e sfuggenti {@creature spiderfrog|MGELFT}. Sai dove trovarne un po' per lei?",
+								"Hai sentito che {@creature King Robbit the Slimy|MGELFT|grung king, Robbit the Slimy} potrebbe sapere dove trovarne un po', oppure lui e {@creature Dankwood Grung|MGELFT|his grungs} potrebbero addirittura avere delle ragnatele da scambiare.",
 								{
 									"type": "entries",
 									"name": "Questions to Ask:",
@@ -1221,8 +1221,8 @@
 											"type": "list",
 											"page": 30,
 											"items": [
-												"What does {@creature King Robbit the Slimy|MGELFT|King Robbit} want in exchange for information about the location of the {@creature spiderfrog|MGELFT|spiderfrogs} or (if he has them) for the webs? If you can find out what he likes, then you might be able to trade with him.",
-												"If the {@creature Dankwood Grung|MGELFT|grung} are too grumpy, then who would know where to find {@creature spiderfrog|MGELFT} webs in the Dankwood? Who would you need to ask to get this information? There are a ton of goblin friends who know stuff!"
+												"Cosa vuole {@creature King Robbit the Slimy|MGELFT|King Robbit} in cambio di informazioni sulla posizione delle {@creature spiderfrog|MGELFT|spiderfrogs} o (se le ha) delle ragnatele? Se riesci a scoprire cosa gli piace, allora potresti essere in grado di commerciare con lui.",
+												"Se i {@creature Dankwood Grung|MGELFT|grung} sono troppo scontrosi, allora chi saprebbe dove trovare le ragnatele {@creature spiderfrog|MGELFT} nel Dankwood? A chi dovresti chiedere per ottenere queste informazioni? Ci sono un sacco di amici goblin che sanno cose!"
 											]
 										}
 									],
@@ -1233,8 +1233,8 @@
 									"name": "Ask Around Gob-Town! Find Stuff Out!",
 									"page": 30,
 									"entries": [
-										"{@creature King Robbit the Slimy|MGELFT|King Robbit} is shrewd and {@creature Dankwood Grung|MGELFT|grungs} are super grumpy. It's not going to be easy to get {@creature spiderfrog|MGELFT|spiderfrog} webs from them.",
-										"Tasha knows that {@creature spiderfrog|MGELFT|spiderfrogs} spin their webs next to clear, still ponds that reflect the moonlight. They also make a high-pitched squeaking sound during the full moon."
+										"{@creature King Robbit the Slimy|MGELFT|King Robbit} è scaltro e {@creature Dankwood Grung|MGELFT|grungs} è super scontroso. Non sarà facile ottenere {@creature spiderfrog|MGELFT|spiderfrog} ragnatele da loro.",
+										"Tasha sa che {@creature spiderfrog|MGELFT|spiderfrogs} tesse le proprie tele vicino a stagni limpidi e immobili che riflettono la luce della luna. Emettono anche un cigolio acuto durante la luna piena."
 									],
 									"id": "01c"
 								},
@@ -1257,15 +1257,15 @@
 							"name": "The Lost Yeti",
 							"page": 30,
 							"entries": [
-								"While wandering around the Dankwood, you found a {@creature yeti tyke|MGELFT}. It's a mopey little critter but it's probably because it just misses its family.",
-								"You're pretty sure that its family lives in the Snowy Hills to the north. It's a long trip but if this {@creature yeti tyke|MGELFT|tyke} is going to get back home, someone has to show it the way.",
+								"Mentre vagavi per il Dankwood, hai trovato un {@creature yeti tyke|MGELFT}. È una piccola creatura triste, ma probabilmente è perché gli manca la sua famiglia.",
+								"Sei abbastanza sicuro che la sua famiglia viva nelle Snowy Hills a nord. È un viaggio lungo ma se questo {@creature yeti tyke|MGELFT|tyke} vuole tornare a casa, qualcuno deve indicargli la strada.",
 								{
 									"type": "entries",
 									"name": "The Real Story!",
 									"page": 30,
 									"entries": [
-										"The yeti tyke was separated from its parents by a group of {@creature Dankwood Duergar|MGELFT|grumpy duergar}. The yetis live in a cave, but that cave contains a secret door that leads to an underground labyrinth that has an ancient treasure hidden within it. The yetis didn't know about the secret door or the treasure but the {@creature Dankwood Duergar|MGELFT|duergar} sure did and they chased them out of the cave so they could hunt for the loot.",
-										"When the heroes return the {@creature yeti tyke|MGELFT|tyke} to its parents, the yetis tell them about the {@creature Dankwood Duergar|MGELFT|grumpy duergar} and how they've been chased out of their home. Can our heroes help get the yetis back in their home, give the duergar the boot, and maybe get some of that treasure the duergar are looking for?"
+										"Il cucciolo Yeti è stato separato dai suoi genitori da un gruppo di {@creature Dankwood Duergar|MGELFT|grumpy duergar}. Gli yeti vivono in una grotta, ma quella grotta contiene una porta segreta che conduce a un labirinto sotterraneo al cui interno è nascosto un antico tesoro. Gli yeti non sapevano della porta segreta o del tesoro, ma il {@creature Dankwood Duergar|MGELFT|duergar} lo sapeva sicuramente e li hanno cacciati fuori dalla grotta per poter andare a caccia del bottino.",
+										"Quando gli eroi restituiscono il {@creature yeti tyke|MGELFT|tyke} ai suoi genitori, gli yeti raccontano loro del {@creature Dankwood Duergar|MGELFT|grumpy duergar} e di come sono stati cacciati dalla loro casa. Riusciranno i nostri eroi a riportare gli yeti a casa loro, a cacciare i duergar e magari a recuperare un po' del tesoro che i duergar stanno cercando?"
 									],
 									"id": "01e"
 								},
@@ -1278,10 +1278,10 @@
 											"type": "list",
 											"page": 30,
 											"items": [
-												"Can anyone speak {@language yeti|MM}? Maybe Tasha has a spell or a potion for that!",
-												"What are some possible ways to get rid of the {@creature Dankwood Duergar|MGELFT|duergar}? Some people who know about them say that {@creature Dankwood Duergar|MGELFT|duergar} are terrified of mind flayers\u2014maybe the heroes could dress up like them and scare the {@creature Dankwood Duergar|MGELFT|duergar} away?",
-												"The yetis say that there is a super scary monster called a {@creature remorhaz} living nearby. Maybe that monster could come in handy when dealing with the {@creature Dankwood Duergar|MGELFT|duergar}? It's risky!",
-												"Do the {@creature Dankwood Duergar|MGELFT|duergar} have a map? That labyrinth sure is confusing and it could be easy to get lost in there!"
+												"Qualcuno può parlare {@language yeti|MM}? Forse Tasha ha un incantesimo o una pozione per quello!",
+												"Quali sono alcuni modi possibili per sbarazzarsi di {@creature Dankwood Duergar|MGELFT|duergar}? Alcune persone che li conoscono dicono che {@creature Dankwood Duergar|MGELFT|duergar} sono terrorizzati dai mind flayer: forse gli eroi potrebbero travestirsi come loro e spaventare il {@creature Dankwood Duergar|MGELFT|duergar}?",
+												"Gli yeti dicono che nelle vicinanze vive un mostro super spaventoso chiamato {@creature remorhaz}. Forse quel mostro potrebbe tornare utile quando si ha a che fare con il {@creature Dankwood Duergar|MGELFT|duergar}? È rischioso!",
+												"Il {@creature Dankwood Duergar|MGELFT|duergar} ha una mappa? Quel labirinto è sicuramente fonte di confusione e potrebbe essere facile perdersi lì dentro!"
 											]
 										}
 									],
@@ -1306,7 +1306,7 @@
 							"name": "The Cursed Spring",
 							"page": 30,
 							"entries": [
-								"The heroes come across a {@creature pixie} who is crying by a spring that is all filled with stinky muck and bubbling sludge. If they ask what is wrong, she tells them that her beautiful spring has been cursed by an evil {@creature sludge hag|MGELFT} that has moved into the Dankwood. She asks if the heroes can help get the hag to remove the spring's curse.",
+								"Gli eroi incontrano un {@creature pixie} che sta piangendo vicino a una sorgente piena di letame puzzolente e fango ribollente. Se chiedono cosa c'è che non va, lei dice loro che la sua bellissima primavera è stata maledetta da un male {@creature sludge hag|MGELFT} che si è trasferito nel Dankwood. Chiede se gli eroi possono aiutare la strega a rimuovere la maledizione della primavera.",
 								{
 									"type": "entries",
 									"name": "Questions to Ask:",
@@ -1316,10 +1316,10 @@
 											"type": "list",
 											"page": 30,
 											"items": [
-												"Can the {@creature sludge hag|MGELFT|hag} be bargained with? Everyone has something that they covet or crave, maybe there's a way to find out what this {@creature sludge hag|MGELFT|hag} desires above everything else.",
-												"Can you make friends with the {@creature sludge hag|MGELFT|hag}? Maybe no one has ever treated the {@creature sludge hag|MGELFT|hag} with kindness\u2014a fresh baked pie might do the trick!",
-												"Can the {@creature sludge hag|MGELFT|hag} be tricked? Maybe they're a sucker for taking bets and, if you're good enough, you can beat them in a game of chance.",
-												"Can you use your friends to help? Your friend, Tasha, is a pretty powerful witch. Maybe she knows something about the {@creature sludge hag|MGELFT|hag's} weakness that you can take advantage of."
+												"È possibile contrattare con il {@creature sludge hag|MGELFT|hag}? Tutti hanno qualcosa che desiderano o bramano, forse c'è un modo per scoprire cosa questo {@creature sludge hag|MGELFT|hag} desidera sopra ogni altra cosa.",
+												"Riuscirai a fare amicizia con il {@creature sludge hag|MGELFT|hag}? Forse nessuno ha mai trattato il {@creature sludge hag|MGELFT|hag} con gentilezza: una torta appena sfornata potrebbe bastare!",
+												"Il {@creature sludge hag|MGELFT|hag} può essere ingannato? Forse sono dei fanatici delle scommesse e, se sei abbastanza bravo, puoi batterli in un gioco d'azzardo.",
+												"Puoi usare i tuoi amici per aiutarti? La tua amica Tasha è una strega piuttosto potente. Forse sa qualcosa sulla debolezza {@creature sludge hag|MGELFT|hag's} di cui puoi trarre vantaggio."
 											]
 										}
 									],
@@ -1336,7 +1336,7 @@
 					"name": "More Adventure Hooks!",
 					"page": 31,
 					"entries": [
-						"Here's a list of fun ideas that can inspire a fun story in the Dankwood. Use them to spawn more adventures!",
+						"Ecco un elenco di idee divertenti che possono ispirare una storia divertente nel Dankwood. Usali per generare più avventure!",
 						{
 							"type": "table",
 							"caption": "Dankwood Adventure Hooks",
@@ -1352,35 +1352,35 @@
 							"rows": [
 								[
 									"1",
-									"A flute, that when played, summons a {@creature pegasus}. (Where does the {@creature pegasus} fly to if you get on its back?)"
+									"Un flauto che, quando suonato, evoca un {@creature pegasus}. (Dove vola il {@creature pegasus} se gli sali sulla schiena?)"
 								],
 								[
 									"2",
-									"A carved wooden bird that comes to life when picked up and leads the adventurers to the entrance of a cave. (What treasures are in the cave?)"
+									"Un uccello di legno intagliato che prende vita quando viene raccolto e conduce gli avventurieri all'ingresso di una grotta. (Quali tesori ci sono nella grotta?)"
 								],
 								[
 									"3",
-									"A {@creature pixie} flies up to you and asks if you would help to chase a {@creature troll} away from its village. (How do you get rid of a dangerous troll?)"
+									"A {@creature pixie} vola verso di te e ti chiede se puoi aiutarlo a cacciare un {@creature troll} lontano dal suo villaggio. (Come ti sbarazzi di un troll pericoloso?)"
 								],
 								[
 									"4",
-									"A hunter is in the forest looking for a rare elk with golden antlers. (Either help the hunter catch the elk or help the elk escape the hunter.)"
+									"Un cacciatore è nella foresta alla ricerca di un raro alce con corna dorate. (O aiuta il cacciatore a catturare l'alce o aiuta l'alce a scappare dal cacciatore.)"
 								],
 								[
 									"5",
-									"An elf who claims to be of royal blood is seeking refuge in the Dankwood. He is being hunted by rival elves and is willing to pay gold for your help. (Is the elf really who he says he is? Who are the rival elves?)"
+									"Un elfo che afferma di essere di sangue reale sta cercando rifugio nel Dankwood. Gli elfi rivali gli danno la caccia ed è disposto a pagare oro per il tuo aiuto. (L'elfo è davvero chi dice di essere? Chi sono gli elfi rivali?)"
 								],
 								[
 									"6",
-									"A gnome rushes up to you, hands you a golden key, and tells you, \"Find the crystal cave and save me.\" before turning to stone!"
+									"Uno gnomo corre verso di te, ti porge una chiave d'oro e ti dice: \"Trova la grotta di cristallo e salvami\". prima di trasformarsi in pietra!"
 								],
 								[
 									"7",
-									"One of your nets traps a {@creature tiger}. As you are figuring out what to do with it, the {@creature tiger} speaks and claims that it was once a halfling that was cursed by an evil wizard."
+									"Una delle tue reti intrappola un {@creature tiger}. Mentre stai decidendo cosa farne, il {@creature tiger} parla e afferma che una volta era un halfling maledetto da un mago malvagio."
 								],
 								[
 									"8",
-									"A bounty hunter is on the lookout for a criminal. Is the criminal actually bad or is the bounty hunter bad?"
+									"Un cacciatore di taglie è alla ricerca di un criminale. Il criminale è davvero cattivo o è cattivo il cacciatore di taglie?"
 								]
 							]
 						}
@@ -1392,7 +1392,7 @@
 					"name": "Monsters",
 					"page": 31,
 					"entries": [
-						"The following monsters have been simplified/modified to be used in Muk's Adventures. The following stat blocks are for your reference. Feel free to adjust or add in whatever you'd like to customize it to your story.",
+						"I seguenti mostri sono stati semplificati/modificati per essere utilizzati in Muk's Adventures. I seguenti blocchi di statistiche sono per tuo riferimento. Sentiti libero di modificare o aggiungere ciò che desideri per personalizzarlo in base alla tua storia.",
 						{
 							"type": "statblock",
 							"tag": "creature",
@@ -1567,7 +1567,7 @@
 									"page": 35,
 									"entries": [
 										"{@i Small Dankwood Almiraj}",
-										"Winky-Bix is the first to help in times of need. They can cast the cantrip {@spell Light}, once every long rest.",
+										"Winky-Bix è il primo ad aiutare nei momenti di bisogno. Possono lanciare il trucchetto {@spell Light}, una volta ogni riposo lungo.",
 										{
 											"type": "hr"
 										},
@@ -1576,7 +1576,7 @@
 											"name": "Personality:",
 											"page": 35,
 											"entries": [
-												"I may be tiny, but I'm always willing to give it my all!"
+												"Sarò piccolino, ma sono sempre disposto a dare il massimo!"
 											],
 											"id": "026"
 										},
@@ -1585,11 +1585,11 @@
 											"name": "Flaw:",
 											"page": 35,
 											"entries": [
-												"My ears are extra soft and extra long\u2013sometimes I trip over them."
+												"Le mie orecchie sono morbidissime ed extra lunghe: a volte ci inciampo."
 											],
 											"id": "027"
 										},
-										"{@skillCheck nature 2} to {@skill Nature} checks"
+										"{@skillCheck nature 2} a {@skill Nature} assegni"
 									],
 									"id": "025"
 								},
@@ -1610,7 +1610,7 @@
 									"page": 35,
 									"entries": [
 										"{@i Small Awakened Turtle}",
-										"Durdle is always ready to help out with a slow spell he casts once per day.",
+										"Durdle è sempre pronto ad aiutare con un incantesimo lento che lancia una volta al giorno.",
 										{
 											"type": "hr"
 										},
@@ -1619,7 +1619,7 @@
 											"name": "Personality:",
 											"page": 35,
 											"entries": [
-												"If you take your time, you'll do it right."
+												"Se ti prendi il tuo tempo, lo farai bene."
 											],
 											"id": "029"
 										},
@@ -1628,11 +1628,11 @@
 											"name": "Flaw:",
 											"page": 35,
 											"entries": [
-												"Always late to parties."
+												"Sempre tardi alle feste."
 											],
 											"id": "02a"
 										},
-										"{@skillCheck perception 2} to {@skill Perception} checks"
+										"{@skillCheck perception 2} a {@skill Perception} assegni"
 									],
 									"id": "028"
 								},
@@ -1653,7 +1653,7 @@
 									"page": 35,
 									"entries": [
 										"{@i Awakened Rock}",
-										"An awakened rock with a painted-on smiley face. Cole can fit in your pocket and will happily whisper positive thoughts throughout the day.",
+										"Una roccia risvegliata con una faccina sorridente dipinta. Cole può stare in tasca e sussurrerà felicemente pensieri positivi durante il giorno.",
 										{
 											"type": "hr"
 										},
@@ -1662,7 +1662,7 @@
 											"name": "Personality:",
 											"page": 35,
 											"entries": [
-												"You'll always have a friend in me!"
+												"Avrai sempre un amico in me!"
 											],
 											"id": "02c"
 										},
@@ -1671,11 +1671,11 @@
 											"name": "Flaw:",
 											"page": 35,
 											"entries": [
-												"My face sometimes gets rubbed off. I'll need help putting it back on, if you don't mind."
+												"La mia faccia a volte viene cancellata. Avrò bisogno di aiuto per rimetterlo, se non ti dispiace."
 											],
 											"id": "02d"
 										},
-										"{@d20 3} to charisma checks"
+										"{@d20 3} alle prove di carisma"
 									],
 									"id": "02b"
 								},
@@ -1696,7 +1696,7 @@
 									"page": 35,
 									"entries": [
 										"{@i Tiny Sprite}",
-										"Pippy is a fierce {@creature sprite} warrior who is a defender of the Dankwood. If Pippy is within 10 feet, you can't be {@condition frightened}.",
+										"Pippy è un feroce guerriero {@creature sprite} difensore del Dankwood. Se Pippy è entro 10 piedi, non puoi esserlo {@condition frightened}.",
 										{
 											"type": "hr"
 										},
@@ -1705,7 +1705,7 @@
 											"name": "Personality:",
 											"page": 35,
 											"entries": [
-												"I am afraid of no one!"
+												"Non ho paura di nessuno!"
 											],
 											"id": "02f"
 										},
@@ -1714,11 +1714,11 @@
 											"name": "Flaw:",
 											"page": 35,
 											"entries": [
-												"I am afraid of no one!"
+												"Non ho paura di nessuno!"
 											],
 											"id": "030"
 										},
-										"{@hit 1} to attack rolls"
+										"{@hit 1} ai tiri per colpire"
 									],
 									"id": "02e"
 								}
@@ -1787,19 +1787,19 @@
 							"style": "list-decimal",
 							"page": 40,
 							"items": [
-								"Fold in half lengthwise",
-								"Unfold, then fold in half widthwise",
-								"Unfold, then fold the edges up to the center",
-								"Your paper should have creases like these.",
-								"Fold in half widthwise and cut a slit half way to the {@color X|ee1c25}",
-								"Unfold, then fold lengthwise and push the ends in towards the center",
-								"Fold all pages together in to your mini spellbook!",
+								"Piegare a metà nel senso della lunghezza",
+								"Aprilo, quindi piegalo a metà nel senso della larghezza",
+								"Aprilo, quindi piega i bordi verso il centro",
+								"La tua carta dovrebbe avere pieghe come queste.",
+								"Piega a metà nel senso della larghezza e taglia una fessura a metà {@color X|ee1c25}",
+								"Aprilo, poi piegalo nel senso della lunghezza e spingi le estremità verso il centro",
+								"Piega tutte le pagine insieme nel tuo mini libro degli incantesimi!",
 								"Ta-da!"
 							]
 						},
-						"Use the template on the next page for an extra magical look!",
-						"DOTTED LINE - FOLD",
-						"SOLID LINE - CUT"
+						"Utilizza il modello nella pagina successiva per un look ancora più magico!",
+						"LINEA PUNTEGGIATA - PIEGATURA",
+						"LINEA CONTINUA - TAGLIO"
 					],
 					"id": "032"
 				},
@@ -1835,11 +1835,11 @@
 						{
 							"type": "quote",
 							"entries": [
-								"I might not look like you, and you might not look like me. But those wonderful differences, should be celebrated and seen.",
+								"Potrei non assomigliarti e tu potresti non assomigliare a me. Ma quelle meravigliose differenze dovrebbero essere celebrate e viste.",
 								"{@style Thank you|large}",
-								"for joining Muk, {@creature Birdsquirrel|AWM} and I on another adventure in the Dankwood\u2013our world enriched by the spectacular talents of Adam Lee and Chris Lindsay.",
-								"Thank you to everyone, for your encouragement, support and time spent with us. Shared moments together are such incredible treasures.",
-								"We can accomplish so much together and I am grateful to see the kindness, laughter and support that is cultivated by the Dungeons & Dragons community. Let's be kind, let's do good and let's tell our stories together."
+								"per esserti unito a me e Muk {@creature Birdsquirrel|AWM} in un'altra avventura nel Dankwood, il nostro mondo arricchito dagli spettacolari talenti di Adam Lee e Chris Lindsay.",
+								"Grazie a tutti, per il vostro incoraggiamento, supporto e il tempo trascorso con noi. I momenti condivisi insieme sono tesori incredibili.",
+								"Possiamo realizzare così tanto insieme e sono grato di vedere la gentilezza, le risate e il sostegno coltivati ​​dalla comunità di Dungeons & Dragons. Siamo gentili, facciamo del bene e raccontiamo insieme le nostre storie."
 							],
 							"by": "Emi"
 						}

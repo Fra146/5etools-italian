@@ -8,39 +8,39 @@
 					"name": "Monk",
 					"type": "section",
 					"entries": [
-						"Her fists a blur as they deflect an incoming hail of arrows, a half-elf springs over a barricade and throws herself into the massed ranks of hobgoblins on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.",
-						"Taking a deep breath, a human covered in tattoos settles into a battle stance. As the first charging orcs reach him, he exhales and a blast of fire roars from his mouth, engulfing his foes.",
-						"Moving with the silence of the night, a black-clad halfling steps into a shadow beneath an arch and emerges from another inky shadow on a balcony a stone's throw away. She slides her blade free of its cloth-wrapped scabbard and peers through the open window at the tyrant prince, so vulnerable in the grip of sleep.",
-						"Whatever their discipline, monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.",
+						"I suoi pugni diventano confusi mentre deviano una pioggia di frecce in arrivo, un mezzelfo salta sopra una barricata e si lancia tra le file ammassate di hobgoblin dall'altra parte. Lei volteggia tra loro, respingendo i loro colpi e facendoli barcollare, finché alla fine si ritrova sola.",
+						"Facendo un respiro profondo, un essere umano coperto di tatuaggi assume una posizione di battaglia. Quando i primi orchi alla carica lo raggiungono, espira e un'esplosione di fuoco ruggisce dalla sua bocca, inghiottendo i suoi nemici.",
+						"Muovendosi nel silenzio della notte, un halfling vestito di nero entra nell'ombra sotto un arco ed emerge da un'altra ombra come l'inchiostro su un balcone a un tiro di schioppo. Fa scivolare la lama fuori dal fodero avvolto nel tessuto e scruta attraverso la finestra aperta il principe tiranno, così vulnerabile nella morsa del sonno.",
+						"Qualunque sia la loro disciplina, i monaci sono uniti nella capacità di imbrigliare magicamente l'energia che scorre nei loro corpi. Sia che venga incanalata come una straordinaria dimostrazione di abilità in combattimento o come un focus più sottile di abilità difensiva e velocità, questa energia infonde tutto ciò che fa un monaco.",
 						{
 							"type": "entries",
 							"name": "The Magic of Ki",
 							"entries": [
-								"Monks make careful study of a magical energy that most monastic traditions call ki. This energy is an element of the magic that suffuses the multiverse\u2014specifically, the element that flows through living bodies. Monks harness this power within themselves to create magical effects and exceed their bodies' physical capabilities, and some of their special attacks can hinder the flow of ki in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of ki gives them more power over their bodies and the bodies of their foes."
+								"I monaci studiano attentamente un'energia magica che la maggior parte delle tradizioni monastiche chiama ki. Questa energia è un elemento della magia che pervade il multiverso, in particolare l'elemento che scorre attraverso i corpi viventi. I monaci sfruttano questo potere dentro di sé per creare effetti magici e superare le capacità fisiche dei loro corpi, e alcuni dei loro attacchi speciali possono ostacolare il flusso del ki nei loro avversari. Usando questa energia, i monaci incanalano una velocità e una forza straordinarie nei loro attacchi senz'armi. Man mano che acquisiscono esperienza, il loro addestramento marziale e la loro padronanza del ki danno loro più potere sui loro corpi e su quelli dei loro nemici."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Training and Asceticism",
 							"entries": [
-								"Small walled cloisters dot the landscapes of the worlds of D&D, tiny refuges from the flow of ordinary life, where time seems to stand still. The monks who live there seek personal perfection through contemplation and rigorous training. Many entered the monastery as children, sent to live there when their parents died, when food couldn't be found to support them, or in return for some kindness that the monks had performed for their families.",
-								"Some monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other mortal or divine power.",
-								"The majority of monks don't shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or tyrants.",
-								"For a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don't undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth. As a rule, monks care little for material wealth and are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering their treasure."
+								"Piccoli chiostri murati punteggiano i paesaggi dei mondi di D&D, minuscoli rifugi dal flusso della vita ordinaria, dove il tempo sembra essersi fermato. I monaci che vi abitano ricercano la perfezione personale attraverso la contemplazione e una formazione rigorosa. Molti entrarono nel monastero da bambini, mandati a vivere lì alla morte dei genitori, quando non si riusciva a trovare cibo per sostenerli, o in cambio di qualche gentilezza che i monaci avevano compiuto nei confronti delle loro famiglie.",
+								"Alcuni monaci vivono completamente separati dalla popolazione circostante, isolati da tutto ciò che potrebbe ostacolare il loro progresso spirituale. Altri hanno giurato isolamento, emergendo solo per servire come spie o assassini al comando del loro leader, di un nobile mecenate o di qualche altro potere mortale o divino.",
+								"La maggior parte dei monaci non evita i propri vicini, facendo frequenti visite alle città o ai villaggi vicini e scambiando il proprio servizio con cibo e altri beni. Essendo guerrieri versatili, i monaci spesso finiscono per proteggere i loro vicini da mostri o tiranni.",
+								"Per un monaco, diventare un avventuriero significa abbandonare uno stile di vita strutturato e comunitario per diventare un vagabondo. Questa può essere una transizione dura e i monaci non la intraprendono alla leggera. Coloro che lasciano il chiostro prendono sul serio il proprio lavoro, affrontando le avventure come prove personali della propria crescita fisica e spirituale. Di norma, i monaci si preoccupano poco della ricchezza materiale e sono guidati dal desiderio di compiere una missione più grande del semplice uccidere mostri e saccheggiare i loro tesori."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Creating a Monk",
 							"entries": [
-								"As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?",
-								"Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?",
-								"As a result of the structured life of a monastic community and the discipline required to harness ki, monks are almost always lawful in alignment.",
+								"Mentre crei il tuo personaggio da monaco, pensa al tuo legame con il monastero in cui hai appreso le tue abilità e hai trascorso i tuoi anni formativi. Eri un orfano o un bambino abbandonato sulla soglia del monastero? I tuoi genitori ti hanno promesso al monastero in segno di gratitudine per un servizio svolto dai monaci? Sei entrato in questa vita appartata per nasconderti da un crimine che hai commesso? Oppure hai scelto tu stesso la vita monastica?",
+								"Considera il motivo per cui te ne sei andato. Il capo del tuo monastero ti ha scelto per una missione particolarmente importante oltre la clausura? Forse sei stato espulso a causa di qualche violazione delle regole della comunità. Avevi paura di andartene o eri felice di andartene? C'è qualcosa che speri di realizzare fuori dal monastero? Non vedi l'ora di tornare a casa tua?",
+								"Come risultato della vita strutturata di una comunità monastica e della disciplina richiesta per imbrigliare il ki, i monaci hanno quasi sempre un allineamento legale.",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the {@background hermit} background."
+										"Puoi creare un monaco velocemente seguendo questi suggerimenti. Innanzitutto, rendi la Destrezza il tuo punteggio di abilità più alto, seguito da Saggezza. In secondo luogo, scegli lo sfondo {@background hermit}."
 									]
 								}
 							]
@@ -55,18 +55,18 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Do not mistake my silence for acceptance of your villainy. While you blustered and threatened, I've planned four different ways to snap your neck with my bare hands."
+								"Non confondere il mio silenzio con l'accettazione della tua malvagità. Mentre ti agitavi e minacciavi, ho pensato a quattro modi diversi per spezzarti il ​​collo a mani nude."
 							],
 							"by": "Ember, grand master of flowers"
 						},
-						"Monks walk a path of contradiction. They study their art as a wizard does, and like a wizard, they wear no armor and typically eschew weapons. Yet they are deadly combatants, their abilities on a par with those of a raging barbarian or a superbly trained fighter. Monks embrace this seeming contradiction, for it speaks to the core of all monastic study. By coming to know oneself completely, one learns much of the wider world.",
-						"A monk's focus on inner mastery leads many such individuals to become detached from society, more concerned with their personal experience than with happenings elsewhere. Adventuring monks are a rare breed of an already rare type of character, taking their quest for perfection beyond the walls of the monastery into the world at large.",
-						"Playing a monk character offers many intriguing opportunities to try something different. To distinguish your monk character even further, consider the options in the sections that follow.",
+						"I monaci percorrono un cammino di contraddizioni. Studiano la loro arte come fa un mago e, come un mago, non indossano armature e in genere evitano le armi. Eppure sono combattenti letali, le loro abilità sono paragonabili a quelle di un barbaro furioso o di un combattente superbamente addestrato. I monaci abbracciano questa apparente contraddizione, perché parla al nocciolo di tutto lo studio monastico. Arrivando a conoscere se stessi completamente, si impara molto del mondo più ampio.",
+						"L'attenzione di un monaco alla maestria interiore porta molti di questi individui a distaccarsi dalla società, più interessati alla propria esperienza personale che a quanto accade altrove. I monaci avventurieri sono una razza rara di un tipo di carattere già raro, che porta la sua ricerca della perfezione oltre le mura del monastero nel mondo in generale.",
+						"Interpretare un personaggio monaco offre molte opportunità intriganti per provare qualcosa di diverso. Per distinguere ancora di più il tuo personaggio da monaco, considera le opzioni nelle sezioni che seguono.",
 						{
 							"type": "quote",
 							"entries": [
-								"I bet I could be a monk if I wanted.",
-								"What? Why are you laughing?"
+								"Scommetto che potrei diventare monaco, se lo volessi.",
+								"Che cosa? Perché ridi?"
 							],
 							"by": "Xanathar"
 						},
@@ -74,8 +74,8 @@
 							"type": "entries",
 							"name": "Monastery",
 							"entries": [
-								"A monk studies in a monastery in preparation for a life of asceticism. Most of those who enter a monastery make it their home for the rest of their lives, with the exception of adventurers and others who have reason to leave. For those individuals, a monastery might serve as a refuge between excursions to the world or as a source of support in times of need.",
-								"What sort of place was your monastery, and where is it located? Did attending it contribute to your experience in an unusual or distinctive way?",
+								"Un monaco studia in un monastero in preparazione ad una vita di ascetismo. La maggior parte di coloro che entrano in un monastero ne fanno la propria casa per il resto della vita, ad eccezione degli avventurieri e di altri che hanno motivo di andarsene. Per questi individui, un monastero potrebbe servire come rifugio tra un’escursione nel mondo e l’altra come fonte di sostegno nei momenti di bisogno.",
+								"Che tipo di posto era il tuo monastero e dove si trova? Partecipare ha contribuito alla tua esperienza in modo insolito o distintivo?",
 								{
 									"type": "table",
 									"caption": "Monastery",
@@ -95,7 +95,7 @@
 													"exact": 1
 												}
 											},
-											"Your monastery is carved out of a mountainside, where it looms over a treacherous pass."
+											"Il tuo monastero è scavato nel fianco di una montagna, dove incombe su un passo insidioso."
 										],
 										[
 											{
@@ -104,7 +104,7 @@
 													"exact": 2
 												}
 											},
-											"Your monastery is high in the branches of an immense tree in the Feywild."
+											"Il tuo monastero è in alto tra i rami di un immenso albero nella Selva dei Folletti."
 										],
 										[
 											{
@@ -113,7 +113,7 @@
 													"exact": 3
 												}
 											},
-											"Your monastery was founded long ago by a cloud giant and is inside a cloud castle that can be reached only by flying."
+											"Il tuo monastero è stato fondato molto tempo fa da un gigante delle nuvole e si trova all'interno di un castello tra le nuvole che può essere raggiunto solo volando."
 										],
 										[
 											{
@@ -122,7 +122,7 @@
 													"exact": 4
 												}
 											},
-											"Your monastery is built beside a volcanic system of hot springs, geysers, and sulfur pools. You regularly received visits from azer traders."
+											"Il tuo monastero è costruito accanto a un sistema vulcanico di sorgenti termali, geyser e pozze di zolfo. Hai ricevuto regolarmente visite da commercianti azer."
 										],
 										[
 											{
@@ -131,7 +131,7 @@
 													"exact": 5
 												}
 											},
-											"Your monastery was founded by gnomes and is an underground labyrinth of tunnels and rooms."
+											"Il tuo monastero è stato fondato dagli gnomi ed è un labirinto sotterraneo di tunnel e stanze."
 										],
 										[
 											{
@@ -140,7 +140,7 @@
 													"exact": 6
 												}
 											},
-											"Your monastery was carved from an iceberg in the frozen reaches of the world."
+											"Il tuo monastero è stato ricavato da un iceberg nelle distese ghiacciate del mondo."
 										]
 									]
 								}
@@ -150,8 +150,8 @@
 							"type": "entries",
 							"name": "Icon",
 							"entries": [
-								"Even in the monastic lifestyle, which eschews materialism and personal possessions, symbolism plays an important part in defining the identity of an order. Some monastic orders treat certain creatures with special regard, either because the creature is tied to the order's history or because it serves as an example of a quality the monks seek to emulate.",
-								"If your character's monastery had a special icon, you might wear a crude image of the creature somewhere inconspicuous on your clothing to serve as an identifying mark. Or perhaps your order's icon does not have a physical form but is expressed through a gesture or a posture that you adopt, and which other monks might know how to interpret.",
+								"Anche nello stile di vita monastico, che rifugge il materialismo e i beni personali, il simbolismo gioca un ruolo importante nel definire l’identità di un ordine. Alcuni ordini monastici trattano determinate creature con particolare riguardo, sia perché la creatura è legata alla storia dell'ordine sia perché serve come esempio di una qualità che i monaci cercano di emulare.",
+								"Se il monastero del tuo personaggio avesse un'icona speciale, potresti indossare un'immagine grezza della creatura in un posto poco appariscente sui tuoi vestiti per fungere da segno identificativo. O forse l'icona del tuo ordine non ha una forma fisica ma si esprime attraverso un gesto o una postura che adotti e che altri monaci forse sanno interpretare.",
 								{
 									"type": "table",
 									"caption": "Icon",
@@ -171,7 +171,7 @@
 													"exact": 1
 												}
 											},
-											"Monkey. Quick reflexes and the ability to travel through the treetops are two of the reasons why your order admires the monkey."
+											"Scimmia. I riflessi rapidi e la capacità di viaggiare tra le cime degli alberi sono due dei motivi per cui il tuo ordine ammira la scimmia."
 										],
 										[
 											{
@@ -180,7 +180,7 @@
 													"exact": 2
 												}
 											},
-											"Dragon Turtle. The monks of your seaside monastery venerate the dragon turtle, reciting ancient prayers and offering garlands of flowers to honor this living spirit of the sea."
+											"Tartaruga Drago. I monaci del tuo monastero sul mare venerano la tartaruga drago, recitando antiche preghiere e offrendo ghirlande di fiori per onorare questo spirito vivente del mare."
 										],
 										[
 											{
@@ -189,7 +189,7 @@
 													"exact": 3
 												}
 											},
-											"Ki-rin. Your monastery sees its main purpose as watching over and protecting the land in the manner of the ki-rin."
+											"Ki-rin. Il tuo monastero considera il suo scopo principale quello di vigilare e proteggere la terra alla maniera del Ki-rin."
 										],
 										[
 											{
@@ -198,7 +198,7 @@
 													"exact": 4
 												}
 											},
-											"Owlbear. The monks of your monastery revere a family of owlbears and have coexisted with them for generations."
+											"Orsogufo. I monaci del tuo monastero venerano una famiglia di orsigufo e convivono con loro da generazioni."
 										],
 										[
 											{
@@ -207,7 +207,7 @@
 													"exact": 5
 												}
 											},
-											"Hydra. Your order singles out the hydra for its ability to unleash several attacks simultaneously."
+											"Idra. Il tuo ordine individua l'idra per la sua capacità di scatenare diversi attacchi contemporaneamente."
 										],
 										[
 											{
@@ -216,7 +216,7 @@
 													"exact": 6
 												}
 											},
-											"Dragon. A dragon once laired within your monastery. Its influence remains long after its departure."
+											"Drago. Un drago una volta covava nel tuo monastero. La sua influenza rimane molto tempo dopo la sua partenza."
 										]
 									]
 								}
@@ -226,7 +226,7 @@
 							"type": "entries",
 							"name": "Master",
 							"entries": [
-								"During your studies, you were likely under the tutelage of a master who imparted to you the precepts of the order. Your master was the one most responsible for shaping your understanding of the martial arts and your attitude toward the world. What sort of person was your master, and how did your relationship with your master affect you?",
+								"Durante i tuoi studi sei stato probabilmente sotto la tutela di un maestro che ti ha impartito i precetti dell'ordine. Il tuo maestro è stato il più responsabile nel plasmare la tua comprensione delle arti marziali e il tuo atteggiamento verso il mondo. Che tipo di persona era il tuo maestro e come ti ha influenzato il rapporto con il tuo maestro?",
 								{
 									"type": "table",
 									"caption": "Master",
@@ -246,7 +246,7 @@
 													"exact": 1
 												}
 											},
-											"Your master was a tyrant whom you had to defeat in single combat to complete your instruction."
+											"Il tuo padrone era un tiranno che dovevi sconfiggere in un combattimento singolo per completare la tua istruzione."
 										],
 										[
 											{
@@ -255,7 +255,7 @@
 													"exact": 2
 												}
 											},
-											"Your master was kindly and taught you to pursue the cause of peace."
+											"Il tuo maestro è stato gentile e ti ha insegnato a perseguire la causa della pace."
 										],
 										[
 											{
@@ -264,7 +264,7 @@
 													"exact": 3
 												}
 											},
-											"Your master was merciless in pushing you to your limits. You nearly lost an eye during one especially brutal practice session."
+											"Il tuo padrone è stato spietato nel spingerti oltre i tuoi limiti. Hai quasi perso un occhio durante una sessione di prove particolarmente brutale."
 										],
 										[
 											{
@@ -273,7 +273,7 @@
 													"exact": 4
 												}
 											},
-											"Your master seemed goodhearted while tutoring you, but betrayed your monastery in the end."
+											"Il tuo maestro sembrava di buon cuore mentre ti istruiva, ma alla fine ha tradito il tuo monastero."
 										],
 										[
 											{
@@ -282,7 +282,7 @@
 													"exact": 5
 												}
 											},
-											"Your master was cold and distant. You suspect that the two of you might be related."
+											"Il tuo padrone era freddo e distante. Sospetti che voi due potreste essere imparentati."
 										],
 										[
 											{
@@ -291,7 +291,7 @@
 													"exact": 6
 												}
 											},
-											"Your master was kind and generous, never critical of your progress. Nevertheless, you feel you never fully lived up to the expectations placed on you."
+											"Il tuo maestro è stato gentile e generoso, mai critico nei confronti dei tuoi progressi. Tuttavia, senti di non essere mai stato pienamente all’altezza delle aspettative riposte su di te."
 										]
 									]
 								}
@@ -324,10 +324,10 @@
 					"source": "XPHB",
 					"page": 100,
 					"entries": [
-						"Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.",
-						"Monks focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk's hands, even the most basic weapons can become sophisticated implements of combat mastery.",
-						"Many Monks find that a structured life of ascetic withdrawal helps them cultivate the physical and mental focus they need to harness their power. Other Monks believe that immersing themselves in the vibrant confusion of life helps to fuel their determination and discipline.",
-						"Monks generally view adventures as tests of their physical and mental development. They are driven by a desire to accomplish a greater mission than merely slaying monsters and plundering treasure; they strive to turn themselves into living weapons."
+						"I monaci utilizzano un rigoroso addestramento al combattimento e una disciplina mentale per allinearsi con il multiverso e concentrare le proprie riserve interne di potere. Diversi monaci concettualizzano questo potere in vari modi: come respiro, energia, forza vitale, essenza o sé, per esempio. Sia che venga incanalato come una straordinaria dimostrazione di abilità marziale o come una manifestazione più sottile di difesa e velocità, questo potere infonde tutto ciò che fa un Mistico.",
+						"I monaci concentrano il loro potere interno per creare effetti straordinari, persino soprannaturali. Incanalano una velocità e una forza straordinarie nei loro attacchi, con o senza l'uso delle armi. Nelle mani di un Monaco, anche le armi più elementari possono diventare sofisticati strumenti di maestria nel combattimento.",
+						"Molti monaci ritengono che una vita strutturata di ritiro ascetico li aiuti a coltivare la concentrazione fisica e mentale di cui hanno bisogno per sfruttare il proprio potere. Altri monaci credono che immergersi nella vibrante confusione della vita aiuti ad alimentare la loro determinazione e disciplina.",
+						"I monaci generalmente vedono le avventure come prove del loro sviluppo fisico e mentale. Sono guidati dal desiderio di compiere una missione più grande del semplice uccidere mostri e saccheggiare tesori; si sforzano di trasformarsi in armi viventi."
 					]
 				}
 			],
@@ -356,7 +356,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"Why did the samurai cross the road?... Now you say \"Why?\"... Okay, here's the joke part: I kensei. Get it? What? Why aren't you laughing? The joke is solid gold, and my delivery was perfect. Maybe you didn't get it because you're stupid."
+						"Perché il samurai ha attraversato la strada?... Ora dici \"Perché?\"... Ok, ecco la parte scherzosa: I kensei. Prendilo? Che cosa? Perché non ridi? Lo scherzo è d'oro massiccio e la mia consegna è stata perfetta. Forse non l'hai capito perché sei stupido."
 					],
 					"by": "Xanathar"
 				}
@@ -372,7 +372,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"So you have this soul, but you can't see it or touch it. And when you die, this invisible thing leaves your body and goes to a place you can't see. And you people think I'm crazy?"
+						"Quindi hai quest'anima, ma non puoi vederla né toccarla. E quando muori, questa cosa invisibile lascia il tuo corpo e va in un posto che non puoi vedere. E voi pensate che io sia pazzo?"
 					],
 					"by": "Xanathar"
 				}

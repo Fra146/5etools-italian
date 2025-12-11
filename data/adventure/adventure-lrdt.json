@@ -5,10 +5,10 @@
 			"name": "Dungeons & Dragons: Red Dragon's Tale",
 			"page": 4,
 			"entries": [
-				"Dungeons & Dragons: Red Dragon's Tale is an adventure that accompanies the LEGO® Ideas set of the same name",
-				"To play this adventure, you need one person to be the Dungeon Master and up to four other people to play the heroes, referred to hereafter as the Player Characters. Together, you build the LEGO Ideas set as you play through the adventure.",
-				"If you're the Dungeon Master, read the boxed text in the \"About the Heroes\" section to the other players, then review the \"Running the Adventure\" section.",
-				"If you're not the Dungeon Master, choose a Player Character from the options listed in the table below. Each Player Character comes with a LEGO minifigure, several minifigure accessories, and a Character Sheet that provides more information about the character.",
+				"Dungeons & Dragons: Red Dragon's Tale è un'avventura che accompagna il set LEGO® Ideas con lo stesso nome",
+				"Per giocare a quest'avventura, hai bisogno che una persona sia il Dungeon Master e fino a quattro altre persone interpretino gli eroi, da qui in poi indicati come Personaggi Giocanti. Insieme costruisci il set LEGO Ideas mentre giochi l'avventura.",
+				"Se sei il Dungeon Master, leggi il testo nel riquadro nella sezione \"Informazioni sugli eroi\" agli altri giocatori, quindi rivedi la sezione \"Correre l'avventura\".",
+				"Se non sei il Dungeon Master, scegli un personaggio giocante dalle opzioni elencate nella tabella seguente. Ogni personaggio giocante viene fornito con una minifigure LEGO, diversi accessori per minifigure e una scheda del personaggio che fornisce ulteriori informazioni sul personaggio.",
 				{
 					"type": "table",
 					"caption": "Player Characters",
@@ -25,27 +25,27 @@
 					"rows": [
 						[
 							"{@5etoolsImg Dwarf Cleric|pdf/LRDT/Dwarf Cleric.pdf}",
-							"Brave protector and healer",
-							"Armor, Holy Symbol, Warhammer"
+							"Protettore e guaritore coraggioso",
+							"Armatura, simbolo sacro, martello da guerra"
 						],
 						[
 							"{@5etoolsImg Elf Wizard|pdf/LRDT/Elf Wizard.pdf}",
-							"Versatile magic-user",
-							"Arcane Focus (Rod), Spellbook, 3 Spell Scrolls (Invisibility, Mage Armor, and Magic Missile)"
+							"Utilizzatore di magia versatile",
+							"Focus arcano (asta), libro degli incantesimi, 3 pergamene degli incantesimi (invisibilità, armatura magica e missile magico)"
 						],
 						[
 							"{@5etoolsImg Gnome Fighter|pdf/LRDT/Gnome Fighter.pdf}",
-							"Stalwart warrior",
-							"Armor, Longsword, Shield, Shortsword"
+							"Guerriero coraggioso",
+							"Armatura, spada lunga, scudo, spada corta"
 						],
 						[
 							"{@5etoolsImg Orc Rogue|pdf/LRDT/Orc Rogue.pdf}",
-							"Sneaky and cunning expert",
-							"Cape, 2 Daggers, Light Crossbow"
+							"Esperto subdolo e astuto",
+							"Mantello, 2 pugnali, balestra leggera"
 						]
 					]
 				},
-				"The rest of this book is for the Dungeon Master's eyes only. If you're not the Dungeon Master, stop reading now!",
+				"Il resto di questo libro è riservato agli occhi del Dungeon Master. Se non sei il Dungeon Master, smetti di leggere adesso!",
 				{
 					"type": "section",
 					"name": "About the Heroes",
@@ -62,17 +62,17 @@
 											"name": "Greetings, Dungeon Master",
 											"page": 4,
 											"entries": [
-												"Before running the adventure, make sure the other players have each chosen a Player Character (Dwarf Cleric, Elf Wizard, Gnome Fighter, or Orc Rogue) and equipped their LEGO characters with the starting equipment noted in the Player Characters table.",
-												"Ask each player to give their character a name. Once all the Player Characters have names, read the following boxed text to the other players:",
+												"Prima di iniziare l'avventura, assicurati che gli altri giocatori abbiano scelto ciascuno un personaggio giocante (Chierico Nano, Mago Elfo, Guerriero Gnomo o Ladro Orco) e abbiano equipaggiato i loro personaggi LEGO con l'equipaggiamento iniziale indicato nella tabella Personaggi Giocanti.",
+												"Chiedi a ogni giocatore di dare un nome al proprio personaggio. Una volta che tutti i personaggi giocanti hanno un nome, leggi il seguente testo nel riquadro agli altri giocatori:",
 												{
 													"type": "inset",
 													"page": 4,
 													"entries": [
-														"During the adventure, when I ask you what you want your character to do, keep the following things in mind:",
-														"The {@5etoolsImg Dwarf Cleric|pdf/LRDT/Dwarf Cleric.pdf} wears good armor, wields an impressive weapon, and channels both helpful and harmful magic through a holy symbol that embodies their faith.",
-														"The {@5etoolsImg Elf Wizard|pdf/LRDT/Elf Wizard.pdf} knows many spells, including ones that create fireballs, turn creatures {@condition invisible}, and dispel other magical effects. The wizard can also identify magic items.",
-														"The {@5etoolsImg Gnome Fighter|pdf/LRDT/Gnome Fighter.pdf} is strong, athletic, well-armored, skilled with weapons, and able to take a lot of punishment.",
-														"The {@5etoolsImg Orc Rogue|pdf/LRDT/Orc Rogue.pdf} can be quiet, sneakily attack enemies who aren't looking, climb walls, pick locks, and disarm traps."
+														"Durante l'avventura, quando ti chiedo cosa vuoi che faccia il tuo personaggio, tieni a mente le seguenti cose:",
+														"Il {@5etoolsImg Dwarf Cleric|pdf/LRDT/Dwarf Cleric.pdf} indossa una buona armatura, brandisce un'arma impressionante e canalizza la magia sia utile che dannosa attraverso un simbolo sacro che incarna la loro fede.",
+														"Il {@5etoolsImg Elf Wizard|pdf/LRDT/Elf Wizard.pdf} conosce molti incantesimi, compresi quelli che creano palle di fuoco, trasformano creature {@condition invisible} e dissolvono altri effetti magici. Il mago può anche identificare gli oggetti magici.",
+														"Il {@5etoolsImg Gnome Fighter|pdf/LRDT/Gnome Fighter.pdf} è forte, atletico, ben corazzato, abile con le armi e capace di sopportare molte punizioni.",
+														"Il {@5etoolsImg Orc Rogue|pdf/LRDT/Orc Rogue.pdf} può restare silenzioso, attaccare furtivamente i nemici che non guardano, arrampicarsi sui muri, scassinare serrature e disarmare trappole."
 													],
 													"id": "005"
 												}
@@ -93,7 +93,7 @@
 					"name": "Running the Adventure",
 					"page": 4,
 					"entries": [
-						"You can run this adventure in one of two ways:",
+						"Puoi eseguire questa avventura in due modi:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -102,14 +102,14 @@
 									"type": "item",
 									"name": "Using D&D Rules",
 									"entries": [
-										"If you and the other players are familiar with the Dungeons & Dragons roleplaying game, you can run this adventure with the help of the fifth edition D&D core rulebooks ({@book Player's Handbook|PHB}, {@book Dungeon Master's Guide|PHB}, and {@book Monster Manual|MM}). In addition to rules, these books contain descriptions of the creatures, spells, and items that appear in this adventure."
+										"Se tu e gli altri giocatori avete familiarità con il gioco di ruolo Dungeons & Dragons, potete vivere quest'avventura con l'aiuto dei manuali base di D&D della quinta edizione ({@book Player's Handbook|PHB}, {@book Dungeon Master's Guide|PHB} e {@book Monster Manual|MM}). Oltre alle regole, questi libri contengono le descrizioni delle creature, degli incantesimi e degli oggetti che compaiono in quest'avventura."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Without D&D Rules",
 									"entries": [
-										"If you or your players haven't played Dungeons & Dragons before, you can run this adventure as a storytelling experience without D&D rules. The \"Without D&D Rules\" section at the end of the adventure tells you how."
+										"Se tu o i tuoi giocatori non avete mai giocato a Dungeons & Dragons, potete vivere quest'avventura come un'esperienza narrativa senza le regole di D&D. La sezione \"Senza regole di D&D\" alla fine dell'avventura ti spiega come."
 									]
 								}
 							]
@@ -122,8 +122,8 @@
 					"name": "Adventure Overview",
 					"page": 4,
 					"entries": [
-						"The adventure takes place amid the ruins of a stone tower located near a dusty road. This tower is home to a famous inn called the Inn Plain Sight. Travelers rave about the inn's food, especially the hot wings.",
-						"The \"Sorcerer's Scheme\" section below provides an overview of the villainous plot that sets the adventure in motion. The \"Adventure Progression\" section summarizes how events are likely to proceed once the Player Characters get involved. The remainder of the adventure is divided into six scenes. Each scene uses different elements of the LEGO Ideas set, describes important features in particular locations, and explains how creatures in each location behave.",
+						"L'avventura si svolge tra le rovine di una torre di pietra situata vicino ad una strada polverosa. Questa torre ospita una famosa locanda chiamata Inn Plain Sight. I viaggiatori adorano il cibo della locanda, in particolare le ali piccanti.",
+						"La sezione \"Piano dello stregone\" di seguito fornisce una panoramica del malvagio complotto che mette in moto l'avventura. La sezione \"Progressione dell'avventura\" riassume il probabile svolgimento degli eventi una volta coinvolti i personaggi giocanti. Il resto dell'avventura è diviso in sei scene. Ogni scena utilizza diversi elementi del set LEGO Ideas, descrive caratteristiche importanti in luoghi particolari e spiega come si comportano le creature in ogni luogo.",
 						{
 							"type": "entries",
 							"entries": [
@@ -132,10 +132,10 @@
 									"name": "Sorcerer's Scheme",
 									"page": 4,
 									"entries": [
-										"{@creature Ervan Soulfallen|LRDT}, an evil sorcerer with a foul reputation, sought to obtain an egg from a red dragon. Wearing a magical disguise, Ervan traveled to the Inn Plain Sight, a roadside inn attached to a crumbling stone tower. Not too far from the ruined tower is a mountain where a red dragon named Cinderhowl dwells.",
-										"After imprisoning the innkeeper in the tower's dungeon, Ervan took over the inn under an assumed name: Merry Rumwell. A few days later, a group of adventurers called the Hard Way arrived at the inn. Ervan hired them to steal one of Cinderhowl's eggs, promising gold and free hot wings in return. When the adventurers delivered the egg to Ervan as planned, he betrayed them. He slew them with magic and hid their remains in the basement of the tower.",
-										"Expecting the egg's theft to infuriate Cinderhowl, Ervan chose to remain at the inn, out of the dragon's sight. He has hidden the egg and hopes it will hatch soon. Once the egg hatches, Ervan plans to train the dragon wyrmling to do his evil bidding.",
-										"The adventure begins when the Player Characters arrive at the inn unexpectedly, unaware that an evil sorcerer resides there in the guise of the innkeeper."
+										"{@creature Ervan Soulfallen|LRDT}, uno stregone malvagio con una cattiva reputazione, ha cercato di ottenere un uovo da un drago rosso. Indossando un travestimento magico, Ervan si recò alla Inn Plain Sight, una locanda lungo la strada attaccata a una torre di pietra fatiscente. Non troppo lontano dalla torre in rovina c'è una montagna dove dimora un drago rosso chiamato Cinderhowl.",
+										"Dopo aver imprigionato il locandiere nelle segrete della torre, Ervan prese il controllo della locanda sotto falso nome: Merry Rumwell. Pochi giorni dopo, un gruppo di avventurieri chiamato Hard Way arrivò alla locanda. Ervan li assunse per rubare una delle uova di Cinderhowl, promettendo in cambio oro e ali calde gratuite. Quando gli avventurieri consegnarono l'uovo a Ervan come previsto, lui li tradì. Li uccise con la magia e nascose i loro resti nel seminterrato della torre.",
+										"Aspettandosi che il furto dell'uovo facesse infuriare Cinderhowl, Ervan scelse di rimanere alla locanda, lontano dalla vista del drago. Ha nascosto l'uovo e spera che si schiuda presto. Una volta che l'uovo si schiude, Ervan intende addestrare il drago a eseguire i suoi malvagi ordini.",
+										"L'avventura inizia quando i Personaggi Giocanti arrivano inaspettatamente alla locanda, ignari che lì risiede un malvagio stregone sotto le spoglie del locandiere."
 									],
 									"id": "009"
 								},
@@ -144,7 +144,7 @@
 									"name": "Adventure Progression",
 									"page": 4,
 									"entries": [
-										"The adventure progresses from one scene to another. Each scene has opportunities for exploration, social interaction, and combat:",
+										"L'avventura procede da una scena all'altra. Ogni scena offre opportunità di esplorazione, interazione sociale e combattimento:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -153,42 +153,42 @@
 													"type": "item",
 													"name": "Scene 1: Inn Plain Sight",
 													"entries": [
-														"The Player Characters meet Merry Rumwell, the supposed proprietor of the Inn Plain Sight, who offers them hot wings. A search of the inn reveals all is not what it seems."
+														"I personaggi giocanti incontrano Merry Rumwell, il presunto proprietario della locanda Plain Sight, che offre loro delle ali piccanti. Una perquisizione della locanda rivela che non tutto è quello che sembra."
 													]
 												},
 												{
 													"type": "item",
 													"name": "Scene 2: The Meadow",
 													"entries": [
-														"The inn is connected to a crumbling stone tower surrounded by a small meadow. Exploring the meadow uncovers a talking tree and more clues."
+														"La locanda è collegata ad una torre in pietra fatiscente circondata da un piccolo prato. Esplorando il prato si scopre un albero parlante e altri indizi."
 													]
 												},
 												{
 													"type": "item",
 													"name": "Scene 3: The Dungeon",
 													"entries": [
-														"The real innkeeper, Alax Jadescales, is imprisoned in this dungeon. The dungeon is also home to several nasty Oozes. Alax is grateful to Player Characters who free the innkeeper."
+														"Il vero locandiere, Alax Jadescales, è imprigionato in questa prigione. Il dungeon ospita anche diverse malvagie Melme. Alax è grato ai Personaggi Giocanti che liberano il locandiere."
 													]
 												},
 												{
 													"type": "item",
 													"name": "Scene 4: The Basement",
 													"entries": [
-														"Player Characters who search the tower's basement disturb the restless bones of some unlucky adventurers. They also find Alax's missing pet: a displacer beast transformed by magic into a many-eyed monster called a beholder."
+														"I personaggi giocanti che perquisiscono il seminterrato della torre disturbano le ossa irrequiete di alcuni sfortunati avventurieri. Trovano anche l'animale domestico scomparso di Alax: una bestia disgregante trasformata dalla magia in un mostro dai molti occhi chiamato beholder."
 													]
 												},
 												{
 													"type": "item",
 													"name": "Scene 5: The Tower",
 													"entries": [
-														"The tower is where Ervan keeps the stolen dragon egg and his other prized possessions. Player Characters also encounter a deadly shrine in the tower."
+														"La torre è il luogo in cui Ervan conserva l'uovo di drago rubato e gli altri suoi beni preziosi. I personaggi giocanti incontrano anche un santuario mortale nella torre."
 													]
 												},
 												{
 													"type": "item",
 													"name": "Scene 6: The Dragon",
 													"entries": [
-														"Cinderhowl the red dragon arrives at the tower and accuses the Player Characters of stealing her egg, mistaking them for a different group of adventurers. Meanwhile, Ervan tries to neutralize the dragon using magic. The Player Characters must survive the dragon and defeat the evil sorcerer to win the day."
+														"Cinderhowl, il drago rosso, arriva alla torre e accusa i personaggi giocanti di aver rubato il suo uovo, scambiandoli per un diverso gruppo di avventurieri. Nel frattempo, Ervan cerca di neutralizzare il drago usando la magia. I personaggi giocanti devono sopravvivere al drago e sconfiggere il malvagio stregone per vincere."
 													]
 												}
 											]
@@ -210,34 +210,34 @@
 			"name": "Scene 1: Inn Plain Sight",
 			"page": 5,
 			"entries": [
-				"Complete assembly of the Inn Plain Sight before running this part of the adventure. Read the following aloud to set the scene:",
+				"Completa l'assemblaggio della Inn Plain Sight prima di eseguire questa parte dell'avventura. Leggi quanto segue ad alta voce per ambientare la scena:",
 				{
 					"type": "inset",
 					"page": 5,
 					"entries": [
-						"After a long day on the road, you come to an inn built into the remains of a crumbling stone tower. The Inn Plain Sight smells of delicious hot wings. It's said that the proprietor, Alax Jadescales, makes them fresh to order.",
-						"Peering inside, you see that the inn is empty."
+						"Dopo una lunga giornata sulla strada, arrivi ad una locanda costruita sui resti di una torre di pietra fatiscente. L'Inn Plain Sight profuma di deliziose ali calde. Si dice che il proprietario, Alax Jadescales, li prepari freschi su ordinazione.",
+						"Sbirciando dentro, vedi che la locanda è vuota."
 					],
 					"id": "00c"
 				},
-				"The inn has a ground floor and an upper floor.",
+				"La locanda ha un piano terra e un piano superiore.",
 				{
 					"type": "entries",
 					"name": "Ground Floor",
 					"page": 5,
 					"entries": [
-						"If one or more Player Characters explore the barroom on the ground floor, read the following aloud:",
+						"Se uno o più Personaggi Giocanti esplorano il bar al piano terra, leggi ad alta voce quanto segue:",
 						{
 							"type": "inset",
 							"page": 5,
 							"entries": [
-								"The door to the back room swings open, and an innkeeper comes out to greet you. \"Oh, I'm afraid you've come at a bad time! We're closed for renovations. But I'll be happy to make you some hot wings to help you on your journey.\""
+								"La porta della stanza sul retro si apre e un locandiere esce per salutarti. \"Oh, temo che tu sia arrivato in un brutto momento! Siamo chiusi per lavori di ristrutturazione. Ma sarò felice di prepararti delle ali piccanti per aiutarti nel tuo viaggio.\""
 							],
 							"id": "00e"
 						},
-						"The innkeeper, who introduces himself as Merry Rumwell, is actually the sorcerer Ervan Soulfallen in disguise. Merry doesn't want any guests right now and will say almost anything to get rid of the Player Characters. He tells them that he bought the inn from Alax Jadescales, who retired not too long ago, and that much work needs to be done before the inn is fit for guests. He's lying about Alax and the renovations; a search of the inn yields no evidence of construction work or remodeling.",
-						"If the Player Characters want to look around, Merry doesn't protest; in fact, he's happy to let the monsters in the bedroom take care of them (see \"Upper Floor\" below).",
-						"If attacked, Merry casts a spell ({@spell Dimension Door}) and disappears. He reappears in his workshop, which the Player Characters explore in scene 5."
+						"Il locandiere, che si presenta come Merry Rumwell, è in realtà lo stregone Ervan Soulfallen sotto mentite spoglie. Merry non vuole ospiti in questo momento e dirà quasi qualsiasi cosa pur di sbarazzarsi dei Personaggi Giocanti. Dice loro che ha comprato la locanda da Alax Jadescales, che è andato in pensione non molto tempo fa, e che c'è molto lavoro da fare prima che la locanda sia adatta agli ospiti. Sta mentendo su Alax e sui lavori di ristrutturazione; una perquisizione nella locanda non ha prodotto prove di lavori di costruzione o ristrutturazione.",
+						"Se i Personaggi Giocanti vogliono guardarsi intorno, Merry non protesta; infatti, è felice di lasciare che i mostri nella camera da letto si prendano cura di loro (vedi \"Piano superiore\" di seguito).",
+						"Se attaccato, Merry lancia un incantesimo ({@spell Dimension Door}) e scompare. Riappare nel suo laboratorio, che i Personaggi Giocanti esplorano nella scena 5."
 					],
 					"id": "00d"
 				},
@@ -246,7 +246,7 @@
 					"name": "Hot Wings",
 					"page": 5,
 					"entries": [
-						"If the Player Characters accept Merry's offer of free hot wings, they can wait in the barroom or explore other parts of the inn while Merry prepares the order. Play up how good the hot wings smell and taste!",
+						"Se i Personaggi Giocanti accettano l'offerta di Merry di ali piccanti gratuite, possono aspettare nel bar o esplorare altre parti della locanda mentre Merry prepara l'ordine. Scopri quanto sono buone l'odore e il sapore delle ali piccanti!",
 						{
 							"type": "image",
 							"href": {
@@ -256,13 +256,13 @@
 							"width": 744,
 							"height": 665
 						},
-						"Player Characters who spy on Merry discover that he doesn't cook the wings or make the sauce himself; he simply reheats wings that have already been prepared. Clearly, someone else did the hard work.",
+						"I personaggi giocanti che spiano Merry scoprono che non cucina le ali né prepara la salsa da solo; riscalda semplicemente le ali che sono già state preparate. Chiaramente, qualcun altro ha fatto il lavoro duro.",
 						{
 							"type": "entries",
 							"name": "Searching the Barroom",
 							"page": 5,
 							"entries": [
-								"A search of the barroom reveals the following:",
+								"Una perquisizione nel bar rivela quanto segue:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -271,28 +271,28 @@
 											"type": "item",
 											"name": "Carvings",
 											"entries": [
-												"Carved into the top of the bar are two phrases: \"The tree hides the way\" and \"Evil makes merry while good sleeps.\""
+												"Sulla parte superiore del bancone sono scolpite due frasi: \"L'albero nasconde la strada\" e \"Il male fa festa mentre il bene dorme\"."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Crates",
 											"entries": [
-												"Player Characters who look in the crates outside find a variety of dried chilies for making wing sauce, but no recipe."
+												"I personaggi giocanti che guardano nelle casse all'esterno trovano una varietà di peperoncini essiccati per preparare la salsa per le ali, ma nessuna ricetta."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Notice",
 											"entries": [
-												"Posted on the wall behind the bar is a notice for a lost pet that reads as follows: \"Missing cat. Large with black fur and tentacles. Answers to Pouncy. Loves milk. Please contact Alax Jadescales if found.\" Above this notice is a scrap of paper bearing a sketch of a red dragon's face accompanied by the words \"Symbol of the Cult of the Dragon.\""
+												"Affisso sul muro dietro il bancone c'è un avviso per un animale domestico smarrito che recita come segue: \"Gatto scomparso. Grande con pelliccia nera e tentacoli. Risposte a Pouncy. Ama il latte. Per favore contatta Alax Jadescales se trovato.\" Sopra questo avviso c'è un pezzo di carta con uno schizzo della faccia di un drago rosso accompagnato dalle parole \"Simbolo del culto del drago\"."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Plaque",
 											"entries": [
-												"Next to the \"Missing Cat\" notice is an \"Adventurers of the Month\" plaque bearing a rough sketch of some adventurers with the following caption: \"The Hard Way plundered the lair of the dragon Cinderhowl and returned alive!\""
+												"Accanto all'avviso \"Gatto scomparso\" c'è una targa \"Avventurieri del mese\" che riporta uno schizzo approssimativo di alcuni avventurieri con la seguente didascalia: \"The Hard Way ha saccheggiato la tana del drago Cinderhowl ed è tornato vivo!\""
 											]
 										}
 									]
@@ -305,7 +305,7 @@
 							"name": "Back Room",
 							"page": 5,
 							"entries": [
-								"In the back is a kitchen that's barely used. This room contains several jars of hot sauce; a barrel of cooked, magically preserved chicken wings; and a rack of ordinary items that belonged to victims of the mimics upstairs, including a battleaxe, a {@item lute|PHB}, a pike, and a rapier."
+								"Sul retro c'è una cucina poco utilizzata. Questa stanza contiene diversi barattoli di salsa piccante; un barile di ali di pollo cotte e magicamente conservate; e una serie di oggetti comuni appartenuti alle vittime dei mimic al piano di sopra, tra cui un'ascia da battaglia, un {@item lute|PHB}, una picca e uno stocco."
 							],
 							"id": "011"
 						}
@@ -317,12 +317,12 @@
 					"name": "Upper Floor",
 					"page": 5,
 					"entries": [
-						"If one or more Player Characters explore the bedroom on the upper floor, read the following aloud:",
+						"Se uno o più Personaggi Giocanti esplorano la camera da letto al piano superiore, leggi ad alta voce quanto segue:",
 						{
 							"type": "inset",
 							"page": 5,
 							"entries": [
-								"This room contains a bed and a closed chest. Mounted above the chest are three small pictures depicting a harp nestled between the horns of a crescent moon, a heroic portrait, and a mountain scene with a small plaque under it. Above the bed hangs a family portrait: two dragonborn parents with an unhatched egg. One proud parent has light-green scales; the other has golden scales."
+								"Questa stanza contiene un letto e una cassapanca chiusa. Sopra il petto sono montate tre piccole immagini raffiguranti un'arpa incastonata tra le corna di una falce di luna, un ritratto eroico e una scena di montagna con una piccola targa sotto. Sopra il letto è appeso un ritratto di famiglia: due genitori dragonidi con un uovo non schiuso. Un genitore orgoglioso ha scaglie verde chiaro; l'altro ha scaglie dorate."
 							],
 							"id": "013"
 						},
@@ -331,7 +331,7 @@
 							"name": "Closet",
 							"page": 5,
 							"entries": [
-								"The bedroom has a small closet where guests can store coats and the like. A bag lies on a shelf:",
+								"La camera da letto ha un piccolo armadio dove gli ospiti possono riporre cappotti e simili. Una borsa giace su uno scaffale:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -340,7 +340,7 @@
 											"type": "item",
 											"name": "Bag",
 											"entries": [
-												"This {@item Bag of Holding} contains mundane travel gear, such as a bedroll and edible dried rations."
+												"Questo {@item Bag of Holding} contiene attrezzatura da viaggio banale, come un sacco a pelo e razioni essiccate commestibili."
 											]
 										}
 									]
@@ -362,8 +362,8 @@
 									"width": 1031,
 									"height": 1040
 								},
-								"The bed and the trunk are two {@creature mimic||mimics} (see the {@book Monster Manual|MM} for their stat block). The mimics attack as soon as one of them is touched.",
-								"The mimics are lazy and hungry. Feeding them makes them friendly enough to stop attacking and answer simple questions. They know the following:",
+								"Il letto e il baule sono due {@creature mimic||mimics} (vedi {@book Monster Manual|MM} per il loro blocco delle statistiche). I mimic attaccano non appena uno di loro viene toccato.",
+								"I imitatori sono pigri e affamati. Dargli da mangiare li rende abbastanza amichevoli da smettere di attaccare e rispondere a semplici domande. Sanno quanto segue:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -372,14 +372,14 @@
 											"type": "item",
 											"name": "Merry the Innkeeper",
 											"entries": [
-												"When the mimics arrived at the inn a few weeks ago, Merry Rumwell invited them to stay. Merry feeds the mimics hot wings to keep them happy."
+												"Quando i Mimic arrivarono alla locanda qualche settimana fa, Merry Rumwell li invitò a restare. Merry dà da mangiare ai mimi delle ali calde per renderli felici."
 											]
 										},
 										{
 											"type": "item",
 											"name": "The Hard Way",
 											"entries": [
-												"A group of adventurers called the Hard Way visited the inn not too long ago. Merry hired them to find a dragon egg. (The mimics know nothing else about the adventurers or the egg.)"
+												"Un gruppo di avventurieri chiamati Hard Way ha visitato la locanda non molto tempo fa. Merry li ha assunti per trovare un uovo di drago. (I mimi non sanno altro né degli avventurieri né dell'uovo.)"
 											]
 										}
 									]
@@ -392,7 +392,7 @@
 							"name": "Merry Flees",
 							"page": 6,
 							"entries": [
-								"If he hasn't already fled the scene, Merry casts a spell ({@spell Dimension Door}) that magically transports him to his workshop as soon as he hears any commotion in the bedroom. Player Characters can explore the workshop in scene 5."
+								"Se non è già fuggito dalla scena, Merry lancia un incantesimo ({@spell Dimension Door}) che lo trasporta magicamente nel suo laboratorio non appena sente del trambusto in camera da letto. I personaggi giocanti possono esplorare il laboratorio nella scena 5."
 							],
 							"id": "016"
 						},
@@ -401,7 +401,7 @@
 							"name": "Pictures",
 							"page": 6,
 							"entries": [
-								"The pictures on the walls are described below:",
+								"Le immagini sulle pareti sono descritte di seguito:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -410,28 +410,28 @@
 											"type": "item",
 											"name": "Dragonborn Family",
 											"entries": [
-												"The figures in this portrait are Alax Jadescales's parents. The painting hides a crack in the wall through which Player Characters can peer into the dungeon (see scene 3), but the crack is too small for the characters to squeeze through."
+												"Le figure in questo ritratto sono i genitori di Alax Jadescales. Il dipinto nasconde una fessura nel muro attraverso la quale i Personaggi Giocanti possono sbirciare nel sotterraneo (vedi scena 3), ma la fessura è troppo piccola perché i personaggi possano passare."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Harp",
 											"entries": [
-												"The harp pictured here is the symbol of the Harpers, an organization dedicated to protecting the innocent from evildoers."
+												"L'arpa qui raffigurata è il simbolo degli Arpisti, un'organizzazione dedita alla protezione degli innocenti dai malfattori."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Heroic Portrait",
 											"entries": [
-												"This picture depicts a brave hero and Harper named Sir Lucas, who is a frequent guest."
+												"Questa immagine raffigura un coraggioso eroe e arpista di nome Sir Lucas, che è un ospite frequente."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Mountain Scene",
 											"entries": [
-												"This picture depicts a mountain range. The tiny plaque below it reads, \"The Spine of the World.\""
+												"Questa immagine raffigura una catena montuosa. La piccola targa sottostante recita: \"La spina dorsale del mondo\"."
 											]
 										}
 									]
@@ -450,16 +450,16 @@
 			"name": "Scene 2: The Meadow",
 			"page": 6,
 			"entries": [
-				"Make sure the Meadow is fully assembled before you run this part of the adventure, then read the following aloud to set the scene:",
+				"Assicurati che il prato sia completamente assemblato prima di iniziare questa parte dell'avventura, quindi leggi ad alta voce quanto segue per ambientare la scena:",
 				{
 					"type": "inset",
 					"page": 6,
 					"entries": [
-						"Spiky ivy grows up the side of the crumbled tower, which is surrounded by a lush meadow. Next to the tower is an enormous tree with rustling leaves. Mushrooms grow in the shade under a stone bridge, which bears a carving of a dragon's face. Prowling the meadow is an owlbear that walks on all fours. It's clear that the owlbear is hunting three big spiders that crawl through the tall grass."
+						"L'edera spinosa cresce sul lato della torre crollata, circondata da un prato rigoglioso. Accanto alla torre c'è un enorme albero dalle foglie fruscianti. I funghi crescono all'ombra sotto un ponte di pietra, sul quale è scolpita la faccia di un drago. Si aggira per il prato un orsogufo che cammina a quattro zampe. È chiaro che l'orsogufo sta dando la caccia a tre grossi ragni che strisciano nell'erba alta."
 					],
 					"id": "019"
 				},
-				"The dragon face carving on the bridge represents the Cult of the Dragon, suggesting this location was once used by members of that evil organization.",
+				"La faccia del drago scolpita sul ponte rappresenta il Culto del Drago, suggerendo che questo luogo un tempo era utilizzato dai membri di quella malvagia organizzazione.",
 				{
 					"type": "entries",
 					"name": "Owlbear and Spiders",
@@ -474,9 +474,9 @@
 							"width": 1143,
 							"height": 976
 						},
-						"Three {@creature giant spider||giant spiders} are fleeing from a hungry {@creature owlbear} (see the {@book Monster Manual|MM} for both stat blocks). If the Player Characters kill a spider, the owlbear stops to eat it. Once it has eaten all three spiders, the owlbear is full and falls asleep. If the Player Characters attack or threaten either the owlbear or a spider, the creature attacks them in return or flees if it takes any damage.",
-						"Once the owlbear and spiders are dealt with, the Player Characters can explore the tree, the mushrooms under the bridge, and the ivy growing on the tower.",
-						"A character who searches the grass finds the spiders' hiding holes. The spiders have collected the following objects:",
+						"Tre {@creature giant spider||giant spiders} stanno fuggendo da un affamato {@creature owlbear} (vedi {@book Monster Manual|MM} per entrambi i blocchi delle statistiche). Se i Personaggi Giocanti uccidono un ragno, l'orsogufo si ferma a mangiarlo. Una volta che ha mangiato tutti e tre i ragni, l'orsogufo è sazio e si addormenta. Se i personaggi giocanti attaccano o minacciano l'orsogufo o un ragno, la creatura a sua volta li attacca o fugge se subisce danni.",
+						"Una volta affrontati l'orsogufo e i ragni, i personaggi giocanti possono esplorare l'albero, i funghi sotto il ponte e l'edera che cresce sulla torre.",
+						"Un personaggio che fruga nell'erba trova i nascondigli dei ragni. I ragni hanno raccolto i seguenti oggetti:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -485,14 +485,14 @@
 									"type": "item",
 									"name": "Coins",
 									"entries": [
-										"Player Characters find loose coins worth 150 gold pieces."
+										"I personaggi giocanti trovano monete sciolte del valore di 150 monete d'oro."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Golden Key",
 									"entries": [
-										"Amid the coins is a golden key that unlocks the door to the dungeon (see \"Awakened Tree\" later in this scene)."
+										"Tra le monete c'è una chiave d'oro che apre la porta del dungeon (vedi \"Albero risvegliato\" più avanti in questa scena)."
 									]
 								}
 							]
@@ -505,17 +505,17 @@
 					"name": "Awakened Tree",
 					"page": 6,
 					"entries": [
-						"If a Player Character stands close to the tree or tries to climb it, read the following aloud:",
+						"Se un personaggio giocante si trova vicino all'albero o cerca di arrampicarsi su di esso, leggi ad alta voce quanto segue:",
 						{
 							"type": "inset",
 							"page": 6,
 							"entries": [
-								"Birds scatter from the tree as its limbs start to move. One of the branches moves to reveal a smiling wooden face."
+								"Gli uccelli si allontanano dall'albero non appena i suoi rami iniziano a muoversi. Uno dei rami si muove per rivelare una faccia di legno sorridente."
 							],
 							"id": "01c"
 						},
-						"Years ago, a druid used magic to turn the tree into an {@creature awakened tree} (see the {@book Monster Manual|MM} for its stat block). The awakened tree speaks slowly and thoughtfully, mostly about things like the weather and the seasons. It talks fondly of squirrels and birds\u2014although less fondly of woodpeckers and \"the sorcerer who lives in the tower.\"",
-						"If the Player Characters ask the awakened tree to share a secret or tell them what it knows, it shuffles aside and moves a rock to reveal a door leading to the dungeon below the tower. The handle to the door has a slight glow to it. Closer examination reveals that the door is held shut by an {@spell Arcane Lock} spell. The golden key hidden by the spiders in the meadow opens it, as does a {@spell Dispel Magic} or {@spell Knock} spell cast by the Elf Wizard. The door can also be destroyed, but it will take a while and create a lot of noise. If the Player Characters enter the dungeon, advance to scene 3."
+						"Anni fa, un druido usò la magia per trasformare l'albero in un {@creature awakened tree} (vedi {@book Monster Manual|MM} per il suo blocco delle statistiche). L'albero risvegliato parla lentamente e con attenzione, soprattutto di cose come il tempo e le stagioni. Parla con affetto di scoiattoli e uccelli, anche se con meno affetto di picchi e \"dello stregone che vive nella torre\".",
+						"Se i Personaggi Giocanti chiedono all'albero risvegliato di condividere un segreto o di dire loro ciò che sa, si sposta di lato e sposta una roccia per rivelare una porta che conduce al sotterraneo sotto la torre. La maniglia della porta ha una leggera luminosità. Un esame più attento rivela che la porta è tenuta chiusa da un incantesimo {@spell Arcane Lock}. La chiave d'oro nascosta dai ragni nel prato la apre, così come un incantesimo {@spell Dispel Magic} o {@spell Knock} lanciato dal Mago Elfo. La porta può anche essere distrutta, ma ci vorrà un po' di tempo e creerà molto rumore. Se i Personaggi Giocanti entrano nel dungeon, avanza alla scena 3."
 					],
 					"id": "01b"
 				},
@@ -533,8 +533,8 @@
 							"width": 1075,
 							"height": 853
 						},
-						"Player Characters can rest in the soft grass under the bridge, which creates enough shade for two {@creature myconid sprout||myconids} (see the {@book Monster Manual|MM} for their stat block) to dwell here comfortably. The myconids, which resemble oversized mushrooms, fight only in self-defense.",
-						"The myconids release spores that allow them to communicate telepathically with other intelligent creatures nearby. Player Characters who question the myconids learn the following information:",
+						"I personaggi giocanti possono riposarsi nell'erba soffice sotto il ponte, che crea abbastanza ombra per due {@creature myconid sprout||myconids} (vedi {@book Monster Manual|MM} per il loro blocco delle statistiche) per dimorare qui comodamente. I miconidi, che assomigliano a funghi di grandi dimensioni, combattono solo per autodifesa.",
+						"I miconidi rilasciano spore che permettono loro di comunicare telepaticamente con altre creature intelligenti vicine. I personaggi giocanti che interrogano i miconidi apprendono le seguenti informazioni:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -543,21 +543,21 @@
 									"type": "item",
 									"name": "Disguised Sorcerer",
 									"entries": [
-										"Merry Rumwell is an evil sorcerer named Ervan Soulfallen in disguise."
+										"Merry Rumwell è un malvagio stregone di nome Ervan Soulfallen sotto mentite spoglie."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Dungeon Prisoner",
 									"entries": [
-										"Ervan has imprisoned the real innkeeper, Alax Jadescales, in the tower's dungeon."
+										"Ervan ha imprigionato il vero locandiere, Alax Jadescales, nelle segrete della torre."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Magic Items",
 									"entries": [
-										"Ervan recently ordered the myconids to bury some magic items. If the characters are friendly, the myconids dig up these items and give them to the characters. The items include a {@item Potion of Healing}, a {@item Potion of Acid Resistance||Potion of Resistance (Acid)}, and a {@item Sentinel Shield}."
+										"Ervan ha recentemente ordinato ai miconidi di seppellire alcuni oggetti magici. Se i personaggi sono amichevoli, i miconidi dissotterrano questi oggetti e li danno ai personaggi. Gli elementi includono a {@item Potion of Healing}, a {@item Potion of Acid Resistance||Potion of Resistance (Acid)} e a {@item Sentinel Shield}."
 									]
 								}
 							]
@@ -570,7 +570,7 @@
 					"name": "Spiky Ivy",
 					"page": 7,
 					"entries": [
-						"The spiky ivy growing up the side of the tower is strong enough to be climbed. If the Player Characters use the ivy to reach the upper levels of the tower, skip scene 3 and continue with scene 4 or 5, depending on how high they climb."
+						"L'edera spinosa che cresce sul lato della torre è abbastanza forte da poter essere scalata. Se i Personaggi Giocanti usano l'edera per raggiungere i livelli superiori della torre, salta la scena 3 e continua con la scena 4 o 5, a seconda di quanto in alto salgono."
 					],
 					"id": "01e"
 				}
@@ -582,14 +582,14 @@
 			"name": "Scene 3: The Dungeon",
 			"page": 7,
 			"entries": [
-				"Make sure the Dungeon is fully assembled before running this part of the adventure.",
-				"The Player Characters are most likely to arrive here via the door behind the awakened tree. Read the following aloud to set the scene:",
+				"Assicurati che il Dungeon sia completamente assemblato prima di affrontare questa parte dell'avventura.",
+				"È molto probabile che i Personaggi Giocanti arrivino qui attraverso la porta dietro l'albero risvegliato. Leggi quanto segue ad alta voce per ambientare la scena:",
 				{
 					"type": "inset",
 					"page": 7,
 					"entries": [
-						"A torch lights the entrance to this musty dungeon. Leaning against one wall is a skeleton without a skull. Clutched in one of its bony hands is a fine scimitar. Other curious items\u2014a shield, a book, and a frosty staff\u2014are scattered throughout the gloom. A ladder ascends to a closed cell door.",
-						"Three black globs of ooze creep across the dungeon floor. Behind them, floating in the air, are several items: a glowing yellow gemstone, a skull, and a silvered frying pan."
+						"Una torcia illumina l'ingresso di questa prigione ammuffita. Appoggiato a una parete c'è uno scheletro senza teschio. In una delle sue mani ossute stringe una bella scimitarra. Altri oggetti curiosi - uno scudo, un libro e un bastone gelido - sono sparsi nell'oscurità. Una scala sale fino alla porta di una cella chiusa.",
+						"Tre globi neri di melma strisciano sul pavimento del sotterraneo. Dietro di loro, fluttuanti nell'aria, ci sono diversi oggetti: una gemma gialla brillante, un teschio e una padella argentata."
 					],
 					"id": "020"
 				},
@@ -607,7 +607,7 @@
 							"width": 1055,
 							"height": 830
 						},
-						"Before the Player Characters can explore the rest of the dungeon, they must contend with several Oozes (see the {@book Monster Manual|MM} for their stat blocks):",
+						"Prima che i Personaggi Giocanti possano esplorare il resto del dungeon, devono vedersela con diverse Melme (vedi {@book Monster Manual|MM} per i loro blocchi delle statistiche):",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -616,19 +616,19 @@
 									"type": "item",
 									"name": "Black Puddings",
 									"entries": [
-										"The black blobs creeping across the floor are three {@creature black pudding||black puddings}. They can't communicate with the Player Characters and are hostile. Swords and other slashing weapons have no effect on them, but the puddings are afraid of fire and won't attack anyone who carries a lit torch. Dealing fire damage to a pudding causes it to slink away. The puddings love hot sauce; if a character spills a jar of hot sauce on the floor, the puddings creep toward the hot sauce, ignoring other creatures as they do so. It takes them 1 minute to digest the sauce, during which time they won't attack unless they are disturbed."
+										"Le macchie nere che strisciano sul pavimento sono tre {@creature black pudding||black puddings}. Non possono comunicare con i personaggi giocanti e sono ostili. Spade e altre armi taglienti non hanno alcun effetto su di loro, ma i pudding hanno paura del fuoco e non attaccheranno chiunque porti una torcia accesa. Infliggere danni da fuoco a un budino lo fa scivolare via. I budini adorano la salsa piccante; se un personaggio rovescia un barattolo di salsa piccante sul pavimento, i budini strisciano verso la salsa piccante, ignorando le altre creature mentre lo fanno. Impiegano 1 minuto per digerire la salsa, durante il quale non attaccheranno a meno che non vengano disturbati."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Gelatinous Cubes",
 									"entries": [
-										"The glowing yellow gemstone, skull, and silvered frying pan appear to be floating because they're encased in a {@creature gelatinous cube}. The cube is transparent and hostile. Player Characters near the cube can see its glistening form more clearly. Shambling quietly behind this cube is a baby gelatinous cube. The baby cube doesn't fight."
+										"La brillante gemma gialla, il teschio e la padella argentata sembrano fluttuare perché sono racchiusi in un {@creature gelatinous cube}. Il cubo è trasparente e ostile. I personaggi giocanti vicino al cubo possono vedere la sua forma scintillante più chiaramente. Dietro questo cubo si muove lentamente e lentamente un piccolo cubo gelatinoso. Il baby cube non combatte."
 									]
 								}
 							]
 						},
-						"The puddings and the cubes slowly dissolve the flesh of creatures they engulf. The digestive acid of the baby cube is weak, making it mostly harmless."
+						"I budini e i cubi dissolvono lentamente la carne delle creature che divorano. L'acido digestivo del baby cube è debole, il che lo rende per lo più innocuo."
 					],
 					"id": "021"
 				},
@@ -637,7 +637,7 @@
 					"name": "Searching the Dungeon",
 					"page": 7,
 					"entries": [
-						"After the Oozes are dealt with, Player Characters can loot the dungeon. It contains the following treasures:",
+						"Dopo che le Melme sono state eliminate, i Personaggi Giocanti possono saccheggiare il dungeon. Contiene i seguenti tesori:",
 						{
 							"type": "gallery",
 							"images": [
@@ -669,49 +669,49 @@
 									"type": "item",
 									"name": "Coins and Gems",
 									"entries": [
-										"Player Characters can find an amethyst worth 500 gold pieces, a diamond worth 1,000 gold pieces, and a pile of loose coins worth 100 gold pieces. The glowing yellow gem inside the adult gelatinous cube is a topaz worth 500 gold pieces and has a {@spell Continual Flame||Continual Light} spell cast on it."
+										"I personaggi giocanti possono trovare un'ametista del valore di 500 monete d'oro, un diamante del valore di 1.000 monete d'oro e una pila di monete sparse del valore di 100 monete d'oro. La gemma gialla brillante all'interno del cubo gelatinoso adulto è un topazio del valore di 500 monete d'oro e su di esso è lanciato un incantesimo {@spell Continual Flame||Continual Light}."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Book and Shield",
 									"entries": [
-										"A {@item Tome of Clear Thought} rests behind a {@item +1 Shield}. Tucked inside the book is a {@item Spell Scroll} of {@spell Speak with Dead}."
+										"A {@item Tome of Clear Thought} resta dietro a {@item +1 Shield}. Nascosto all'interno del libro c'è un {@item Spell Scroll} di {@spell Speak with Dead}."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Devotee's Censer",
 									"entries": [
-										"This magic flail deals an extra {@damage 1d8} radiant damage on a hit and can be used as a holy symbol. As a bonus action, you can cause the head of the flail to release a thin cloud of incense within a 10-foot radius for 1 minute. At the start of each of your turns, you and any other creatures in the cloud each regain {@dice 1d4} hit points. This property can't be used again until the next dawn."
+										"Questo mazzafrusto magico infligge danni radiosi extra {@damage 1d8} in caso di colpo e può essere utilizzato come simbolo sacro. Come azione bonus, puoi fare in modo che la testa del mazzafrusto rilasci una sottile nuvola di incenso entro un raggio di 3 metri per 1 minuto. All'inizio di ciascuno dei tuoi turni, tu e qualsiasi altra creatura nella nuvola recuperate ciascuno {@dice 1d4} punti ferita. Questa proprietà non potrà essere riutilizzata fino all'alba successiva."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Potion",
 									"entries": [
-										"On a shelf behind the ladder is a {@item Potion of Speed}."
+										"Su uno scaffale dietro la scala c'è un {@item Potion of Speed}."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Scimitar",
 									"entries": [
-										"The headless skeleton clutches a {@item Scimitar of Speed}. Removing the blade from the skeleton's tight grip causes the skeleton to collapse into a pile of bones."
+										"Lo scheletro senza testa stringe un {@item Scimitar of Speed}. Rimuovendo la lama dalla stretta presa dello scheletro, lo scheletro collassa in un mucchio di ossa."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Silvered Frying Pan",
 									"entries": [
-										"This silver-plated frying pan is a family heirloom belonging to Alax Jadescales. Once freed from the prison cell (see \"Freeing Alax\" below), Alax tries to reclaim the frying pan."
+										"Questa padella placcata in argento è un cimelio di famiglia appartenente ad Alax Jadescales. Una volta liberato dalla cella della prigione (vedi \"Liberare Alax\" di seguito), Alax cerca di riprendersi la padella."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Staff and Shortbow",
 									"entries": [
-										"A fully charged {@item Staff of Frost} juts from a barrel in one corner. Lying on the floor near the barrel is a nonmagical shortbow."
+										"Un barile completamente carico {@item Staff of Frost} sporge da un angolo. Sul pavimento vicino alla canna c'è un arco corto non magico."
 									]
 								}
 							]
@@ -721,7 +721,7 @@
 							"name": "Cleric's Skull",
 							"page": 8,
 							"entries": [
-								"The skull floating in the gelatinous cube belongs to Estus the Cleric, an ill-fated member of the Hard Way. A Player Character can use the {@item Spell Scroll} of Speak with Dead to interrogate the skull and ask it up to five questions. It knows the following information:",
+								"Il teschio fluttuante nel cubo gelatinoso appartiene a Estus il Chierico, uno sfortunato membro della Via Dura. Un personaggio giocante può utilizzare il {@item Spell Scroll} di Parla con i morti per interrogare il teschio e fargli fino a cinque domande. Conosce le seguenti informazioni:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -730,28 +730,28 @@
 											"type": "item",
 											"name": "Adventurers' Names",
 											"entries": [
-												"The Hard Way had four members: Grackle the Rogue, Kildar the Wizard, Colin the Fighter, and Estus the Cleric."
+												"The Hard Way aveva quattro membri: Grackle the Rogue, Kildar the Wizard, Colin the Fighter ed Estus the Cleric."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Dragon Egg",
 											"entries": [
-												"Ervan hired the Hard Way to steal a dragon egg from the lair of Cinderhowl the red dragon. The adventurers waited for the dragon to leave her mountain lair before making their way inside."
+												"Ervan ha assunto le vie più difficili per rubare un uovo di drago dalla tana di Cinderhowl, il drago rosso. Gli avventurieri attesero che il drago lasciasse la sua tana di montagna prima di farsi strada all'interno."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Hard-Won Victory",
 											"entries": [
-												"The Hard Way killed several reptilian guards (kobolds) in the dragon's lair, stole an egg, and fled before the dragon's return."
+												"La via difficile uccise diverse guardie rettiliane (coboldi) nella tana del drago, rubò un uovo e fuggì prima del ritorno del drago."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Sorcerer's Treachery",
 											"entries": [
-												"After delivering the egg, the Hard Way demanded payment. Instead, Ervan used powerful magic to kill the group."
+												"Dopo aver consegnato l'uovo, Hard Way ha chiesto il pagamento. Invece, Ervan ha usato una potente magia per uccidere il gruppo."
 											]
 										}
 									]
@@ -767,18 +767,18 @@
 					"name": "Freeing Alax",
 					"page": 8,
 					"entries": [
-						"The door to the prison cell is locked and can be opened in one of several ways:",
+						"La porta della cella della prigione è chiusa a chiave e può essere aperta in diversi modi:",
 						{
 							"type": "list",
 							"items": [
-								"The Elf Wizard can cast a {@spell Knock} spell on the door, causing it to swing open.",
-								"The Gnome Fighter or Dwarf Cleric can break down the door. (It takes effort, but success is automatic.)",
-								"The Orc Rogue can use thieves' tools to pick the lock. (It takes a moment, but success is automatic.)",
-								"If the characters find the large key in scene 5, they can use it to unlock and lock the door."
+								"Il Mago Elfo può lanciare un incantesimo {@spell Knock} sulla porta, facendola aprire.",
+								"Lo Gnomo Guerriero o il Chierico Nano possono sfondare la porta. (Ci vuole impegno, ma il successo è automatico.)",
+								"L'Orco Ladro può usare gli strumenti dei ladri per scassinare la serratura. (Ci vuole un attimo, ma il successo è automatico.)",
+								"Se i personaggi trovano la grande chiave nella scena 5, possono usarla per aprire e chiudere la porta."
 							]
 						},
-						"Trapped in the cell is {@creature Alax Jadescales|LRDT} (see the \"Nonplayer Characters\" section at the end of the adventure for their stat block), the dragonborn proprietor of the Inn Plain Sight. True to their name, Alax has bright-green scales. They abhor violence and avoid combat.",
-						"Alax thanks the Player Characters for freeing them and says the adventurers can have all the hot wings they can eat once the sorcerer Ervan is no longer a threat. Alax looks forward to retrieving their silvered frying pan and offers to accompany the Player Characters until they find Alax's missing \"cat\"\u2014a displacer beast named Pouncy (see scene 4). If the characters decline Alax's offer to join them, Alax returns to the inn and waits there instead. In either case, Alax advises the characters not to underestimate the evil sorcerer and shares the following helpful information:",
+						"Intrappolato nella cella c'è {@creature Alax Jadescales|LRDT} (vedi la sezione \"Personaggi non giocanti\" alla fine dell'avventura per il blocco delle statistiche), il dragonide proprietario della locanda Plain Sight. Fedele al loro nome, Alax ha scaglie verde brillante. Aborrono la violenza ed evitano il combattimento.",
+						"Alax ringrazia i personaggi giocanti per averli liberati e dice che gli avventurieri potranno avere tutte le ali piccanti che potranno mangiare una volta che lo stregone Ervan non sarà più una minaccia. Alax non vede l'ora di recuperare la loro padella argentata e si offre di accompagnare i Personaggi Giocanti finché non troveranno il \"gatto\" scomparso di Alax, una bestia distorcente chiamata Pouncy (vedi scena 4). Se i personaggi rifiutano l'offerta di Alax di unirsi a loro, Alax ritorna alla locanda e aspetta lì. In entrambi i casi, Alax consiglia ai personaggi di non sottovalutare il malvagio stregone e condivide le seguenti informazioni utili:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -787,14 +787,14 @@
 									"type": "item",
 									"name": "Ervan's Plot",
 									"entries": [
-										"Ervan hired a group of adventurers called the Hard Way to steal a dragon egg from the lair of a red dragon named Cinderhowl. The adventurers delivered the egg, but Ervan betrayed them. Instead of paying them, Ervan killed the adventurers and fed their corpses to the Oozes in the dungeon."
+										"Ervan ha assunto un gruppo di avventurieri chiamato Hard Way per rubare un uovo di drago dalla tana di un drago rosso chiamato Cinderhowl. Gli avventurieri consegnarono l'uovo, ma Ervan li tradì. Invece di pagarli, Ervan uccise gli avventurieri e diede in pasto i loro cadaveri alle Melme nella prigione."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Where's the Egg",
 									"entries": [
-										"Ervan hid the dragon egg somewhere in the tower and is waiting for it to hatch."
+										"Ervan ha nascosto l'uovo del drago da qualche parte nella torre e sta aspettando che si schiuda."
 									]
 								}
 							]
@@ -810,14 +810,14 @@
 			"name": "Scene 4: The Basement",
 			"page": 8,
 			"entries": [
-				"Make sure the tower's Basement is fully assembled before running this part of the adventure.",
+				"Assicurati che il seminterrato della torre sia completamente assemblato prima di affrontare questa parte dell'avventura.",
 				{
 					"type": "entries",
 					"name": "Axe Trap",
 					"page": 8,
 					"entries": [
-						"The door leading from the dungeon to the tower's basement is trapped. Opening it causes an axe blade to swing from above. Any creature standing in the doorway when the axe swings down must succeed on a {@dc 15} Dexterity saving throw or take {@damage 2d8} slashing damage. The trap can be reset manually but doesn't reset by itself.",
-						"The Orc Rogue can automatically disable this trap, but only if the rogue is on the side of the door where the trap can be seen.",
+						"La porta che conduce dai sotterranei al seminterrato della torre è intrappolata. Aprendolo si fa oscillare la lama di un'ascia dall'alto. Qualsiasi creatura che si trova sulla soglia quando l'ascia si abbassa deve riuscire un tiro salvezza di Destrezza {@dc 15} o subire {@damage 2d8} danni taglienti. La trappola può essere ripristinata manualmente ma non si ripristina da sola.",
+						"L'Orco Ladro può disattivare automaticamente questa trappola, ma solo se il ladro si trova sul lato della porta dove la trappola può essere vista.",
 						{
 							"type": "gallery",
 							"images": [
@@ -849,13 +849,13 @@
 					"name": "Basement Features",
 					"page": 9,
 					"entries": [
-						"Use the following text to describe the contents and occupants of the basement:",
+						"Utilizza il testo seguente per descrivere il contenuto e gli occupanti del seminterrato:",
 						{
 							"type": "inset",
 							"page": 9,
 							"entries": [
-								"You've reached the bottom of the tower, as evidenced by the stone staircase that curls upward. Candlelight illuminates a pair of doors and some scattered treasure.",
-								"Standing in this basement are three animated skeletons dressed like adventurers. Tucked in a corner nearby are some brightly colored plants. Floating in the middle of the room is a terrifying, spherical monster with sharp teeth, one big eye, and ten smaller eyes on wriggling stalks."
+								"Hai raggiunto il fondo della torre, come testimonia la scala in pietra che si snoda verso l'alto. La luce delle candele illumina un paio di porte e qualche tesoro sparso.",
+								"In questo seminterrato ci sono tre scheletri animati vestiti da avventurieri. Nascoste in un angolo lì vicino ci sono alcune piante dai colori vivaci. Al centro della stanza fluttua un terrificante mostro sferico con denti aguzzi, un grande occhio e dieci occhi più piccoli su steli contorti."
 							],
 							"id": "028"
 						},
@@ -864,10 +864,10 @@
 							"name": "Pouncy",
 							"page": 9,
 							"entries": [
-								"The Player Characters recognize the many-eyed monster as a beholder, which has the power to emit an {@condition invisible} cone of anti-magic from its central eye. However, this beholder is not what it seems. It is really Alax's missing pet, a {@creature displacer beast} (see the {@book Monster Manual|MM} for its stat block) named Pouncy. Ervan used a powerful scroll to polymorph Pouncy into a beholder.",
-								"If Alax is with the Player Characters, Pouncy's initial attitude is friendly. The beholder rushes toward Alax and begins to lick Alax's face\u2014a clear signal that the beholder is not what it seems. If Alax isn't present, the beholder bares its teeth and keeps its distance, but doesn't attack except in self-defense. Offering it milk or calling it Pouncy changes its attitude to friendly.",
-								"If Alax or one of the Player Characters can reflect the beholder's anti-magic cone back on it using a polished object such as a silvered frying pan, the polymorph effect on Pouncy ends, restoring the displacer beast to its natural form. The Elf Wizard can also restore Pouncy's true form by casting {@spell Dispel Magic} on the beholder.",
-								"Once Alax is reunited with Pouncy, they both return to the inn, trusting the Player Characters can deal with Ervan on their own. However, if the Player Characters call for help, Alax and Pouncy rejoin them."
+								"I Personaggi Giocanti riconoscono il mostro dai molti occhi come uno spettatore, che ha il potere di emettere un {@condition invisible} cono di anti-magia dal suo occhio centrale. Tuttavia, questo spettatore non è quello che sembra. In realtà è l'animale scomparso di Alax, un {@creature displacer beast} (vedi {@book Monster Manual|MM} per il blocco delle statistiche) chiamato Pouncy. Ervan ha utilizzato una potente pergamena per trasformare Pouncy in uno spettatore.",
+								"Se Alax è con i Personaggi Giocanti, l'atteggiamento iniziale di Pouncy è amichevole. Lo spettatore si precipita verso Alax e inizia a leccargli il viso, un chiaro segnale che lo spettatore non è quello che sembra. Se Alax non è presente, chi guarda mostra i denti e mantiene le distanze, ma non attacca se non per legittima difesa. Offrirgli del latte o chiamarlo Pouncy cambia il suo atteggiamento in amichevole.",
+								"Se Alax o uno dei personaggi giocanti riesce a riflettere il cono anti-magia dello spettatore su di esso utilizzando un oggetto lucido come una padella argentata, l'effetto di metamorfosi su Pouncy termina, riportando la bestia distorcente alla sua forma naturale. Il Mago Elfo può anche ripristinare la vera forma di Pouncy lanciando {@spell Dispel Magic} su chi guarda.",
+								"Una volta che Alax si è riunito con Pouncy, entrambi tornano alla locanda, confidando che i personaggi giocanti possano affrontare Ervan da soli. Tuttavia, se i personaggi giocanti chiedono aiuto, Alax e Pouncy si uniscono a loro."
 							],
 							"id": "029"
 						},
@@ -876,8 +876,8 @@
 							"name": "The Hard Way",
 							"page": 9,
 							"entries": [
-								"The three {@creature skeleton||skeletons} (see the {@book Monster Manual|MM} for their stat block) are Undead\u2014the hostile remains of three members of the Hard Way (the group of adventurers hired by Ervan to steal the dragon egg).",
-								"These skeletons fight until destroyed and carry the following treasure:",
+								"I tre {@creature skeleton||skeletons} (vedi {@book Monster Manual|MM} per il blocco delle statistiche) sono non morti: i resti ostili di tre membri dell'Hard Way (il gruppo di avventurieri ingaggiati da Ervan per rubare l'uovo di drago).",
+								"Questi scheletri combattono fino alla distruzione e portano con sé il seguente tesoro:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -886,26 +886,26 @@
 											"type": "item",
 											"name": "Fighter",
 											"entries": [
-												"This skeleton wears a {@item +1 Breastplate} and a nonmagical helm, and it carries a {@item Sword of Sharpness}."
+												"Questo scheletro indossa un {@item +1 Breastplate} e un elmo non magico e porta un {@item Sword of Sharpness}."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Rogue",
 											"entries": [
-												"This skeleton carries a {@item Dagger of Venom} and wears a {@item Ring of Invisibility}."
+												"Questo scheletro porta un {@item Dagger of Venom} e indossa un {@item Ring of Invisibility}."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Wizard",
 											"entries": [
-												"This skeleton wears a magic cloak that has the properties of a {@item Robe of Scintillating Colors}."
+												"Questo scheletro indossa un mantello magico che ha le proprietà di un {@item Robe of Scintillating Colors}."
 											]
 										}
 									]
 								},
-								"Once the skeletons are defeated, a Player Character can use the {@item Spell Scroll} of Speak with Dead found in scene 3 (if it hasn't already been used) to interrogate the skull of one of the dead adventurers and ask it up to five questions. The skull knows the same information as the one in scene 3."
+								"Una volta sconfitti gli scheletri, un personaggio giocante può utilizzare il {@item Spell Scroll} di Parla con i morti trovato nella scena 3 (se non è già stato utilizzato) per interrogare il teschio di uno degli avventurieri morti e fargli fino a cinque domande. Il teschio conosce le stesse informazioni di quello della scena 3."
 							],
 							"id": "02a"
 						},
@@ -914,7 +914,7 @@
 							"name": "Poisonous Plants",
 							"page": 9,
 							"entries": [
-								"The plants that grow in the basement are pink and extremely poisonous. Any creature that so much as touches one of these plants takes {@damage 2d6} poison damage."
+								"Le piante che crescono nel seminterrato sono rosa ed estremamente velenose. Qualsiasi creatura che tocchi una di queste piante subisce {@damage 2d6} danni da veleno."
 							],
 							"id": "02b"
 						},
@@ -964,7 +964,7 @@
 							"name": "Staircase",
 							"page": 10,
 							"entries": [
-								"The Player Characters can climb the staircase to reach the upper levels of the tower. If they take the stairs, continue with scene 5."
+								"I Personaggi Giocanti possono salire le scale per raggiungere i livelli superiori della torre. Se prendono le scale, continua con la scena 5."
 							],
 							"id": "02c"
 						},
@@ -982,7 +982,7 @@
 									"width": 349,
 									"height": 626
 								},
-								"After the skeletons are dealt with, Player Characters can loot the basement. It contains the following treasures:",
+								"Dopo che gli scheletri sono stati eliminati, i personaggi giocanti possono saccheggiare il seminterrato. Contiene i seguenti tesori:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -991,28 +991,28 @@
 											"type": "item",
 											"name": "Book",
 											"entries": [
-												"A {@item Manual of Quickness of Action} rests near some poisonous plants. Tucked inside the book is a {@item Spell Scroll} of {@spell Protection from Energy}."
+												"A {@item Manual of Quickness of Action} riposa vicino ad alcune piante velenose. Nascosto all'interno del libro c'è un {@item Spell Scroll} di {@spell Protection from Energy}."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Coins",
 											"entries": [
-												"Lying on the floor is pile of loose coins worth 100 gold pieces."
+												"Sul pavimento c'è una pila di monete sciolte del valore di 100 monete d'oro."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Lantern",
 											"entries": [
-												"A {@item Lantern of Revealing} sits in an alcove."
+												"A {@item Lantern of Revealing} siede in un'alcova."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Potion",
 											"entries": [
-												"Set atop high shelves are a {@item Potion of Greater Healing||Potion of Healing (Greater)} and a {@item Potion of Heroism}."
+												"Sugli scaffali alti ci sono un {@item Potion of Greater Healing||Potion of Healing (Greater)} e un {@item Potion of Heroism}."
 											]
 										}
 									]
@@ -1031,18 +1031,18 @@
 			"name": "Scene 5: The Tower",
 			"page": 10,
 			"entries": [
-				"Make sure the Tower is fully assembled before running this part of the adventure. The tower has three floors, which are described in the sections that follow.",
+				"Assicurati che la Torre sia completamente assemblata prima di affrontare questa parte dell'avventura. La torre ha tre piani, descritti nelle sezioni seguenti.",
 				{
 					"type": "entries",
 					"name": "First Floor: Shrine",
 					"page": 10,
 					"entries": [
-						"When one or more Player Characters arrive here, read the following aloud:",
+						"Quando uno o più Personaggi Giocanti arrivano qui, leggi ad alta voce quanto segue:",
 						{
 							"type": "inset",
 							"page": 10,
 							"entries": [
-								"This level of the tower has a shrine backed against one wall. Carved above the shrine are five stone dragon heads, and resting on the shrine's altar is a lustrous green orb. A large key rests in a small stand on the floor."
+								"Questo livello della torre ha un santuario appoggiato a un muro. Sopra il santuario sono scolpite cinque teste di drago di pietra e sull'altare del santuario c'è una sfera verde brillante. Una grande chiave è appoggiata su un piccolo supporto sul pavimento."
 							],
 							"id": "030"
 						},
@@ -1051,7 +1051,7 @@
 							"name": "Large Key",
 							"page": 10,
 							"entries": [
-								"The large key unlocks the door to the prison cell in the dungeon (see scene 3). It also locks and unlocks the trap door described below."
+								"La grande chiave apre la porta della cella della prigione nel sotterraneo (vedi scena 3). Inoltre blocca e sblocca la botola descritta di seguito."
 							],
 							"id": "031"
 						},
@@ -1060,7 +1060,7 @@
 							"name": "Trap Door",
 							"page": 10,
 							"entries": [
-								"Just inside the door to this room, and exactly where one would stand to pick up the large key from its holder, is a hidden trap door. Any creature heavier than a housecat that steps on the trap door causes it to open, dropping the creature into the basement below (see scene 4). The creature takes {@damage 1d6} bludgeoning damage from the fall. A Player Character can use the large key described above to lock the trap door so that it doesn't open."
+								"Proprio all'interno della porta di questa stanza, ed esattamente dove ci si potrebbe aspettare per prendere la grande chiave dal suo contenitore, c'è una botola nascosta. Qualsiasi creatura più pesante di un gatto domestico che calpesta la botola la fa aprire, lasciando cadere la creatura nel seminterrato sottostante (vedi scena 4). La creatura subisce {@damage 1d6} danni contundenti dalla caduta. Un personaggio giocante può utilizzare la grande chiave descritta sopra per bloccare la botola in modo che non si apra."
 							],
 							"id": "032"
 						},
@@ -1078,9 +1078,9 @@
 									"width": 765,
 									"height": 564
 								},
-								"An {@item Orb of Dragonkind} rests on the shrine's altar. This powerful magic item contains the essence of an evil dragon and is dangerous to use. Whoever controls the orb can issue a telepathic call that extends for 40 miles in all directions. Evil Dragons in range feel compelled to come to the orb as soon as possible by the most direct route. If the orb is used in this way, Cinderhowl is the only dragon to answer the call, as described in scene 6.",
-								"The shrine itself was built by the tower's original owner, who was a member of an evil organization called the Cult of the Dragon. The stone heads above the altar represent Tiamat, the five-headed queen of evil dragons. The five dragon heads snap at any creature other than a Dragon or a dragonborn that touches the orb or the shrine. Make one attack roll ({@dice 1d20 + 5}). If the attack hits, whoever triggered the attack takes {@damage 5d6} piercing damage.",
-								"If you're not using D&D rules, the biting dragon heads hit automatically."
+								"Un {@item Orb of Dragonkind} riposa sull'altare del santuario. Questo potente oggetto magico contiene l'essenza di un drago malvagio ed è pericoloso da usare. Chiunque controlli la sfera può emettere una chiamata telepatica che si estende per 40 miglia in tutte le direzioni. I draghi malvagi nel raggio d'azione si sentono obbligati a raggiungere la sfera il prima possibile seguendo il percorso più diretto. Se la sfera viene utilizzata in questo modo, Cinderhowl è l'unico drago a rispondere alla chiamata, come descritto nella scena 6.",
+								"Il santuario stesso fu costruito dal proprietario originale della torre, che era membro di un'organizzazione malvagia chiamata Culto del Drago. Le teste di pietra sopra l'altare rappresentano Tiamat, la regina a cinque teste dei draghi malvagi. Le cinque teste di drago attaccano qualsiasi creatura che non sia un drago o un dragonide che tocchi la sfera o il santuario. Effettua un tiro per colpire ({@dice 1d20 + 5}). Se l'attacco va a segno, chiunque abbia attivato l'attacco subisce {@damage 5d6} danni perforanti.",
+								"Se non stai usando le regole di D&D, le teste del drago che mordono colpiscono automaticamente."
 							],
 							"id": "033"
 						},
@@ -1089,7 +1089,7 @@
 							"name": "Stairs to Second Floor",
 							"page": 10,
 							"entries": [
-								"These winding steps ascend to the second floor. Under the stairs is a small alcove containing a {@item Potion of Clairvoyance} and a {@creature giant wolf spider} (see the {@book Monster Manual|MM} for its stat block). The spider attacks any creature that tries to take the potion and defends itself if attacked."
+								"Questi gradini tortuosi salgono al secondo piano. Sotto le scale c'è una piccola alcova contenente un {@item Potion of Clairvoyance} e un {@creature giant wolf spider} (vedi {@book Monster Manual|MM} per il suo blocco delle statistiche). Il ragno attacca qualsiasi creatura che tenti di prendere la pozione e si difende se attaccato."
 							],
 							"id": "034"
 						}
@@ -1101,23 +1101,23 @@
 					"name": "Second Floor: Arcane Workshop",
 					"page": 10,
 					"entries": [
-						"This floor contains Ervan's workshop. The evil sorcerer is here when the Player Characters arrive, but he quickly retreats to the tower's peak. Set the scene by reading the following text aloud:",
+						"Questo piano contiene il laboratorio di Ervan. Il malvagio stregone è qui quando arrivano i Personaggi Giocanti, ma si ritira rapidamente sulla cima della torre. Imposta la scena leggendo ad alta voce il seguente testo:",
 						{
 							"type": "inset",
 							"page": 10,
 							"entries": [
-								"This space contains all the makings of an arcane workshop: a red candle, a cauldron, assorted spell components, scrolls, and a lit brazier made from a humanoid skull.",
-								"Merry Rumwell greets your arrival with frustration. \"Not you again! Go bother someone else!\" With that, the form of the innkeeper melts away, replaced by that of a crimson-clad sorcerer who grabs a scroll and disappears yet again."
+								"Questo spazio contiene tutti gli ingredienti di un laboratorio arcano: una candela rossa, un calderone, componenti di incantesimi assortiti, pergamene e un braciere acceso ricavato da un teschio umanoide.",
+								"Merry Rumwell accoglie il tuo arrivo con frustrazione. \"Non ancora tu! Vai a disturbare qualcun altro!\" Detto questo, la forma del locandiere si scioglie, sostituita da quella di uno stregone vestito di cremisi che afferra una pergamena e scompare ancora una volta."
 							],
 							"id": "036"
 						},
-						"Ervan casts another {@spell Dimension Door} spell and escapes before the Player Characters can do anything to him. He takes one of his Spell Scrolls with him (see \"Searching the Workshop\" below). The Player Characters catch up to Ervan in scene 6.",
+						"Ervan lancia un altro incantesimo {@spell Dimension Door} e fugge prima che i personaggi giocanti possano fargli qualcosa. Porta con sé una delle sue pergamene degli incantesimi (vedi \"Ricerca nel laboratorio\" di seguito). I Personaggi Giocanti raggiungono Ervan nella scena 6.",
 						{
 							"type": "entries",
 							"name": "Searching the Workshop",
 							"page": 10,
 							"entries": [
-								"The candle, cauldron, spell components, and skull-shaped brazier are nonmagical. Amid these mundane items are the following treasures:",
+								"La candela, il calderone, i componenti degli incantesimi e il braciere a forma di teschio non sono magici. Tra questi oggetti banali ci sono i seguenti tesori:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -1126,14 +1126,14 @@
 											"type": "item",
 											"name": "Coins",
 											"entries": [
-												"Ervan leaves behind a stack of coins worth a total of 100 gold pieces."
+												"Ervan lascia dietro di sé una pila di monete del valore totale di 100 monete d'oro."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Scrolls",
 											"entries": [
-												"Stacked on tables are three Spell Scrolls ({@spell Animate Dead}, {@spell Ice Storm}, and {@spell Phantasmal Force}). Before disappearing, Ervan takes a fourth scroll: a {@item Spell Scroll} of {@spell Hold Monster}."
+												"Sui tavoli sono impilate tre pergamene di incantesimi ({@spell Animate Dead}, {@spell Ice Storm} e {@spell Phantasmal Force}). Prima di scomparire, Ervan prende una quarta pergamena: a {@item Spell Scroll} di {@spell Hold Monster}."
 											]
 										}
 									]
@@ -1149,27 +1149,27 @@
 					"name": "Third Floor: Egg Chamber",
 					"page": 10,
 					"entries": [
-						"When the Player Characters reach this floor, read the following aloud:",
+						"Quando i Personaggi Giocanti raggiungono questo piano, leggi ad alta voce quanto segue:",
 						{
 							"type": "inset",
 							"page": 10,
 							"entries": [
-								"At this height, not much of the tower remains. Resting on what's left of the third floor is a dragon egg surrounded by lit candles."
+								"A questa altezza non rimane molto della torre. Su ciò che resta del terzo piano c'è un uovo di drago circondato da candele accese."
 							],
 							"id": "039"
 						},
-						"Ervan placed candles around the dragon egg to keep it warm until it hatches. Away from its mother, the wyrmling takes much longer to hatch than normal\u2014something the sorcerer didn't anticipate.",
-						"The dragon egg is visible from the tower's peak, where Ervan has chosen to make his final stand. If the characters look up, they see Ervan glaring at them. Read the following aloud:",
+						"Ervan ha posizionato delle candele attorno all'uovo del drago per tenerlo caldo finché non si schiude. Lontano dalla madre, il cucciolo impiega molto più tempo del normale a schiudersi, qualcosa che lo stregone non aveva previsto.",
+						"L'uovo del drago è visibile dalla cima della torre, dove Ervan ha scelto di opporre la sua resistenza finale. Se i personaggi alzano lo sguardo, vedono Ervan che li fissa. Leggi ad alta voce quanto segue:",
 						{
 							"type": "inset",
 							"page": 11,
 							"entries": [
-								"A ladder clinging to the wall stops just short of the tower's peak\u2014little more than a stone shelf on which the sorcerer stands, scroll in hand. His clothes flap in the wind as he glares at you. \"That's my egg!\" he shouts."
+								"Una scala aggrappata al muro si ferma poco prima della cima della torre: poco più di una mensola di pietra su cui sta lo stregone, con il rotolo in mano. I suoi vestiti sventolano al vento mentre ti guarda torvo. \"Quello è il mio uovo!\" grida."
 							],
 							"id": "03a"
 						},
-						"The dragon egg is surprisingly resilient. Fire doesn't harm it, a fall won't break it, and nonmagical weapons can't crack it.",
-						"Despite the egg's natural resilience, Ervan won't risk damaging the egg by attacking Player Characters near it. If the characters seize the egg, Ervan yells, \"Thieves!\" Before Ervan can take further action, Cinderhowl catches sight of him and flies toward the tower. Continue with scene 6."
+						"L'uovo del drago è sorprendentemente resistente. Il fuoco non lo danneggia, una caduta non lo romperà e le armi non magiche non possono romperlo.",
+						"Nonostante la naturale resistenza dell'uovo, Ervan non rischierà di danneggiarlo attaccando i personaggi giocanti vicini ad esso. Se i personaggi prendono l'uovo, Ervan urla: \"Ladri!\" Prima che Ervan possa intraprendere ulteriori azioni, Cinderhowl lo vede e vola verso la torre. Continuare con la scena 6."
 					],
 					"id": "038"
 				}
@@ -1190,25 +1190,25 @@
 					"width": 1595,
 					"height": 1205
 				},
-				"This final scene marks the arrival of Cinderhowl, who is searching the countryside for signs of the thieves who stole her egg. Activity atop the ruined tower draws her attention:",
+				"Questa scena finale segna l'arrivo di Cinderhowl, che sta cercando nella campagna i segni dei ladri che le hanno rubato l'uovo. L'attività in cima alla torre in rovina attira la sua attenzione:",
 				{
 					"type": "inset",
 					"page": 11,
 					"entries": [
-						"A terrible roar fills the sky as a fully grown red dragon swoops toward the tower. The evil sorcerer blanches at the sight of the dragon and quickly unfurls his scroll."
+						"Un terribile ruggito riempie il cielo mentre un drago rosso adulto piomba verso la torre. Il malvagio stregone impallidisce alla vista del drago e apre rapidamente la sua pergamena."
 					],
 					"id": "03c"
 				},
-				"The adventure concludes with a double \"boss fight.\" The Player Characters must deal with two foes at once: Cinderhowl and Ervan Soulfallen. Clever characters can turn one of these foes against the other.",
+				"L'avventura si conclude con un doppio \"combattimento contro il boss\". I Personaggi Giocanti devono affrontare due nemici contemporaneamente: Cinderhowl ed Ervan Soulfallen. I personaggi intelligenti possono mettere uno di questi nemici contro l'altro.",
 				{
 					"type": "entries",
 					"name": "Cinderhowl",
 					"page": 11,
 					"entries": [
-						"Cinderhowl is a hostile {@creature adult red dragon} who speaks Common (the language of common folk) and Draconic (the language of dragons). Her senses are excellent, and hiding the egg from her is nearly impossible. She accuses those closest to the egg of being thieves and threatens to roast them alive unless the egg is given to her at once.",
-						"Nothing the Player Characters say can quench Cinderhowl's rage. The dragon is convinced Ervan hired them to steal her egg. As an action, a character can try to redirect Cinderhowl's rage toward Ervan, doing so with a successful {@dc 20} Charisma ({@skill Deception} or {@skill Persuasion}) check. Use whichever skill seems most appropriate.",
-						"If Cinderhowl was lured to the tower by the {@item Orb of Dragonkind} (see scene 5), the dragon tries to kill whoever has the orb after the egg is safely in her custody. If a Player Character willingly gives her the orb, Cinderhowl keeps it while granting nothing in return.",
-						"If Cinderhowl regains the egg but seems on the verge of losing the battle, she takes the egg back to her mountain lair after warning the Player Characters that she will haunt their nightmares."
+						"Cinderhowl è un ostile {@creature adult red dragon} che parla Comune (la lingua della gente comune) e Draconico (la lingua dei draghi). I suoi sensi sono eccellenti e nasconderle l'uovo è quasi impossibile. Accusa coloro che sono più vicini all'uovo di essere ladri e minaccia di arrostirli vivi a meno che l'uovo non le venga dato immediatamente.",
+						"Niente di ciò che i Personaggi Giocanti dicono può placare la rabbia di Cinderhowl. Il drago è convinto che Ervan li abbia assunti per rubarle l'uovo. Come azione, un personaggio può provare a reindirizzare la rabbia di Cinderhowl verso Ervan, facendolo con una prova di Carisma ({@skill Deception} o {@skill Persuasion} riuscita {@dc 20}. Usa l'abilità che sembra più appropriata.",
+						"Se Urlo Cindere è stato attirato sulla torre dal {@item Orb of Dragonkind} (vedi scena 5), ​​il drago cercherà di uccidere chiunque abbia la sfera dopo che l'uovo è al sicuro nella sua custodia. Se un personaggio giocante le dà volontariamente la sfera, Cinderhowl la tiene senza concedere nulla in cambio.",
+						"Se Cinderhowl riconquista l'uovo ma sembra sul punto di perdere la battaglia, riporta l'uovo nella sua tana in montagna dopo aver avvertito i Personaggi Giocanti che infesterà i loro incubi."
 					],
 					"id": "03d"
 				},
@@ -1217,8 +1217,8 @@
 					"name": "Ervan Soulfallen",
 					"page": 11,
 					"entries": [
-						"{@creature Ervan Soulfallen|LRDT} (see the \"Nonplayer Characters\" section at the end of the adventure for his stat block) targets Cinderhowl with his {@item Spell Scroll} of {@spell Hold Monster}. If Cinderhowl fails her saving throw, she has the {@condition paralyzed} condition for the spell's duration and falls to the ground, giving Ervan time to snatch the egg and run. If Cinderhowl succeeds on the saving throw, she laughs at Ervan's \"puny magic.\" Either way, the scroll turns to dust after Ervan casts the spell from it.",
-						"Ervan would sooner die than give up the egg."
+						"{@creature Ervan Soulfallen|LRDT} (vedi la sezione \"Personaggi non giocanti\" alla fine dell'avventura per il suo blocco delle statistiche) prende di mira Cinderhowl con il suo {@item Spell Scroll} di {@spell Hold Monster}. Se Urlo Cindere fallisce il tiro salvezza, mantiene la condizione {@condition paralyzed} per la durata dell'incantesimo e cade a terra, dando a Ervan il tempo di afferrare l'uovo e scappare. Se Cinderhowl riesce nel tiro salvezza, ride della \"minuscola magia\" di Ervan. In ogni caso, la pergamena si trasforma in polvere dopo che Ervan ha lanciato l'incantesimo da essa.",
+						"Ervan preferirebbe morire piuttosto che rinunciare all'uovo."
 					],
 					"id": "03e"
 				}
@@ -1230,7 +1230,7 @@
 			"name": "Conclusion",
 			"page": 11,
 			"entries": [
-				"If the Player Characters defeat Ervan and Cinderhowl, Alax Jadescales prepares a banquet that includes platters of mouth-watering, all-you-can-eat hot wings. The Player Characters are welcome to stay at the Inn Plain Sight whenever they like."
+				"Se i Personaggi Giocanti sconfiggono Ervan e Cinderhowl, Alax Jadescales prepara un banchetto che include piatti di deliziose ali piccanti a consumazione libera. I Personaggi Giocanti sono invitati a soggiornare alla Locanda Plain Sight ogni volta che lo desiderano."
 			],
 			"id": "03f"
 		},
@@ -1239,7 +1239,7 @@
 			"name": "Nonplayer Characters",
 			"page": 11,
 			"entries": [
-				"This section provides D&D stat blocks for Alax Jadescales, the dragonborn innkeeper, and Ervan Soulfallen, the evil sorcerer. If you're playing the adventure without D&D rules, you don't need these stat blocks.",
+				"Questa sezione fornisce i blocchi delle statistiche di D&D per Alax Jadescales, il locandiere dragonide, e Ervan Soulfallen, il malvagio stregone. Se stai giocando l'avventura senza le regole di D&D, non hai bisogno di questi blocchi delle statistiche.",
 				{
 					"type": "list",
 					"columns": 2,
@@ -1256,21 +1256,21 @@
 			"name": "Without D&D Rules",
 			"page": 13,
 			"entries": [
-				"The following system can help you run the adventure without D&D rules. If you're not sure how to resolve a situation using the system outlined below, hot wing it.",
+				"Il seguente sistema può aiutarti a gestire l'avventura senza le regole di D&D. Se non sei sicuro di come risolvere una situazione utilizzando il sistema descritto di seguito, affrontalo.",
 				{
 					"type": "entries",
 					"name": "Taking Turns",
 					"page": 13,
 					"entries": [
-						"During each scene of the adventure, minifigures take turns in the following order unless everyone agrees to some other arrangement:",
+						"Durante ogni scena dell'avventura, le minifigure si alternano nel seguente ordine, a meno che tutti non siano d'accordo su qualche altro accordo:",
 						{
 							"type": "list",
 							"items": [
-								"Orc Rogue",
-								"Elf Wizard",
-								"Gnome Fighter",
-								"Dwarf Cleric",
-								"Creatures controlled by the Dungeon Master"
+								"Orco Ladro",
+								"Mago Elfo",
+								"Gnomo Guerriero",
+								"Chierico nano",
+								"Creature controllate dal Dungeon Master"
 							]
 						}
 					],
@@ -1281,7 +1281,7 @@
 					"name": "What Can Happen on a Turn",
 					"page": 13,
 					"entries": [
-						"What minifigures can do is limited only by the players' imaginations. On each of its turns, a minifigure can do whatever activities the player controlling that minifigure wants it to do, subject to the Dungeon Master's approval. Encourage everyone to be creative. Here are examples of activities a minifigure can do on its turn:",
+						"Ciò che le minifigure possono fare è limitato solo dall'immaginazione dei giocatori. In ciascuno dei suoi turni, una minifigure può svolgere qualsiasi attività il giocatore che controlla quella minifigure desidera che faccia, previa approvazione del Dungeon Master. Incoraggia tutti a essere creativi. Ecco alcuni esempi di attività che una minifigure può svolgere nel suo turno:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1290,28 +1290,28 @@
 									"type": "item",
 									"name": "Attack",
 									"entries": [
-										"The minifigure can try to damage another creature or an object using a spell, a weapon, an element of the environment, or something else. (You decide if this is possible.) See \"Damage\" below for more information."
+										"La minifigure può tentare di danneggiare un'altra creatura o un oggetto utilizzando un incantesimo, un'arma, un elemento dell'ambiente o qualcos'altro. (Decidi tu se ciò è possibile.) Vedi \"Danni\" di seguito per ulteriori informazioni."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Drop, Grab, or Move an Item",
 									"entries": [
-										"The minifigure can drop an item it is holding, grab an item not being held or worn by another creature, or move an item not being held or worn by anyone. (Grabbing an item requires a free hand. You decide if an item is too big to be picked up or moved.)"
+										"La minifigure può lasciare cadere un oggetto che sta tenendo, afferrare un oggetto non tenuto o indossato da un'altra creatura o spostare un oggetto non tenuto o indossato da nessuno. (Afferrare un oggetto richiede una mano libera. Decidi tu se un oggetto è troppo grande per essere raccolto o spostato.)"
 									]
 								},
 								{
 									"type": "item",
 									"name": "Move",
 									"entries": [
-										"The minifigure can move to any area of the set that has been built and is reachable. (You decide if an area is reachable.)"
+										"La minifigure può spostarsi in qualsiasi area del set che è stata costruita ed è raggiungibile. (Decidi tu se un'area è raggiungibile.)"
 									]
 								},
 								{
 									"type": "item",
 									"name": "Other",
 									"entries": [
-										"The minifigure can try to accomplish something not otherwise accounted for in this section, such as forcing open a locked door, using a {@spell Jump} spell to leap to the top of a wall, or sneaking past a monster without being detected. If the minifigure has a skill, spell, or magic item that can help it accomplish what its player wants to do, assume it is successful."
+										"La minifigure può provare a compiere qualcosa che non sarebbe altrimenti contemplato in questa sezione, come forzare una porta chiusa a chiave, usare un incantesimo {@spell Jump} per saltare in cima a un muro o sgattaiolare oltre un mostro senza essere scoperta. Se la minifigure ha un'abilità, un incantesimo o un oggetto magico che può aiutarla a realizzare ciò che il suo giocatore vuole fare, supponi che abbia successo."
 									]
 								}
 							]
@@ -1324,23 +1324,23 @@
 					"name": "Damage",
 					"page": 13,
 					"entries": [
-						"Alax Jadescales, Ervan Soulfallen, and the Player Characters have special rules for determining what happens when they take damage (see \"Special Characters\" below). For all other creatures, use the following rules.",
-						"When a creature is attacked with a weapon or a damage-dealing spell, or is subject to some other damaging effect, it automatically loses one or more Points unless you can think of a reason why it shouldn't. You decide how many Points the minifigure loses, but here are some suggestions:",
+						"Alax Jadescales, Ervan Soulfallen e i Personaggi Giocanti hanno regole speciali per determinare cosa succede quando subiscono danni (vedi \"Personaggi Speciali\" di seguito). Per tutte le altre creature, utilizzare le seguenti regole.",
+						"Quando una creatura viene attaccata con un'arma o un incantesimo che infligge danni, o è soggetta a qualche altro effetto dannoso, perde automaticamente uno o più punti a meno che tu non riesca a pensare a un motivo per cui non dovrebbe farlo. Sei tu a decidere quanti punti perde la minifigure, ma ecco alcuni suggerimenti:",
 						{
 							"type": "list",
 							"items": [
-								"1 Point if the minifigure is subjected to a short fall, a minor trap, an attack made with a nonmagical weapon, or a damage-dealing spell of 1st level or lower",
-								"2 Points if the minifigure is subjected to a high fall, a deadly trap, an attack made with a magical weapon, or a 2nd-level spell that deals damage",
-								"3 Points if the minifigure is subjected to a 3rd-level spell that deals damage or some other devastating effect, such as a dragon's breath, weapon or a collapsing building"
+								"1 punto se la minifigure è soggetta a una breve caduta, a una trappola minore, a un attacco effettuato con un'arma non magica o a un incantesimo che infligge danni di 1° livello o inferiore",
+								"2 Punti se la minifigure è sottoposta ad una caduta dall'alto, ad una trappola mortale, ad un attacco effettuato con un'arma magica o ad un incantesimo di 2° livello che infligge danni",
+								"3 Punti se la minifigure è soggetta a un incantesimo di 3° livello che infligge danni o qualche altro effetto devastante, come il soffio di un drago, un'arma o un edificio che crolla"
 							]
 						},
-						"You decide how many Points a creature can lose before it surrenders, flees, or dies. A big creature like Cinderhowl has lots of Points to lose, while a smaller minifigure might have only one or two.",
+						"Sei tu a decidere quanti Punti una creatura può perdere prima di arrendersi, fuggire o morire. Una creatura grande come Cinderhowl ha molti punti da perdere, mentre una minifigure più piccola potrebbe averne solo uno o due.",
 						{
 							"type": "entries",
 							"name": "Special Characters",
 							"page": 13,
 							"entries": [
-								"Whenever the minifigure of Alex Jadescales, Ervan Soulfallen, or a Player Character becomes the target of a weapon attack, a damage-dealing spell, or some other damaging effect, resolve the outcome with a coin toss using the system outlined below:",
+								"Ogni volta che la minifigure di Alex Jadescales, Ervan Soulfallen o un personaggio giocante diventa il bersaglio di un attacco con un'arma, di un incantesimo che infligge danni o di qualche altro effetto dannoso, risolvi il risultato con il lancio di una moneta utilizzando il sistema descritto di seguito:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -1349,14 +1349,14 @@
 											"type": "item",
 											"name": "Target Wins",
 											"entries": [
-												"The minifigure isn't damaged."
+												"La minifigure non è danneggiata."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Target Loses",
 											"entries": [
-												"The minifigure is Knocked Down by the damage and must use its next turn to stand up; it can do nothing else on that turn. The minifigure can avoid being Knocked Down by removing one accessory it is wearing or carrying. The removed item is either lost or destroyed; either way, it is no longer in play."
+												"La minifigure viene Abbattuta dal danno e deve utilizzare il suo turno successivo per rialzarsi; non può fare nient'altro in quel turno. La minifigure può evitare di essere atterrata rimuovendo un accessorio che indossa o trasporta. L'oggetto rimosso viene perso o distrutto; in ogni caso, non è più in gioco."
 											]
 										}
 									]
@@ -1369,8 +1369,8 @@
 											"name": "Three Falls, You're Out",
 											"page": 13,
 											"entries": [
-												"Any minifigure that is Knocked Down by damage three times during a scene is Knocked Out (unable to take turns) until the next scene begins; the same rule applies to Alax Jadescales. If all the Player Characters' minifigures are Knocked Out when the Dungeon Master's turn begins, the adventure ends in defeat.",
-												"If Ervan Soulfallen is Knocked Down three times during a scene, he surrenders, escapes, or dies (your choice)."
+												"Qualsiasi minifigure che viene messa KO dai danni tre volte durante una scena viene messa KO (impossibile eseguire i turni) fino all'inizio della scena successiva; la stessa regola vale per Alax Jadescales. Se tutte le minifigure dei Personaggi Giocanti vengono messe KO quando inizia il turno del Dungeon Master, l'avventura termina con una sconfitta.",
+												"Se Ervan Soulfallen viene messo a terra tre volte durante una scena, si arrende, fugge o muore (a tua scelta)."
 											],
 											"id": "047"
 										}
@@ -1388,7 +1388,7 @@
 					"name": "Adjudicating Saving Throws",
 					"page": 13,
 					"entries": [
-						"Whenever a Player Character becomes the target of an effect that allows a saving throw, resolve the outcome with a coin toss using the system outlined below:",
+						"Ogni volta che un personaggio giocante diventa il bersaglio di un effetto che consente un tiro salvezza, risolvi il risultato con il lancio di una moneta utilizzando il sistema delineato di seguito:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -1397,14 +1397,14 @@
 									"type": "item",
 									"name": "Player Character Wins",
 									"entries": [
-										"The character is unaffected."
+										"Il personaggio non è influenzato."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Player Character Loses",
 									"entries": [
-										"The character loses one piece of equipment they are wearing or carrying. The item is removed from play and no longer obtainable. If the character has no items to lose, the character is Knocked Down instead (see \"Three Falls, You're Out!\" above)."
+										"Il personaggio perde un pezzo dell'equipaggiamento che indossa o trasporta. L'oggetto viene rimosso dal gioco e non è più ottenibile. Se il personaggio non ha oggetti da perdere, viene invece Atterrato (vedi \"Tre cadute, sei fuori!\" sopra)."
 									]
 								}
 							]
@@ -1417,7 +1417,7 @@
 					"name": "Using Magic Items",
 					"page": 14,
 					"entries": [
-						"Magic items are scattered throughout the adventure. You and the other players can invent effects for these items, using the suggestions below to inspire you:",
+						"Gli oggetti magici sono sparsi durante l'avventura. Tu e gli altri giocatori potete inventare effetti per questi oggetti, ispirandovi ai suggerimenti seguenti:",
 						{
 							"type": "entries",
 							"entries": [
@@ -1429,7 +1429,7 @@
 											"name": "+1 Breastplate",
 											"page": 14,
 											"entries": [
-												"Nonmagical, handheld weapons can't harm the minifigure wearing this breastplate."
+												"Le armi non magiche portatili non possono danneggiare la minifigure che indossa questa corazza."
 											],
 											"id": "04c"
 										},
@@ -1438,7 +1438,7 @@
 											"name": "+1 Shield",
 											"page": 14,
 											"entries": [
-												"A minifigure equipped with this shield can use it to shove another creature. The shield also protects against incoming arrows and breath weapons."
+												"Una minifigure dotata di questo scudo può usarlo per spingere un'altra creatura. Lo scudo protegge anche dalle frecce in arrivo e dalle armi a soffio."
 											],
 											"id": "04d"
 										},
@@ -1447,7 +1447,7 @@
 											"name": "Dagger of Venom",
 											"page": 14,
 											"entries": [
-												"If a minifigure is hidden before making an attack with this dagger, the dagger's poison deals extra damage."
+												"Se una minifigure viene nascosta prima di effettuare un attacco con questo pugnale, il veleno del pugnale infligge danni extra."
 											],
 											"id": "04e"
 										},
@@ -1456,7 +1456,7 @@
 											"name": "Devotee's Censer",
 											"page": 14,
 											"entries": [
-												"When used as a flail, this magic censer automatically destroys any Undead creature it hits."
+												"Quando viene utilizzato come mazzafrusto, questo incensiere magico distrugge automaticamente qualsiasi creatura non morta che colpisce."
 											],
 											"id": "04f"
 										},
@@ -1465,7 +1465,7 @@
 											"name": "Lantern of Revealing",
 											"page": 14,
 											"entries": [
-												"A minifigure can use this lantern to see {@condition invisible} creatures and objects."
+												"Una minifigure può utilizzare questa lanterna per vedere {@condition invisible} creature e oggetti."
 											],
 											"id": "050"
 										},
@@ -1474,7 +1474,7 @@
 											"name": "Manual of Quickness of Action",
 											"page": 14,
 											"entries": [
-												"After a minifigure reads this magic book, the book vanishes, and the minifigure gains the ability to perform amazing acrobatic feats for the rest of the adventure."
+												"Dopo che una minifigure ha letto questo libro magico, il libro svanisce e la minifigure acquisisce la capacità di eseguire incredibili acrobazie per il resto dell'avventura."
 											],
 											"id": "051"
 										},
@@ -1483,7 +1483,7 @@
 											"name": "Orb of Dragonkind",
 											"page": 14,
 											"entries": [
-												"Three times during the adventure, the orb can be used to teleport its holder to a safe location of the holder's choice within the confines of the built LEGO® set. The orb also has the power to summon evil dragons, as described in scene 5."
+												"Tre volte durante l'avventura, la sfera può essere utilizzata per teletrasportare chi la possiede in un luogo sicuro a sua scelta entro i confini del set LEGO® costruito. La sfera ha anche il potere di evocare draghi malvagi, come descritto nella scena 5."
 											],
 											"id": "052"
 										},
@@ -1492,7 +1492,7 @@
 											"name": "Potion of Clairvoyance",
 											"page": 14,
 											"entries": [
-												"Drinking this potion allows a minifigure to see or hear what's going on in a location that is otherwise beyond the range of its senses. For example, this potion can help a minifigure see what's on the opposite side of a closed door."
+												"Bere questa pozione consente a una minifigure di vedere o sentire cosa sta succedendo in un luogo che altrimenti sarebbe fuori dalla portata dei suoi sensi. Ad esempio, questa pozione può aiutare una minifigure a vedere cosa c'è dal lato opposto di una porta chiusa."
 											],
 											"id": "053"
 										},
@@ -1501,7 +1501,7 @@
 											"name": "Potion of Healing",
 											"page": 14,
 											"entries": [
-												"Feeding this potion to a Knocked Out minifigure ends that effect on it, allowing the minifigure to resume taking turns. In addition, the minifigure's Knocked Down count for the current scene resets to 0. Alternatively, if a minifigure missing one or more Points drinks this potion, it regains one of its missing Points."
+												"Somministrare questa pozione a una minifigure messa KO pone fine all'effetto su di essa, consentendo alla minifigure di riprendere a alternarsi. Inoltre, il conteggio degli Atterrati della minifigure per la scena corrente viene reimpostato su 0. In alternativa, se una minifigure a cui mancano uno o più punti beve questa pozione, riacquista uno dei suoi punti mancanti."
 											],
 											"id": "054"
 										},
@@ -1510,7 +1510,7 @@
 											"name": "Potion of Healing (Greater)",
 											"page": 14,
 											"entries": [
-												"This potion is identical to a {@item Potion of Healing} (see above), except two missing Points are regained instead of one."
+												"Questa pozione è identica a {@item Potion of Healing} (vedi sopra), tranne per il fatto che vengono recuperati due punti mancanti invece di uno."
 											],
 											"id": "055"
 										},
@@ -1519,7 +1519,7 @@
 											"name": "Potion of Heroism",
 											"page": 14,
 											"entries": [
-												"After drinking this potion, a minifigure can perform impressive feats of strength and athleticism until the current scene ends."
+												"Dopo aver bevuto questa pozione, una minifigure può eseguire impressionanti imprese di forza e atletismo fino al termine della scena attuale."
 											],
 											"id": "056"
 										},
@@ -1528,7 +1528,7 @@
 											"name": "Potion of Resistance (Acid)",
 											"page": 14,
 											"entries": [
-												"After drinking this potion, a minifigure is immune to acid until the current scene ends."
+												"Dopo aver bevuto questa pozione, una minifigure è immune all'acido fino al termine della scena attuale."
 											],
 											"id": "057"
 										},
@@ -1537,7 +1537,7 @@
 											"name": "Potion of Speed",
 											"page": 14,
 											"entries": [
-												"After drinking this potion, a minifigure can make an extra attack on each of its turns and moves more rapidly than normal. These effects end when the current scene ends."
+												"Dopo aver bevuto questa pozione, una minifigure può effettuare un attacco extra in ciascuno dei suoi turni e si muove più rapidamente del normale. Questi effetti terminano quando termina la scena corrente."
 											],
 											"id": "058"
 										},
@@ -1546,7 +1546,7 @@
 											"name": "Ring of Invisibility",
 											"page": 14,
 											"entries": [
-												"On the minifigure's turn, it can don this ring to become {@condition invisible} or remove the ring to become visible again."
+												"Durante il turno della minifigure, può indossare questo anello per diventare {@condition invisible} o rimuovere l'anello per diventare di nuovo visibile."
 											],
 											"id": "059"
 										},
@@ -1555,7 +1555,7 @@
 											"name": "Robe of Scintillating Colors",
 											"page": 14,
 											"entries": [
-												"The minifigure can command this article of clothing to shed {@quickref Vision and Light||2||bright light} in a dazzling array of colors that enemies can't bear to look at."
+												"La minifigure può comandare a questo capo di abbigliamento di perdere il colore {@quickref Vision and Light||2||bright light} in un'abbagliante gamma di colori che i nemici non possono sopportare di guardare."
 											],
 											"id": "05a"
 										},
@@ -1564,7 +1564,7 @@
 											"name": "Scimitar of Speed",
 											"page": 14,
 											"entries": [
-												"On its turn, a minifigure holding this scimitar can attack twice with it instead of once."
+												"Nel suo turno, una minifigure che impugna questa scimitarra può attaccare due volte con essa invece che una."
 											],
 											"id": "05b"
 										},
@@ -1573,7 +1573,7 @@
 											"name": "Sentinel Shield",
 											"page": 14,
 											"entries": [
-												"Whoever holds this shield is great at spotting and finding things."
+												"Chiunque abbia questo scudo è bravissimo a individuare e trovare cose."
 											],
 											"id": "05c"
 										},
@@ -1582,7 +1582,7 @@
 											"name": "Spell Scroll of Animate Dead",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Animate Dead} spell, which transforms inanimate bones into an Undead skeleton under the caster's control."
+												"La pergamena si trasforma in polvere mentre la minifigure lancia l'incantesimo {@spell Animate Dead}, che trasforma le ossa inanimate in uno scheletro non morto sotto il controllo dell'incantatore."
 											],
 											"id": "05d"
 										},
@@ -1591,7 +1591,7 @@
 											"name": "Spell Scroll of Hold Monster",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Hold Monster} spell on another minifigure, preventing it from doing anything on its next turn."
+												"La pergamena si trasforma in polvere mentre la minifigure lancia l'incantesimo {@spell Hold Monster} su un'altra minifigure, impedendole di fare qualsiasi cosa nel turno successivo."
 											],
 											"id": "05e"
 										},
@@ -1600,7 +1600,7 @@
 											"name": "Spell Scroll of Ice Storm",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Ice Storm} spell, which deals damage to all creatures in the storm's area."
+												"La pergamena si trasforma in polvere mentre la minifigure lancia l'incantesimo {@spell Ice Storm}, che infligge danni a tutte le creature nell'area della tempesta."
 											],
 											"id": "05f"
 										},
@@ -1609,7 +1609,7 @@
 											"name": "Spell Scroll of Invisibility",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Invisibility} spell on itself or another minifigure. The spell's recipient is {@condition invisible} until it attacks or casts a spell."
+												"La pergamena si trasforma in polvere quando la minifigure lancia l'incantesimo {@spell Invisibility} su se stessa o su un'altra minifigure. Il destinatario dell'incantesimo è {@condition invisible} finché non attacca o lancia un incantesimo."
 											],
 											"id": "060"
 										},
@@ -1618,7 +1618,7 @@
 											"name": "Spell Scroll of Mage Armor",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Mage Armor} spell on itself or another minifigure, encasing the spell's recipient in magical armor."
+												"La pergamena si trasforma in polvere quando la minifigure lancia l'incantesimo {@spell Mage Armor} su se stessa o su un'altra minifigure, avvolgendo il destinatario dell'incantesimo in un'armatura magica."
 											],
 											"id": "061"
 										},
@@ -1627,7 +1627,7 @@
 											"name": "Spell Scroll of Magic Missile",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Magic Missile} spell, creating three magical darts that automatically hit their targets."
+												"La pergamena si trasforma in polvere mentre la minifigure lancia l'incantesimo {@spell Magic Missile}, creando tre dardi magici che colpiscono automaticamente i bersagli."
 											],
 											"id": "062"
 										},
@@ -1636,7 +1636,7 @@
 											"name": "Spell Scroll of Phantasmal Force",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Phantasmal Force} spell, which creates an illusion of a creature or an object. The illusion lasts until the end of the current scene, but the caster can make it vanish before then."
+												"La pergamena si trasforma in polvere mentre la minifigure lancia l'incantesimo {@spell Phantasmal Force}, che crea l'illusione di una creatura o di un oggetto. L'illusione dura fino alla fine della scena attuale, ma l'incantatore può farla svanire prima di allora."
 											],
 											"id": "063"
 										},
@@ -1645,7 +1645,7 @@
 											"name": "Spell Scroll of Protection from Energy",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Protection from Energy} spell, either on itself or on another creature, giving the spells' target immunity to one type of energy (such as cold or fire) until the end of the current scene."
+												"La pergamena si trasforma in polvere mentre la minifigure lancia l'incantesimo {@spell Protection from Energy}, su se stessa o su un'altra creatura, conferendo al bersaglio l'immunità dell'incantesimo a un tipo di energia (come freddo o fuoco) fino alla fine della scena corrente."
 											],
 											"id": "064"
 										},
@@ -1654,7 +1654,7 @@
 											"name": "Spell Scroll of Speak with Dead",
 											"page": 14,
 											"entries": [
-												"The scroll turns to dust as the minifigure casts the {@spell Speak with Dead} spell, which lets the caster interrogate a nearby inanimate skull, asking it up to five questions."
+												"La pergamena si trasforma in polvere mentre la minifigure lancia l'incantesimo {@spell Speak with Dead}, che consente all'incantatore di interrogare un teschio inanimato vicino, ponendogli fino a cinque domande."
 											],
 											"id": "065"
 										},
@@ -1663,7 +1663,7 @@
 											"name": "Staff of Frost",
 											"page": 14,
 											"entries": [
-												"A minifigure holding this staff can cause it to project a cone of cold energy at another minifigure. In addition to taking cold damage, the target can't do anything on its next turn."
+												"Una minifigure che impugna questo bastone può far sì che proietti un cono di energia fredda su un'altra minifigure. Oltre a subire danni da freddo, il bersaglio non può fare nulla nel suo turno successivo."
 											],
 											"id": "066"
 										},
@@ -1672,7 +1672,7 @@
 											"name": "Sword of Sharpness",
 											"page": 14,
 											"entries": [
-												"This sword is so sharp that it can cut through wood and stone. It can be used to break off elements of buildings and other large objects."
+												"Questa spada è così affilata che può tagliare legno e pietra. Può essere utilizzato per rompere elementi di edifici e altri oggetti di grandi dimensioni."
 											],
 											"id": "067"
 										},
@@ -1681,7 +1681,7 @@
 											"name": "Tome of Clear Thought",
 											"page": 14,
 											"entries": [
-												"After a minifigure reads this magic book, the book vanishes, and the minifigure gains special knowledge previously unknown to it, which takes the form of a secret or hint revealed by the Dungeon Master."
+												"Dopo che una minifigure ha letto questo libro magico, il libro svanisce e la minifigure acquisisce una conoscenza speciale precedentemente sconosciuta, che assume la forma di un segreto o suggerimento rivelato dal Dungeon Master."
 											],
 											"id": "068"
 										}
@@ -1725,8 +1725,8 @@
 			"name": "Character Sheets",
 			"page": 14,
 			"entries": [
-				"Included here are four Character Sheets, one for each Player Character. These sheets are designed for players who have access to D&D rules.",
-				"If you're not using D&D rules, the following sections of each Character Sheet are still relevant, though players must interpret them using the information given:",
+				"Qui sono incluse quattro Schede Personaggio, una per ciascun Personaggio Giocante. Queste schede sono progettate per i giocatori che hanno accesso alle regole di D&D.",
+				"Se non stai utilizzando le regole di D&D, le seguenti sezioni di ciascuna Scheda del Personaggio sono comunque rilevanti, anche se i giocatori devono interpretarle utilizzando le informazioni fornite:",
 				{
 					"type": "gallery",
 					"images": [
@@ -1800,7 +1800,7 @@
 										{
 											"type": "item",
 											"name": "Adventure Designer:",
-											"entry": "Christopher Perkins"
+											"entry": "Cristoforo Perkins"
 										},
 										{
 											"type": "item",
@@ -1858,7 +1858,7 @@
 										{
 											"type": "item",
 											"name": "Graphic Design & Illustration:",
-											"entry": "Patricia de Erausquin Llorens & Alison Titus Hughes"
+											"entry": "Patricia de Erausquin Llorens e Alison Titus Hughes"
 										}
 									]
 								}
@@ -1876,12 +1876,12 @@
 										{
 											"type": "item",
 											"name": "Creative Lead:",
-											"entry": "Jordan Scott"
+											"entry": "Giordano Scott"
 										},
 										{
 											"type": "item",
 											"name": "Marketing Manager:",
-											"entry": "Tereza Dovinová"
+											"entry": "Teresa Dovinova"
 										},
 										{
 											"type": "item",

@@ -5,7 +5,7 @@
 			"name": "Heroes' Feast: Saving the Children's Menu",
 			"id": "000",
 			"entries": [
-				"{@i Heroes' Feast: Saving the Children's Menu} is a fifth edition Dungeons & Dragons adventure for four to six 10th-level characters, set in the Forgotten Realms. This adventure is written for experienced DMs. The information presented here is for the DM's eyes only. If you're planning to play through the adventure with someone else as your DM, stop reading now!",
+				"{@i Heroes' Feast: Saving the Children's Menu} è un'avventura di Dungeons & Dragons della quinta edizione per da quattro a sei personaggi di 10° livello, ambientata nei Forgotten Realms. Questa avventura è scritta per DM esperti. Le informazioni presentate qui sono solo per gli occhi del DM. Se hai intenzione di affrontare l'avventura con qualcun altro come DM, smetti di leggere adesso!",
 				{
 					"type": "image",
 					"href": {
@@ -21,16 +21,16 @@
 					"name": "Overview",
 					"id": "001",
 					"entries": [
-						"The River Shining Tavern is located in the town of Daggerford, in the Sword Coast region of the Forgotten Realms. The tavern's menu is legendary, but shipments from Holrow Homestead, the tavern's main supplier of ingredients, have suddenly stopped.",
-						"Kaga, the tavern's head chef, is growing anxious. A week ago, he sent adventurers to Holrow Homestead to investigate, but yesterday their bodies were found floating down the river. Concerned, Kaga pleads with the characters to find out what has happened to the homestead and its proprietor, Arthur Holrow, and to bring back the ingredients for a special pasta dish beloved by the tavern's youngest patrons.",
-						"On arriving at the homestead, the characters discover a fire giant named Ignis and her twin toddlers, Flauma and Calor. If the characters convince Ignis they mean her and her children no harm, the characters can peacefully look around the homestead for the ingredients they need.",
-						"While the characters are collecting the ingredients, fire giant warriors searching for Ignis track her to the homestead. Suddenly there's more at stake than a bowl of magic noodles\u2014if the characters don't intervene, Ignis's children will be abducted by a cruel villain.",
+						"La Taverna del Fiume Splendente si trova nella città di Daggerford, nella regione della Costa della Spada dei Forgotten Realms. Il menu della taverna è leggendario, ma le spedizioni da Holrow Homestead, il principale fornitore di ingredienti della taverna, si sono improvvisamente interrotte.",
+						"Kaga, il capocuoco della taverna, è sempre più ansioso. Una settimana fa, ha inviato degli avventurieri a Holrow Homestead per indagare, ma ieri sono stati trovati i loro corpi che galleggiavano lungo il fiume. Preoccupato, Kaga supplica i personaggi di scoprire cosa è successo alla fattoria e al suo proprietario, Arthur Holrow, e di riportare indietro gli ingredienti per uno speciale piatto di pasta amato dai più giovani avventori della taverna.",
+						"All'arrivo alla fattoria, i personaggi scoprono un gigante del fuoco di nome Ignis e i suoi gemelli, Flauma e Calor. Se i personaggi convincono Ignis che non intendono fare del male a lei e ai suoi figli, possono tranquillamente guardarsi intorno nella fattoria alla ricerca degli ingredienti di cui hanno bisogno.",
+						"Mentre i personaggi raccolgono gli ingredienti, i guerrieri giganti del fuoco alla ricerca di Ignis la seguono fino alla fattoria. All'improvviso c'è in gioco qualcosa di più di una ciotola di spaghetti magici: se i personaggi non intervengono, i figli di Ignis verranno rapiti da un crudele cattivo.",
 						{
 							"type": "inset",
 							"name": "Children in Peril",
 							"id": "002",
 							"entries": [
-								"Before running this adventure, check with each player to see if they're open to playing in an adventure where children are in danger (though the villains intend to capture the children and not harm them). You can adjust the adventure so the giants seek only to harm Ignis, leaving the children alone."
+								"Prima di intraprendere quest'avventura, verifica con ciascun giocatore se è disposto a partecipare a un'avventura in cui i bambini sono in pericolo (anche se i cattivi intendono catturare i bambini e non far loro del male). Puoi modificare l'avventura in modo che i giganti cerchino solo di danneggiare Ignis, lasciando in pace i bambini."
 							]
 						},
 						{
@@ -48,23 +48,23 @@
 									"width": 1700,
 									"height": 1155
 								},
-								"As the characters walk through the streets of Daggerford, they find themselves drawn to the delicious aroma emanating from the River Shining Tavern. When they enter, Jacque\u2014a tall, thin man wearing a crisp white jacket\u2014greets them. Jacque is the head waiter. Seeing the characters are adventurers, he hustles them into the kitchen. There he introduces them to Kaga, the head chef. Kaga is usually pleasant but formal; today, however, his tone is grave. He shares the following information:",
+								"Mentre i personaggi camminano per le strade di Daggerford, si ritrovano attratti dal delizioso aroma emanato dalla Taverna del Fiume Splendente. Quando entrano, Jacque, un uomo alto e magro che indossa una giacca bianca, li saluta. Jacque è il capo cameriere. Vedendo che i personaggi sono avventurieri, li spinge in cucina. Lì li presenta a Kaga, il capo chef. Kaga è solitamente piacevole ma formale; oggi, però, il suo tono è grave. Condivide le seguenti informazioni:",
 								{
 									"type": "insetReadaloud",
 									"id": "004",
 									"entries": [
-										"\"Jacque was wise to bring you to me. I have need of adventurers such as yourselves, but it's a matter of the utmost discretion. If you are willing to help, together we will bring joy to all the children of Daggerford. And your reward! You shall dine on the most delicious food you have ever tasted, food that grants you a magical boon. Will you help me and the young folk of Daggerford?\""
+										"\"Jacque è stata saggia a portarti da me. Ho bisogno di avventurieri come te, ma è una questione di massima discrezione. Se sei disposto ad aiutarmi, insieme porteremo gioia a tutti i bambini di Daggerford. E la tua ricompensa! Mangerai con il cibo più delizioso che tu abbia mai assaggiato, cibo che ti garantisce un vantaggio magico. Aiuterai me e i giovani di Daggerford?\""
 									]
 								},
-								"If the adventurers agree to help, proceed to \"What Kaga Knows.\"",
+								"Se gli avventurieri accettano di aiutare, procedi con \"Ciò che sa Kaga\".",
 								{
 									"type": "entries",
 									"name": "What Kaga Knows",
 									"id": "005",
 									"entries": [
-										"Kaga relates that the tavern's secret supplier, an eccentric druid named Arthur Holrow, has an extensive garden and dairy farm known as Holrow Homestead. Arthur's unique produce and dairy products are of the highest quality and have magical properties. When these ingredients are cooked into dishes by someone exceptionally well trained (\"one such as myself,\" Kaga notes), the dishes grant magical boons to those who eat them.",
-										"These special ingredients have helped make Kaga's dishes famous all over the Sword Coast\u2014particularly Kaga's Stumblenoodles, which are the hallmark of the tavern's children's menu. But Kaga hasn't heard from Arthur for a month and is very worried.",
-										"A week ago, the tavern hired adventurers to investigate Holrow Homestead, but local authorities found the lifeless bodies of these adventurers yesterday morning. They had been beaten and thrown into the Delimbiyr River, eventually floating downriver to Daggerford. Kaga describes these adventurers as young and brash. \"They were the sort of adventurers who draw swords first and ask questions later. Hiring them was my mistake. But Arthur is a peaceful man, and I can't believe he's responsible for their deaths. I hope you can solve this mystery without further violence.\"",
+										"Kaga racconta che il fornitore segreto della taverna, un eccentrico druido di nome Arthur Holrow, possiede un vasto giardino e una fattoria conosciuta come Holrow Homestead. I prodotti unici e i latticini di Arthur sono della massima qualità e hanno proprietà magiche. Quando questi ingredienti vengono cucinati nei piatti da qualcuno eccezionalmente ben addestrato (\"uno come me\", osserva Kaga), i piatti garantiscono doni magici a coloro che li mangiano.",
+										"Questi ingredienti speciali hanno contribuito a rendere famosi i piatti di Kaga in tutta la Costa della Spada, in particolare gli Stumblenoodles di Kaga, che sono il segno distintivo del menu per bambini della taverna. Ma Kaga non ha notizie di Arthur da un mese ed è molto preoccupata.",
+										"Una settimana fa, la taverna ha ingaggiato degli avventurieri per indagare su Holrow Homestead, ma ieri mattina le autorità locali hanno trovato i corpi senza vita di questi avventurieri. Erano stati picchiati e gettati nel fiume Delimbiyr, per poi galleggiare a valle fino a Daggerford. Kaga descrive questi avventurieri come giovani e sfacciati. \"Erano il tipo di avventurieri che prima estraggono la spada e poi fanno domande. Assumerli è stato un mio errore. Ma Arthur è un uomo pacifico, e non posso credere che sia responsabile della loro morte. Spero che tu possa risolvere questo mistero senza ulteriore violenza.\"",
 										{
 											"type": "image",
 											"href": {
@@ -83,14 +83,14 @@
 									"name": "Kaga's Request",
 									"id": "006",
 									"entries": [
-										"Kaga fears for Arthur's life, but he's desperate for answers. He hopes the characters can figure out what's going on at Holrow Homestead and restart regular shipments, or at least collect the ingredients for Kaga's Stumblenoodles. If the characters agree to investigate and return with the necessary ingredients, Kaga will prepare the party a magical dish as payment.",
-										"Kaga needs the following ingredients to prepare his famous Stumblenoodles:",
+										"Kaga teme per la vita di Arthur, ma è alla disperata ricerca di risposte. Spera che i personaggi riescano a capire cosa sta succedendo a Holrow Homestead e riavviare le spedizioni regolari, o almeno raccogliere gli ingredienti per gli Stumblenoodles di Kaga. Se i personaggi accettano di indagare e tornano con gli ingredienti necessari, Kaga preparerà al gruppo un piatto magico come pagamento.",
+										"Kaga ha bisogno dei seguenti ingredienti per preparare i suoi famosi Stumblenoodles:",
 										{
 											"type": "list",
 											"items": [
-												"{@area One can of milk|024|x} from Holrow's specially fed cows",
-												"{@area A wheel of Holrow cheese|010|x}, aged exactly seven seasons",
-												"{@area A small bag of mustard seeds|029|x} from Arthur Holrow's garden"
+												"{@area One can of milk|024|x} dalle mucche di Holrow alimentate appositamente",
+												"{@area A wheel of Holrow cheese|010|x}, invecchiato esattamente sette stagioni",
+												"{@area A small bag of mustard seeds|029|x} dal giardino di Arthur Holrow"
 											]
 										},
 										{
@@ -98,7 +98,7 @@
 											"name": "Kender Stumblenoodles",
 											"id": "007",
 											"entries": [
-												"Kaga got the recipe for Stumblenoodles from a kender adventurer who hailed from the world of Krynn. ({@race Kender|DSotDQ} and Krynn are both described in {@adventure Dragonlance: Shadow of the Dragon Queen|DSotDQ}.) This kender told Kaga dozens of wild stories about traveling the multiverse, but Kaga believed none of them. Regardless, the kender didn't stay long, and Kaga rechristened the recipe in his own name. It has proven incredibly popular with the children of Daggerford. You can find {@area the recipe|037|x} for the original Kender Stumblenoodles at the end of this adventure and in {@i Heroes' Feast: Flavors of the Multiverse}."
+												"Kaga ha ricevuto la ricetta degli Stumblenoodles da un avventuriero kender proveniente dal mondo di Krynn. ({@race Kender|DSotDQ} e Krynn sono entrambi descritti in {@adventure Dragonlance: Shadow of the Dragon Queen|DSotDQ}.) Questo kender raccontò a Kaga dozzine di storie folli sui viaggi nel multiverso, ma Kaga non credette a nessuna di esse. Nonostante ciò, il kender non rimase a lungo e Kaga ribattezzò la ricetta con il suo nome. Si è rivelato incredibilmente popolare tra i bambini di Daggerford. Puoi trovare {@area the recipe|037|x} per i Kender Stumblenoodles originali alla fine di questa avventura e in {@i Heroes' Feast: Flavors of the Multiverse}."
 											]
 										}
 									]
@@ -112,16 +112,16 @@
 					"name": "Adventure Background",
 					"id": "008",
 					"entries": [
-						"Holrow Homestead is a farm that has been in the Holrow family for generations. The two-story, saltbox farmhouse is built atop a hill with a huge secret (see the \"Secret of Holrow Homestead\" sidebar). Arthur Holrow was one of twelve children, born to parents of hardy country stock. Naturally quite shy, Arthur kept to himself. While his siblings were drawn to lofty pursuits and traveled far and wide to make names for themselves, Arthur stayed home and took care of his aging parents. The Holrow name is well known, and many members of the family became accomplished magicians or crafters. But little is known about Arthur Holrow.",
-						"It turns out young Arthur conducted magical experiments when he wasn't helping his mom and dad on the farm. He was eventually able to produce magically enhanced crops and farm animals, which he sold to surrounding towns at a healthy profit. When his parents died twenty years ago, he buried them in a small plot on the west side of the property. Arthur continued his thriving business and lived a quiet, contented life alone at Holrow Homestead.",
+						"Holrow Homestead è una fattoria che appartiene alla famiglia Holrow da generazioni. La fattoria a due piani, una scatola di sale, è costruita in cima a una collina con un enorme segreto (vedi la barra laterale \"Il segreto di Holrow Homestead\"). Arthur Holrow era uno dei dodici figli, nati da genitori di robusta stirpe di campagna. Naturalmente piuttosto timido, Arthur stava per conto suo. Mentre i suoi fratelli erano attratti da obiettivi elevati e viaggiavano in lungo e in largo per farsi un nome, Arthur rimase a casa e si prese cura dei suoi genitori anziani. Il nome Holrow è ben noto e molti membri della famiglia sono diventati maghi o artigiani esperti. Ma si sa poco di Arthur Holrow.",
+						"Si scopre che il giovane Arthur conduceva esperimenti magici quando non aiutava sua madre e suo padre nella fattoria. Alla fine riuscì a produrre raccolti e animali da fattoria magicamente potenziati, che vendette alle città circostanti con un buon profitto. Quando i suoi genitori morirono vent'anni fa, li seppellì in un piccolo appezzamento sul lato ovest della proprietà. Arthur continuò la sua fiorente attività e visse una vita tranquilla e contenta da solo a Holrow Homestead.",
 						{
 							"type": "inset",
 							"name": "Secret of Holrow Homestead",
 							"id": "009",
 							"entries": [
-								"The animals and plants that grow on and around the hill at Holrow Homestead are extraordinary. That's partly due to Arthur's magical experiments and his skill with druidic magic. But there's another, more ominous reason for the land's fecundity.",
-								"The hill at Holrow Homestead covers a slumbering giant, a grandchild of Annam known as a {@creature scion of Grolantor|BGG}. This enormous giant came down from the foothills and lay down to sleep here many centuries ago. A sleeping scion of Grolantor magically enhances plant and animal growth around it, resulting in rich crops and thriving livestock. Arthur never learned this secret, but he recorded his suspicions in a book in the house's library (see {@area area 2|01a|x} later in the adventure).",
-								"Scions of the Giant Gods are detailed in {@book Bigby Presents: Glory of the Giants|BGG}."
+								"Gli animali e le piante che crescono sulla collina di Holrow Homestead e nei suoi dintorni sono straordinari. Ciò è in parte dovuto agli esperimenti magici di Arthur e alla sua abilità con la magia druidica. Ma c'è un'altra ragione, più inquietante, per la fecondità della terra.",
+								"La collina di Holrow Homestead nasconde un gigante addormentato, un nipote di Annam conosciuto come {@creature scion of Grolantor|BGG}. Questo enorme gigante scese dalle colline e si sdraiò qui per dormire molti secoli fa. Un rampollo dormiente di Grolantor migliora magicamente la crescita delle piante e degli animali intorno a sé, producendo raccolti ricchi e bestiame prospero. Arthur non venne mai a conoscenza di questo segreto, ma registrò i suoi sospetti in un libro nella biblioteca della casa (vedi {@area area 2|01a|x} più avanti nell'avventura).",
+								"I discendenti degli Dei Giganti sono dettagliati in {@book Bigby Presents: Glory of the Giants|BGG}."
 							]
 						},
 						{
@@ -129,9 +129,9 @@
 							"name": "Enter the Giant",
 							"id": "00a",
 							"entries": [
-								"About a month ago, Arthur heard a loud noise outside. When he went to investigate, he found a fire giant running up the hillside toward his house, with two young fire giant children held close to her chest. She seemed eager to hide, so Arthur opened the doors to his barn and magically regrew the pasture grass to cover her tracks. She accepted his help, and they waited quietly together as they listened for her pursuers.",
-								"Sure enough, heavy footfalls soon stomped up the hill toward the house, and a hushed conversation took place just outside the barn doors, but eventually the pursuers moved on.",
-								"Arthur allowed the fire giant mother and her children to stay, and the giants bonded to Arthur gradually. They never had a common language but communicated through pantomime and learned each other's names. Arthur's generous heart embraced the whole family. He made space for them in the main house by pulling down the second story, boarding up the windows, and opening up the ground level, and Ignis and the children moved in.",
+								"Circa un mese fa, Arthur ha sentito un forte rumore fuori. Quando andò a indagare, trovò un gigante del fuoco che correva su per la collina verso casa sua, con due giovani bambini giganti del fuoco tenuti vicino al petto. Sembrava ansiosa di nascondersi, così Arthur aprì le porte del suo fienile e magicamente fece ricrescere l'erba del pascolo per coprire le sue tracce. Lei accettò il suo aiuto e aspettarono insieme in silenzio mentre ascoltavano i suoi inseguitori.",
+								"Come previsto, presto dei passi pesanti risalirono la collina verso la casa, e appena fuori dalle porte della stalla ebbe luogo una conversazione sommessa, ma alla fine gli inseguitori se ne andarono.",
+								"Arthur permise alla madre del gigante del fuoco e ai suoi figli di restare, e i giganti si legarono gradualmente ad Arthur. Non hanno mai avuto una lingua comune ma comunicavano attraverso la pantomima e imparavano i nomi gli uni degli altri. Il cuore generoso di Arthur abbracciava tutta la famiglia. Fece spazio per loro nella casa principale abbattendo il secondo piano, sbarrendo le finestre e aprendo il piano terra, e Ignis e i bambini si trasferirono lì.",
 								{
 									"type": "image",
 									"href": {
@@ -148,9 +148,9 @@
 									"name": "Ignis's Plight",
 									"id": "00b",
 									"entries": [
-										"Ignis was a queen among her people, but when she gave birth to her twins, she felt the mood at court change. The twins' father wasn't a noble, and one of her trusted advisers, Lord Invido, suggested this consort might try to usurp her throne. But it was Invido himself who coveted her power.",
-										"When Ignis disregarded Invido's feigned concerns, Invido took matters into his own hands. He had her consort killed and tried to abduct the heirs, intending to raise them as his own. Ignis was ready to fight for her family and throne, but Invido had already turned the other nobles against her. Outnumbered and afraid for her children, she fled.",
-										"Arthur and Ignis could never communicate well enough for him to get the whole story, but he understood that Invido is a giant who wants Ignis and her family dead and that Ignis was an influential individual among her people. Arthur sympathized with her and the children and strove to protect them at any cost."
+										"Ignis era una regina tra la sua gente, ma quando diede alla luce i suoi gemelli, sentì l'atmosfera a corte cambiare. Il padre dei gemelli non era un nobile e uno dei suoi fidati consiglieri, Lord Invido, suggerì che questo consorte potesse tentare di usurpare il suo trono. Ma era lo stesso Invido a bramare il suo potere.",
+										"Quando Ignis ignorò le finte preoccupazioni di Invido, Invido prese in mano la situazione. Fece uccidere il suo consorte e cercò di rapire gli eredi, con l'intenzione di allevarli come suoi. Ignis era pronta a combattere per la sua famiglia e il trono, ma Invido le aveva già messo contro gli altri nobili. In inferiorità numerica e spaventata per i suoi figli, è fuggita.",
+										"Arthur e Ignis non sarebbero mai riusciti a comunicare abbastanza bene da permettergli di comprendere l'intera storia, ma capì che Invido è un gigante che vuole Ignis e la sua famiglia morti e che Ignis era un individuo influente tra la sua gente. Arthur simpatizzava con lei e con i bambini e si sforzava di proteggerli ad ogni costo."
 									]
 								}
 							]
@@ -160,7 +160,7 @@
 							"name": "Arthur's Death",
 							"id": "00c",
 							"entries": [
-								"A week ago, when adventurers sent by the River Shining Tavern arrived at Holrow Homestead, they rashly attacked Ignis and her children. Arthur tried to defend his guests but lost his life in the attempt. Ignis, outraged by Arthur's death and the threat against her children, killed the adventurers and threw their corpses into the river. Ignis then buried Arthur in the plot next to his parents. She feels relatively safe at the homestead but remains alert for more adventurers who might threaten her family and for giants sent by Invido."
+								"Una settimana fa, quando gli avventurieri inviati dalla Taverna del Fiume Splendente arrivarono a Holrow Homestead, attaccarono avventatamente Ignis e i suoi figli. Arthur ha cercato di difendere i suoi ospiti ma ha perso la vita nel tentativo. Ignis, indignata per la morte di Artù e per la minaccia contro i suoi figli, uccise gli avventurieri e gettò i loro cadaveri nel fiume. Ignis poi seppellì Arthur nel complotto accanto ai suoi genitori. Si sente relativamente al sicuro nella fattoria, ma rimane all'erta per altri avventurieri che potrebbero minacciare la sua famiglia e per i giganti inviati da Invido."
 							]
 						}
 					]
@@ -170,13 +170,13 @@
 					"name": "The Adventure Begins",
 					"id": "00d",
 					"entries": [
-						"Supply shipments from Holrow Homestead usually come on a barge down the Delimbiyr River and take about half a day to arrive. Kaga doesn't know the exact location of the homestead, but he knows it stands atop a hill visible from the water. If the characters follow the river east, they should be able to spot it.",
+						"Le spedizioni di rifornimenti da Holrow Homestead di solito arrivano su una chiatta lungo il fiume Delimbiyr e impiegano circa mezza giornata per arrivare. Kaga non conosce l'esatta ubicazione della fattoria, ma sa che si trova in cima ad una collina visibile dall'acqua. Se i personaggi seguono il fiume verso est, dovrebbero essere in grado di individuarlo.",
 						{
 							"type": "entries",
 							"name": "Traveling to the Homestead",
 							"id": "00e",
 							"entries": [
-								"If the characters follow the river on foot, they eventually come to a small mooring and a path that leads up a hillside to a well-kept farm nestled in the foothills of Mount Illefarn. The farm is surrounded by a fence that keeps in roaming farm animals, which are friendly to strangers. A single enormous tree rises from the hill, creating shade over the house."
+								"Se i personaggi seguono il fiume a piedi, alla fine arrivano a un piccolo attracco e a un sentiero che conduce su una collina fino a una fattoria ben tenuta situata ai piedi del Monte Illefarn. La fattoria è circondata da un recinto che tiene in libertà gli animali della fattoria, che sono amichevoli con gli estranei. Un unico enorme albero si erge dalla collina, creando ombra sulla casa."
 							]
 						},
 						{
@@ -184,16 +184,16 @@
 							"name": "Arriving at the Homestead",
 							"id": "00f",
 							"entries": [
-								"The fields and orchards around the house are exceptionally lush. A path leads up the hill to a sturdy and artistically crafted wooden gate. \"Holrow Homestead\" is painted on a sign by the gate.",
-								"Once inside the gate, the characters are greeted by happy piglets and a few hungry goats looking for treats. Chickens cluck and scratch around the grounds, and a tough old barnyard cat looks on from its perch atop a fencepost. All the animals are healthy, and the grass is green and verdant.",
-								"The carriageway leads up from the south to the house's front entrance. A glass greenhouse is built into the east side of the house, and a large barn is attached to the north side. Soft mooing can be heard coming from the barn.",
-								"Rows of beans, garlic, shallots, cabbages, onions, and other vegetables line the hill on all sides, along with apple, cherry, pear, and quince trees and other flourishing plants that bear a plethora of fruits, nuts, and berries.",
+								"I campi e i frutteti intorno alla casa sono eccezionalmente rigogliosi. Un sentiero conduce su per la collina fino a un cancello di legno robusto e realizzato artisticamente. \"Holrow Homestead\" è dipinto su un cartello vicino al cancello.",
+								"Una volta varcato il cancello, i personaggi vengono accolti da maialini felici e da alcune capre affamate in cerca di dolcetti. Le galline chiocciano e razzolano per il terreno, e un vecchio gatto da cortile guarda dal suo trespolo in cima a un palo della recinzione. Tutti gli animali sono sani e l'erba è verde e verdeggiante.",
+								"La carreggiata sale da sud fino all'ingresso principale della casa. Sul lato est della casa è stata costruita una serra di vetro, mentre sul lato nord è annesso un grande fienile. Si sente un muggito sommesso provenire dalla stalla.",
+								"File di fagioli, aglio, scalogno, cavoli, cipolle e altre verdure fiancheggiano la collina su tutti i lati, insieme a meli, ciliegi, peri e mele cotogne e altre piante rigogliose che producono una miriade di frutti, noci e bacche.",
 								{
 									"type": "entries",
 									"name": "Ingredient: Mustard Seeds",
 									"id": "010",
 									"entries": [
-										"Near the house, three-foot-high mustard plants grow in raised beds among other herbs; a character who searches the garden and succeeds on a {@dc 12} Wisdom ({@skill Perception}) check spots them. A character can harvest the seeds from the mustard plants with a few minutes of work and a successful {@dc 15} Intelligence ({@skill Nature}) check, rolling the seed pods between their fingers so the seeds fall out into a bag. A {@spell Detect Magic} spell reveals that a faint aura of enchantment magic emanates from the seeds."
+										"Vicino alla casa, piante di senape alte tre piedi crescono in aiuole rialzate tra altre erbe; un personaggio che cerca nel giardino e supera una prova di Saggezza {@dc 12} ({@skill Perception}) li individua. Un personaggio può raccogliere i semi dalle piante di senape con pochi minuti di lavoro e una prova riuscita di {@dc 15} Intelligenza ({@skill Nature}), facendo rotolare i baccelli tra le dita in modo che i semi cadano in un sacchetto. Un incantesimo {@spell Detect Magic} rivela che dai semi emana una debole aura di magia ammaliante."
 									]
 								},
 								{
@@ -201,8 +201,8 @@
 									"name": "Arthur's Grave",
 									"id": "011",
 									"entries": [
-										"West of the house is a small graveyard with three simple graves. The graves lack headstones or any other way to identify who is buried there. Two of the graves are many years old, but one is newer, the dirt still fresh and heaped in an untidy pile. Plucked wildflowers lie atop this grave; although they're starting to wilt, the flowers still smell fresh.",
-										"Arthur's corpse lies in this fresh grave, and the {@spell Speak with Dead} spell works on him. A key inside his trouser pocket opens the safe in the house's library."
+										"Ad ovest della casa c'è un piccolo cimitero con tre tombe semplici. Le tombe non hanno lapidi o qualsiasi altro modo per identificare chi è sepolto lì. Due delle tombe sono vecchie di molti anni, ma una è più recente, la terra è ancora fresca e ammucchiata in un mucchio disordinato. Fiori di campo colti giacciono in cima a questa tomba; anche se stanno iniziando ad appassire, i fiori profumano ancora di fresco.",
+										"Il cadavere di Arthur giace in questa tomba fresca e l'incantesimo {@spell Speak with Dead} funziona su di lui. Una chiave nella tasca dei pantaloni apre la cassaforte nella biblioteca della casa."
 									]
 								}
 							]
@@ -212,15 +212,15 @@
 							"name": "Encountering Ignis",
 							"id": "012",
 							"entries": [
-								"If the characters aren't trying to be stealthy as they move about the house, Ignis, the neutral good {@creature fire giant} currently inside the barn, comes to investigate the newcomers. Otherwise, the characters must {@action hide} and succeed on a {@dc 16} group Dexterity ({@skill Stealth}) check to avoid attracting her attention.",
+								"Se i personaggi non cercano di essere furtivi mentre si muovono per la casa, Ignis, il bene neutrale {@creature fire giant} attualmente all'interno della stalla, viene a indagare sui nuovi arrivati. Altrimenti, i personaggi devono {@action hide} e riuscire in una prova di Destrezza di gruppo ({@skill Stealth}) di gruppo {@dc 16} per evitare di attirare la sua attenzione.",
 								{
 									"type": "entries",
 									"name": "Negotiating with Ignis",
 									"id": "013",
 									"entries": [
-										"Ignis speaks only Giant, but she is intelligent and can tell if the characters are respectful and mean no harm. If the party has no way to talk to her, she patiently tries to communicate through pantomime. If the party convinces her of their good intentions, she allows them to search the premises. Ignis is displeased if anyone flagrantly loots the home or otherwise disrespects Arthur or his memory. Beyond that, she doesn't stop the party from taking ingredients from the farm, so long as the characters don't trample the plants or harm the animals.",
-										"Ignis is suspicious of intruders, but she's also reluctant to start a fight. If the party displeases her, she becomes angry and orders them out of the house with forceful gestures. However, she won't initiate combat unless the characters threaten her or her children.",
-										"If Ignis becomes hostile, a character can get her to stand down by succeeding on a {@dc 18} Charisma ({@skill Persuasion}) check. But any hint of a subsequent threat\u2014or if she fears any danger will come to her children\u2014ends negotiation and she attacks. If a fight does occur, you might remind the players that characters who reduce a target to 0 hit points can choose to leave the defeated foe alive but {@condition unconscious}. If defeated in this way and then awakened, Ignis can again be reasoned with."
+										"Ignis parla solo Giant, ma è intelligente e può dire se i personaggi sono rispettosi e non intendono fare del male. Se il gruppo non ha modo di parlarle, cerca pazientemente di comunicare attraverso la pantomima. Se il partito la convince delle loro buone intenzioni, permette loro di perquisire i locali. Ignis è scontento se qualcuno saccheggia palesemente la casa o manca di rispetto in altro modo ad Arthur o alla sua memoria. Oltre a ciò, non impedisce al gruppo di prendere ingredienti dalla fattoria, a patto che i personaggi non calpestino le piante o danneggino gli animali.",
+										"Ignis è diffidente nei confronti degli intrusi, ma è anche riluttante a iniziare una rissa. Se la festa le dispiace, si arrabbia e ordina loro di uscire di casa con gesti energici. Tuttavia, non inizierà il combattimento a meno che i personaggi non minaccino lei o i suoi figli.",
+										"Se Ignis diventa ostile, un personaggio può convincerla a ritirarsi superando una prova di Carisma ({@skill Persuasion} ({@dc 18} di Carisma. Ma qualsiasi accenno a una minaccia successiva – o se teme che i suoi figli possano correre un pericolo – mette fine alla trattativa e lei attacca. Se si verifica un combattimento, potresti ricordare ai giocatori che i personaggi che riducono un bersaglio a 0 punti ferita possono scegliere di lasciare vivo ma {@condition unconscious} il nemico sconfitto. Se sconfitto in questo modo e poi risvegliato, è possibile nuovamente ragionare con Ignis."
 									]
 								},
 								{
@@ -228,7 +228,7 @@
 									"name": "Ignis's Children",
 									"id": "014",
 									"entries": [
-										"Ignis's children, Flauma and Calor, are noncombatants. Where the children appear later in the adventure, you'll find guidance for their interactions with the characters. Use the {@creature commoner} stat block for them, if necessary. Change their creature type to Giant and increase their Strength to 14 (+2). They're too young to speak fluently, but they know a few words of Giant (see the \"{@area Fire Giant Baby Talk|01e|x}\" sidebar later in the adventure)."
+										"I figli di Ignis, Flauma e Calor, non sono combattenti. Laddove i bambini appariranno più avanti nell'avventura, troverai una guida per le loro interazioni con i personaggi. Usa il blocco statistiche {@creature commoner} per loro, se necessario. Cambia il loro tipo di creatura in Gigante e aumenta la loro Forza a 14 (+2). Sono troppo giovani per parlare fluentemente, ma conoscono qualche parola di Gigante (vedi la barra laterale \"{@area Fire Giant Baby Talk|01e|x}\" più avanti nell'avventura)."
 									]
 								}
 							]
@@ -240,7 +240,7 @@
 					"name": "Holrow Homestead",
 					"id": "015",
 					"entries": [
-						"The homestead's large farmhouse has two stories and is well maintained, but all the windows have been boarded up. Unless otherwise noted, areas in the homestead share these features:",
+						"La grande fattoria della fattoria ha due piani ed è ben mantenuta, ma tutte le finestre sono state sbarrate. Se non diversamente specificato, le aree della fattoria condividono queste caratteristiche:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -248,22 +248,22 @@
 								{
 									"type": "item",
 									"name": "High Alert",
-									"entry": "Ignis is alert to anything out of the ordinary. If her children cry, the cows startle, or any loud noise occurs, she investigates."
+									"entry": "Ignis è attento a qualsiasi cosa fuori dall'ordinario. Se i suoi figli piangono, le mucche sussultano o si sente un rumore forte, lei indaga."
 								},
 								{
 									"type": "item",
 									"name": "Doors",
-									"entry": "Each door has AC 15, 30 hit points, and immunity to poison and psychic damage."
+									"entry": "Ogni porta ha CA 15, 30 punti ferita e immunità al veleno e ai danni psichici."
 								},
 								{
 									"type": "item",
 									"name": "Warm Surfaces",
-									"entry": "Most of the outer walls of the house feel unnaturally warm. (Ignis keeps the hearth stoked very hot.)"
+									"entry": "La maggior parte delle pareti esterne della casa sembrano innaturalmente calde. (Ignis mantiene il focolare molto caldo.)"
 								},
 								{
 									"type": "item",
 									"name": "Windows",
-									"entry": "The windows are boarded up from inside with wooden slats. Only tiny slivers of the interior can be seen through the slats."
+									"entry": "Le finestre sono sbarrate dall'interno con doghe di legno. Attraverso le lamelle si vedono solo piccoli frammenti dell'interno."
 								}
 							]
 						},
@@ -272,14 +272,14 @@
 							"name": "Homestead Locations",
 							"id": "016",
 							"entries": [
-								"The following locations are keyed to the Holrow Homestead map.",
+								"Le seguenti posizioni sono collegate alla mappa di Holrow Homestead.",
 								{
 									"type": "entries",
 									"name": "1: Main Hall",
 									"id": "017",
 									"entries": [
-										"The front doors open to a large living area. Most of the interior has been demolished to make one open room that's 20 feet high. The seam along the walls where the second level used to connect is still visible. The interior walls are mostly demolished, though a few remain.",
-										"The only room that still stands is in the southwest corner; it can be entered by a single door. This room is Arthur's library (area 2). Above the library is a loft with an improvised railing made from wood and wire that reaches partway to the ceiling. This is Ignis's nursery ({@area area 5|025|x}).",
+										"Le porte anteriori si aprono su un'ampia zona giorno. La maggior parte degli interni è stata demolita per creare una stanza aperta alta 20 piedi. È ancora visibile la cucitura lungo le pareti dove si collegava il secondo livello. Le pareti interne sono in gran parte demolite, anche se ne rimangono alcune.",
+										"L'unica stanza ancora in piedi è nell'angolo sud-ovest; vi si accede da un'unica porta. Questa stanza è la biblioteca di Arthur (area 2). Sopra la biblioteca c'è un soppalco con una ringhiera improvvisata in legno e filo che arriva parzialmente al soffitto. Questa è la cameretta di Ignis ({@area area 5|025|x}).",
 										{
 											"type": "gallery",
 											"images": [
@@ -547,14 +547,14 @@
 												}
 											]
 										},
-										"The main hall's west wall is lined with shelves. In the northwest corner, a blazing hearth emanates bright light and abundant heat. A pot of water boils on the hearth, and a large rubber cap for bottle-feeding calves bobs in the water. A dining table sits near the hearth.",
-										"A large sliding door leads north into the barn ({@area area 4|023|x}), and an open glass door leads east into the greenhouse ({@area area 3|01f|x}).",
+										"La parete ovest della sala principale è fiancheggiata da scaffali. Nell'angolo nord-ovest, un focolare ardente emana luce intensa e calore abbondante. Una pentola d'acqua bolle sul focolare e nell'acqua galleggia un grande tappo di gomma per il biberon dei vitelli. Un tavolo da pranzo si trova vicino al focolare.",
+										"Una grande porta scorrevole conduce a nord nel fienile ({@area area 4|023|x}) e una porta in vetro aperta conduce a est nella serra ({@area area 3|01f|x}).",
 										{
 											"type": "entries",
 											"name": "Trapdoor",
 											"id": "018",
 											"entries": [
-												"A large wooden crate rests in the northeast corner of the main hall, concealing a trapdoor in the floor. The crate is heavy, but a character who tries to move it can do so by succeeding on a {@dc 18} Strength ({@skill Athletics}) check. The trapdoor leads down to the basement ({@area area 6|027|x}). A full-grown fire giant is too big to fit through the trapdoor."
+												"Una grande cassa di legno si trova nell'angolo nord-est della sala principale, nascondendo una botola nel pavimento. La cassa è pesante, ma un personaggio che tenta di spostarla può farlo superando una prova di Forza ({@skill Athletics} ({@dc 18}). La botola conduce al seminterrato ({@area area 6|027|x}). Un gigante del fuoco adulto è troppo grande per passare attraverso la botola."
 											]
 										},
 										{
@@ -562,9 +562,9 @@
 											"name": "Bottle Time",
 											"id": "019",
 											"entries": [
-												"A minute or two after any characters enter the house, they hear a loud, high cry from the nursery (area 5) above Arthur's library. \"Ima! Ima!\" the voice echoes through the room. Mooing comes from the barn, and then heavy footfalls from within the barn move toward the main hall. After a moment, Ignis exits the barn through the sliding door, closing the door behind her.",
-												"If the characters are hidden and Ignis doesn't spot them, she first stokes the fire, then reaches into the pot of boiling water and plucks out the rubber cap. She snaps it onto a clear jar filled with frothy, fresh cow's milk. Cooing softly, she carries it toward the fenced-off area above the library. Then, out from the shadows at the back of the loft space staggers Calor, a 6-foot-tall fire giant toddler. He reaches toward his mother, who snuggles him and gives him the bottle. Ignis then sits on the table by the fire and, heating bits of spare metal, goes about crafting what appears to be a homemade sword.",
-												"Unless drawn by strange noises or her children's cries, Ignis stays focused on her task. If the characters haven't come to an understanding with Ignis and wish to sneak past her unnoticed, they must succeed on a {@dc 16} group Dexterity ({@skill Stealth}) check."
+												"Un minuto o due dopo che i personaggi sono entrati nella casa, sentono un grido forte e acuto provenire dalla stanza dei bambini (area 5) sopra la biblioteca di Arthur. \"Lo sono! Lo sono!\" la voce riecheggia nella stanza. Dalla stalla proviene un muggito, poi passi pesanti dall'interno si dirigono verso la sala principale. Dopo un momento, Ignis esce dalla stalla attraverso la porta scorrevole, chiudendosi la porta dietro di sé.",
+												"Se i personaggi sono nascosti e Ignis non li vede, prima attizza il fuoco, poi infila la mano nella pentola con l'acqua bollente e toglie il tappo di gomma. Lo inserisce in un barattolo trasparente pieno di latte vaccino fresco e schiumoso. Tubando piano, lo porta verso l'area recintata sopra la biblioteca. Quindi, fuori dall'ombra sul retro dello spazio del loft, barcolla Calor, un bambino gigante del fuoco alto 6 piedi. Si avvicina alla madre, che lo coccola e gli dà il biberon. Ignis si siede quindi sul tavolo accanto al fuoco e, riscaldando pezzi di metallo di riserva, inizia a creare quella che sembra essere una spada fatta in casa.",
+												"A meno che non sia attirata da strani rumori o dalle grida dei suoi figli, Ignis rimane concentrata sul suo compito. Se i personaggi non sono arrivati ​​a un'intesa con Ignis e desiderano sgusciare oltre senza essere notati, devono superare una prova di Destrezza di gruppo {@dc 16} ({@skill Stealth})."
 											]
 										}
 									]
@@ -574,18 +574,18 @@
 									"name": "2: Library",
 									"id": "01a",
 									"entries": [
-										"This is the only room on the ground floor that is still intact. The ceiling is 8 feet high. This room was Arthur Holrow's office and laboratory. Inside is a desk with scattered papers and a journal; a bookshelf with books, beakers, and jars of mosses and bark; and a few decorative items along the walls. Two wooden chairs face a small, bare table.",
-										"Characters who approach the desk and succeed on a {@dc 13} Wisdom ({@skill Perception}) check notice that a section of wall behind the desk protrudes slightly. A character who examines this section of the wall and succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check discovers a hidden safe behind a sliding panel; see \"Treasure\" below.",
-										"The bookshelves house many tomes on agricultural magic, with Arthur's scribbled, indecipherable notes on almost every page. A character who searches through these books and succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check finds a legible passage scribbled in a book recording Arthur's magical experiments. \"Many wondrous results!\" the note reads. \"But even without my experiments, the family farm has always been more fertile and the livestock healthier than those of our neighbors. Could there be some other factor I haven't considered?\" This is as close as Arthur ever got to figuring out the secret source of the farm's magic beneath his home (see the \"{@area Secret of Holrow Homestead|009|x}\" sidebar earlier in the adventure).",
+										"Questa è l'unica stanza del piano terra ancora intatta. Il soffitto è alto 8 piedi. Questa stanza era l'ufficio e il laboratorio di Arthur Holrow. All'interno c'è una scrivania con carte sparse e un diario; una libreria con libri, bicchieri e barattoli di muschi e corteccia; e alcuni oggetti decorativi lungo le pareti. Due sedie di legno si trovano di fronte a un tavolino spoglio.",
+										"I personaggi che si avvicinano alla scrivania e superano una prova di Saggezza {@dc 13} ({@skill Perception}) notano che una sezione del muro dietro la scrivania sporge leggermente. Un personaggio che esamina questa sezione del muro e supera una prova di Intelligenza {@dc 15} ({@skill Investigation}) scopre una cassaforte nascosta dietro un pannello scorrevole; vedere \"Tesoro\" di seguito.",
+										"Gli scaffali ospitano molti tomi sulla magia agricola, con le note scarabocchiate e indecifrabili di Arthur su quasi ogni pagina. Un personaggio che cerca in questi libri e supera una prova di {@dc 15} Intelligenza ({@skill Investigation}) trova un passaggio leggibile scarabocchiato in un libro che registra gli esperimenti magici di Arthur. \"Molti risultati meravigliosi!\" si legge nella nota. \"Ma anche senza i miei esperimenti, l'azienda agricola di famiglia è sempre stata più fertile e il bestiame più sano di quelli dei nostri vicini. Potrebbe esserci qualche altro fattore che non ho considerato?\" Questo è quanto di più vicino Arthur sia mai riuscito a scoprire la fonte segreta della magia della fattoria sotto casa sua (vedi la barra laterale \"{@area Secret of Holrow Homestead|009|x}\" all'inizio dell'avventura).",
 										{
 											"type": "entries",
 											"name": "Holrow Family Scrapbook",
 											"id": "01b",
 											"entries": [
-												"On a small table lies an album with \"Holrow\" written across the front in Common; this is the Holrow family scrapbook. The scrapbook recounts the achievements of Arthur's siblings, including the following:",
-												"{@b Benedict Holrow} moved to Waterdeep and has become a controversial politician due to his stance that the Lords of Waterdeep should be unmasked. He claims it is a citizen's right to elect and identify their lawmakers.",
-												"{@b Christine Holrow} travels the Sword Coast, performing as a singer-songwriter. She seldom lingers in one place for long. A fan group called Chrissy's Clan travels from town to town hoping to cross her path and bask in her music, which is said to soothe all troubles.",
-												"{@b Dabney Holrow} became an apothecary up north. He sells potions and tinctures and recently cured a prominent member of the Council of Sparkling Stones in Mirabar of an unidentifiable disease."
+												"Su un tavolino c'è un album con \"Holrow\" scritto sul davanti in Comune; questo è l'album dei ricordi della famiglia Hollow. L'album racconta i successi dei fratelli di Arthur, inclusi i seguenti:",
+												"{@b Benedict Holrow} si è trasferito a Waterdeep ed è diventato un politico controverso a causa della sua posizione secondo cui i Signori di Waterdeep dovrebbero essere smascherati. Sostiene che è diritto dei cittadini eleggere e identificare i propri legislatori.",
+												"{@b Christine Holrow} viaggia per la Costa della Spada, esibendosi come cantautore. Raramente si ferma a lungo nello stesso posto. Un gruppo di fan chiamato Chrissy's Clan viaggia di città in città sperando di incrociare la sua strada e crogiolarsi nella sua musica, che si dice lenisca tutti i problemi.",
+												"{@b Dabney Holrow} è diventato una farmacia al nord. Vende pozioni e tinture e recentemente ha curato un membro di spicco del Consiglio delle Pietre Scintillanti a Mirabar da una malattia non identificabile."
 											]
 										},
 										{
@@ -593,7 +593,7 @@
 											"name": "Cheesemonger's Almanac",
 											"id": "01c",
 											"entries": [
-												"Characters who search the desk find that the journal is in Arthur's hand and titled Cheesemonger's Almanac (see {@area appendix A|034|x}). They can use the almanac to determine which of the cheeses in the basement was intended for sale."
+												"I personaggi che frugano nella scrivania scoprono che il diario è nelle mani di Arthur e intitolato Almanacco del Cheesemonger (vedi {@area appendix A|034|x}). Possono usare l'almanacco per determinare quale dei formaggi nel seminterrato era destinato alla vendita."
 											]
 										},
 										{
@@ -601,15 +601,15 @@
 											"name": "Treasure",
 											"id": "01d",
 											"entries": [
-												"A few family heirlooms on the shelves and walls have more than sentimental value: three solid gold goblets worth 75 gp each, a small silver shield worth 50 gp, and a gold statue of an elephant worth 250 gp.",
-												"The locked safe can be opened with a successful {@dc 15} Dexterity ({@skill Sleight of Hand}) check using thieves' tools. It contains 500 gp and ten gems worth 100 gp each. The key to the safe is buried with Arthur.",
-												"Ignis will not approve of any character looting these treasures from Arthur's home. If pressed on the matter, she insists they belong to Arthur's family.",
+												"Alcuni cimeli di famiglia sugli scaffali e sulle pareti hanno un valore più che sentimentale: tre calici d'oro massiccio del valore di 75 mo ciascuno, un piccolo scudo d'argento del valore di 50 mo e una statua d'oro di un elefante del valore di 250 mo.",
+												"La cassaforte chiusa a chiave può essere aperta superando una prova di Destrezza {@dc 15} ({@skill Sleight of Hand}) utilizzando gli strumenti da ladro. Contiene 500 mo e dieci gemme del valore di 100 mo ciascuna. La chiave della cassaforte è sepolta con Arthur.",
+												"Ignis non approverà che nessun personaggio saccheggi questi tesori dalla casa di Arthur. Se pressata sulla questione, insiste che appartengono alla famiglia di Arthur.",
 												{
 													"type": "inset",
 													"name": "Fire Giant Baby Talk",
 													"id": "01e",
 													"entries": [
-														"You can use the vocabulary here when roleplaying the fire giant toddlers.",
+														"Puoi usare il vocabolario qui quando interpreti i bambini giganti del fuoco.",
 														{
 															"type": "list",
 															"style": "list-hang-notitle",
@@ -622,7 +622,7 @@
 																{
 																	"type": "item",
 																	"name": "Bottle:",
-																	"entry": "Puedle"
+																	"entry": "Pozzanghera"
 																},
 																{
 																	"type": "item",
@@ -672,15 +672,15 @@
 									"name": "3: Greenhouse",
 									"id": "01f",
 									"entries": [
-										"This large glass enclosure is accessible only from inside the main hall, through an open and unlocked door. Inside, the atmosphere is hot and humid. Greenery fills the entire space except for a narrow, winding path. The ceiling is 10 feet high.",
+										"Questa grande vetrata è accessibile solo dall'interno della sala principale, attraverso una porta aperta e non chiusa a chiave. All'interno l'atmosfera è calda e umida. Il verde riempie l'intero spazio ad eccezione di un sentiero stretto e tortuoso. Il soffitto è alto 10 piedi.",
 										{
 											"type": "entries",
 											"name": "Flauma",
 											"id": "020",
 											"entries": [
-												"Anyone who enters the greenhouse hears childlike chatter from the south end. Flauma, the other fire giant toddler, is in here playing in the dirt. As soon as she sees the adventurers, she blurts out, \"Manji!\"\u2014the Giant word for toy. She knows only a few words and speaks mostly in nonsense syllables. See the \"Fire Giant Baby Talk\" sidebar earlier in the adventure for inspiration.",
-												"Flauma is pleased to see new playthings, and as long as the characters appease her, she doesn't cry. If they ignore her, hurt her, or make her angry, she sobs and Ignis comes to her aid. Ignis is hostile toward anyone who causes Flauma's distress. She's too tall and broad to enter the greenhouse without squeezing, but she can attempt to grab or hit any creature within reach of the door.",
-												"If Ignis feels her child is in real danger, she breaks through the wall or the glass roof to retrieve Flauma and destroy the threat. If Ignis breaks the glass roof, each creature in the greenhouse other than Flauma must succeed on a {@dc 15} Dexterity saving throw or take 9 ({@dice 2d8}) slashing damage from the falling glass."
+												"Chi entra nella serra sente chiacchiere infantili dall'estremità sud. Flauma, l'altro gigante del fuoco, è qui a giocare nella terra. Non appena vede gli avventurieri, dice \"Manji!\", la parola gigante per giocattolo. Conosce solo poche parole e parla per lo più con sillabe senza senso. Per trovare ispirazione, consulta la barra laterale \"Fire Giant Baby Talk\" all'inizio dell'avventura.",
+												"Flauma è contenta di vedere nuovi giocattoli e finché i personaggi la placano non piange. Se la ignorano, la feriscono o la fanno arrabbiare, lei singhiozza e Ignis viene in suo aiuto. Ignis è ostile verso chiunque causi angoscia a Flauma. È troppo alta e robusta per entrare nella serra senza stringersi, ma può tentare di afferrare o colpire qualsiasi creatura a portata di mano.",
+												"Se Ignis ritiene che suo figlio sia in pericolo reale, sfonda il muro o il tetto di vetro per recuperare Flauma e distruggere la minaccia. Se Ignis rompe il tetto di vetro, ogni creatura nella serra diversa da Flauma deve riuscire un tiro salvezza su Destrezza {@dc 15} o subire 9 ({@dice 2d8}) danni taglienti dal vetro che cade."
 											]
 										},
 										{
@@ -688,7 +688,7 @@
 											"name": "Shambling Mounds",
 											"id": "021",
 											"entries": [
-												"Two {@creature Shambling Mound||shambling mounds} hide in the north end of the greenhouse. They can be spotted with a successful {@dc 12} Wisdom ({@skill Perception}) check. Arthur used magic to domesticate these creatures, which pose no danger to the fire giants. If a character comes within 20 feet of them, they attack."
+												"Due {@creature Shambling Mound||shambling mounds} si nascondono all'estremità nord della serra. Possono essere individuati con una prova riuscita di {@dc 12} Saggezza ({@skill Perception}). Arthur ha usato la magia per addomesticare queste creature, che non rappresentano alcun pericolo per i giganti del fuoco. Se un personaggio si avvicina a 20 piedi da loro, attacca."
 											]
 										},
 										{
@@ -696,8 +696,8 @@
 											"name": "Treasure",
 											"id": "022",
 											"entries": [
-												"Two rare cacao trees stand in the north end of the greenhouse, near the shambling mounds. The trees have broad flat leaves and yellowish gourds that hang in bunches from the highest branches. A {@spell Detect Magic} spell reveals the trees carry a faint aura of enchantment magic. A character investigating the greenhouse who succeeds on a {@dc 17} Intelligence ({@skill Nature}) identifies the trees and knows how to gather the precious cocoa beans that grow in clusters within the gourds. Each cacao gourd holds a few dozen beans covered in white pulp. When cleaned off, the beans are dark brown and have a rich chocolate scent. They have the same magical aura as the trees.",
-												"Kaga will pay the party 2,500 gp for the magical cocoa beans. Ignis won't stop the party from collecting the beans."
+												"Due rari alberi di cacao si trovano all'estremità nord della serra, vicino ai tumuli traballanti. Gli alberi hanno foglie larghe e piatte e zucche giallastre che pendono a grappoli dai rami più alti. Un incantesimo {@spell Detect Magic} rivela che gli alberi portano una debole aura di magia ammaliante. Un personaggio che indaga nella serra e che ottiene con successo un {@dc 17} Intelligenza ({@skill Nature}) identifica gli alberi e sa come raccogliere le preziose fave di cacao che crescono a grappoli all'interno delle zucche. Ogni zucca di cacao contiene alcune dozzine di chicchi ricoperti di polpa bianca. Una volta puliti, i chicchi sono di colore marrone scuro e hanno un ricco profumo di cioccolato. Hanno la stessa aura magica degli alberi.",
+												"Kaga pagherà al gruppo 2.500 mo per le magiche fave di cacao. Ignis non impedirà al gruppo di raccogliere i fagioli."
 											]
 										}
 									]
@@ -707,8 +707,8 @@
 									"name": "4: Barn",
 									"id": "023",
 									"entries": [
-										"The barn is 20 feet high, with large sliding doors at the north and south ends; the south door leads into the house, and the north door leads outside. The wooden doors each have AC 15, 50 hit points, and immunity to psychic and poison damage. They aren't heavy, but they are noisy. Opening the door that divides the barn from the house without alerting everyone in both locations requires a successful {@dc 18} Dexterity ({@skill Stealth}) check.",
-										"When the characters arrive, the north door is kept shut with wooden planks placed along the floor inside the barn door, preventing the door from sliding along its tracks. Removing the planks allows the door to be slid open."
+										"Il fienile è alto 20 piedi, con grandi porte scorrevoli alle estremità nord e sud; la porta sud conduce all'interno della casa e la porta nord conduce all'esterno. Ciascuna porta di legno ha CA 15, 50 punti ferita e immunità ai danni psichici e da veleno. Non sono pesanti, ma sono rumorosi. Aprire la porta che divide il fienile dalla casa senza allertare tutti in entrambe le posizioni richiede una prova riuscita di Destrezza ({@skill Stealth} {@dc 18}.",
+										"Quando i personaggi arrivano, la porta nord viene tenuta chiusa con assi di legno posizionate lungo il pavimento all'interno della porta della stalla, impedendo alla porta di scivolare lungo i suoi binari. La rimozione delle assi consente l'apertura scorrevole della porta."
 									]
 								},
 								{
@@ -716,7 +716,7 @@
 									"name": "Ingredient: Milk",
 									"id": "024",
 									"entries": [
-										"Inside the barn, cows chew away on troughs of Arthur's special bovine feed. A {@spell Detect Magic} spell reveals that a faint aura of abjuration magic emanates from the feed. The barn has milking stations equipped with buckets and milk cans. A character can try to milk a cow, doing so with a successful {@dc 10} Wisdom ({@skill Animal Handling}) check. The buckets and cans can be used to store the milk for the short trip back to Daggerford."
+										"All'interno della stalla, le mucche masticano le mangiatoie contenenti lo speciale mangime per bovini di Arthur. Un incantesimo {@spell Detect Magic} rivela che una debole aura di magia di abiurazione emana dal mangime. La stalla dispone di stazioni di mungitura dotate di secchi e bidoni del latte. Un personaggio può provare a mungere una mucca, facendolo con una prova di Saggezza ({@skill Animal Handling} riuscita {@dc 10}. I secchi e le lattine possono essere utilizzati per conservare il latte per il breve viaggio di ritorno a Daggerford."
 									]
 								},
 								{
@@ -724,16 +724,16 @@
 									"name": "5: Nursery",
 									"id": "025",
 									"entries": [
-										"Ignis has used old boards and bits of fence and metal to turn the top of the library into a nursery. The ceiling is 12 feet above the nursery floor.",
-										"From inside the nursery, characters can see that this space was once a bedroom. An old mattress lies on the floor, serving as a toddler bed, and wagon wheels, barrels, and rocks are scattered around as toys.",
-										"A character can access this area by climbing the shelving along the west wall of the main hall and succeeding on a {@dc 13} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check. Characters trying to avoid Ignis's watchful eye need to succeed on a {@dc 16} Dexterity ({@skill Stealth}) check to avoid being spotted as they climb.",
+										"Ignis ha utilizzato vecchie assi e pezzi di recinzione e metallo per trasformare la parte superiore della biblioteca in un asilo nido. Il soffitto è 12 piedi sopra il pavimento della scuola materna.",
+										"Dall'interno della stanza dei bambini, i personaggi possono vedere che questo spazio una volta era una camera da letto. Sul pavimento giace un vecchio materasso, che funge da lettino per bambini, e ruote di carri, barili e rocce sono sparsi come giocattoli.",
+										"Un personaggio può accedere a quest'area arrampicandosi sugli scaffali lungo la parete ovest della sala principale e superando una prova di Forza {@dc 13} ({@skill Athletics}) o Destrezza ({@skill Acrobatics}). I personaggi che cercano di evitare l'occhio vigile di Ignis devono superare una prova di Destrezza {@dc 16} ({@skill Stealth}) per evitare di essere individuati mentre si arrampicano.",
 										{
 											"type": "entries",
 											"name": "Calor",
 											"id": "026",
 											"entries": [
-												"If he hasn't been previously disturbed, one of the fire giant toddlers, Calor, is playing here. His half-finished bottle of milk sits on the floor near him.",
-												"Calor responds to visitors much like his sister, excited to have new friends. He won't give up the milk easily and cries if it's taken from him, but a character can calm him or persuade him to relinquish it with a successful {@dc 15} Charisma ({@skill Persuasion}) check. However, if Ignis discovers an intruder here, she becomes hostile and attacks. A successful {@dc 20} Charisma ({@skill Persuasion}) check convinces her to stop fighting, but any threat or act of violence prompts her to fight to the death."
+												"Se non è stato disturbato in precedenza, uno dei bambini giganti del fuoco, Calor, sta giocando qui. La sua bottiglia di latte mezza finita è sul pavimento vicino a lui.",
+												"Calor risponde ai visitatori proprio come sua sorella, entusiasta di avere nuovi amici. Non rinuncerà facilmente al latte e piange se gli viene portato via, ma un personaggio può calmarlo o persuaderlo a cederlo con una prova riuscita di {@dc 15} Carisma ({@skill Persuasion}). Tuttavia, se Ignis scopre un intruso qui, diventa ostile e attacca. Una prova riuscita di Carisma ({@skill Persuasion} {@dc 20} la convince a smettere di combattere, ma qualsiasi minaccia o atto di violenza la spinge a combattere fino alla morte."
 											]
 										}
 									]
@@ -743,7 +743,7 @@
 									"name": "6: Basement",
 									"id": "027",
 									"entries": [
-										"The basement can be reached through the trapdoor in the main hall, which leads down to a long, narrow corridor. The ceiling here is only 6 feet high. This underground area is dark and cool, and it smells of earth. Two doors lead to {@area areas 7|028|x} and {@area 8|02a|x}."
+										"Il seminterrato può essere raggiunto attraverso la botola nella sala principale, che conduce ad un corridoio lungo e stretto. Il soffitto qui è alto solo 6 piedi. Questa zona sotterranea è buia e fresca e odora di terra. Due porte conducono a {@area areas 7|028|x} e {@area 8|02a|x}."
 									]
 								},
 								{
@@ -751,7 +751,7 @@
 									"name": "7: Cheese Storage Room",
 									"id": "028",
 									"entries": [
-										"Arthur's cheese storage room holds shelves of aging cheese wheels. A {@spell Detect Magic} spell reveals that the room emanates a faint aura of conjuration magic. There are nine shelves in the room, each with a numbered label that denotes how many seasons the cheese on that shelf has aged."
+										"Il magazzino del formaggio di Arthur contiene scaffali di forme di formaggio stagionate. Un incantesimo {@spell Detect Magic} rivela che la stanza emana una debole aura di magia di evocazione. Ci sono nove scaffali nella stanza, ciascuno con un'etichetta numerata che indica quante stagioni è invecchiato il formaggio su quello scaffale."
 									]
 								},
 								{
@@ -759,9 +759,9 @@
 									"name": "Ingredient: Cheese Wheel",
 									"id": "029",
 									"entries": [
-										"Kaga instructed the characters to return with a cheese wheel aged precisely seven seasons, so the cheese they need is on the shelf labeled \"Seven Seasons.\" There are three cheese wheels on this shelf, each weighing about 80 pounds. The first has holes and a pink rind. The second has a green rind. The third has holes and a green rind. All three wheels are double the size of the younger ones in this room.",
-										"The characters can use Arthur's {@i Cheesemonger's Almanac} (found in the {@area library|01a|x} and reproduced in {@area appendix A|034|x}) to deduce which of the three cheese wheels Arthur intended to sell to Kaga. To do so, they must compare Arthur's seasonal reports and Cheese Sample Observations table in the almanac with the cheese wheels on this shelf: In the first season, fall, wet weather turned the rind of the salable cheese pink. In the second season, winter, there were no conditions that affected the cheese. In the third season, spring, wet conditions left the salable cheese with a pink rind and the weather was hotter than expected. In the fourth season, summer, two consecutive hot seasons caused the salable cheese to double in size. In the fifth season, fall, Arthur covered the cheese, resulting in holes in the salable cheese. In the sixth season, winter, wet weather again turned the rind of the salable cheese pink, but in the final season, spring, dry weather turned the rind of the salable cheese green again.",
-										"The first cheese is the control sample. The second cheese is the experimental sample. The third cheese\u2014the one that has holes, has a green rind, and has doubled in size\u2014is the salable cheese perfect for Kaga's Stumblenoodles recipe. This is the only one that will grant a magical boon when made into a dish."
+										"Kaga ha incaricato i personaggi di tornare con una forma di formaggio invecchiata esattamente sette stagioni, quindi il formaggio di cui hanno bisogno è sullo scaffale etichettato \"Seven Seasons\". Su questo scaffale ci sono tre forme di formaggio, ciascuna del peso di circa 80 libbre. Il primo ha occhiature e la crosta rosa. Il secondo ha la crosta verde. Il terzo ha i buchi e la crosta verde. Tutte e tre le ruote sono grandi il doppio di quelle più giovani in questa stanza.",
+										"I personaggi possono usare il valore di Arthur {@i Cheesemonger's Almanac} (trovato in {@area library|01a|x} e riprodotto in {@area appendix A|034|x}) per dedurre quale delle tre forme di formaggio Arthur intendeva vendere a Kaga. Per fare ciò, devono confrontare i resoconti stagionali di Arthur e la tabella delle osservazioni sui campioni di formaggio nell'almanacco con le forme di formaggio su questo scaffale: Nella prima stagione, l'autunno, il tempo umido ha tinto di rosa la crosta del formaggio vendibile. Nella seconda stagione, quella invernale, non si sono verificate condizioni che abbiano influito sul formaggio. Nella terza stagione, la primavera, le condizioni umide lasciavano il formaggio vendibile con una crosta rosa e il clima era più caldo del previsto. Nella quarta stagione, l'estate, due stagioni calde consecutive hanno fatto raddoppiare le dimensioni del formaggio vendibile. Nella quinta stagione, in autunno, Arthur coprì il formaggio, provocando dei buchi nel formaggio vendibile. Nella sesta stagione, l'inverno, il tempo umido fece nuovamente diventare rosa la crosta del formaggio vendibile, ma nell'ultima stagione, la primavera, il tempo secco fece diventare di nuovo verde la crosta del formaggio vendibile.",
+										"Il primo formaggio è il campione di controllo. Il secondo formaggio è il campione sperimentale. Il terzo formaggio, quello che ha i buchi, ha la crosta verde e ha dimensioni raddoppiate, è il formaggio vendibile perfetto per la ricetta degli Stumblenoodles di Kaga. Questo è l'unico che garantirà un vantaggio magico quando trasformato in un piatto."
 									]
 								},
 								{
@@ -769,7 +769,7 @@
 									"name": "8: Storage Room",
 									"id": "02a",
 									"entries": [
-										"This simple underground chamber holds extra bags of feed, cured meats, fertilizer, and other supplies for growing and tending plants."
+										"Questa semplice camera sotterranea contiene sacchi extra di mangime, salumi, fertilizzanti e altri rifornimenti per coltivare e curare le piante."
 									]
 								}
 							]
@@ -781,20 +781,20 @@
 					"name": "Invido Returns",
 					"id": "02b",
 					"entries": [
-						"Lord Invido's agents lost track of Ignis and her children at Arthur's farm. When they returned to Invido's stronghold and admitted their failure, Invido sent a new search party to kill Ignis and bring back her children. You can have Invido's agents arrive when the characters are gathering the final ingredient they need or when they've reached an accord with Ignis.",
+						"Gli agenti di Lord Invido hanno perso le tracce di Ignis e dei suoi figli nella fattoria di Arthur. Quando tornarono alla roccaforte di Invido e ammisero il loro fallimento, Invido inviò una nuova squadra di ricerca per uccidere Ignis e riportare indietro i suoi figli. Puoi far arrivare gli agenti di Invido quando i personaggi stanno raccogliendo l'ultimo ingrediente di cui hanno bisogno o quando hanno raggiunto un accordo con Ignis.",
 						{
 							"type": "entries",
 							"name": "Ominous Arrival",
 							"id": "02c",
 							"entries": [
-								"As Invido's search party approaches, Ignis is in the main hall and hears something in the distance. She pokes her head out of the barn doors to check and immediately returns. She hurriedly puts out the fire, grabs the sword she has been forging for herself at the hearth, and removes the crate from the trapdoor to the basement. She places her children in the basement, pleading with them to be quiet, then closes the trapdoor and replaces the crate on top of it.",
-								"Anyone looking outside sees three {@creature Fire Giant||fire giants} heading for the house. Two enormous {@creature Hell Hound||hell hounds} (change their size to Large) accompany the giants, each on a leash of iron chain held by one of the giants. The giant who isn't holding a leash is the commander of the search party. The characters are likely to notice the arrival of such enormous adversaries; even in the basement, the giants' heavy footfalls can be felt.",
+								"Mentre la squadra di ricerca di Invido si avvicina, Ignis è nella sala principale e sente qualcosa in lontananza. Fa capolino dalla porta della stalla per controllare e ritorna immediatamente. Spegne in fretta il fuoco, afferra la spada che si è forgiata nel focolare e rimuove la cassa dalla botola del seminterrato. Mette i suoi figli nel seminterrato, implorandoli di stare zitti, poi chiude la botola e vi rimette sopra la cassa.",
+								"Chiunque guardi fuori ne vede tre {@creature Fire Giant||fire giants} diretti verso la casa. Due enormi {@creature Hell Hound||hell hounds} (cambiano la loro taglia in Grande) accompagnano i giganti, ciascuno al guinzaglio di una catena di ferro tenuta da uno dei giganti. Il gigante senza guinzaglio è il comandante della squadra di ricerca. È probabile che i personaggi si accorgano dell'arrivo di avversari così enormi; anche nel seminterrato si sentono i passi pesanti dei giganti.",
 								{
 									"type": "inset",
 									"name": "Alternative Enemies",
 									"id": "02d",
 									"entries": [
-										"{@book Bigby Presents: Glory of the Giants|BGG} describes giants who have joined cults of Elemental Evil. Perhaps Invido has used the Cult of Evil Fire as a way of consolidating his support and influence. If you have access to {@book Glory of the Giants|BGG}, you can replace the commander of the fire giant search party with a {@creature fire giant of evil fire|BGG}."
+										"{@book Bigby Presents: Glory of the Giants|BGG} descrive i giganti che si sono uniti ai culti del Male Elementale. Forse Invido ha usato il Culto del Fuoco Malvagio come un modo per consolidare il suo sostegno e la sua influenza. Se hai accesso a {@book Glory of the Giants|BGG}, puoi sostituire il comandante della squadra di ricerca del gigante del fuoco con un {@creature fire giant of evil fire|BGG}."
 									]
 								}
 							]
@@ -804,9 +804,9 @@
 							"name": "No More Hiding",
 							"id": "02e",
 							"entries": [
-								"If the characters reveal themselves, the giants attack. Otherwise, the giants investigate the exterior of the house. \"Keep looking for tracks,\" the commander says (all the fire giants speak only Giant). The hell hounds snarl angrily. Inside, Ignis looks angry and scared.",
-								"If uninterrupted, the fire giant hunters\u2014with the help of their hell hounds\u2014sniff out Ignis inside the house. The hounds bark loudly and lunge for the house, and the commander of the search party shouts, \"They're in the buildings!\" He smashes the roof of the barn to splinters, prompting the cattle inside to panic, but unless the planks keeping the barn's northern door shut have been removed, the terrified animals are trapped in the barn. Ignis readies her sword, determined to fight.",
-								"If Ignis is indifferent or friendly toward the characters, she pleads with them to protect her children. Then, she charges forward to face the patrol. The commander sneers, saying to his comrades, \"Go find the children\u2014they must be hidden here somewhere.\" He looks to Ignis with a nasty grin and declares, \"Lord Invido will honor me when I bring him back his heirs.\" At this, Ignis launches herself toward him, and the fight begins."
+								"Se i personaggi si rivelano, i giganti attaccano. Altrimenti i giganti indagano sull'esterno della casa. \"Continua a cercare tracce\", dice il comandante (tutti i giganti del fuoco parlano solo Gigante). I segugi infernali ringhiano rabbiosamente. All'interno, Ignis sembra arrabbiato e spaventato.",
+								"Se ininterrotti, i cacciatori di giganti del fuoco, con l'aiuto dei loro segugi infernali, fiutano Ignis all'interno della casa. I segugi abbaiano forte e si lanciano verso la casa, e il comandante della squadra di ricerca grida: \"Sono negli edifici!\" Riduce in schegge il tetto della stalla, mandando nel panico il bestiame all'interno, ma a meno che le assi che tengono chiusa la porta nord della stalla non siano state rimosse, gli animali terrorizzati rimangono intrappolati nella stalla. Ignis prepara la spada, determinata a combattere.",
+								"Se Ignis è indifferente o amichevole nei confronti dei personaggi, li supplica di proteggere i suoi figli. Quindi, carica in avanti per affrontare la pattuglia. Il comandante sogghigna, dicendo ai suoi compagni: \"Andate a cercare i bambini: devono essere nascosti qui da qualche parte\". Guarda Ignis con un sorriso cattivo e dichiara: \"Lord Invido mi onorerà quando gli riporterò indietro i suoi eredi\". A questo punto, Ignis si lancia verso di lui e il combattimento ha inizio."
 							]
 						},
 						{
@@ -814,9 +814,9 @@
 							"name": "Finding the Children",
 							"id": "02f",
 							"entries": [
-								"The other two members of the search party use the hounds to sniff out the children's location. The giants never allow the hounds off leash, so a hound can't move more than 20 feet from the giant holding its leash. A hound that uses the {@action Search} action and succeeds on a {@dc 15} Wisdom ({@skill Perception}) catches a whiff of the children's scent. If the hounds succeed on two such checks, they pinpoint the children's location. Invido's fire giants attack Ignis and the characters first, pursuing the children only if there are no defenders present. The giants can break the house down to get to the basement entrance; one attack from a fire giant makes a 5-foot hole in the old, wooden walls of the house. The giants are too big to enter the basement via the trapdoor, but the hell hounds can get in by squeezing.",
-								"If the search party gains access to the children, Ignis abandons whatever she is doing and goes to defend them. Invido's giants and their hell hounds avoid hurting the children; instead, they {@action grapple} the children and try to carry them away. If by chance one of the children takes damage, they do not die, but instead cling to life long enough for the characters to heal them.",
-								"When only one of Invido's fire giants remains, he abandons the battle and tries to flee, warning Ignis and the characters that Invido will not rest until he finds the children, for he is determined to raise them as his own."
+								"Gli altri due membri della squadra di ricerca usano i segugi per fiutare la posizione dei bambini. I giganti non lasciano mai i segugi senza guinzaglio, quindi un segugio non può spostarsi a più di 20 piedi dal gigante che tiene il guinzaglio. Un segugio che usa l'azione {@action Search} e riesce con un {@dc 15} Saggezza ({@skill Perception}) sente l'odore dei bambini. Se i segugi superano due di queste prove, individuano la posizione dei bambini. I giganti del fuoco di Invido attaccano prima Ignis e i personaggi, inseguendo i bambini solo se non sono presenti difensori. I giganti possono abbattere la casa per raggiungere l'ingresso del seminterrato; un attacco di un gigante del fuoco crea un buco di 1,5 metri nelle vecchie pareti di legno della casa. I giganti sono troppo grandi per entrare nel seminterrato attraverso la botola, ma i segugi infernali possono entrare stringendosi.",
+								"Se il gruppo di ricerca riesce ad accedere ai bambini, Ignis abbandona qualunque cosa stia facendo e va a difenderli. I giganti di Invido e i loro segugi infernali evitano di ferire i bambini; invece {@action grapple} prendono i bambini e cercano di portarli via. Se per caso uno dei bambini subisce danni, non muore, ma si aggrappa alla vita abbastanza a lungo da consentire ai personaggi di curarlo.",
+								"Quando rimane solo uno dei giganti del fuoco di Invido, abbandona la battaglia e cerca di fuggire, avvertendo Ignis e i personaggi che Invido non si fermerà finché non troverà i bambini, poiché è determinato ad allevarli come suoi."
 							]
 						},
 						{
@@ -834,8 +834,8 @@
 									"width": 850,
 									"height": 893
 								},
-								"If Ignis survives and the characters helped protect her children, she gives the characters a nod of appreciation. If she wasn't already friendly to them, she becomes friendly now. Indeed, a grateful tear runs down her cheek. She speaks with them freely in Giant and gladly tells her story. She has resolved to return home and reclaim control from Invido. But first, she must recover and make a plan. She'll hide in the mountains while she does so, and if the characters wish to help her, that's where they'll find her. If none of the characters speaks Giant, she tries to pantomime her thanks and her plan to head into the mountains to hide temporarily. If Ignis doesn't survive, but her children do, the characters must decide how to protect Flauma and Calor.",
-								"In any case, if the characters survive and haven't retrieved all the ingredients, they are now free to complete their mission."
+								"Se Ignis sopravvive e i personaggi hanno contribuito a proteggere i suoi figli, fa loro un cenno di apprezzamento. Se non era già amichevole con loro, lo diventa ora. In effetti, una lacrima di gratitudine le scorre lungo la guancia. Parla liberamente con loro in Giant e racconta volentieri la sua storia. Ha deciso di tornare a casa e riprendere il controllo da Invido. Ma prima deve riprendersi e fare un piano. Mentre lo fa si nasconderà tra le montagne e, se i personaggi vorranno aiutarla, sarà lì che la troveranno. Se nessuno dei personaggi parla, Gigante cerca di mimare i suoi ringraziamenti e il suo piano di andare sulle montagne per nascondersi temporaneamente. Se Ignis non sopravvive, ma i suoi figli sì, i personaggi devono decidere come proteggere Flauma e Calor.",
+								"In ogni caso, se i personaggi sopravvivono e non hanno recuperato tutti gli ingredienti, ora sono liberi di completare la loro missione."
 							]
 						},
 						{
@@ -843,8 +843,8 @@
 							"name": "Triumphant Return",
 							"id": "031",
 							"entries": [
-								"When the characters return to the River Shining Tavern, Kaga and Jacque are relieved to see them, then saddened to learn of Arthur Holrow's death.",
-								"If the characters retrieved all the ingredients, Kaga prepares a feast fit for heroes. Jacque places a heaping plate of Kaga's Stumblenoodles in the center of the large round table, along with anything else the characters desire (you can use dishes from {@i Heroes' Feast: Flavors of the Multiverse} to round out the tavern's menu). Many children from the town of Daggerford join the party for a great feast. Everyone digs in, family style. Characters who have a serving of Stumblenoodles begin to feel a tingling sensation all over. They gain the {@reward Charm of the Stumblenoodle|HFStCM}."
+								"Quando i personaggi tornano alla Taverna del Fiume Splendente, Kaga e Jacque sono sollevati nel vederli, poi rattristati nell'apprendere della morte di Arthur Holrow.",
+								"Se i personaggi recuperano tutti gli ingredienti, Kaga prepara un banchetto degno degli eroi. Jacque posiziona un piatto colmo di Stumblenoodles di Kaga al centro del grande tavolo rotondo, insieme a qualsiasi altra cosa i personaggi desiderino (puoi usare i piatti di {@i Heroes' Feast: Flavors of the Multiverse} per completare il menu della taverna). Molti bambini della città di Daggerford si uniscono alla festa per una grande festa. Tutti si appassionano, in stile familiare. I personaggi che mangiano una porzione di Stumblenoodles iniziano a sentire una sensazione di formicolio dappertutto. Guadagnano il {@reward Charm of the Stumblenoodle|HFStCM}."
 							]
 						}
 					]
@@ -854,7 +854,7 @@
 					"name": "Conclusion",
 					"id": "033",
 					"entries": [
-						"With dinner over, the characters are free to roam the Sword Coast. They might want to inform Arthur's siblings of his death. Perhaps, moved by Ignis's plight, they'll help her regain her rightful position among her people. They might even return to Holrow Homestead to investigate the mystery of its unusual fertility, potentially unleashing the awesome power of a {@creature Scion of Grolantor|BGG|hill giant scion}!"
+						"Una volta terminata la cena, i personaggi sono liberi di vagare per la Costa della Spada. Potrebbero voler informare i fratelli di Arthur della sua morte. Forse, commossi dalla difficile situazione di Ignis, l'aiuteranno a riconquistare la sua legittima posizione tra la sua gente. Potrebbero anche tornare a Holrow Homestead per indagare sul mistero della sua insolita fertilità, liberando potenzialmente lo straordinario potere di un {@creature Scion of Grolantor|BGG|hill giant scion}!"
 					]
 				},
 				{
@@ -862,13 +862,13 @@
 					"name": "Appendix A: Cheesemonger's Almanac",
 					"id": "034",
 					"entries": [
-						"The almanac is in Arthur's handwriting and contains a record of the weather over the last two years, a chart with the results of Arthur's experiments, and his notes.",
+						"L'almanacco è scritto a mano da Arthur e contiene una registrazione del tempo negli ultimi due anni, un grafico con i risultati degli esperimenti di Arthur e i suoi appunti.",
 						{
 							"type": "entries",
 							"name": "Seasonal Weather Log",
 							"id": "035",
 							"entries": [
-								"I've observed that seasonal weather conditions greatly affect the cheese aging process. Recording the weather each season is a key part of these experiments to understand how and why our Holrow cheese is unusual.",
+								"Ho osservato che le condizioni meteorologiche stagionali influenzano notevolmente il processo di stagionatura del formaggio. Registrare il tempo ogni stagione è una parte fondamentale di questi esperimenti per capire come e perché il nostro formaggio Holrow è insolito.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -876,22 +876,22 @@
 										{
 											"type": "item",
 											"name": "Summer",
-											"entry": "Dry heat makes for hard work out in the fields. Makes one wish he didn't have to work alone."
+											"entry": "Il caldo secco rende duro il lavoro nei campi. Fa venire voglia di non dover lavorare da solo."
 										},
 										{
 											"type": "item",
 											"name": "Fall",
-											"entry": "Snowfall came early and often. A nice blanket of snow every few days that melted quickly but kept the ground from hardening."
+											"entry": "Le nevicate arrivarono presto e spesso. Una bella coltre di neve ogni pochi giorni che si scioglieva rapidamente ma impediva al terreno di indurirsi."
 										},
 										{
 											"type": "item",
 											"name": "Winter",
-											"entry": "Beautiful snow caps on Illefarn. Wish Mom and Dad were here to see it."
+											"entry": "Bellissime cime innevate su Illefarn. Vorrei che mamma e papà fossero qui per vederlo."
 										},
 										{
 											"type": "item",
 											"name": "Spring",
-											"entry": "Unusually warm spring. The thaw came fast. The rivers are full."
+											"entry": "Primavera insolitamente calda. Il disgelo arrivò velocemente. I fiumi sono pieni."
 										}
 									]
 								},
@@ -902,22 +902,22 @@
 										{
 											"type": "item",
 											"name": "Summer",
-											"entry": "Very hot summer but not too dry thanks to the spring rains."
+											"entry": "Estate molto calda ma non troppo secca grazie alle piogge primaverili."
 										},
 										{
 											"type": "item",
 											"name": "Fall",
-											"entry": "Crisp and cool. Excellent cheese weather. Too bad the mice got in. Had to cover my samples until hibernation."
+											"entry": "Fresco e fresco. Ottimo clima del formaggio. Peccato che siano entrati i topi. Ho dovuto coprire i miei campioni fino al letargo."
 										},
 										{
 											"type": "item",
 											"name": "Winter",
-											"entry": "Great heaps of snow but a warmer ground made it melt fast. Slushy conditions were good for puddle jumping."
+											"entry": "Grandi cumuli di neve ma un terreno più caldo la facevano sciogliere velocemente. Le condizioni fangose ​​erano buone per il salto nelle pozzanghere."
 										},
 										{
 											"type": "item",
 											"name": "Spring",
-											"entry": "Finally, nice, dry, and warm."
+											"entry": "Finalmente bello, asciutto e caldo."
 										}
 									]
 								}
@@ -928,7 +928,7 @@
 							"name": "Guide to Cheese Conditioning",
 							"id": "036",
 							"entries": [
-								"It is important to rotate samples to the next shelf space every season to keep track of their age. Each season, I make a control sample from ordinary curds, an experimental sample not safe for consumption until further tests are conducted, and a salable sample from curds perfectly enhanced for peak flavor. To identify the effects of a season's conditions on each kind of sample, refer to the Cheese Sample Observations chart.",
+								"È importante ruotare i campioni sullo scaffale successivo ogni stagione per tenere traccia della loro età. Ogni stagione preparo un campione di controllo dalla cagliata ordinaria, un campione sperimentale non sicuro per il consumo fino a quando non verranno condotti ulteriori test e un campione vendibile di cagliata perfettamente potenziata per il massimo del sapore. Per identificare gli effetti delle condizioni di una stagione su ciascun tipo di campione, fare riferimento alla tabella delle osservazioni dei campioni di formaggio.",
 								{
 									"type": "table",
 									"caption": "Cheese Sample Observations",
@@ -946,28 +946,28 @@
 									],
 									"rows": [
 										[
-											"Season was mostly wet",
-											"Cheese develops holes",
-											"No change",
-											"Rind turns pink"
+											"La stagione è stata prevalentemente piovosa",
+											"Il formaggio sviluppa dei buchi",
+											"Nessun cambiamento",
+											"La crosta diventa rosa"
 										],
 										[
-											"Season was mostly dry",
-											"Rind turns pink",
-											"Doubles in size",
-											"Rind turns green"
+											"La stagione è stata prevalentemente secca",
+											"La crosta diventa rosa",
+											"Raddoppia di dimensioni",
+											"La crosta diventa verde"
 										],
 										[
-											"Sample was covered at any time during aging",
-											"No change",
-											"Rind turns green",
-											"Holes develop"
+											"Il campione è stato coperto in qualsiasi momento durante l'invecchiamento",
+											"Nessun cambiamento",
+											"La crosta diventa verde",
+											"Si sviluppano dei buchi"
 										],
 										[
-											"Weather was hotter than expected for longer than one season",
-											"Doubles in size",
-											"No change",
-											"Doubles in size"
+											"Il tempo è stato più caldo del previsto per più di una stagione",
+											"Raddoppia di dimensioni",
+											"Nessun cambiamento",
+											"Raddoppia di dimensioni"
 										]
 									]
 								}
@@ -980,7 +980,7 @@
 					"name": "Appendix B: Kender Stumblenoodles Recipe",
 					"id": "037",
 					"entries": [
-						"See the {@recipe Kender Stumblenoodles|HFFotM} entry."
+						"Vedi la voce {@recipe Kender Stumblenoodles|HFFotM}."
 					]
 				}
 			]
@@ -1012,14 +1012,14 @@
 											"type": "item",
 											"name": "Writer",
 											"entries": [
-												"Deborah Ann Woll"
+												"Debora Ann Woll"
 											]
 										},
 										{
 											"type": "item",
 											"name": "Art Directors",
 											"entries": [
-												"Fury Galluzzi, Kate Irwin"
+												"Furia Galluzzi, Kate Irwin"
 											]
 										},
 										{
@@ -1061,7 +1061,7 @@
 											"type": "item",
 											"name": "Interior Illustrators",
 											"entries": [
-												"CoupleOfKooks, Calder Moore, Irina Nordsol, Robin Olausson"
+												"Coppia di Kooks, Calder Moore, Irina Nordsol, Robin Olausson"
 											]
 										},
 										{
@@ -1082,7 +1082,7 @@
 											"type": "item",
 											"name": "Studio Art Director",
 											"entries": [
-												"Josh Herman"
+												"Josh Hermann"
 											]
 										},
 										{
@@ -1127,7 +1127,7 @@
 													"type": "item",
 													"name": "Product Manager",
 													"entries": [
-														"Jeff Turriff"
+														"Jeff Turrif"
 													]
 												},
 												{
@@ -1154,7 +1154,7 @@
 													"type": "item",
 													"name": "Authors",
 													"entries": [
-														"Kyle Newman, Jon Peterson, Michael Witwer, and Sam Witwer"
+														"Kyle Newman, Jon Peterson, Michael Witwer e Sam Witwer"
 													]
 												},
 												{
@@ -1168,7 +1168,7 @@
 													"type": "item",
 													"name": "Ten Speed Press Editors",
 													"entries": [
-														"Shaida Boroumand and Claire Yee"
+														"Shaida Boroumand e Claire Yee"
 													]
 												},
 												{
@@ -1182,7 +1182,7 @@
 													"type": "item",
 													"name": "Ten Speed Press Photo Director",
 													"entries": [
-														"Emma Campion"
+														"Emma Campione"
 													]
 												}
 											]

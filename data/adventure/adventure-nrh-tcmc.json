@@ -5,10 +5,10 @@
 			"name": "Restoring Harmony: The Candy Mountain Caper",
 			"page": 2,
 			"entries": [
-				"Welcome to Restoring Harmony, a Dungeons & Dragons adventure series in collaboration with the tasty and colorful world of NERDS.",
-				"To run this adventure, you need the fifth edition Basic Rules for D&D, which is available as a free download here. All the magic items and monster stat blocks you need are included at the end of this adventure.",
-				"Restoring Harmony is a campaign that's divided into six 1st-level mini adventures for a solo player and one longer adventure for multiple players. Each mini adventure takes approximately 45 minutes to play and the final adventure takes approximately 60\u201390 minutes to play.",
-				"The mini adventures can be played in any order, but the final adventure should be played last. Here is a list of all the adventures:",
+				"Benvenuti a Restoring Harmony, una serie di avventure di Dungeons & Dragons in collaborazione con il gustoso e colorato mondo di NERDS.",
+				"Per eseguire quest'avventura, hai bisogno della quinta edizione delle Regole Base di D&D, disponibili come download gratuito qui. Tutti gli oggetti magici e i blocchi delle statistiche dei mostri di cui hai bisogno sono inclusi alla fine di questa avventura.",
+				"Ristabilire l'armonia è una campagna divisa in sei mini avventure di 1° livello per un giocatore singolo e un'avventura più lunga per più giocatori. Ogni miniavventura richiede circa 45 minuti per essere giocata, mentre l'avventura finale dura circa 60-90 minuti.",
+				"Le mini avventure possono essere giocate in qualsiasi ordine, ma l'avventura finale dovrebbe essere giocata per ultima. Ecco l'elenco di tutte le avventure:",
 				{
 					"type": "list",
 					"items": [
@@ -26,9 +26,9 @@
 					"name": "Story Summary",
 					"page": 2,
 					"entries": [
-						"Ever jealous of the cheery dispositions and colorful deliciousness of the NERDS, Emo the beholder and his hired muscle, Mr. Greystone, have struck a blow against the NERDS' beloved city of Harmony. After years of searching, the nefarious duo have found the sacred Prismatic Well that gives Harmony its vibrant and fabulous colors. Now, with access to the Prismatic Well, Emo and Mr. Greystone have begun to leech the color from the city of Harmony. If they aren't stopped, the city will gradually turn gray, with everything eventually becoming black and white.",
-						"To the NERDS, the colors beginning to flicker and drain out of Harmony is an unsettling mystery. What brings the colors to Harmony is an enigma to them. All they can do is hope the power comes back on and restores the vibrancy of Harmony's colors once more. But one group knows what's up, and that group is the Lorekeeper Society\u2014a secret society sworn to protect Harmony. The Lorekeepers know about the power of the Prismatic Well, but its true location is lost even to themselves. However, they have a way to find the well using an ancient artifact known as the Amulet of Harmony, but to activate it they need to find the six Gems of Power. Once activated, the amulet guides whoever controls it to the secret location of the Prismatic Well. But once activated, the amulet also has the power to turn off the well.",
-						"The Gems of Power were long ago hidden away for safekeeping in dungeons, forests, and towers. No one in the Lorekeeper Society knows the details of the magical beasts and traps guarding the gems, but our heroic NERDS are more than up to the challenge of restoring Harmony!"
+						"Sempre geloso dell'indole allegra e della colorata prelibatezza dei NERDS, Emo lo spettatore e il suo mercenario, Mr. Greystone, hanno sferrato un duro colpo all'amata città di Harmony dei NERDS. Dopo anni di ricerca, il malvagio duo ha trovato il sacro Pozzo Prismatico che dona ad Armonia i suoi colori vibranti e favolosi. Ora, con l'accesso al Pozzo Prismatico, Emo e Mr. Greystone hanno iniziato a succhiare il colore dalla città di Harmony. Se non verranno fermati, la città diventerà gradualmente grigia e tutto alla fine diventerà bianco e nero.",
+						"Per i NERDS, i colori che iniziano a tremolare e a svanire da Harmony è un mistero inquietante. Ciò che porta i colori ad Harmony è per loro un enigma. Tutto quello che possono fare è sperare che la corrente ritorni e ripristini la vivacità dei colori di Harmony ancora una volta. Ma un gruppo sa cosa sta succedendo, e quel gruppo è la Lorekeeper Society, una società segreta che ha giurato di proteggere Harmony. I Custodi del Sapere conoscono il potere del Pozzo Prismatico, ma la sua vera posizione è sconosciuta anche a loro stessi. Tuttavia, riescono a trovare il pozzo utilizzando un antico artefatto noto come Amuleto dell'Armonia, ma per attivarlo devono trovare le sei Gemme del Potere. Una volta attivato, l'amuleto guida chi lo controlla nel luogo segreto del Pozzo Prismatico. Ma una volta attivato, l’amuleto ha anche il potere di spegnere il pozzo.",
+						"Le Gemme del Potere furono molto tempo fa nascoste per essere custodite in sotterranei, foreste e torri. Nessuno nella Lorekeeper Society conosce i dettagli delle bestie magiche e delle trappole a guardia delle gemme, ma i nostri eroici NERDS sono più che all'altezza della sfida di ripristinare l'armonia!"
 					],
 					"id": "001"
 				},
@@ -37,14 +37,14 @@
 					"name": "Solo Play",
 					"page": 2,
 					"entries": [
-						"Due to the solo player nature of the adventures (with the exception of Adventure 7 Adventure Together), the power level of some monsters may be difficult with respect to the level of the character. You may want to present a roleplaying solution (such as making friends with the monster or tricking them) to players who are eager to rush into combat. With any encounter in this or subsequent adventures, feel free to present opportunities for unconventional solutions and alternatives to combat.",
-						"You can also adjust the story to be more benevolent in nature, allowing automatic successes on rolls, having monsters become instant friends, or giving your player advantage on all their rolls.",
+						"A causa della natura delle avventure per giocatore singolo (ad eccezione di Adventure 7 Adventure Together), il livello di potenza di alcuni mostri potrebbe essere difficile rispetto al livello del personaggio. Potresti voler presentare una soluzione di gioco di ruolo (come fare amicizia con il mostro o ingannarlo) ai giocatori che sono ansiosi di lanciarsi in combattimento. Con qualsiasi incontro in questa o nelle avventure successive, sentiti libero di presentare opportunità per soluzioni non convenzionali e alternative al combattimento.",
+						"Puoi anche modificare la storia in modo che sia di natura più benevola, consentendo successi automatici sui tiri, facendo diventare i mostri amici istantanei o dando al tuo giocatore un vantaggio su tutti i suoi tiri.",
 						{
 							"type": "entries",
 							"name": "TPK: Total Party Kill",
 							"entries": [
-								"In solo play, there's always a chance the character can die. In the case of a single adventurer, this death results in the end of play; which isn't optimal for an afternoon of fun! One way to avoid death is to have healing readily available to the adventurer. If they're without healing, have the character find the odd {@item potion of healing} lying in a dusty crate or have them discover a special healing plant on their journey that, if eaten, puts them back to full hit points.",
-								"In the case of an untimely death, you can have a helpful NPC (like {@creature Mr. Honeycutt|NRH-TCMC}) save the day and revive them, or you can have them forego death saving throws and wake up as they're being dragged someplace unpleasant."
+								"Nel gioco da solista, c'è sempre la possibilità che il personaggio possa morire. Nel caso di un singolo avventuriero, questa morte pone fine al gioco; il che non è ottimale per un pomeriggio di divertimento! Un modo per evitare la morte è avere la guarigione prontamente disponibile per l'avventuriero. Se non hanno cure, chiedi al personaggio di trovare la strana {@item potion of healing} che giace in una cassa polverosa o fagli scoprire una speciale pianta curativa durante il suo viaggio che, se mangiata, li riporta ai punti ferita completi.",
+								"Nel caso di una morte prematura, puoi chiedere a un NPC utile (come {@creature Mr. Honeycutt|NRH-TCMC}) di salvare la situazione e di rianimarli, oppure puoi fargli rinunciare ai tiri salvezza dalla morte e svegliarsi mentre vengono trascinati in un posto spiacevole."
 							],
 							"id": "003"
 						}
@@ -56,14 +56,14 @@
 					"name": "Adventure Outline",
 					"page": 3,
 					"entries": [
-						"Here is a quick overview of the adventure:",
+						"Ecco una rapida panoramica dell'avventura:",
 						{
 							"type": "list",
 							"items": [
-								"Pink the Rogue receives a mysterious message to meet a \"{@creature Mr. Honeycutt|NRH-TCMC}\" at the central marketplace.",
-								"After hanging out in the marketplace, Pink meets {@creature Mr. Honeycutt|NRH-TCMC}, who asks them to find and recover the Coral Gem in the abandoned mine under Candy Mountain. {@creature Mr. Honeycutt|NRH-TCMC} gives Pink two ways to get there (as the DM, you may find you like a particular path, so you can choose to have {@creature Mr. Honeycutt|NRH-TCMC} give Pink only one option).",
-								"Path 1 is a long tunnel that has a nasty monster, {@creature Slurmy|NRH-TCMC}, who tries to eat Pink. Path 2 is an infiltration over the wall, past guards and into the mine.",
-								"Pink eventually gets into the abandoned mine, avoids the traps, opens the treasure box, gets past the kobolds, and recovers the gem."
+								"Pink the Rogue riceve un messaggio misterioso per incontrare un \"{@creature Mr. Honeycutt|NRH-TCMC}\" al mercato centrale.",
+								"Dopo essere uscito al mercato, Pink incontra {@creature Mr. Honeycutt|NRH-TCMC}, che chiede loro di trovare e recuperare la gemma di corallo nella miniera abbandonata sotto Candy Mountain. {@creature Mr. Honeycutt|NRH-TCMC} dà a Pink due modi per arrivarci (come DM, potresti scoprire che ti piace un percorso particolare, quindi puoi scegliere di far sì che {@creature Mr. Honeycutt|NRH-TCMC} dia a Pink solo un'opzione).",
+								"Il percorso 1 è un lungo tunnel in cui si trova un mostro malvagio {@creature Slurmy|NRH-TCMC} che cerca di mangiare Pink. Il percorso 2 è un'infiltrazione oltre il muro, oltre le guardie e nella miniera.",
+								"Alla fine Pink entra nella miniera abbandonata, evita le trappole, apre lo scrigno del tesoro, supera i coboldi e recupera la gemma."
 							]
 						}
 					],
@@ -74,8 +74,8 @@
 					"name": "Beginning Play",
 					"page": 3,
 					"entries": [
-						"Hand the character sheet (see \"Pink the Rogue,\" below) to your player and let them familiarize themselves with Pink.",
-						"All creatures or NPCs that are bolded have stat blocks, which are included at the end of the adventure along with any magic items the characters can earn. Whenever you're both ready, you can start the session."
+						"Consegna la scheda del personaggio (vedi \"Pink the Rogue\", di seguito) al tuo giocatore e lascia che familiarizzi con Pink.",
+						"Tutte le creature o gli NPC in grassetto hanno blocchi delle statistiche, che vengono inclusi alla fine dell'avventura insieme a tutti gli oggetti magici che i personaggi possono guadagnare. Ogni volta che siete entrambi pronti, potete iniziare la sessione."
 					],
 					"id": "005"
 				},
@@ -84,20 +84,20 @@
 					"name": "The Candy Mountain Caper",
 					"page": 3,
 					"entries": [
-						"The adventure begins in the vibrant and colorful city of Harmony where mysterious \"color outages\" are beginning to cause alarm. Being NERDS, the populace of Harmony has an optimistic outlook, and tries to carry on as best they can without being too worried, but the lack of color is concerning to even the most ebullient of NERDS.",
-						"When your player is ready, read the following:",
+						"L'avventura inizia nella vibrante e colorata città di Harmony, dove misteriose \"interruzioni di colore\" cominciano a destare allarme. Essendo NERDS, la popolazione di Harmony ha una visione ottimistica e cerca di andare avanti come meglio può senza essere troppo preoccupata, ma la mancanza di colore preoccupa anche il più esuberante dei NERDS.",
+						"Quando il tuo lettore è pronto, leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"page": 3,
 							"entries": [
-								"The city of Harmony is a lively metropolitan center. Outdoor markets feature foods and wares from around the realms. A vast library offers citizens free access to tomes of knowledge while lively entertainment venues feed the soul of the city. For nature lovers, several parks and a surrounding forest provide simpler comforts.",
-								"One thing unites the city: its vibrant color. The legend of Harmony's founding tells of a magical spark that ignited the lands in spellbinding hues. Nobody knows the origin of the spark, but many have sought its source in the hopes of discovering the extent of its power.",
-								"Recently however, a strange phenomenon has shaken the citizens of Harmony. In the past few weeks, color outages have been reported throughout the city with very few clues as to what might be causing them.",
-								"This morning, you wake up to an unusually colorless day. Worried murmurings can already be heard outside your room. As you look around, you notice a scrap of paper has been slipped under your door."
+								"La città di Harmony è un vivace centro metropolitano. I mercati all'aperto presentano cibi e merci provenienti da tutti i regni. Una vasta biblioteca offre ai cittadini libero accesso ai tomi del sapere mentre vivaci luoghi di intrattenimento alimentano l’anima della città. Per gli amanti della natura, diversi parchi e un bosco circostante garantiscono i comfort più semplici.",
+								"Una cosa unisce la città: il suo colore vibrante. La leggenda della fondazione di Harmony racconta di una scintilla magica che infiammò le terre con sfumature affascinanti. Nessuno conosce l'origine della scintilla, ma molti ne hanno cercato l'origine nella speranza di scoprire la portata del suo potere.",
+								"Recentemente però, uno strano fenomeno ha scosso i cittadini di Harmony. Nelle ultime settimane sono state segnalate interruzioni del colore in tutta la città con pochissimi indizi su cosa potrebbe averle causate.",
+								"Questa mattina ti svegli con una giornata insolitamente incolore. Già fuori dalla vostra stanza si sentono mormorii preoccupati. Mentre ti guardi intorno, noti che un pezzo di carta è stato infilato sotto la tua porta."
 							],
 							"id": "007"
 						},
-						"If Pink reads the note, read the following:",
+						"Se Pink legge la nota, leggi quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"page": 3,
@@ -105,30 +105,30 @@
 								{
 									"type": "quote",
 									"entries": [
-										"I know you are a NERD with a particular set of skills. Please meet me in the central marketplace this morning. I will be wearing a suit and horn-rimmed spectacles."
+										"So che sei un NERD con un insieme particolare di abilità. Per favore, vediamoci al mercato centrale questa mattina. Indosserò un abito e degli occhiali cerchiati di corno."
 									],
 									"by": "{@creature Mr. Honeycutt|NRH-TCMC}"
 								}
 							],
 							"id": "008"
 						},
-						"The central marketplace is a ten-minute walk from the inn where Pink has a room. The innkeeper, Mauve, knows Pink and has breakfast ready when Pink comes downstairs.",
+						"Il mercato centrale è a dieci minuti a piedi dalla locanda dove Pink ha una stanza. Il locandiere, Mauve, conosce Pink e ha la colazione pronta quando Pink scende le scale.",
 						{
 							"type": "entries",
 							"name": "Central Marketplace",
 							"page": 3,
 							"entries": [
-								"The journey to the marketplace is a series of winding streets and shortcuts through alleyways. Eventually, Pink can hear the buzz of the central marketplace, a bit subdued today from the lack of color.",
-								"When Pink arrives at the market, read the following:",
+								"Il viaggio verso il mercato è una serie di strade tortuose e scorciatoie attraverso i vicoli. Alla fine, Pink riesce a sentire il brusio del mercato centrale, oggi un po' attenuato dalla mancanza di colore.",
+								"Quando Pink arriva al mercato, leggi quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"page": 3,
 									"entries": [
-										"The sprawling central market of Harmony is a maze of shop stalls and a riot of sounds and sights. Face painters and storytellers delight their audiences. Vendors sell all kinds of wares from lanterns to shoes to spell components. The scent of delicious treats wafts through the air."
+										"L'esteso mercato centrale di Harmony è un labirinto di bancarelle e un tripudio di suoni e immagini. Pittori di volti e narratori deliziano il loro pubblico. I venditori vendono tutti i tipi di articoli, dalle lanterne alle scarpe ai componenti degli incantesimi. Il profumo di prelibatezze si diffonde nell'aria."
 									],
 									"id": "00a"
 								},
-								"Allow a moment for your player to roleplay here, exploring the market and interacting with the vendors. Florists bemoan the faded color in their flowers, other merchants say color is a natural resource that's now running out, some even wonder if Harmony has been cursed."
+								"Concedi un momento al tuo giocatore per giocare qui, esplorando il mercato e interagendo con i venditori. I fioristi lamentano il colore sbiadito dei loro fiori, altri commercianti dicono che il colore è una risorsa naturale che sta ormai esaurendosi, alcuni addirittura si chiedono se l'Armonia sia stata maledetta."
 							],
 							"id": "009"
 						},
@@ -137,12 +137,12 @@
 							"name": "Marketplace Amusements",
 							"page": 4,
 							"entries": [
-								"Here are some other fun activities for Pink:",
+								"Ecco alcune altre attività divertenti per Pink:",
 								{
 									"type": "list",
 									"items": [
-										"A young NERD, who looks up to Pink, wants to be a great rogue someday. Pink can teach them how to do sleight of hand, pick a lock, put on a disguise to trick a vendor they know, or some other rogue skill like how to do a flip or walk a tightrope. All these skills are {@dc 10} Dexterity checks (with the corresponding skill like {@skill Acrobatics} or {@skill Sleight of Hand}) and, if successful, amaze the young NERD, increasing their admiration.",
-										"Rose, a merchant who Pink knows well, pulls Pink aside and points to a shady NERD who's stolen some of Rose's prized jollyberries. Rose asks if Pink could steal them back. To do this, Pink must make a successful {@dc 12} Dexterity ({@skill Stealth}) check to sneak up on the thief and then a successful {@dc 12} Dexterity ({@skill Sleight of Hand}) check to swipe back the jollyberries. A failure on any of these checks can result in the thief attempting to escape or, if cornered, to provoke a fight."
+										"Un giovane NERD, che ammira Pink, vuole diventare un grande ladro un giorno. Pink può insegnare loro come eseguire un gioco di prestigio, scassinare una serratura, travestirsi per ingannare un venditore che conoscono o qualche altra abilità canaglia come fare una capriola o camminare su una corda. Tutte queste abilità sono {@dc 10} prove di Destrezza (con l'abilità corrispondente come {@skill Acrobatics} o {@skill Sleight of Hand}) e, in caso di successo, stupiscono il giovane NERD, aumentando la sua ammirazione.",
+										"Rose, un commerciante che Pink conosce bene, prende Pink da parte e indica un losco NERD che ha rubato alcune delle preziose bacche di Rose. Rose chiede se Pink potrebbe riprenderli. Per fare ciò, Pink deve effettuare con successo una prova di Destrezza {@dc 12} ({@skill Stealth}) per avvicinarsi di soppiatto al ladro e poi una prova riuscita di Destrezza {@dc 12} ({@skill Sleight of Hand}) per riportare indietro le bacche magiche. Un fallimento in una qualsiasi di queste prove può portare il ladro a tentare di scappare o, se messo alle strette, a provocare una rissa."
 									]
 								},
 								{
@@ -150,8 +150,8 @@
 									"name": "Wererats and the Lorekeeper Society",
 									"page": 4,
 									"entries": [
-										"Wererats and other good lycanthropes have long been members of the Lorekeeper Society. Being able to turn into an innocuous animal has allowed the Lorekeeper Society to remain secret for many centuries.",
-										"{@creature Mr. Honeycutt|NRH-TCMC} is the current Magister of the Lorekeeper Society and being a wererat lets him to keep a secretive eye on all matters\u2014big and small\u2014within Harmony."
+										"I ratti mannari e altri buoni licantropi sono da tempo membri della Società dei Custodi del Sapere. La capacità di trasformarsi in un animale innocuo ha permesso alla Società dei Custodi del Sapere di rimanere segreta per molti secoli.",
+										"{@creature Mr. Honeycutt|NRH-TCMC} è l'attuale Magister della Lorekeeper Society ed essere un topo mannaro gli permette di tenere d'occhio tutte le questioni, grandi e piccole, all'interno di Harmony."
 									],
 									"id": "00c"
 								}
@@ -163,33 +163,33 @@
 							"name": "Meeting Mr. Honeycutt",
 							"page": 4,
 							"entries": [
-								"Whenever you wish, Pink is approached by a kindly fellow with gray hair and a pointy nose, wearing a suit and horn-rimmed spectacles. This is {@creature Mr. Honeycutt|NRH-TCMC}.",
+								"Ogni volta che lo desideri, Pink viene avvicinato da un tipo gentile con i capelli grigi e il naso a punta, che indossa un abito e occhiali cerchiati di corno. Questo è {@creature Mr. Honeycutt|NRH-TCMC}.",
 								{
 									"type": "entries",
 									"name": "The Proposal",
 									"page": 4,
 									"entries": [
-										"When he's sure they're alone, {@creature Mr. Honeycutt|NRH-TCMC} activates his {@item gem of seeing}. His spectacles glow with magic as he looks Pink up and down. He then tells Pink the following:",
+										"Quando è sicuro che siano soli, {@creature Mr. Honeycutt|NRH-TCMC} attiva il suo {@item gem of seeing}. I suoi occhiali brillano di magia mentre guarda Pink dall'alto in basso. Poi dice a Pink quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"page": 4,
 											"entries": [
-												"Forgive the scrutiny, but I needed to be sure you weren't a doppelganger. One can never be too cautious, especially in these colorless times where the very fate of Harmony hangs in the balance.",
-												"My name is {@creature Mr. Honeycutt|NRH-TCMC}, and I belong to the Lorekeeper Society. You haven't heard of us, but we've been watching you and right now, we need your help."
+												"Perdona l'esame accurato, ma dovevo essere sicuro che non fossi un doppelganger. Non si è mai abbastanza cauti, soprattutto in questi tempi incolori in cui il destino stesso di Armonia è in bilico.",
+												"Il mio nome è {@creature Mr. Honeycutt|NRH-TCMC} e appartengo alla Lorekeeper Society. Non hai sentito parlare di noi, ma ti stiamo osservando e in questo momento abbiamo bisogno del tuo aiuto."
 											],
 											"id": "00f"
 										},
-										"Honeycutt goes on to explain that the Lorekeeper Society needs the Coral Gem recovered. The Society hid the gem for safekeeping centuries ago in the catacombs under Candy Mountain\u2014a once bustling mine that's long since been abandoned\u2014but now they need the gem back. {@creature Mr. Honeycutt|NRH-TCMC} won't go into details about why, only that the gem is needed to solve the mystery of the color outages.",
-										"{@creature Mr. Honeycutt|NRH-TCMC} knows of two entrances to the catacombs and can point Pink in the direction to either path:",
+										"Honeycutt prosegue spiegando che la Lorekeeper Society ha bisogno del recupero della gemma di corallo. La Società nascose la gemma secoli fa per tenerla al sicuro nelle catacombe sotto Candy Mountain, una miniera un tempo vivace che è stata abbandonata da tempo, ma ora ha bisogno della gemma. {@creature Mr. Honeycutt|NRH-TCMC} non entrerà nei dettagli sul perché, dice solo che la gemma è necessaria per risolvere il mistero delle interruzioni del colore.",
+										"{@creature Mr. Honeycutt|NRH-TCMC} conosce due ingressi alle catacombe e può indicare a Pink la direzione di uno dei due percorsi:",
 										{
 											"type": "list",
 											"items": [
-												"Hidden behind a fake wall near the central marketplace is the entrance to a secret tunnel that leads all the way to the catacombs under Candy Mountain. {@creature Mr. Honeycutt|NRH-TCMC} says that while this path offers a secret way into the mine, it could be perilous as it's unknown how well the tunnel has held up over the years.",
-												"At the base of Candy Mountain is the entrance to the old, abandoned mine. {@creature Mr. Honeycutt|NRH-TCMC} says the entire complex is surrounded by a slippery stone wall and guarded by eerie, faceless guards."
+												"Nascosto dietro un finto muro vicino al mercato centrale c'è l'ingresso di un tunnel segreto che conduce fino alle catacombe sotto Candy Mountain. {@creature Mr. Honeycutt|NRH-TCMC} afferma che sebbene questo percorso offra un accesso segreto alla miniera, potrebbe essere pericoloso poiché non si sa quanto bene il tunnel abbia resistito nel corso degli anni.",
+												"Alla base di Candy Mountain c'è l'ingresso della vecchia miniera abbandonata. {@creature Mr. Honeycutt|NRH-TCMC} afferma che l'intero complesso è circondato da un muro di pietra scivoloso e sorvegliato da inquietanti guardie senza volto."
 											]
 										},
-										"{@creature Mr. Honeycutt|NRH-TCMC} assumes Pink will do the job out of civic duty, but if Pink asks for monetary compensation, {@creature Mr. Honeycutt|NRH-TCMC} hands Pink a pouch containing 20 gp.",
-										"Unless Pink has other questions, {@creature Mr. Honeycutt|NRH-TCMC} gives them a {@item potion of healing} and leaves Pink to choose their path."
+										"{@creature Mr. Honeycutt|NRH-TCMC} presuppone che Pink svolgerà il lavoro per dovere civico, ma se Pink chiede un compenso in denaro, {@creature Mr. Honeycutt|NRH-TCMC} consegna a Pink un sacchetto contenente 20 mo.",
+										"A meno che Pink non abbia altre domande, {@creature Mr. Honeycutt|NRH-TCMC} dà loro una {@item potion of healing} e lascia che Pink scelga il suo percorso."
 									],
 									"id": "00e"
 								}
@@ -204,14 +204,14 @@
 					"name": "Path 1: The Secret Tunnel",
 					"page": 5,
 					"entries": [
-						"Following {@creature Mr. Honeycutt|NRH-TCMC}'s directions, Pink finds the dead-end alleyway. If Pink breaks through the fake wall, they see a dusty, stone staircase that descends 20 feet beneath the city, turning into a dark tunnel that leads east under Harmony. This tunnel is on average 10 feet wide and 10 feet tall and is roughly hewn from the dirt and rock. The tunnel eventually opens out into area C5a in Candy Mountain Mine (see below).",
-						"As Pink goes deeper along the tunnel, they can see holes in the walls and ceiling. These holes are too small for Pink to crawl into, but big enough for something unpleasant to hide in.",
+						"Seguendo le indicazioni di {@creature Mr. Honeycutt|NRH-TCMC}, Pink trova il vicolo senza uscita. Se Pink sfonda il finto muro, vedono una scala di pietra polverosa che scende 20 piedi sotto la città, trasformandosi in un tunnel buio che conduce a est sotto Harmony. Questo tunnel è in media largo 10 piedi e alto 10 piedi ed è scavato grossolanamente nella terra e nella roccia. Il tunnel alla fine si apre nell'area C5a della Candy Mountain Mine (vedi sotto).",
+						"Man mano che Pink approfondisce il tunnel, possono vedere dei buchi nelle pareti e nel soffitto. Questi buchi sono troppo piccoli perché Pink possa insinuarsi, ma abbastanza grandi perché qualcosa di spiacevole possa nascondersi.",
 						{
 							"type": "entries",
 							"name": "DM Note",
 							"page": 5,
 							"entries": [
-								"Ask your player if they're comfortable with scary situations. If not, feel free to make this tunnel a mildly spooky walk in the dark with no monsters or traps. If they enjoy a good scare, then proceed with the adventure as written."
+								"Chiedi al tuo giocatore se si sente a suo agio nelle situazioni spaventose. In caso contrario, sentiti libero di rendere questo tunnel una passeggiata nell'oscurità un po' inquietante, senza mostri o trappole. Se si godono un bello spavento, procedi con l'avventura come scritto."
 							],
 							"id": "011"
 						},
@@ -220,25 +220,25 @@
 							"name": "Encountering Slurmy",
 							"page": 5,
 							"entries": [
-								"The tunnel goes for several miles, so the trek is long, giving you ample opportunity to describe creepy moments when Pink might hear something like scraping, chittering, or scratching\u2014most likely from within the holes dotted throughout the tunnel. When your player is sufficiently creeped out, read the following:",
+								"Il tunnel si estende per diversi chilometri, quindi il viaggio è lungo, dandoti ampie opportunità di descrivere momenti inquietanti in cui Pink potrebbe sentire qualcosa come raschiare, cigolare o grattare, molto probabilmente dai buchi sparsi nel tunnel. Quando il tuo giocatore è sufficientemente spaventato, leggi quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"page": 5,
 									"entries": [
-										"Something pale and glistening darts past you, just beyond your torchlight, and dashes into a hole in the wall."
+										"Qualcosa di pallido e scintillante sfreccia davanti a te, appena oltre la luce della tua torcia, e si precipita in un buco nel muro."
 									],
 									"id": "013"
 								},
-								"When your player is really freaked out, read this:",
+								"Quando il tuo giocatore è davvero fuori di testa, leggi questo:",
 								{
 									"type": "insetReadaloud",
 									"page": 5,
 									"entries": [
-										"From up ahead (or is it coming from behind you?), you hear a rasping voice that says, \"Ooooh. It smells like fresh meat has come down into the darky-dark just for {@creature Slurmy|NRH-TCMC} to feast on.\""
+										"Da più avanti (o viene da dietro di te?), senti una voce stridula che dice: \"Ooooh. Puzza come se la carne fresca fosse scesa nell'oscurità solo per {@creature Slurmy|NRH-TCMC} banchettare\"."
 									],
 									"id": "014"
 								},
-								"{@creature Slurmy|NRH-TCMC} is a wretched, carnivorous creature with slimy, mottled green skin; spooky yellow eyes; long, hooked claws; and a mouth filled with needle-sharp fangs. {@creature Slurmy|NRH-TCMC} has lived here for decades, feasting on rats and other vermin."
+								"{@creature Slurmy|NRH-TCMC} è una creatura miserabile e carnivora dalla pelle verde viscida e screziata; occhi gialli spettrali; artigli lunghi e uncinati; e una bocca piena di zanne affilate come aghi. {@creature Slurmy|NRH-TCMC} vive qui da decenni, cibandosi di ratti e altri parassiti."
 							],
 							"id": "012"
 						},
@@ -247,7 +247,7 @@
 							"name": "Friend or Foe?",
 							"page": 5,
 							"entries": [
-								"As with anything in Harmony, the chance for friendship is possible. If {@creature Slurmy|NRH-TCMC} is treated with exceptional kindness, offered food, and won over with a successful {@dc 14} Charisma ({@skill Persuasion}) check, then a truce is possible and maybe even friendship. You can make this friendship automatic without the need for a roll, if you wish."
+								"Come per qualsiasi cosa in Harmony, la possibilità di amicizia è possibile. Se {@creature Slurmy|NRH-TCMC} viene trattato con eccezionale gentilezza, gli viene offerto cibo e viene conquistato con una prova riuscita di {@dc 14} Carisma ({@skill Persuasion}), allora una tregua è possibile e forse anche un'amicizia. Se lo desideri, puoi rendere automatica questa amicizia senza bisogno di tirare."
 							],
 							"id": "015"
 						},
@@ -256,8 +256,8 @@
 							"name": "Sneaky Slurmy",
 							"page": 5,
 							"entries": [
-								"If friendship isn't on the table, then {@creature Slurmy|NRH-TCMC} gives chase, hoping to flush Pink into a trap and gain the advantage for an easy meal.",
-								"There are two traps:",
+								"Se l'amicizia non è sul tavolo, allora {@creature Slurmy|NRH-TCMC} lo insegue, sperando di gettare Pink in una trappola e ottenere il vantaggio per un pasto facile.",
+								"Ci sono due trappole:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -266,14 +266,14 @@
 											"type": "item",
 											"name": "Pit Trap",
 											"entries": [
-												"While navigating the dark tunnel and being harassed by {@creature Slurmy|NRH-TCMC}, Pink must make a successful {@dc 14} Wisdom ({@skill Perception}) check or fall into the pit, taking 3 ({@damage 1d6}) piercing damage from the spikes. {@creature Slurmy|NRH-TCMC} knows exactly where this pit trap is (and can easily avoid it) and cheers gleefully if Pink falls in. But if Pink manages to avoid the pit, {@creature Slurmy|NRH-TCMC}'s curses echo through the tunnel. If Pink falls in, {@creature Slurmy|NRH-TCMC} waits for Pink to climb out and then attacks."
+												"Mentre percorre il tunnel buio e viene molestato da {@creature Slurmy|NRH-TCMC}, Pink deve effettuare con successo una prova di {@dc 14} Saggezza ({@skill Perception}) o cadere nella fossa, subendo 3 ({@damage 1d6}) danni perforanti dagli spuntoni. {@creature Slurmy|NRH-TCMC} sa esattamente dove si trova questa trappola (e può facilmente evitarla) ed esulta allegramente se Pink ci cade dentro. Ma se Pink riesce a evitare la fossa, le imprecazioni di {@creature Slurmy|NRH-TCMC} risuonano attraverso il tunnel. Se Pink cade, {@creature Slurmy|NRH-TCMC} aspetta che Pink esca e poi attacca."
 											]
 										},
 										{
 											"type": "item",
 											"name": "Cave-In",
 											"entries": [
-												"Here, the ceiling has given away, resulting in a pile of loose boulders and treacherous footing that goes on for 50 feet. Treat the rubble as {@quickref difficult terrain||3}. Once Pink is halfway across, {@creature Slurmy|NRH-TCMC} attacks from a hole in the ceiling. {@creature Slurmy|NRH-TCMC} isn't affected by the {@quickref difficult terrain||3} and moves normally."
+												"Qui, il soffitto ha ceduto, risultando in un mucchio di massi sciolti e un cammino insidioso che si estende per 50 piedi. Tratta le macerie come {@quickref difficult terrain||3}. Una volta che Pink è a metà strada, {@creature Slurmy|NRH-TCMC} attacca da un buco nel soffitto. {@creature Slurmy|NRH-TCMC} non è influenzato da {@quickref difficult terrain||3} e si muove normalmente."
 											]
 										}
 									]
@@ -286,8 +286,8 @@
 							"name": "Path 2: Candy Mountain Mine",
 							"page": 6,
 							"entries": [
-								"{@creature Mr. Honeycutt|NRH-TCMC}'s directions help Pink find Candy Mountain without much trouble. Pink can either hike through the woods or follow the main road to the entrance of the abandoned mine set into the side of the mountain face.",
-								"The following locations are keyed to the Candy Mountain Mine map:",
+								"Le indicazioni di {@creature Mr. Honeycutt|NRH-TCMC} aiutano Pink a trovare Candy Mountain senza troppi problemi. Pink può fare un'escursione attraverso i boschi o seguire la strada principale fino all'ingresso della miniera abbandonata situata sul fianco della montagna.",
+								"Le seguenti posizioni sono collegate alla mappa Candy Mountain Mine:",
 								{
 									"type": "image",
 									"href": {
@@ -963,34 +963,34 @@
 									"name": "C1. Mine Perimeter",
 									"page": 6,
 									"entries": [
-										"If Pink goes to the main entrance, read the following:",
+										"Se Pink va all'ingresso principale, leggi quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"page": 6,
 											"entries": [
-												"An overgrown dirt road leads up to a rusty iron gate set into a stone wall. Two guards that look like armored, gray mannequins stand either side of the gate. They have no discernible features."
+												"Una strada sterrata invasa dalla vegetazione conduce a un cancello di ferro arrugginito incastonato in un muro di pietra. Due guardie che sembrano manichini grigi e corazzati stanno su entrambi i lati del cancello. Non hanno caratteristiche distinguibili."
 											],
 											"id": "019"
 										},
-										"Pink can use creative methods to get past the two {@creature guard||guards} at the gate. Here are a few ideas:",
+										"Pink può usare metodi creativi per superare i due {@creature guard||guards} al cancello. Ecco alcune idee:",
 										{
 											"type": "list",
 											"items": [
-												"Pink can put on a disguise and try to deceive the guards. To pull it off Pink must make a successful {@dc 14} Charisma ({@skill Deception}) check. If their disguise is especially creative, Pink has advantage on the roll.",
-												"Pink can create a diversion and then sneak past the guards. Pink must make a successful {@dc 12} Dexterity ({@skill Stealth}) check. If you feel the diversion is effective, then give Pink advantage on the roll.",
-												"Pink can wait for an empty wagon to come and pick up a delivery and either sneak onto the wagon or pretend to be the delivery driver.",
-												"Pink can purposely get caught and taken inside."
+												"Pink può travestirsi e cercare di ingannare le guardie. Per farcela, Pink deve effettuare con successo una prova di Carisma {@skill Deception} {@dc 14}. Se il loro travestimento è particolarmente creativo, Pink ha un vantaggio nel tiro.",
+												"Pink può creare un diversivo e poi oltrepassare le guardie. Il rosa deve effettuare con successo una prova di Destrezza {@dc 12} ({@skill Stealth}). Se ritieni che il diversivo sia efficace, dai al Rosa un vantaggio nel tiro.",
+												"Pink può aspettare che arrivi un carro vuoto e ritirare una consegna e intrufolarsi nel carro o fingere di essere l'autista della consegna.",
+												"Il rosa può essere catturato di proposito e portato dentro."
 											]
 										},
-										"If Pink is caught, one guard detains them in a 10-foot-square holding pen adjacent to the underground entrance. Pink can pick their handcuffs with a successful {@dc 12} Dexterity ({@skill Sleight of Hand}) once the coast is clear.",
-										"Alternatively, Pink can enter the mine by sneaking over the perimeter wall:",
+										"Se Pink viene catturato, una guardia lo trattiene in un recinto di 3 metri quadrati adiacente all'ingresso sotterraneo. Il rosa può prendere le manette con una Destrezza {@skill Sleight of Hand} riuscita {@dc 12} una volta che la via è libera.",
+										"In alternativa, Pink può entrare nella miniera sgattaiolando oltre il muro perimetrale:",
 										{
 											"type": "entries",
 											"name": "Stone Wall",
 											"page": 6,
 											"entries": [
-												"Although it's old and neglected, the 20-foot-high stone wall surrounding the mine is still formidable. To scale the wall, Pink must succeed on two consecutive {@dc 10} Strength ({@skill Athletics}) checks. If the first check fails, Pink falls 10 feet and takes 3 ({@damage 1d6}) bludgeoning damage. If the second check fails, Pink falls 20 feet and takes 7 ({@damage 2d6}) bludgeoning damage.",
-												"If Pink has climbing gear, they gain advantage on the checks."
+												"Sebbene sia vecchio e trascurato, il muro di pietra alto 20 piedi che circonda la miniera è ancora formidabile. Per scalare il muro, Pink deve riuscire in due prove consecutive di {@dc 10} Forza ({@skill Athletics}). Se il primo controllo fallisce, Pink cade da 3 metri e subisce 3 ({@damage 1d6}) danni contundenti. Se il secondo controllo fallisce, Pink cade da 20 piedi e subisce 7 ({@damage 2d6}) danni contundenti.",
+												"Se il Rosa ha attrezzatura da arrampicata, ottiene un vantaggio sui controlli."
 											],
 											"id": "01a"
 										}
@@ -1002,7 +1002,7 @@
 									"name": "C2. Mining Camp",
 									"page": 6,
 									"entries": [
-										"Inside the main gate are many old, dilapidated buildings in various stages of disrepair and collapse. After a brief glance, Pink easily finds the entrance to the mine\u2014a gate made of iron bars secured by a chain and padlock. Picking the lock quietly requires a successful {@dc 12} Dexterity ({@skill Sleight of Hand}) check. On a failure, the door still opens, but the noise alerts the kobolds in area C5d and any nearby guards. Using thieves' tools grants Pink advantage on the roll."
+										"All'interno del cancello principale ci sono molti edifici vecchi e fatiscenti in vari stadi di rovina e collasso. Dopo una breve occhiata, Pink trova facilmente l'ingresso della miniera: un cancello fatto di sbarre di ferro protetto da una catena e un lucchetto. Scassinare la serratura senza fare rumore richiede una prova riuscita di {@dc 12} Destrezza ({@skill Sleight of Hand}). In caso di fallimento, la porta si apre comunque, ma il rumore allerta i coboldi nell'area C5d e le eventuali guardie vicine. L'uso degli strumenti da ladro garantisce al Rosa un vantaggio nel tiro."
 									],
 									"id": "01b"
 								},
@@ -1011,16 +1011,16 @@
 									"name": "C3. Stairway",
 									"page": 6,
 									"entries": [
-										"When Pink opens the gate, read the following:",
+										"Quando Pink apre il cancello, leggi quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"page": 6,
 											"entries": [
-												"A staircase carved from the stone descends into the dark. Footprints are visible in the dust and the cobwebs have been recently broken."
+												"Una scala scolpita nella pietra scende nell'oscurità. Sono visibili impronte nella polvere e le ragnatele sono state recentemente rotte."
 											],
 											"id": "01d"
 										},
-										"The staircase descends 40 feet and ends at a wooden door. A successful {@dc 14} Intelligence ({@skill Nature}) check reveals the footprints belong to a kobold."
+										"La scala scende per 40 piedi e termina con una porta di legno. Una prova riuscita di {@dc 14} Intelligenza ({@skill Nature}) rivela che le impronte appartengono a un coboldo."
 									],
 									"id": "01c"
 								},
@@ -1029,16 +1029,16 @@
 									"name": "C4. Central Storage",
 									"page": 6,
 									"entries": [
-										"When Pink enters this room, read the following:",
+										"Quando Pink entra in questa stanza, leggi quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"page": 6,
 											"entries": [
-												"You see a roughly hewn 30-foot-square room that still has old, rusted picks, shovels, crowbars, a wheelbarrow, and a wooden mining cart in it. Everything is covered with a thick layer of dust and cobwebs. A sloped passage exits to the north. Footprints can be seen all over the floor but most head north."
+												"Vedi una stanza di 9 metri quadrati rozzamente scavata che contiene ancora vecchi picconi arrugginiti, pale, piedi di porco, una carriola e un carro minerario di legno. Tutto è ricoperto da uno spesso strato di polvere e ragnatele. Un passaggio in pendenza esce a nord. Si possono vedere impronte su tutto il pavimento, ma la maggior parte si dirige a nord."
 											],
 											"id": "01f"
 										},
-										"The wooden mining cart still is operational, but unless Pink oils its wheels before rolling it, the cart makes a terrible racket that alerts the kobolds in area C5d."
+										"Il carro minerario di legno è ancora operativo, ma a meno che Pink non oli le ruote prima di farlo rotolare, il carro fa un terribile baccano che allerta i coboldi nell'area C5d."
 									],
 									"id": "01e"
 								},
@@ -1047,14 +1047,14 @@
 									"name": "C5. Mine Shafts",
 									"page": 7,
 									"entries": [
-										"The passageways here are even more roughly hewn and are irregular in their height and width. Here and there along the tunnels are glittering bits of the delicious rock candy that was mined here in days past. In places are puddles of water that are 6 inches or more deep; more than enough to extinguish a dropped torch.",
-										"Unless the kobolds were alerted, as Pink descends into the mine, they can hear heated chatter coming from the tunnels, but because of the echoing, it isn't clear which ones.",
+										"I passaggi qui sono ancora più grossolani e irregolari in altezza e larghezza. Qua e là lungo i tunnel brillano pezzi del delizioso zucchero candito che veniva estratto qui in passato. In alcuni punti ci sono pozzanghere d'acqua profonde 6 pollici o più; più che sufficiente per spegnere una torcia caduta.",
+										"A meno che i coboldi non siano stati allertati, mentre Pink scende nella miniera, possono sentire chiacchiere accese provenire dai tunnel, ma a causa dell'eco, non è chiaro quali.",
 										{
 											"type": "entries",
 											"name": "DM Note",
 											"page": 7,
 											"entries": [
-												"If Pink needs extra healing, you can have the rock candy heal {@dice 2d4} hit points once per day if eaten."
+												"Se Pink ha bisogno di cure extra, puoi far sì che lo zucchero candito guarisca {@dice 2d4} i punti ferita una volta al giorno se mangiato."
 											],
 											"id": "021"
 										}
@@ -1066,17 +1066,17 @@
 									"page": 7,
 									"name": "C5A. Secret Tunnel Cavern",
 									"entries": [
-										"When Pink enters, read the following:",
+										"Quando Pink entra, leggi quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"page": 7,
 											"entries": [
-												"This area has assorted rubble and junk scattered about. The cavern wall has crude hack marks on it, as if someone has been wildly swinging at it with a pickaxe."
+												"Questa zona ha macerie e spazzatura assortite sparse qua e là. La parete della caverna presenta segni di taglio grossolano, come se qualcuno l'avesse colpita selvaggiamente con un piccone."
 											],
 											"id": "023"
 										},
-										"The room has nothing of value in it, but if Pink makes a successful {@dc 12} Wisdom ({@skill Perception}) check, they discover a secret door (see \"Path 1: The Secret Tunnel,\" above) that looks like a boulder set in the wall. The secret door reveals a tunnel that leads all the way back to the city of Harmony.",
-										"If the player chose Path 2 and didn't take Path 1, let them go about 100 feet into the tunnel before reminding them that this could be the second entrance to the mine that leads back to Harmony. If they ignore that and continue, then have them encounter {@creature Slurmy|NRH-TCMC} and the traps before emerging near the marketplace."
+										"La stanza non contiene nulla di valore, ma se Pink effettua con successo una prova di Saggezza {@dc 12} ({@skill Perception}), scopre una porta segreta (vedi \"Percorso 1: Il tunnel segreto\" sopra) che assomiglia a un masso incastonato nel muro. La porta segreta rivela un tunnel che riconduce alla città di Armonia.",
+										"Se il giocatore ha scelto il Percorso 2 e non ha preso il Percorso 1, lascialo andare per circa 100 piedi nel tunnel prima di ricordargli che questo potrebbe essere il secondo ingresso alla miniera che riporta ad Harmony. Se lo ignorano e continuano, chiedi loro di incontrare {@creature Slurmy|NRH-TCMC} e le trappole prima di emergere vicino al mercato."
 									],
 									"id": "022"
 								},
@@ -1084,17 +1084,17 @@
 									"type": "entries",
 									"name": "C5B. Rock Candy Mother Lode",
 									"entries": [
-										"When Pink enters this room, read the following:",
+										"Quando Pink entra in questa stanza, leggi quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"page": 7,
 											"entries": [
-												"This cavern has piles of rubble within it, but there's still a good vein of red rock candy visible in the wall."
+												"Questa caverna contiene mucchi di macerie al suo interno, ma c'è ancora una buona vena di zucchero candito rosso visibile nel muro."
 											],
 											"id": "025"
 										},
-										"If eaten, the rock candy is sweet and delicious. If Pink wants to work for 5 minutes, a pouchful of rock candy worth 5 sp can be mined from the wall. If the kobolds are in area C5d, any noise here alerts them.",
-										"There's nothing else of interest in the room."
+										"Se mangiato, lo zucchero candito è dolce e delizioso. Se Pink vuole lavorare per 5 minuti, è possibile estrarre dal muro un sacchetto pieno di zucchero candito del valore di 5 ma. Se i coboldi si trovano nell'area C5d, qualsiasi rumore qui li allerta.",
+										"Non c'è nient'altro di interessante nella stanza."
 									],
 									"id": "024"
 								},
@@ -1102,8 +1102,8 @@
 									"type": "entries",
 									"name": "C5C. Net Trap",
 									"entries": [
-										"The shaft leading to this area has a trip wire strung across the floor at ankle height. A successful {@dc 14} Wisdom ({@skill Perception}) check is needed to find it. If the trip wire is triggered, a net filled with old cans falls on the intruders. Pink must make a successful {@dc 14} Dexterity saving throw or get tangled in the net and be {@condition restrained}. Pink must repeat the saving throw at the end of each of their turns. On a success, Pink escapes from the trap.",
-										"The racket alerts the two {@creature kobold||kobolds} in area C5d, who arrive 1 round after the trap triggers."
+										"Il pozzo che conduce a quest'area ha un filo metallico teso sul pavimento all'altezza della caviglia. Per trovarlo è necessaria una prova riuscita di Saggezza {@dc 14} ({@skill Perception}). Se il filo scatta, una rete piena di vecchie lattine cade sugli intrusi. Il rosa deve effettuare con successo un tiro salvezza su Destrezza {@dc 14} o rimanere intrappolato nella rete e diventare {@condition restrained}. Il rosa deve ripetere il tiro salvezza alla fine di ogni suo turno. In caso di successo, Pink scappa dalla trappola.",
+										"Il racket allerta i due {@creature kobold||kobolds} nell'area C5d, che arrivano 1 round dopo l'attivazione della trappola."
 									],
 									"id": "026"
 								},
@@ -1111,16 +1111,16 @@
 									"type": "entries",
 									"name": "C5D. The Coral Gem",
 									"entries": [
-										"Unless they were alerted previously, there are two {@creature kobold||kobolds}, Kribbitz and Zurff, in this room bickering over how to open a 6-foot-square, locked stone box they've unearthed from a cave-in on the northernmost wall. An {@condition unconscious} kobold, Nurzle, is lying on the floor with a needle in his neck. Kobolds are reptilian Humanoids who generally shy away from conflict unless cornered.",
-										"If Pink surprises the kobolds, they try to feel out Pink and see if they can get them to open the box. After which, the kobolds attempt to steal the gem and run.",
-										"If they were alerted earlier, the kobolds have hidden behind some old shelving under a canvas tarp with their {@condition unconscious} friend and are waiting to see if Pink can open the box.",
+										"A meno che non siano stati avvisati in precedenza, ce ne sono due {@creature kobold||kobolds}, Kribbitz e Zurff, in questa stanza che discutono su come aprire una scatola di pietra chiusa a chiave di 6 piedi quadrati che hanno portato alla luce da un crollo sulla parete più settentrionale. Un coboldo {@condition unconscious}, Nurzle, giace sul pavimento con un ago nel collo. I coboldi sono umanoidi rettiliani che generalmente rifuggono dai conflitti a meno che non vengano messi alle strette.",
+										"Se Pink sorprende i coboldi, cercheranno di tastare Pink e vedere se riescono a convincerli ad aprire la scatola. Dopodiché, i coboldi tentano di rubare la gemma e scappano.",
+										"Se sono stati avvisati prima, i coboldi si sono nascosti dietro un vecchio scaffale sotto un telone con il loro amico {@condition unconscious} e stanno aspettando di vedere se Pink riesce ad aprire la scatola.",
 										{
 											"type": "entries",
 											"name": "Opening the Box",
 											"page": 7,
 											"entries": [
-												"The stone box weighs 3,000 lb. and is made of quartzite\u2014a very hard type of stone. The box is covered with runes and glyphs. It has a keyhole and six buttons. The lock is trapped and requires a successful {@dc 15} Dexterity ({@skill Sleight of Hand}) check to open. On a failure, a poison needle shoots out. Whoever is picking the lock must roll a {@dice d6}. On a 2\u20136, they're hit by the needle and fall asleep for 8 hours. On a 1, the needle misses. Either way the box remains closed.",
-												"If Pink manages to unlock the box, then the kobolds dash out and try to steal the gem. If Pink is ready for them, the kobolds try to intimidate, barter with, or beg Pink to hand it over. Mr. Greystone has been quite clear what will happen to the kobolds if they fail, and it isn't pleasant in the slightest."
+												"La scatola di pietra pesa 1.400 kg ed è fatta di quarzite, un tipo di pietra molto dura. La scatola è ricoperta di rune e glifi. Ha una serratura e sei bottoni. La serratura è intrappolata e richiede una prova riuscita di Destrezza {@dc 15} ({@skill Sleight of Hand}) per essere aperta. In caso di fallimento, fuoriesce un ago avvelenato. Chiunque scassini la serratura deve tirare un {@dice d6}. Con un risultato di 2–6 vengono colpiti dall'ago e si addormentano per 8 ore. Con 1 l'ago manca il bersaglio. In ogni caso la scatola resta chiusa.",
+												"Se Pink riesce ad aprire la scatola, i coboldi scappano e cercano di rubare la gemma. Se Pink è pronto per loro, i coboldi cercano di intimidirlo, barattarlo o implorare Pink di consegnarlo. Il signor Greystone è stato abbastanza chiaro su cosa accadrà ai coboldi se falliscono, e non è affatto piacevole."
 											],
 											"id": "028"
 										},
@@ -1129,8 +1129,8 @@
 											"name": "Making Friends",
 											"page": 8,
 											"entries": [
-												"If Pink wants to make friends with the kobolds, Pink must promise that they'll protect the kobolds against the wrath of Mr. Greystone and then make a successful {@dc 14} Charisma ({@skill Persuasion}) check. If they do, the kobolds agree to leave Pink with the gem and not cause any more trouble.",
-												"If Pink won't give it up without a fight, the kobolds fight 1 round of combat. As soon as one takes damage, they flee and yell all about what's going to happen to Pink when Mr. Greystone finds out."
+												"Se Pink vuole fare amicizia con i coboldi, deve promettere che proteggerà i coboldi dall'ira di Mr. Greystone e poi effettuare con successo una prova di Carisma ({@skill Persuasion} {@dc 14}. Se lo fanno, i coboldi accettano di lasciare Pink con la gemma e di non causare altri problemi.",
+												"Se Pink non si arrende senza combattere, i coboldi combattono 1 round di combattimento. Non appena uno subisce danni, fugge e urla tutto su cosa succederà a Pink quando il signor Greystone lo scoprirà."
 											],
 											"id": "029"
 										},
@@ -1139,7 +1139,7 @@
 											"name": "The Coral Gem",
 											"page": 8,
 											"entries": [
-												"The Coral Gem is a fist-sized gemstone worth 250 gp and it glows with a soft, pink light. It has no magic properties of its own."
+												"La gemma di corallo è una pietra preziosa delle dimensioni di un pugno del valore di 250 mo e brilla di una morbida luce rosa. Non ha proprietà magiche proprie."
 											],
 											"id": "02a"
 										}
@@ -1150,10 +1150,10 @@
 									"type": "entries",
 									"name": "C5E. Dragon Fossil",
 									"entries": [
-										"This large cavern has more piles of rock candy rubble within it, but embedded in the eastern wall is the massive fossil of a 40-foot-long dragon.",
-										"If Pink makes a successful {@dc 12} Intelligence ({@skill Nature}) check, they know this is the fossil of a blue dragon. Pink knows that as well as being ferocious hunters that breathe lightning to stun or kill their prey, blue dragons are among the most intelligent of the dragons.",
-										"If Pink carefully chips away at the rock for 20 minutes and makes a successful {@dc 15} Dexterity check, they can free a perfect dragon tooth from the stone. If the kobolds are still in area C5d, they're alerted by any attempts to chip free a fossil.",
-										"The dragon tooth is worth 20 gp to an alchemist or collector. It would take about 6 months' work to free the entire skeleton which would sell for 1500 gp to a museum."
+										"Questa grande caverna ha più mucchi di macerie di zucchero candito al suo interno, ma incastonato nella parete orientale c'è l'enorme fossile di un drago lungo 40 piedi.",
+										"Se Pink effettua con successo una prova di {@dc 12} Intelligenza ({@skill Nature}), sa che si tratta del fossile di un drago blu. Pink sa che oltre ad essere feroci cacciatori che sputano fulmini per stordire o uccidere la preda, i draghi blu sono tra i draghi più intelligenti.",
+										"Se Pink scheggia con attenzione la roccia per 20 minuti ed effettua con successo una prova di Destrezza {@dc 15}, può liberare un perfetto dente di drago dalla pietra. Se i coboldi si trovano ancora nell'area C5d, vengono allertati da qualsiasi tentativo di liberare un fossile.",
+										"Il dente del drago vale 20 mo per un alchimista o un collezionista. Ci vorrebbero circa 6 mesi di lavoro per liberare l'intero scheletro, che verrebbe venduto per 1500 mo ad un museo."
 									],
 									"id": "02b"
 								}
@@ -1165,8 +1165,8 @@
 							"name": "Completing the Mission",
 							"page": 8,
 							"entries": [
-								"When Pink returns to Harmony, they're met by {@creature Mr. Honeycutt|NRH-TCMC} at the inn where Pink is staying. If Pink hands over the Coral Gem, {@creature Mr. Honeycutt|NRH-TCMC} breathes a sigh of relief and then shakes Pink's hand with vigor while thanking them profusely. {@creature Mr. Honeycutt|NRH-TCMC} invites Red to join the Lorekeeper Society. If Red accepts, {@creature Mr. Honeycutt|NRH-TCMC} then reaches into his satchel and gives Pink a pair of gloves of thievery (see below) with the hopes that Pink will put them to good use in the days to come. \"The battle isn't over yet,\" {@creature Mr. Honeycutt|NRH-TCMC} exclaims to Pink. \"There's still more work to be done before the color can come back to Harmony. The Lorekeeper Society will be in touch.\"",
-								"{@creature Mr. Honeycutt|NRH-TCMC} then bows and heads out the door. As he does, he flips the bartender a gold piece. Mauve does a double take then nods approvingly at Pink."
+								"Quando Pink ritorna ad Harmony, vengono accolti da {@creature Mr. Honeycutt|NRH-TCMC} alla locanda dove alloggia Pink. Se Pink consegna la Gemma di Corallo, {@creature Mr. Honeycutt|NRH-TCMC} tira un sospiro di sollievo e poi stringe la mano di Pink con vigore ringraziandolo abbondantemente. {@creature Mr. Honeycutt|NRH-TCMC} invita Rosso a unirsi alla Lorekeeper Society. Se Rosso accetta, {@creature Mr. Honeycutt|NRH-TCMC} prende la sua borsa e dà a Pink un paio di guanti da furto (vedi sotto) con la speranza che Pink ne faccia buon uso nei giorni a venire. \"La battaglia non è ancora finita\", esclama {@creature Mr. Honeycutt|NRH-TCMC} a Pink. \"C'è ancora molto lavoro da fare prima che il colore possa tornare ad Armonia. La Società dei Custodi del Sapere ti contatterà.\"",
+								"{@creature Mr. Honeycutt|NRH-TCMC} poi si inchina e esce dalla porta. Mentre lo fa, lancia al barista una moneta d'oro. Mauve ci ripensa e poi annuisce in approvazione a Pink."
 							],
 							"id": "02c"
 						}
@@ -1178,7 +1178,7 @@
 					"name": "Magic Items",
 					"page": 8,
 					"entries": [
-						"The following magic items appear in this adventure.",
+						"I seguenti oggetti magici compaiono in questa avventura.",
 						{
 							"type": "list",
 							"items": [
@@ -1275,7 +1275,7 @@
 													"type": "item",
 													"name": "Illustrations",
 													"entries": [
-														"Red Central"
+														"Rosso Centrale"
 													]
 												},
 												{
@@ -1316,14 +1316,14 @@
 													"type": "item",
 													"name": "Sr. Associate Brand Manager, NERDS:",
 													"entries": [
-														"Lukas Krause"
+														"Lucas Krause"
 													]
 												},
 												{
 													"type": "item",
 													"name": "Content Manager, NERDS:",
 													"entries": [
-														"Annie Belgrade"
+														"Annie Belgrado"
 													]
 												},
 												{
@@ -1364,7 +1364,7 @@
 													"type": "item",
 													"name": "Founder, Managing Partner",
 													"entries": [
-														"Christopher Erb"
+														"Cristoforo Erb"
 													]
 												},
 												{
@@ -1378,7 +1378,7 @@
 													"type": "item",
 													"name": "Additional Support",
 													"entries": [
-														"VMLY&R Commerce, Taxi, Pep, and Golin"
+														"VMLY&R Commercio, Taxi, Pep e Golin"
 													]
 												}
 											]

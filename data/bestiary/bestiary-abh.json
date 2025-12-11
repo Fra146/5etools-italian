@@ -63,7 +63,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The icon has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"L'icona ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -71,19 +71,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The icon makes two Slam attacks and uses Fiery Eruption."
+						"L'icona effettua due attacchi con Schianto e usa Eruzione Infuocata."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}4 ({@damage 1d4 + 2}) Bludgeoning damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}4 ({@damage 1d4 + 2}) Danni contundenti."
 					]
 				},
 				{
 					"name": "Fiery Eruption",
 					"entries": [
-						"{@actSave dex} {@dc 11}, each creature in a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the icon. {@actSaveFail} 7 ({@damage 2d6}) Fire damage."
+						"{@actSave dex} {@dc 11}, ogni creatura in un raggio di 5 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dall'icona. {@actSaveFail} 7 ({@damage 2d6}) Danni da fuoco."
 					]
 				}
 			],
@@ -184,19 +184,19 @@
 				{
 					"name": "Diabolic Ward",
 					"entries": [
-						"Attack rolls against the devil have {@variantrule Disadvantage|XPHB}. If the devil makes an attack roll, this trait is suppressed until the start of its next turn."
+						"I tiri per colpire contro il diavolo hanno {@variantrule Disadvantage|XPHB}. Se il diavolo effettua un tiro per colpire, questa caratteristica viene soppressa fino all'inizio del suo turno successivo."
 					]
 				},
 				{
 					"name": "Diabolical Restoration",
 					"entries": [
-						"If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its {@variantrule Hit Points|XPHB} somewhere in the Nine Hells."
+						"Se il diavolo muore fuori dai Nove Inferni, il suo corpo scompare nel fumo solforoso e ottiene immediatamente un nuovo corpo, rinascendo con tutto il suo {@variantrule Hit Points|XPHB} da qualche parte nei Nove Inferni."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The devil has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il diavolo ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -204,25 +204,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The devil makes two attacks, using Infernal Blade or Confounding Ray in any combination."
+						"Il diavolo effettua due attacchi, usando Lama Infernale o Raggio Confondente in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Infernal Blade",
 					"entries": [
-						"{@atkr m} {@hit 5}, reach 5 ft. {@h}6 ({@damage 1d6 + 3}) Slashing damage and 7 ({@damage 2d6}) Fire damage."
+						"{@atkr m} {@hit 5}, portata 5 piedi {@h}6 ({@damage 1d6 + 3}) Danni da taglio e 7 ({@damage 2d6}) Danni da fuoco."
 					]
 				},
 				{
 					"name": "Confounding Ray",
 					"entries": [
-						"{@atkr r} {@hit 5}, range 120 ft. {@h}13 ({@damage 2d12}) Psychic damage. If the target is a creature, it can't make Opportunity Attacks until the start of the devil's next turn."
+						"{@atkr r} {@hit 5}, portata 120 piedi. {@h}13 ({@damage 2d12}) Danni psichici. Se il bersaglio è una creatura, non può effettuare Attacchi di Opportunità fino all'inizio del turno successivo del diavolo."
 					]
 				},
 				{
 					"name": "Compelling Contract (1/Day)",
 					"entries": [
-						"{@actSave cha} {@dc 14}, one creature within 30 feet of the devil. {@actSaveFail} The target has the {@condition Charmed|XPHB} condition. While it is {@condition Charmed|XPHB}, it has the {@condition Stunned|XPHB} condition, except the target can speak. If the target agrees to the devil's contract, the effect ends. Otherwise, the target repeats the save whenever it takes damage and at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
+						"{@actSave cha} {@dc 14}, una creatura entro 9 metri dal diavolo. {@actSaveFail} La destinazione presenta la condizione {@condition Charmed|XPHB}. Mentre è {@condition Charmed|XPHB}, ha la condizione {@condition Stunned|XPHB}, tranne che il bersaglio può parlare. Se il bersaglio accetta il contratto con il diavolo, l'effetto termina. Altrimenti, il bersaglio ripete il tiro salvezza ogni volta che subisce danni e alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente."
 					]
 				}
 			],
@@ -332,7 +332,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The devil casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 18}):"
+						"Il diavolo lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 18}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -352,13 +352,13 @@
 				{
 					"name": "Diabolical Restoration",
 					"entries": [
-						"If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its {@variantrule Hit Points|XPHB} somewhere in the Nine Hells."
+						"Se il diavolo muore fuori dai Nove Inferni, il suo corpo scompare nel fumo solforoso e ottiene immediatamente un nuovo corpo, rinascendo con tutto il suo {@variantrule Hit Points|XPHB} da qualche parte nei Nove Inferni."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The devil has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il diavolo ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -366,13 +366,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The devil makes two Thundering Halberd attacks."
+						"Il diavolo effettua due attacchi con l'Alabarda Tonante."
 					]
 				},
 				{
 					"name": "Thundering Halberd",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 10 ft. {@h}16 ({@damage 2d10 + 5}) Slashing damage plus 14 ({@damage 4d6}) Thunder damage."
+						"{@atkr m} {@hit 9}, portata 10 piedi {@h}16 ({@damage 2d10 + 5}) Danni da taglio più 14 ({@damage 4d6}) Danni da tuono."
 					]
 				}
 			],
@@ -380,13 +380,13 @@
 				{
 					"name": "Utterance of Pain",
 					"entries": [
-						"{@actSave wis} {@dc 18}, each creature in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the devil. {@actSaveFail} The target has the {@condition Stunned|XPHB} condition until the end of the devil's next turn."
+						"{@actSave wis} {@dc 18}, ogni creatura in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dal diavolo. {@actSaveFail} Il bersaglio ha la condizione {@condition Stunned|XPHB} fino alla fine del turno successivo del diavolo."
 					]
 				},
 				{
 					"name": "Utterance of Unmaking",
 					"entries": [
-						"{@actSave con} {@dc 18}, each creature in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the devil. {@actSaveFail} 22 ({@damage 4d10}) Force damage. {@actSaveSuccess} Half damage."
+						"{@actSave con} {@dc 18}, ogni creatura in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dal diavolo. {@actSaveFail} 22 ({@damage 4d10}) Danno di forza. {@actSaveSuccess} Danno dimezzato."
 					]
 				}
 			],
@@ -516,7 +516,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The vampire casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 18}):"
+						"Il vampiro lancia uno dei seguenti incantesimi, utilizzando l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 18}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -542,20 +542,20 @@
 				{
 					"name": "Legendary Resistance (3/Day, or 4/Day in Lair)",
 					"entries": [
-						"If the vampire fails a saving throw, it can choose to succeed instead."
+						"Se il vampiro fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Misty Escape",
 					"entries": [
-						"If the vampire drops to 0 {@variantrule Hit Points|XPHB} outside its resting place, the vampire uses Shape-Shift to become mist (no action required). If it can't use Shape-Shift, it is destroyed.",
-						"While it has 0 {@variantrule Hit Points|XPHB} in mist form, it can't return to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it returns to its vampire form and has the {@condition Paralyzed|XPHB} condition until it regains any {@variantrule Hit Points|XPHB}, and it regains 1 {@variantrule Hit Points|XPHB|Hit Point} after spending 1 hour there."
+						"Se il vampiro scende a 0 {@variantrule Hit Points|XPHB} fuori dal suo luogo di riposo, usa Mutaforma per diventare nebbia (non è richiesta alcuna azione). Se non può usare Mutaforma, viene distrutto.",
+						"Mentre ha 0 {@variantrule Hit Points|XPHB} in forma di nebbia, non può tornare alla sua forma di vampiro e deve raggiungere il luogo del suo riposo entro 2 ore o essere distrutto. Una volta nel luogo di riposo, ritorna alla sua forma di vampiro e mantiene la condizione {@condition Paralyzed|XPHB} finché non ne recupera alcuna {@variantrule Hit Points|XPHB}, e ne recupera 1 {@variantrule Hit Points|XPHB|Hit Point} dopo aver trascorso 1 ora lì."
 					]
 				},
 				{
 					"name": "Vampire Weakness",
 					"entries": [
-						"The vampire has these weaknesses:",
+						"Il vampiro ha questi punti deboli:",
 						{
 							"type": "list",
 							"style": "list-hang-subtrait",
@@ -564,28 +564,28 @@
 									"type": "itemSub",
 									"name": "Forbiddance",
 									"entries": [
-										"The vampire can't enter a residence without an invitation from an occupant."
+										"Il vampiro non può entrare in una residenza senza l'invito di un occupante."
 									]
 								},
 								{
 									"type": "itemSub",
 									"name": "Running Water",
 									"entries": [
-										"The vampire takes 20 Acid damage if it ends its turn in running water."
+										"Il vampiro subisce 20 danni da acido se termina il suo turno nell'acqua corrente."
 									]
 								},
 								{
 									"type": "itemSub",
 									"name": "Stake to the Heart",
 									"entries": [
-										"If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the {@condition Incapacitated|XPHB} condition in its resting place, the vampire has the {@condition Paralyzed|XPHB} condition until the weapon is removed."
+										"Se un'arma che infligge danni perforanti viene conficcata nel cuore del vampiro mentre il vampiro ha la condizione {@condition Incapacitated|XPHB} nel suo luogo di riposo, il vampiro manterrà la condizione {@condition Paralyzed|XPHB} finché l'arma non viene rimossa."
 									]
 								},
 								{
 									"type": "itemSub",
 									"name": "Sunlight",
 									"entries": [
-										"The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has {@variantrule Disadvantage|XPHB} on attack rolls and ability checks."
+										"Il vampiro subisce 20 danni radianti se inizia il suo turno alla luce del sole. Mentre è alla luce del sole, ha {@variantrule Disadvantage|XPHB} sui tiri per colpire e sulle prove di abilità."
 									]
 								}
 							]
@@ -597,19 +597,19 @@
 				{
 					"name": "Multiattack (Vampire Form Only)",
 					"entries": [
-						"The vampire makes two Hellfire Claw attacks and uses Bite."
+						"Il vampiro effettua due attacchi con Hellfire Claw e usa Morso."
 					]
 				},
 				{
 					"name": "Hellfire Claw (Vampire Form Only)",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 5 ft. {@h}13 ({@damage 2d8 + 4}) Slashing damage plus 10 ({@damage 3d6}) Fire damage. If the target is a Medium or smaller creature, it has the {@condition Grappled|XPHB} condition (escape {@dc 17}) from one of two claws."
+						"{@atkr m} {@hit 9}, portata 5 piedi {@h}13 ({@damage 2d8 + 4}) Danni da taglio più 10 ({@damage 3d6}) danni da fuoco. Se il bersaglio è una creatura Media o più piccola, ha la condizione {@condition Grappled|XPHB} (fuga {@dc 17}) da uno dei due artigli."
 					]
 				},
 				{
 					"name": "Bite (Imp or Vampire Form Only)",
 					"entries": [
-						"{@actSave con} {@dc 18}, one creature within 5 feet that is willing or that has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition. {@actSaveFail} 6 ({@damage 1d4 + 4}) Piercing damage plus 16 ({@damage 3d10}) Necrotic damage and the creature loses its highest-level available spell slot (if any). The target's {@variantrule Hit Points|XPHB|Hit Point} maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains {@variantrule Hit Points|XPHB} equal to that amount. A Humanoid reduced to 0 {@variantrule Hit Points|XPHB} by this damage and then buried rises the following sunset as a Vampire Spawn under the vampire's control."
+						"{@actSave con} {@dc 18}, una creatura entro 5 piedi che sia consenziente o che abbia la condizione {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB} o {@condition Restrained|XPHB}. {@actSaveFail} 6 ({@damage 1d4 + 4}) Danni perforanti più 16 ({@damage 3d10}) Danni necrotici e la creatura perde il suo slot incantesimo disponibile di livello più alto (se presente). Il massimo del bersaglio {@variantrule Hit Points|XPHB|Hit Point} diminuisce di un ammontare pari al danno necrotico subito, e il vampiro recupera {@variantrule Hit Points|XPHB} pari a quell'importo. Un umanoide ridotto a 0 {@variantrule Hit Points|XPHB} da questo danno e poi sepolto risorge al tramonto successivo come progenie vampirica sotto il controllo del vampiro."
 					]
 				}
 			],
@@ -617,9 +617,9 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"If the vampire isn't in sunlight or running water, it shape-shifts into a Tiny imp ({@variantrule Speed|XPHB} 20 ft., {@variantrule Fly Speed|XPHB} 40 ft.), or a Medium cloud of mist ({@variantrule Speed|XPHB} 5 ft., {@variantrule Fly Speed|XPHB} 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.",
-						"While in imp form, the vampire's game statistics, other than its size and {@variantrule Speed|XPHB}, are unchanged.",
-						"While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless and can enter an enemy's space and stop there. If air can pass through a space, the mist can do so, but it can't pass through liquid. It has {@variantrule Resistance|XPHB} to all damage, except the damage it takes from sunlight."
+						"Se il vampiro non è esposto alla luce del sole o all'acqua corrente, si trasforma in un diavoletto Minuscolo ({@variantrule Speed|XPHB} 20 piedi, {@variantrule Fly Speed|XPHB} 40 piedi) o in una nuvola di nebbia media ({@variantrule Speed|XPHB} 5 piedi, {@variantrule Fly Speed|XPHB} 20 piedi [passa il mouse]), oppure ritorna alla sua forma di vampiro. Tutto ciò che indossa si trasforma con esso.",
+						"Mentre è in forma di diavoletto, le statistiche di gioco del vampiro, a parte la sua taglia e {@variantrule Speed|XPHB}, rimangono invariate.",
+						"Mentre è in forma di nebbia, il vampiro non può compiere alcuna azione, parlare o manipolare oggetti. Non ha peso e può entrare nello spazio nemico e fermarsi lì. Se l'aria può passare attraverso uno spazio, la nebbia può farlo, ma non può passare attraverso il liquido. Ha {@variantrule Resistance|XPHB} su tutti i danni, tranne i danni subiti dalla luce solare."
 					]
 				}
 			],
@@ -628,19 +628,19 @@
 				{
 					"name": "Hellfire Strike",
 					"entries": [
-						"The vampire moves up to half its {@variantrule Speed|XPHB}, and it makes one Hellfire Claw attack."
+						"Il vampiro si muove fino alla metà della sua {@variantrule Speed|XPHB} ed effettua un attacco con Hellfire Claw."
 					]
 				},
 				{
 					"name": "Infernal Majesty",
 					"entries": [
-						"{@actSave cha} {@dc 17}, each creature in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the vampire. {@actSaveFail} 9 ({@damage 2d8}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition until the start of its next turn. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} The vampire can't take this action again until the start of its next turn."
+						"{@actSave cha} {@dc 17}, ogni creatura in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dal vampiro. {@actSaveFail} 9 ({@damage 2d8}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino all'inizio del suo turno successivo. {@actSaveSuccess} Solo metà del danno. {@actSaveSuccessOrFail} Il vampiro non può eseguire nuovamente questa azione fino all'inizio del suo turno successivo."
 					]
 				},
 				{
 					"name": "Teleport",
 					"entries": [
-						"The vampire teleports up to 30 feet to an unoccupied space it can see."
+						"Il vampiro si teletrasporta fino a 9 metri in uno spazio non occupato che può vedere."
 					]
 				}
 			],
@@ -763,7 +763,7 @@
 					"name": "Guardian's Command",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The vampire casts {@spell Compulsion|XPHB}, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 15})."
+						"Il vampiro lancia {@spell Compulsion|XPHB}, non richiedendo componenti di incantesimi e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 15})."
 					],
 					"will": [
 						"{@spell Compulsion|XPHB}"
@@ -779,13 +779,13 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The vampire has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il vampiro ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Vampire Weakness",
 					"entries": [
-						"The vampire has these weaknesses:",
+						"Il vampiro ha questi punti deboli:",
 						{
 							"type": "list",
 							"style": "list-hang-subtrait",
@@ -794,35 +794,35 @@
 									"type": "itemSub",
 									"name": "Forbiddance",
 									"entries": [
-										"The vampire can't enter a residence without an invitation from an occupant."
+										"Il vampiro non può entrare in una residenza senza l'invito di un occupante."
 									]
 								},
 								{
 									"type": "itemSub",
 									"name": "Running Water",
 									"entries": [
-										"The vampire takes 20 Acid damage if it ends its turn in running water."
+										"Il vampiro subisce 20 danni da acido se termina il suo turno nell'acqua corrente."
 									]
 								},
 								{
 									"type": "itemSub",
 									"name": "Stake to the Heart",
 									"entries": [
-										"If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the {@condition Incapacitated|XPHB} condition, the vampire has the {@condition Paralyzed|XPHB} condition until the weapon is removed."
+										"Se un'arma che infligge danni perforanti viene conficcata nel cuore del vampiro mentre il vampiro è nella condizione {@condition Incapacitated|XPHB}, il vampiro avrà la condizione {@condition Paralyzed|XPHB} finché l'arma non viene rimossa."
 									]
 								},
 								{
 									"type": "itemSub",
 									"name": "Sunlight",
 									"entries": [
-										"The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has {@variantrule Disadvantage|XPHB} on attack rolls and ability checks."
+										"Il vampiro subisce 20 danni radianti se inizia il suo turno alla luce del sole. Mentre è alla luce del sole, ha {@variantrule Disadvantage|XPHB} sui tiri per colpire e sulle prove di abilità."
 									]
 								},
 								{
 									"type": "itemSub",
 									"name": "Immobile Restoration",
 									"entries": [
-										"If the vampire drops to 0 {@variantrule Hit Points|XPHB} while it doesn't have the {@condition Petrified|XPHB} condition, it turns to stone, regains 50 {@variantrule Hit Points|XPHB}, and has the {@condition Petrified|XPHB} condition for 1 hour."
+										"Se il vampiro scende a 0 {@variantrule Hit Points|XPHB} mentre non ha la condizione {@condition Petrified|XPHB}, si trasforma in pietra, recupera 50 {@variantrule Hit Points|XPHB} e mantiene la condizione {@condition Petrified|XPHB} per 1 ora."
 									]
 								}
 							]
@@ -834,19 +834,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The vampire makes two Claw attacks and uses Bite or Guardian's Command."
+						"Il vampiro effettua due attacchi con gli artigli e usa il morso o il comando del guardiano."
 					]
 				},
 				{
 					"name": "Claw",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 5 ft. {@h}14 ({@damage 2d8 + 5}) Slashing damage plus 7 ({@damage 2d6}) Necrotic damage. If the target is a Large or smaller creature, it has the {@condition Grappled|XPHB} condition (escape {@dc 16}) from one of two claws."
+						"{@atkr m} {@hit 9}, portata 5 piedi {@h}14 ({@damage 2d8 + 5}) Danni taglienti più 7 ({@damage 2d6}) Danni necrotici. Se il bersaglio è una creatura Grande o più piccola, ha la condizione {@condition Grappled|XPHB} (fuga {@dc 16}) da uno dei due artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@actSave con} {@dc 16}, one creature within 5 feet that is willing or that has the {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB}, or {@condition Restrained|XPHB} condition. {@actSaveFail} 7 ({@damage 1d4 + 5}) Piercing damage plus 7 ({@damage 2d6}) Necrotic damage. The target's {@variantrule Hit Points|XPHB|Hit Point} maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains {@variantrule Hit Points|XPHB} equal to that amount."
+						"{@actSave con} {@dc 16}, una creatura entro 5 piedi che sia consenziente o che abbia la condizione {@condition Grappled|XPHB}, {@condition Incapacitated|XPHB} o {@condition Restrained|XPHB}. {@actSaveFail} 7 ({@damage 1d4 + 5}) Danno perforante più 7 ({@damage 2d6}) Danno necrotico. Il massimo del bersaglio {@variantrule Hit Points|XPHB|Hit Point} diminuisce di un ammontare pari al danno necrotico subito, e il vampiro recupera {@variantrule Hit Points|XPHB} pari a quell'importo."
 					]
 				}
 			],
@@ -854,7 +854,7 @@
 				{
 					"name": "Resilient Flesh",
 					"entries": [
-						"{@actTrigger} The vampire is hit by a melee attack roll from an attacker the vampire can see. {@actResponse} The vampire reduces the damage it takes from the attack by 11 ({@dice 2d6 + 4})."
+						"{@actTrigger} Il vampiro viene colpito da un tiro di attacco in mischia da parte di un attaccante che il vampiro può vedere. {@actResponse} Il vampiro riduce i danni subiti dall'attacco di 11 ({@dice 2d6 + 4})."
 					]
 				}
 			],

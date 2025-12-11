@@ -79,7 +79,7 @@
 				{
 					"name": "Legendary Resistance (3/Day, or 4/Day in Lair)",
 					"entries": [
-						"If the dragon fails a saving throw, it can choose to succeed instead."
+						"Se il drago fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -87,19 +87,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dragon makes three Rend attacks."
+						"Il drago effettua tre attacchi Rend."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 10 ft. {@h}14 ({@damage 2d8 + 5}) Slashing damage plus 5 ({@damage 1d10}) Poison damage."
+						"{@atkr m} {@hit 9}, portata 10 piedi {@h}14 ({@damage 2d8 + 5}) Danni da taglio più 5 ({@damage 1d10}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Nightmare Breath {@recharge 5}",
 					"entries": [
-						"{@actSave wis} {@dc 15}, each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 38 ({@damage 7d10}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition until the end of the dragon's next turn. {@actSaveSuccess} Half damage only."
+						"{@actSave wis} {@dc 15}, ogni creatura in un raggio di 9 metri {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 38 ({@damage 7d10}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino alla fine del turno successivo del drago. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -107,7 +107,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The dragon shape-shifts into a Small or Medium Humanoid or a Small or Medium Beast, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
+						"Il drago si trasforma in un umanoide piccolo o medio o in una bestia piccola o media, oppure ritorna alla sua vera forma. Le sue statistiche di gioco, a parte la dimensione, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato."
 					]
 				}
 			],
@@ -116,13 +116,13 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"Il drago si muove fino alla metà della sua {@variantrule Speed|XPHB} ed effettua un attacco Rend."
 					]
 				},
 				{
 					"name": "Spore Salvo",
 					"entries": [
-						"{@actSave con} {@dc 15}, one creature within 30 feet of the dragon that it can see. {@actSaveFail} 13 ({@damage 3d8}) Poison damage, and the target has the {@condition Poisoned|XPHB} condition. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"{@actSave con} {@dc 15}, una creatura entro 9 metri dal drago che possa vedere. {@actSaveFail} 13 ({@damage 3d8}) Danno da veleno e il bersaglio ha la condizione {@condition Poisoned|XPHB}. Ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente. {@actSaveSuccessOrFail} Il drago non può eseguire nuovamente questa azione fino all'inizio del suo turno successivo."
 					]
 				}
 			],
@@ -238,7 +238,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The dragon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 18}):"
+						"Il drago lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 18}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -258,7 +258,7 @@
 				{
 					"name": "Legendary Resistance (3/Day, or 4/Day in Lair)",
 					"entries": [
-						"If the dragon fails a saving throw, it can choose to succeed instead."
+						"Se il drago fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -266,25 +266,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dragon makes three Rend attacks. It can replace one attack with a use of (A) Time-Warping Breath or (B) Spellcasting to cast {@spell Thunderwave|XPHB}."
+						"Il drago effettua tre attacchi Rend. Può sostituire un attacco con l'uso di (A) Soffio Distorcente nel Tempo o (B) Lancio di Incantesimi da lanciare {@spell Thunderwave|XPHB}."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 11}, reach 10 ft. {@h}15 ({@damage 2d8 + 6}) Slashing damage plus 7 ({@damage 2d6}) Necrotic damage."
+						"{@atkr m} {@hit 11}, portata 10 piedi {@h}15 ({@damage 2d8 + 6}) Danni taglienti più 7 ({@damage 2d6}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Ruinous Breath {@recharge 5}",
 					"entries": [
-						"{@actSave con} {@dc 18}, each creature in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 63 ({@damage 14d8}) Necrotic damage. {@actSaveSuccess} Half damage."
+						"{@actSave con} {@dc 18}, ogni creatura in un raggio di 60 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 63 ({@damage 14d8}) Danno necrotico. {@actSaveSuccess} Danno dimezzato."
 					]
 				},
 				{
 					"name": "Time-Warping Breath",
 					"entries": [
-						"{@actSave wis} {@dc 18}, each creature that isn't currently affected by this breath in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target's {@variantrule Speed|XPHB} is halved, it can't take Reactions, and it can take either an action or a {@variantrule Bonus Action|XPHB} on its turn, not both. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
+						"{@actSave wis} {@dc 18}, ogni creatura che attualmente non è influenzata da questo soffio in un raggio di 60 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} Il {@variantrule Speed|XPHB} del bersaglio è dimezzato, non può effettuare Reazioni e può effettuare un'azione o una {@variantrule Bonus Action|XPHB} nel suo turno, non entrambe. Ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente."
 					]
 				}
 			],
@@ -293,19 +293,19 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"Il drago si muove fino alla metà della sua {@variantrule Speed|XPHB} ed effettua un attacco Rend."
 					]
 				},
 				{
 					"name": "Shattering Wave",
 					"entries": [
-						"The dragon uses Spellcasting to cast {@spell Thunderwave|XPHB}."
+						"Il drago usa il lancio degli incantesimi per lanciare {@spell Thunderwave|XPHB}."
 					]
 				},
 				{
 					"name": "Unearth Ruins",
 					"entries": [
-						"The dragon magically raises broken, ancient ruins in a 20-foot-radius, 60-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point it can see within 120 feet. Ground in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} becomes {@variantrule Difficult Terrain|XPHB}. Each creature in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} when it appears is subjected to the following effect. {@actSave str} {@dc 18}. {@actSaveFail} 5 ({@damage 2d4}) Bludgeoning damage, and the target has the {@condition Prone|XPHB} condition. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"Il drago solleva magicamente antiche rovine rotte in un raggio di 20 piedi, alte 60 piedi {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centrate su un punto che può vedere entro 120 piedi. Il terreno in {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} diventa {@variantrule Difficult Terrain|XPHB}. Ogni creatura nel {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} quando appare è soggetta al seguente effetto. {@actSave str} {@dc 18}. {@actSaveFail} 5 ({@damage 2d4}) Danni contundenti e il bersaglio ha la condizione {@condition Prone|XPHB}. {@actSaveSuccessOrFail} Il drago non può eseguire nuovamente questa azione fino all'inizio del suo turno successivo."
 					]
 				}
 			],
@@ -437,7 +437,7 @@
 				{
 					"name": "Legendary Resistance (4/Day, or 5/Day in Lair)",
 					"entries": [
-						"If the dragon fails a saving throw, it can choose to succeed instead."
+						"Se il drago fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -445,19 +445,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dragon makes three Rend attacks."
+						"Il drago effettua tre attacchi Rend."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 12}, reach 15 ft. {@h}17 ({@damage 2d10 + 6}) Slashing damage plus 5 ({@damage 1d10}) Poison damage."
+						"{@atkr m} {@hit 12}, portata 15 piedi {@h}17 ({@damage 2d10 + 6}) Danni da taglio più 5 ({@damage 1d10}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Nightmare Breath {@recharge 5}",
 					"entries": [
-						"{@actSave wis} {@dc 20}, each creature in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 44 ({@damage 8d10}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition until the end of the dragon's next turn. {@actSaveSuccess} Half damage only."
+						"{@actSave wis} {@dc 20}, ogni creatura in un raggio di 90 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 44 ({@damage 8d10}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino alla fine del turno successivo del drago. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -465,7 +465,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The dragon shape-shifts into a Small or Medium Humanoid or a Small or Medium Beast, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
+						"Il drago si trasforma in un umanoide piccolo o medio o in una bestia piccola o media, oppure ritorna alla sua vera forma. Le sue statistiche di gioco, a parte la dimensione, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato."
 					]
 				}
 			],
@@ -474,13 +474,13 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"Il drago si muove fino alla metà della sua {@variantrule Speed|XPHB} ed effettua un attacco Rend."
 					]
 				},
 				{
 					"name": "Spore Salvo",
 					"entries": [
-						"{@actSave con} {@dc 20}, one creature within 30 feet of the dragon that it can see. {@actSaveFail} 16 ({@damage 3d10}) Poison damage, and the target has the {@condition Poisoned|XPHB} condition. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"{@actSave con} {@dc 20}, una creatura entro 9 metri dal drago che possa vedere. {@actSaveFail} 16 ({@damage 3d10}) Danni da veleno e il bersaglio ha la condizione {@condition Poisoned|XPHB}. Ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente. {@actSaveSuccessOrFail} Il drago non può eseguire nuovamente questa azione fino all'inizio del suo turno successivo."
 					]
 				}
 			],
@@ -593,7 +593,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The dragon casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save {@dc 22}):"
+						"Il drago lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 22}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -614,7 +614,7 @@
 				{
 					"name": "Legendary Resistance (4/Day, or 5/Day in Lair)",
 					"entries": [
-						"If the dragon fails a saving throw, it can choose to succeed instead."
+						"Se il drago fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -622,25 +622,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dragon makes three Rend attacks. It can replace one attack with a use of (A) Time-Warping Breath or (B) Spellcasting to cast {@spell Thunderwave|XPHB} (level 2 version)."
+						"Il drago effettua tre attacchi Rend. Può sostituire un attacco con l'uso di (A) Soffio Distorcente nel Tempo o (B) Incantesimi da lanciare {@spell Thunderwave|XPHB} (versione di livello 2)."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 15}, reach 15 ft. {@h}19 ({@damage 2d10 + 8}) Slashing damage plus 9 ({@damage 2d8}) Necrotic damage."
+						"{@atkr m} {@hit 15}, portata 15 piedi {@h}19 ({@damage 2d10 + 8}) Danni taglienti più 9 ({@damage 2d8}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Ruinous Breath {@recharge 5}",
 					"entries": [
-						"{@actSave con} {@dc 22}, each creature in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 72 ({@damage 16d8}) Necrotic damage. {@actSaveSuccess} Half damage."
+						"{@actSave con} {@dc 22}, ogni creatura in un raggio di 90 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 72 ({@damage 16d8}) Danno necrotico. {@actSaveSuccess} Danno dimezzato."
 					]
 				},
 				{
 					"name": "Time-Warping Breath",
 					"entries": [
-						"{@actSave wis} {@dc 22}, each creature that isn't currently affected by this breath in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target's {@variantrule Speed|XPHB} is halved, it can't take Reactions, and it can take either an action or a {@variantrule Bonus Action|XPHB} on its turn, not both. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
+						"{@actSave wis} {@dc 22}, ogni creatura che attualmente non è influenzata da questo soffio in un raggio di 90 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} Il {@variantrule Speed|XPHB} del bersaglio è dimezzato, non può effettuare Reazioni e può effettuare un'azione o una {@variantrule Bonus Action|XPHB} nel suo turno, non entrambe. Ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente."
 					]
 				}
 			],
@@ -649,19 +649,19 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"The dragon moves up to half its {@variantrule Speed|XPHB}, and it makes one Rend attack."
+						"Il drago si muove fino alla metà della sua {@variantrule Speed|XPHB} ed effettua un attacco Rend."
 					]
 				},
 				{
 					"name": "Shattering Wave",
 					"entries": [
-						"The dragon uses Spellcasting to cast {@spell Thunderwave|XPHB} (level 2 version)."
+						"Il drago usa l'incantesimo per lanciare {@spell Thunderwave|XPHB} (versione di livello 2)."
 					]
 				},
 				{
 					"name": "Unearth Ruins",
 					"entries": [
-						"The dragon magically raises broken, ancient ruins in a 20-foot-radius, 60-foot-high {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centered on a point it can see within 120 feet. Ground in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} becomes {@variantrule Difficult Terrain|XPHB}. Each creature in the {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} when it appears is subjected to the following effect. {@actSave str} {@dc 22}. {@actSaveFail} 13 ({@damage 3d8}) Bludgeoning damage, and the target has the {@condition Prone|XPHB} condition. {@actSaveSuccessOrFail} The dragon can't take this action again until the start of its next turn."
+						"Il drago solleva magicamente antiche rovine rotte in un raggio di 20 piedi, alte 60 piedi {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} centrate su un punto che può vedere entro 120 piedi. Il terreno in {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} diventa {@variantrule Difficult Terrain|XPHB}. Ogni creatura nel {@variantrule Cylinder [Area of Effect]|XPHB|Cylinder} quando appare è soggetta al seguente effetto. {@actSave str} {@dc 22}. {@actSaveFail} 13 ({@damage 3d8}) Danni contundenti e il bersaglio ha la condizione {@condition Prone|XPHB}. {@actSaveSuccessOrFail} Il drago non può eseguire nuovamente questa azione fino all'inizio del suo turno successivo."
 					]
 				}
 			],
@@ -776,7 +776,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The aranea casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 12}):"
+						"L'aranea lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 12}):"
 					],
 					"will": [
 						"{@spell Friends|XPHB}",
@@ -795,13 +795,13 @@
 				{
 					"name": "Spider Climb (Hybrid or Spider Form Only)",
 					"entries": [
-						"The aranea can climb difficult surfaces, including along ceilings, without needing to make an ability check."
+						"L'aranea può arrampicarsi su superfici difficili, anche lungo i soffitti, senza bisogno di effettuare una prova di caratteristica."
 					]
 				},
 				{
 					"name": "Web Walker",
 					"entries": [
-						"The aranea ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web."
+						"L'aranea ignora le restrizioni al movimento causate dalle ragnatele e conosce la posizione di qualsiasi altra creatura in contatto con la stessa ragnatela."
 					]
 				}
 			],
@@ -809,25 +809,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The aranea makes two attacks, using Bite, Slam, or Sling in any combination."
+						"L'aranea effettua due attacchi, usando Morso, Schianto o Fionda in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Bite (Hybrid or Spider Form Only)",
 					"entries": [
-						"{@atkr m} {@hit 5}, reach 5 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage plus 2 ({@damage 1d4}) Poison damage."
+						"{@atkr m} {@hit 5}, portata 5 piedi {@h}6 ({@damage 1d6 + 3}) Danni perforanti più 2 ({@damage 1d4}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atkr m} {@hit 5}, reach 5 ft. {@h}7 ({@damage 1d8 + 3}) Bludgeoning damage."
+						"{@atkr m} {@hit 5}, portata 5 piedi {@h}7 ({@damage 1d8 + 3}) Danni contundenti."
 					]
 				},
 				{
 					"name": "Sling (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"{@atkr r} {@hit 5}, range 30/120 ft. {@h}8 ({@damage 2d4 + 3}) Bludgeoning damage."
+						"{@atkr r} {@hit 5}, portata 30/120 piedi. {@h}8 ({@damage 2d4 + 3}) Danni contundenti."
 					]
 				}
 			],
@@ -835,7 +835,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The aranea shape-shifts into a humanoid form, into a humanoid-spider hybrid form, or back into its true spider form. Its game statistics are the same in each form, except where noted. Any equipment it is wearing or carrying isn't transformed."
+						"L'aranea cambia forma in una forma umanoide, in una forma ibrida umanoide-ragno, o ritorna nella sua vera forma di ragno. Le sue statistiche di gioco sono le stesse in ogni forma, tranne dove diversamente indicato. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato."
 					]
 				}
 			],
@@ -949,31 +949,31 @@
 				{
 					"name": "Amphibious (Sea Form Only)",
 					"entries": [
-						"The beast breathes air and water."
+						"La bestia respira aria e acqua."
 					]
 				},
 				{
 					"name": "Divine Immortality",
 					"entries": [
-						"If the beast dies, its body dissolves into black goo, and it gains a new body after {@dice 1d10} days, reviving with all its {@variantrule Hit Points|XPHB} in a place of Malar's choosing."
+						"Se la bestia muore, il suo corpo si dissolve in una sostanza appiccicosa nera e acquisisce un nuovo corpo dopo {@dice 1d10} giorni, rinascendo con tutte le sue {@variantrule Hit Points|XPHB} in un luogo scelto da Malar."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the beast fails a saving throw, it can choose to succeed instead."
+						"Se la bestia fallisce il tiro salvezza, può scegliere invece di superarlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The beast has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"La bestia ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The beast regains 20 {@variantrule Hit Points|XPHB} at the start of its turn. If the beast takes Radiant damage or damage from a {@variantrule Critical Hit|XPHB}, this trait doesn't function at the start of the beast's next turn. The beast dies only if it starts its turn with 0 {@variantrule Hit Points|XPHB} and doesn't regenerate."
+						"La bestia recupera 20 {@variantrule Hit Points|XPHB} all'inizio del suo turno. Se la bestia subisce danni radianti o danni da un {@variantrule Critical Hit|XPHB}, questo tratto non funziona all'inizio del turno successivo della bestia. La bestia muore solo se inizia il suo turno con 0 {@variantrule Hit Points|XPHB} e non si rigenera."
 					]
 				}
 			],
@@ -981,19 +981,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The beast makes three attacks, using Bite or Claws in any combination."
+						"La bestia effettua tre attacchi, usando Morso o Artigli in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 5 ft. {@h}23 ({@damage 4d8 + 5}) Piercing damage."
+						"{@atkr m} {@hit 9}, portata 5 piedi {@h}23 ({@damage 4d8 + 5}) Danno perforante."
 					]
 				},
 				{
 					"name": "Claws (Land or Sky Form Only)",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 5 ft. {@h}18 ({@damage 3d8 + 5}) Slashing damage. If the target is Large or smaller, it has the {@condition Prone|XPHB} condition."
+						"{@atkr m} {@hit 9}, portata 5 piedi {@h}18 ({@damage 3d8 + 5}) Danno tagliente. Se il bersaglio è Grande o più piccolo, ha la condizione {@condition Prone|XPHB}."
 					]
 				}
 			],
@@ -1001,7 +1001,7 @@
 				{
 					"name": "Recuperative Shape-Shift",
 					"entries": [
-						"The beast shape-shifts into its land form, sea form, or sky form and regains 9 ({@dice 2d8}) {@variantrule Hit Points|XPHB}. Its game statistics are the same in each form, except where noted. Any equipment it is wearing or carrying isn't transformed."
+						"La bestia cambia forma nella sua forma di terra, di mare o di cielo e riacquista 9 ({@dice 2d8}) {@variantrule Hit Points|XPHB}. Le sue statistiche di gioco sono le stesse in ogni forma, tranne dove diversamente indicato. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato."
 					]
 				}
 			],
@@ -1111,7 +1111,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Biha Babir casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 17}):"
+						"Biha Babir lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 17}):"
 					],
 					"will": [
 						"{@spell Create or Destroy Water|XPHB}",
@@ -1137,25 +1137,25 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"Biha Babir can breathe air and water."
+						"Biha Babir può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Elemental Restoration",
 					"entries": [
-						"If Biha Babir dies outside the Elemental Plane of Water, her body dissolves into brine, and she gains a new body in {@dice 1d4} days, reviving with all her {@variantrule Hit Points|XPHB} somewhere on the Plane of Water."
+						"Se Biha Babir muore al di fuori del Piano Elementale dell'Acqua, il suo corpo si dissolve in salamoia e ottiene un nuovo corpo in {@dice 1d4} giorni, rianimando con tutto se stesso {@variantrule Hit Points|XPHB} da qualche parte sul Piano dell'Acqua."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Biha Babir fails a saving throw, she can choose to succeed instead."
+						"Se Biha Babir fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Wishes",
 					"entries": [
-						"Biha Babir knows the {@spell Wish|XPHB} spell but can cast it only on behalf of a non-genie creature who communicates a wish in a way Biha Babir can understand. If Biha Babir casts the spell for a creature, she suffers none of the spell's stress. Once Biha Babir has cast it three times, she can't do so again for 365 days."
+						"Biha Babir conosce l'incantesimo {@spell Wish|XPHB} ma può lanciarlo solo per conto di una creatura non genio che comunica un desiderio in un modo che Biha Babir possa comprendere. Se Biha Babir lancia l'incantesimo per una creatura, ella non subisce lo stress dell'incantesimo. Una volta che Biha Babir lo ha lanciato tre volte, non potrà farlo di nuovo per 365 giorni."
 					]
 				}
 			],
@@ -1163,19 +1163,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Biha Babir makes two Marine Burst attacks. She can replace one of these attacks with a Tail attack."
+						"Biha Babir effettua due attacchi Marine Burst. Può sostituire uno di questi attacchi con un attacco di coda."
 					]
 				},
 				{
 					"name": "Marine Burst",
 					"entries": [
-						"{@atkr m,r} {@hit 10}, reach 5 ft. or range 60 ft. {@h}17 ({@damage 2d10 + 6}) Cold damage."
+						"{@atkr m,r} {@hit 10}, portata 5 piedi o portata 60 piedi {@h}17 ({@damage 2d10 + 6}) Danni da freddo."
 					]
 				},
 				{
 					"name": "Tail (Marid Form Only)",
 					"entries": [
-						"{@atkr m} {@hit 10}, reach 15 ft. {@h}13 ({@damage 2d6 + 6}) Bludgeoning damage, and if the target is Huge or smaller, it has the {@condition Prone|XPHB} condition."
+						"{@atkr m} {@hit 10}, portata 15 piedi {@h}13 ({@damage 2d6 + 6}) Danni contundenti e se il bersaglio è Enorme o più piccolo, ha la condizione {@condition Prone|XPHB}."
 					]
 				}
 			],
@@ -1183,7 +1183,7 @@
 				{
 					"name": "Fluid Form",
 					"entries": [
-						"Biha Babir shape-shifts into a form resembling a Beast or Humanoid that is Medium or smaller, while retaining her game statistics (other than her size), or returns to her true marid form."
+						"Biha Babir si trasforma in una forma che ricorda una Bestia o un Umanoide di taglia Media o inferiore, pur mantenendo le sue statistiche di gioco (diverse dalla sua taglia), oppure ritorna alla sua vera forma di marid."
 					]
 				}
 			],
@@ -1191,13 +1191,13 @@
 				{
 					"name": "Misty Burst",
 					"entries": [
-						"Biha Babir teleports to an unoccupied space she can see within 30 feet of herself and makes one Marine Burst attack."
+						"Biha Babir si teletrasporta in uno spazio non occupato che può vedere entro 9 metri da sé ed effettua un attacco Marine Burst."
 					]
 				},
 				{
 					"name": "Whirlpool",
 					"entries": [
-						"{@actSave str} {@dc 18}, each creature in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from Biha Babir. {@actSaveFail} 10 ({@damage 3d6}) Force damage, and the target is pulled 15 feet straight toward Biha Babir. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} Biha Babir can't use this action again until the start of her next turn."
+						"{@actSave str} {@dc 18}, ogni creatura in un raggio di 9 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originaria di Biha Babir. {@actSaveFail} 10 ({@damage 3d6}) Danni di forza e il bersaglio viene trascinato per 15 piedi direttamente verso Biha Babir. {@actSaveSuccess} Solo metà del danno. {@actSaveSuccessOrFail} Biha Babir non può usare nuovamente questa azione fino all'inizio del suo prossimo turno."
 					]
 				}
 			],
@@ -1304,7 +1304,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 16}):"
+						"Il cultista lancia uno dei seguenti incantesimi, usando Saggezza come abilità da lanciatore (salvezza incantesimo {@dc 16}):"
 					],
 					"daily": {
 						"1": [
@@ -1323,7 +1323,7 @@
 				{
 					"name": "Determined Survivor",
 					"entries": [
-						"The cultist regains 10 {@variantrule Hit Points|XPHB} at the start of each of its turns if it is {@status Bloodied|XPHB} and has at least 1 {@variantrule Hit Points|XPHB|Hit Point}."
+						"Il cultista recupera 10 {@variantrule Hit Points|XPHB} all'inizio di ciascuno dei suoi turni se è {@status Bloodied|XPHB} e ne ha almeno 1 {@variantrule Hit Points|XPHB|Hit Point}."
 					]
 				}
 			],
@@ -1331,19 +1331,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The cultist makes three attacks, using Gauntlet or Oppressive Burst in any combination. It can replace one attack with a use of Spellcasting to cast {@spell Dominate Person|XPHB}, if available."
+						"Il cultista effettua tre attacchi, usando Gauntlet o Oppressive Burst in qualsiasi combinazione. Può sostituire un attacco con l'uso del lancio di incantesimi {@spell Dominate Person|XPHB}, se disponibile."
 					]
 				},
 				{
 					"name": "Gauntlet",
 					"entries": [
-						"{@atkr m} {@hit 8}, reach 5 ft. {@h}17 ({@damage 3d8 + 4}) Bludgeoning damage."
+						"{@atkr m} {@hit 8}, portata 5 piedi {@h}17 ({@damage 3d8 + 4}) Danni contundenti."
 					]
 				},
 				{
 					"name": "Oppressive Burst",
 					"entries": [
-						"{@atkr r} {@hit 8}, range 120 ft. {@h}16 ({@damage 2d10 + 5}) Psychic damage, and the target can't take Reactions until the start of the cultist's next turn."
+						"{@atkr r} {@hit 8}, portata 120 piedi. {@h}16 ({@damage 2d10 + 5}) Danni psichici e il bersaglio non può effettuare reazioni fino all'inizio del turno successivo del cultista."
 					]
 				}
 			],
@@ -1351,7 +1351,7 @@
 				{
 					"name": "Counterattack",
 					"entries": [
-						"{@actTrigger} The cultist is hit by an attack roll. {@actResponse} The cultist makes one Gauntlet or Oppressive Burst attack against the triggering creature."
+						"{@actTrigger} Il cultista viene colpito da un tiro per colpire. {@actResponse} Il cultista effettua un attacco Gauntlet o Oppressive Burst contro la creatura che lo ha attivato."
 					]
 				}
 			],
@@ -1447,7 +1447,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 14}):"
+						"Il cultista lancia uno dei seguenti incantesimi, usando Saggezza come abilità da lanciatore (salvezza incantesimo {@dc 14}):"
 					],
 					"daily": {
 						"2": [
@@ -1466,7 +1466,7 @@
 				{
 					"name": "Blood-Soaked Resolve",
 					"entries": [
-						"While Bloodied, the cultist has {@variantrule Advantage|XPHB} on saving throws."
+						"Mentre è insanguinato, il cultista ha {@variantrule Advantage|XPHB} sui tiri salvezza."
 					]
 				}
 			],
@@ -1474,13 +1474,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The cultist makes three Cursed Blade attacks. It can replace one of these attacks with a use of Spellcasting."
+						"Il cultista effettua tre attacchi con la lama maledetta. Può sostituire uno di questi attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Cursed Blade",
 					"entries": [
-						"{@atkr m,r} {@hit 7} (with {@variantrule Advantage|XPHB} if the target doesn't have all its {@variantrule Hit Points|XPHB}), reach 5 ft. or range 20/80 ft. {@h}14 ({@damage 3d6 + 4}) Slashing damage. {@hom}The blade magically returns to the cultist's hand immediately after a ranged attack."
+						"{@atkr m,r} {@hit 7} (con {@variantrule Advantage|XPHB} se il bersaglio non ha tutto il suo {@variantrule Hit Points|XPHB}), portata 5 piedi o portata 20/80 piedi. {@h}14 ({@damage 3d6 + 4}) Danno tagliente. {@hom}La lama ritorna magicamente nella mano del cultista subito dopo un attacco a distanza."
 					]
 				}
 			],
@@ -1587,7 +1587,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The cultist casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 17}):"
+						"Il cultista lancia uno dei seguenti incantesimi, utilizzando l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 17}):"
 					],
 					"will": [
 						"{@spell Speak with Dead|XPHB}",
@@ -1607,7 +1607,7 @@
 				{
 					"name": "Nearer to the Dead",
 					"entries": [
-						"While Bloodied, the cultist has {@variantrule Immunity|XPHB} to the {@condition Frightened|XPHB} and {@condition Poisoned|XPHB} conditions."
+						"Mentre è insanguinato, il cultista ha {@variantrule Immunity|XPHB} alle condizioni {@condition Frightened|XPHB} e {@condition Poisoned|XPHB}."
 					]
 				}
 			],
@@ -1615,13 +1615,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The cultist makes three Necrotic Burst attacks."
+						"Il cultista effettua tre attacchi Necrotic Burst."
 					]
 				},
 				{
 					"name": "Necrotic Burst",
 					"entries": [
-						"{@atkr m,r} {@hit 9}, reach 5 ft. or range 120 ft. {@h}27 ({@damage 5d10}) Necrotic damage and the target can't regain {@variantrule Hit Points|XPHB} until the end of the cultist's next turn."
+						"{@atkr m,r} {@hit 9}, portata 5 piedi o portata 120 piedi. {@h}27 ({@damage 5d10}) Danno necrotico e il bersaglio non può riguadagnare {@variantrule Hit Points|XPHB} fino alla fine del turno successivo del cultista."
 					]
 				}
 			],
@@ -1722,7 +1722,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The scion casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 20}):"
+						"Il rampollo lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 20}):"
 					],
 					"will": [
 						"{@spell Detect Thoughts|XPHB}",
@@ -1746,7 +1746,7 @@
 					"name": "Command",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The scion casts {@spell Command|XPHB} (level 2 version), using the same spellcasting ability as Spellcasting. The scion can't take this action again until the start of its next turn."
+						"Il rampollo lancia {@spell Command|XPHB} (versione di livello 2), utilizzando la stessa abilità di incantatore di Incantesimi. Il rampollo non può eseguire nuovamente questa azione fino all'inizio del suo turno successivo."
 					],
 					"legendary": {
 						"1": [
@@ -1764,19 +1764,19 @@
 				{
 					"name": "Culling Aura",
 					"entries": [
-						"{@actSave con} {@dc 20}, each {@status Bloodied|XPHB} creature in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the scion at the end of the scion's turn. {@actSaveFail} The target can't regain {@variantrule Hit Points|XPHB} until the start of the scion's next turn."
+						"{@actSave con} {@dc 20}, ciascuna {@status Bloodied|XPHB} creatura in un raggio di 9 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originata dalla progenie alla fine del turno della progenie. {@actSaveFail} Il bersaglio non può riconquistare {@variantrule Hit Points|XPHB} fino all'inizio del turno successivo del rampollo."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the scion fails a saving throw, it can choose to succeed instead."
+						"Se il rampollo fallisce il tiro salvezza, può invece scegliere di superarlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The scion has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il rampollo ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -1784,19 +1784,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The scion makes two attacks, using Death Touch or Mindwrack Bolt in any combination."
+						"Lo scion effettua due attacchi, usando Tocco Mortale o Dardo Spezzamente in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Death Touch",
 					"entries": [
-						"{@atkr m} {@hit 12}, reach 5 ft. {@h}25 ({@damage 4d8 + 7}) Necrotic damage."
+						"{@atkr m} {@hit 12}, portata 5 piedi {@h}25 ({@damage 4d8 + 7}) Danno necrotico."
 					]
 				},
 				{
 					"name": "Mindwrack Bolt",
 					"entries": [
-						"{@atkr r} {@hit 12}, range 120 ft. {@h}21 ({@damage 6d6}) Psychic damage and the target has the {@condition Poisoned|XPHB} condition until the start of the scion's next turn."
+						"{@atkr r} {@hit 12}, portata 120 piedi. {@h}21 ({@damage 6d6}) Danni psichici e il bersaglio ha la condizione {@condition Poisoned|XPHB} fino all'inizio del turno successivo del rampollo."
 					]
 				}
 			],
@@ -1804,7 +1804,7 @@
 				{
 					"name": "Attack",
 					"entries": [
-						"The scion makes a Death Touch or Mindwrack Bolt attack."
+						"Lo scion effettua un attacco Death Touch o Mindwrack Bolt."
 					]
 				}
 			],
@@ -1925,13 +1925,13 @@
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}6 ({@damage 1d8 + 2}) Slashing damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}6 ({@damage 1d8 + 2}) Danno tagliente."
 					]
 				},
 				{
 					"name": "Nightmare Breath {@recharge 5}",
 					"entries": [
-						"{@actSave wis} {@dc 11}, each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 7 ({@damage 2d6}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition until the end of the dragon's next turn. {@actSaveSuccess} Half damage only."
+						"{@actSave wis} {@dc 11}, ogni creatura in un raggio di 15 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 7 ({@damage 2d6}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino alla fine del turno successivo del drago. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -2009,13 +2009,13 @@
 				{
 					"name": "Mechanical Determination",
 					"entries": [
-						"If damage reduces the wonder to 0 {@variantrule Hit Points|XPHB}, it makes a Constitution saving throw with a DC of 5 plus the damage taken unless the damage is Lightning or from a {@variantrule Critical Hit|XPHB}. On a successful save, the wonder drops to 1 {@variantrule Hit Points|XPHB|Hit Point} instead."
+						"Se il danno riduce la meraviglia a 0 {@variantrule Hit Points|XPHB}, effettua un tiro salvezza su Costituzione con CD pari a 5 più il danno subito a meno che il danno non sia un fulmine o un {@variantrule Critical Hit|XPHB}. In caso di salvataggio riuscito, la meraviglia scende invece a 1 {@variantrule Hit Points|XPHB|Hit Point}."
 					]
 				},
 				{
 					"name": "Wind-Up Operation",
 					"entries": [
-						"The wonder has the {@condition Unconscious|XPHB} condition until another creature winds it with the wonder's unique key for 1 minute. Once wound, the wonder operates for 10 days or until a creature touches the wonder with its key as a {@action Utilize|XPHB} action to deactivate it, after which the wonder has the {@condition Unconscious|XPHB} condition until it is wound again."
+						"La meraviglia ha la condizione {@condition Unconscious|XPHB} finché un'altra creatura non la carica con la chiave unica della meraviglia per 1 minuto. Una volta ferita, la meraviglia funziona per 10 giorni o finché una creatura non tocca la meraviglia con la sua chiave come azione {@action Utilize|XPHB} per disattivarla, dopodiché la meraviglia mantiene la condizione {@condition Unconscious|XPHB} finché non viene ferita nuovamente."
 					]
 				}
 			],
@@ -2086,7 +2086,7 @@
 					"name": "Underdark Magic (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow casts {@spell Darkness|XPHB}, {@spell Faerie Fire|XPHB}, or {@spell Levitate|XPHB} (self only), requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 12})."
+						"Il drow lancia {@spell Darkness|XPHB}, {@spell Faerie Fire|XPHB} o {@spell Levitate|XPHB} (solo se stesso), non richiedendo componenti materiali e utilizzando Carisma come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 12})."
 					],
 					"daily": {
 						"3": [
@@ -2106,13 +2106,13 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"The drow has {@variantrule Advantage|XPHB} on saving throws it makes to avoid or end the {@condition Charmed|XPHB} condition, and magic can't put the drow to sleep."
+						"Il drow ha {@variantrule Advantage|XPHB} sui tiri salvezza effettuati per evitare o porre fine alla condizione {@condition Charmed|XPHB} e la magia non può addormentare il drow."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the drow has {@variantrule Disadvantage|XPHB} on attack rolls."
+						"Mentre è alla luce del sole, il drow ha {@variantrule Disadvantage|XPHB} sui tiri per colpire."
 					]
 				}
 			],
@@ -2120,19 +2120,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The drow makes two attacks using Shortsword or Drow Hand Crossbow in any combination"
+						"Il drow effettua due attacchi usando la spada corta o la balestra a mano drow in qualsiasi combinazione"
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 5 ft. {@h}11 ({@damage 2d6 + 4}) Piercing damage plus 10 ({@damage 3d6}) Poison damage."
+						"{@atkr m} {@hit 7}, portata 5 piedi. {@h}11 ({@damage 2d6 + 4}) Danni perforanti più 10 ({@damage 3d6}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Drow Hand Crossbow",
 					"entries": [
-						"{@atkr r} {@hit 7}, range 30/120 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage, and the target makes a saving throw. {@actSave con} {@dc 15}. {@actSaveFail} The target has the {@condition Poisoned|XPHB} condition for 1 hour. While {@condition Poisoned|XPHB} in this way, the target also has the {@condition Unconscious|XPHB} condition. The target wakes up if it takes damage or if a creature within 5 feet of it takes an action to wake it."
+						"{@atkr r} {@hit 7}, portata 30/120 piedi. {@h}7 ({@damage 1d6 + 4}) Danno perforante e il bersaglio effettua un tiro salvezza. {@actSave con} {@dc 15}. {@actSaveFail} Il target ha la condizione {@condition Poisoned|XPHB} per 1 ora. Mentre {@condition Poisoned|XPHB} in questo modo, il target ha anche la condizione {@condition Unconscious|XPHB}. Il bersaglio si sveglia se subisce danni o se una creatura entro 1,5 metri da esso effettua un'azione per svegliarlo."
 					]
 				}
 			],
@@ -2249,7 +2249,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 14}, {@hit 6} to hit with spell attacks):"
+						"Il drow lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimi):"
 					],
 					"will": [
 						"{@spell Dancing Lights|XPHB}",
@@ -2269,7 +2269,7 @@
 					"name": "Underdark Magic (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow casts {@spell Faerie Fire|XPHB} or {@spell Misty Step|XPHB}, requiring no Material components and using the same spellcasting ability as Spellcasting."
+						"Il drow lancia {@spell Faerie Fire|XPHB} o {@spell Misty Step|XPHB}, non richiedendo componenti materiali e utilizzando la stessa capacità di lanciare incantesimi di Incantesimi."
 					],
 					"daily": {
 						"3": [
@@ -2288,13 +2288,13 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"The drow has {@variantrule Advantage|XPHB} on saving throws it makes to avoid or end the {@condition Charmed|XPHB} condition, and magic can't put the drow to sleep."
+						"Il drow ha {@variantrule Advantage|XPHB} sui tiri salvezza effettuati per evitare o porre fine alla condizione {@condition Charmed|XPHB} e la magia non può addormentare il drow."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the drow has {@variantrule Disadvantage|XPHB} on attack rolls."
+						"Mentre è alla luce del sole, il drow ha {@variantrule Disadvantage|XPHB} sui tiri per colpire."
 					]
 				}
 			],
@@ -2302,13 +2302,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The drow makes three Abyssal Burst attacks."
+						"Il drow effettua tre attacchi Abyssal Burst."
 					]
 				},
 				{
 					"name": "Abyssal Burst",
 					"entries": [
-						"{@atkr m,r} {@hit 6}, reach 5 ft. or range 120 ft. {@h}21 ({@damage 4d8 + 3}) Poison damage."
+						"{@atkr m,r} {@hit 6}, portata 5 piedi o portata 120 piedi {@h}21 ({@damage 4d8 + 3}) Danni da veleno."
 					]
 				}
 			],
@@ -2408,7 +2408,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save {@dc 11}):"
+						"Il drow lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 11}):"
 					],
 					"will": [
 						"{@spell Dancing Lights|XPHB}"
@@ -2426,13 +2426,13 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"The drow has {@variantrule Advantage|XPHB} on saving throws it makes to avoid or end the {@condition Charmed|XPHB} condition, and magic can't put the drow to sleep."
+						"Il drow ha {@variantrule Advantage|XPHB} sui tiri salvezza effettuati per evitare o porre fine alla condizione {@condition Charmed|XPHB} e la magia non può addormentare il drow."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the drow has {@variantrule Disadvantage|XPHB} on attack rolls."
+						"Mentre è alla luce del sole, il drow ha {@variantrule Disadvantage|XPHB} sui tiri per colpire."
 					]
 				}
 			],
@@ -2440,13 +2440,13 @@
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}6 ({@damage 1d8 + 2}) Piercing damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}6 ({@damage 1d8 + 2}) Danno perforante."
 					]
 				},
 				{
 					"name": "Drow Hand Crossbow",
 					"entries": [
-						"{@atkr r} {@hit 4}, range 30/120 ft. {@h}4 ({@damage 1d4 + 2}) Piercing damage, and the target makes a saving throw. {@actSave con} {@dc 12}. {@actSaveFail} The target has the {@condition Poisoned|XPHB} condition for 1 hour. If the target fails the save by 5 or more, it also has the {@condition Unconscious|XPHB} condition while {@condition Poisoned|XPHB} in this way. The target wakes up if it takes damage or if a creature within 5 feet of it takes an action to wake it."
+						"{@atkr r} {@hit 4}, portata 30/120 piedi. {@h}4 ({@damage 1d4 + 2}) Danno perforante e il bersaglio effettua un tiro salvezza. {@actSave con} {@dc 12}. {@actSaveFail} Il target ha la condizione {@condition Poisoned|XPHB} per 1 ora. Se il bersaglio fallisce il tiro salvezza di 5 o più, ha anche la condizione {@condition Unconscious|XPHB} mentre {@condition Poisoned|XPHB} in questo modo. Il bersaglio si sveglia se subisce danni o se una creatura entro 1,5 metri da esso effettua un'azione per svegliarlo."
 					]
 				}
 			],
@@ -2560,7 +2560,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability:"
+						"Il drow lancia uno dei seguenti incantesimi, che non richiedono componenti materiali e utilizzano Saggezza come capacità di incantatore:"
 					],
 					"will": [
 						"{@spell Dancing Lights|XPHB}",
@@ -2574,7 +2574,7 @@
 					"name": "Lolth's Blessing (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow casts {@spell Cure Wounds|XPHB}, {@spell Darkness|XPHB}, {@spell Dispel Magic|XPHB}, or {@spell Lesser Restoration|XPHB}, using the same spellcasting ability as Spellcasting."
+						"Il drow lancia {@spell Cure Wounds|XPHB}, {@spell Darkness|XPHB}, {@spell Dispel Magic|XPHB} o {@spell Lesser Restoration|XPHB} utilizzando la stessa abilità di incantatore di Incantesimi."
 					],
 					"daily": {
 						"3": [
@@ -2595,13 +2595,13 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"The drow has {@variantrule Advantage|XPHB} on saving throws it makes to avoid or end the {@condition Charmed|XPHB} condition, and magic can't put the drow to sleep."
+						"Il drow ha {@variantrule Advantage|XPHB} sui tiri salvezza effettuati per evitare o porre fine alla condizione {@condition Charmed|XPHB} e la magia non può addormentare il drow."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the drow has {@variantrule Disadvantage|XPHB} on attack rolls."
+						"Mentre è alla luce del sole, il drow ha {@variantrule Disadvantage|XPHB} sui tiri per colpire."
 					]
 				}
 			],
@@ -2609,19 +2609,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The drow makes three Scourge attacks."
+						"Il drow effettua tre attacchi con il Flagello."
 					]
 				},
 				{
 					"name": "Scourge",
 					"entries": [
-						"{@atkr m} {@hit 5}, reach 10 ft. {@h}6 ({@damage 1d6 + 3}) Piercing damage plus 17 ({@damage 5d6}) Poison damage."
+						"{@atkr m} {@hit 5}, portata 10 piedi {@h}6 ({@damage 1d6 + 3}) Danni perforanti più 17 ({@damage 5d6}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Spider Vortex {@recharge 5}",
 					"entries": [
-						"{@actSave con} {@dc 15}, each enemy in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the drow. {@actSaveFail} 33 ({@damage 6d10}) Piercing damage, and the target has the {@condition Restrained|XPHB} condition until the start of the drow's next turn. {@actSaveSuccess} Half damage only."
+						"{@actSave con} {@dc 15}, ogni nemico in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dal drow. {@actSaveFail} 33 ({@damage 6d10}) Danno perforante e il bersaglio ha la condizione {@condition Restrained|XPHB} fino all'inizio del turno successivo del drow. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -2716,13 +2716,13 @@
 				{
 					"name": "Increased Carrying Capacity",
 					"entries": [
-						"The wonder can carry up to 100 pounds."
+						"La meraviglia può trasportare fino a 100 libbre."
 					]
 				},
 				{
 					"name": "Wind-Up Operation",
 					"entries": [
-						"The wonder has the {@condition Unconscious|XPHB} condition until another creature winds it with the wonder's unique key for 1 minute. Once wound, the wonder operates for 24 hours or until a creature touches the wonder with its key as a {@action Utilize|XPHB} action to deactivate it, after which the wonder has the {@condition Unconscious|XPHB} condition until it is wound again."
+						"La meraviglia ha la condizione {@condition Unconscious|XPHB} finché un'altra creatura non la carica con la chiave unica della meraviglia per 1 minuto. Una volta ferita, la meraviglia funziona per 24 ore o finché una creatura non tocca la meraviglia con la sua chiave come azione {@action Utilize|XPHB} per disattivarla, dopodiché la meraviglia mantiene la condizione {@condition Unconscious|XPHB} finché non viene ferita nuovamente."
 					]
 				}
 			],
@@ -2730,13 +2730,13 @@
 				{
 					"name": "Chime",
 					"entries": [
-						"The wonder chirps a merry, metronomic tune. The wonder chooses one ally that it can see within 60 feet. Until the start of the wonder's next turn, the target has {@variantrule Advantage|XPHB} on the next ability check it makes with a Musical Instrument or Tinker's Tools."
+						"La meraviglia cinguetta una melodia allegra e metronomica. La meraviglia sceglie un alleato che possa vedere entro 18 metri. Fino all'inizio del turno successivo della meraviglia, il bersaglio ha {@variantrule Advantage|XPHB} sulla successiva prova di abilità che effettua con uno strumento musicale o strumenti da armeggiatore."
 					]
 				},
 				{
 					"name": "Sprint",
 					"entries": [
-						"The wonder takes the Dash action."
+						"La meraviglia esegue l'azione Dash."
 					]
 				}
 			],
@@ -2828,7 +2828,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Karas casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 15}, {@hit 7} to hit with spell attacks):"
+						"Karas lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}, {@hit 7} per colpire con attacchi con incantesimi):"
 					],
 					"will": [
 						"{@spell Friends|XPHB}",
@@ -2852,13 +2852,13 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If Karas is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, Karas instead takes no damage if she succeeds on the save and only half damage if she fails. She can't use this trait if she has the {@condition Incapacitated|XPHB} condition."
+						"Se Karas è soggetta a un effetto che le permette di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, Karas invece non subisce danni se supera il tiro salvezza e solo la metà dei danni se fallisce. Non può usare questo tratto se ha la condizione {@condition Incapacitated|XPHB}."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day or 4/Day in Lair)",
 					"entries": [
-						"If Karas fails a saving throw, she can choose to succeed instead."
+						"Se Karas fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				}
 			],
@@ -2866,19 +2866,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Karas makes two attacks using Dread Dagger or Tyrant's Blade in any combination."
+						"Karas effettua due attacchi usando Dread Dagger o Tyrant's Blade in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Dread Dagger",
 					"entries": [
-						"{@atkr m,r} {@hit 8}, reach 5 ft. or range 20/60 ft. {@h}10 ({@damage 2d4 + 5}) Piercing damage plus 4 ({@damage 1d8}) Necrotic damage. {@hom}The dagger magically returns to Karas's hand immediately after a ranged attack."
+						"{@atkr m,r} {@hit 8}, portata 5 piedi o portata 20/60 piedi. {@h}10 ({@damage 2d4 + 5}) Danno perforante più 4 ({@damage 1d8}) Danno necrotico. {@hom}Il pugnale ritorna magicamente nella mano di Karas subito dopo un attacco a distanza."
 					]
 				},
 				{
 					"name": "Tyrant's Blade",
 					"entries": [
-						"{@atkr m} {@hit 8}, reach 5 ft. {@h}8 ({@damage 1d6 + 5}) Slashing damage, and the target has the {@condition Frightened|XPHB} condition until the start of Karas's next turn. If the target is already {@condition Frightened|XPHB}, it instead takes 10 ({@damage 3d6}) Psychic damage."
+						"{@atkr m} {@hit 8}, raggiungono 5 piedi {@h}8 ({@damage 1d6 + 5}) Danni taglienti e il bersaglio ha la condizione {@condition Frightened|XPHB} fino all'inizio del turno successivo di Karas. Se il bersaglio è già {@condition Frightened|XPHB}, subisce invece 10 ({@damage 3d6}) danni psichici."
 					]
 				}
 			],
@@ -2886,7 +2886,7 @@
 				{
 					"name": "Withdraw",
 					"entries": [
-						"Karas moves up to half her {@variantrule Speed|XPHB} without provoking Opportunity Attack action and takes the Hide action."
+						"Karas si muove fino alla metà di lei {@variantrule Speed|XPHB} senza provocare l'azione Attacco di Opportunità ed effettua l'azione Nascondersi."
 					]
 				}
 			],
@@ -2895,13 +2895,13 @@
 				{
 					"name": "Harrow",
 					"entries": [
-						"{@actSave wis} {@dc 15}, one creature Karas can see within 90 feet of herself. {@actSaveFail} 10 ({@damage 3d6}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition for 1 minute. While {@condition Frightened|XPHB}, the target's {@variantrule Speed|XPHB} is 0 feet, and it repeats the save at the end of each of its turns, ending the effect on a success. {@actSaveSuccessOrFail} Karas can't take this action again until the start of her next turn."
+						"{@actSave wis} {@dc 15}, una creatura che Karas può vedere entro 90 piedi da sé. {@actSaveFail} 10 ({@damage 3d6}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} per 1 minuto. Mentre {@condition Frightened|XPHB}, il bersaglio {@variantrule Speed|XPHB} è a 0 piedi e ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto in caso di successo. {@actSaveSuccessOrFail} Karas non può eseguire nuovamente questa azione fino all'inizio del suo prossimo turno."
 					]
 				},
 				{
 					"name": "Stealth Attack",
 					"entries": [
-						"Karas makes one Dread Dagger attack and uses Withdraw."
+						"Karas effettua un attacco con Dread Dagger e usa Ritirata."
 					]
 				}
 			],
@@ -3037,7 +3037,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Manshoon casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 19}):"
+						"Manshoon lancia uno dei seguenti incantesimi, utilizzando Intelligenza come abilità da lanciatore (salvezza incantesimo {@dc 19}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -3069,7 +3069,7 @@
 					"name": "Misty Step",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Manshoon casts {@spell Misty Step|XPHB}, using the same spellcasting ability as Spellcasting."
+						"Manshoon lancia {@spell Misty Step|XPHB}, utilizzando la stessa abilità di incantatore di Incantesimi."
 					],
 					"will": [
 						"{@spell Misty Step|XPHB}"
@@ -3084,7 +3084,7 @@
 					"name": "Protective Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Manshoon casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"Manshoon lancia {@spell Counterspell|XPHB} o {@spell Shield|XPHB} in risposta all'attivazione dell'incantesimo, utilizzando la stessa abilità di incantatore di Incantesimi."
 					],
 					"will": [
 						"{@spell Counterspell|XPHB}",
@@ -3101,7 +3101,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Manshoon has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Manshoon ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -3109,13 +3109,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Manshoon makes three Arcane Burst attacks. He can replace two attacks with a use of Spellcasting."
+						"Manshoon effettua tre attacchi Arcane Burst. Può sostituire due attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Arcane Burst",
 					"entries": [
-						"{@atkr m,r} {@hit 11}, reach 5 ft., or range 120 ft. {@h}32 ({@damage 4d12 + 6}) Force damage."
+						"{@atkr m,r} {@hit 11}, portata 5 piedi o portata 120 piedi {@h}32 ({@damage 4d12 + 6}) Danni di forza."
 					]
 				}
 			],
@@ -3219,7 +3219,7 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If the nimblewright is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the save and only half damage if it fails, provided it doesn't have the {@condition Incapacitated|XPHB} condition."
+						"Se l'agile maestro è soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, invece non subisce danni se supera il tiro salvezza e solo la metà dei danni se fallisce, a condizione che non soddisfi la condizione {@condition Incapacitated|XPHB}."
 					]
 				}
 			],
@@ -3227,19 +3227,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The nimblewright makes three attacks, using Scimitar or Clockwork Crossbow in any combination."
+						"L'agile maestro effettua tre attacchi, usando la Scimitarra o la Balestra Meccanica in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Scimitar",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}7 ({@damage 1d6 + 4}) Slashing damage."
+						"{@atkr m} {@hit 6}, portata 5 piedi {@h}7 ({@damage 1d6 + 4}) Danno tagliente."
 					]
 				},
 				{
 					"name": "Clockwork Crossbow",
 					"entries": [
-						"{@atkr r} {@hit 6}, range 80/320 ft. {@h}8 ({@damage 1d8 + 4}) Piercing damage."
+						"{@atkr r} {@hit 6}, portata 80/320 piedi {@h}8 ({@damage 1d8 + 4}) Danno perforante."
 					]
 				}
 			],
@@ -3247,7 +3247,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"{@actTrigger} The nimblewright is hit by a melee attack roll while holding a weapon. {@actResponse} The nimblewright adds 2 to its AC against that attack, potentially causing it to miss."
+						"{@actTrigger} L'agile maestro viene colpito da un tiro per colpire in mischia mentre impugna un'arma. {@actResponse} L'agile maestro aggiunge 2 alla sua CA contro quell'attacco, facendolo potenzialmente fallire."
 					]
 				}
 			],
@@ -3343,13 +3343,13 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If the nimblewright is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the save and only half damage if it fails, provided it doesn't have the {@condition Incapacitated|XPHB} condition."
+						"Se l'agile maestro è soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, invece non subisce danni se supera il tiro salvezza e solo la metà dei danni se fallisce, a condizione che non soddisfi la condizione {@condition Incapacitated|XPHB}."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The nimblewright has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"L'agile maestro ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -3357,19 +3357,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The nimblewright makes four attacks, using Halting Slam or Radiant Ray in any combination."
+						"L'agile maestro effettua quattro attacchi, usando Halting Slam o Radiant Ray in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Halting Slam",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 10 ft. {@h}15 ({@damage 2d10 + 4}) Bludgeoning damage, and the target's {@variantrule Speed|XPHB} is reduced to 0 until the end of its next turn."
+						"{@atkr m} {@hit 7}, portata 10 piedi {@h}15 ({@damage 2d10 + 4}) Danni contundenti e il danno contundente {@variantrule Speed|XPHB} del bersaglio viene ridotto a 0 fino alla fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Radiant Ray",
 					"entries": [
-						"{@atkr r} {@hit 7}, range 60 ft. {@h}14 ({@damage 4d6}) Radiant damage."
+						"{@atkr r} {@hit 7}, portata 60 piedi {@h}14 ({@damage 4d6}) Danno radiante."
 					]
 				}
 			],
@@ -3459,7 +3459,7 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If the nimblewright is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the save and only half damage if it fails, provided it doesn't have the {@condition Incapacitated|XPHB} condition."
+						"Se l'agile maestro è soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, invece non subisce danni se supera il tiro salvezza e solo la metà dei danni se fallisce, a condizione che non soddisfi la condizione {@condition Incapacitated|XPHB}."
 					]
 				}
 			],
@@ -3467,7 +3467,7 @@
 				{
 					"name": "Hooves",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}7 ({@damage 1d8 + 3}) Bludgeoning damage. If the nimblewright moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 4 ({@damage 1d8}) Bludgeoning damage and, if it is Huge or smaller, has the {@condition Prone|XPHB} condition."
+						"{@atkr m} {@hit 6}, portata 5 piedi {@h}7 ({@damage 1d8 + 3}) Danni contundenti. Se l'agile maestro si è mosso di almeno 20 piedi verso il bersaglio immediatamente prima del colpo, il bersaglio subisce 4 ({@damage 1d8}) danni contundenti aggiuntivi e, se è Enorme o inferiore, ha la condizione {@condition Prone|XPHB}."
 					]
 				}
 			],
@@ -3475,7 +3475,7 @@
 				{
 					"name": "Nimble Movement",
 					"entries": [
-						"The nimblewright takes the Disengage action."
+						"L’agile maestro effettua l’azione Disingaggio."
 					]
 				}
 			],
@@ -3567,7 +3567,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The phaerimm casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 15}):"
+						"Il phaerimm lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 15}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -3588,7 +3588,7 @@
 					"name": "Protective Magic (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The phaerimm casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"Il phaerimm lancia {@spell Counterspell|XPHB} o {@spell Shield|XPHB} in risposta all'attivazione dell'incantesimo, utilizzando la stessa abilità di lancio degli incantesimi di Lancio degli incantesimi."
 					],
 					"daily": {
 						"3": [
@@ -3607,7 +3607,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The phaerimm has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il phaerimm ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -3615,19 +3615,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The phaerimm makes three attacks, using Dread Stinger or Mindwarp Ray in any combination."
+						"Il phaerimm effettua tre attacchi, usando Dread Stinger o Mindwarp Ray in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Dread Stinger",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 5 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage plus 13 ({@damage 2d12}) Poison damage."
+						"{@atkr m} {@hit 7}, portata 5 piedi {@h}7 ({@damage 1d6 + 4}) Danni perforanti più 13 ({@damage 2d12}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Mindwarp Ray",
 					"entries": [
-						"{@atkr r} {@hit 7}, range 120 ft. {@h}13 ({@damage 2d8 + 4}) Psychic damage, and the target has the {@condition Charmed|XPHB} condition until the start of the phaerimm's next turn."
+						"{@atkr r} {@hit 7}, portata 120 piedi. {@h}13 ({@damage 2d8 + 4}) Danni psichici e il bersaglio ha la condizione {@condition Charmed|XPHB} fino all'inizio del turno successivo del phaerimm."
 					]
 				}
 			],
@@ -3635,7 +3635,7 @@
 				{
 					"name": "Teleport",
 					"entries": [
-						"The phaerimm teleports up to 30 feet to an unoccupied space it can see."
+						"Il phaerimm si teletrasporta fino a 9 metri in uno spazio non occupato che può vedere."
 					]
 				}
 			],
@@ -3746,7 +3746,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The phaerimm casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save {@dc 12}):"
+						"Il phaerimm lancia uno dei seguenti incantesimi, che non richiede componenti di incantesimo e utilizza Carisma come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 12}):"
 					],
 					"will": [
 						"{@spell Detect Thoughts|XPHB}",
@@ -3760,7 +3760,7 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The phaerimm has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il phaerimm ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -3768,13 +3768,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The phaerimm makes two Stinger attacks."
+						"Il phaerimm effettua due attacchi con il pungiglione."
 					]
 				},
 				{
 					"name": "Stinger",
 					"entries": [
-						"{@atkr m} {@hit 3}, reach 5 ft. {@h}3 ({@damage 1d4 + 1}) Piercing damage."
+						"{@atkr m} {@hit 3}, portata 5 piedi {@h}3 ({@damage 1d4 + 1}) Danno perforante."
 					]
 				}
 			],
@@ -3867,7 +3867,7 @@
 				{
 					"name": "Misty Slithering",
 					"entries": [
-						"The serpent can move through a space as narrow as 1 inch without expending extra movement to do so."
+						"Il serpente può muoversi attraverso uno spazio stretto fino a 1 pollice senza spendere movimento aggiuntivo per farlo."
 					]
 				}
 			],
@@ -3875,19 +3875,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The serpent makes one Bite attack and uses Constrict."
+						"Il serpente effettua un attacco con il morso e usa Costrizione."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}8 ({@damage 1d8 + 4}) Piercing damage plus 3 ({@damage 1d6}) Cold damage."
+						"{@atkr m} {@hit 6}, portata 5 piedi {@h}8 ({@damage 1d8 + 4}) Danno perforante più 3 ({@damage 1d6}) Danno da freddo."
 					]
 				},
 				{
 					"name": "Constrict",
 					"entries": [
-						"{@actSave str} {@dc 14}, one Medium or smaller creature the snake can see within 10 feet. {@actSaveFail} 3 ({@damage 1d6}) Bludgeoning damage plus 7 ({@damage 2d6}) Cold damage. The target has the {@condition Grappled|XPHB} condition (escape {@dc 14}), and it has the {@condition Restrained|XPHB} condition until the grapple ends."
+						"{@actSave str} {@dc 14}, una creatura di taglia Media o inferiore che il serpente può vedere entro 3 metri. {@actSaveFail} 3 ({@damage 1d6}) Danni contundenti più 7 ({@damage 2d6}) Danni da freddo. Il bersaglio ha la condizione {@condition Grappled|XPHB} (fuga {@dc 14}) e ha la condizione {@condition Restrained|XPHB} fino al termine della presa."
 					]
 				}
 			],
@@ -3988,13 +3988,13 @@
 				{
 					"name": "Inspiring Presence",
 					"entries": [
-						"Creatures of Forfallen's choice (excluding herself) in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from her have {@variantrule Advantage|XPHB} on attack rolls. She can't use this trait if she has the {@condition Incapacitated|XPHB} condition."
+						"Le creature scelte da Forfallen (esclusa se stessa) in un raggio di 9 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originate da lei hanno {@variantrule Advantage|XPHB} sui tiri per colpire. Non può usare questo tratto se ha la condizione {@condition Incapacitated|XPHB}."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Forfallen has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Forfallen ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -4002,19 +4002,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Forfallen makes three attacks, using Greataxe or Handaxe in any combination."
+						"Forfallen effettua tre attacchi, usando Greataxe o Handaxe in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Greataxe",
 					"entries": [
-						"{@atkr m} {@hit 9}, reach 5 ft. {@h}18 ({@damage 2d12 + 5}) Slashing damage, and the target has the {@condition Poisoned|XPHB} condition until the end of its next turn."
+						"{@atkr m} {@hit 9}, raggiungono 5 piedi {@h}18 ({@damage 2d12 + 5}) Danni taglienti e il bersaglio ha la condizione {@condition Poisoned|XPHB} fino alla fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Handaxe",
 					"entries": [
-						"{@atkr m,r} {@hit 9}, reach 5 ft. or range 20/60 ft. {@h}22 ({@damage 5d6 + 5}) Slashing damage."
+						"{@atkr m,r} {@hit 9}, portata 5 piedi o portata 20/60 piedi {@h}22 ({@damage 5d6 + 5}) Danni taglienti."
 					]
 				}
 			],
@@ -4022,7 +4022,7 @@
 				{
 					"name": "Rust's Grip",
 					"entries": [
-						"{@actSave con} {@dc 16}, one creature Forfallen can see within 20 feet. The target has {@variantrule Disadvantage|XPHB} on this save if it has the {@condition Poisoned|XPHB} condition. {@actSaveFail 1} The target has the {@condition Restrained|XPHB} condition and repeats the save at the end of its next turn if it's still {@condition Restrained|XPHB}, ending the effect on itself on a success. {@actSaveFail 2} The target has the {@condition Petrified|XPHB} condition instead of the {@condition Restrained|XPHB} condition, becoming a statue of rusted iron."
+						"{@actSave con} {@dc 16}, una creatura Forfallen può vedere entro 20 piedi. Il bersaglio ha {@variantrule Disadvantage|XPHB} su questo salvataggio se ha la condizione {@condition Poisoned|XPHB}. {@actSaveFail 1} Il bersaglio ha la condizione {@condition Restrained|XPHB} e ripete il salvataggio alla fine del suo turno successivo se è ancora {@condition Restrained|XPHB}, terminando l'effetto su se stesso in caso di successo. {@actSaveFail 2} Il bersaglio ha la condizione {@condition Petrified|XPHB} invece della condizione {@condition Restrained|XPHB}, diventando una statua di ferro arrugginito."
 					]
 				}
 			],
@@ -4105,19 +4105,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Rusted makes three attacks, using Slam or Rusted Shot Put in any combination."
+						"Il Rusted effettua tre attacchi, usando Slam o Rusted Shot Put in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atkr m} {@hit 10}, reach 10 ft. {@h}20 ({@damage 4d6 + 6}) Bludgeoning damage."
+						"{@atkr m} {@hit 10}, portata 3 metri {@h}20 ({@damage 4d6 + 6}) Danni contundenti."
 					]
 				},
 				{
 					"name": "Rusted Shot Put",
 					"entries": [
-						"{@atkr r} {@hit 10}, range 60/240 ft. {@h}15 ({@damage 2d8 + 6}) Bludgeoning damage, and the target has the {@condition Poisoned|XPHB} condition until the end of its next turn."
+						"{@atkr r} {@hit 10}, portata 60/240 piedi. {@h}15 ({@damage 2d8 + 6}) Danni contundenti e il bersaglio ha la condizione {@condition Poisoned|XPHB} fino alla fine del suo turno successivo."
 					]
 				}
 			],
@@ -4125,7 +4125,7 @@
 				{
 					"name": "Rust-Riddled Hide",
 					"entries": [
-						"{@actTrigger} The Rusted is hit by an attack roll that deals Bludgeoning, Piercing, or Slashing damage. {@actResponse d}{@actSave con} {@dc 16}, each creature of the Rusted's choice in a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the Rusted. {@actSaveFail} the target has the {@condition Poisoned|XPHB} condition until the end of the target's next turn."
+						"{@actTrigger} Il Rusted viene colpito da un tiro di attacco che infligge danni contundenti, perforanti o taglienti. {@actResponse d}{@actSave con} {@dc 16}, ogni creatura scelta dal Rusted in un raggio di 5 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dal Rusted. {@actSaveFail} il bersaglio ha la condizione {@condition Poisoned|XPHB} fino alla fine del turno successivo del bersaglio."
 					]
 				}
 			],
@@ -4214,19 +4214,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Rusted makes two attacks, using Greatsword or Javelin in any combination."
+						"Il Rusted effettua due attacchi, usando lo spadone o il giavellotto in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Greatsword",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}11 ({@damage 2d6 + 4}) Slashing damage, and the target has the {@condition Poisoned|XPHB} condition until the end of its next turn."
+						"{@atkr m} {@hit 6}, raggiungono 5 piedi {@h}11 ({@damage 2d6 + 4}) Danni taglienti e il bersaglio ha la condizione {@condition Poisoned|XPHB} fino alla fine del suo turno successivo."
 					]
 				},
 				{
 					"name": "Javelin",
 					"entries": [
-						"{@atkr m,r} {@hit 6}, reach 5 ft. or range 30/120 ft. {@h}11 ({@damage 2d6 + 4}) Piercing damage, and the target has the {@condition Poisoned|XPHB} condition until the end of its next turn."
+						"{@atkr m,r} {@hit 6} raggiunge 5 piedi o una portata di 30/120 piedi {@h}11 ({@damage 2d6 + 4}) Danni perforanti e il bersaglio ha la condizione {@condition Poisoned|XPHB} fino alla fine del suo turno successivo."
 					]
 				}
 			],
@@ -4314,7 +4314,7 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If the Rusted fails a saving throw, it can choose to succeed instead."
+						"Se il Rusted fallisce il tiro salvezza, può invece scegliere di superarlo."
 					]
 				}
 			],
@@ -4322,19 +4322,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Rusted makes two Bite attacks."
+						"Il Rusted effettua due attacchi con il morso."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atkr m} {@hit 12}, reach 20 ft. {@h}29 ({@damage 4d10 + 7}) Piercing damage."
+						"{@atkr m} {@hit 12}, portata 20 piedi {@h}29 ({@damage 4d10 + 7}) Danno perforante."
 					]
 				},
 				{
 					"name": "Steam Breath {@recharge 5}",
 					"entries": [
-						"{@actSave dex} {@dc 19}, each creature and flammable object that isn't being worn or carried in a 60-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 45 ({@damage 7d12}) Fire damage, and the target starts {@hazard burning|XPHB}. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} Being underwater doesn't grant {@variantrule Resistance|XPHB} to this Fire damage."
+						"{@actSave dex} {@dc 19}, ogni creatura e oggetto infiammabile che non viene indossato o trasportato in un raggio di 60 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 45 ({@damage 7d12}) Danni da fuoco e il bersaglio inizia {@hazard burning|XPHB}. {@actSaveSuccess} Solo metà del danno. {@actSaveSuccessOrFail} Essere sott'acqua non conferisce {@variantrule Resistance|XPHB} a questo danno da fuoco."
 					]
 				}
 			],
@@ -4342,7 +4342,7 @@
 				{
 					"name": "Encasing Rust",
 					"entries": [
-						"{@actSave con} {@dc 19}, one creature within 20 feet of the Rusted. {@actSaveFail} 14 ({@damage 4d6}) Poison damage, and the target has the {@condition Poisoned|XPHB} condition until the end of its next turn. While {@condition Poisoned|XPHB}, the target has the {@condition Paralyzed|XPHB} condition."
+						"{@actSave con} {@dc 19}, una creatura entro 20 piedi dal Rugginoso. {@actSaveFail} 14 ({@damage 4d6}) Danni da veleno e il bersaglio ha la condizione {@condition Poisoned|XPHB} fino alla fine del suo turno successivo. Mentre {@condition Poisoned|XPHB}, la destinazione ha la condizione {@condition Paralyzed|XPHB}."
 					]
 				}
 			],
@@ -4462,7 +4462,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sammaster casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 21}, {@hit 13} to hit with spell attacks):"
+						"Sammaster lancia uno dei seguenti incantesimi, che non richiede componenti materiali e utilizza l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 21}, {@hit 13} per colpire con attacchi con incantesimi):"
 					],
 					"will": [
 						"{@spell Blight|XPHB}",
@@ -4490,25 +4490,25 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Sammaster fails a saving throw, he can choose to succeed instead."
+						"Se Sammaster fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Life Suppression",
 					"entries": [
-						"Creatures within 60 feet of Sammaster can't regain {@variantrule Hit Points|XPHB}."
+						"Le creature entro 60 piedi da Sammaster non possono recuperare {@variantrule Hit Points|XPHB}."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Sammaster has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Sammaster ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Soul Gem",
 					"entries": [
-						"Sammaster has a magical soul gem as his dracolich heart. The gem can't be damaged or removed until he is reduced to 0 {@variantrule Hit Points|XPHB}. If Sammaster is reduced to 0 {@variantrule Hit Points|XPHB}, his dracolich form dissolves to dust. After {@dice 1d10} days, he appears in an unoccupied space within 5 feet of his soul gem (so long as the gem still exists), using the Sammaster (Lich Form) stat block. The gem is a Tiny object that has AC 20; HP 50; and {@variantrule Immunity|XPHB} to Acid, Necrotic, Poison, and Psychic damage. The gem regains all its {@variantrule Hit Points|XPHB} at the end of every turn, but it turns to dust if reduced to 0 {@variantrule Hit Points|XPHB}."
+						"Sammaster ha una gemma magica dell'anima come cuore di dracolich. La gemma non può essere danneggiata o rimossa finché non viene ridotta a 0 {@variantrule Hit Points|XPHB}. Se Sammaster viene ridotto a 0 {@variantrule Hit Points|XPHB}, la sua forma di dracolich si dissolve in polvere. Dopo {@dice 1d10} giorni, appare in uno spazio non occupato entro 5 piedi dalla sua gemma dell'anima (purché la gemma esista ancora), usando il blocco statistiche Sammaster (forma del Lich). La gemma è un oggetto Minuscolo che ha CA 20; PF 50; e {@variantrule Immunity|XPHB} ai danni da acido, necrotico, veleno e psichico. La gemma riacquista tutto il suo {@variantrule Hit Points|XPHB} alla fine di ogni turno, ma si trasforma in polvere se ridotta a 0 {@variantrule Hit Points|XPHB}."
 					]
 				}
 			],
@@ -4516,19 +4516,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Sammaster makes three Rend attacks. He can replace one attack with a use of Spellcasting to cast {@spell Blight|XPHB} or {@spell Ray of Sickness|XPHB} (level 6 version)."
+						"Sammaster effettua tre attacchi Rend. Può sostituire un attacco con l'uso del lancio di incantesimi {@spell Blight|XPHB} o {@spell Ray of Sickness|XPHB} (versione di livello 6)."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 14}, reach 10 ft. {@h}18 ({@damage 2d10 + 7}) Slashing damage plus 18 ({@damage 4d8}) Necrotic damage."
+						"{@atkr m} {@hit 14}, portata 10 piedi {@h}18 ({@damage 2d10 + 7}) Danni taglienti più 18 ({@damage 4d8}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Corroding Breath {@recharge 5}",
 					"entries": [
-						"{@actSave con} {@dc 20}, each creature in a 90-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 52 ({@damage 8d12}) Acid or Necrotic damage (Sammaster's choice). {@actSaveSuccess} Half damage."
+						"{@actSave con} {@dc 20}, ogni creatura in un raggio di 90 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 52 ({@damage 8d12}) Danno acido o necrotico (a scelta di Sammaster). {@actSaveSuccess} Danno dimezzato."
 					]
 				}
 			],
@@ -4536,19 +4536,19 @@
 				{
 					"name": "Pounce",
 					"entries": [
-						"Sammaster moves up to half his {@variantrule Speed|XPHB}, and he makes one Rend attack."
+						"Sammaster si muove fino alla metà dei suoi {@variantrule Speed|XPHB} ed effettua un attacco Rend."
 					]
 				},
 				{
 					"name": "Sickening Ray",
 					"entries": [
-						"Sammaster uses Spellcasting to cast {@spell Ray of Sickness|XPHB} (level 6 version)."
+						"Sammaster usa il lancio degli incantesimi per lanciare {@spell Ray of Sickness|XPHB} (versione di livello 6)."
 					]
 				},
 				{
 					"name": "Terrifying Presence",
 					"entries": [
-						"{@actSave wis} {@dc 21}, each creature in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from Sammaster. {@actSaveFail} 13 ({@damage 2d12}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition until the end of its next turn. {@actSaveSuccessOrFail} Sammaster can't take this action again until the start of his next turn."
+						"{@actSave wis} {@dc 21}, ogni creatura in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originaria di Sammaster. {@actSaveFail} 13 ({@damage 2d12}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino alla fine del suo turno successivo. {@actSaveSuccessOrFail} Sammaster non può eseguire nuovamente questa azione fino all'inizio del suo prossimo turno."
 					]
 				}
 			],
@@ -4686,7 +4686,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sammaster casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 21}):"
+						"Sammaster lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 21}):"
 					],
 					"will": [
 						"{@spell Cone of Cold|XPHB}",
@@ -4714,7 +4714,7 @@
 					"name": "Protective Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sammaster casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"Sammaster lancia {@spell Counterspell|XPHB} o {@spell Shield|XPHB} in risposta all'attivazione dell'incantesimo, utilizzando la stessa abilità di lancio di incantesimi di Lancio di incantesimi."
 					],
 					"will": [
 						"{@spell Counterspell|XPHB}",
@@ -4731,25 +4731,25 @@
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Sammaster fails a saving throw, he can choose to succeed instead."
+						"Se Sammaster fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Life Suppression",
 					"entries": [
-						"Creatures within 60 feet of Sammaster can't regain {@variantrule Hit Points|XPHB}."
+						"Le creature entro 60 piedi da Sammaster non possono recuperare {@variantrule Hit Points|XPHB}."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Sammaster has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Sammaster ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Soul Gem",
 					"entries": [
-						"If Sammaster is reduced to 0 {@variantrule Hit Points|XPHB} while his magical soul gem exists, his lich form dissolves to dust. After {@dice 1d10} days, he appears in the space of his soul gem, using the Sammaster (Dracolich Form) stat block. The gem is a Tiny object that has AC 20; HP 50; and {@variantrule Immunity|XPHB} to Acid, Necrotic, Poison, and Psychic damage. The gem regains all its {@variantrule Hit Points|XPHB} at the end of every turn, but it turns to dust if reduced to 0 {@variantrule Hit Points|XPHB}. If the gem is destroyed, Sammaster can create a new one by completing an 8-hour ritual using a gem worth 1,000+ GP, which the ritual consumes, and by expending 5,000 GP."
+						"Se Sammaster viene ridotto a 0 {@variantrule Hit Points|XPHB} mentre esiste la sua gemma magica dell'anima, la sua forma lich si dissolve in polvere. Dopo {@dice 1d10} giorni, appare nello spazio della sua gemma dell'anima, usando il blocco statistiche Sammaster (forma Dracolich). La gemma è un oggetto Minuscolo che ha CA 20; PF 50; e {@variantrule Immunity|XPHB} ai danni da acido, necrotico, veleno e psichico. La gemma riacquista tutto il suo {@variantrule Hit Points|XPHB} alla fine di ogni turno, ma si riduce in polvere se ridotta a 0 {@variantrule Hit Points|XPHB}. Se la gemma viene distrutta, Sammaster può crearne una nuova completando un rituale di 8 ore utilizzando una gemma del valore di oltre 1.000 GP, che il rituale consuma, e spendendo 5.000 GP."
 					]
 				}
 			],
@@ -4757,19 +4757,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Sammaster makes three attacks, using Corrosive Burst or Paralyzing Touch in any combination. He can replace two attacks with a use of Spellcasting."
+						"Sammaster effettua tre attacchi, usando Esplosione Corrosiva o Tocco Paralizzante in qualsiasi combinazione. Può sostituire due attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Corrosive Burst",
 					"entries": [
-						"{@atkr m,r} {@hit 13}, reach 5 ft. or range 120 ft. {@h}38 ({@damage 5d12 + 6}) Acid or Necrotic damage (Sammaster's choice)."
+						"{@atkr m,r} {@hit 13}, portata 5 piedi o portata 120 piedi {@h}38 ({@damage 5d12 + 6}) Danno acido o necrotico (a scelta di Sammaster)."
 					]
 				},
 				{
 					"name": "Paralyzing Touch",
 					"entries": [
-						"{@atkr m} {@hit 13}, reach 5 ft. {@h}16 ({@damage 3d6 + 6}) Cold damage, and the target has the {@condition Paralyzed|XPHB} condition until the start of Sammaster's next turn."
+						"{@atkr m} {@hit 13}, raggiungono 5 piedi {@h}16 ({@damage 3d6 + 6}) Danni da freddo e il bersaglio ha la condizione {@condition Paralyzed|XPHB} fino all'inizio del turno successivo di Sammaster."
 					]
 				}
 			],
@@ -4777,19 +4777,19 @@
 				{
 					"name": "Deathly Teleport",
 					"entries": [
-						"Sammaster teleports up to 60 feet to an unoccupied space he can see, and each creature within 10 feet of the space he left takes 19 ({@damage 3d12}) Necrotic damage."
+						"Sammaster si teletrasporta fino a 18 metri in uno spazio non occupato che può vedere e ogni creatura entro 3 metri dallo spazio che ha lasciato subisce 19 ({@damage 3d12}) danni necrotici."
 					]
 				},
 				{
 					"name": "Dissolve",
 					"entries": [
-						"Sammaster makes one Corrosive Burst attack."
+						"Sammaster effettua un attacco Corrosive Burst."
 					]
 				},
 				{
 					"name": "Terrifying Presence",
 					"entries": [
-						"{@actSave wis} {@dc 21}, each creature in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from Sammaster. {@actSaveFail} 13 ({@damage 2d12}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition until the end of its next turn. {@actSaveSuccessOrFail} Sammaster can't take this action again until the start of his next turn."
+						"{@actSave wis} {@dc 21}, ogni creatura in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originaria di Sammaster. {@actSaveFail} 13 ({@damage 2d12}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino alla fine del suo turno successivo. {@actSaveSuccessOrFail} Sammaster non può eseguire nuovamente questa azione fino all'inizio del suo prossimo turno."
 					]
 				}
 			],
@@ -4903,19 +4903,19 @@
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}9 ({@damage 2d6 + 2}) Slashing damage plus 3 ({@damage 1d6}) Necrotic damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}9 ({@damage 2d6 + 2}) Danni da taglio più 3 ({@damage 1d6}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Ruinous Breath {@recharge 5}",
 					"entries": [
-						"{@actSave con} {@dc 12}, each creature in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 13 ({@damage 3d8}) Necrotic damage. {@actSaveSuccess} Half damage."
+						"{@actSave con} {@dc 12}, ogni creatura in un raggio di 15 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 13 ({@damage 3d8}) Danno necrotico. {@actSaveSuccess} Danno dimezzato."
 					]
 				},
 				{
 					"name": "Time-Warping Breath",
 					"entries": [
-						"{@actSave wis} {@dc 12}, each creature that isn't currently affected by this breath in a 15-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target's {@variantrule Speed|XPHB} is halved, it can't take Reactions, and it can take either an action or a {@variantrule Bonus Action|XPHB} on its turn, not both. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
+						"{@actSave wis} {@dc 12}, ogni creatura che attualmente non è influenzata da questo soffio in un raggio di 15 piedi {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} Il {@variantrule Speed|XPHB} del bersaglio è dimezzato, non può effettuare Reazioni e può effettuare un'azione o una {@variantrule Bonus Action|XPHB} nel suo turno, non entrambe. Ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente."
 					]
 				}
 			],
@@ -5025,13 +5025,13 @@
 				{
 					"name": "Explosive Core",
 					"entries": [
-						"When the spore is subjected to Fire damage, each creature in a 5-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the spore takes 7 ({@damage 2d6}) Fire damage."
+						"Quando la spora è soggetta a danni da fuoco, ogni creatura in un raggio di 5 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente dalla spora subisce 7 ({@damage 2d6}) danni da fuoco."
 					]
 				},
 				{
 					"name": "Rolling Mass",
 					"entries": [
-						"The spore doesn't need to expend extra movement to move through {@variantrule Difficult Terrain|XPHB}."
+						"La spora non ha bisogno di spendere movimento extra per spostarsi {@variantrule Difficult Terrain|XPHB}."
 					]
 				}
 			],
@@ -5039,19 +5039,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The spore makes four Tendril attacks. Alternatively, it makes two Tendril attacks and uses Consume once."
+						"La spora effettua quattro attacchi con i tentacoli. In alternativa, effettua due attacchi con Tendril e usa Consume una volta."
 					]
 				},
 				{
 					"name": "Tendril",
 					"entries": [
-						"{@atkr m} {@hit 10}, reach 20 ft. {@h}11 ({@damage 1d10 + 6}) Piercing damage plus 10 ({@damage 3d6}) Acid damage. If the target is Large or smaller, the spore pulls the target 5 feet straight toward itself."
+						"{@atkr m} {@hit 10}, portata 20 piedi {@h}11 ({@damage 1d10 + 6}) Danni da perforazione più 10 ({@damage 3d6}) Danni da acido. Se il bersaglio è Grande o più piccolo, la spora attira il bersaglio verso se stessa per 1,5 metri."
 					]
 				},
 				{
 					"name": "Consume",
 					"entries": [
-						"{@actSave str} {@dc 18}, one Large or smaller creature within 5 feet. {@actSaveFail} The target is pulled into the spore's space and has the {@condition Grappled|XPHB} condition (escape {@dc 16}). Until the grapple ends, the target has the {@condition Blinded|XPHB} and {@condition Restrained|XPHB} conditions, and it takes 17 ({@damage 5d6}) Acid damage at the start of each of the spore's turns. When the spore moves, the {@condition Grappled|XPHB} target moves with it, costing it no extra movement. The spore can have one Large creature or up to nine Medium or smaller creatures {@condition Grappled|XPHB} at a time."
+						"{@actSave str} {@dc 18}, una creatura Grande o più piccola entro 5 piedi. {@actSaveFail} Il bersaglio viene trascinato nello spazio delle spore e ha la condizione {@condition Grappled|XPHB} (fuga {@dc 16}). Fino al termine della presa, il bersaglio ha le condizioni {@condition Blinded|XPHB} e {@condition Restrained|XPHB} e subisce 17 ({@damage 5d6}) danni da acido all'inizio di ciascuno dei turni della spora. Quando la spora si muove, il bersaglio {@condition Grappled|XPHB} si muove con essa, senza costarle alcun movimento aggiuntivo. La spora può avere una creatura Grande o fino a nove creature Medie o più piccole {@condition Grappled|XPHB} alla volta."
 					]
 				}
 			],
@@ -5143,7 +5143,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The swanmay casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save {@dc 13}):"
+						"Il cigno può lanciare uno dei seguenti incantesimi, che non richiedono componenti somatiche o materiali e utilizzano Saggezza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell Druidcraft|XPHB}",
@@ -5164,7 +5164,7 @@
 				{
 					"name": "Flyby (Swan Form Only)",
 					"entries": [
-						"The swanmay doesn't provoke an Opportunity Attack action when it flies out of an enemy's reach."
+						"Il cignomay non provoca un'azione Attacco di Opportunità quando vola fuori dalla portata di un nemico."
 					]
 				}
 			],
@@ -5172,25 +5172,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The swanmay makes two attacks, using Beak, Longbow, or Scimitar in any combination."
+						"Il cigno può effettuare due attacchi, usando Becco, Arco Lungo o Scimitarra in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Beak (Swan Form Only)",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage. If the target is a Large or smaller creature, it has the {@condition Prone|XPHB} condition."
+						"{@atkr m} {@hit 6}, portata 5 piedi {@h}7 ({@damage 1d6 + 4}) Danno perforante. Se il bersaglio è una creatura Grande o più piccola, ha la condizione {@condition Prone|XPHB}."
 					]
 				},
 				{
 					"name": "Scimitar (Humanoid Form Only)",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}11 ({@damage 2d6 + 4}) Slashing damage."
+						"{@atkr m} {@hit 6}, portata 5 piedi {@h}11 ({@damage 2d6 + 4}) Danno tagliente."
 					]
 				},
 				{
 					"name": "Longbow (Humanoid Form Only)",
 					"entries": [
-						"{@atkr r} {@hit 6}, range 150/600 ft. {@h}13 ({@damage 2d8 + 4}) Piercing damage."
+						"{@atkr r} {@hit 6}, portata 150/600 piedi. {@h}13 ({@damage 2d8 + 4}) Danno perforante."
 					]
 				}
 			],
@@ -5198,7 +5198,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The swanmay shape-shifts into a Small swan, or it returns to its true humanoid form. Its game statistics are the same in each form, except where noted. Any equipment it is wearing or carrying isn't transformed."
+						"Il cigno può cambiare forma in un piccolo cigno o ritornare alla sua vera forma umanoide. Le sue statistiche di gioco sono le stesse in ogni forma, tranne dove diversamente indicato. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato."
 					]
 				}
 			],
@@ -5331,7 +5331,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Valindra casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 20}):"
+						"Valindra lancia uno dei seguenti incantesimi, utilizzando Intelligenza come capacità di lancio degli incantesimi (salvezza incantesimo {@dc 20}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -5362,7 +5362,7 @@
 					"name": "Illusory Disguise",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Valindra casts {@spell Disguise Self|XPHB}, using the same spellcasting ability as Spellcasting. The spell lasts until Valindra drops to 30 {@variantrule Hit Points|XPHB} or fewer or uses her Life-Rending Gaze Legendary Action. Intelligence ({@skill Investigation|XPHB}) checks made to discern her true appearance are made with {@variantrule Disadvantage|XPHB}."
+						"Valindra lancia {@spell Disguise Self|XPHB}, utilizzando la stessa abilità di incantatore di Incantesimi. L'incantesimo dura finché Valindra non scende a 30 {@variantrule Hit Points|XPHB} o meno o finché non usa la sua azione leggendaria Sguardo straziante. Le prove di Intelligenza ({@skill Investigation|XPHB}) effettuate per discernere il suo vero aspetto vengono effettuate con {@variantrule Disadvantage|XPHB}."
 					],
 					"will": [
 						"{@spell Disguise Self|XPHB}"
@@ -5377,7 +5377,7 @@
 					"name": "Protective Magic",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Valindra casts {@spell Counterspell|XPHB} or {@spell Shield|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"Valindra lancia {@spell Counterspell|XPHB} o {@spell Shield|XPHB} in risposta all'attivazione dell'incantesimo, utilizzando la stessa abilità da incantatore di Incantesimi."
 					],
 					"will": [
 						"{@spell Counterspell|XPHB}",
@@ -5394,13 +5394,13 @@
 				{
 					"name": "Legendary Resistance (4/Day or 5/Day in Lair)",
 					"entries": [
-						"If Valindra fails a saving throw, she can choose to succeed instead."
+						"Se Valindra fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Spirit Gem",
 					"entries": [
-						"If destroyed, Valindra re-forms in {@dice 1d10} days if her spirit gem is intact, reviving with all her {@variantrule Hit Points|XPHB}. The new body appears in an unoccupied space within her lair."
+						"Se distrutta, Valindra si riforma in {@dice 1d10} giorni se la sua gemma spirituale è intatta, rinascendo con tutta la sua {@variantrule Hit Points|XPHB}. Il nuovo corpo appare in uno spazio non occupato all'interno della sua tana."
 					]
 				}
 			],
@@ -5408,25 +5408,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Valindra makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination. She can replace two attacks with a use of Spellcasting to cast {@spell Lightning Bolt|XPHB} (level 5 version)."
+						"Valindra effettua tre attacchi, usando Esplosione Eldritch o Tocco Paralizzante in qualsiasi combinazione. Può sostituire due attacchi con l'uso del lancio di incantesimi {@spell Lightning Bolt|XPHB} (versione di livello 5)."
 					]
 				},
 				{
 					"name": "Eldritch Burst",
 					"entries": [
-						"{@atkr m,r} {@hit 12}, reach 5 ft. or range 120 ft. {@h}31 ({@damage 4d12 + 5}) Force damage."
+						"{@atkr m,r} {@hit 12}, portata 5 piedi o portata 120 piedi {@h}31 ({@damage 4d12 + 5}) Danno di forza."
 					]
 				},
 				{
 					"name": "Paralyzing Touch",
 					"entries": [
-						"{@atkr m} {@hit 12}, reach 5 ft. {@h}14 ({@damage 2d8 + 5}) Cold damage, and the target has the {@condition Paralyzed|XPHB} condition until the start of Valindra's next turn."
+						"{@atkr m} {@hit 12}, raggiungono 5 piedi. {@h}14 ({@damage 2d8 + 5}) Danni da freddo e il bersaglio ha la condizione {@condition Paralyzed|XPHB} fino all'inizio del turno successivo di Valindra."
 					]
 				},
 				{
 					"name": "Deathly Grasp {@recharge 5}",
 					"entries": [
-						"{@actSave dex} {@dc 20}, each creature in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from Valindra. {@actSaveFail 1} 39 ({@damage 6d12}) Force damage and the target has the {@condition Restrained|XPHB} condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. Subsequent Failures: 39 ({@damage 6d12}) Necrotic damage, and Valindra gains 20 {@variantrule Temporary Hit Points|XPHB}."
+						"{@actSave dex} {@dc 20}, ogni creatura in un raggio di 9 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originaria di Valindra. {@actSaveFail 1} 39 ({@damage 6d12}) Danni di forza e il bersaglio ha la condizione {@condition Restrained|XPHB} e ripete il salvataggio alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente. Fallimenti successivi: 39 ({@damage 6d12}) Danno necrotico e Valindra guadagna 20 {@variantrule Temporary Hit Points|XPHB}."
 					]
 				}
 			],
@@ -5435,19 +5435,19 @@
 				{
 					"name": "Disrupt Life",
 					"entries": [
-						"{@actSave con} {@dc 20}, each creature that isn't Undead in a 20-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from Valindra. {@actSaveFail} 21 ({@damage 6d6}) Necrotic damage. {@actSaveSuccess} Half damage. {@actSaveSuccessOrFail} Valindra can't take this action again until the start of her next turn."
+						"{@actSave con} {@dc 20}, ogni creatura che non sia Non Morta in un raggio di 20 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originaria di Valindra. {@actSaveFail} 21 ({@damage 6d6}) Danno necrotico. {@actSaveSuccess} Danno dimezzato. {@actSaveSuccessOrFail} Valindra non può eseguire nuovamente questa azione fino all'inizio del suo prossimo turno."
 					]
 				},
 				{
 					"name": "Eldritch Jaunt",
 					"entries": [
-						"Valindra makes one Eldritch Burst attack. Before or after the attack, Valindra can teleport up to 20 feet to an unoccupied space she can see."
+						"Valindra effettua un attacco Eldritch Burst. Prima o dopo l'attacco, Valindra può teletrasportarsi fino a 6 metri in uno spazio non occupato che può vedere."
 					]
 				},
 				{
 					"name": "Life-Rending Gaze",
 					"entries": [
-						"{@actSave wis} {@dc 20}, one creature Valindra can see within 30 feet. {@actSaveFail} 22 ({@damage 4d10}) Necrotic damage, and the target has the {@condition Frightened|XPHB} condition until the end of its next turn. {@actSaveSuccess} Half damage only."
+						"{@actSave wis} {@dc 20}, una creatura che Valindra può vedere entro 9 metri. {@actSaveFail} 22 ({@damage 4d10}) Danni necrotici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino alla fine del suo turno successivo. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -5570,7 +5570,7 @@
 				{
 					"name": "Flyby (Wyvern or Hybrid Form Only)",
 					"entries": [
-						"The werewyvern doesn't provoke an Opportunity Attack action when it flies out of an enemy's reach."
+						"La viverna mannara non provoca un'azione Attacco di Opportunità quando vola fuori dalla portata di un nemico."
 					]
 				}
 			],
@@ -5578,25 +5578,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The werewyvern makes three attacks, using Javelin or Rend in any combination. It can replace one of these attacks with one Stinger attack."
+						"La viverna mannara effettua tre attacchi, usando Javelin o Rend in qualsiasi combinazione. Può sostituire uno di questi attacchi con un attacco Stinger."
 					]
 				},
 				{
 					"name": "Javelin (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"{@atkr m,r} {@hit 7}, reach 5 ft. or range 30/120 ft. {@h}18 ({@damage 4d6 + 4}) Piercing damage."
+						"{@atkr m,r} {@hit 7}, portata 5 piedi o portata 30/120 piedi {@h}18 ({@damage 4d6 + 4}) Danno perforante."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 5 ft. {@h}18 ({@damage 4d6 + 4}) Slashing damage."
+						"{@atkr m} {@hit 7}, portata 5 piedi {@h}18 ({@damage 4d6 + 4}) Danno tagliente."
 					]
 				},
 				{
 					"name": "Stinger (Wyvern or Hybrid Form Only)",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 5 ft. {@h}7 ({@damage 1d6 + 4}) Piercing damage plus 16 ({@damage 3d10}) Poison damage, and the target has the {@condition Poisoned|XPHB} condition until the start of the werewyvern's next turn. If the target is a Humanoid, it is subjected to the following effect. {@actSave con} {@dc 16}. {@actSaveFail} The target is cursed. If the cursed target drops to 0 {@variantrule Hit Points|XPHB}, it instead becomes a Werewyvern under the DM's control and has 20 {@variantrule Hit Points|XPHB}. {@actSaveSuccess} The target is immune to this werewyvern's curse for 24 hours."
+						"{@atkr m} {@hit 7} raggiunge 5 piedi {@h}7 ({@damage 1d6 + 4}) Danni perforanti più 16 ({@damage 3d10}) Danni da veleno e il bersaglio ha la condizione {@condition Poisoned|XPHB} fino all'inizio del turno successivo della viverna mannara. Se il bersaglio è un umanoide, è soggetto al seguente effetto. {@actSave con} {@dc 16}. {@actSaveFail} Il bersaglio è maledetto. Se il bersaglio maledetto scende a 0 {@variantrule Hit Points|XPHB}, diventa invece un Werewyvern sotto il controllo del DM e ha 20 {@variantrule Hit Points|XPHB}. {@actSaveSuccess} Il bersaglio è immune alla maledizione di questa viverna mannara per 24 ore."
 					]
 				}
 			],
@@ -5604,7 +5604,7 @@
 				{
 					"name": "Shape-Shift",
 					"entries": [
-						"The werewyvern shape-shifts into a Medium wyvern-humanoid hybrid or a Large wyvern, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed."
+						"La viverna mannara cambia forma in un ibrido viverna-umanoide media o in una viverna grande, oppure ritorna alla sua vera forma umanoide. Le sue statistiche di gioco, a parte la dimensione, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato."
 					]
 				}
 			],
@@ -5716,19 +5716,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dragon makes three Rend attacks."
+						"Il drago effettua tre attacchi Rend."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 10 ft. {@h}11 ({@damage 2d6 + 4}) Slashing damage plus 3 ({@damage 1d6}) Poison damage."
+						"{@atkr m} {@hit 7}, portata 10 piedi {@h}11 ({@damage 2d6 + 4}) Danni da taglio più 3 ({@damage 1d6}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Nightmare Breath {@recharge 5}",
 					"entries": [
-						"{@actSave wis} {@dc 14}, each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 22 ({@damage 4d10}) Psychic damage, and the target has the {@condition Frightened|XPHB} condition until the end of the dragon's next turn. {@actSaveSuccess} Half damage only."
+						"{@actSave wis} {@dc 14}, ogni creatura in un raggio di 9 metri {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 22 ({@damage 4d10}) Danni psichici e il bersaglio ha la condizione {@condition Frightened|XPHB} fino alla fine del turno successivo del drago. {@actSaveSuccess} Solo metà del danno."
 					]
 				}
 			],
@@ -5830,25 +5830,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The dragon makes three Rend attacks. It can replace one attack with a use of Time-Warping Breath."
+						"Il drago effettua tre attacchi Rend. Può sostituire un attacco con l'uso del Soffio Distorcente."
 					]
 				},
 				{
 					"name": "Rend",
 					"entries": [
-						"{@atkr m} {@hit 7}, reach 10 ft. {@h}14 ({@damage 3d6 + 4}) Slashing damage plus 7 ({@damage 2d6}) Necrotic damage."
+						"{@atkr m} {@hit 7}, portata 10 piedi {@h}14 ({@damage 3d6 + 4}) Danni taglienti più 7 ({@damage 2d6}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Ruinous Breath {@recharge 5}",
 					"entries": [
-						"{@actSave con} {@dc 15}, each creature in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 36 ({@damage 8d8}) Necrotic damage. {@actSaveSuccess} Half damage."
+						"{@actSave con} {@dc 15}, ogni creatura in un raggio di 9 metri {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} 36 ({@damage 8d8}) Danno necrotico. {@actSaveSuccess} Danno dimezzato."
 					]
 				},
 				{
 					"name": "Time-Warping Breath",
 					"entries": [
-						"{@actSave wis} {@dc 15}, each creature that isn't currently affected by this breath in a 30-foot {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} The target's {@variantrule Speed|XPHB} is halved, it can't take Reactions, and it can take either an action or a {@variantrule Bonus Action|XPHB} on its turn, not both. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
+						"{@actSave wis} {@dc 15}, ogni creatura che non è attualmente influenzata da questo soffio in un raggio di 9 metri {@variantrule Cone [Area of Effect]|XPHB|Cone}. {@actSaveFail} Il {@variantrule Speed|XPHB} del bersaglio è dimezzato, non può effettuare Reazioni e può effettuare un'azione o una {@variantrule Bonus Action|XPHB} nel suo turno, non entrambe. Ripete il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su se stesso in caso di successo. Dopo 1 minuto, l'operazione riesce automaticamente."
 					]
 				}
 			],
@@ -5944,7 +5944,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The Zhentilar casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 13}):"
+						"Lo Zhentilar lancia uno dei seguenti incantesimi, utilizzando Carisma come abilità da incantatore (salvezza incantesimo {@dc 13}):"
 					],
 					"daily": {
 						"1e": [
@@ -5960,7 +5960,7 @@
 				{
 					"name": "Aura of Dread",
 					"entries": [
-						"Creatures in a 10-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from the Zhentilar have their Speeds halved while in the {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. The Zhentilar can designate creatures to be unaffected by the aura."
+						"Le creature in un raggio di 10 piedi {@variantrule Emanation [Area of Effect]|XPHB|Emanation} provenienti dallo Zhentilar hanno la loro velocità dimezzata mentre si trovano nel {@variantrule Emanation [Area of Effect]|XPHB|Emanation}. Lo Zhentilar può designare le creature in modo che non siano influenzate dall'aura."
 					]
 				}
 			],
@@ -5968,19 +5968,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Zhentilar makes three attacks, using Dooming Blade or Oppressive Ray in any combination. It can replace one attack with a use of Spellcasting."
+						"Lo Zhentilar effettua tre attacchi, usando Dooming Blade o Oppressive Ray in qualsiasi combinazione. Può sostituire un attacco con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Dooming Blade",
 					"entries": [
-						"{@atkr m} {@hit 5}, reach 5 ft. {@h}7 ({@damage 1d8 + 3}) Bludgeoning damage plus 7 ({@damage 2d6}) Necrotic damage."
+						"{@atkr m} {@hit 5}, portata 5 piedi {@h}7 ({@damage 1d8 + 3}) Danni contundenti più 7 ({@damage 2d6}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Oppressive Ray",
 					"entries": [
-						"{@atkr r} {@hit 5}, range 90 ft. {@h}16 ({@damage 3d10}) Psychic damage."
+						"{@atkr r} {@hit 5}, portata 90 piedi. {@h}16 ({@damage 3d10}) Danni psichici."
 					]
 				}
 			],
@@ -6070,25 +6070,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Zhentilar makes two attacks, using Shortsword or Pistol in any combination. It can replace one attack with a use of Knock Down."
+						"Lo Zhentilar effettua due attacchi, usando la spada corta o la pistola in qualsiasi combinazione. Può sostituire un attacco con l'uso di Atterramento."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}5 ({@damage 1d6 + 2}) Piercing damage plus 2 ({@damage 1d4}) Poison damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}5 ({@damage 1d6 + 2}) Danni perforanti più 2 ({@damage 1d4}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Pistol",
 					"entries": [
-						"{@atkr r} {@hit 4}, range 80/320 ft. {@h}7 ({@damage 1d10 + 2}) Piercing damage."
+						"{@atkr r} {@hit 4}, portata 80/320 piedi. {@h}7 ({@damage 1d10 + 2}) Danno perforante."
 					]
 				},
 				{
 					"name": "Knock Down",
 					"entries": [
-						"{@actSave str} {@dc 12}, one creature within 5 feet that the Zhentilar can see. {@actSaveFail} 4 ({@damage 1d4 + 2}) Bludgeoning damage. If the target is a Medium or smaller creature, it has the {@condition Prone|XPHB} condition."
+						"{@actSave str} {@dc 12}, una creatura entro 1,5 metri che lo Zhentilar può vedere. {@actSaveFail} 4 ({@damage 1d4 + 2}) Danno contundente. Se il bersaglio è una creatura Media o più piccola, ha la condizione {@condition Prone|XPHB}."
 					]
 				}
 			],
@@ -6202,7 +6202,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Zlan casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save {@dc 19}):"
+						"Zlan lancia uno dei seguenti incantesimi, senza richiedere componenti materiali e utilizzando l'Intelligenza come abilità di lancio degli incantesimi (salvezza incantesimo {@dc 19}):"
 					],
 					"will": [
 						"{@spell Detect Magic|XPHB}",
@@ -6229,7 +6229,7 @@
 					"name": "Counterspell",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Zlan casts {@spell Counterspell|XPHB} in response to the spell's trigger, using the same spellcasting ability as Spellcasting."
+						"Zlan lancia {@spell Counterspell|XPHB} in risposta all'attivazione dell'incantesimo, utilizzando la stessa abilità di lancio degli incantesimi di Lancio degli incantesimi."
 					],
 					"will": [
 						"{@spell Counterspell|XPHB}"
@@ -6245,25 +6245,25 @@
 				{
 					"name": "Chardalyn Sense",
 					"entries": [
-						"Zlan senses the emotions of anyone touching a piece of chardalyn within 100 miles of itself."
+						"Zlan percepisce le emozioni di chiunque tocchi un pezzo di Chardalyn entro 100 miglia da sé."
 					]
 				},
 				{
 					"name": "Legendary Resistance (3/Day)",
 					"entries": [
-						"If Zlan fails a saving throw, it can choose to succeed instead."
+						"Se Zlan fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Zlan has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Zlan ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Next of the Seven (6/Year)",
 					"entries": [
-						"If Zlan dies within 100 miles of a piece of chardalyn at least 4 inches long, it re-forms from that piece of chardalyn in {@dice 1d10} days, regaining all its {@variantrule Hit Points|XPHB}. The new body appears in the unoccupied space nearest to the piece of chardalyn, and another lich's mind in the body seizes psychic control of the body."
+						"Se Zlan muore entro 100 miglia da un pezzo di Chardalyn lungo almeno 4 pollici, si riforma da quel pezzo di Chardalyn in {@dice 1d10} giorni, riacquistando tutto il suo {@variantrule Hit Points|XPHB}. Il nuovo corpo appare nello spazio non occupato più vicino al pezzo di Chardalyn, e la mente di un altro lich nel corpo prende il controllo psichico del corpo."
 					]
 				}
 			],
@@ -6271,19 +6271,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Zlan makes three attacks, using Slam or Bewildering Bolt in any combination. It can replace two attacks with a use of Spellcasting."
+						"Zlan effettua tre attacchi, usando Schianto o Dardo sconcertante in qualsiasi combinazione. Può sostituire due attacchi con l'uso del lancio di incantesimi."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atkr m} {@hit 11}, reach 10 ft. {@h}12 ({@damage 3d4 + 5}) Bludgeoning damage plus 22 ({@damage 4d10}) Necrotic damage."
+						"{@atkr m} {@hit 11}, portata 10 piedi {@h}12 ({@damage 3d4 + 5}) Danni contundenti più 22 ({@damage 4d10}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Bewildering Bolt",
 					"entries": [
-						"{@atkr r} {@hit 11}, range 120 ft. {@h}27 ({@damage 4d10 + 5}) Psychic damage, and the target has the {@condition Charmed|XPHB} condition until the end of its next turn."
+						"{@atkr r} {@hit 11}, portata 120 piedi. {@h}27 ({@damage 4d10 + 5}) Danni psichici e il bersaglio ha la condizione {@condition Charmed|XPHB} fino alla fine del suo turno successivo."
 					]
 				}
 			],
@@ -6291,13 +6291,13 @@
 				{
 					"name": "Retaliation",
 					"entries": [
-						"Zlan makes one Slam or Bewildering Bolt attack."
+						"Zlan effettua un attacco con Schianto o Dardo sconcertante."
 					]
 				},
 				{
 					"name": "Stoke Paranoia",
 					"entries": [
-						"{@actSave wis} {@dc 19}, one creature Zlan can see within 30 feet (with {@variantrule Disadvantage|XPHB} if the target is holding or wearing chardalyn). {@actSaveFail} 27 ({@damage 6d8}) Psychic damage and the target has the {@condition Charmed|XPHB} condition for 1 minute or until Zlan dies. While {@condition Charmed|XPHB}, the target doesn't act as an ally to any creature. {@actSaveSuccess} Half damage only. {@actSaveSuccessOrFail} Zlan can't take this action again until the start of its next turn."
+						"{@actSave wis} {@dc 19}, una creatura che Zlan può vedere entro 9 metri (con {@variantrule Disadvantage|XPHB} se il bersaglio tiene o indossa Chardalyn). {@actSaveFail} 27 ({@damage 6d8}) Danni psichici e il bersaglio ha la condizione {@condition Charmed|XPHB} per 1 minuto o finché Zlan non muore. Mentre {@condition Charmed|XPHB}, il bersaglio non agisce come alleato per nessuna creatura. {@actSaveSuccess} Solo metà del danno. {@actSaveSuccessOrFail} Zlan non può eseguire nuovamente questa azione fino all'inizio del suo turno successivo."
 					]
 				}
 			],

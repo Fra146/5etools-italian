@@ -83,25 +83,25 @@
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"Ahmaergo has advantage on saving throws against being {@condition poisoned}."
+						"Ahmaergo ha vantaggio ai tiri salvezza contro l'essere {@condition poisoned}."
 					]
 				},
 				{
 					"name": "Indomitable (2/Day)",
 					"entries": [
-						"Ahmaergo can reroll a saving throw that he fails. He must use the new roll."
+						"Ahmaergo può ripetere un tiro salvezza che fallisce. Deve usare il nuovo tiro."
 					]
 				},
 				{
 					"name": "Second Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"As a bonus action, Ahmaergo can regain 20 hit points."
+						"Come azione bonus, Ahmaergo può recuperare 20 punti ferita."
 					]
 				},
 				{
 					"name": "Extra Damage",
 					"entries": [
-						"If Ahmaergo has more than half his hit points remaining he deals an extra 7 ({@damage 2d6}) slashing damage on every hit."
+						"Se Ahmaergo ha più della metà dei suoi punti ferita rimanenti, infligge 7 ({@damage 2d6}) danni taglienti aggiuntivi per ogni colpo."
 					]
 				}
 			],
@@ -109,19 +109,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ahmaergo makes three attacks with his greataxe."
+						"Ahmaergo effettua tre attacchi con la sua ascia bipenne."
 					]
 				},
 				{
 					"name": "Greataxe",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}11 ({@damage 1d12 + 5}) slashing damage"
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 1d12 + 5}) danni taglienti"
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 100/400 ft., one target. {@h}7 ({@damage 1d10 + 2}) piercing damage."
+						"{@atk rw} {@hit 6} da colpire, portata 100/400 piedi, un bersaglio. {@h}7 ({@damage 1d10 + 2}) danno perforante."
 					]
 				}
 			],
@@ -223,7 +223,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Ammalia is a 9th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 14}, {@hit 6} to hit with spell attacks). She has the following wizard spells prepared:"
+						"Ammalia è un'incantatrice di 9° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -279,7 +279,7 @@
 				{
 					"name": "Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d6 - 1}) bludgeoning damage, or 3 ({@damage 1d8 - 1}) bludgeoning damage if used with two hands."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d6 - 1}) danni contundenti o 3 ({@damage 1d8 - 1}) danni contundenti se usato con due mani."
 					]
 				}
 			],
@@ -356,7 +356,7 @@
 						"items": {
 							"name": "Control Water",
 							"entries": [
-								"At will, Avi can control the flow and shape of water in a 5-foot cube, or cause the water to freeze for up to 1 hour."
+								"A piacimento, Avi può controllare il flusso e la forma dell'acqua in un cubo di 1,5 metri o farla congelare per un massimo di 1 ora."
 							]
 						}
 					}
@@ -436,7 +436,7 @@
 				{
 					"name": "Keen Smell",
 					"entries": [
-						"The rat has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
+						"Il ratto dispone di vantaggio alle prove di Saggezza ({@skill Perception}) basate sull'olfatto."
 					]
 				}
 			],
@@ -444,7 +444,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}1 piercing damage."
+						"{@atk mw} {@hit 0} per colpire, raggiungere 5 piedi, un bersaglio. {@h}1 danno perforante."
 					]
 				}
 			],
@@ -533,7 +533,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Barnibus is a 7th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks) He has the following wizard spells prepared:"
+						"Barnibus è un incantatore di 7° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 13}, {@hit 5} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -583,7 +583,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Barnibus carries a {@item wand of magic detection}. (spell included in spell list below but does not use a slot when cast from the wand)"
+						"Barnibus trasporta un {@item wand of magic detection}. (incantesimo incluso nell'elenco degli incantesimi di seguito ma non utilizza uno slot quando viene lanciato dalla bacchetta)"
 					]
 				}
 			],
@@ -591,7 +591,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 2} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}2 ({@damage 1d4}) piercing damage."
+						"{@atk mw,rw} {@hit 2} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danno perforante."
 					]
 				}
 			],
@@ -672,13 +672,13 @@
 				{
 					"name": "Halfling Nimbleness",
 					"entries": [
-						"Bepis can move through a space occupied by a creature of a size larger than him"
+						"Bepis può muoversi attraverso uno spazio occupato da una creatura di taglia più grande di lui"
 					]
 				},
 				{
 					"name": "Brave",
 					"entries": [
-						"Bepis has advantage on saving throws against being {@condition frightened}."
+						"Bepis ha vantaggio ai tiri salvezza contro l'essere {@condition frightened}."
 					]
 				}
 			],
@@ -750,19 +750,19 @@
 				{
 					"name": "Cunning Action",
 					"entries": [
-						"On each of her turns, the Black Viper can use a bonus action to take the Dash, Disengage, or Hide action."
+						"In ciascuno dei suoi turni, la Vipera Nera può utilizzare un'azione bonus per eseguire l'azione Scattare, Disingaggiarsi o Nascondersi."
 					]
 				},
 				{
 					"name": "Evasion",
 					"entries": [
-						"If the Black Viper is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, she instead takes no damage if she succeeds on the saving throw, and only half damage if she fails. She can't use this trait if she's {@condition incapacitated}."
+						"Se la Vipera Nera è soggetta a un effetto che le consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisce invece alcun danno se riesce nel tiro salvezza, e solo la metà dei danni se fallisce. Non può usare questo tratto se è {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Sneak Attack (1/Turn)",
 					"entries": [
-						"The Black Viper deals an extra 14 ({@damage 4d6}) damage when she hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the Black Viper that isn't {@condition incapacitated} and the Black Viper doesn't have disadvantage on the attack roll."
+						"La Vipera Nera infligge 14 ({@damage 4d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio sul tiro per colpire, o quando il bersaglio si trova entro 5 piedi da un alleato della Vipera Nera che non lo è {@condition incapacitated} e la Vipera Nera non ha svantaggio sul tiro per colpire."
 					]
 				}
 			],
@@ -770,19 +770,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Black Viper makes three attacks with her rapier."
+						"La Vipera Nera effettua tre attacchi con lo stocco."
 					]
 				},
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 4}) piercing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 4}) danno perforante."
 					]
 				},
 				{
 					"name": "Hand Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 7} to hit, range 30/120 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."
+						"{@atk rw} {@hit 7} da colpire, portata 30/120 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danno perforante."
 					]
 				}
 			],
@@ -790,7 +790,7 @@
 				{
 					"name": "Uncanny Dodge",
 					"entries": [
-						"The Black Viper halves the damage that she takes from an attack that hits her. She must be able to see the attacker."
+						"La Vipera Nera dimezza il danno che subisce da un attacco che la colpisce. Deve essere in grado di vedere l'aggressore."
 					]
 				}
 			],
@@ -835,7 +835,7 @@
 						"items": {
 							"name": "Blinded",
 							"entries": [
-								"The troll is wearing an eyeless helm, and is {@condition blinded}."
+								"Il troll indossa un elmo senza occhi ed è {@condition blinded}."
 							]
 						}
 					}
@@ -939,7 +939,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Davil is a 12th-level spellcaster. His spellcasting ability is Charisma (spell save {@dc 14}, {@hit 6} to hit with spell attacks) He has the following bard spells prepared:"
+						"Davil è un incantatore di 12° livello. La sua abilità da incantatore è Carisma (salvezza incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimi). Ha preparato i seguenti incantesimi da bardo:"
 					],
 					"spells": {
 						"0": {
@@ -1003,7 +1003,7 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Davil has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Davil ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				}
 			],
@@ -1011,7 +1011,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 5} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -1074,7 +1074,7 @@
 				{
 					"name": "Beak",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danno perforante."
 					]
 				}
 			],
@@ -1138,25 +1138,25 @@
 				{
 					"name": "Shapechanger",
 					"entries": [
-						"The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+						"Il mimic può usare la sua azione per trasformarsi in un oggetto o ritornare nella sua vera forma amorfa. Le sue statistiche sono le stesse in ogni modulo. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Ritorna alla sua vera forma se muore."
 					]
 				},
 				{
 					"name": "Adhesive (Object Form Only)",
 					"entries": [
-						"The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also {@condition grappled} by it (escape {@dc 13}). Ability checks made to escape this grapple have disadvantage."
+						"Il mimico aderisce a tutto ciò che lo tocca. Anche una creatura Enorme o più piccola che aderisce al mimic viene {@condition grappled} da esso (fuga {@dc 13}). Le prove di caratteristica effettuate per sfuggire a questa lotta comportano svantaggio."
 					]
 				},
 				{
 					"name": "False Appearance (Object Form Only)",
 					"entries": [
-						"While the mimic remains motionless, it is indistinguishable from an ordinary object."
+						"Finché il mimic rimane immobile, è indistinguibile da un oggetto ordinario."
 					]
 				},
 				{
 					"name": "Grappler",
 					"entries": [
-						"The mimic has advantage on attack rolls against any creature {@condition grappled} by it."
+						"Il mimic ha vantaggio ai tiri per colpire contro qualsiasi creatura {@condition grappled} da esso."
 					]
 				}
 			],
@@ -1164,19 +1164,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The mimic can make three attacks; two with its pseudopods and one with its bite"
+						"Il mimic può effettuare tre attacchi; due con i suoi pseudopodi e uno con il suo morso"
 					]
 				},
 				{
 					"name": "Pseudopod",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni contundenti. Se il mimic è in forma di oggetto, il bersaglio è soggetto al suo tratto Adesivo."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage plus 4 ({@damage 1d8}) acid damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni perforanti più 4 ({@damage 1d8}) danni da acido."
 					]
 				}
 			],
@@ -1264,7 +1264,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The drow's spellcasting ability is Charisma (spell save {@dc 12}) It can innately cast the following spells, requiring no material components:"
+						"L'abilità da incantatore del drow è Carisma (salvezza incantesimo {@dc 12}). Può lanciare innatamente i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell dancing lights}"
@@ -1283,19 +1283,19 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"The drow has advantage on saving throws against being {@condition charmed}, and magic can't put the drow to sleep."
+						"Il drow ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				},
 				{
 					"name": "Gunslinger",
 					"entries": [
-						"Being within 5 feet of a hostile creature or attacking at long range doesn't impose disadvantage on the drow's ranged attack rolls with a pistol. In addition, the drow ignores {@quickref Cover||3||half cover} and {@quickref Cover||3||three-quarters cover} when making ranged attacks with a pistol."
+						"Trovarsi entro 1,5 metri da una creatura ostile o attaccare a lunga distanza non impone svantaggio ai tiri per colpire a distanza con una pistola del drow. Inoltre, il drow ignora {@quickref Cover||3||half cover} e {@quickref Cover||3||three-quarters cover} quando effettua attacchi a distanza con una pistola."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+						"Mentre è alla luce del sole, il drow ha svantaggio ai tiri per colpire, così come alle prove di Saggezza ({@skill Perception}) basate sulla vista."
 					]
 				}
 			],
@@ -1303,19 +1303,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The drow makes two shortsword attacks."
+						"Il drow effettua due attacchi con la spada corta."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danno perforante."
 					]
 				},
 				{
 					"name": "Poisonous Pistol",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 30/90 ft., one target. {@h}9 ({@damage 1d10 + 4}) piercing damage plus 11 ({@damage 2d10}) poison damage."
+						"{@atk rw} {@hit 6} per colpire, portata 30/90 piedi, un bersaglio. {@h}9 ({@damage 1d10 + 4}) danni perforanti più 11 ({@damage 2d10}) danni da veleno."
 					]
 				}
 			],
@@ -1413,19 +1413,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Durnan wields a {@item Greatsword of Sharpness||sword of sharpness (greatsword)} called Grimvault. He wears {@item boots of striding and springing}, {@item elven chain}, and a {@item ring of spell turning}."
+						"Durnan brandisce un {@item Greatsword of Sharpness||sword of sharpness (greatsword)} chiamato Grimvault. Indossa {@item boots of striding and springing}, {@item elven chain} e un {@item ring of spell turning}."
 					]
 				},
 				{
 					"name": "Indomitable (Recharges after a Long Rest)",
 					"entries": [
-						"Durnan can reroll a saving throw that he fails. He must use the new roll."
+						"Durnan può ripetere un tiro salvezza che fallisce. Deve usare il nuovo tiro."
 					]
 				},
 				{
 					"name": "Spell Turning",
 					"entries": [
-						"While wearing his ring of spell turning, Durnan has advantage on saving throws against any spell that targets only him (not in an area of effect). If Durnan rolls a 20 for the save and the spell is 7th level or lower, the spell has no effect on him and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster."
+						"Mentre indossa il suo anello di trasformazione degli incantesimi, Durnan ha vantaggio ai tiri salvezza contro qualsiasi incantesimo che prende di mira solo lui (non in un'area di effetto). Se Durnan ottiene 20 per il tiro salvezza e l'incantesimo è di 7° livello o inferiore, l'incantesimo non ha effetto su di lui e prende invece di mira l'incantatore, utilizzando il livello dello slot, la CD del tiro salvezza dell'incantesimo, il bonus di attacco e la capacità di incantatore dell'incantatore."
 					]
 				}
 			],
@@ -1433,19 +1433,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Durnan makes four melee weapon attacks."
+						"Durnan effettua quattro attacchi con armi da mischia."
 					]
 				},
 				{
 					"name": "Grimvault",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage. If the target is an object, the hit instead deals 16 slashing damage. If the target is a creature and Durnan rolls a 20 on the {@dice d20} for the attack roll, the target takes an extra 14 slashing damage, and Durnan rolls another {@dice d20}. On a roll of 20, he lops off one of the target's limbs, or some other part of its body if it is limbless."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni taglienti. Se il bersaglio è un oggetto, il colpo infligge invece 16 danni taglienti. Se il bersaglio è una creatura e Durnan tira un 20 sul {@dice d20} per il tiro di attacco, il bersaglio subisce 14 danni taglienti extra e Durnan tira un altro {@dice d20}. Con un risultato di 20, taglia uno degli arti del bersaglio, o qualche altra parte del suo corpo se è privo di arti."
 					]
 				},
 				{
 					"name": "Double Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 60/240 ft., one target. {@h}13 ({@damage 2d10 + 2}) piercing damage."
+						"{@atk rw} {@hit 6} da colpire, portata 60/240 piedi, un bersaglio. {@h}13 ({@damage 2d10 + 2}) danni perforanti."
 					]
 				}
 			],
@@ -1529,7 +1529,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Embric's spellcasting ability is Constitution ({@hit 4} to hit with spell attacks). He can innately cast the following spells, requiring no material components:"
+						"L'abilità da incantatore di Embric è Costituzione ({@hit 4} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell produce flame}"
@@ -1630,7 +1630,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The gnome is a 1st-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:"
+						"Lo gnomo è un incantatore di 1° livello. La sua abilità da incantatore è Intelligenza. Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -1656,7 +1656,7 @@
 				{
 					"name": "Gnome Cunning",
 					"entries": [
-						"The gnome has advantage on all Intelligence, Wisdom and Charisma saving throws against magic."
+						"Lo gnomo dispone di vantaggio su tutti i tiri salvezza di Intelligenza, Saggezza e Carisma contro la magia."
 					]
 				}
 			],
@@ -1664,7 +1664,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) piercing damage. Or Ranged Weapon Attack: {@hit 2} to hit, range 20/60 ft., one target. {@h}2 ({@damage 1d4}) piercing damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danno perforante. Oppure attacco con arma a distanza: {@hit 2} per colpire, portata 20/60 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danno perforante."
 					]
 				}
 			],
@@ -1760,7 +1760,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Fala is a 4th-level spellcaster. Their spellcasting ability is Wisdom. They have the following druid spells prepared:"
+						"Fala è un incantatore di 4° livello. La loro abilità di incantatore è la Saggezza. Hanno preparato i seguenti incantesimi da druido:"
 					],
 					"spells": {
 						"0": {
@@ -1794,7 +1794,7 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Fala has advantage on saving throws against being {@condition charmed}, and magic can't put them to sleep."
+						"Fala ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarli."
 					]
 				}
 			],
@@ -1802,7 +1802,7 @@
 				{
 					"name": "Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit or Melee Weapon Attack {@hit 4} to hit with shillelagh, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage, or 6 ({@damage 1d8 + 2}) bludgeoning damage with shillelagh or if wielded with two hands."
+						"{@atk mw} {@hit 2} per colpire o attacco con arma da mischia {@hit 4} per colpire con shillelagh, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d6}) danni contundenti o 6 ({@damage 1d8 + 2}) danni contundenti con shillelagh o se impugnato con due mani."
 					]
 				}
 			],
@@ -1976,13 +1976,13 @@
 				{
 					"name": "Antimagic Susceptibility",
 					"entries": [
-						"The staff is {@condition incapacitated} while in the area of an {@spell antimagic field}. If targeted by {@spell dispel magic}, the staff must succeed on a Constitution saving throw against the caster's spell save DC or fall {@condition unconscious} for 1 minute."
+						"Il personale è {@condition incapacitated} mentre si trova nell'area di un {@spell antimagic field}. Se preso di mira da {@spell dispel magic}, il bastone deve riuscire in un tiro salvezza su Costituzione contro la CD del tiro salvezza dell'incantesimo dell'incantatore o cadere {@condition unconscious} per 1 minuto."
 					]
 				},
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the staff remains motionless and isn't flying, it is indistinguishable from a normal staff."
+						"Sebbene il bastone rimanga immobile e non voli, è indistinguibile da un bastone normale."
 					]
 				}
 			],
@@ -1990,7 +1990,7 @@
 				{
 					"name": "Knife",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d6 + 1}) danni contundenti."
 					]
 				}
 			],
@@ -2060,19 +2060,19 @@
 				{
 					"name": "Lance",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit (with disadvantage against a target within 5 ft.), reach 10 ft., one target. {@h}8 ({@damage 1d12 + 2}) piercing damage, or 11 ({@damage 1d12 + 5}) piercing damage while mounted."
+						"{@atk mw} {@hit 4} per colpire (con svantaggio contro un bersaglio entro 5 piedi), raggiungere 10 piedi, un bersaglio. {@h}8 ({@damage 1d12 + 2}) danni perforanti o 11 ({@damage 1d12 + 5}) danni perforanti mentre si è in sella."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 4} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 4} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Feather Fall",
 					"entries": [
-						"The rider wears a magic ring with which it can cast the {@spell feather fall} spell on itself once as a reaction to falling. After the spell is cast, the ring becomes nonmagical."
+						"Il cavaliere indossa un anello magico con il quale può lanciare su se stesso una volta l'incantesimo {@spell feather fall} come reazione alla caduta. Dopo che l'incantesimo è stato lanciato, l'anello diventa non magico."
 					]
 				}
 			],
@@ -2192,7 +2192,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Grum'shar is a 1st-level spellcaster. His spellcasting ability is Intelligence. He has the following wizard spells prepared:"
+						"Grum'shar è un incantatore di 1° livello. La sua abilità da incantatore è l'Intelligenza. Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -2218,7 +2218,7 @@
 				{
 					"name": "Relentless Endurance",
 					"entries": [
-						"When reduced to 0 hit points, Grum'shar drops to 1 hit point instead. He can only do this once per long rest."
+						"Quando ridotto a 0 punti ferita, Grum'shar scende invece a 1 punto ferita. Può farlo solo una volta per riposo lungo."
 					]
 				}
 			],
@@ -2226,7 +2226,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) piercing damage. Or Ranged Weapon Attack: {@hit 2} to hit, range 20/60 ft., one target. {@h}2 ({@damage 1d4}) piercing damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danno perforante. Oppure attacco con arma a distanza: {@hit 2} per colpire, portata 20/60 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danno perforante."
 					]
 				}
 			],
@@ -2362,7 +2362,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Hlam is a 5th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc 18}, {@hit 10} to hit with spell attacks) He has the following cleric spells prepared:"
+						"Hlam è un incantatore di 5° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 18}, {@hit 10} per colpire con attacchi con incantesimi). Ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -2406,19 +2406,19 @@
 				{
 					"name": "Evasion",
 					"entries": [
-						"If Hlam is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails. He can't use this trait if he's {@condition incapacitated}."
+						"Se Hlam è soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, non subisce invece alcun danno se riesce nel tiro salvezza, e solo la metà dei danni se fallisce. Non può usare questo tratto se è {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Magic Attacks",
 					"entries": [
-						"Hlam's unarmed strikes are magical."
+						"I colpi senz'armi di Hlam sono magici."
 					]
 				},
 				{
 					"name": "Unarmored Defense",
 					"entries": [
-						"While Hlam is wearing no armor and wielding no shield, his AC includes his Wisdom modifier."
+						"Anche se Hlam non indossa alcuna armatura e non brandisce alcuno scudo, la sua CA include il suo modificatore di Saggezza."
 					]
 				}
 			],
@@ -2426,34 +2426,34 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Hlam attacks three times using his unarmed strike, darts, or both."
+						"Hlam attacca tre volte usando il suo colpo senz'armi, i suoi dardi o entrambi."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 5 ft., one target. {@h}12 ({@damage 1d10 + 7}) bludgeoning, magic damage. If the target is a creature, Hlam can choose one of the following additional effects:",
-						"The target must succeed on a {@dc 18} Strength saving throw or drop one item it is holding (Hlam's choice).",
-						"The target must succeed on a {@dc 18} Dexterity saving throw or be knocked {@condition prone}.",
-						"The target must succeed on a {@dc 18} Constitution saving throw or be {@condition stunned} until the end of Hlam's next turn."
+						"{@atk mw} {@hit 12} per colpire, raggiungere 5 piedi, un bersaglio. {@h}12 ({@damage 1d10 + 7}) contundenti, danni magici. Se il bersaglio è una creatura, Hlam può scegliere uno dei seguenti effetti aggiuntivi:",
+						"Il bersaglio deve riuscire in un tiro salvezza sulla Forza {@dc 18} o lasciare cadere un oggetto che tiene (a scelta di Hlam).",
+						"Il bersaglio deve riuscire in un tiro salvezza di Destrezza {@dc 18} o essere colpito {@condition prone}.",
+						"Il bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 18} o essere {@condition stunned} fino alla fine del turno successivo di Hlam."
 					]
 				},
 				{
 					"name": "Dart",
 					"entries": [
-						"{@atk rw} {@hit 12} to hit, range 20/60 ft., one target. {@h}9 ({@damage 1d4 + 7}) piercing damage."
+						"{@atk rw} {@hit 12} per colpire, portata 20/60 piedi, un bersaglio. {@h}9 ({@damage 1d4 + 7}) danno perforante."
 					]
 				},
 				{
 					"name": "Quivering Palm {@recharge}",
 					"entries": [
-						"{@atk mw} {@hit 12} to hit, reach 5 ft., one creature. {@h}The target must make a {@dc 18} Constitution saving throw. On a failed save, the target is reduced to 0 hit points. On a successful save, the target takes 55 ({@damage 10d10}) necrotic damage."
+						"{@atk mw} {@hit 12} per colpire, raggiungere 5 piedi, una creatura. {@h} Il bersaglio deve effettuare un tiro salvezza su Costituzione {@dc 18}. Se il tiro salvezza fallisce, il bersaglio viene ridotto a 0 punti ferita. Se il tiro salvezza riesce, il bersaglio subisce 55 ({@damage 10d10}) danni necrotici."
 					]
 				},
 				{
 					"name": "Wholeness of Body (Recharges after a Long Rest)",
 					"entries": [
-						"Hlam regains 60 hit points."
+						"Hlam recupera 60 punti ferita."
 					]
 				}
 			],
@@ -2461,13 +2461,13 @@
 				{
 					"name": "Deflect Missile",
 					"entries": [
-						"In response to being hit by a ranged weapon attack, Hlam deflects the missile. The damage he takes from the attack is reduced by {@dice 1d10 + 27}. If the damage is reduced to 0, Hlam catches the missile if it's small enough to hold in one hand and he has a hand free."
+						"In risposta all'attacco con un'arma a distanza, Hlam devia il missile. Il danno che subisce dall'attacco è ridotto del {@dice 1d10 + 27}. Se il danno viene ridotto a 0, Hlam afferra il missile se è abbastanza piccolo da poterlo tenere in una mano e ha una mano libera."
 					]
 				},
 				{
 					"name": "Slow Fall",
 					"entries": [
-						"Hlam reduces the bludgeoning damage he takes from a fall by 100."
+						"Hlam riduce di 100 i danni contundenti che subisce da una caduta."
 					]
 				}
 			],
@@ -2475,19 +2475,19 @@
 				{
 					"name": "Quick Step",
 					"entries": [
-						"Hlam moves up to his speed without provoking opportunity attacks."
+						"Hlam si muove alla sua velocità senza provocare attacchi di opportunità."
 					]
 				},
 				{
 					"name": "Unarmed Strike (Costs 2 Actions)",
 					"entries": [
-						"Hlam makes one unarmed strike."
+						"Hlam effettua un colpo senz'armi."
 					]
 				},
 				{
 					"name": "Invisibility (Costs 3 Actions)",
 					"entries": [
-						"Hlam becomes {@condition invisible} until the end of his next turn. The effect ends if Hlam attacks or casts a spell."
+						"Hlam diventa {@condition invisible} fino alla fine del suo turno successivo. L'effetto termina se Hlam attacca o lancia un incantesimo."
 					]
 				}
 			],
@@ -2593,19 +2593,19 @@
 				{
 					"name": "Indomitable (2/Day)",
 					"entries": [
-						"Hrabbaz can reroll a saving throw that he fails. He must use the new roll."
+						"Hrabbaz può ripetere un tiro salvezza che fallisce. Deve usare il nuovo tiro."
 					]
 				},
 				{
 					"name": "Relentless Endurance (Recharges after a Long Rest)",
 					"entries": [
-						"When Hrabbaz is reduced to 0 hit points but not killed outright, he drops to 1 hit point instead."
+						"Quando Hrabbaz viene ridotto a 0 punti ferita ma non viene ucciso sul colpo, scende invece a 1 punto ferita."
 					]
 				},
 				{
 					"name": "Extra Damage",
 					"entries": [
-						"As long as Hrabbaz has more than half his hit points left he deals an extra 3 ({@damage 1d6}) damage on all hits."
+						"Finché Hrabbaz ha più della metà dei suoi punti ferita rimasti, infligge 3 ({@damage 1d6}) danni extra su tutti i colpi."
 					]
 				}
 			],
@@ -2613,13 +2613,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Hrabbaz makes three attacks with his morningstar."
+						"Hrabbaz effettua tre attacchi con la sua Morningstar."
 					]
 				},
 				{
 					"name": "Morningstar",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d8 + 5}) piercing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 1d8 + 5}) danno perforante."
 					]
 				}
 			],
@@ -2712,7 +2712,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Istrid is a 9th-level spellcaster. Her spellcasting ability is Wisdom (spell save {@dc 14}, {@hit 6} to hit with spell attacks) She has the following cleric spells prepared:"
+						"Istrid è un incantatore di 9° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimi). Ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -2778,7 +2778,7 @@
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"Istrid has advantage on saving throws against being {@condition poisoned}."
+						"Istrid ha vantaggio ai tiri salvezza contro l'essere {@condition poisoned}."
 					]
 				}
 			],
@@ -2786,19 +2786,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Istrid makes two melee attacks."
+						"Istrid effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Maul",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}8 ({@damage 2d6 + 1}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 2d6 + 1}) danni contundenti."
 					]
 				},
 				{
 					"name": "Treasure Sense (3/Day)",
 					"entries": [
-						"Istrid magically pinpoints precious metals and stones, such as coins and gems, within 60 feet of her."
+						"Istrid individua magicamente metalli preziosi e pietre, come monete e gemme, entro 18 metri da lei."
 					]
 				}
 			],
@@ -2904,13 +2904,13 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Jalester carries a {@item badge of the Watch|wdh}."
+						"Jalester porta un {@item badge of the Watch|wdh}."
 					]
 				},
 				{
 					"name": "Second Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"As a bonus action, Jalester can regain 16 ({@dice 1d10 + 11}) hit points."
+						"Come azione bonus, Jalester può recuperare 16 ({@dice 1d10 + 11}) punti ferita."
 					]
 				}
 			],
@@ -2918,19 +2918,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Jalester makes two weapon attacks."
+						"Jalester effettua due attacchi con l'arma."
 					]
 				},
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage, or 7 ({@damage 1d10 + 2}) slashing damage when used with two hands."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni da taglio o 7 ({@damage 1d10 + 2}) danni da taglio se usato con due mani."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 4} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 4} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -2938,7 +2938,7 @@
 				{
 					"name": "Riposte",
 					"entries": [
-						"When a creature that Jalester can see misses him with a melee attack, he can use his reaction to make a melee weapon attack against that creature. On a hit, the target takes an extra 4 damage from the weapon."
+						"Quando una creatura che Jalester può vedere lo manca con un attacco in mischia, può usare la sua reazione per effettuare un attacco con arma da mischia contro quella creatura. In caso di colpo, il bersaglio subisce 4 danni extra dall'arma."
 					]
 				}
 			],
@@ -3027,7 +3027,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Jandar's spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:"
+						"L'abilità da incantatore di Jandar è Carisma. Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell thaumaturgy}"
@@ -3038,7 +3038,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Jandar is a 4th-level spellcaster. His spellcasting ability is Wisdom. Jandar has the following cleric spells prepared:"
+						"Jandar è un incantatore di 4° livello. La sua abilità da incantatore è Saggezza. Jandar ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -3071,7 +3071,7 @@
 				{
 					"name": "Dark Devotion",
 					"entries": [
-						"Jandar has advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+						"Jandar ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}."
 					]
 				}
 			],
@@ -3079,13 +3079,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Jandar makes two melee attacks."
+						"Jandar effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 4} to hit, range 20/60 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 4} per colpire, portata 20/60 piedi, una creatura. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -3200,7 +3200,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Jarlaxle's innate spellcasting ability is Charisma (spell save {@dc 17}, {@hit 9} to hit with spell attacks) He can innately cast the following spells, requiring no material components:"
+						"L'abilità innata di lanciare incantesimi di Jarlaxle è Carisma (salvataggio degli incantesimi {@dc 17}, {@hit 9} per colpire con attacchi con incantesimi). Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell dancing lights}"
@@ -3219,49 +3219,49 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Jarlaxle wears {@item +3 leather armor}, a {@item hat of disguise}, a {@item bracer of flying daggers|wdh}, a {@item cloak of invisibility}, a {@item knave's eye patch|wdh}, and a {@item ring of truth telling|wdh}. He wields a {@item +3 rapier} and carries a {@item portable hole} and a {@item wand of web}. His hat is adorned with a {@item feather of diatryma summoning|wdh}."
+						"Jarlaxle indossa {@item +3 leather armor}, un {@item hat of disguise}, un {@item bracer of flying daggers|wdh}, un {@item cloak of invisibility}, un {@item knave's eye patch|wdh} e un {@item ring of truth telling|wdh}. Impugna un {@item +3 rapier} e porta un {@item portable hole} e un {@item wand of web}. Il suo cappello è ornato da un {@item feather of diatryma summoning|wdh}."
 					]
 				},
 				{
 					"name": "Evasion",
 					"entries": [
-						"If he is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, Jarlaxle instead takes no damage if he succeeds on the saving throw, and only half damage if he fails. He can't use this trait if he's {@condition incapacitated}."
+						"Se è soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, Jarlaxle invece non subisce danni se riesce nel tiro salvezza, e solo la metà dei danni se fallisce. Non può usare questo tratto se è {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Jarlaxle has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Jarlaxle ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				},
 				{
 					"name": "Legendary Resistance (1/Day)",
 					"entries": [
-						"If Jarlaxle fails a saving throw, he can choose to succeed instead."
+						"Se Jarlaxle fallisce il tiro salvezza, può invece scegliere di riuscirlo."
 					]
 				},
 				{
 					"name": "Master Attuner",
 					"entries": [
-						"Jarlaxle can attune to up to five magic items, and he can attune to magic items that normally require attunement by a sorcerer, warlock, or wizard."
+						"Jarlaxle può sintonizzarsi fino a cinque oggetti magici e può sintonizzarsi con oggetti magici che normalmente richiedono la sintonizzazione da parte di uno stregone, stregone o mago."
 					]
 				},
 				{
 					"name": "Sneak Attack (1/Turn)",
 					"entries": [
-						"Jarlaxle deals an extra 24 ({@damage 7d6}) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Jarlaxle's that isn't {@condition incapacitated} and Jarlaxle doesn't have disadvantage on the attack roll."
+						"Jarlaxle infligge 24 ({@damage 7d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio sul tiro per colpire, o quando il bersaglio si trova entro 5 piedi da un alleato di Jarlaxle che non lo è {@condition incapacitated} e Jarlaxle non ha svantaggio sul tiro per colpire."
 					]
 				},
 				{
 					"name": "Suave Defense",
 					"entries": [
-						"While Jarlaxle is wearing light or no armor and wielding no shield, his AC includes his Charisma modifier."
+						"Mentre Jarlaxle indossa un'armatura leggera o nessuna e non brandisce alcuno scudo, la sua CA include il suo modificatore di Carisma."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"When not wearing his knave's eye patch, Jarlaxle has disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+						"Quando non indossa la benda sull'occhio del fante, Jarlaxle ha svantaggio ai tiri per colpire, così come alle prove di Saggezza ({@skill Perception}) che si basano sulla vista."
 					]
 				}
 			],
@@ -3269,19 +3269,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Jarlaxle makes three attacks with his +3 rapier or two attacks with daggers created by his bracer of flying daggers."
+						"Jarlaxle effettua tre attacchi con il suo stocco +3 o due attacchi con i pugnali creati dal suo bracciale dei pugnali volanti."
 					]
 				},
 				{
 					"name": "+3 Rapier",
 					"entries": [
-						"{@atk mw} {@hit 14} to hit, reach 5 ft., one target. {@h}13 ({@damage 1d8 + 9}) piercing damage."
+						"{@atk mw} {@hit 14} per colpire, raggiungere 5 piedi, un bersaglio. {@h}13 ({@damage 1d8 + 9}) danni perforanti."
 					]
 				},
 				{
 					"name": "Flying Dagger",
 					"entries": [
-						"{@atk rw} {@hit 11} to hit, range 20/60 ft., one target. {@h}8 ({@damage 1d4 + 6}) piercing damage."
+						"{@atk rw} {@hit 11} per colpire, portata 20/60 piedi, un bersaglio. {@h}8 ({@damage 1d4 + 6}) danno perforante."
 					]
 				}
 			],
@@ -3289,13 +3289,13 @@
 				{
 					"name": "Quick Step",
 					"entries": [
-						"Jarlaxle moves up to his speed without provoking opportunity attacks."
+						"Jarlaxle si muove alla sua velocità senza provocare attacchi di opportunità."
 					]
 				},
 				{
 					"name": "Attack (Costs 2 Actions)",
 					"entries": [
-						"Jarlaxle makes one attack with his +3 rapier or two attacks with daggers created by his bracer of flying daggers."
+						"Jarlaxle effettua un attacco con il suo stocco +3 o due attacchi con i pugnali creati dal suo bracciale di pugnali volanti."
 					]
 				}
 			],
@@ -3424,7 +3424,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Kaevja is a 9th-level spellcaster. Her spellcasting ability is Intelligence. Kaevja has the following wizard spells prepared:"
+						"Kaevja è un incantatore di 9° livello. La sua abilità da incantatore è Intelligenza. Kaevja ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -3480,7 +3480,7 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Kaevja carries a yellow {@item elemental gem}. As an action she can break the gem releasing an earth elemental under her command."
+						"Kaevja porta un giallo {@item elemental gem}. Come azione può rompere la gemma liberando un elementale della terra sotto il suo comando."
 					]
 				}
 			],
@@ -3488,7 +3488,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 5} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -3588,7 +3588,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Kalain is a 4th-level spellcaster. Her spellcasting ability is Charisma. She has the following bard spells prepared:"
+						"Kalain è un incantatore di 4° livello. La sua abilità da incantatore è il Carisma. Ha preparato i seguenti incantesimi da bardo:"
 					],
 					"spells": {
 						"0": {
@@ -3623,19 +3623,19 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Kalain has advantage on saving throws against being {@condition charmed} and magic can't put her to sleep."
+						"Kalain ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarla."
 					]
 				},
 				{
 					"name": "Art Imitates Life (3/Day)",
 					"entries": [
-						"Kalain touches one of her paintings and causes its subject to spring forth, becoming a creature of that kind provided its CR is 3 or lower. The creature appears in an unoccupied space within 5 feet of the painting, which becomes blank. The creature is friendly toward Kalain and hostile toward all others. It rolls initiative to determine when it acts. It disappears after 1 minute, when it is reduced to 0 hit points, or when Kalain dies or falls {@condition unconscious}."
+						"Kalain tocca uno dei suoi dipinti e fa sì che il suo soggetto emerga, diventando una creatura di quel tipo a condizione che il suo GS sia 3 o inferiore. La creatura appare in uno spazio non occupato entro 1,5 metri dal dipinto, che diventa vuoto. La creatura è amichevole verso Kalain e ostile verso tutti gli altri. Tira l'iniziativa per determinare quando agire. Scompare dopo 1 minuto, quando viene ridotto a 0 punti ferita o quando Kalain muore o cade {@condition unconscious}."
 					]
 				},
 				{
 					"name": "Taunt (2/Day)",
 					"entries": [
-						"Kalain can use a bonus action on her turn to target one creature within 30 feet of it. If the target can hear Kalain, the target must succeed on a {@dc 12} Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of Kalain's next turn."
+						"Kalain può usare un'azione bonus durante il suo turno per prendere di mira una creatura entro 9 metri da essa. Se il bersaglio può sentire Kalain, deve riuscire in un tiro salvezza di Carisma {@dc 12} o avere svantaggio nelle prove di caratteristica, nei tiri per colpire e nei tiri salvezza fino all'inizio del turno successivo di Kalain."
 					]
 				}
 			],
@@ -3643,13 +3643,13 @@
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Shortbow",
 					"entries": [
-						"{@atk rw} {@hit 4} to hit, range 80/320 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk rw} {@hit 4} da colpire, portata 80/320 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -3789,7 +3789,7 @@
 				{
 					"name": "False Appearance",
 					"entries": [
-						"While the gargoyle remains motionless, it is indistinguishable from an inanimate statue."
+						"Finché il gargoyle rimane immobile, è indistinguibile da una statua inanimata."
 					]
 				}
 			],
@@ -3797,19 +3797,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The gargoyle makes two attacks: one with its bite and one with its claws."
+						"Il gargoyle effettua due attacchi: uno con il morso e uno con gli artigli."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Claws",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) slashing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni taglienti."
 					]
 				}
 			],
@@ -3913,7 +3913,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Laeral is a 19th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 21}, {@hit 13} to hit with spell attacks). Laeral has the following wizard spells prepared:"
+						"Laeral è un incantatore di 19° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 21}, {@hit 13} per colpire con attacchi con incantesimo). Laeral ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -4000,13 +4000,13 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Laeral wears a white {@item robe of the archmagi} (accounted for in her statistics). She wields a {@item flame tongue longsword}."
+						"Laeral indossa un abito bianco {@item robe of the archmagi} (contabile nelle sue statistiche). Impugna un {@item flame tongue longsword}."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"While wearing her robe of the archmagi, Laeral has advantage on saving throws against spells and other magical effects."
+						"Mentre indossa la sua veste da arcimago, Laeral ha vantaggio sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -4014,41 +4014,41 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Laeral makes three attacks with her silver hair and flame tongue, in any combination. She can cast one of her cantrips or 1st-level spells before or after making these attacks."
+						"Laeral effettua tre attacchi con i suoi capelli argentati e la lingua di fuoco, in qualsiasi combinazione. Può lanciare uno dei suoi trucchetti o incantesimi di 1° livello prima o dopo aver effettuato questi attacchi."
 					]
 				},
 				{
 					"name": "Silver Hair",
 					"entries": [
-						"{@atk mw} {@hit 11} to hit, reach 5 ft., one target. {@h}7 ({@damage 2d6}) force damage, and the target must succeed on a {@dc 19} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"{@atk mw} {@hit 11} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 2d6}) danni da forza e il bersaglio deve riuscire un tiro salvezza su Costituzione {@dc 19} o essere {@condition paralyzed} per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, interrompendo l'effetto su se stesso in caso di successo."
 					]
 				},
 				{
 					"name": "Flame Tongue",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage plus 7 ({@damage 2d6}) fire damage, or 6 ({@damage 1d10 + 1}) slashing damage plus 7 ({@damage 2d6}) fire damage when used with two hands."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danni da taglio più 7 ({@damage 2d6}) danni da fuoco, oppure 6 ({@damage 1d10 + 1}) danni da taglio più 7 ({@damage 2d6}) danni da fuoco se usato con due mani."
 					]
 				},
 				{
 					"name": "Spellfire (Recharges after a Long Rest)",
 					"entries": [
-						"Magical, heatless, silver fire harmlessly erupts from Laeral and surrounds her until she is {@condition incapacitated} or until she uses an action to quench it. She gains one of the following benefits of her choice, which lasts until the silver fire ends:",
+						"Un fuoco argentato, magico e senza calore, erutta innocuo da Laeral e la circonda finché non diventa {@condition incapacitated} o finché non usa un'azione per spegnerlo. Ottiene uno dei seguenti benefici a sua scelta, che dura finché il fuoco d'argento non termina:",
 						{
 							"type": "list",
 							"items": [
-								"She can breathe underwater.",
-								"She can survive without food and water.",
-								"She is immune to magic that would ascertain her thoughts, truthfulness, alignment, or creature type.",
-								"She gains resistance to cold damage, and she is unharmed by temperatures as low as -50 degrees Fahrenheit."
+								"Può respirare sott'acqua.",
+								"Può sopravvivere senza cibo e acqua.",
+								"È immune alla magia che accerta i suoi pensieri, la sincerità, l'allineamento o il tipo di creatura.",
+								"Ottiene resistenza ai danni da freddo e non viene danneggiata da temperature fino a -50 gradi Fahrenheit."
 							]
 						},
-						"While the silver fire is present, she has the following additional action options:",
+						"Mentre il fuoco d'argento è presente, ha le seguenti opzioni di azione aggiuntive:",
 						{
 							"type": "list",
 							"items": [
-								"Cast the {@spell cure wounds} spell. The target regains {@dice 1d8 + 5} hit points. After Laeral takes this action, roll a {@dice d6}. On a roll of 1, the silver fire disappears.",
-								"Cast the {@spell revivify} spell without material components. After Laeral takes this action, roll a {@dice d6}. On a roll of 1-2, the silver fire disappears.",
-								"Release a 60-foot line of silver fire that is 5 feet wide or a 30-foot cone of silver fire. Objects in the area that aren't being worn or carried take 26 ({@damage 4d12}) fire damage. Each creature in the area must succeed on a {@dc 21} Dexterity saving throw, taking 26 ({@damage 4d12}) fire damage on a failed save, or half as much damage on a successful one. After Laeral takes this action, roll a {@dice d6}. On a roll of 1-3, the silver fire disappears."
+								"Lancia l'incantesimo {@spell cure wounds}. Il bersaglio riacquista {@dice 1d8 + 5} punti ferita. Dopo che Laeral ha eseguito questa azione, tira un {@dice d6}. Con un risultato di 1, il fuoco argentato scompare.",
+								"Lancia l'incantesimo {@spell revivify} senza componenti materiali. Dopo che Laeral ha eseguito questa azione, tira un {@dice d6}. Con un risultato di 1-2 il fuoco argentato scompare.",
+								"Rilascia una linea di fuoco argentato di 60 piedi larga 5 piedi o un cono di fuoco argentato di 9 metri. Gli oggetti nell'area che non vengono indossati o trasportati subiscono 26 ({@damage 4d12}) danni da fuoco. Ogni creatura nell'area deve riuscire un tiro salvezza su Destrezza {@dc 21} e subisce 26 ({@damage 4d12}) danni da fuoco se fallisce, o la metà di quei danni se riesce. Dopo che Laeral ha eseguito questa azione, tira un {@dice d6}. Con un risultato di 1-3, il fuoco argentato scompare."
 							]
 						}
 					]
@@ -4181,7 +4181,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Laiba's spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:"
+						"L'abilità da incantatore di Laiba è Carisma. Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell thaumaturgy}"
@@ -4192,7 +4192,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Laiba is a 4th-level spellcaster. Her spellcasting ability is Wisdom. Laiba has the following cleric spells prepared:"
+						"Laiba è un incantatore di 4° livello. La sua abilità da incantatore è Saggezza. Laiba ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -4225,7 +4225,7 @@
 				{
 					"name": "Dark Devotion",
 					"entries": [
-						"Laiba has advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+						"Laiba ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}."
 					]
 				}
 			],
@@ -4233,13 +4233,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Laiba makes two melee attacks."
+						"Laiba effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 4} to hit, range 20/60 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 4} per colpire, portata 20/60 piedi, una creatura. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -4345,7 +4345,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence. The mage has the following wizard spells prepared:"
+						"Il mago è un incantatore di 9° livello. La sua abilità da incantatore è Intelligenza. Il mago ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -4401,13 +4401,13 @@
 				{
 					"name": "Halfling Nimbleness",
 					"entries": [
-						"Losser can move through the space of a creature that is a size bigger than him."
+						"Il perdente può muoversi attraverso lo spazio di una creatura di taglia più grande di lui."
 					]
 				},
 				{
 					"name": "Brave",
 					"entries": [
-						"Losser has advantage on saving throws against being {@condition frightened}."
+						"Il perdente ha vantaggio sui tiri salvezza contro l'essere {@condition frightened}."
 					]
 				}
 			],
@@ -4415,7 +4415,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 5} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -4504,7 +4504,7 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Umbero has advantage on saving throws against being {@condition charmed} and magic can't put him to sleep."
+						"Umbero ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				}
 			],
@@ -4512,7 +4512,7 @@
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danno perforante."
 					]
 				}
 			],
@@ -4520,7 +4520,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon."
+						"Il nobile aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per fare ciò, il nobile deve vedere l'attaccante e impugnare un'arma da mischia."
 					]
 				}
 			],
@@ -4612,7 +4612,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence. The mage has the following wizard spells prepared:"
+						"Il mago è un incantatore di 9° livello. La sua abilità da incantatore è Intelligenza. Il mago ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -4668,13 +4668,13 @@
 				{
 					"name": "Halfling Nimbleness",
 					"entries": [
-						"Manafret can move through a space of a Medium or larger creature."
+						"Manafret può muoversi attraverso uno spazio di una creatura Media o più grande."
 					]
 				},
 				{
 					"name": "Brave",
 					"entries": [
-						"Manafret has advantage on saving throws against being {@condition frightened}."
+						"Manafret ha vantaggio ai tiri salvezza contro l'essere {@condition frightened}."
 					]
 				}
 			],
@@ -4682,7 +4682,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 5} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -4794,7 +4794,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Manshoon is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 21}, {@hit 15} to hit with spell attacks). He has the following wizard spells prepared:"
+						"Manshoon è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 21}, {@hit 15} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -4883,13 +4883,13 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Manshoon wears a black {@item robe of the archmagi} and wields a {@item staff of power} (both accounted for in his statistics). Roll {@dice 2d10} to determine how many charges the staff has remaining."
+						"Manshoon indossa un nero {@item robe of the archmagi} e brandisce un {@item staff of power} (entrambi contabilizzati nelle sue statistiche). Tira {@dice 2d10} per determinare quante cariche restano al personale."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"While wearing his robe of the archmagi, Manshoon has advantage on saving throws against spells and other magical effects."
+						"Mentre indossa la sua veste da arcimago, Manshoon ha vantaggio nei tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				}
 			],
@@ -4897,13 +4897,13 @@
 				{
 					"name": "Metal Fist",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Staff of Power",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage, or 6 ({@damage 1d8 + 2}) bludgeoning damage when used with two hands. Manshoon can expend 1 of the staff's charges to deal an extra 3 ({@damage 1d6}) force damage on a hit."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danni contundenti o 6 ({@damage 1d8 + 2}) danni contundenti se usato con due mani. Manshoon può spendere 1 delle cariche del bastone per infliggere 3 ({@damage 1d6}) danni di forza aggiuntivi in ​​caso di colpo."
 					]
 				}
 			],
@@ -5010,7 +5010,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Manshoon is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 19}, {@hit 11} to hit with spell attacks). He has the following wizard spells prepared:"
+						"Manshoon è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 19}, {@hit 11} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -5071,7 +5071,7 @@
 				{
 					"name": "Metal Fist",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danni contundenti."
 					]
 				}
 			],
@@ -5180,7 +5180,7 @@
 				{
 					"name": "Hooves",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d4 + 4}) bludgeoning damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 2d4 + 4}) danni contundenti."
 					]
 				}
 			],
@@ -5234,7 +5234,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 0} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d3}) piercing damage, and the bird is destroyed by the impact."
+						"{@atk mw} {@hit 0} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d3}) danni perforanti e l'uccello viene distrutto dall'impatto."
 					]
 				}
 			],
@@ -5305,7 +5305,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Melannor is a 4th-level spellcaster. His spellcasting ability is Wisdom. He has the following druid spells prepared:"
+						"Melannor è un incantatore di 4° livello. La sua abilità da incantatore è Saggezza. Ha preparato i seguenti incantesimi da druido:"
 					],
 					"spells": {
 						"0": {
@@ -5339,7 +5339,7 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Melannor has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Melannor ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				}
 			],
@@ -5347,7 +5347,7 @@
 				{
 					"name": "Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit or Melee Weapon Attack {@hit 4} to hit with shillelagh, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage, or 6 ({@damage 1d8 + 2}) bludgeoning damage with shillelagh or if wielded with two hands."
+						"{@atk mw} {@hit 2} per colpire o attacco con arma da mischia {@hit 4} per colpire con shillelagh, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d6}) danni contundenti o 6 ({@damage 1d8 + 2}) danni contundenti con shillelagh o se impugnato con due mani."
 					]
 				}
 			],
@@ -5450,19 +5450,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Meloon wields {@item Azuredge|wdh} but can't attune to it, and thus gains none of its benefits."
+						"Il melone brandisce {@item Azuredge|wdh} ma non riesce a sintonizzarsi con esso, quindi non ottiene nessuno dei suoi benefici."
 					]
 				},
 				{
 					"name": "Indomitable (2/Day)",
 					"entries": [
-						"Meloon can reroll a saving throw that he fails. He must use the new roll."
+						"Meloon può ripetere un tiro salvezza che fallisce. Deve usare il nuovo tiro."
 					]
 				},
 				{
 					"name": "Second Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"As a bonus action, Meloon can regain 20 hit points."
+						"Come azione bonus, Meloon può recuperare 20 punti ferita."
 					]
 				}
 			],
@@ -5470,13 +5470,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Meloon makes four attacks with Azuredge."
+						"Meloon effettua quattro attacchi con Azuredge."
 					]
 				},
 				{
 					"name": "Azuredge",
 					"entries": [
-						"{@atk m} {@hit 9} to hit, reach 5 ft., one target. {@h}11 ({@damage 1d12 + 5}) slashing damage."
+						"{@atk m} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 1d12 + 5}) danni taglienti."
 					]
 				}
 			],
@@ -5562,25 +5562,25 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Mirt wears {@item bracers of defense} and a {@item ring of regeneration}. He wields a {@item +1 longsword} and a {@item +1 dagger}."
+						"Mirt indossa {@item bracers of defense} e un {@item ring of regeneration}. Impugna un {@item +1 longsword} e un {@item +1 dagger}."
 					]
 				},
 				{
 					"name": "Brute",
 					"entries": [
-						"A melee weapon deals one extra die of its damage when Mirt hits with it (included in the attacks below)."
+						"Un'arma da mischia infligge un dado extra del suo danno quando Mirt colpisce con essa (incluso negli attacchi seguenti)."
 					]
 				},
 				{
 					"name": "Evasion",
 					"entries": [
-						"If he is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, Mirt instead takes no damage if he succeeds on the saving throw, and only half damage if he fails. He can't use this trait if he's {@condition incapacitated}."
+						"Se è soggetto a un effetto che gli permette di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, Mirt invece non subisce danni se riesce nel tiro salvezza, e solo la metà dei danni se fallisce. Non può usare questo tratto se è {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Sneak Attack (1/Turn)",
 					"entries": [
-						"Mirt deals an extra 14 ({@damage 4d6}) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Mirt's that isn't {@condition incapacitated} and Mirt doesn't have disadvantage on the attack roll."
+						"Mirt infligge 14 ({@damage 4d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio sul tiro per colpire, o quando il bersaglio si trova entro 5 piedi da un alleato di Mirt che non lo è {@condition incapacitated} e Mirt non ha svantaggio sul tiro per colpire."
 					]
 				}
 			],
@@ -5588,19 +5588,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Mirt makes three attacks: two with his +1 longsword and one with his +1 dagger."
+						"Mirt effettua tre attacchi: due con la sua spada lunga +1 e uno con il suo pugnale +1."
 					]
 				},
 				{
 					"name": "+1 Longsword",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}14 ({@damage 2d8 + 5}) slashing damage, or 16 ({@damage 2d10 + 5}) slashing damage when used with two hands."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}14 ({@damage 2d8 + 5}) danni da taglio o 16 ({@damage 2d10 + 5}) danni da taglio se usato con due mani."
 					]
 				},
 				{
 					"name": "+1 Dagger",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}10 ({@damage 2d4 + 5}) piercing damage. Or Ranged Weapon Attack: {@hit 9} to hit, range 20/60 ft., one target. {@h}7 ({@damage 1d4 + 5}) piercing damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}10 ({@damage 2d4 + 5}) danni perforanti. Oppure attacco con arma a distanza: {@hit 9} per colpire, portata 20/60 piedi, un bersaglio. {@h}7 ({@damage 1d4 + 5}) danno perforante."
 					]
 				}
 			],
@@ -5608,7 +5608,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"Mirt adds 2 to his AC against one melee attack that would hit him. To do so, Mirt must see the attacker and be wielding a melee weapon."
+						"Mirt aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per fare ciò, Mirt deve vedere l'attaccante e impugnare un'arma da mischia."
 					]
 				}
 			],
@@ -5661,7 +5661,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"Nar'l carries a vial containing three doses of {@item eyescratch|WDH}, a contact poison. A creature that comes into contact with the poison must succeed on a {@dc 14} Constitution saving throw or be {@condition poisoned} for 1 hour and {@condition blinded} while {@condition poisoned} in this way. A {@spell lesser restoration} spell or similar magic ends the effect."
+								"Nar'l trasporta una fiala contenente tre dosi di {@item eyescratch|WDH}, un veleno per contatto. Una creatura che entra in contatto con il veleno deve riuscire in un tiro salvezza su Costituzione {@dc 14} o essere {@condition poisoned} per 1 ora e {@condition blinded} mentre {@condition poisoned} in questo modo. Un incantesimo {@spell lesser restoration} o una magia simile pone fine all'effetto."
 							]
 						}
 					}
@@ -5778,25 +5778,25 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The nimblewright has advantage on saving throws against spells and other magical effects."
+						"L'agile maestro dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Magic Weapons",
 					"entries": [
-						"The nimblewright's weapon attacks are magical."
+						"Gli attacchi con le armi dell'agile maestro sono magici."
 					]
 				},
 				{
 					"name": "Repairable",
 					"entries": [
-						"As long as it has at least 1 hit point remaining, the nimblewright regains 1 hit point when a {@spell mending} spell is cast on it."
+						"Finché gli rimane almeno 1 punto ferita, l'agile maestro recupera 1 punto ferita quando viene lanciato un incantesimo {@spell mending} su di lui."
 					]
 				},
 				{
 					"name": "Sure-Footed",
 					"entries": [
-						"The nimblewright has advantage on Strength and Dexterity saving throws made against effects that would knock it {@condition prone}."
+						"L'agile maestro ha vantaggio sui tiri salvezza su Forza e Destrezza effettuati contro effetti che lo metterebbero al tappeto {@condition prone}."
 					]
 				}
 			],
@@ -5804,19 +5804,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The nimblewright makes three attacks: two with its rapier and one with its dagger."
+						"L'agile maestro effettua tre attacchi: due con lo stocco e uno con il pugnale."
 					]
 				},
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d8 + 4}) danno perforante."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage. Or Ranged Weapon Attack: {@hit 6} to hit, range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d4 + 4}) danno perforante. Oppure attacco con arma a distanza: {@hit 6} per colpire, portata 20/60 piedi, un bersaglio. {@h}6 ({@damage 1d4 + 4}) danno perforante."
 					]
 				}
 			],
@@ -5824,7 +5824,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"The nimblewright adds 2 to its AC against one melee attack that would hit it. To do so, the nimblewright must see the attacker and be wielding a melee weapon."
+						"L'agile maestro aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per fare ciò, l'agile maestro deve vedere l'attaccante e impugnare un'arma da mischia."
 					]
 				}
 			],
@@ -5916,19 +5916,19 @@
 				{
 					"name": "Pack Tactics",
 					"entries": [
-						"Noska has advantage on an attack roll against a creature if at least one of Noska's allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
+						"Noska ha vantaggio al tiro per colpire contro una creatura se almeno uno degli alleati di Noska si trova entro 1,5 piedi dalla creatura e l'alleato no {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"Noska has advantage on saving throws against poison and resistance to poison damage."
+						"Noska ha vantaggio ai tiri salvezza contro il veleno e alla resistenza ai danni da veleno."
 					]
 				},
 				{
 					"name": "Difficult Climber",
 					"entries": [
-						"Noska has disadvantage on Strength checks made to climb, due to his disability."
+						"Noska ha svantaggio alle prove di Forza effettuate per arrampicarsi, a causa della sua disabilità."
 					]
 				}
 			],
@@ -5936,19 +5936,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Noska makes two melee attacks."
+						"Noska effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Mace",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}5 ({@damage 1d6 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 2} to hit, range 100/400 ft., one target. {@h}5 ({@damage 1d10}) piercing damage."
+						"{@atk rw} {@hit 2} da colpire, portata 100/400 piedi, un bersaglio. {@h}5 ({@damage 1d10}) danno perforante."
 					]
 				}
 			],
@@ -6066,13 +6066,13 @@
 				{
 					"name": "Blood Frenzy",
 					"entries": [
-						"Obliteros has advantage on melee attack rolls against any creature that doesn't have all its hit points."
+						"Obliteros dispone di vantaggio ai tiri per colpire in mischia contro qualsiasi creatura che non abbia tutti i suoi punti ferita."
 					]
 				},
 				{
 					"name": "Water Breathing",
 					"entries": [
-						"Obliteros can breathe only underwater."
+						"Gli Obliteros possono respirare solo sott'acqua."
 					]
 				}
 			],
@@ -6080,7 +6080,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}22 ({@damage 3d10 + 6}) piercing damage."
+						"{@atk mw} {@hit 9} per colpire, raggiungere 5 piedi, un bersaglio. {@h}22 ({@damage 3d10 + 6}) danni perforanti."
 					]
 				}
 			],
@@ -6159,7 +6159,7 @@
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danno perforante."
 					]
 				}
 			],
@@ -6167,7 +6167,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"Orond adds 2 to its AC against one melee attack that would hit it. To do so, Orond must see the attacker and be wielding a melee weapon."
+						"Orond aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per fare ciò, Orond deve vedere l'attaccante e impugnare un'arma da mischia."
 					]
 				}
 			],
@@ -6272,13 +6272,13 @@
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"Ott has advantage on saving throws against poison and resistance to poison damage."
+						"Ott ha vantaggio ai tiri salvezza contro il veleno e alla resistenza ai danni da veleno."
 					]
 				},
 				{
 					"name": "Dark Devotion",
 					"entries": [
-						"The cultist has advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+						"Il cultista ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}."
 					]
 				}
 			],
@@ -6286,7 +6286,7 @@
 				{
 					"name": "Scimitar",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d6 + 1}) slashing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, una creatura. {@h}4 ({@damage 1d6 + 1}) danni taglienti."
 					]
 				}
 			],
@@ -6361,7 +6361,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The Dwarf is a 1st-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:"
+						"Il Nano è un incantatore di 1° livello. La sua abilità da incantatore è Intelligenza. Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -6387,7 +6387,7 @@
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"The dwarf has advantage on saving throws against poison and resistance to poison damage."
+						"Il nano dispone di vantaggio ai tiri salvezza contro il veleno e di resistenza ai danni da veleno."
 					]
 				}
 			],
@@ -6395,7 +6395,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) piercing damage. Or Ranged Weapon Attack: {@hit 2} to hit, range 20/60 ft., one target. {@h}2 ({@damage 1d4}) piercing damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danno perforante. Oppure attacco con arma a distanza: {@hit 2} per colpire, portata 20/60 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danno perforante."
 					]
 				}
 			],
@@ -6492,7 +6492,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Remallia is a 13th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 16}, {@hit 8} to hit with spell attacks). She has the following wizard spells prepared:"
+						"Remallia è un incantatore di 13° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 16}, {@hit 8} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -6564,19 +6564,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Remallia has a {@item Figurine of Wondrous Power, Silver Raven||figurine of wondrous power (silver raven)}."
+						"Remallia ha un {@item Figurine of Wondrous Power, Silver Raven||figurine of wondrous power (silver raven)}."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Remallia has advantage on saving throws against being {@condition charmed}, and magic can't put her to sleep."
+						"Remallia ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarla."
 					]
 				},
 				{
 					"name": "Arcane Ward",
 					"entries": [
-						"Remallia has a magical ward that has 30 hit points. Whenever she takes damage, the ward takes the damage instead. If the ward is reduced to 0 hit points, Remallia takes any remaining damage. When Remallia casts an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell. This applies to any of the following spells she casts: {@spell alarm}, {@spell mage armor}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell stoneskin}, {@spell globe of invulnerability} and {@spell symbol}."
+						"Remallia ha una protezione magica che ha 30 punti ferita. Ogni volta che lei subisce danni, la protezione subisce invece il danno. Se la protezione viene ridotta a 0 punti ferita, Remallia subisce tutti i danni rimanenti. Quando Remallia lancia un incantesimo di abiurazione di 1° livello o superiore, la tutela recupera un numero di punti ferita pari al doppio del livello dell'incantesimo. Questo si applica a qualsiasi dei seguenti incantesimi che lancia: {@spell alarm}, {@spell mage armor}, {@spell shield}, {@spell arcane lock}, {@spell counterspell}, {@spell dispel magic}, {@spell banishment}, {@spell stoneskin}, {@spell globe of invulnerability} e {@spell symbol}."
 					]
 				}
 			],
@@ -6584,7 +6584,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -6696,13 +6696,13 @@
 				{
 					"name": "Lightfooted",
 					"entries": [
-						"The swashbuckler can take the Dash or Disengage action as a bonus action on each of its turns."
+						"L'intrepido può effettuare l'azione Scattare o Disingaggiarsi come azione bonus in ciascuno dei suoi turni."
 					]
 				},
 				{
 					"name": "Suave Defense",
 					"entries": [
-						"While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its Charisma modifier."
+						"Mentre l'intrepido indossa un'armatura leggera o non la indossa e non brandisce alcuno scudo, la sua CA include il suo modificatore di Carisma."
 					]
 				}
 			],
@@ -6710,19 +6710,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The swashbuckler makes three attacks: one with a dagger and two with its rapier."
+						"L'intrepido effettua tre attacchi: uno con il pugnale e due con lo stocco."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage. Or Ranged Weapon Attack: {@hit 6} to hit, range 20/60 ft., one target. {@h}6 ({@damage 1d4 + 4}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d4 + 4}) danno perforante. Oppure attacco con arma a distanza: {@hit 6} per colpire, portata 20/60 piedi, un bersaglio. {@h}6 ({@damage 1d4 + 4}) danno perforante."
 					]
 				},
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) piercing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}8 ({@damage 1d8 + 4}) danno perforante."
 					]
 				}
 			],
@@ -6810,7 +6810,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Rishaal is a 9th-level spellcaster. His spellcasting ability is Intelligence. Rishaal has the following wizard spells prepared:"
+						"Rishaal è un incantatore di 9° livello. La sua abilità da incantatore è l'Intelligenza. Rishaal ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -6866,13 +6866,13 @@
 				{
 					"name": "Breath Weapon",
 					"entries": [
-						"Rishaal can use his action to exhale a 15-foot cone of fire (but can't do this again until he finishes a short or long rest); each creature in the cone must make a {@dc 10} Dexterity saving throw, taking {@damage 2d6} fire damage on a failed save, or half as much damage on a successful one."
+						"Rishaal può usare la sua azione per esalare un cono di fuoco di 4,5 metri (ma non può farlo di nuovo finché non termina un riposo breve o lungo); ogni creatura nel cono deve effettuare un tiro salvezza su Destrezza {@dc 10}, subendo {@damage 2d6} danni da fuoco se fallisce il tiro salvezza, o la metà dei danni se lo riesce."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 5} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -6973,25 +6973,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Saeth makes two longsword attacks. If he has a shortsword drawn, he can also make a shortsword attack."
+						"Saeth effettua due attacchi con la spada lunga. Se ha estratto una spada corta, può anche effettuare un attacco con la spada corta."
 					]
 				},
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) slashing damage, or 8 ({@damage 1d10 + 3}) slashing damage if used with two hands."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni da taglio o 8 ({@damage 1d10 + 3}) danni da taglio se usato con due mani."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danno perforante."
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 3} to hit, range 100/400 ft., one target. {@h}6 ({@damage 1d10 + 1}) piercing damage."
+						"{@atk rw} {@hit 3} da colpire, portata 100/400 piedi, un bersaglio. {@h}6 ({@damage 1d10 + 1}) danno perforante."
 					]
 				}
 			],
@@ -7124,25 +7124,25 @@
 				{
 					"name": "Shapechanger",
 					"entries": [
-						"The Shard Shunner can use their action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into their true form, which is humanoid. Their statistics, other than their size, are the same in each form. Any equipment they are wearing or carrying isn't transformed. They revert to their true form if they die."
+						"Gli Shard Shunner possono usare la loro azione per trasformarsi in un ibrido ratto-umanoide o in un ratto gigante, o tornare nella loro vera forma, che è umanoide. Le loro statistiche, a parte la dimensione, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossano o trasportano non viene trasformato. Ritornano alla loro vera forma se muoiono."
 					]
 				},
 				{
 					"name": "Keen Smell",
 					"entries": [
-						"The Shard Shunner has advantage on Wisdom ({@skill Perception}) checks that rely on smell."
+						"Lo Shard Shunner dispone di vantaggio sulle prove di Saggezza ({@skill Perception}) basate sull'olfatto."
 					]
 				},
 				{
 					"name": "Halfling Nimbleness",
 					"entries": [
-						"The Shard Shunner can move through the space of creatures that is of a size larger than them."
+						"Lo Shard Shunner può muoversi attraverso lo spazio di creature di taglia più grande di loro."
 					]
 				},
 				{
 					"name": "Brave",
 					"entries": [
-						"The Shard Shunner has advantage on saving throws against being {@condition frightened}."
+						"Lo Shard Shunner ha vantaggio ai tiri salvezza contro l'essere {@condition frightened}."
 					]
 				}
 			],
@@ -7150,25 +7150,25 @@
 				{
 					"name": "Multiattack (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"The Shard Shunner makes two attacks, only one of which can be a bite."
+						"Lo Shard Shunner effettua due attacchi, solo uno dei quali può essere un morso."
 					]
 				},
 				{
 					"name": "Bite (Rat or Hybrid Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. If the target is a humanoid, it must succeed on a {@dc 11} Constitution saving throw or be cursed with wererat lycanthropy."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Se il bersaglio è un umanoide, deve riuscire un tiro salvezza su Costituzione {@dc 11} o essere maledetto dalla licantropia del ratto mannaro."
 					]
 				},
 				{
 					"name": "Shortsword (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Hand Crossbow (Humanoid or Hybrid Form Only)",
 					"entries": [
-						"{@atk rw} {@hit 4} to hit, range 30/120 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk rw} {@hit 4} da colpire, portata 30/120 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -7273,7 +7273,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Skeemo is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save {@dc 14}, {@hit 6} to hit with spell attacks) He has the following wizard spells prepared:"
+						"Skeemo è un incantatore di 9° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 14}, {@hit 6} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -7329,7 +7329,7 @@
 				{
 					"name": "Gnome Cunning",
 					"entries": [
-						"Skeemo has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
+						"Skeemo ha vantaggio sui tiri salvezza di Intelligenza, Saggezza e Carisma contro la magia."
 					]
 				}
 			],
@@ -7337,7 +7337,7 @@
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 5} to hit, range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -7442,7 +7442,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Soluun's spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:"
+						"L'abilità da incantatore di Soluun è Carisma. Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell dancing lights}"
@@ -7461,31 +7461,31 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Soluun has advantage on saving throws against being {@condition charmed}, and magic can't put Soluun to sleep."
+						"Soluun ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentare Soluun."
 					]
 				},
 				{
 					"name": "Gunslinger",
 					"entries": [
-						"Being within 5 feet of a hostile creature or attacking at long range doesn't impose disadvantage on Soluun's ranged attack rolls with a pistol. In addition, Soluun ignores {@quickref Cover||3||half cover} and {@quickref Cover||3||three-quarters cover} when making ranged attacks with a pistol."
+						"Trovarsi entro 1,5 metri da una creatura ostile o attaccare a lunga distanza non impone svantaggio ai tiri per colpire a distanza di Soluun con una pistola. Inoltre, Soluun ignora {@quickref Cover||3||half cover} e {@quickref Cover||3||three-quarters cover} quando effettua attacchi a distanza con una pistola."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, Soluun has disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+						"Mentre è alla luce del sole, Soluun ha svantaggio ai tiri per colpire, così come alle prove di Saggezza ({@skill Perception}) che si basano sulla vista."
 					]
 				},
 				{
 					"name": "Equipment",
 					"entries": [
-						"Four packets of smokepowder and a pouch containing 20 pistol bullets"
+						"Quattro pacchetti di polvere da sparo e un sacchetto contenente 20 proiettili di pistola"
 					]
 				},
 				{
 					"name": "Boots of Elvenkind",
 					"entries": [
-						"Whilst wearing these boots Soluun's steps make no sound and he has advantage on any Dexterity ({@skill Stealth}) checks that rely on moving silently."
+						"Mentre indossa questi stivali, i passi di Soluun non emettono alcun suono e ha vantaggio su tutte le prove di Destrezza ({@skill Stealth}) che si basano sul muoversi silenziosamente."
 					]
 				}
 			],
@@ -7493,19 +7493,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Soluun makes two scimitar attacks."
+						"Soluun effettua due attacchi con la scimitarra."
 					]
 				},
 				{
 					"name": "Scimitar",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d6 + 4}) slashing damage."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d6 + 4}) danni taglienti."
 					]
 				},
 				{
 					"name": "Poisonous Pistol",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 30/90 ft., one target. {@h}9 ({@damage 1d10 + 4}) piercing damage plus 11 ({@damage 2d10}) poison damage."
+						"{@atk rw} {@hit 6} per colpire, portata 30/90 piedi, un bersaglio. {@h}9 ({@damage 1d10 + 4}) danni perforanti più 11 ({@damage 2d10}) danni da veleno."
 					]
 				}
 			],
@@ -7622,7 +7622,7 @@
 				{
 					"name": "Swarm",
 					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny book. The swarm can't regain hit points or gain temporary hit points."
+						"Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e lo sciame può muoversi attraverso qualsiasi apertura abbastanza grande da contenere un libro Minuscolo. Lo sciame non può recuperare punti ferita o guadagnare punti ferita temporanei."
 					]
 				}
 			],
@@ -7630,7 +7630,7 @@
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 0 ft., one creature in the swarm's space. {@h}5 ({@damage 2d4}) bludgeoning damage, or 2 ({@damage 1d4}) bludgeoning damage if the swarm has half of its hit points or fewer."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 0 piedi, una creatura nello spazio dello sciame. {@h}5 ({@damage 2d4}) danni contundenti o 2 ({@damage 1d4}) danni contundenti se lo sciame ha la metà dei suoi punti ferita o meno."
 					]
 				}
 			],
@@ -7711,31 +7711,31 @@
 				{
 					"name": "Constructed Nature",
 					"entries": [
-						"The swarm doesn't require air, food, drink, or sleep."
+						"Lo sciame non necessita di aria, cibo, bevande o sonno."
 					]
 				},
 				{
 					"name": "Swarm",
 					"entries": [
-						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points."
+						"Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e lo sciame può muoversi attraverso qualsiasi apertura abbastanza grande per un insetto Minuscolo. Lo sciame non può recuperare punti ferita o guadagnare punti ferita temporanei."
 					]
 				},
 				{
 					"name": "Spider Climb",
 					"entries": [
-						"The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+						"Lo sciame può arrampicarsi su superfici difficili, compresi i soffitti a testa in giù, senza bisogno di effettuare una prova di caratteristica."
 					]
 				},
 				{
 					"name": "Web Sense",
 					"entries": [
-						"While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web."
+						"Mentre è in contatto con una rete, lo sciame conosce l'esatta posizione di qualsiasi altra creatura in contatto con la stessa rete."
 					]
 				},
 				{
 					"name": "Web Walker",
 					"entries": [
-						"The swarm ignores movement restrictions caused by webbing."
+						"Lo sciame ignora le restrizioni al movimento causate dalla ragnatela."
 					]
 				}
 			],
@@ -7743,7 +7743,7 @@
 				{
 					"name": "Bites",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 0 ft., one target in the swarm's space. {@h}10 ({@damage 4d4}) piercing damage, or 5 ({@damage 2d4}) piercing damage if the swarm has half of its hit points or fewer."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 0 piedi, un bersaglio nello spazio dello sciame. {@h}10 ({@damage 4d4}) danni perforanti o 5 ({@damage 2d4}) danni perforanti se lo sciame ha la metà dei suoi punti ferita o meno."
 					]
 				}
 			],
@@ -7803,7 +7803,7 @@
 				{
 					"name": "Water Breathing",
 					"entries": [
-						"Sylgar can breathe only underwater."
+						"Sylgar può respirare solo sott'acqua."
 					]
 				}
 			],
@@ -7811,7 +7811,7 @@
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}1 piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}1 danno perforante."
 					]
 				}
 			],
@@ -7879,7 +7879,7 @@
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Tally has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Tally ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				}
 			],
@@ -7887,7 +7887,7 @@
 				{
 					"name": "Club",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danni contundenti."
 					]
 				}
 			],
@@ -7971,19 +7971,19 @@
 				{
 					"name": "Indomitable (2/Day)",
 					"entries": [
-						"Tashlyn can reroll a saving throw that she fails. She must use the new roll."
+						"Tashlyn può ripetere il tiro salvezza che fallisce. Deve usare il nuovo tiro."
 					]
 				},
 				{
 					"name": "Second Wind (Recharges after a Short or Long Rest)",
 					"entries": [
-						"As a bonus action, Tashlyn can regain 20 hit points."
+						"Come azione bonus, Tashlyn può recuperare 20 punti ferita."
 					]
 				},
 				{
 					"name": "Extra Damage",
 					"entries": [
-						"Tashlyn deals an extra 7 ({@damage 2d6}) damage to every hit if she has more than half her hit points remaining."
+						"Tashlyn infligge 7 ({@damage 2d6}) danni extra a ogni colpo se le restano più della metà dei suoi punti ferita."
 					]
 				}
 			],
@@ -7991,19 +7991,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Tashlyn makes three attacks with her greatsword or her shortbow."
+						"Tashlyn effettua tre attacchi con lo spadone o con l'arco corto."
 					]
 				},
 				{
 					"name": "Greatsword",
 					"entries": [
-						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) slashing damage."
+						"{@atk mw} {@hit 8} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni taglienti."
 					]
 				},
 				{
 					"name": "Shortbow",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 80/320 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk rw} {@hit 6} da colpire, portata 80/320 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -8099,7 +8099,7 @@
 				{
 					"name": "Dwarven Resilience",
 					"entries": [
-						"Thorvin has advantage on saving throws against poison and resistance to poison damage."
+						"Thorvin ha vantaggio ai tiri salvezza contro il veleno e alla resistenza ai danni da veleno."
 					]
 				}
 			],
@@ -8107,7 +8107,7 @@
 				{
 					"name": "Club",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d4}) bludgeoning damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}2 ({@damage 1d4}) danni contundenti."
 					]
 				}
 			],
@@ -8185,7 +8185,7 @@
 				{
 					"name": "Reckless",
 					"entries": [
-						"At the start of his turn, Thrakkus can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn."
+						"All'inizio del suo turno, Thrakkus può ottenere vantaggio su tutti i tiri per colpire con armi da mischia durante quel turno, ma i tiri per colpire contro di lui hanno vantaggio fino all'inizio del suo turno successivo."
 					]
 				}
 			],
@@ -8193,13 +8193,13 @@
 				{
 					"name": "Greataxe",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d12 + 3}) slashing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 1d12 + 3}) danni taglienti."
 					]
 				},
 				{
 					"name": "Breath Weapon (1/Day)",
 					"entries": [
-						"Thrakkus can use his action to exhale a 15-foot cone of fire. Each creature in the cone must make a {@dc 13} Dexterity saving throw, taking 6 ({@damage 2d6}) fire damage on a failed save, or half as much damage on a successful one."
+						"Thrakkus può usare la sua azione per emettere un cono di fuoco di 4,5 metri. Ogni creatura nel cono deve effettuare un tiro salvezza su Destrezza {@dc 13} e subisce 6 ({@damage 2d6}) danni da fuoco se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -8293,7 +8293,7 @@
 					"name": "Innate Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Tissina's spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:"
+						"L'abilità da incantatore di Tissina è Carisma. Può lanciare in modo innato i seguenti incantesimi, senza richiedere componenti materiali:"
 					],
 					"will": [
 						"{@spell thaumaturgy}"
@@ -8304,7 +8304,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Tissina is a 4th-level spellcaster. Her spellcasting ability is Wisdom. Tissina has the following cleric spells prepared:"
+						"Tissina è un incantatore di 4° livello. La sua abilità da incantatore è Saggezza. Tissina ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -8337,7 +8337,7 @@
 				{
 					"name": "Dark Devotion",
 					"entries": [
-						"Tissina has advantage on saving throws against being {@condition charmed} or {@condition frightened}."
+						"Tissina ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} o {@condition frightened}."
 					]
 				}
 			],
@@ -8345,13 +8345,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Tissina makes two melee attacks."
+						"Tissina effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing damage. Or Ranged Weapon Attack: {@hit 4} to hit, range 20/60 ft., one creature. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}4 ({@damage 1d4 + 2}) danno perforante. Oppure attacco con arma a distanza: {@hit 4} per colpire, portata 20/60 piedi, una creatura. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				}
 			],
@@ -8462,19 +8462,19 @@
 				{
 					"name": "Assassinate",
 					"entries": [
-						"During its first turn, Urstul has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Urstul scores against a {@status surprised} creature is a critical hit."
+						"Durante il suo primo turno, Urstul ha vantaggio ai tiri per colpire contro qualsiasi creatura che non abbia svolto un turno. Qualsiasi colpo che Urstul mette a segno contro una creatura {@status surprised} è un colpo critico."
 					]
 				},
 				{
 					"name": "Evasion",
 					"entries": [
-						"If Urstul is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, Urstul instead takes no damage if he succeeds on the saving throw, and only half damage if it fails."
+						"Se Urstul è soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire solo la metà dei danni, Urstul invece non subisce danni se riesce nel tiro salvezza, e solo la metà dei danni se fallisce."
 					]
 				},
 				{
 					"name": "Sneak Attack (1/Turn)",
 					"entries": [
-						"Urstul deals an extra 14 ({@damage 4d6}) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Urstul that isn't {@condition incapacitated} and Urstul doesn't have disadvantage on the attack roll."
+						"Urstul infligge 14 ({@damage 4d6}) danni extra quando colpisce un bersaglio con un attacco con un'arma e ha vantaggio sul tiro per colpire, o quando il bersaglio si trova entro 5 piedi da un alleato di Urstul che non lo è {@condition incapacitated} e Urstul non ha svantaggio sul tiro per colpire."
 					]
 				}
 			],
@@ -8482,19 +8482,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Urstul makes two shortsword attacks."
+						"Urstul effettua due attacchi con la spada corta."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage, and the target must make a {@dc 15} Constitution saving throw, taking 24 ({@damage 7d6}) poison damage on a failed save, or half as much damage on a successful one."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d6 + 3}) danni perforanti, e il bersaglio deve effettuare un {@dc 15} tiro salvezza su Costituzione, subendo 24 ({@damage 7d6}) danni da veleno se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				},
 				{
 					"name": "Light Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 6} to hit, range 80/320 ft., one target. {@h}7 ({@damage 1d8 + 3}) piercing damage, and the target must make a {@dc 15} Constitution saving throw, taking 24 ({@damage 7d6}) poison damage on a failed save, or half as much damage on a successful one."
+						"{@atk rw} {@hit 6} da colpire, portata 80/320 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni perforanti, e il bersaglio deve effettuare un {@dc 15} tiro salvezza su Costituzione, subendo 24 ({@damage 7d6}) danni da veleno se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -8597,7 +8597,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Vajra is an 18th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 18}, {@hit 12} to hit with spell attacks). She has the following wizard spells prepared:"
+						"Vajra è un incantatore di 18° livello. La sua abilità da incantatore è Intelligenza (salvataggio incantesimo {@dc 18}, {@hit 12} per colpire con attacchi con incantesimo). Ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -8685,19 +8685,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Vajra wields the {@item Blackstaff|WDH}, accounted for in her statistics. Roll {@dice 2d10} to determine how many charges the staff has remaining."
+						"Vajra brandisce il {@item Blackstaff|WDH}, indicato nelle sue statistiche. Tira {@dice 2d10} per determinare quante cariche restano al personale."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"Vajra has advantage on saving throws against spells and other magical effects."
+						"Vajra ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Staff Spells",
 					"entries": [
-						"While holding the {@item Blackstaff|WDH}, Vajra can use an action to expend 1 or more of its charges to cast one of the following spells from it, using her spell save DC and spell attack bonus: {@spell cone of cold} (5 charges), {@spell fireball} (5th-level version, 5 charges), {@spell globe of invulnerability} (6 charges), {@spell hold monster} (5 charges), {@spell levitate} (2 charges), {@spell lightning bolt} (5th-level version, 5 charges), {@spell magic missile} (1 charge), {@spell ray of enfeeblement} (1 charge), or {@spell wall of force} (5 charges)."
+						"Mentre tiene il {@item Blackstaff|WDH}, Vajra può usare un'azione per spendere 1 o più delle sue cariche per lanciare uno dei seguenti incantesimi, usando la sua CD del salvataggio dell'incantesimo e il bonus di attacco dell'incantesimo: {@spell cone of cold} (5 cariche), {@spell fireball} (versione di 5° livello, 5 cariche), {@spell globe of invulnerability} (6 cariche), {@spell hold monster} (5 cariche), {@spell levitate} (2 cariche), {@spell lightning bolt} (versione di 5° livello, 5 cariche), {@spell magic missile} (1 carica), {@spell ray of enfeeblement} (1 addebito) o {@spell wall of force} (5 addebiti)."
 					]
 				}
 			],
@@ -8705,7 +8705,7 @@
 				{
 					"name": "Blackstaff",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) bludgeoning, magic damage, or 6 ({@damage 1d8 + 2}) bludgeoning, magic damage when used with two hands. Vajra can expend 1 of the staff's charges to deal an extra 3 ({@damage 1d6}) force damage on a hit."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) contundente, danno magico o 6 ({@damage 1d8 + 2}) contundente, danno magico se usato con due mani. Vajra può spendere 1 delle cariche del bastone per infliggere 3 ({@damage 1d6}) danni di forza aggiuntivi in ​​caso di colpo."
 					]
 				}
 			],
@@ -8808,7 +8808,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Valetta is a 5th-level spellcaster. Her spellcasting ability is Wisdom. Valetta has the following cleric spells prepared:"
+						"Valetta è un incantatore di 5° livello. La sua abilità da incantatore è Saggezza. Valetta ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -8848,7 +8848,7 @@
 				{
 					"name": "Divine Eminence",
 					"entries": [
-						"As a bonus action, Valetta can expend a spell slot to cause her melee weapon attacks to magically deal an extra 10 ({@damage 3d6}) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Valetta expends a spell slot of 2nd level or higher, the extra damage increases by {@damage 1d6} for each level above 1st."
+						"Come azione bonus, Valetta può spendere uno slot incantesimo per far sì che i suoi attacchi con l'arma da mischia infliggano magicamente 10 ({@damage 3d6}) danni radiosi extra a un bersaglio in caso di colpo. Questo beneficio dura fino alla fine del turno. Se Valetta spende uno slot incantesimo di 2° livello o superiore, il danno extra aumenta del {@damage 1d6} per ogni livello superiore al 1°."
 					]
 				}
 			],
@@ -8856,13 +8856,13 @@
 				{
 					"name": "Breathe Weapon",
 					"entries": [
-						"Valetta can use her action to exhale a 5-foot-wide, 30-foot line of lightning (but can't do this again until she finishes a short or long rest); each creature in the line must make a {@dc 11} Dexterity saving throw, taking {@damage 2d6} lightning damage on a failed save, or half as much damage on a successful one."
+						"Valetta può usare la sua azione per esalare una linea di fulmini larga 1,5 metri e lunga 9 metri (ma non può farlo di nuovo finché non termina un riposo breve o lungo); ogni creatura in linea deve effettuare un tiro salvezza su Destrezza {@dc 11} e subisce {@damage 2d6} danni da fulmine se fallisce il tiro salvezza, o la metà dei danni se lo riesce."
 					]
 				},
 				{
 					"name": "Mace",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d6}) danni contundenti."
 					]
 				}
 			],
@@ -8973,7 +8973,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Victoro is a 15th-level spellcaster. His spellcasting ability is Wisdom (spell save {@dc 15}, {@hit 7} to hit with spell attacks). Victoro has the following cleric spells prepared:"
+						"Victoro è un incantatore di 15° livello. La sua abilità da incantatore è Saggezza (salvezza incantesimo {@dc 15}, {@hit 7} per colpire con attacchi con incantesimo). Victoro ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -9061,19 +9061,19 @@
 				{
 					"name": "Special Equipment",
 					"entries": [
-						"Victoro wears a {@item ring of protection} and {@item glamoured studded leather} disguised to look like fine clothing. He carries a {@item rod of rulership} shaped like a ruby-tipped cane."
+						"Victoro indossa un {@item ring of protection} e {@item glamoured studded leather} travestiti per sembrare abiti eleganti. Porta un {@item rod of rulership} a forma di bastone con la punta di rubino."
 					]
 				},
 				{
 					"name": "Fey Ancestry",
 					"entries": [
-						"Victoro has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+						"Victoro ha vantaggio ai tiri salvezza contro l'essere {@condition charmed} e la magia non può addormentarlo."
 					]
 				},
 				{
 					"name": "Rod of Rulership",
 					"entries": [
-						"Victoro can use an action to present the rod and command obedience from each creature of his choice that he can see within 120 feet of him. Each target must succeed on a {@dc 15} Wisdom saving throw or be {@condition charmed} for 8 hours by Victoro. While {@condition charmed} in this way, the creature regards Victoro as its trusted leader. If harmed by Victoro or his companions, or commanded to do something contrary to its nature, a target ceases to be {@condition charmed} in this way. The rod can't be used again until the next dawn."
+						"Victoro può usare un'azione per presentare la verga e comandare l'obbedienza da ogni creatura di sua scelta che può vedere entro 120 piedi da lui. Ogni bersaglio deve riuscire in un tiro salvezza su Saggezza {@dc 15} o essere {@condition charmed} per 8 ore da Victoro. Mentre {@condition charmed} in questo modo, la creatura considera Victoro il suo leader fidato. Se viene danneggiato da Victoro o dai suoi compagni, o gli viene comandato di fare qualcosa di contrario alla sua natura, un bersaglio cessa di essere {@condition charmed} in questo modo. La verga non potrà essere utilizzata di nuovo fino all'alba successiva."
 					]
 				}
 			],
@@ -9081,25 +9081,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Victoro makes two attacks with his rapier."
+						"Victoro effettua due attacchi con il suo stocco."
 					]
 				},
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing damage."
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danno perforante."
 					]
 				},
 				{
 					"name": "Cloak of Shadows (2/Day)",
 					"entries": [
-						"Victoro becomes {@condition invisible} until the end of his next turn. He becomes visible early immediately after he attacks or casts a spell."
+						"Victoro diventa {@condition invisible} fino alla fine del suo prossimo turno. Diventa visibile subito dopo aver attaccato o lanciato un incantesimo."
 					]
 				},
 				{
 					"name": "Summon Devil (Recharges after 9 Days)",
 					"entries": [
-						"Victoro summons a {@creature barbed devil}. The devil appears in an unoccupied space within 30 feet of Victoro, acts as Victoro's ally, and can't summon other devils. It remains for 1 minute, until it or Victoro dies, or until Victoro dismisses it as an action."
+						"Victoro evoca un {@creature barbed devil}. Il diavolo appare in uno spazio non occupato entro 9 metri da Victoro, agisce come alleato di Victoro e non può evocare altri diavoli. Rimane per 1 minuto, finché lui o Victoro non muoiono, o finché Victoro non lo interrompe con un'azione."
 					]
 				}
 			],
@@ -9250,25 +9250,25 @@
 				{
 					"name": "Crumbling Colossus",
 					"entries": [
-						"When the statue drops to 0 hit points, it crumbles and is destroyed. Any creature on the ground within 30 feet of the crumbling statue must make a {@dc 22} Dexterity saving throw, taking 22 ({@damage 4d10}) bludgeoning damage on a failed save, or half as much damage on a successful one."
+						"Quando la statua scende a 0 punti ferita, si sbriciola e viene distrutta. Qualsiasi creatura a terra entro 9 metri dalla statua fatiscente deve effettuare un tiro salvezza su Destrezza {@dc 22} e subisce 22 ({@damage 4d10}) danni contundenti se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				},
 				{
 					"name": "Immutable Form",
 					"entries": [
-						"The statue is immune to any spell or effect that would alter its form."
+						"La statua è immune a qualsiasi incantesimo o effetto che ne alteri la forma."
 					]
 				},
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The statue has advantage on saving throws against spells and other magical effects."
+						"La statua dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Siege Monster",
 					"entries": [
-						"The statue deals double damage to objects and structures."
+						"La statua infligge danni doppi a oggetti e strutture."
 					]
 				}
 			],
@@ -9276,19 +9276,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The statue makes two melee attacks."
+						"La statua effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Slam",
 					"entries": [
-						"{@atk mw} {@hit 16} to hit, reach 5 ft., one target. {@h}29 ({@damage 3d12 + 10}) bludgeoning damage."
+						"{@atk mw} {@hit 16} per colpire, raggiungere 5 piedi, un bersaglio. {@h}29 ({@damage 3d12 + 10}) danni contundenti."
 					]
 				},
 				{
 					"name": "Hurled Stone",
 					"entries": [
-						"{@atk rw} {@hit 16} to hit, range 200/800 ft., one target. {@h}43 ({@damage 6d10 + 10}) bludgeoning damage."
+						"{@atk rw} {@hit 16} da colpire, portata 200/800 piedi, un bersaglio. {@h}43 ({@damage 6d10 + 10}) danni contundenti."
 					]
 				}
 			],
@@ -9359,7 +9359,7 @@
 						"items": {
 							"name": "Special Equipment",
 							"entries": [
-								"Xanathar wears a {@item ring of invisibility}, a {@item ring of mind shielding}, and a {@item ring of force resistance||ring of resistance (force)}."
+								"Xanathar indossa un {@item ring of invisibility}, un {@item ring of mind shielding} e un {@item ring of force resistance||ring of resistance (force)}."
 							]
 						}
 					}
@@ -9427,19 +9427,19 @@
 				{
 					"name": "Relentless Endurance",
 					"entries": [
-						"When reduced to 0 hit points, Yagra drops to 1 hit point instead (but can't do this again until she finishes a long rest)."
+						"Quando viene ridotta a 0 punti ferita, Yagra scende invece a 1 punto ferita (ma non può farlo di nuovo finché non termina un riposo lungo)."
 					]
 				},
 				{
 					"name": "Pack Tactics",
 					"entries": [
-						"Yagra has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
+						"Yagra ha vantaggio su un tiro per colpire contro una creatura se almeno uno dei suoi alleati si trova entro 1,5 piedi dalla creatura e l'alleato no {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Savage Attacks",
 					"entries": [
-						"When she scores a critical hit Yagra can roll one of the weapon's damage dice and add it to the extra damage of the critical hit."
+						"Quando mette a segno un colpo critico, Yagra può lanciare uno dei dadi di danno dell'arma e aggiungerlo al danno extra del colpo critico."
 					]
 				}
 			],
@@ -9447,19 +9447,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Yagra makes two melee attacks."
+						"Yagra effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Mace",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}5 ({@damage 1d6 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 2} to hit, range 100/400 ft., one target. {@h}5 ({@damage 1d10}) piercing damage."
+						"{@atk rw} {@hit 2} da colpire, portata 100/400 piedi, un bersaglio. {@h}5 ({@damage 1d10}) danno perforante."
 					]
 				}
 			],
@@ -9552,7 +9552,7 @@
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing damage."
+						"{@atk mw} {@hit 3} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danno perforante."
 					]
 				}
 			],
@@ -9560,7 +9560,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"Yalah adds 2 to its AC against one melee attack that would hit it. To do so, Yalah must see the attacker and be wielding a melee weapon."
+						"Yalah aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per fare ciò, Yalah deve vedere l'attaccante e impugnare un'arma da mischia."
 					]
 				}
 			],
@@ -9641,13 +9641,13 @@
 				{
 					"name": "Pack Tactics",
 					"entries": [
-						"The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't {@condition incapacitated}."
+						"Il delinquente ha vantaggio su un tiro per colpire contro una creatura se almeno uno dei suoi alleati si trova entro 1,5 piedi dalla creatura e l'alleato no {@condition incapacitated}."
 					]
 				},
 				{
 					"name": "Relentless Endurance (1/Day)",
 					"entries": [
-						"When reduced to 0 hit points Yorn drops to 1 hit point instead."
+						"Quando viene ridotto a 0 punti ferita, Yorn scende invece a 1 punto ferita."
 					]
 				}
 			],
@@ -9655,19 +9655,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The thug makes two melee attacks."
+						"Il delinquente effettua due attacchi in mischia."
 					]
 				},
 				{
 					"name": "Mace",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one creature. {@h}5 ({@damage 1d6 + 2}) bludgeoning damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, una creatura. {@h}5 ({@damage 1d6 + 2}) danni contundenti."
 					]
 				},
 				{
 					"name": "Heavy Crossbow",
 					"entries": [
-						"{@atk rw} {@hit 2} to hit, range 100/400 ft., one target. {@h}5 ({@damage 1d10}) piercing damage."
+						"{@atk rw} {@hit 2} da colpire, portata 100/400 piedi, un bersaglio. {@h}5 ({@damage 1d10}) danno perforante."
 					]
 				}
 			],
@@ -9752,19 +9752,19 @@
 				{
 					"name": "Halfling Nimbleness",
 					"entries": [
-						"The adept can move through the space of a medium of larger creature."
+						"L'adepto può muoversi attraverso lo spazio di un medium o di una creatura più grande."
 					]
 				},
 				{
 					"name": "Brave",
 					"entries": [
-						"The adept has advantage on any saving throws against being {@condition frightened}."
+						"L'adepto ha vantaggio su qualsiasi tiro salvezza contro l'essere {@condition frightened}."
 					]
 				},
 				{
 					"name": "Unarmored Defense",
 					"entries": [
-						"While the adept is wearing no armor and wielding no shield, their AC includes their Wisdom modifier."
+						"Anche se l'adepto non indossa alcuna armatura e non brandisce alcuno scudo, la sua CA include il suo modificatore di Saggezza."
 					]
 				}
 			],
@@ -9772,19 +9772,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The adept makes three unarmed strikes or three dart attacks."
+						"L'adepto effettua tre colpi senz'armi o tre attacchi con i dardi."
 					]
 				},
 				{
 					"name": "Unarmed Strike",
 					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 ({@damage 1d8 + 3}) bludgeoning damage. If the target is a creature, the adept can choose one of the following additional effects:",
+						"{@atk mw} {@hit 5} per colpire, raggiungere 5 piedi, un bersaglio. {@h}7 ({@damage 1d8 + 3}) danni contundenti. Se il bersaglio è una creatura, l'adepto può scegliere uno dei seguenti effetti aggiuntivi:",
 						{
 							"type": "list",
 							"items": [
-								"The target must succeed on a {@dc 13} Strength saving throw or drop one item it is holding (adept's choice).",
-								"The target must succeed on a {@dc 13} Dexterity saving throw or be knocked {@condition prone}.",
-								"The target must succeed on a {@dc 13} Constitution saving throw or be {@condition stunned} until the end of the adept's next turn."
+								"Il bersaglio deve riuscire in un tiro salvezza sulla Forza {@dc 13} o lasciare cadere un oggetto che tiene (a scelta dell'adepto).",
+								"Il bersaglio deve riuscire in un tiro salvezza di Destrezza {@dc 13} o essere colpito {@condition prone}.",
+								"Il bersaglio deve riuscire in un tiro salvezza su Costituzione {@dc 13} o essere {@condition stunned} fino alla fine del turno successivo dell'adepto."
 							]
 						}
 					]
@@ -9792,7 +9792,7 @@
 				{
 					"name": "Dart",
 					"entries": [
-						"{@atk rw} {@hit 5} to hit, range 20/60 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage."
+						"{@atk rw} {@hit 5} per colpire, portata 20/60 piedi, un bersaglio. {@h}5 ({@damage 1d4 + 3}) danno perforante."
 					]
 				}
 			],
@@ -9800,7 +9800,7 @@
 				{
 					"name": "Deflect Missile",
 					"entries": [
-						"In response to being hit by a ranged weapon attack, the adept deflects the missile. The damage it takes from the attack is reduced by {@dice 1d10 + 3}. If the damage is reduced to 0, the adept catches the missile if it's small enough to hold in one hand and the adept has a hand free."
+						"In risposta all'essere colpito da un attacco con arma a distanza, l'adepto devia il missile. Il danno subito dall'attacco è ridotto del {@dice 1d10 + 3}. Se il danno viene ridotto a 0, l'adepto afferra il missile se è abbastanza piccolo da poterlo tenere in una mano e l'adepto ha una mano libera."
 					]
 				}
 			],
@@ -9899,7 +9899,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Ziraj is a 10th-level spellcaster. His spellcasting ability is Charisma. He has the following paladin spells prepared:"
+						"Ziraj è un incantatore di 10° livello. La sua abilità da incantatore è il Carisma. Ha preparato i seguenti incantesimi da paladino:"
 					],
 					"spells": {
 						"1": {
@@ -9932,25 +9932,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ziraj makes three attacks with his glaive or with his oversized longbow."
+						"Ziraj effettua tre attacchi con il suo falcione o con il suo arco lungo sovradimensionato."
 					]
 				},
 				{
 					"name": "Glaive",
 					"entries": [
-						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d10 + 4}) slashing damage."
+						"{@atk mw} {@hit 7} per colpire, raggiungere 5 piedi, un bersaglio. {@h}9 ({@damage 1d10 + 4}) danni taglienti."
 					]
 				},
 				{
 					"name": "Oversized Longbow",
 					"entries": [
-						"{@atk rw} {@hit 7} to hit, range 150/600 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage."
+						"{@atk rw} {@hit 7} da colpire, portata 150/600 piedi, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni perforanti."
 					]
 				},
 				{
 					"name": "Dreadful Aspect (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Ziraj exudes magical menace. Each enemy within 30 feet of him must succeed on a {@dc 13} Wisdom saving throw or be {@condition frightened} for 1 minute of Ziraj. If a {@condition frightened} enemy ends its turn more than 30 feet away from Ziraj, the enemy can repeat the saving throw, ending the effect on itself on a success."
+						"Ziraj emana una minaccia magica. Ogni nemico entro 9 metri da lui deve riuscire in un tiro salvezza su Saggezza {@dc 13} o essere {@condition frightened} per 1 minuto di Ziraj. Se un nemico {@condition frightened} termina il suo turno a più di 9 metri di distanza da Ziraj, il nemico può ripetere il tiro salvezza, terminando l'effetto su se stesso in caso di successo."
 					]
 				}
 			],

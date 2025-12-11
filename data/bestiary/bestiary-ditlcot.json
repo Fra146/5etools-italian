@@ -69,7 +69,7 @@
 					"name": "Communal Spellcasting (2/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pech works with three or more pechs to cast spells, requiring no spell components and using Wisdom as the spellcasting ability (save {@dc 12}). If at least three other pechs are within 30 feet of it, the pech can cast {@spell Wall of Stone}. If at least seven other pechs are within 30 feet of it, it can cast {@spell Greater Restoration}. Each other pech involved in casting the spell can't have the incapacitated condition and must have at least one use of Communal Spellcasting remaining, which it must immediately expend to participate (no action required)."
+						"Il pech funziona con tre o più pech per lanciare incantesimi, non richiede componenti di incantesimi e utilizza Saggezza come abilità di lancio degli incantesimi (salvezza {@dc 12}). Se almeno altri tre pech si trovano entro 9 metri da esso, il pech può lanciare {@spell Wall of Stone}. Se almeno altri sette pech si trovano entro 9 metri da esso, può lanciare {@spell Greater Restoration}. Ogni altro pech coinvolto nel lancio dell'incantesimo non può avere la condizione Incapacitato e deve avere almeno un uso rimanente del Lancio di Incantesimi Comuni, che deve immediatamente spendere per partecipare (non è richiesta alcuna azione)."
 					],
 					"daily": {
 						"2": [
@@ -87,7 +87,7 @@
 					"name": "Stone Shape (3/Day)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The pech casts {@spell Stone Shape}, requiring no spell components and using Wisdom as the spellcasting ability."
+						"Il pech lancia {@spell Stone Shape}, non richiede componenti di incantesimi e utilizza Saggezza come abilità di lancio di incantesimi."
 					],
 					"daily": {
 						"3e": [
@@ -105,13 +105,13 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The pech has advantage on saving throws against spells and other magical effects."
+						"Il pech dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the pech has disadvantage on attack rolls."
+						"Mentre è alla luce del sole, il pech ha svantaggio ai tiri per colpire."
 					]
 				}
 			],
@@ -119,13 +119,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The pech makes two Fortified Pickaxe attacks. If it hits a Large or smaller creature with both attacks, the target must succeed on a {@dc 14} Strength saving throw or have the {@condition prone} condition."
+						"Il pech effettua due attacchi con il piccone fortificato. Se colpisce una creatura Grande o più piccola con entrambi gli attacchi, il bersaglio deve riuscire un tiro salvezza su Forza {@dc 14} o avere la condizione {@condition prone}."
 					]
 				},
 				{
 					"name": "Fortified Pickaxe",
 					"entries": [
-						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) force damage. If the target is a Construct or an object, the attack is automatically a critical hit."
+						"{@atk mw} {@hit 6} per colpire, raggiungere 5 piedi, un bersaglio. {@h}11 ({@damage 2d6 + 4}) danni fisici. Se il bersaglio è un Costrutto o un oggetto, l'attacco è automaticamente un colpo critico."
 					]
 				}
 			],

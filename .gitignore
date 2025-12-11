@@ -29,3 +29,6 @@ sw-injector.js
 
 # Dev scripts
 dev-*.sh
+
+venv/
+__pycache__/

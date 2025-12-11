@@ -14,7 +14,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Fume drakes are mischievous creatures that arise from the lingering magical energy of a dead dragon. They resemble small, legless dragons formed from clouds of greenish smoke. They delight in causing pain and confusion in other creatures."
+						"I draghi di fumo sono creature dispettose che nascono dall'energia magica persistente di un drago morto. Assomigliano a piccoli draghi senza gambe formati da nuvole di fumo verdastro. Si dilettano nel causare dolore e confusione ad altre creature."
 					]
 				}
 			]
@@ -26,8 +26,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Kobolds are reptilian Humanoids that often revere dragons. Physically weak, they find strength in numbers.",
-						"A few kobolds are born with leathery wings and can fly, which is often seen as a gift from dragon gods."
+						"I coboldi sono umanoidi rettiliani che spesso venerano i draghi. Fisicamente deboli, trovano la forza nel numero.",
+						"Alcuni coboldi nascono con ali coriacee e possono volare, cosa spesso vista come un dono degli dei draghi."
 					]
 				}
 			]
@@ -53,7 +53,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Despite her innocuous disguise and her commitment to peace, the leader of Dragon's Rest is an adult bronze dragon\u2014a fearsome opponent or a powerful ally. Her capabilities go beyond what is presented here."
+						"Nonostante il suo innocuo travestimento e il suo impegno per la pace, il leader di Dragon's Rest è un drago di bronzo adulto, un temibile avversario o un potente alleato. Le sue capacità vanno oltre ciò che viene presentato qui."
 					]
 				},
 				{
@@ -63,7 +63,7 @@
 							"type": "entries",
 							"name": "Bronze Dragons",
 							"entries": [
-								"Many bronze dragons are friendly coastal dwellers who enjoy watching ships and sailors."
+								"Molti draghi di bronzo sono amichevoli abitanti delle coste a cui piace osservare navi e marinai."
 							]
 						}
 					]
@@ -87,8 +87,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Myconids are intelligent, mobile fungi that live in caves, seek enlightenment, and dislike violence. Adult myconids live and work together in colonies and practice a form of communal meditation called a meld, in which they seek to transcend mundane reality through shared hallucination.",
-						"Myconid leaders like Sinensa use their Hallucination Spores to help myconids create melds."
+						"I miconidi sono funghi intelligenti e mobili che vivono nelle caverne, cercano l'illuminazione e non amano la violenza. I miconidi adulti vivono e lavorano insieme in colonie e praticano una forma di meditazione comunitaria chiamata fusione, in cui cercano di trascendere la realtà mondana attraverso allucinazioni condivise.",
+						"I leader dei miconidi come Sinensa usano le loro spore dell'allucinazione per aiutare i miconidi a creare combinazioni."
 					]
 				}
 			]
@@ -100,7 +100,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Spore servants are dead creatures reanimated by the magical spores of a myconid leader. The final act of the myconid leader in Seagrow Caves before lapsing into its current comatose state was creating a spore servant from a dead giant octopus to protect the caves while the leader could not. Unlike a living octopus, this guardian has only basic control over its tentacles. Rather than coiling around intruders to immobilize them, the spore servant simply bludgeons them."
+						"I servitori di spore sono creature morte rianimate dalle spore magiche di un leader miconide. L'atto finale del leader dei miconidi nelle Grotte di Seagrow, prima di cadere nel suo attuale stato comatoso, è stato creare un servitore di spore da un polipo gigante morto per proteggere le caverne mentre il leader non poteva. A differenza di un polipo vivente, questo guardiano ha solo un controllo elementare sui suoi tentacoli. Invece di avvolgersi attorno agli intrusi per immobilizzarli, il servitore delle spore li colpisce semplicemente."
 					]
 				}
 			],
@@ -122,7 +122,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Before coming to Dragon's Rest, Tarak was a criminal, but he has since devoted himself to the study of herbs and medicine. He is usually unarmed, but he keeps several daggers hidden in his cell (in area A1 of Dragon's Rest)."
+						"Prima di arrivare a Dragon's Rest, Tarak era un criminale, ma da allora si è dedicato allo studio delle erbe e della medicina. Di solito è disarmato, ma tiene diversi pugnali nascosti nella sua cella (nell'area A1 di Dragon's Rest)."
 					]
 				}
 			]
@@ -134,7 +134,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"A hardened mercenary captain, Varnoth Wender is an experienced professional fighter. She is usually unarmed, but she keeps her old sword beneath the mattress in her cell (in area A1 in Dragon's Rest)."
+						"Un capitano mercenario incallito, Varnoth Wender è un combattente professionista esperto. Di solito è disarmata, ma tiene la sua vecchia spada sotto il materasso nella sua cella (nell'area A1 di Dragon's Rest)."
 					]
 				}
 			]

@@ -7,8 +7,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Lady Alustriel Silverhand, called the Shining Lady, has been an influential wizard and proponent of good across Toril for centuries. Alustriel is one of the Seven Sisters\u2014immortal daughters of Mystra, the god of magic. The divine energy Mystra passed to Alustriel grants Alustriel incredible power over arcane magic.",
-						"Alustriel's youthful appearance as a human woman with silver hair gives no hint of her supernaturally extended life span. She typically wears long robes and wields a unicorn-headed staff, her {@i Staff of Silverymoon}."
+						"Lady Alustriel Silverhand, chiamata la Dama Splendente, è stata per secoli una maga influente e sostenitrice del bene in tutta Toril. Alustriel è una delle Sette Sorelle, figlie immortali di Mystra, il dio della magia. L'energia divina che Mystra ha trasmesso ad Alustriel conferisce ad Alustriel un incredibile potere sulla magia arcana.",
+						"L'aspetto giovanile di Alustriel come donna umana con i capelli argentati non dà alcun accenno alla sua durata di vita soprannaturalmente estesa. Di solito indossa lunghe vesti e brandisce un bastone con la testa di unicorno, il suo {@i Staff of Silverymoon}."
 					]
 				},
 				{
@@ -18,17 +18,17 @@
 							"type": "entries",
 							"name": "Personality",
 							"entries": [
-								"Alustriel's primary concerns are to spread kindness, reward virtue, and promote a culture of compassion throughout the multiverse. She is good at building alliances and quick to intervene when she senses a threat to the forces of good. She has traveled far and established safe houses across the planes\u2014such as her sanctum in the city of Sigil. Alustriel doesn't seek personal glory or wealth; her style of influencing the cosmos is quiet yet steady."
+								"Le preoccupazioni principali di Alustriel sono diffondere la gentilezza, premiare la virtù e promuovere una cultura di compassione in tutto il multiverso. È brava a costruire alleanze e pronta a intervenire quando avverte una minaccia per le forze del bene. Ha viaggiato lontano e stabilito case sicure attraverso i piani, come il suo santuario nella città di Sigil. Alustriel non cerca gloria o ricchezza personale; il suo stile di influenzare il cosmo è tranquillo ma costante."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "History",
 							"entries": [
-								"Like other Chosen of Mystra, Alustriel is concerned with preserving the Weave, the primary incarnation of magic that permeates Toril. She believes that the Weave favors those who act with mercy and compassion, seeks to deliver lives of security for all, and bolsters people's efforts when they seek to right wrongs and combat evil.",
-								"Nowhere are Alustriel and her deeds better known than in the Silver Marches and its capital, Silverymoon. Alustriel ruled Silverymoon for centuries, once disguised as a wizard named Elué Dualen and then later in her true form. She helped create Silverymoon's famous Moonbridge and co-founded the Lady's College, the first school in Faerûn for mages as students rather than as apprentices in service.",
-								"Alustriel stepped down as Silverymoon's high mage more than a century ago. Her son, Methrammar Aerasumé, now leads the city and works to uphold his mother's legacy.",
-								"Alustriel has partaken in countless adventures before and after her tenure as Silverymoon's high mage. She has befriended famous adventurers such as Drizzt Do'Urden, worked with prominent organizations like the Harpers, and helped prevent or undo many kinds of evil."
+								"Come gli altri Prescelti di Mystra, Alustriel si preoccupa di preservare la Trama, l'incarnazione primaria della magia che permea Toril. Crede che la Trama favorisca coloro che agiscono con misericordia e compassione, cerchi di offrire vite sicure a tutti e rafforzi gli sforzi delle persone quando cercano di correggere i torti e combattere il male.",
+								"Da nessuna parte Alustriel e le sue gesta sono meglio conosciute che nelle Marche d'Argento e nella sua capitale, Silverymoon. Alustriel governò Silverymoon per secoli, una volta travestito da mago chiamato Elué Dualen e poi nella sua vera forma. Ha contribuito a creare il famoso Ponte della Luna di Silverymoon e ha co-fondato il Lady's College, la prima scuola nel Faerûn per maghi come studenti piuttosto che come apprendisti in servizio.",
+								"Alustriel si è dimesso dalla carica di Alto Mago di Silverymoon più di un secolo fa. Suo figlio, Methrammar Aerasumé, ora guida la città e lavora per sostenere l'eredità di sua madre.",
+								"Alustriel ha preso parte a innumerevoli avventure prima e dopo il suo mandato come Alta Maga di Silverymoon. Ha stretto amicizia con famosi avventurieri come Drizzt Do'Urden, ha lavorato con organizzazioni importanti come gli Arpisti e ha contribuito a prevenire o annullare molti tipi di male."
 							]
 						}
 					]
@@ -54,13 +54,13 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Their existence mocks the living. Their roses mock the knights. Suffer not their presence; destroy rose bearers on sight."
+								"La loro esistenza si prende gioco dei vivi. Le loro rose si fanno beffe dei cavalieri. Non tollerare la loro presenza; distruggi i portatori di rose a vista."
 							],
 							"by": "Common saying among the Knights of Solamnia"
 						},
-						"A black rose bearer is a rotting corpse animated by necromancers on Krynn to serve as a guardian. Its name derives from the preserved black rose the bearer carries inside a delicate bell jar. The slightest jostle can cause the bearer to lose its grasp on the bell jar, destroying the jar and the flower within.",
-						"Normally, a black rose bearer is sluggish and placid. It follows its creator's orders and attacks intruders only languidly. If its rose is disturbed, however, the black rose bearer bursts into furious violence, attacking indiscriminately.",
-						"A bearer's black rose is an homage to the tyrannical Lord Soth, the most powerful death knight on Krynn, who was once a Solamnic Knight of the Order of the Rose."
+						"Un portatore di rose nere è un cadavere in decomposizione animato dai negromanti su Krynn per fungere da guardiano. Il suo nome deriva dalla rosa nera stabilizzata che il portatore porta dentro una delicata campana di vetro. Il minimo urto può far perdere la presa alla campana di vetro, distruggendo il vaso e il fiore al suo interno.",
+						"Normalmente, un portatore di rose nere è lento e placido. Segue gli ordini del suo creatore e attacca gli intrusi solo languidamente. Se la sua rosa viene disturbata, però, il portatore della rosa nera esplode in una violenza furiosa, attaccando indiscriminatamente.",
+						"La rosa nera di un portatore è un omaggio al tirannico Lord Soth, il più potente cavaliere della morte su Krynn, che un tempo era un cavaliere solamnico dell'Ordine della Rosa."
 					]
 				}
 			],
@@ -81,7 +81,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Blade lieutenants lead subordinates on raids on behalf of the Lord of Blades. Soldiers who fail to meet a lieutenant's demands are harshly disciplined."
+						"I luogotenenti delle Lame guidano i subordinati nelle incursioni per conto del Signore delle Lame. I soldati che non riescono a soddisfare le richieste di un tenente vengono severamente disciplinati."
 					]
 				},
 				{
@@ -91,7 +91,7 @@
 							"type": "entries",
 							"name": "Blades of Eberron",
 							"entries": [
-								"In the aftermath of Eberron's Last War, a warforged called the Lord of Blades rose to fill the power vacuum left in the devastated Mournland. The Lord of Blades' followers, known as blades, formed a cult of personality that deifies the Lord of Blades and preaches a bloody, jingoistic doctrine of warforged superiority. The primary tenet of the blades is that non-warforged on the continent of Khorvaire must be slaughtered."
+								"All'indomani dell'Ultima Guerra di Eberron, un forgiato chiamato il Signore delle Lame sorse per riempire il vuoto di potere lasciato nella devastata Mournland. I seguaci del Signore delle Lame, conosciuti come Blades, formarono un culto della personalità che deifica il Signore delle Lame e predica una dottrina sanguinosa e sciovinista di superiorità forgiata. Il principio principale delle lame è che i non forgiati nel continente del Khorvaire devono essere massacrati."
 							]
 						}
 					]
@@ -114,7 +114,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Blade scouts are responsible for exploring and charting Mournland regions not yet claimed by the Lord of Blades' legions."
+						"Gli esploratori della Lama sono responsabili dell'esplorazione e della mappatura delle regioni del Mournland non ancora rivendicate dalle legioni del Signore delle Lame."
 					]
 				},
 				{
@@ -124,7 +124,7 @@
 							"type": "entries",
 							"name": "Blades of Eberron",
 							"entries": [
-								"In the aftermath of Eberron's Last War, a warforged called the Lord of Blades rose to fill the power vacuum left in the devastated Mournland. The Lord of Blades' followers, known as blades, formed a cult of personality that deifies the Lord of Blades and preaches a bloody, jingoistic doctrine of warforged superiority. The primary tenet of the blades is that non-warforged on the continent of Khorvaire must be slaughtered."
+								"All'indomani dell'Ultima Guerra di Eberron, un forgiato chiamato il Signore delle Lame sorse per riempire il vuoto di potere lasciato nella devastata Mournland. I seguaci del Signore delle Lame, conosciuti come Blades, formarono un culto della personalità che deifica il Signore delle Lame e predica una dottrina sanguinosa e sciovinista di superiorità forgiata. Il principio principale delle lame è che i non forgiati nel continente del Khorvaire devono essere massacrati."
 							]
 						}
 					]
@@ -150,11 +150,11 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Even the animals in the Mournland are warped by magic. You should see the bears\u2014terrifying!"
+								"Anche gli animali del Mournland sono deformati dalla magia. Dovresti vedere gli orsi: terrificanti!"
 							],
 							"by": "Clank, Warforged Merchant from Sharn"
 						},
-						"On the world of Eberron, many strange, magic-warped monsters have emerged from the depths of the war-wracked Mournland. The blazebear is one such monster, so named for its hulking, ursine figure and the glow of its eyes. This glow is magical energy that saturates the blazebear's entire body. Swipes from a blazebear's claws dole out painful wounds and can end spells, and its gaze can stun prey."
+						"Nel mondo di Eberron, molti strani mostri magici sono emersi dalle profondità del Mournland devastato dalla guerra. L'orso blaze è uno di questi mostri, così chiamato per la sua massiccia figura da orso e il bagliore dei suoi occhi. Questo bagliore è un'energia magica che satura l'intero corpo dell'orso di fuoco. I colpi degli artigli di un blazebear causano ferite dolorose e possono porre fine agli incantesimi, mentre il suo sguardo può stordire la preda."
 					]
 				}
 			],
@@ -175,7 +175,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"A bone roc is a birdlike Undead that can incorporate the bones of multiple flying creatures. Despite their name, bone rocs aren't always reanimated skeletons of rocs. You may customize a bone roc by rolling on the Bone Roc Sources table to determine the type of bones used and how that affects its stat block.",
+						"Un Roc d'Ossa è un Non Morto simile ad un uccello che può incorporare le ossa di più creature volanti. Nonostante il loro nome, i Roc d'Osso non sono sempre scheletri di Roc rianimati. Puoi personalizzare un Bone Roc tirando sulla tabella Fonti di Bone Roc per determinare il tipo di ossa utilizzate e come ciò influenza il suo blocco delle statistiche.",
 						{
 							"type": "table",
 							"colLabels": [
@@ -189,27 +189,27 @@
 							"rows": [
 								[
 									"1",
-									"Axe Beak. The bone roc's walking speed is 50 feet."
+									"Becco d'ascia. La velocità di camminata del Roc d'Ossa è di 15 metri."
 								],
 								[
 									"2",
-									"Cockatrice. A creature hit by the bone roc's Beak attack must succeed on a {@dc 14} Constitution saving throw or have its speed reduced by 10 feet until the start of the bone roc's next turn."
+									"Basilisco. Una creatura colpita dall'attacco con il Becco del Roc d'Ossa deve riuscire un tiro salvezza su Costituzione {@dc 14} o vedere la sua velocità ridotta di 3 metri fino all'inizio del turno successivo del Roc d'Ossa."
 								],
 								[
 									"3",
-									"Giant Owl. The bone roc's modifier for Dexterity ({@skill Stealth}) checks is +8."
+									"Gufo gigante. Il modificatore del roc d'osso per le prove di Destrezza ({@skill Stealth}) è +8."
 								],
 								[
 									"4",
-									"Peryton. The bone roc has resistance to slashing damage from nonmagical attacks."
+									"Peryton. Il Roc d'Ossa è resistente ai danni taglienti derivanti da attacchi non magici."
 								],
 								[
 									"5",
-									"Pteranodon. The bone roc doesn't provoke an opportunity attack when it flies out of an enemy's reach."
+									"Pteranodonte. Il Roc d'Ossa non provoca un attacco di opportunità quando vola fuori dalla portata del nemico."
 								],
 								[
 									"6",
-									"Roc. The bone roc's size is Gargantuan, and its flying speed is 120 feet. Its Hit Dice remain unchanged."
+									"Rocc. La taglia del Roc d'Ossa è Mastodontica e la sua velocità di volo è di 32 metri. I suoi Dadi Vita rimangono invariati."
 								]
 							]
 						}
@@ -233,8 +233,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Borthaks are irascible, wolflike behemoths that ravage northern wetlands and alpine fens on Krynn. Few mountain animals can challenge a borthak physically. Its powerful jaws, acidic spittle, and lightning-quick tail make the borthak an apex predator in its home territory.",
-						"Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a single borthak can wreak havoc on an entire ecosystem with its supernatural ability to siphon heat from the ground. A borthak's body is so efficient at pulling the heat from its surroundings that it can transform a small, temperate glen into a frigid, slushy bog. Native plants and animals rarely survive long in a region a borthak claims as its hunting ground. Once a borthak has depleted an area of flora and fauna, it moves and begins its pillaging anew."
+						"I Borthak sono colossi irascibili simili a lupi che devastano le zone umide settentrionali e le paludi alpine di Krynn. Pochi animali di montagna possono sfidare fisicamente un borthak. Le sue potenti mascelle, la saliva acida e la coda fulminea rendono il borthak un predatore all'apice nel suo territorio natale.",
+						"Fortunatamente per la maggior parte degli abitanti delle zone umide, i borthak si riuniscono raramente. Sfortunatamente, un singolo borthak può devastare un intero ecosistema con la sua capacità soprannaturale di sottrarre calore dal terreno. Il corpo di un borthak è così efficiente nell'estrarre il calore dall'ambiente circostante che può trasformare una piccola valle temperata in una palude gelida e fangosa. Le piante e gli animali autoctoni raramente sopravvivono a lungo in una regione che un borthak rivendica come suo terreno di caccia. Una volta che un borthak ha impoverito un'area di flora e fauna, si muove e ricomincia il suo saccheggio."
 					]
 				}
 			],
@@ -255,8 +255,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Camlash is a monstrous demon covered in countless tiny, crawling spiders that appear and disappear at random.",
-						"Lolth isn't present in Pandesmos; she has given command of her legions to Camlash. The balor general specializes in leading campaigns with troops of loyal driders and mutated arachnids. Adherents of Lolth have joined Camlash's forces, despite the usual animosity between driders and people. All fight together in Lolth's name."
+						"Camlash è un demone mostruoso ricoperto da innumerevoli piccoli ragni striscianti che appaiono e scompaiono in modo casuale.",
+						"Lolth non è presente in Pandesmos; ha dato il comando delle sue legioni a Camlash. Il generale balor è specializzato nel condurre campagne con truppe di drider leali e aracnidi mutanti. I seguaci di Lolth si sono uniti alle forze di Camlash, nonostante la solita animosità tra i drider e il popolo. Combattiamo tutti insieme nel nome di Lolth."
 					]
 				}
 			],
@@ -280,11 +280,11 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Citadel spiders aren't smart, but for sheer battlefield power and versatility, they can't be beat."
+								"I ragni della Cittadella non sono intelligenti, ma per pura potenza e versatilità sul campo di battaglia, non possono essere battuti."
 							],
 							"by": "Camlash, Balor General of Lolth"
 						},
-						"Lolth's followers breed spiders of all types and sizes, infusing the creatures with foul energy from the Demonweb Pits. Perhaps the most feared of such abominations is the citadel spider. The titanic citadel spider serves as a powerhouse weapon and mobile command post. Wedges of chitin atop a citadel spider's back shield passengers and protect the spider's biological cannon. A citadel spider can launch globs of acidic webbing from its cannon that hold victims in place until the spider can eviscerate them with its serrated jaws."
+						"I seguaci di Lolth allevano ragni di tutti i tipi e dimensioni, infondendo nelle creature l'energia malvagia proveniente dalle Fosse delle Ragnatele Demoniache. Forse il più temuto di questi abomini è il ragno della cittadella. Il ragno della cittadella titanica funge da arma potente e posto di comando mobile. Cunei di chitina sulla schiena di un ragno della cittadella proteggono i passeggeri e proteggono il cannone biologico del ragno. Un ragno della cittadella può lanciare dal suo cannone sfere di ragnatela acida che tengono ferme le vittime finché non riesce a sventrarle con le sue mascelle seghettate."
 					]
 				}
 			],
@@ -305,10 +305,10 @@
 				{
 					"type": "entries",
 					"entries": [
-						"When a dryad fails to protect its wilderness home from a great evil and is unable to forgive itself, the dryad might transform into a wicked Fey monster called a deadbark dryad. Such dryads relinquish any compassion they once felt for living beings and instead harbor hatred for anyone who dares to invade their rotted demesne.",
-						"The wilds around a deadbark dryad become malignant, souring into a swampy morass of stinging nettles and noxious muck. Deadbark dryads are immune to this toxic bog's deleterious effects.",
-						"A deadbark dryad is typically bound to the spot where it failed to protect its charge. When a dryad transforms into a deadbark dryad, it becomes stronger and more violent, and it typically gains a renewed dedication to protecting its now-fetid domain. Most deadbark dryads would rather fight to the death than allow any intrusion into their homes.",
-						"Deadbark dryads are most often found on Krynn, but occasionally they are found on other worlds where magic and trees are plentiful."
+						"Quando una driade non riesce a proteggere la sua dimora selvaggia da un grande male e non è in grado di perdonare se stessa, potrebbe trasformarsi in un malvagio mostro Fatato chiamato driade cortecciamorta. Tali driadi abbandonano ogni compassione che un tempo provavano per gli esseri viventi e nutrono invece odio per chiunque osi invadere il loro decomposto dominio.",
+						"Le terre selvagge intorno a una driade dalla corteccia morta diventano maligne, inacidendo in una palude paludosa di ortiche pungenti e letame nocivo. Le driadi Cortecciamorta sono immuni agli effetti deleteri di questa palude tossica.",
+						"Una driade cortecciamorta è solitamente legata al punto in cui non è riuscita a proteggere la sua carica. Quando una driade si trasforma in una driade cortecciamorta, diventa più forte e violenta e in genere acquisisce una rinnovata dedizione alla protezione del suo dominio ormai fetido. La maggior parte delle driadi dalla cortecciamorta preferiscono combattere fino alla morte piuttosto che permettere qualsiasi intrusione nelle loro case.",
+						"Le driadi della Cortecciamorta si trovano più spesso su Krynn, ma occasionalmente si trovano su altri mondi dove la magia e gli alberi abbondano."
 					]
 				}
 			],
@@ -329,13 +329,13 @@
 				{
 					"type": "entries",
 					"entries": [
-						"A deathwolf combines the might of a werewolf, the unholy powers of undeath, and the magic of the full moon. Deathwolves are most common on Krynn but occasionally are found in other locations where lycanthropy and necromancy are prevalent.",
-						"To create a deathwolf, a necromancer reanimates the body of a powerful werewolf by conducting a profane ritual fueled by lunar magic. The result is an Undead abomination that resembles a skeletal, shadowy werewolf in hybrid form. Deathwolves can't shapeshift, but they can create dangerous illusions. A deathwolf's bite makes its victims more susceptible to the mind-bending phantoms the deathwolf can conjure.",
+						"Un lupo mortale combina la potenza di un lupo mannaro, i poteri empi della non morte e la magia della luna piena. I lupi della morte sono più comuni su Krynn, ma occasionalmente si trovano in altri luoghi dove prevalgono la licantropia e la negromanzia.",
+						"Per creare un lupo mortale, un negromante rianima il corpo di un potente lupo mannaro conducendo un rituale profano alimentato dalla magia lunare. Il risultato è un abominio non morto che assomiglia a un lupo mannaro scheletrico e oscuro in forma ibrida. I lupi della morte non possono cambiare forma, ma possono creare pericolose illusioni. Il morso di un Deathwolf rende le sue vittime più suscettibili ai fantasmi sconvolgenti che il Deathwolf può evocare.",
 						{
 							"type": "inset",
 							"name": "Deathwolves in Dragonlance",
 							"entries": [
-								"On the world of Krynn, deathwolves are associated with Lunitari, Krynn's red moon and the god of neutral magic. The god Lunitari is a trickster and master of illusions; necromancers perform the ritual to create a deathwolf under the light of her moon to instill the deathwolf with powers of illusion and trickery."
+								"Nel mondo di Krynn, i lupi mortali sono associati a Lunitari, la luna rossa di Krynn e il dio della magia neutrale. Il dio Lunitari è un imbroglione e maestro di illusioni; i negromanti eseguono il rituale per creare un lupo della morte sotto la luce della sua luna per infondere al lupo della morte poteri di illusione e inganno."
 							]
 						}
 					]
@@ -358,7 +358,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Degloths are massive, blue, bipedal demons with razor-studded fists. They are commonly used as shock troops on the front lines of wars waged in the Abyss and other Outer Planes. Degloths gravitate toward violence and mayhem without caring about the reasons behind the bloodshed. They enjoy ripping their enemies limb from limb using their razor-studded fists, which are equally adept at slashing foes and crushing the life from them."
+						"I degloth sono enormi demoni blu, bipedi con pugni tempestati di rasoi. Sono comunemente usati come truppe d'assalto in prima linea nelle guerre intraprese nell'Abisso e negli altri Piani Esterni. I degloth gravitano verso la violenza e il caos senza preoccuparsi delle ragioni dietro lo spargimento di sangue. Si divertono a squarciare i nemici pezzo per pezzo usando i loro pugni affilati come rasoi, che sono altrettanto abili nel squarciare i nemici e nel spezzare loro la vita."
 					]
 				}
 			],
@@ -379,9 +379,9 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Occasionally, liches create nefarious magical copies of themselves to fool enemies, to guard treasure, or for other inscrutable reasons.",
-						"To create a false lich, a lich binds a shred of its life force to a corpse in a profane ritual. This transforms the corpse into a near-identical copy of the lich with immense necrotic power and some of its creator's arcane prowess. The creator then embeds enchanted gemstones into the corpse's eye sockets; the gems allow the false lich to trap creatures' souls and transfer the souls to its creator.",
-						"A false lich often gradually gains a sense of self-identity. While many false liches remain steadfastly loyal to their creators, others resent their creators for imprisoning and abandoning them."
+						"Occasionalmente, i lich creano nefaste copie magiche di se stessi per ingannare i nemici, per proteggere tesori o per altre ragioni imperscrutabili.",
+						"Per creare un falso lich, un lich lega un brandello della sua forza vitale a un cadavere in un rituale profano. Questo trasforma il cadavere in una copia quasi identica del lich con immenso potere necrotico e parte dell'abilità arcana del suo creatore. Il creatore quindi incastona le pietre preziose incantate nelle orbite del cadavere; le gemme consentono al falso lich di intrappolare le anime delle creature e trasferirle al suo creatore.",
+						"Un falso lich spesso acquisisce gradualmente un senso di identità personale. Mentre molti falsi lich rimangono fermamente fedeli ai loro creatori, altri si risentono nei confronti dei loro creatori per averli imprigionati e abbandonati."
 					]
 				}
 			],
@@ -402,7 +402,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Since the Mournland's earliest days, Glaive has wielded her namesake weapon in service to the Lord of Blades' bloody conquest of the blighted region. Among the blades, Glaive is best known for her talent at self-modification. \"Glaive\" is etched onto the back of her neck-plate. It is the only name Glaive has ever known, and fellow blades don't dare call her anything else. Mournland adventurers, however, refer to the terrifying commander by another name: Kill Switch."
+						"Fin dagli albori del Mournland, Glaive ha brandito la sua omonima arma al servizio della sanguinosa conquista della regione desolata da parte del Signore delle Lame. Tra le lame, Glaive è meglio conosciuta per il suo talento nell'automodificazione. \"Glaive\" è inciso sul retro della piastra del collo. È l'unico nome che Glaive abbia mai conosciuto e gli altri lame non osano chiamarla in nessun altro modo. Gli avventurieri di Mournland, tuttavia, si riferiscono al terrificante comandante con un altro nome: Kill Switch."
 					]
 				}
 			],
@@ -426,11 +426,11 @@
 						{
 							"type": "quote",
 							"entries": [
-								"If you're close enough to see the expression carved onto a granite juggernaut's face, you're as good as dead."
+								"Se sei abbastanza vicino da vedere l'espressione scolpita sul volto di un colosso di granito, sei praticamente morto."
 							],
 							"by": "Teythorn, Oerthian Adventurer"
 						},
-						"A granite juggernaut is a lumbering Construct that can be found trundling across battlefields and down dungeon corridors. Granite juggernauts have dense, boxy bodies atop massive rollers they use for locomotion. Their fronts and rollers are often adorned with fearsome heads, such as those of enraged rhinos. Granite juggernauts are found on many worlds and typically are used to protect high-value locations."
+						"Un colosso di granito è un goffo Costrutto che può essere trovato mentre si aggira sui campi di battaglia e nei corridoi dei sotterranei. I colossi di granito hanno corpi densi e squadrati su enormi rulli che usano per la locomozione. La parte anteriore e i rulli sono spesso decorati con teste spaventose, come quelle dei rinoceronti infuriati. I colossi di granito si trovano su molti mondi e in genere vengono utilizzati per proteggere luoghi di alto valore."
 					]
 				}
 			],
@@ -454,12 +454,12 @@
 						{
 							"type": "quote",
 							"entries": [
-								"They make excellent scouts and are capable aerial attackers, but their attention span is frustratingly wanting."
+								"Sono eccellenti esploratori e abili attaccanti aerei, ma la loro capacità di attenzione è frustrantemente carente."
 							],
 							"by": "The Demon Lord Pazuzu"
 						},
-						"Avian demons called hazvongels haunt the windswept skies of Pandemonium, preying on lost and weary travelers. Hazvongels resemble enormous, crimson crows with tattered feathers and a dozen legs. Their wings constantly drip blood, which they gather in their many talons and fling in a gruesome rain.",
-						"Hazvongels sometimes soar in the skies of the Abyss, where they originate, but they migrate to and from Pandemonium throughout their existence. More powerful demons, especially the demon lord Pazuzu, use hazvongels as scouts, but hazvongels' wanderlust makes them ill-suited for extended missions."
+						"Demoni aviari chiamati hazvongels infestano i cieli spazzati dal vento di Pandemonium, depredando viaggiatori stanchi e smarriti. Gli Hazvongel assomigliano a enormi corvi cremisi con piume sbrindellate e una dozzina di zampe. Le loro ali gocciolano costantemente sangue, che raccolgono nei loro numerosi artigli e scagliano sotto una pioggia raccapricciante.",
+						"Gli Hazvongel a volte volano nei cieli dell'Abisso, da cui hanno origine, ma migrano da e verso Pandemonium per tutta la loro esistenza. I demoni più potenti, in particolare il signore dei demoni Pazuzu, usano gli hazvongel come esploratori, ma la loro voglia di viaggiare li rende inadatti per missioni estese."
 					]
 				}
 			],
@@ -483,11 +483,11 @@
 						{
 							"type": "quote",
 							"entries": [
-								"They ain't dragons. They ain't lizards. Oh no, they're much worse.\""
+								"Non sono draghi. Non sono lucertole. Oh no, sono molto peggio.\""
 							],
 							"by": "Melthena Vellaine, Wizard and Spelljammer"
 						},
-						"When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a parasitic monster known as a hertilod. Voracious and terrifying, a hertilod resembles a skinless, serpentine lizard, with sharp claws and a gaping maw that drips venom. A hertilod's gruesomely exposed muscle renders it susceptible to lightning."
+						"Quando un dio morto viene lasciato alla deriva nel Mare Astrale, il suo cadavere a volte genera un mostro parassita noto come hertilod. Vorace e terrificante, un hertilod assomiglia a una lucertola serpentina senza pelle, con artigli affilati e fauci spalancate da cui gocciola veleno. I muscoli orribilmente esposti di un hertilod lo rendono suscettibile ai fulmini."
 					]
 				}
 			],
@@ -508,7 +508,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Resembling enormous spiders, kakkuus are the most numerous and least intelligent spyder-fiends. In large conflicts, they serve as foot soldiers, but they prefer to avoid more powerful Fiends, who boss them around. Left on their own, kakkuus lurk in ambush and use their webs to snare prey."
+						"Simili a enormi ragni, i kakkuu sono i demoni-ragno più numerosi e meno intelligenti. Nei grandi conflitti, servono come fanti, ma preferiscono evitare i Demoni più potenti, che li comandano. Lasciati soli, i kakkuu tendono le imboscate e usano le loro tele per intrappolare le prede."
 					]
 				},
 				{
@@ -518,9 +518,9 @@
 							"type": "entries",
 							"name": "Spyder-Fiends",
 							"entries": [
-								"Demonic beasts that combine the worst attributes of wolves and spiders, spyder-fiends scuttle about with bloated, spiderlike bodies and gnash with wolflike heads. Spyder-fiends are usually coated with gore, as brutal killing is their favorite pursuit. They spin durable webs and are ingenious in how they employ their webs against prey.",
-								"Spyder-fiends are organized into a hierarchy based on might and cunning, with higher-ranked spyder-fiends dominating lower ranks. Spyder-fiends of equivalent rank scheme against each other for advancement and eagerly turn against one another if treachery can improve their position.",
-								"Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they were rarely seen during Miska's imprisonment in Pandemonium, they have become increasingly active as Miska struggles to free himself in Pandesmos."
+								"Bestie demoniache che combinano i peggiori attributi di lupi e ragni, i demoni-ragno corrono qua e là con corpi gonfi e simili a quelli di un ragno e digrignano con teste simili a lupi. I demoni-ragno sono solitamente ricoperti di sangue, poiché l'uccisione brutale è la loro attività preferita. Tessono tele durevoli e sono ingegnose nel modo in cui le impiegano contro le prede.",
+								"I demoni-ragno sono organizzati in una gerarchia basata sulla potenza e l'astuzia, con i demoni-ragno di grado più alto che dominano i ranghi inferiori. Demoni-ragno di rango equivalente complottano l'uno contro l'altro per avanzare e si rivoltano avidamente l'uno contro l'altro se il tradimento può migliorare la loro posizione.",
+								"I demoni-ragno servono lealmente il loro generale, Miska il Ragno-Lupo. Sebbene siano stati visti raramente durante la prigionia di Miska a Pandemonium, sono diventati sempre più attivi mentre Miska lotta per liberarsi a Pandesmos."
 							]
 						}
 					]
@@ -543,8 +543,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"The Betrayer, the Bloody Handed, the Destroyer\u2014Kas has earned many epithets during his long existence. He is a vampire, legendary sword-fighter, and ruthless warlord, and he is driven primarily by one thing: his hatred for Vecna.",
-						"Kas resembles a well-muscled, raven-haired, human man in his thirties, though he is far older. His fangs reveal his vampiric nature."
+						"Il Traditore, la Mano Insanguinata, il Distruttore: Kas si è guadagnato molti epiteti nel corso della sua lunga esistenza. È un vampiro, un leggendario spadaccino e uno spietato signore della guerra, ed è guidato principalmente da una cosa: il suo odio per Vecna.",
+						"Kas assomiglia a un uomo muscoloso, dai capelli corvini, sulla trentina, sebbene sia molto più vecchio. Le sue zanne rivelano la sua natura vampirica."
 					]
 				},
 				{
@@ -554,8 +554,8 @@
 							"type": "entries",
 							"name": "Personality",
 							"entries": [
-								"Kas is cruel, spiteful, and unrelenting in his pursuit of vengeance against Vecna. He readily lies, breaks promises, betrays allies, and taunts those who fall for his ruses. Kas has little use for those who can't validate his superiority or help advance his goals.",
-								"In {@i Vecna: Eve of Ruin}, Kas fools Tasha and Alustriel, two incredibly powerful wizards. In addition to defeating Vecna, Kas desperately wants the wizards to witness and acknowledge his strength."
+								"Kas è crudele, dispettoso e implacabile nella sua ricerca di vendetta contro Vecna. Mentisce prontamente, non mantiene le promesse, tradisce gli alleati e schernisce coloro che si innamorano dei suoi stratagemmi. Kas è di scarsa utilità per coloro che non possono convalidare la sua superiorità o aiutarlo a raggiungere i suoi obiettivi.",
+								"In {@i Vecna: Eve of Ruin}, Kas inganna Tasha e Alustriel, due maghi incredibilmente potenti. Oltre a sconfiggere Vecna, Kas desidera disperatamente che i maghi siano testimoni e riconoscano la sua forza."
 							]
 						}
 					]
@@ -581,11 +581,11 @@
 						{
 							"type": "quote",
 							"entries": [
-								"She was great at picking locks but had a terrible cruel streak. When the cloaker got her, we were glad we'd never see her again\u2014then, to our horror, we did."
+								"Era bravissima a scassinare le serrature ma aveva una terribile vena crudele. Quando il mantello l'ha presa, siamo stati felici di non rivederla mai più, poi, con nostro orrore, l'abbiamo fatto."
 							],
 							"by": "Hopewell Lightfinger, Sword Coast Adventurer"
 						},
-						"When the spirit of a malevolent trickster or callous rogue refuses to enter the afterlife, the spirit sometimes becomes a mirror shade instead. Mirror shades are incorporeal Undead that, in their true forms, look like person-shaped blobs of shining light. More often, though, mirror shades are encountered on reflective surfaces such as mirrors or panes of glass. There, they blend in seamlessly with their reflected surroundings and wait until the moment is right to strike. Mirror shades can be found throughout the multiverse but are particularly common in the Outer Planes."
+						"Quando lo spirito di un imbroglione malevolo o di un ladro insensibile rifiuta di entrare nell'aldilà, a volte diventa invece un'ombra a specchio. Le ombre a specchio sono non morti incorporei che, nella loro vera forma, sembrano macchie di luce splendente a forma di persona. Più spesso, però, le tonalità degli specchi si trovano su superfici riflettenti come specchi o lastre di vetro. Lì si fondono perfettamente con l'ambiente riflesso e aspettano il momento giusto per colpire. Le ombre speculari possono essere trovate in tutto il multiverso ma sono particolarmente comuni nei Piani Esterni."
 					]
 				}
 			],
@@ -606,7 +606,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Miska the Wolf-Spider is a legendary demon lord and master of battlefield strategy. He has the lower body of a massive armored spider, four arms, and two enormous wolf heads that drip poison. Yet Miska's greatest strength is his cunning mind."
+						"Miska the Wolf-Spider è un leggendario signore dei demoni e maestro della strategia sul campo di battaglia. Ha la parte inferiore del corpo di un enorme ragno corazzato, quattro braccia e due enormi teste di lupo che gocciolano veleno. Eppure la più grande forza di Miska è la sua mente astuta."
 					]
 				},
 				{
@@ -616,8 +616,8 @@
 							"type": "entries",
 							"name": "History",
 							"entries": [
-								"Ages ago, Miska led the hordes of Chaos against the forces of Law at the behest of his patron, the enigmatic Queen of Chaos. It seemed Miska's domination couldn't be stopped.",
-								"In desperation, Miska's opponents crafted an artifact to bind him in an extraplanar prison. This rod broke apart after sealing him in Pandemonium, scattering across the planes and becoming known as the Rod of Seven Parts. The rod is the key to releasing Miska from his long imprisonment."
+								"Molto tempo fa, Miska guidò le orde del Caos contro le forze della Legge per volere della sua protettrice, l'enigmatica Regina del Caos. Sembrava che il dominio di Miska non potesse essere fermato.",
+								"In preda alla disperazione, gli avversari di Miska crearono un artefatto per imprigionarlo in una prigione extraplanare. Questa verga si spezzò dopo averlo sigillato nel Pandemonio, disperdendosi tra i piani e diventando nota come la Verga delle Sette Parti. La verga è la chiave per liberare Miska dalla sua lunga prigionia."
 							]
 						}
 					]
@@ -643,12 +643,12 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Thought it was a person at first, but then I saw its head. Next, its arm. I knew I had to run."
+								"All'inizio ho pensato che fosse una persona, ma poi ho visto la sua testa. Successivamente, il suo braccio. Sapevo che dovevo scappare."
 							],
 							"by": "Werthil, Kender Adventurer"
 						},
-						"Moonlight guardians are gleaming bipedal statues made of silver and mithral. They were originally created by a desperate mage on Krynn who drew the Moon card from a Deck of Many Things. The mage wished for a retinue of bodyguards ideally suited to fighting lycanthropes and other shapeshifting creatures. In response, the Moon card spawned the first moonlight guardian.",
-						"A moonlight guardian's body is infused with magical moonlight that the creature can channel into its blows. It can also unleash searing blasts of lunar energy that can expose shapeshifters by forcing them into their true forms."
+						"I guardiani della luce lunare sono scintillanti statue bipedi realizzate in argento e mithral. Sono stati originariamente creati da un mago disperato su Krynn che ha pescato la carta Luna da un Mazzo delle Molte Cose. Il mago desiderava un seguito di guardie del corpo ideali per combattere i licantropi e altre creature mutaforma. In risposta, la carta Luna generò il primo guardiano del chiaro di luna.",
+						"Il corpo di un guardiano della luce lunare è infuso di luce lunare magica che la creatura può incanalare nei suoi colpi. Può anche scatenare esplosioni brucianti di energia lunare che possono smascherare i mutaforma costringendoli a assumere la loro vera forma."
 					]
 				}
 			],
@@ -669,8 +669,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Phisarazu spyder-fiends have a pair of muscular arms sprouting beneath their wolf heads. They are resentful and suspicious of all other creatures, which makes them useful for corralling kakkuus or standing guard.",
-						"Phisarazus can magically change their form, but only into shapes that have ten limbs, such as driders and crabs. They use this ability to establish ambushes, infiltrate enemy camps, or appear innocuous while on guard duty."
+						"I demoni-ragno Phisarazu hanno un paio di braccia muscolose che spuntano sotto le loro teste di lupo. Sono risentiti e sospettosi verso tutte le altre creature, il che li rende utili per imprigionare i kakkuus o fare la guardia.",
+						"Phisarazus può cambiare magicamente la propria forma, ma solo in forme dotate di dieci arti, come i drider e i granchi. Usano questa capacità per tendere imboscate, infiltrarsi negli accampamenti nemici o apparire innocui durante il servizio di guardia."
 					]
 				},
 				{
@@ -680,9 +680,9 @@
 							"type": "entries",
 							"name": "Spyder-Fiends",
 							"entries": [
-								"Demonic beasts that combine the worst attributes of wolves and spiders, spyder-fiends scuttle about with bloated, spiderlike bodies and gnash with wolflike heads. Spyder-fiends are usually coated with gore, as brutal killing is their favorite pursuit. They spin durable webs and are ingenious in how they employ their webs against prey.",
-								"Spyder-fiends are organized into a hierarchy based on might and cunning, with higher-ranked spyder-fiends dominating lower ranks. Spyder-fiends of equivalent rank scheme against each other for advancement and eagerly turn against one another if treachery can improve their position.",
-								"Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they were rarely seen during Miska's imprisonment in Pandemonium, they have become increasingly active as Miska struggles to free himself in Pandesmos."
+								"Bestie demoniache che combinano i peggiori attributi di lupi e ragni, i demoni-ragno corrono qua e là con corpi gonfi e simili a quelli di un ragno e digrignano con teste simili a lupi. I demoni-ragno sono solitamente ricoperti di sangue, poiché l'uccisione brutale è la loro attività preferita. Tessono tele durevoli e sono ingegnose nel modo in cui le impiegano contro le prede.",
+								"I demoni-ragno sono organizzati in una gerarchia basata sulla potenza e l'astuzia, con i demoni-ragno di grado più alto che dominano i ranghi inferiori. Demoni-ragno di rango equivalente complottano l'uno contro l'altro per avanzare e si rivoltano avidamente l'uno contro l'altro se il tradimento può migliorare la loro posizione.",
+								"I demoni-ragno servono lealmente il loro generale, Miska il Ragno-Lupo. Sebbene siano stati visti raramente durante la prigionia di Miska a Pandemonium, sono diventati sempre più attivi mentre Miska lotta per liberarsi a Pandesmos."
 							]
 						}
 					]
@@ -705,7 +705,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Quavilithku spyder-fiends revel in destruction. Although they like to savage prey with their mangy wolf heads, they delight in destroying structures and art objects\u2014the more beautiful, the better. The arms hanging below their wolf heads are physically frail but useful for employing tools of destruction or sabotage."
+						"I demoni-spia Quavilithku si dilettano nella distruzione. Sebbene a loro piaccia ferocemente la preda con le loro rognose teste di lupo, si dilettano nel distruggere strutture e oggetti d'arte: più sono belli, meglio è. Le braccia appese sotto la testa del lupo sono fisicamente fragili ma utili per utilizzare strumenti di distruzione o sabotaggio."
 					]
 				},
 				{
@@ -715,9 +715,9 @@
 							"type": "entries",
 							"name": "Spyder-Fiends",
 							"entries": [
-								"Demonic beasts that combine the worst attributes of wolves and spiders, spyder-fiends scuttle about with bloated, spiderlike bodies and gnash with wolflike heads. Spyder-fiends are usually coated with gore, as brutal killing is their favorite pursuit. They spin durable webs and are ingenious in how they employ their webs against prey.",
-								"Spyder-fiends are organized into a hierarchy based on might and cunning, with higher-ranked spyder-fiends dominating lower ranks. Spyder-fiends of equivalent rank scheme against each other for advancement and eagerly turn against one another if treachery can improve their position.",
-								"Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they were rarely seen during Miska's imprisonment in Pandemonium, they have become increasingly active as Miska struggles to free himself in Pandesmos."
+								"Bestie demoniache che combinano i peggiori attributi di lupi e ragni, i demoni-ragno corrono qua e là con corpi gonfi e simili a quelli di un ragno e digrignano con teste simili a lupi. I demoni-ragno sono solitamente ricoperti di sangue, poiché l'uccisione brutale è la loro attività preferita. Tessono tele durevoli e sono ingegnose nel modo in cui le impiegano contro le prede.",
+								"I demoni-ragno sono organizzati in una gerarchia basata sulla potenza e l'astuzia, con i demoni-ragno di grado più alto che dominano i ranghi inferiori. Demoni-ragno di rango equivalente complottano l'uno contro l'altro per avanzare e si rivoltano avidamente l'uno contro l'altro se il tradimento può migliorare la loro posizione.",
+								"I demoni-ragno servono lealmente il loro generale, Miska il Ragno-Lupo. Sebbene siano stati visti raramente durante la prigionia di Miska a Pandemonium, sono diventati sempre più attivi mentre Miska lotta per liberarsi a Pandesmos."
 							]
 						}
 					]
@@ -740,7 +740,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Raklupis spyder-fiends have hard, smooth shells and gleaming spines. With luxuriantly furry wolf heads, powerful arms, and alluring voices, raklupises are the only spyder-fiends that might be called majestic. They create delicate web globes, which they fill with their venom and hurl at foes. Raklupises are keen strategists, and most of them command legions of lesser spyder-fiends."
+						"I demoni-spia Raklupis hanno gusci duri e lisci e spine scintillanti. Con teste di lupo rigogliosamente pelose, braccia potenti e voci seducenti, i raklupis sono gli unici demoni-ragno che potrebbero essere definiti maestosi. Creano delicati globi di ragnatela, che riempiono con il loro veleno e scagliano contro i nemici. I Raklupis sono acuti strateghi e la maggior parte di loro comanda legioni di demoni-ragno minori."
 					]
 				},
 				{
@@ -750,9 +750,9 @@
 							"type": "entries",
 							"name": "Spyder-Fiends",
 							"entries": [
-								"Demonic beasts that combine the worst attributes of wolves and spiders, spyder-fiends scuttle about with bloated, spiderlike bodies and gnash with wolflike heads. Spyder-fiends are usually coated with gore, as brutal killing is their favorite pursuit. They spin durable webs and are ingenious in how they employ their webs against prey.",
-								"Spyder-fiends are organized into a hierarchy based on might and cunning, with higher-ranked spyder-fiends dominating lower ranks. Spyder-fiends of equivalent rank scheme against each other for advancement and eagerly turn against one another if treachery can improve their position.",
-								"Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they were rarely seen during Miska's imprisonment in Pandemonium, they have become increasingly active as Miska struggles to free himself in Pandesmos."
+								"Bestie demoniache che combinano i peggiori attributi di lupi e ragni, i demoni-ragno corrono qua e là con corpi gonfi e simili a quelli di un ragno e digrignano con teste simili a lupi. I demoni-ragno sono solitamente ricoperti di sangue, poiché l'uccisione brutale è la loro attività preferita. Tessono tele durevoli e sono ingegnose nel modo in cui le impiegano contro le prede.",
+								"I demoni-ragno sono organizzati in una gerarchia basata sulla potenza e l'astuzia, con i demoni-ragno di grado più alto che dominano i ranghi inferiori. Demoni-ragno di rango equivalente complottano l'uno contro l'altro per avanzare e si rivoltano avidamente l'uno contro l'altro se il tradimento può migliorare la loro posizione.",
+								"I demoni-ragno servono lealmente il loro generale, Miska il Ragno-Lupo. Sebbene siano stati visti raramente durante la prigionia di Miska a Pandemonium, sono diventati sempre più attivi mentre Miska lotta per liberarsi a Pandesmos."
 							]
 						}
 					]
@@ -775,9 +775,9 @@
 				{
 					"type": "entries",
 					"entries": [
-						"In the Domains of Dread, practitioners of foul magic perform a profane ritual that turns living creatures into fiendish killers. This ritual necessitates the use of a ceremonial stake, which is plunged into the heart of a living sacrifice. The hulking form of the relentless impaler then emerges from the sacrifice's pool of blood, spear in hand.",
-						"A relentless impaler is bound to the creature that wielded the ceremonial stake in the ritual that birthed it. As long as the original stake remains lodged in the heart of the ritual victim, the impaler can return over and over again to regenerate beside the victim's body, no matter how many times it is destroyed.",
-						"The impaler pursues its creator's agenda coldly and efficiently. It has no concern for its own self-preservation, knowing that, for itself at least, death isn't the end."
+						"Nei Domini del Terrore, i praticanti della magia malvagia eseguono un rituale profano che trasforma le creature viventi in diabolici assassini. Questo rituale richiede l'uso di un paletto cerimoniale, che viene conficcato nel cuore di un sacrificio vivente. La massiccia forma dell'impalatore implacabile emerge quindi dalla pozza di sangue del sacrificio, con la lancia in mano.",
+						"Un impalatore implacabile è legato alla creatura che brandiva il paletto cerimoniale nel rituale che lo ha generato. Finché il paletto originale rimane conficcato nel cuore della vittima rituale, l'impalatore può tornare più e più volte per rigenerarsi accanto al corpo della vittima, non importa quante volte questo venga distrutto.",
+						"L'impalatore persegue gli obiettivi del suo creatore con freddezza ed efficienza. Non ha alcuna preoccupazione per la propria autoconservazione, sapendo che, almeno per se stesso, la morte non è la fine."
 					]
 				}
 			],
@@ -798,8 +798,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"The terrors known as spiderdragons were first found in the deepest corners of the Underdark and trace their origins to black dragon wyrmlings who ate a steady diet of spiders. Though spiderdragons were not created in the Abyss or by Lolth's faithful, worshipers of the Spider Queen claim that spiderdragons are a gift from their deity, as spiderdragons are most numerous in Underdark areas that Lolth's faithful claim as their own. Lolth worshipers might employ spiderdragons as guards or treat them as venerated guests. The creatures aren't as powerful as their black dragon progenitors, though, and they often drain the enclaves' resources with their selfish demands.",
-						"Uninterested in building lairs, spiderdragons weave powerful webs and eat an abundance of prey before losing interest in an area and moving on, even when they're treated like beloved guests. Unlike their black dragon progenitors, spiderdragons aren't particularly clever, though some of them understand their significance to Lolth worshipers and exploit their positions for as long as possible."
+						"I terrori conosciuti come draghiragno furono trovati per la prima volta negli angoli più profondi del Sottosuolo e fanno risalire le loro origini ai cuccioli di drago nero che si nutrivano costantemente di ragni. Sebbene i draghiragno non siano stati creati nell'Abisso o dai fedeli di Lolth, gli adoratori della Regina Ragno affermano che i draghiragno sono un dono della loro divinità, poiché i draghiragno sono più numerosi nelle aree del Sottosuolo che i fedeli di Lolth rivendicano come proprie. Gli adoratori di Lolth potrebbero impiegare i draghi-ragno come guardie o trattarli come ospiti venerati. Tuttavia, queste creature non sono potenti quanto i loro progenitori draghi neri e spesso prosciugano le risorse delle enclavi con le loro richieste egoistiche.",
+						"Disinteressati a costruire tane, i draghiragno tessono potenti ragnatele e mangiano un'abbondanza di prede prima di perdere interesse per un'area e andare avanti, anche quando vengono trattati come amati ospiti. A differenza dei loro progenitori draghi neri, i draghiragno non sono particolarmente intelligenti, anche se alcuni di loro capiscono il loro significato per gli adoratori di Lolth e sfruttano la loro posizione il più a lungo possibile."
 					]
 				}
 			],
@@ -820,7 +820,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Distantly related to scavvers, star anglers are astral predators that resemble hulking, golden anglerfish with iridescent fins and tails. A star angler lacks eyes, and its hide is dotted with bioluminescent specks, allowing it to easily blend into the vast expanse of the Astral Plane. A star angler's signature lure emits an enchanting glow that has pulled many Wildspace explorers to their demises."
+						"Lontanamente imparentati con gli spazzini, i pescatori stellari sono predatori astrali che assomigliano a un'enorme rana pescatrice dorata con pinne e code iridescenti. Un pescatore stellare è privo di occhi e la sua pelle è costellata di granelli bioluminescenti, che gli permettono di mimetizzarsi facilmente nella vasta distesa del Piano Astrale. L'esca caratteristica di un pescatore stellare emette un bagliore incantevole che ha trascinato molti esploratori dello spazio selvaggio verso la morte."
 					]
 				}
 			],
@@ -841,7 +841,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Strahd von Zarovich is the Darklord of Barovia, a Domain of Dread. Little happens there without the Darklord's knowledge, although Strahd rarely pays attention to what he considers the uninteresting dealings of lesser beings."
+						"Strahd von Zarovich è il Signore Oscuro di Barovia, un Dominio del Terrore. Lì accade ben poco all'insaputa del Signore Oscuro, anche se Strahd raramente presta attenzione a quelli che considera i rapporti poco interessanti degli esseri inferiori."
 					]
 				},
 				{
@@ -851,8 +851,8 @@
 							"type": "entries",
 							"name": "History",
 							"entries": [
-								"In life, Strahd von Zarovich was a prince, a soldier, and a conqueror. His thirst for power never sated, Strahd made a pact with the Dark Powers to become immortal. Meanwhile, Strahd's evil deepened, until in a jealous rage he murdered his brother, Sergei. Sergei's betrothed, Tatyana, leapt from a tower to escape Strahd and vanished into the Mists rising around Barovia as Strahd slew everyone else in the castle. He had become a vampire, and Barovia became a Domain of Dread.",
-								"Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his inability to escape for all eternity. He spends his days amusing himself as best he can, terrorizing Barovia's people and savoring the fear and worship he commands."
+								"Nella vita, Strahd von Zarovich era un principe, un soldato e un conquistatore. La sua sete di potere mai sazia, Strahd fece un patto con i Poteri Oscuri per diventare immortale. Nel frattempo, la malvagità di Strahd si approfondì, finché, in preda alla rabbia e alla gelosia, uccise suo fratello Sergei. La promessa sposa di Sergei, Tatyana, saltò da una torre per sfuggire a Strahd e svanì nelle Nebbie che si sollevavano intorno a Barovia mentre Strahd uccideva tutti gli altri nel castello. Era diventato un vampiro e Barovia era diventata un Dominio del Terrore.",
+								"Ora i Poteri Oscuri tengono Strahd intrappolato nel suo regno, tormentandolo con la sua incapacità di fuggire per l'eternità. Trascorre le sue giornate divertendosi come meglio può, terrorizzando la gente di Barovia e assaporando la paura e l'adorazione che comanda."
 							]
 						}
 					]
@@ -875,7 +875,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Tasha's path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including Tasha's Hideous Laughter, and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as Iggwilv the Witch Queen and wrote the Demonomicon of Iggwilv, the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha became Zybilna, archfey of the domain of Prismeer."
+						"Il percorso verso la grandezza di Tasha iniziò quando fu adottata dall'arcistrega Baba Yaga, che la chiamò Natasha. Tasha creò vari incantesimi, tra cui la Risata Orrenda di Tasha, e le sue ambizioni alimentate dalla magia la portarono in contatto con demoni e signori dei demoni, che lei soggiogò e usò contro i suoi nemici. Sul Piano Materiale divenne nota come Iggwilv la Regina Strega e scrisse il Demonomicon di Iggwilv, il più grande di tutti i trattati sull'Abisso e sui suoi abitanti demoniaci. Negli ultimi anni, Tasha si è rinchiusa nella Selva dei Folletti, ottenendo un potere incredibile e trasformandosi lentamente in una creatura Fatata. Tasha divenne Zybilna, arcifeta del dominio di Prismeer."
 					]
 				},
 				{
@@ -885,7 +885,7 @@
 							"type": "entries",
 							"name": "Answering the Summons",
 							"entries": [
-								"When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfey was sorely needed in Prismeer. As a compromise, and to honor Tasha's friendship with Alustriel, Zybilna sent a version of herself from the past to Alustriel's side. The Tasha who appears in {@i Vecna: Eve of Ruin} is a powerful wizard, though she is not yet a witch queen or an archfey."
+								"Quando Zybilna ricevette la convocazione di Alustriel Silverhand per combattere Vecna, l'archfey era estremamente necessario a Prismeer. Come compromesso e per onorare l'amicizia di Tasha con Alustriel, Zybilna inviò una versione di se stessa dal passato al fianco di Alustriel. La Tasha che appare in {@i Vecna: Eve of Ruin} è una potente maga, anche se non è ancora una regina strega o un arcifeta."
 							]
 						}
 					]
@@ -908,25 +908,25 @@
 				{
 					"type": "entries",
 					"entries": [
-						"On countless worlds, his name evokes tales of terror and cruelty: Vecna, the Undying King. Vecna, the Whispered One. Vecna, the Lord of the Rotted Tower. But Vecna had humble beginnings on the world of Oerth, where an order of wizards used him as a bootblack and scribe. He spent the better part of his childhood secretly educating himself in his masters' arts. Once Vecna learned all he could, he massacred the wizards. He then recorded his every foul thought and dream as he started to write his Book of Vile Darkness.",
-						"Vecna forged a kingdom on Oerth, but he grew bored with it after several centuries. He started inflicting suffering on other worlds. In this adventure, Vecna has risen to godhood on Oerth, but he seeks to become the most powerful god in existence and bend the multiverse to his will. By the time the characters are involved, Vecna's master plan is almost complete. He has funneled a significant amount of his energy into weaving his ritual. Therefore, when the characters finally confront Vecna and try to save the multiverse, he is in his archlich form and not his divine form."
+						"Su innumerevoli mondi, il suo nome evoca storie di terrore e crudeltà: Vecna, il Re Immortale. Vecna, il Sussurrato. Vecna, il Signore della Torre Marcia. Ma Vecna ​​ebbe umili origini nel mondo di Oerth, dove un ordine di maghi lo usò come lustrascarpe e scriba. Trascorse la maggior parte della sua infanzia istruendosi segretamente nelle arti dei suoi maestri. Una volta che Vecna ​​apprese tutto ciò che poteva, massacrò i maghi. Ha poi registrato ogni suo pensiero e sogno ripugnante mentre iniziava a scrivere il suo Libro delle tenebre vili.",
+						"Vecna ​​forgiò un regno su Oerth, ma dopo diversi secoli se ne stancò. Ha iniziato a infliggere sofferenza ad altri mondi. In questa avventura, Vecna ​​è diventato una divinità su Oerth, ma cerca di diventare il dio più potente esistente e piegare il multiverso alla sua volontà. Nel momento in cui i personaggi vengono coinvolti, il piano generale di Vecna ​​è quasi completo. Ha incanalato una quantità significativa della sua energia nella tessitura del suo rituale. Pertanto, quando i personaggi finalmente affrontano Vecna ​​e cercano di salvare il multiverso, lui è nella sua forma di arclich e non nella sua forma divina."
 					]
 				},
 				{
 					"type": "section",
 					"entries": [
-						"On countless worlds, his name evokes tales of terror and cruelty. Vecna the Undying King. Vecna the Whispered One. Vecna the Lord of the Rotted Tower. Over more than a hundred thousand years, incandescent hatred carried him from the humblest of origins to a conqueror's throne, then to the realms that lie beyond life and death, and finally to godhood. Many have suffered his terrible wrath, but few can recount how a lowly scribe left an aeon-deep scar on the multiverse before ascending beyond the material altogether. Only a few fragments of Vecna's story have ever been unearthed.",
-						"It is said that Vecna was born into a lowly caste on the world of Oerth, son of a hedge witch and a father he never knew. An order of wizards exiled Vecna's mother into the wastes for practicing the forbidden art of necromancy. The order bound her orphaned son into servitude and employed him as first a bootblack, then a scribe. Vecna spent the better part of his childhood secretly educating himself in his masters' arts, stealing into their library of magical treatises each night after midnight. It was during these intense study sessions that he first heard a soothing voice in his head, a whisper from another world that promised him revenge if he would only yield to the hatred that was festering in his heart. Once Vecna learned all he could from his masters and their books, he massacred them. On that very night, the voice urged him to record his every foul thought and dream, and he started to pen his Book of Vile Darkness.",
-						"According to legend, Vecna went on to forge a kingdom in the world of Greyhawk. He ruled for several centuries from an obsidian tower that rose from the bottom of the black waters of the Nyr Dyv to stretch far above its surface. During this era, at the urging of the voice, Vecna conquered vast realms and swept great cities beneath earth and rock. Generations later, when his physical form finally started to succumb to the ravages of time, Vecna's festering hatred would not permit him to perish. He called upon the forbidden arts of necromancy to transform himself into a lich, a frightful being beyond the reach of death.",
-						"At some point, Vecna grew bored with his kingdom on Oerth and started visiting his evil on other worlds, still driven by the mysterious voice and his unquenchable hatred for all things true and pure. For a time, he is said to have inhabited a palace known as the Citadel of Cavitius, located in a vast field of ash somewhere near the border between the Planes of Earth and Fire.",
-						"Eventually, a fallen paladin known as Kas the Bloody-Handed rose through the ranks of Vecna's vile minions to become the archlich's personal guard and regent over many of the kingdoms and cults Vecna established across the multiverse. As a symbol of Kas's authority, Vecna forged him a terrifying weapon, the blade now known as the Sword of Kas. Later, Kas turned on Vecna and used the sword to sever the archlich's hand and put out his eye. No one knows why Kas betrayed Vecna. Some believe the mysterious voice that spoke to Vecna for eons grew to fear the archlich and began whispering to Kas instead.",
-						"After their clash, Kas and Vecna disappeared for ages. The former later emerged as the ruler of the wasteland domain of Tovag in the Shadowfell. The latter spent several centuries hopping from world to world, questing for his severed hand and eye. More recently, Vecna decamped to the Outer Planes, where he grew so powerful that he became a god. He has many ardent worshipers, all hungry for a taste of his immense power.",
-						"The accompanying stat block depicts Vecna in his archlich form prior to Kas's betrayal. Because Vecna is said to have mastered magic allowing him to travel through time, he can appear in this form even on worlds where his severed hand and eye are already known artifacts.",
+						"Su innumerevoli mondi, il suo nome evoca storie di terrore e crudeltà. Vecna ​​il Re Immortale. Vecna ​​la Sussurrata. Vecna ​​il Signore della Torre Marcia. Nel corso di più di centomila anni, un odio incandescente lo portò dalle origini più umili al trono di un conquistatore, poi ai regni che si trovano oltre la vita e la morte, e infine alla divinità. Molti hanno sofferto la sua terribile ira, ma pochi possono raccontare come un umile scriba abbia lasciato una cicatrice profonda eoni sul multiverso prima di ascendere del tutto oltre la materia. Solo pochi frammenti della storia di Vecna ​​sono stati portati alla luce.",
+						"Si dice che Vecna ​​sia nato in una casta umile del mondo di Oerth, figlio di una strega siepe e di un padre che non ha mai conosciuto. Un ordine di maghi esiliò la madre di Vecna ​​nelle terre desolate perché praticava l'arte proibita della negromanzia. L'ordine legò il figlio orfano alla servitù e lo impiegò prima come lustrascarpe, poi come scriba. Vecna ​​trascorse gran parte della sua infanzia istruendosi segretamente nelle arti dei suoi maestri, furtivamente nella loro biblioteca di trattati magici ogni notte dopo mezzanotte. Fu durante queste intense sessioni di studio che sentì per la prima volta una voce rassicurante nella sua testa, un sussurro proveniente da un altro mondo che gli prometteva vendetta se solo avesse ceduto all'odio che stava marcindo nel suo cuore. Una volta che Vecna ​​imparò tutto ciò che poteva dai suoi maestri e dai loro libri, li massacrò. Quella stessa notte, la voce lo esortò a registrare ogni suo pensiero e sogno ripugnante, e iniziò a scrivere il suo Libro delle Vili Tenebre.",
+						"Secondo la leggenda, Vecna ​​fondò un regno nel mondo di Greyhawk. Regnò per diversi secoli da una torre di ossidiana che emergeva dal fondo delle acque nere del Nyr Dyv per estendersi molto al di sopra della sua superficie. Durante quest'era, sotto la spinta della voce, Vecna ​​conquistò vasti regni e spazzò via grandi città sotto terra e roccia. Generazioni dopo, quando la sua forma fisica iniziò finalmente a soccombere alle ingiurie del tempo, l'odio purulento di Vecna ​​non gli permise di morire. Ha fatto appello alle arti proibite della negromanzia per trasformarsi in un lich, un essere spaventoso al di là della portata della morte.",
+						"Ad un certo punto, Vecna ​​si stancò del suo regno su Oerth e iniziò a portare il suo male su altri mondi, ancora guidato dalla voce misteriosa e dal suo odio inestinguibile per tutte le cose vere e pure. Si dice che per un certo periodo abbia abitato in un palazzo conosciuto come la Cittadella di Cavitius, situato in un vasto campo di cenere da qualche parte vicino al confine tra i Piani della Terra e del Fuoco.",
+						"Alla fine, un paladino caduto conosciuto come Kas la Mano Insanguinata salì tra i ranghi dei vili servitori di Vecna ​​per diventare la guardia personale dell'arcilich e reggente su molti dei regni e dei culti che Vecna ​​stabilì nel multiverso. Come simbolo dell'autorità di Kas, Vecna ​​gli forgiò un'arma terrificante, la lama ora conosciuta come la Spada di Kas. Più tardi, Kas si rivoltò contro Vecna ​​e usò la spada per recidere la mano dell'arcilich e cavargli un occhio. Nessuno sa perché Kas ha tradito Vecna. Alcuni credono che la voce misteriosa che parlò a Vecna ​​per eoni cominciò a temere l'arcilich e cominciò invece a sussurrare a Kas.",
+						"Dopo il loro scontro, Kas e Vecna ​​scomparvero per molto tempo. Il primo emerse in seguito come sovrano del dominio delle terre desolate di Tovag nella Coltre Oscura. Quest'ultimo trascorse diversi secoli saltando di mondo in mondo, alla ricerca della sua mano e del suo occhio mozzati. Più recentemente, Vecna ​​si è trasferito nei Piani Esterni, dove è diventato così potente da diventare un dio. Ha molti ardenti adoratori, tutti affamati di un assaggio del suo immenso potere.",
+						"Il blocco delle statistiche allegato raffigura Vecna ​​nella sua forma di arclich prima del tradimento di Kas. Poiché si dice che Vecna ​​abbia padroneggiato la magia permettendogli di viaggiare nel tempo, può apparire in questa forma anche su mondi in cui la sua mano e il suo occhio mozzati sono già artefatti conosciuti.",
 						{
 							"type": "inset",
 							"name": "The Book of Vile Darkness",
 							"entries": [
-								"While Vecna always carries the {@item Book of Vile Darkness} on his person\u2014in fact, he fashioned his lich form to encompass the Book\u2014he typically has no need to call upon its foul magic in battle. If the DM wishes to run a more challenging (and more complex) encounter, Vecna may call upon any of the book's abilities as appropriate."
+								"Sebbene Vecna ​​porti sempre con sé il {@item Book of Vile Darkness} (in effetti, ha modellato la sua forma da lich per racchiudere il Libro), in genere non ha bisogno di invocare la sua magia malvagia in battaglia. Se il DM desidera organizzare un incontro più impegnativo (e più complesso), Vecna ​​può fare appello a qualsiasi abilità del libro, a seconda dei casi."
 							]
 						}
 					]
@@ -949,8 +949,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Skeletal, quadrupedal horrors, vlazoks are particularly suited to battlefield cleanup in the Outer Planes. They love to stomp across battlefields after the fiercest fighting is over, trampling survivors and crushing pockets of resistance. When vlazoks anticipate an influx of enemies, these demons jump on them from above to crush them.",
-						"Vlazoks have keen senses, owing to the eyes positioned all around their hideous heads. They easily lose interest in their tasks unless powerful commanders, such as demon lords, keep them in line. Without careful direction, vlazoks become unhinged agents of chaos, smashing through crowds of weaker demons and decimating their ranks with powerful attacks."
+						"Orrori scheletrici e quadrupedi, i vlazok sono particolarmente adatti alla pulizia del campo di battaglia nei Piani Esterni. Amano calpestare i campi di battaglia dopo che i combattimenti più feroci sono finiti, calpestando i sopravvissuti e schiacciando le sacche di resistenza. Quando i vlazok anticipano un afflusso di nemici, questi demoni saltano su di loro dall'alto per schiacciarli.",
+						"I Vlazok hanno sensi acuti, grazie agli occhi posizionati attorno alle loro orribili teste. Perdono facilmente interesse nei loro compiti a meno che potenti comandanti, come i signori dei demoni, non li tengano in riga. Senza un'attenta direzione, i vlazok diventano folli agenti del caos, facendo a pezzi folle di demoni più deboli e decimando i loro ranghi con potenti attacchi."
 					]
 				}
 			],
@@ -971,7 +971,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Warforged warriors are formed from wood and steel, then magically imbued with life and sentience. They were created to fight in the Last War on the continent of Khorvaire in Eberron. In the aftermath of that conflict, they struggle to understand their place in the world."
+						"I guerrieri forgiati sono formati da legno e acciaio, quindi magicamente intrisi di vita e sensibilità. Sono stati creati per combattere nell'Ultima Guerra nel continente del Khorvaire a Eberron. In seguito a quel conflitto, faticano a capire il loro posto nel mondo."
 					]
 				}
 			],
@@ -992,7 +992,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Compared to other animated objects, whirling chandeliers seem to have capricious personalities. Victims typically perceive a whirling chandelier's Blazing Vortex as mischievousness or outright malevolence, though the chandelier lacks any understanding of such concepts. A whirling chandelier makes tactical decisions only as a means to perform its master's orders to the best of its ability."
+						"Rispetto ad altri oggetti animati, i lampadari rotanti sembrano avere personalità capricciose. Le vittime in genere percepiscono il Vortice Fiammeggiante di un lampadario rotante come malizia o pura malevolenza, sebbene il lampadario non abbia alcuna comprensione di tali concetti. Un lampadario rotante prende decisioni tattiche solo come mezzo per eseguire gli ordini del suo padrone al meglio delle sue capacità."
 					]
 				}
 			],
@@ -1013,8 +1013,8 @@
 				{
 					"type": "entries",
 					"entries": [
-						"As a dedicated champion of Tiamat, Windfall has been granted phenomenal power by her master. Her skin glitters with patches of multicolored scales, and in combat, her blade sings with all five of the chromatic dragons' elements. Windfall's enchanted tailcoat shimmers with the colors of the Dragon Queen, and she uses this coat to dazzle patrons and enemies alike.",
-						"A performer at heart, Windfall is ostentatious and charismatic, making small talk with regular patrons and jovially welcoming new faces to the casino."
+						"Essendo una campionessa devota di Tiamat, Windfall ha ricevuto un potere fenomenale dal suo padrone. La sua pelle brilla di squame di scaglie multicolori e, in combattimento, la sua lama canta con tutti e cinque gli elementi cromatici dei draghi. Il frac incantato di Windfall brilla dei colori della Regina dei Draghi e lei lo usa per abbagliare sia i clienti che i nemici.",
+						"Un artista nell'animo, Windfall è ostentato e carismatico, fa chiacchiere con gli avventori abituali e accoglie giovialmente nuovi volti al casinò."
 					]
 				}
 			],

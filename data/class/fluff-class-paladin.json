@@ -8,38 +8,38 @@
 					"name": "Paladin",
 					"type": "section",
 					"entries": [
-						"Clad in plate armor that gleams in the sunlight despite the dust and grime of long travel, a human lays down her sword and shield and places her hands on a mortally wounded man. Divine radiance shines from her hands, the man's wounds knit closed, and his eyes open wide with amazement.",
-						"A dwarf crouches behind an outcrop, his black cloak making him nearly invisible in the night, and watches an orc war band celebrating its recent victory. Silently, he stalks into their midst and whispers an oath, and two orcs are dead before they even realize he is there.",
-						"Silver hair shining in a shaft of light that seems to illuminate only him, an elf laughs with exultation. His spear flashes like his eyes as he jabs again and again at a twisted giant, until at last his light overcomes its hideous darkness.",
-						"Whatever their origin and their mission, paladins are united by their oaths to stand against the forces of evil. Whether sworn before a god's altar and the witness of a priest, in a sacred glade before nature spirits and fey beings, or in a moment of desperation and grief with the dead as the only witness, a paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.",
+						"Rivestito con un'armatura a piastre che brilla alla luce del sole nonostante la polvere e la sporcizia del lungo viaggio, un umano depone la spada e lo scudo e pone le mani su un uomo ferito a morte. Lo splendore divino risplende dalle sue mani, le ferite dell'uomo si rimarginano e i suoi occhi si spalancano per lo stupore.",
+						"Un nano si accovaccia dietro uno sperone, il suo mantello nero lo rende quasi invisibile nella notte, e osserva una banda da guerra di orchi che celebra la sua recente vittoria. Silenziosamente, si avvicina in mezzo a loro e sussurra un giuramento, e due orchi muoiono prima ancora di rendersi conto che è lì.",
+						"Capelli d'argento che brillano in un raggio di luce che sembra illuminare solo lui, un elfo ride esultante. La sua lancia lampeggia come i suoi occhi mentre colpisce ripetutamente un gigante contorto, finché alla fine la sua luce supera la sua orribile oscurità.",
+						"Qualunque sia la loro origine e la loro missione, i paladini sono uniti dal giuramento di opporsi alle forze del male. Sia che venga prestato davanti all'altare di un dio e alla testimonianza di un sacerdote, in una radura sacra davanti agli spiriti della natura e agli esseri fatati, o in un momento di disperazione e dolore con il morto come unico testimone, il giuramento di un paladino è un legame potente. È una fonte di potere che trasforma un guerriero devoto in un campione benedetto.",
 						{
 							"type": "entries",
 							"name": "The Cause of Righteousness",
 							"entries": [
-								"A paladin swears to uphold justice and righteousness, to stand with the good things of the world against the encroaching darkness, and to hunt the forces of evil wherever they lurk. Different paladins focus on various aspects of the cause of righteousness, but all are bound by the oaths that grant them power to do their sacred work. Although many paladins are devoted to gods of good, a paladin's power comes as much from a commitment to justice itself as it does from a god.",
-								"Paladins train for years to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the sick and injured, to smite the wicked and the undead, and to protect the innocent and those who join them in the fight for justice."
+								"Un paladino giura di sostenere la giustizia e la rettitudine, di schierarsi con le cose buone del mondo contro l'oscurità invadente e di dare la caccia alle forze del male ovunque si annidino. Diversi paladini si concentrano su vari aspetti della causa della rettitudine, ma tutti sono vincolati dai giuramenti che garantiscono loro il potere di svolgere il loro sacro lavoro. Sebbene molti paladini siano devoti agli dei del bene, il potere di un paladino deriva tanto dall'impegno per la giustizia stessa quanto da un dio.",
+								"I paladini si allenano per anni per apprendere le abilità del combattimento, padroneggiando una varietà di armi e armature. Anche così, le loro abilità marziali sono secondarie rispetto al potere magico che esercitano: il potere di curare i malati e i feriti, di punire i malvagi e i non morti e di proteggere gli innocenti e coloro che si uniscono a loro nella lotta per la giustizia."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Beyond the Mundane Life",
 							"entries": [
-								"Almost by definition, the life of a paladin is an adventuring life. Unless a lasting injury has taken him or her away from adventuring for a time, every paladin lives on the front lines of the cosmic struggle against evil. Fighters are rare enough among the ranks of the militias and armies of the world, but even fewer people can claim the true calling of a paladin. When they do receive the call, these warriors turn from their former occupations and take up arms to fight evil. Sometimes their oaths lead them into the service of the crown as leaders of elite groups of knights, but even then their loyalty is first to the cause of righteousness, not to crown and country.",
-								"Adventuring paladins take their work seriously. A delve into an ancient ruin or dusty crypt can be a quest driven by a higher purpose than the acquisition of treasure. Evil lurks in dungeons and primeval forests, and even the smallest victory against it can tilt the cosmic balance away from oblivion."
+								"Quasi per definizione, la vita di un paladino è una vita avventurosa. A meno che una ferita permanente non lo abbia allontanato dall'avventura per un po', ogni paladino vive in prima linea nella lotta cosmica contro il male. I combattenti sono abbastanza rari tra i ranghi delle milizie e degli eserciti del mondo, ma ancora meno persone possono rivendicare la vera vocazione di un paladino. Quando ricevono la chiamata, questi guerrieri abbandonano le loro precedenti occupazioni e imbracciano le armi per combattere il male. A volte i loro giuramenti li portano al servizio della corona come leader di gruppi elitari di cavalieri, ma anche in questo caso la loro lealtà è innanzitutto alla causa della rettitudine, non alla corona e al paese.",
+								"I paladini avventurieri prendono sul serio il loro lavoro. Scavare in un'antica rovina o in una cripta polverosa può essere una ricerca guidata da uno scopo più elevato dell'acquisizione di un tesoro. Il male si annida nei sotterranei e nelle foreste primordiali, e anche la più piccola vittoria contro di esso può spostare l'equilibrio cosmico dall'oblio."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Creating a Paladin",
 							"entries": [
-								"The most important aspect of a paladin character is the nature of his or her holy quest. Although the class features related to your oath don't appear until you reach 3rd level, plan ahead for that choice by reading the oath descriptions at the end of the class. Are you a devoted servant of good, loyal to the gods of justice and honor, a holy knight in shining armor venturing forth to smite evil? Are you a glorious champion of the light, cherishing everything beautiful that stands against the shadow, a knight whose oath descends from traditions older than many of the gods? Or are you an embittered loner sworn to take vengeance on those who have done great evil, sent as an angel of death by the gods or driven by your need for revenge? Appendix B lists many deities worshiped by paladins throughout the multiverse, such as Torm, Tyr, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, the Silver Flame, Bahamut, Athena, Re-Horakhty, and Heimdall.",
-								"How did you experience your call to serve as a paladin? Did you hear a whisper from an unseen god or angel while you were at prayer? Did another paladin sense the potential within you and decide to train you as a squire? Or did some terrible event\u2014the destruction of your home, perhaps\u2014drive you to your quests? Perhaps you stumbled into a sacred grove or a hidden elven enclave and found yourself called to protect all such refuges of goodness and beauty. Or you might have known from your earliest memories that the paladin's life was your calling, almost as if you had been sent into the world with that purpose stamped on your soul.",
-								"As guardians against the forces of wickedness, paladins are rarely of any evil alignment. Most of them walk the paths of charity and justice. Consider how your alignment colors the way you pursue your holy quest and the manner in which you conduct yourself before gods and mortals. Your oath and alignment might be in harmony, or your oath might represent standards of behavior that you have not yet attained.",
+								"L'aspetto più importante del personaggio di un paladino è la natura della sua ricerca sacra. Anche se i privilegi di classe legati al tuo giuramento non appaiono finché non raggiungi il 3° livello, pianifica in anticipo quella scelta leggendo le descrizioni del giuramento alla fine della lezione. Sei un devoto servitore del bene, leale agli dei della giustizia e dell'onore, un santo cavaliere dall'armatura scintillante che si avventura a colpire il male? Sei un glorioso campione della luce, che ami tutto ciò che di bello si staglia contro l'ombra, un cavaliere il cui giuramento discende da tradizioni più antiche di molti dei? O sei un solitario amareggiato che ha giurato di vendicarsi di coloro che hanno commesso un grande male, inviato come angelo della morte dagli dei o spinto dal tuo bisogno di vendetta? L'Appendice B elenca molte divinità venerate dai paladini in tutto il multiverso, come Torm, Tyr, Heironeous, Paladine, Kiri-Jolith, Dol Arrah, la Fiamma d'Argento, Bahamut, Atena, Re-Horakhty e Heimdall.",
+								"Come hai vissuto la chiamata a servire come paladino? Hai sentito un sussurro da un dio o un angelo invisibile mentre eri in preghiera? Un altro paladino ha percepito il potenziale dentro di te e ha deciso di addestrarti come scudiero? Oppure è stato qualche evento terribile, forse la distruzione della tua casa, a spingerti a intraprendere le tue ricerche? Forse sei incappato in un bosco sacro o in un'enclave elfica nascosta e ti sei trovato chiamato a proteggere tutti questi rifugi di bontà e bellezza. Oppure avresti potuto sapere fin dai tuoi primi ricordi che la vita da paladino era la tua vocazione, quasi come se fossi stato mandato nel mondo con quello scopo impresso nella tua anima.",
+								"In quanto guardiani contro le forze della malvagità, i paladini raramente hanno un allineamento malvagio. La maggior parte di loro percorre le vie della carità e della giustizia. Considera come il tuo allineamento influenza il modo in cui persegui la tua ricerca sacra e il modo in cui ti comporti davanti agli dei e ai mortali. Il tuo giuramento e il tuo allineamento potrebbero essere in armonia, oppure il tuo giuramento potrebbe rappresentare standard di comportamento che non hai ancora raggiunto.",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the {@background noble} background."
+										"Puoi creare rapidamente un paladino seguendo questi suggerimenti. Innanzitutto, la Forza dovrebbe essere il tuo punteggio di caratteristica più alto, seguito da Carisma. In secondo luogo, scegli lo sfondo {@background noble}."
 									]
 								}
 							]
@@ -54,17 +54,17 @@
 						{
 							"type": "quote",
 							"entries": [
-								"The true worth of a paladin is measured not in foes defeated or dungeons plundered. It is measured in lives saved and hearts turned to the causes of mercy and justice."
+								"Il vero valore di un paladino non si misura nei nemici sconfitti o nei sotterranei saccheggiati. Si misura in vite salvate e cuori rivolti alle cause della misericordia e della giustizia."
 							],
 							"by": "Isteval"
 						},
-						"A paladin is a living embodiment of an oath\u2014a promise or a vow made manifest in the person of a holy warrior who has the skill and the determination to see the cause through to the end. Some paladins devote themselves expressly to protecting the innocent and spreading justice in the world, while others resolve to attain that goal by conquering those who stand defiant and bringing them under the rule of law.",
-						"Although no paladin in the world could be described as typical, a number of them are narrow-minded do-gooders who refuse to tolerate even the smallest deviation from their own outlook. Paladins who take up the adventuring life, however, rarely remain so rigid in their attitudes\u2014if only to keep from alienating their companions.",
-						"You can flesh out your paladin character by using the suggestions below. It's important to keep in mind that most paladins aren't robots. They have doubts and prejudices and harbor contradictory thoughts just as any other character does. Some are compelled by an internal motivation that might sometimes be at odds with the principles of their oaths.",
+						"Un paladino è l'incarnazione vivente di un giuramento: una promessa o un voto reso manifesto nella persona di un guerriero sacro che ha l'abilità e la determinazione per portare a termine la causa. Alcuni paladini si dedicano espressamente alla protezione degli innocenti e alla diffusione della giustizia nel mondo, mentre altri decidono di raggiungere questo obiettivo conquistando coloro che si oppongono e sottoponendoli allo stato di diritto.",
+						"Sebbene nessun paladino al mondo possa essere descritto come tipico, molti di loro sono benefattori dalla mentalità ristretta che rifiutano di tollerare anche la più piccola deviazione dalla propria visione. I paladini che intraprendono la vita avventurosa, tuttavia, raramente rimangono così rigidi nei loro atteggiamenti, se non altro per evitare di alienare i loro compagni.",
+						"Puoi arricchire il tuo personaggio da paladino utilizzando i suggerimenti di seguito. È importante tenere presente che la maggior parte dei paladini non sono robot. Hanno dubbi e pregiudizi e nutrono pensieri contraddittori proprio come qualsiasi altro personaggio. Alcuni sono costretti da una motivazione interna che a volte potrebbe essere in contrasto con i principi del loro giuramento.",
 						{
 							"type": "quote",
 							"entries": [
-								"Living up to an oath? That sounds ridiculous. Why would anyone ever do that? There's nothing wrong with making promises, but only suckers keep them."
+								"Mantenere fede al giuramento? Sembra ridicolo. Perché mai qualcuno dovrebbe farlo? Non c'è niente di sbagliato nel fare promesse, ma solo i cretini le mantengono."
 							],
 							"by": "Xanathar"
 						},
@@ -72,8 +72,8 @@
 							"type": "entries",
 							"name": "Personal Goal",
 							"entries": [
-								"The precepts of a paladin's oath provide purpose to the character and dictate an ultimate goal or an overall intent that the paladin abides by and advances. Aside from that, some paladins are driven by a personal goal that either complements or transcends the dictates of their oaths. Paladins who swear different oaths might have the same personal goal, differing only in how they apply that goal to their actions when upholding their oaths.",
-								"If your paladin character has a personal goal, it might be drawn from some life event and thus not directly tied to the oath.",
+								"I precetti del giuramento di un paladino forniscono uno scopo al personaggio e dettano un obiettivo finale o un intento generale che il paladino rispetta e porta avanti. A parte questo, alcuni paladini sono guidati da un obiettivo personale che integra o trascende i dettami dei loro giuramenti. I paladini che prestano giuramenti diversi potrebbero avere lo stesso obiettivo personale, differendo solo nel modo in cui applicano tale obiettivo alle loro azioni quando mantengono i loro giuramenti.",
+								"Se il tuo personaggio paladino ha un obiettivo personale, potrebbe essere tratto da qualche evento della vita e quindi non direttamente legato al giuramento.",
 								{
 									"type": "table",
 									"caption": "Personal Goal",
@@ -93,7 +93,7 @@
 													"exact": 1
 												}
 											},
-											"Peace. You fight so that future generations will not have to."
+											"Pace. Combatti affinché le generazioni future non debbano farlo."
 										],
 										[
 											{
@@ -102,7 +102,7 @@
 													"exact": 2
 												}
 											},
-											"Revenge. Your oath is the vehicle through which you will right an ancient wrong."
+											"Vendetta. Il tuo giuramento è il veicolo attraverso il quale correggerai un antico torto."
 										],
 										[
 											{
@@ -111,7 +111,7 @@
 													"exact": 3
 												}
 											},
-											"Duty. You will live up to what you have sworn to do, or die trying."
+											"Dovere. Rispetterai ciò che hai giurato di fare, o morirai provandoci."
 										],
 										[
 											{
@@ -120,7 +120,7 @@
 													"exact": 4
 												}
 											},
-											"Leadership. You will win a great battle that bards will sing about, and in so doing, you will become an example to inspire others."
+											"Direzione. Vincerai una grande battaglia di cui i bardi canteranno e, così facendo, diventerai un esempio per ispirare gli altri."
 										],
 										[
 											{
@@ -129,7 +129,7 @@
 													"exact": 5
 												}
 											},
-											"Faith. You know your path is righteous, or else the gods would not have set you upon it."
+											"Fede. Sai che la tua strada è giusta, altrimenti gli dei non ti avrebbero messo su di essa."
 										],
 										[
 											{
@@ -138,7 +138,7 @@
 													"exact": 6
 												}
 											},
-											"Glory. You will lead the world into a grand new era, one that will be branded with your name."
+											"Gloria. Condurrai il mondo verso una nuova, grandiosa era, che sarà marchiata con il tuo nome."
 										]
 									]
 								}
@@ -148,8 +148,8 @@
 							"type": "entries",
 							"name": "Symbol",
 							"entries": [
-								"Paladins are mindful of the influence of symbols, and many of them adopt or design an artistic device that bears a distinctive image. Your symbol exemplifies the oath you have taken and communicates that message to those around you, friend and foe alike.",
-								"Your symbol might be displayed on a banner, a flag, or your clothing for all to see. Or it could be less obvious, such as a trinket or a token that you carry concealed on your person.",
+								"I paladini sono consapevoli dell'influenza dei simboli e molti di loro adottano o progettano un dispositivo artistico che porta un'immagine distintiva. Il tuo simbolo esemplifica il giuramento che hai prestato e comunica quel messaggio a coloro che ti circondano, amici e nemici.",
+								"Il tuo simbolo potrebbe essere visualizzato su uno striscione, una bandiera o sui tuoi vestiti affinché tutti possano vederlo. Oppure potrebbe essere meno ovvio, come un ninnolo o un gettone che porti nascosto con te.",
 								{
 									"type": "table",
 									"caption": "Symbol",
@@ -169,7 +169,7 @@
 													"exact": 1
 												}
 											},
-											"A dragon, emblematic of your nobility in peace and your ferocity in combat"
+											"Un drago, emblematico della tua nobiltà in pace e della tua ferocia in combattimento"
 										],
 										[
 											{
@@ -178,7 +178,7 @@
 													"exact": 2
 												}
 											},
-											"A clenched fist, because you are always ready to fight for your beliefs"
+											"Il pugno chiuso, perché sei sempre pronto a lottare per le tue convinzioni"
 										],
 										[
 											{
@@ -187,7 +187,7 @@
 													"exact": 3
 												}
 											},
-											"An upraised open hand, indicating your preference for diplomacy over combat"
+											"Una mano aperta alzata, che indica la tua preferenza per la diplomazia rispetto al combattimento"
 										],
 										[
 											{
@@ -196,7 +196,7 @@
 													"exact": 4
 												}
 											},
-											"A red heart, showing the world your commitment to justice"
+											"Un cuore rosso, che mostra al mondo il tuo impegno per la giustizia"
 										],
 										[
 											{
@@ -205,7 +205,7 @@
 													"exact": 5
 												}
 											},
-											"A black heart, signifying that emotions such as pity do not sway your dedication to your oath"
+											"Un cuore nero, a significare che emozioni come la pietà non influenzano la tua dedizione al giuramento"
 										],
 										[
 											{
@@ -214,7 +214,7 @@
 													"exact": 6
 												}
 											},
-											"An unblinking eye, meaning that you are ever alert to all threats against your cause"
+											"Un occhio impassibile, il che significa che sei sempre attento a tutte le minacce contro la tua causa"
 										]
 									]
 								}
@@ -224,8 +224,8 @@
 							"type": "entries",
 							"name": "Nemesis",
 							"entries": [
-								"Their adherence to a sacred oath demands that paladins take an active stance in carrying their beliefs into the world. This activity naturally leads to conflict with creatures or entities that oppose those beliefs. Among those opponents, one often stands out as a paladin's most persistent or most formidable foe\u2014a nemesis whose presence or influence is a constant factor in a paladin's life.",
-								"Your paladin character might have an enemy that dates from the days before you took up your path. Or you could be a target because when you became a paladin, you immediately attracted the attention of those that would do you in. If you have a nemesis, who or what is it? Whom among your enemies do you consider to be the biggest threat to achieving your goals?",
+								"La loro adesione a un sacro giuramento richiede che i paladini assumano una posizione attiva nel portare le loro convinzioni nel mondo. Questa attività porta naturalmente al conflitto con creature o entità che si oppongono a tali credenze. Tra questi avversari, uno spesso si distingue come il nemico più persistente o formidabile del paladino: una nemesi la cui presenza o influenza è un fattore costante nella vita di un paladino.",
+								"Il tuo personaggio paladino potrebbe avere un nemico che risale a giorni prima che tu intraprendessi il tuo cammino. Oppure potresti essere un bersaglio perché quando sei diventato un paladino, hai immediatamente attirato l'attenzione di coloro che volevano farti fuori. Se hai una nemesi, chi o cosa è? Chi tra i tuoi nemici consideri essere la più grande minaccia al raggiungimento dei tuoi obiettivi?",
 								{
 									"type": "table",
 									"caption": "Nemesis",
@@ -245,7 +245,7 @@
 													"exact": 1
 												}
 											},
-											"A mighty orc war chief who threatens to overrun and destroy everything you hold sacred"
+											"Un potente capo guerriero degli orchi che minaccia di invadere e distruggere tutto ciò che consideri sacro"
 										],
 										[
 											{
@@ -254,7 +254,7 @@
 													"exact": 2
 												}
 											},
-											"A fiend or a celestial, the agent of a power of the Outer Planes, who has been charged with corrupting or redeeming you, as appropriate"
+											"Un demone o un essere celeste, l'agente di un potere dei Piani Esterni, incaricato di corromperti o redimerti, a seconda dei casi"
 										],
 										[
 											{
@@ -263,7 +263,7 @@
 													"exact": 3
 												}
 											},
-											"A dragon whose servants dog your steps"
+											"Un drago i cui servitori seguono i tuoi passi"
 										],
 										[
 											{
@@ -272,7 +272,7 @@
 													"exact": 4
 												}
 											},
-											"A high priest who sees you as a misguided fool and wants you to abandon your religion"
+											"Un sommo sacerdote che ti vede come uno sciocco fuorviato e vuole che abbandoni la tua religione"
 										],
 										[
 											{
@@ -281,7 +281,7 @@
 													"exact": 5
 												}
 											},
-											"A rival paladin who trained with you but became an oath-breaker and holds you responsible"
+											"Un paladino rivale che si è allenato con te ma è diventato uno che ha infranto il giuramento e ti ritiene responsabile"
 										],
 										[
 											{
@@ -290,7 +290,7 @@
 													"exact": 6
 												}
 											},
-											"A vampire who has sworn revenge against all paladins after being defeated by one"
+											"Un vampiro che ha giurato vendetta contro tutti i paladini dopo essere stato sconfitto da uno"
 										]
 									]
 								}
@@ -300,8 +300,8 @@
 							"type": "entries",
 							"name": "Temptation",
 							"entries": [
-								"Although paladins are dedicated to their oaths, they are mortals, and thus they are flawed. Many of them exhibit a type of behavior or hold to an attitude that is not in keeping with the highest ideals of their calling.",
-								"What is the temptation that your character succumbs to or finds it difficult to resist?",
+								"Sebbene i paladini siano devoti ai loro giuramenti, sono mortali e quindi imperfetti. Molti di loro manifestano un tipo di comportamento o mantengono un atteggiamento che non è in linea con gli ideali più alti della loro chiamata.",
+								"Qual è la tentazione a cui il tuo personaggio cede o trova difficile resistere?",
 								{
 									"type": "table",
 									"caption": "Temptation",
@@ -321,7 +321,7 @@
 													"exact": 1
 												}
 											},
-											"Fury. When your anger is roused, you have trouble thinking straight, and you fear you might do something you'll regret."
+											"Furia. Quando la tua rabbia si risveglia, hai difficoltà a pensare lucidamente e temi di poter fare qualcosa di cui ti pentirai."
 										],
 										[
 											{
@@ -330,7 +330,7 @@
 													"exact": 2
 												}
 											},
-											"Pride. Your deeds are noteworthy, and no one takes note of them more often than you."
+											"Orgoglio. Le tue azioni sono degne di nota e nessuno le prende nota più spesso di te."
 										],
 										[
 											{
@@ -339,7 +339,7 @@
 													"exact": 3
 												}
 											},
-											"Lust. You can't resist an attractive face and a pleasant smile."
+											"Lussuria. Non puoi resistere a un viso attraente e a un sorriso piacevole."
 										],
 										[
 											{
@@ -348,7 +348,7 @@
 													"exact": 4
 												}
 											},
-											"Envy. You are mindful of what some famous folk have accomplished, and you feel inadequate when your deeds don't compare to theirs."
+											"Invidia. Sei consapevole di ciò che alcune persone famose hanno realizzato e ti senti inadeguato quando le tue azioni non sono paragonabili alle loro."
 										],
 										[
 											{
@@ -357,7 +357,7 @@
 													"exact": 5
 												}
 											},
-											"Despair. You consider the great strength of the enemies you must defeat, and at times you see no way to achieve final victory."
+											"Disperazione. Consideri la grande forza dei nemici che devi sconfiggere e, a volte, non vedi alcun modo per ottenere la vittoria finale."
 										],
 										[
 											{
@@ -366,7 +366,7 @@
 													"exact": 6
 												}
 											},
-											"Greed. Regardless of how much glory and treasure you amass, it's never enough for you."
+											"Avidità. Indipendentemente da quanta gloria e tesoro accumuli, non ti bastano mai."
 										]
 									]
 								}
@@ -399,9 +399,9 @@
 					"source": "XPHB",
 					"page": 108,
 					"entries": [
-						"Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.",
-						"Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the injured, smite their foes, and protect the helpless and those who fight at their side.",
-						"Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic."
+						"I paladini sono uniti dal giuramento di opporsi alle forze dell'annientamento e della corruzione. Sia che venga prestato davanti all'altare di un dio, in una radura sacra davanti agli spiriti della natura, o in un momento di disperazione e dolore con i morti come unici testimoni, il giuramento di un Paladino è un legame potente. È una fonte di potere che trasforma un guerriero devoto in un campione benedetto.",
+						"I paladini si allenano per apprendere le abilità del combattimento, padroneggiando una varietà di armi e armature. Anche così, le loro abilità marziali sono secondarie rispetto al potere magico che esercitano: il potere di curare i feriti, colpire i nemici e proteggere gli indifesi e coloro che combattono al loro fianco.",
+						"Quasi per definizione, la vita di un Paladino è una vita avventurosa, poiché ogni Paladino vive in prima linea nella lotta cosmica contro l'annientamento. I combattenti sono abbastanza rari tra i ranghi degli eserciti mondiali, ma ancora meno persone possono rivendicare la vocazione di un Paladino. Quando ricevono la chiamata, queste persone benedette abbandonano le loro precedenti occupazioni e imbracciano le armi e la magia."
 					]
 				}
 			],
@@ -430,7 +430,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"Conquest sounds cool. Do you have to leave your house for that? Because I've got a fish named Sylgar, and I can't be away for too long or he gets sad."
+						"La conquista sembra interessante. Devi uscire di casa per questo? Perché ho un pesce di nome Sylgar e non posso stare via troppo a lungo altrimenti si rattrista."
 					],
 					"by": "Xanathar"
 				}
@@ -457,7 +457,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"Redemption. So you feel bad about having done something, and then you have to do something to feel better? Why don't you just kill and eat someone? That always makes me feel better."
+						"Redenzione. Quindi ti senti male per aver fatto qualcosa e poi devi fare qualcosa per sentirti meglio? Perché non uccidi e mangi qualcuno? Questo mi fa sempre sentire meglio."
 					],
 					"by": "Xanathar"
 				}

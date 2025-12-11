@@ -1,0 +1,65 @@
+name: Daily Upstream Sync and Translation
+
+on:
+   # Runs once daily at a specified time (e.g., 04:00 UTC)
+   #schedule:
+   #  - cron: "0 4 * * *"
+   # Allows manual triggering for testing
+   workflow_dispatch:
+
+jobs:
+   sync_and_translate:
+      runs-on: ubuntu-latest
+
+      steps:
+         # Step 1: Checkout the current state of your fork
+         - name: 1. Checkout Repository
+           uses: actions/checkout@v4
+           with:
+              fetch-depth: 0
+              token: ${{ secrets.GITHUB_TOKEN }}
+
+         # Step 3: Perform the Sync (Fetch and Merge)
+         # This step fetches upstream changes and merges them into the local main branch.
+         - name: 2. Sync Upstream Content
+           run: |
+              git remote add upstream https://github.com/5etools-mirror-3/5etools-src.git
+              # Configure Git user
+              git config user.name 'github-actions[bot]'
+              git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+              # Ensure we are on the 'main' branch
+              git checkout main
+
+              # Pull and merge upstream/main. We omit --ff-only to ensure the sync always works,
+              # which is essential if you want the "clone the remote" behavior.
+              git reset --hard upstream/main
+
+         # Step 4: Setup Python Environment
+         - name: 3. Setup Python and Install Dependencies
+           uses: actions/setup-python@v5
+           with:
+              python-version: "3.13"
+
+         # Step 5: Execute Translation Script
+         # NOTE: This step MUST now write its output directly into the 'data' directory
+         # since the rename step (Step 7 from previous versions) was removed.
+         - name: 4. Execute Translation Script
+           run: |
+              echo "Installing Python dependencies..."
+              pip install deep_translator
+
+              echo "Executing Python translation script..."
+              python ./translation/translate.py --language it --translate data/spells/*.json data/class/*.json data/*.json data/book/*.json data/adventure/*.json data/bestiary/*.json data/*.json
+
+         # Step 6: Commit and Push Translated Files
+         - name: 5. Commit and Push Changes
+           run: |
+              # Check for changes after the merge and script execution
+              if git diff --cached --exit-code --quiet && git diff --exit-code --quiet; then
+                echo "No changes detected. Skipping commit."
+              else
+                git add .
+                git commit -m "Automated Sync: Merged from upstream and applied translations"
+                git push origin HEAD
+              fi

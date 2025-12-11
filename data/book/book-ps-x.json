@@ -20,12 +20,12 @@
 					"skipItalics": true,
 					"skipMarks": true,
 					"entries": [
-						"This is a pretty special installment of the Plane Shift series for me, because I was the creative lead for Ixalan world building. Perhaps betraying my fourteen-year history working on {@style Dungeons & Dragons|small-caps;dnd-font}, Ixalan is a world of exploration and treasure, marked by ancient sites waiting to be explored by intrepid heroes. One of those sites, shown on a card in the {@i Ixalan} set, is obviously inspired by a classic D&D adventure, {@adventure The Hidden Shrine of Tamoachan|TftYP-THSoT}. This plane lacks only dragons to be a fully realized D&D milieu\u2014there's even a world map!",
-						"Ultimately, that means that writing {@i Plane Shift: Ixalan} was both a ton of fun and relatively easy. The people who populate Ixalan have a lot in common with D&D characters already, and mapping them to existing classes and backgrounds was a pretty straightforward task. Similarly, the creatures of the plane\u2014especially the dinosaurs\u2014had a lot of analogues in the game already. And still, this is the longest installment of Plane Shift yet!",
-						"That's partly because I had the freedom to really cut loose on ideas and inspiration to help you play a character in this exciting world. You'll find more tables in here than ever before\u2014tables of personality traits and ideals to flesh out your character, of treasures to flavor your hoards, and inspiration to bring your party together. This sort of thing is both really enjoyable and really challenging to write\u2014a lot like the flavor text on Magic cards, actually, because each one is a self-contained nugget, a complete idea in a single sentence. I hope that all this stuff enriches your game.",
-						"The appendix in this document is an extended musing on the colors of Magic and their relationship to D&D characters and spells. This is the sort of thing that dominates a lot of lunchtime conversations with members of the Magic creative team who are also avid D&D fans, and also the sort of thing I get a lot of questions about on Twitter. As with much of the rest of this document, the focus is more on roleplaying and character building than on rules. It's a first stab, though, toward a more comprehensive understanding of the relationship between the worlds of both games.",
-						"As always, {@i The Art of Magic: The Gathering\u2014Ixalan} is the definitive resource for information about the plane. With this document, you can use that information to build a campaign with a minimum of changes to the fifth edition D&D rules, which you can {@link find here|https://dnd.wizards.com/what-is-dnd/basic-rules}. And even without the book, you can find lore about Ixalan on {@link the Magic web site|https://magic.wizards.com/}.",
-						"There's a lot of open space on that map. I hope you have fun exploring the world of Ixalan!"
+						"Questa è una puntata piuttosto speciale della serie Plane Shift per me, perché sono stato il responsabile creativo della costruzione del mondo di Ixalan. Forse tradendo i miei quattordici anni di storia su cui lavoro {@style Dungeons & Dragons|small-caps;dnd-font}, Ixalan è un mondo di esplorazioni e tesori, caratterizzato da antichi siti in attesa di essere esplorati da intrepidi eroi. Uno di questi siti, mostrato su una carta nel set {@i Ixalan}, è ovviamente ispirato a una classica avventura di D&D {@adventure The Hidden Shrine of Tamoachan|TftYP-THSoT}. A questo piano mancano solo i draghi per essere un ambiente di D&D pienamente realizzato: c'è persino una mappa del mondo!",
+						"In definitiva, ciò significa che scrivere {@i Plane Shift: Ixalan} è stato molto divertente e relativamente facile. Le persone che popolano Ixalan hanno già molto in comune con i personaggi di D&D, e mapparli su classi e background esistenti è stato un compito piuttosto semplice. Allo stesso modo, le creature dell'aereo, in particolare i dinosauri, avevano già molti analoghi nel gioco. Eppure, questa è la puntata più lunga di Plane Shift finora!",
+						"Ciò è in parte dovuto al fatto che ho avuto la libertà di liberare davvero idee e ispirazione per aiutarti a interpretare un personaggio in questo mondo emozionante. Qui troverai più tabelle che mai: tabelle di tratti della personalità e ideali per arricchire il tuo carattere, di tesori per insaporire i tuoi tesori e ispirazione per riunire il tuo gruppo. Questo genere di cose è allo stesso tempo davvero divertente e davvero impegnativo da scrivere, molto simile al testo narrativo sulle carte di Magic, in realtà, perché ognuna è una pepita a sé stante, un'idea completa in una singola frase. Spero che tutto questo arricchisca il tuo gioco.",
+						"L'appendice di questo documento è un'estesa riflessione sui colori di Magic e sulla loro relazione con i personaggi e gli incantesimi di D&D. Questo è il genere di cose che domina molte conversazioni all'ora di pranzo con i membri del team creativo di Magic che sono anche accaniti fan di D&D, e anche il genere di cose su cui ricevo molte domande su Twitter. Come per gran parte del resto di questo documento, l'attenzione è più sul gioco di ruolo e sulla costruzione del personaggio che sulle regole. È un primo tentativo, però, verso una comprensione più completa della relazione tra i mondi di entrambi i giochi.",
+						"Come sempre, {@i The Art of Magic: The Gathering—Ixalan} è la risorsa definitiva per informazioni sull'aereo. Con questo documento, puoi utilizzare tali informazioni per costruire una campagna con un minimo di modifiche alle regole di D&D della quinta edizione, cosa che puoi {@link find here|https://dnd.wizards.com/what-is-dnd/basic-rules}. E anche senza il libro, puoi trovare informazioni su Ixalan su {@link the Magic web site|https://magic.wizards.com/}.",
+						"C'è molto spazio aperto su quella mappa. Spero che ti divertirai ad esplorare il mondo di Ixalan!"
 					],
 					"by": "James Wyatt"
 				},
@@ -64,7 +64,7 @@
 					"name": "Sun Empire",
 					"page": 5,
 					"entries": [
-						"The Sun Empire is a powerful civilization that dominates the eastern coast of Ixalan. The empire's fierce warriors are supported by priests who wield the power of the sun and command the mighty dinosaurs that inhabit the continent. A new ruler has brought the empire into an era of expansion, seeking to reclaim the lands in the continent's interior that it once held. At the same time, a foreign incursion into those same lands sparks a search for the artifact known as the Immortal Sun, which the people of the empire view as a potent symbol of their identity.",
+						"L'Impero del Sole è una potente civiltà che domina la costa orientale di Ixalan. I feroci guerrieri dell'impero sono supportati da sacerdoti che esercitano il potere del sole e comandano i potenti dinosauri che popolano il continente. Un nuovo sovrano ha portato l'impero in un'era di espansione, cercando di riconquistare le terre all'interno del continente che un tempo possedeva. Allo stesso tempo, un'incursione straniera in quelle stesse terre innesca la ricerca del manufatto noto come Sole Immortale, che la gente dell'impero vede come un potente simbolo della propria identità.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -93,13 +93,13 @@
 									"name": "Suggested Classes",
 									"page": 5,
 									"entries": [
-										"Consider the following class options for your Sun Empire character.",
+										"Considera le seguenti opzioni di classe per il tuo personaggio dell'Impero del Sole.",
 										{
 											"type": "entries",
 											"name": "{@class Barbarian}",
 											"page": 5,
 											"entries": [
-												"Certain warriors devoted to Tilonalli (the destructive aspect of the Threefold Sun\u2014the deity worshiped by the folk of the empire) enter a berserk rage in combat. The {@class Barbarian||Path of the Berserker|Berserker} is appropriate for these characters, or the {@class Barbarian||Path of the Totem Warrior|Totem Warrior} (replacing bear, eagle, and wolf totem spirits with {@creature ceratops|PSX}, {@creature aerosaur (large)|PSX|aerosaur}, and {@creature velociraptor|VGM|raptor} spirits, respectively)."
+												"Alcuni guerrieri devoti a Tilonalli (l'aspetto distruttivo del Triplice Sole, la divinità adorata dal popolo dell'impero) entrano in una furia furiosa in combattimento. Il {@class Barbarian||Path of the Berserker|Berserker} è appropriato per questi personaggi, o il {@class Barbarian||Path of the Totem Warrior|Totem Warrior} (sostituendo gli spiriti totem dell'orso, dell'aquila e del lupo rispettivamente con gli spiriti {@creature ceratops|PSX}, {@creature aerosaur (large)|PSX|aerosaur} e {@creature velociraptor|VGM|raptor})."
 											],
 											"id": "004"
 										},
@@ -108,7 +108,7 @@
 											"name": "{@class Bard}",
 											"page": 5,
 											"entries": [
-												"Poetry is a respected art among the warriors of the Sun Empire, so bards of the {@class Bard||College of Valor|Valor} might be found within their ranks."
+												"La poesia è un'arte rispettata tra i guerrieri dell'Impero del Sole, quindi tra i loro ranghi potresti trovare bardi del {@class Bard||College of Valor|Valor}."
 											],
 											"id": "005"
 										},
@@ -117,7 +117,7 @@
 											"name": "{@class Cleric}",
 											"page": 5,
 											"entries": [
-												"Sun Empire clerics are typically devoted to one particular aspect of the Threefold Sun. Kinjalli, the Wakening Sun, represents the deity's creative aspects and grants access to the {@class Cleric||Life|Life} and {@class Cleric||Light|Light} domains. Ixalli, the Verdant Sun, represents its sustaining and nourishing aspects, granting access to the {@class Cleric||Life|Life} and {@class Cleric||Nature|Nature} domains. Tilonalli, the Burning Sun, represents its destructive aspects and grants access to the {@class Cleric||Tempest|Tempest} and {@class Cleric||War|War} domains."
+												"I chierici dell'Impero del Sole sono tipicamente devoti a un aspetto particolare del Triplice Sole. Kinjalli, il Sole che si risveglia, rappresenta gli aspetti creativi della divinità e garantisce l'accesso ai domini {@class Cleric||Life|Life} e {@class Cleric||Light|Light}. Ixalli, il Sole Verdeggiante, rappresenta i suoi aspetti di sostegno e nutrimento, garantendo l'accesso ai domini {@class Cleric||Life|Life} e {@class Cleric||Nature|Nature}. Tilonalli, il Sole Bruciante, rappresenta i suoi aspetti distruttivi e garantisce l'accesso ai domini {@class Cleric||Tempest|Tempest} e {@class Cleric||War|War}."
 											],
 											"id": "006"
 										},
@@ -126,7 +126,7 @@
 											"name": "{@class Druid}",
 											"page": 5,
 											"entries": [
-												"Certain shamans of the Sun Empire are closely attuned to the forces of nature, and use wild shape to take on dinosaur forms. These druids typically follow the {@class Druid||Circle of the Moon|Moon}."
+												"Alcuni sciamani dell'Impero del Sole sono strettamente in sintonia con le forze della natura e usano la forma selvatica per assumere forme di dinosauro. Questi druidi in genere seguono il {@class Druid||Circle of the Moon|Moon}."
 											],
 											"id": "007"
 										},
@@ -135,7 +135,7 @@
 											"name": "{@class Fighter}",
 											"page": 5,
 											"entries": [
-												"Highly trained soldiers and warriors are the backbone of the Sun Empire. They are typically {@class Fighter||Battle Masters|Battle Master} or {@class Fighter||Champions|Champion}."
+												"Soldati e guerrieri altamente addestrati sono la spina dorsale dell'Impero del Sole. Solitamente sono {@class Fighter||Battle Masters|Battle Master} o {@class Fighter||Champions|Champion}."
 											],
 											"id": "008"
 										},
@@ -144,7 +144,7 @@
 											"name": "{@class Paladin}",
 											"page": 5,
 											"entries": [
-												"Knights of the Sun Empire are drawn to the {@class Paladin||Oath of the Ancients|Ancients} and (increasingly, as vampires and pirates mount incursions into their lands) the {@class Paladin||Oath of Vengeance|Vengeance}. These paladins often use the {@spell find steed} spell to acquire dinosaur mounts (typically a {@creature hadrosaurus|VGM}, described in {@book Volo's Guide to Monsters|VGM})."
+												"I Cavalieri dell'Impero del Sole sono attratti dal {@class Paladin||Oath of the Ancients|Ancients} e (sempre più, man mano che vampiri e pirati organizzano incursioni nelle loro terre) dal {@class Paladin||Oath of Vengeance|Vengeance}. Questi paladini usano spesso l'incantesimo {@spell find steed} per acquisire cavalcature di dinosauri (tipicamente un {@creature hadrosaurus|VGM}, descritto in {@book Volo's Guide to Monsters|VGM})."
 											],
 											"id": "009"
 										},
@@ -153,7 +153,7 @@
 											"name": "{@class Ranger}",
 											"page": 5,
 											"entries": [
-												"Scouts of the Sun Empire are often rangers, including both {@class Ranger||Beast Masters|Beast Master} and {@class Ranger||Hunters|Hunter}. The {@creature pteranodon}, {@creature dimetrodon|VGM}, and {@creature velociraptor|VGM} are all appropriate ranger's companions."
+												"Gli esploratori dell'Impero del Sole sono spesso ranger, inclusi sia {@class Ranger||Beast Masters|Beast Master} che {@class Ranger||Hunters|Hunter}. {@creature pteranodon}, {@creature dimetrodon|VGM} e {@creature velociraptor|VGM} sono tutti compagni appropriati del ranger."
 											],
 											"id": "00a"
 										}
@@ -168,9 +168,9 @@
 							"name": "Four Peoples, One Party",
 							"page": 5,
 							"entries": [
-								"The trickiest thing about playing D&D in a highly factionalized setting like Ixalan is bringing player characters together who belong to different groups and would have no obvious reason to want to cooperate\u2014let alone trust each other with their lives. One possibility, of course, is for all the characters to belong to the same faction. An all-vampire party bent on conquest or an all-pirate party set to explore the Stormwreck Sea can find plenty of adventure in Ixalan. But if one player is intent on playing a merfolk and one is determined to be an orc, some extra effort is required to bring them together.",
-								"The most straightforward approach is to put the characters into a situation where they need to work together to survive or to achieve some goal they all share. Necessity makes strange bedfellows, as the saying goes, and characters who find themselves in a bad situation have a strong incentive to put aside their differences and work together, at least until they get out of that situation. They might all be trapped in the same place, or each character could have something that the whole group needs.",
-								"You can roll on the following table to generate ideas for bringing characters together at the start of the campaign. Ideally, by the time they have overcome whatever circumstance has thrown them together, they will have learned to trust each other and perhaps even become friends.",
+								"La cosa più complicata nel giocare a D&D in un ambiente altamente fazionato come Ixalan è riunire personaggi giocanti che appartengono a gruppi diversi e non avrebbero alcuna ragione ovvia per voler cooperare, per non parlare di fidarsi l'uno dell'altro delle proprie vite. Una possibilità, ovviamente, è che tutti i personaggi appartengano alla stessa fazione. Un gruppo di soli vampiri deciso alla conquista o un gruppo di soli pirati deciso a esplorare il Mare del Relitto Tempesta possono trovare tantissime avventure a Ixalan. Ma se un giocatore è intenzionato a interpretare un tritone e l'altro è determinato a diventare un orco, è necessario uno sforzo extra per riunirli.",
+								"L'approccio più diretto è quello di mettere i personaggi in una situazione in cui devono lavorare insieme per sopravvivere o per raggiungere un obiettivo condiviso da tutti. La necessità crea strani compagni di letto, come si suol dire, e i personaggi che si trovano in una brutta situazione hanno un forte incentivo a mettere da parte le loro differenze e a lavorare insieme, almeno fino a quando non escono da quella situazione. Potrebbero essere tutti intrappolati nello stesso posto, oppure ogni personaggio potrebbe avere qualcosa di cui l'intero gruppo ha bisogno.",
+								"Puoi tirare sulla tabella seguente per generare idee su come riunire i personaggi all'inizio della campagna. Idealmente, quando avranno superato qualunque circostanza li abbia messi insieme, avranno imparato a fidarsi l’uno dell’altro e forse anche a diventare amici.",
 								{
 									"type": "table",
 									"colLabels": [
@@ -184,43 +184,43 @@
 									"rows": [
 										[
 											"1",
-											"The characters begin the campaign captured, whether as prisoners of the Legion of Dusk, captives in a pirate ship's brig, or trapped in jungle snares."
+											"I personaggi iniziano la campagna catturati, sia come prigionieri della Legione del Vespro, prigionieri nel brigantino di una nave pirata o intrappolati nelle trappole della giungla."
 										],
 										[
 											"2",
-											"The characters are fighting each other when a dinosaur attacks."
+											"I personaggi combattono tra loro quando un dinosauro attacca."
 										],
 										[
 											"3",
-											"The characters are trapped together by a cave-in, a sinkhole opening, or some similar disaster."
+											"I personaggi sono intrappolati insieme da un crollo, dall'apertura di una voragine o da qualche disastro simile."
 										],
 										[
 											"4",
-											"Each character has one piece of a treasure map, or one key of several required to open a treasure vault."
+											"Ogni personaggio ha un pezzo di una mappa del tesoro o una delle numerose chiavi necessarie per aprire una camera del tesoro."
 										],
 										[
 											"5",
-											"A strange dream leads each of the characters to the same destination."
+											"Uno strano sogno conduce ciascuno dei personaggi alla stessa destinazione."
 										],
 										[
 											"6",
-											"The characters are all hopelessly lost in the jungle."
+											"I personaggi sono tutti irrimediabilmente persi nella giungla."
 										],
 										[
 											"7",
-											"Leaders of the characters' factions have ordered them to cooperate on a secret mission."
+											"I leader delle fazioni dei personaggi hanno ordinato loro di collaborare in una missione segreta."
 										],
 										[
 											"8",
-											"A pirate captain or other villain is a common enemy to all the characters."
+											"Un capitano pirata o un altro cattivo è un nemico comune a tutti i personaggi."
 										],
 										[
 											"9",
-											"A magical or natural phenomenon threatens all folk of Ixalan."
+											"Un fenomeno magico o naturale minaccia tutta la gente di Ixalan."
 										],
 										[
 											"10",
-											"The characters are all trying to avert the catastrophe of a full-scale war among their peoples."
+											"I personaggi stanno tutti cercando di evitare la catastrofe di una guerra su vasta scala tra i loro popoli."
 										]
 									]
 								},
@@ -238,27 +238,27 @@
 									"rows": [
 										[
 											"1",
-											"{@b Nation.} The invaders must be driven out and the ancient capital of Orazca reclaimed."
+											"{@b Nation.} Gli invasori devono essere scacciati e l'antica capitale di Orazca riconquistata."
 										],
 										[
 											"2",
-											"{@b Glory.} I wish to earn great glory in battle\u2014ideally, by making my foes surrender."
+											"{@b Glory.} Desidero guadagnare grande gloria in battaglia, preferibilmente facendo arrendere i miei nemici."
 										],
 										[
 											"3",
-											"{@b Poetry.} Beauty is to be found in all things, from creation to destruction, and it should all be recorded in words."
+											"{@b Poetry.} La bellezza si trova in tutte le cose, dalla creazione alla distruzione, e dovrebbe essere registrata a parole."
 										],
 										[
 											"4",
-											"{@b Zeal.} I am devoted to the Threefold Sun and the commands of the priests."
+											"{@b Zeal.} Sono devoto al Triplice Sole e ai comandi dei sacerdoti."
 										],
 										[
 											"5",
-											"{@b History.} I seek to understand the empire's history so I can better chart a course for its future."
+											"{@b History.} Cerco di comprendere la storia dell'impero in modo da poter tracciare meglio la rotta per il suo futuro."
 										],
 										[
 											"6",
-											"{@b Peace.} I would like to believe that peace can be forged among the peoples of this land."
+											"{@b Peace.} Mi piacerebbe credere che si possa costruire la pace tra i popoli di questa terra."
 										]
 									]
 								},
@@ -276,27 +276,27 @@
 									"rows": [
 										[
 											"1",
-											"I left behind a family (living or dead) when I set out on my journey of exploration."
+											"Ho lasciato dietro di me una famiglia (viva o morta) quando ho iniziato il mio viaggio di esplorazione."
 										],
 										[
 											"2",
-											"I have ties to the imperial line."
+											"Ho legami con la linea imperiale."
 										],
 										[
 											"3",
-											"I come from a noble family, and have kin who live as hostages in the imperial capital."
+											"Vengo da una famiglia nobile e ho parenti che vivono come ostaggi nella capitale imperiale."
 										],
 										[
 											"4",
-											"I have fallen in love with a member of a pirate crew."
+											"Mi sono innamorato di un membro di una ciurma di pirati."
 										],
 										[
 											"5",
-											"I discovered an ancient ruin in the jungle, but I keep it a secret."
+											"Ho scoperto un'antica rovina nella giungla, ma la tengo segreta."
 										],
 										[
 											"6",
-											"I will one day find the Immortal Sun and restore the empire's ancient glory"
+											"Un giorno troverò il Sole Immortale e ripristinerò l'antica gloria dell'impero"
 										]
 									]
 								}
@@ -318,9 +318,9 @@
 							"type": "inset",
 							"name": "Languages",
 							"entries": [
-								"Generally, in a D&D campaign, it's a good idea to ensure that all the player characters can understand each other. That's why the game maintains the convenient fiction of a Common tongue. But Ixalan is about the clash of four cultures, so you might want to emphasize the differences among those cultures by making the folk of each speak entirely different languages.",
-								"If you go this route, {@language Merfolk|PSX} is the language of the River Heralds and {@language Vampire|PSX} is the language of the Legion of Dusk. The humans of the Sun Empire speak their own language, {@language Itzocan|PSX}, and the humans of the Brazen Coalition speak a different language\u2014a pidgin of Orc, Siren, and a native human language that is similar to {@language Vampire|PSX} (about as closely related as Italian is to Spanish). Orcs, sirens, and goblins also speak this Brazen {@language Coalition pidgin|PSX}.",
-								"You might still wish to admit the existence of a {@language Common Trade Pidgin|PSX|sort of Common}\u2014a trade pidgin used in circumstances where members of different peoples do interact with each other. But such a language is almost impossible to use for discussions of matters of any depth."
+								"Generalmente, in una campagna di D&D, è una buona idea assicurarsi che tutti i personaggi giocanti possano capirsi a vicenda. Ecco perché il gioco mantiene la comoda finzione di una lingua Comune. Ma Ixalan riguarda lo scontro di quattro culture, quindi potresti voler enfatizzare le differenze tra quelle culture facendo sì che le persone di ciascuna parlino lingue completamente diverse.",
+								"Se segui questa strada, {@language Merfolk|PSX} è la lingua degli Araldi del Fiume e {@language Vampire|PSX} è la lingua della Legione del Vespro. Gli umani dell'Impero del Sole parlano la loro lingua, {@language Itzocan|PSX}, e gli umani della Coalizione di Bronzo parlano una lingua diversa: un pidgin di Orco, Sirena e una lingua umana nativa che è simile a {@language Vampire|PSX} (strettamente imparentato quasi quanto l'italiano lo è allo spagnolo). Anche gli orchi, le sirene e i goblin parlano questo sfacciato {@language Coalition pidgin|PSX}.",
+								"Potresti comunque voler ammettere l'esistenza di un {@language Common Trade Pidgin|PSX|sort of Common}: un pidgin commerciale utilizzato in circostanze in cui membri di popoli diversi interagiscono tra loro. Ma un linguaggio del genere è quasi impossibile da usare per discussioni su argomenti di una certa profondità."
 							],
 							"id": "00c"
 						}
@@ -332,7 +332,7 @@
 					"name": "River Heralds",
 					"page": 7,
 					"entries": [
-						"The River Heralds are a collection of small, nomadic bands of merfolk who were the dominant inhabitants of Ixalan before the rise of the Sun Empire. They live in harmony with the land, and their shamans wield powerful nature magic to control the elements of wind and water. They believe that the power of the Immortal Sun is too dangerous for anyone to wield\u2014including themselves. And so they seek to protect the golden city of Orazca and steer all intruders away from it.",
+						"Gli Araldi del Fiume sono un insieme di piccole bande nomadi di tritoni che erano gli abitanti dominanti di Ixalan prima dell'ascesa dell'Impero del Sole. Vivono in armonia con la terra e i loro sciamani utilizzano potenti magie naturali per controllare gli elementi del vento e dell'acqua. Credono che il potere del Sole Immortale sia troppo pericoloso da maneggiare per chiunque, compresi loro stessi. E così cercano di proteggere la città dorata di Orazca e di allontanare da essa tutti gli intrusi.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -361,13 +361,13 @@
 									"name": "Suggested Classes",
 									"page": 7,
 									"entries": [
-										"Consider the following class options for your River Herald character.",
+										"Considera le seguenti opzioni di classe per il tuo personaggio River Herald.",
 										{
 											"type": "entries",
 											"name": "{@class Druid}",
 											"page": 7,
 											"entries": [
-												"Many River Herald shamans are druids of the {@class Druid||Circle of the Land|Land}."
+												"Molti sciamani dell'Araldo del fiume sono druidi del {@class Druid||Circle of the Land|Land}."
 											],
 											"id": "010"
 										},
@@ -376,7 +376,7 @@
 											"name": "{@class Fighter}",
 											"page": 7,
 											"entries": [
-												"The warriors among the River Heralds include cunning strategists (often {@class Fighter||Battle Masters|Battle Master}), bold {@class Fighter||Champions|Champion}, and {@class Fighter||Eldritch Knights|Eldritch Knight} who fuse arcane magic with their use of weapons."
+												"I guerrieri tra gli Araldi del fiume includono astuti strateghi (spesso {@class Fighter||Battle Masters|Battle Master}), audaci {@class Fighter||Champions|Champion} e {@class Fighter||Eldritch Knights|Eldritch Knight} che fondono la magia arcana con l'uso delle armi."
 											],
 											"id": "011"
 										},
@@ -385,7 +385,7 @@
 											"name": "{@class Ranger}",
 											"page": 7,
 											"entries": [
-												"Other River Herald warriors wield the druidic magic of the forest in the defense of their lands."
+												"Altri guerrieri dell'Araldo del Fiume esercitano la magia druidica della foresta in difesa delle loro terre."
 											],
 											"id": "012"
 										},
@@ -394,7 +394,7 @@
 											"name": "{@class Wizard}",
 											"page": 7,
 											"entries": [
-												"The magic of wind, mist, illusion, and misdirection is the province of River Herald wizards."
+												"La magia del vento, della nebbia, dell'illusione e della direzione sbagliata è il territorio dei maghi del River Herald."
 											],
 											"id": "013"
 										}
@@ -418,27 +418,27 @@
 							"rows": [
 								[
 									"1",
-									"{@b Harmony.}. The peoples of this world should strive for the same harmony that exists between air and water."
+									"{@b Harmony.}. I popoli di questo mondo dovrebbero tendere alla stessa armonia che esiste tra aria e acqua."
 								],
 								[
 									"2",
-									"{@b Nature.} In the midst of war, it is often the forest that suffers most\u2014unless we protect it."
+									"{@b Nature.} Nel mezzo di una guerra, spesso è la foresta a soffrire di più, a meno che non la proteggiamo."
 								],
 								[
 									"3",
-									"{@b Knowledge.} True understanding of one's self and the world is the highest good."
+									"{@b Knowledge.} La vera comprensione di se stessi e del mondo è il bene supremo."
 								],
 								[
 									"4",
-									"{@b Reverence.} The wisdom of the shamans and elders is our best guide in the world."
+									"{@b Reverence.} La saggezza degli sciamani e degli anziani è la nostra migliore guida al mondo."
 								],
 								[
 									"5",
-									"{@b Cleverness.} The best way to defeat your opponents is to outsmart them."
+									"{@b Cleverness.} Il modo migliore per sconfiggere i tuoi avversari è superarli in astuzia."
 								],
 								[
 									"6",
-									"{@b Defense.} The golden city must remain hidden, and its power kept from those who would abuse it."
+									"{@b Defense.} La città d'oro deve rimanere nascosta e il suo potere tenuto lontano da coloro che ne abusano."
 								]
 							]
 						},
@@ -456,27 +456,27 @@
 							"rows": [
 								[
 									"1",
-									"I have carried on secret trade with a Sun Empire merchant for years now."
+									"Sono ormai anni che intrattengo commerci segreti con un mercante dell'Impero del Sole."
 								],
 								[
 									"2",
-									"I am related to the shaman of my band."
+									"Sono imparentato con lo sciamano della mia banda."
 								],
 								[
 									"3",
-									"I am fascinated by the culture and beliefs of the strangers in our land."
+									"Sono affascinato dalla cultura e dalle credenze degli stranieri nella nostra terra."
 								],
 								[
 									"4",
-									"A small tributary to the Great River is in my care, and I will do anything to defend it."
+									"Un piccolo affluente del Grande Fiume è affidato alle mie cure e farò di tutto per difenderlo."
 								],
 								[
 									"5",
-									"I aspire to become the leader of my band\u2014either as a shaman, or by supplanting the shaman as a war leader."
+									"Aspiro a diventare il leader della mia banda, sia come sciamano, sia sostituendo lo sciamano come leader di guerra."
 								],
 								[
 									"6",
-									"I will one day find the Immortal Sun and use its power to drive the invaders from our land."
+									"Un giorno troverò il Sole Immortale e userò il suo potere per scacciare gli invasori dalla nostra terra."
 								]
 							]
 						},
@@ -499,7 +499,7 @@
 					"name": "Legion of Dusk",
 					"page": 8,
 					"entries": [
-						"The society of the Legion of Dusk is built around the rites and devotion of a powerful church, led by undead paladins who sustain themselves on the blood of their enemies. After seven hundred years of war that saw them march across the entirety of their home continent, the vampires of the Legion have come to add Ixalan to their territory. Certain leaders among them also seek the Immortal Sun, which is dimly remembered in their own legends as a source of true immortality\u2014eternal life, in contrast to the endless undeath they now endure.",
+						"La società della Legione del Vespro è costruita attorno ai riti e alla devozione di una potente chiesa, guidata da paladini non morti che si nutrono del sangue dei loro nemici. Dopo settecento anni di guerra che li ha visti marciare attraverso l'intero continente d'origine, i vampiri della Legione sono arrivati ​​ad aggiungere Ixalan al loro territorio. Alcuni leader tra loro cercano anche il Sole Immortale, che è vagamente ricordato nelle loro stesse leggende come fonte di vera immortalità: vita eterna, in contrasto con la non morte infinita che ora sopportano.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -515,7 +515,7 @@
 									"type": "item",
 									"name": "Suggested Backgrounds:",
 									"entries": [
-										"{@background Acolyte}, {@background noble}, {@background sage}, {@background soldier}, {@background urchin} (human only)"
+										"{@background Acolyte}, {@background noble}, {@background sage}, {@background soldier}, {@background urchin} (solo umani)"
 									]
 								}
 							]
@@ -528,13 +528,13 @@
 									"name": "Suggested Classes",
 									"page": 8,
 									"entries": [
-										"Consider the following class options for your Legion of Dusk character.",
+										"Considera le seguenti opzioni di classe per il tuo personaggio della Legione del Vespro.",
 										{
 											"type": "entries",
 											"name": "{@class Cleric}",
 											"page": 8,
 											"entries": [
-												"Clerics of the Church of Dusk typically choose the {@class Cleric||Death|Death|DMG}, {@class Cleric||Life|Life}, or {@class Cleric||War|War} domains."
+												"I chierici della Chiesa del Crepuscolo in genere scelgono i domini {@class Cleric||Death|Death|DMG}, {@class Cleric||Life|Life} o {@class Cleric||War|War}."
 											],
 											"id": "017"
 										},
@@ -543,7 +543,7 @@
 											"name": "{@class Fighter}",
 											"page": 8,
 											"entries": [
-												"The bulk of the Legion of Dusk is made up of soldiers and knights, who might be {@class Fighter||Battle Masters|Battle Master} or {@class Fighter||Champions|Champion}."
+												"La maggior parte della Legione del Vespro è composta da soldati e cavalieri, che potrebbero essere {@class Fighter||Battle Masters|Battle Master} o {@class Fighter||Champions|Champion}."
 											],
 											"id": "018"
 										},
@@ -552,7 +552,7 @@
 											"name": "{@class Monk}",
 											"page": 8,
 											"entries": [
-												"Certain vampire clerics live under strict rules of fasting, prayer, and martial discipline, and might be considered monks of the {@class Monk||Way of the Open Hand|Open Hand} or the {@class Monk||Way of Shadow|Shadow}. The latter often act as agents for Queen Miralda, who rules the Legion of Dusk with an iron hand."
+												"Alcuni chierici vampiri vivono secondo rigide regole di digiuno, preghiera e disciplina marziale e potrebbero essere considerati monaci del {@class Monk||Way of the Open Hand|Open Hand} o del {@class Monk||Way of Shadow|Shadow}. Questi ultimi agiscono spesso come agenti della Regina Miralda, che governa la Legione del Vespro con pugno di ferro."
 											],
 											"id": "019"
 										},
@@ -561,7 +561,7 @@
 											"name": "{@class Paladin}",
 											"page": 8,
 											"entries": [
-												"Vampire paladins of the Legion of Dusk typically swear the {@class Paladin||Oath of Devotion|Devotion}, though the tenets they follow are appropriate to their particular faith. (If you are using {@book Xanathar's Guide to Everything|XGE}, the {@class Paladin||Oath of Conquest|Conquest|XGE} is even more appropriate.)"
+												"I paladini vampiri della Legione del Vespro solitamente giurano il {@class Paladin||Oath of Devotion|Devotion}, sebbene i principi che seguono siano appropriati alla loro particolare fede. (Se stai utilizzando {@book Xanathar's Guide to Everything|XGE}, {@class Paladin||Oath of Conquest|Conquest|XGE} è ancora più appropriato.)"
 											],
 											"id": "01a"
 										}
@@ -582,27 +582,27 @@
 									"rows": [
 										[
 											"1",
-											"{@b Conquest.} The destiny of my people is to rule the world."
+											"{@b Conquest.} Il destino del mio popolo è governare il mondo."
 										],
 										[
 											"2",
-											"{@b Order.} The purpose of our conquest is to establish law and order in the lands we rule."
+											"{@b Order.} Lo scopo della nostra conquista è ristabilire la legge e l'ordine nelle terre che governiamo."
 										],
 										[
 											"3",
-											"{@b Devotion.} Following the tenets of the church is the only way to earn eternal life in the coming age of ever-flowing blood."
+											"{@b Devotion.} Seguire i principi della chiesa è l'unico modo per guadagnarsi la vita eterna nell'era futura del sangue che scorre incessante."
 										],
 										[
 											"4",
-											"{@b Slaughter.} I love the feeling of warm blood running down my chin."
+											"{@b Slaughter.} Adoro la sensazione del sangue caldo che mi scorre lungo il mento."
 										],
 										[
 											"5",
-											"{@b Glory.} Those who prove their worth in battle will win eternal life."
+											"{@b Glory.} Coloro che dimostreranno il loro valore in battaglia vinceranno la vita eterna."
 										],
 										[
 											"6",
-											"{@b Strength.} In life as in war, the stronger force wins."
+											"{@b Strength.} Nella vita come in guerra, vince la forza più forte."
 										]
 									]
 								},
@@ -620,27 +620,27 @@
 									"rows": [
 										[
 											"1",
-											"My family has been feuding with another noble family for seven hundred years."
+											"La mia famiglia è in lotta con un'altra nobile famiglia da settecento anni."
 										],
 										[
 											"2",
-											"I became friends with a merfolk shaman I captured."
+											"Sono diventato amico di uno sciamano tritone che ho catturato."
 										],
 										[
 											"3",
-											"I am a knight of the Bloodstained order, and have forsaken all other bonds since the day I slaughtered my own family."
+											"Sono un cavaliere dell'ordine Macchiato di sangue e ho abbandonato tutti gli altri legami dal giorno in cui ho massacrato la mia stessa famiglia."
 										],
 										[
 											"4",
-											"I carry a relic of one of the vampire saints known as the Venerables, counting it as my dearest possession."
+											"Porto con me una reliquia di uno dei santi vampiri conosciuti come i Venerabili, considerandola il mio bene più caro."
 										],
 										[
 											"5",
-											"I would do anything for the soldiers in my company."
+											"Farei qualsiasi cosa per i soldati della mia compagnia."
 										],
 										[
 											"6",
-											"I will one day find the Immortal Sun and use its power to supplant the queen."
+											"Un giorno troverò il Sole Immortale e userò il suo potere per soppiantare la regina."
 										]
 									]
 								},
@@ -649,13 +649,13 @@
 									"name": "Tenets of Blood",
 									"page": 8,
 									"entries": [
-										"The vampires of the Legion of Dusk can hardly be considered good, but they do favor law and a sense of honor. The tenets of the vampire paladins' oath reflect that view.",
+										"I vampiri della Legione del Vespro difficilmente possono essere considerati buoni, ma prediligono la legge e il senso dell'onore. I principi del giuramento dei paladini vampiri riflettono questa visione.",
 										{
 											"type": "entries",
 											"name": "Honesty",
 											"page": 8,
 											"entries": [
-												"Don't demean yourself with lying and cheating. Don't make promises you can't keep."
+												"Non sminuirti mentendo e imbrogliando. Non fare promesse che non puoi mantenere."
 											],
 											"id": "01c"
 										},
@@ -664,7 +664,7 @@
 											"name": "Courage",
 											"page": 8,
 											"entries": [
-												"Never let a foe see your fear."
+												"Non lasciare mai che un nemico veda la tua paura."
 											],
 											"id": "01d"
 										},
@@ -673,7 +673,7 @@
 											"name": "Honor",
 											"page": 8,
 											"entries": [
-												"Treat your peers with fairness and your lessers with exactly what they deserve. Those who recognize your position deserve at least a modicum of respect."
+												"Tratta i tuoi pari con equità e i tuoi inferiori esattamente con ciò che meritano. Coloro che riconoscono la tua posizione meritano almeno un briciolo di rispetto."
 											],
 											"id": "01e"
 										},
@@ -682,7 +682,7 @@
 											"name": "Duty",
 											"page": 8,
 											"entries": [
-												"Your actions should serve the aims of the queen and the church, and not bring dishonor to either. Take responsibility for your actions and their consequences, and obey your superiors."
+												"Le tue azioni dovrebbero servire gli obiettivi della regina e della chiesa e non portare disonore a nessuno dei due. Assumiti la responsabilità delle tue azioni e delle loro conseguenze e obbedisci ai tuoi superiori."
 											],
 											"id": "01f"
 										}
@@ -711,7 +711,7 @@
 					"name": "Brazen Coalition",
 					"page": 9,
 					"entries": [
-						"The Brazen Coalition was formed by sailors who fled across the sea, escaping the final advance of the Legion of Dusk against the Free Cities of Torrezon. These mariners originally sought to establish colonies on Ixalan and trade with the cities of the Sun Empire. But when the Sun Empire drove them off, they turned instead to piracy and plunder. The Brazen Coalition has since become a loosely affiliated group of pirate captains who seek to rule the seas and claim the riches of Ixalan\u2014especially the Immortal Sun.",
+						"La Coalizione di Bronzo era formata da marinai fuggiti attraverso il mare, sfuggendo all'avanzata finale della Legione del Vespro contro le Città Libere di Torrezon. Questi marinai originariamente cercarono di stabilire colonie su Ixalan e di commerciare con le città dell'Impero del Sole. Ma quando l'Impero del Sole li scacciò, si dedicarono invece alla pirateria e al saccheggio. Da allora, la Coalizione di Bronzo è diventata un gruppo di capitani pirata vagamente affiliati che cercano di governare i mari e rivendicare le ricchezze di Ixalan, in particolare il Sole Immortale.",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -740,13 +740,13 @@
 									"name": "Suggested Classes",
 									"page": 9,
 									"entries": [
-										"Consider the following class options for your Brazen Coalition character.",
+										"Considera le seguenti opzioni di classe per il tuo personaggio della Coalizione Brazen.",
 										{
 											"type": "entries",
 											"name": "{@class Bard}",
 											"page": 9,
 											"entries": [
-												"{@race Siren|PSX|Sirens} are frequently bards, and other pirates (especially in Captain Parrish's Deadeye fleet) collect knowledge as members of the {@class Bard||College of Lore|Lore}."
+												"{@race Siren|PSX|Sirens} sono spesso bardi e altri pirati (specialmente nella flotta Deadeye del Capitano Parrish) raccolgono conoscenze come membri del {@class Bard||College of Lore|Lore}."
 											],
 											"id": "023"
 										},
@@ -755,7 +755,7 @@
 											"name": "{@class Fighter}",
 											"page": 9,
 											"entries": [
-												"A great many pirates are fighters, including not just {@class Fighter||Champions|Champion} and {@class Fighter||Battle Masters|Battle master}, but also {@class Fighter||Eldritch Knights|Eldritch Knight} who combine martial skill with the magical talents common in the Coalition."
+												"Moltissimi pirati sono combattenti, inclusi non solo {@class Fighter||Champions|Champion} e {@class Fighter||Battle Masters|Battle master}, ma anche {@class Fighter||Eldritch Knights|Eldritch Knight} che combinano abilità marziali con talenti magici comuni nella Coalizione."
 											],
 											"id": "024"
 										},
@@ -764,7 +764,7 @@
 											"name": "{@class Rogue}",
 											"page": 9,
 											"entries": [
-												"Scoundrels, {@class Rogue||swashbucklers|Swashbuckler|XGE}, {@class Rogue||thieves|thief}, and killers make up the majority of the Brazen Coalition."
+												"Furfanti {@class Rogue||swashbucklers|Swashbuckler|XGE}, {@class Rogue||thieves|thief} e assassini costituiscono la maggioranza della Coalizione di Bronzo."
 											],
 											"id": "025"
 										},
@@ -773,7 +773,7 @@
 											"name": "{@class Warlock}",
 											"page": 9,
 											"entries": [
-												"Of all the peoples of Ixalan, the pirates of the Dire Fleet are most likely to traffic with demons. Many of its sailors become warlocks as a result of striking bargains with the {@class Warlock||Fiend|Fiend}."
+												"Di tutti i popoli di Ixalan, i pirati della Flotta Dire sono quelli che hanno più probabilità di commerciare con i demoni. Molti dei suoi marinai diventano stregoni grazie agli accordi stipulati con il {@class Warlock||Fiend|Fiend}."
 											],
 											"id": "026"
 										},
@@ -782,7 +782,7 @@
 											"name": "{@class Wizard}",
 											"page": 9,
 											"entries": [
-												"{@race Orc (Ixalan)|PSX|Orc} wizards use {@class Wizard||fire|Evocation} and {@class Wizard||necromantic|Necromancy} magic, {@race Siren|PSX|sirens} are fond of {@class Wizard||enchantments|Enchantment}, and {@race Human (Ixalan)|PSX|humans} employ a variety of magical talents, including the invention of magic items."
+												"{@race Orc (Ixalan)|PSX|Orc} i maghi usano {@class Wizard||fire|Evocation} e {@class Wizard||necromantic|Necromancy} la magia, {@race Siren|PSX|sirens} sono appassionati {@class Wizard||enchantments|Enchantment} e {@race Human (Ixalan)|PSX|humans} impiegano una varietà di talenti magici, inclusa l'invenzione di oggetti magici."
 											],
 											"id": "027"
 										}
@@ -803,27 +803,27 @@
 									"rows": [
 										[
 											"1",
-											"{@b Wealth.} Money can buy anything."
+											"{@b Wealth.} Il denaro può comprare qualsiasi cosa."
 										],
 										[
 											"2",
-											"{@b Freedom.} The sea is the freedom to go anywhere and do anything."
+											"{@b Freedom.} Il mare è la libertà di andare ovunque e fare qualsiasi cosa."
 										],
 										[
 											"3",
-											"{@b Knowledge.} I'm as greedy for secrets and lore as others are for treasure."
+											"{@b Knowledge.} Sono avido di segreti e conoscenze tanto quanto gli altri lo sono di tesori."
 										],
 										[
 											"4",
-											"{@b Pillage.} It's not the having, it's the taking that shows who's strongest."
+											"{@b Pillage.} Non è l'avere, è il prendere che dimostra chi è il più forte."
 										],
 										[
 											"5",
-											"{@b Crew.} I'm committed to my crewmates, not to ideals."
+											"{@b Crew.} Mi impegno con i miei compagni di squadra, non con gli ideali."
 										],
 										[
 											"6",
-											"{@b Coalition.} I believe we're not just stronger but also better when we join forces in unity."
+											"{@b Coalition.} Credo che non solo siamo più forti ma anche migliori quando uniamo le forze in unità."
 										]
 									]
 								},
@@ -841,27 +841,27 @@
 									"rows": [
 										[
 											"1",
-											"My captain is dearer to me than any other person or possession."
+											"Il mio capitano mi è più caro di qualsiasi altra persona o bene."
 										],
 										[
 											"2",
-											"My greatest dream is to return across the sea to the land my ancestors left."
+											"Il mio sogno più grande è tornare, attraverso il mare, nella terra lasciata dai miei antenati."
 										],
 										[
 											"3",
-											"I abandoned a child to be fostered in a city somewhere."
+											"Ho abbandonato un bambino per essere affidato in una città da qualche parte."
 										],
 										[
 											"4",
-											"I was shipwrecked on an island with a vampire, and we became good friends."
+											"Ho fatto naufragio su un'isola con un vampiro e siamo diventati buoni amici."
 										],
 										[
 											"5",
-											"I buried a great treasure somewhere... and lost the map."
+											"Ho sepolto un grande tesoro da qualche parte... e ho perso la mappa."
 										],
 										[
 											"6",
-											"I have one piece of a treasure map, and no idea where the other pieces are."
+											"Ho un pezzo di una mappa del tesoro e non ho idea di dove siano gli altri pezzi."
 										]
 									]
 								}
@@ -918,7 +918,7 @@
 					"name": "Vampire Feat",
 					"page": 14,
 					"entries": [
-						"If your campaign uses feats, a vampire character can take this feat to gain the ability of flight shared by Legion of Dusk skymarchers.",
+						"Se la tua campagna utilizza talenti, un personaggio vampiro può acquisire questo talento per ottenere l'abilità di volo condivisa dagli skymarcher della Legione del Vespro.",
 						{
 							"type": "list",
 							"items": [
@@ -933,9 +933,9 @@
 					"page": 18,
 					"name": "Planes and Subraces",
 					"entries": [
-						"Three of the races of Ixalan\u2014goblins, merfolk, and vampires\u2014are also found on Zendikar and appear in {@book Plane Shift: Zendikar|PS-Z}. They are presented here as races unto themselves, but in effect, the {@race Vampire (Ixalan)|PSX|vampires of Ixalan} and the {@race Vampire (Zendikar)|PSZ|vampires of Zendikar} can be treated as two subraces of the same vampire race.",
-						"The core merfolk race presented here is the same as {@race Merfolk|PSZ|the one in Plane Shift: Zendikar}, so {@race Merfolk (Ixalan; Green)|PSX|green} and {@race Merfolk (Ixalan; Blue)|PSX|blue merfolk} are simply additional subraces.",
-						"For vampires, these traits presented in Plane Shift: Zendikar are features of the {@race Vampire (Zendikar)|PSZ|Zendikar subraces} of vampires:",
+						"Tre delle razze di Ixalan (goblin, tritoni e vampiri) si trovano anche su Zendikar e compaiono in {@book Plane Shift: Zendikar|PS-Z}. Qui vengono presentati come razze a sé stanti, ma in effetti il ​​{@race Vampire (Ixalan)|PSX|vampires of Ixalan} e il {@race Vampire (Zendikar)|PSZ|vampires of Zendikar} possono essere trattati come due sottorazze della stessa razza di vampiri.",
+						"La razza principale dei tritoni qui presentata è la stessa di {@race Merfolk|PSZ|the one in Plane Shift: Zendikar}, quindi {@race Merfolk (Ixalan; Green)|PSX|green} e {@race Merfolk (Ixalan; Blue)|PSX|blue merfolk} sono semplicemente sottorazze aggiuntive.",
+						"Per i vampiri, questi tratti presentati in Plane Shift: Zendikar sono caratteristiche dei {@race Vampire (Zendikar)|PSZ|Zendikar subraces} dei vampiri:",
 						{
 							"type": "list",
 							"style": "list-hang",
@@ -945,20 +945,20 @@
 									"type": "item",
 									"name": "Ability Score Increase",
 									"entries": [
-										"Your Intelligence score increases by 1."
+										"Il tuo punteggio di Intelligenza aumenta di 1."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Null Transformation",
 									"entries": [
-										"A humanoid killed with your Bloodthirst ability becomes a {@creature Vampire Null|PSZ|null}."
+										"Un umanoide ucciso con la tua abilità Sete di sangue diventa un {@creature Vampire Null|PSZ|null}."
 									]
 								},
-								"The Ixalan vampire's increase to Wisdom and Feast of Blood trait are features of the {@race Vampire (Ixalan)|PSX|Ixalan subrace}."
+								"L'aumento del tratto Saggezza e Banchetto di Sangue del vampiro di Ixalan sono caratteristiche di {@race Vampire (Ixalan)|PSX|Ixalan subrace}."
 							]
 						},
-						"For goblins, each of the Zendikar subraces gains the following traits:",
+						"Per i goblin, ciascuna sottorazza Zendikar ottiene i seguenti tratti:",
 						{
 							"type": "list",
 							"style": "list-hang",
@@ -968,17 +968,17 @@
 									"type": "item",
 									"name": "Ability Score Increase",
 									"entries": [
-										"Your Constitution score increases by 2."
+										"Il tuo punteggio di Costituzione aumenta di 2."
 									]
 								},
 								{
 									"type": "item",
 									"name": "Grit",
 									"entries": [
-										"You have resistance against acid and fire damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity bonus."
+										"Hai resistenza ai danni da acido e fuoco. Inoltre, quando non indossi alcuna armatura, la tua CA è pari a 11 + il tuo bonus di Destrezza."
 									]
 								},
-								"The Ixalan goblin's increase to Dexterity and Agile Climber trait are features of the {@race Goblin (Ixalan)|PSX|Ixalan subrace}."
+								"L'aumento del tratto Destrezza e Scalatore Agile del goblin di Ixalan sono caratteristiche di {@race Goblin (Ixalan)|PSX|Ixalan subrace}."
 							]
 						}
 					],
@@ -1068,7 +1068,7 @@
 					"name": "Geography of Ixalan",
 					"page": 20,
 					"entries": [
-						"The center of the world is the great continent known as Ixalan, which has given its name to the plane as a whole. A tropical land covered in lush rain forest, soaring mountains, lofty plains, and winding rivers, Ixalan is shaped like a large crescent enfolding a vast inner sea. Its history has been shaped by the interaction between the Sun Empire and the River Heralds. Both peoples lived in balance while the Sun Empire maintained its stewardship of the Immortal Sun. But that balance was upset when the emperor abused the artifact's power. Now the Sun Empire has been pushed to the coastal lands of Ixalan, while the River Heralds dominate the interior.",
+						"Il centro del mondo è il grande continente conosciuto come Ixalan, che ha dato il nome all'intero piano. Una terra tropicale ricoperta da una lussureggiante foresta pluviale, alte montagne, alte pianure e fiumi tortuosi, Ixalan ha la forma di una grande mezzaluna che racchiude un vasto mare interiore. La sua storia è stata plasmata dall'interazione tra l'Impero del Sole e gli Araldi del Fiume. Entrambi i popoli vivevano in equilibrio mentre l'Impero del Sole manteneva la sua amministrazione del Sole Immortale. Ma quell'equilibrio venne sconvolto quando l'imperatore abusò del potere del manufatto. Ora l'Impero del Sole è stato spinto verso le terre costiere di Ixalan, mentre gli Araldi del Fiume dominano l'interno.",
 						{
 							"type": "image",
 							"href": {
@@ -1104,12 +1104,12 @@
 					"name": "Ancient Sites",
 					"page": 22,
 					"entries": [
-						"The Sun Empire was once larger than it presently is, and remnants of its past glory still lie scattered throughout the jungles of the Great River. Some of these remnants are no more than heaps of rubble overgrown by hardy plant life, potentially interesting for the sake of inscriptions that might remain on worn stone surfaces, but otherwise remarkable only as landmarks for those traveling through the uncharted wilderness. However, several whole cities also lie in ruins scattered throughout the jungle.",
-						"Quetzatl was once the home of a self-proclaimed king who challenged the authority of the emperor. Its ruins betray the violence used to tear its buildings down stone by stone, and legend holds that spirits of the dead, including the Pretender King, still haunt those ruins.",
-						"The city of Pecatli was known for its grand temple, which boasted three great spires for the three aspects of the sun. The spires have long been toppled, but the diamonds, emeralds, and rubies said to have crowned them have never been found.",
-						"Techepec was a retreat for the emperor and the imperial family, a place where they could escape the trials of life at court for a time. In fact, Emperor Huatzan II used Techepec as a sort of capital-in-exile during a brief period of insurrection, when another pretender sat on the throne in Orazca.",
-						"Azcanta, now called the Sunken Ruin, was a thriving population center until a prolonged conflict with the River Heralds caused it to sink into the waters of the Inner Sea. Its buildings are still largely intact far beneath the waves, and some pirates now seek the city's treasures.",
-						"A few lone shrines and temples dot the jungle as well, the last remnants of cities whose wooden buildings have long since rotted away. These include Tonalixco, the temple of the eastern sun, which marked the western edge of the empire in the fortress-city of Tanaztac. Icalaquiampa, the temple of sunset, was the focus of a religious sect that tried to replace the emperor with a high priest and establish theocratic rule.",
+						"L'Impero del Sole un tempo era più grande di quanto non sia attualmente, e i resti della sua gloria passata giacciono ancora sparsi nelle giungle del Grande Fiume. Alcuni di questi resti non sono altro che cumuli di macerie ricoperti da una robusta vita vegetale, potenzialmente interessanti per il bene delle iscrizioni che potrebbero rimanere su superfici di pietra usurate, ma per il resto notevoli solo come punti di riferimento per coloro che viaggiano attraverso terre selvagge inesplorate. Tuttavia, anche diverse intere città giacciono in rovina sparse nella giungla.",
+						"Quetzatl era un tempo la dimora di un re autoproclamato che sfidava l'autorità dell'imperatore. Le sue rovine tradiscono la violenza usata per demolire i suoi edifici pietra dopo pietra, e la leggenda narra che gli spiriti dei morti, incluso il Re Pretendente, infestano ancora quelle rovine.",
+						"La città di Pecatli era nota per il suo grande tempio, che vantava tre grandi guglie per i tre aspetti del sole. Le guglie sono state abbattute da tempo, ma i diamanti, gli smeraldi e i rubini che si dice le incoronassero non sono mai stati ritrovati.",
+						"Techepec era un rifugio per l'imperatore e la famiglia imperiale, un luogo dove potevano sfuggire per un certo periodo alle prove della vita di corte. Infatti, l'imperatore Huatzan II utilizzò Techepec come una sorta di capitale in esilio durante un breve periodo di insurrezione, quando un altro pretendente sedeva sul trono di Orazca.",
+						"Azcanta, ora chiamata le Rovine Sommerse, era un fiorente centro abitato finché un prolungato conflitto con gli Araldi del Fiume non la fece sprofondare nelle acque del Mare Interno. I suoi edifici sono ancora in gran parte intatti, ben al di sotto delle onde, e alcuni pirati ora cercano i tesori della città.",
+						"Anche alcuni santuari e templi solitari punteggiano la giungla, gli ultimi resti di città i cui edifici in legno sono marciti da tempo. Questi includono Tonalixco, il tempio del sole orientale, che segnava il confine occidentale dell'impero nella città fortezza di Tanaztac. Icalaquiampa, il tempio del tramonto, era il fulcro di una setta religiosa che cercava di sostituire l'imperatore con un sommo sacerdote e di stabilire un governo teocratico.",
 						{
 							"type": "image",
 							"href": {
@@ -1121,7 +1121,7 @@
 							"title": "Primal Wellspring",
 							"credit": "John Avon"
 						},
-						"Aclazotz was a temple dedicated to a bat god of the night, opposed to the Threefold Sun and the empire devoted to the sun. The temple makes an appearance in \"{@adventure X Marks the Spot|XMTS}\", a special D&D Ixalan adventure created for {@link Extra Life|https://www.extra-life.org/} 2017, but there's much more to this legendary site. Aclazotz was partially inspired by the classic D&D adventure {@adventure The Hidden Shrine of Tamoachan|TftYP-THSoT}, which appears in updated form in {@i Tales from the Yawning Portal}. If you want to more fully explore the ruins, you might use that adventure as a starting point. Perhaps this is where Elenda, the knight who brought the rites of vampirism to the Legion of Dusk, underwent her own transformation.",
+						"Aclazotz era un tempio dedicato a un pipistrello dio della notte, opposto al Triplice Sole e all'impero devoto al sole. Il tempio fa la sua comparsa in \"{@adventure X Marks the Spot|XMTS}\", un'avventura speciale di D&D Ixalan creata per {@link Extra Life|https://www.extra-life.org/} 2017, ma c'è molto di più in questo sito leggendario. Aclazotz è stato parzialmente ispirato dalla classica avventura di D&D {@adventure The Hidden Shrine of Tamoachan|TftYP-THSoT}, che appare in forma aggiornata in {@i Tales from the Yawning Portal}. Se vuoi esplorare più a fondo le rovine, potresti usare quell'avventura come punto di partenza. Forse è qui che Elenda, il cavaliere che portò i riti del vampirismo nella Legione del Vespro, subì la sua trasformazione.",
 						{
 							"type": "image",
 							"href": {
@@ -1133,7 +1133,7 @@
 							"title": "Temple of Aclazotz",
 							"credit": "Daarken"
 						},
-						"Of course, the grandest ruin of the ancient Sun Empire is Orazca, the glorious golden city where the Immortal Sun still lies hidden. It was the empire's capital for many centuries, and tribute from across the breadth of Ixalan was brought to adorn its palaces and temples. Gold covers nearly every building in the city, and jade inlays reflect the influence of the ancient merfolk who shared Orazca with the humans of the empire. But the world has since closed up over the golden city, hiding its secrets and its treasures from all who seek it. Three golden spires are now the only visible signs of Orazca where they rise above the forest floor.",
+						"Naturalmente, la più grande rovina dell'antico Impero del Sole è Orazca, la gloriosa città dorata dove giace ancora nascosto il Sole Immortale. Fu la capitale dell'impero per molti secoli e furono portati tributi da tutta l'area di Ixalan per adornare i suoi palazzi e templi. L'oro ricopre quasi tutti gli edifici della città e gli intarsi di giada riflettono l'influenza degli antichi tritoni che condividevano Orazca con gli umani dell'impero. Ma da allora il mondo si è chiuso sulla città d'oro, nascondendo i suoi segreti e i suoi tesori a tutti coloro che la cercano. Tre guglie dorate sono ora gli unici segni visibili di Orazca dove si ergono sopra il suolo della foresta.",
 						{
 							"type": "image",
 							"href": {
@@ -1153,7 +1153,7 @@
 					"name": "Treasure",
 					"page": 24,
 					"entries": [
-						"Treasure is an important part of adventuring in any Dungeons & Dragons campaign, and that is perhaps more true on Ixalan than on most planes in Magic's Multiverse. You can use cards (including Treasure tokens) as inspiration for the kinds of treasures that adventurers might find. When a treasure hoard includes art objects, you can use these tables to provide a distinctive flavor to Ixalan's treasures. (If you look closely, you'll see many of these objects in the art on Treasure token cards, reproduced on these pages.)",
+						"Il tesoro è una parte importante dell'avventura in qualsiasi campagna di Dungeons & Dragons, e questo è forse più vero su Ixalan che sulla maggior parte dei piani del Multiverso di Magic. Puoi usare le carte (inclusi i segnalini Tesoro) come ispirazione per i tipi di tesori che gli avventurieri potrebbero trovare. Quando un tesoro include oggetti d'arte, puoi utilizzare queste tabelle per fornire un sapore distintivo ai tesori di Ixalan. (Se guardi da vicino, vedrai molti di questi oggetti nelle illustrazioni delle carte gettone Tesoro, riprodotte in queste pagine.)",
 						{
 							"type": "list",
 							"columns": 3,
@@ -1225,7 +1225,7 @@
 								}
 							]
 						},
-						"When adventurers discover magic items as treasure, you can use {@table Who Created It or Was Intended to Use It?|PSX|this table} in place of {@table Special Features; Who Created It or Was Intended to Use It?|DMG|the one in chapter 7 of the Dungeon Master's Guide} to determine the character of any particular magic item."
+						"Quando gli avventurieri scoprono oggetti magici come tesori, puoi usare {@table Who Created It or Was Intended to Use It?|PSX|this table} al posto di {@table Special Features; Who Created It or Was Intended to Use It?|DMG|the one in chapter 7 of the Dungeon Master's Guide} per determinare il carattere di un particolare oggetto magico."
 					],
 					"id": "02b"
 				}
@@ -1308,7 +1308,7 @@
 							"name": "Scales, Spikes, and Hammers",
 							"page": 28,
 							"entries": [
-								"Other herbivores rely on speed, stealth, or numbers to aid their chances of survival. The {@creature hadrosaurus|VGM} in {@book Volo's Guide to Monsters|VGM} is a good example of such creatures."
+								"Altri erbivori fanno affidamento sulla velocità, sulla furtività o sui numeri per aumentare le loro possibilità di sopravvivenza. Il {@creature hadrosaurus|VGM} in {@book Volo's Guide to Monsters|VGM} è un buon esempio di tali creature."
 							],
 							"id": "043"
 						},
@@ -1317,7 +1317,7 @@
 							"name": "The Flesh-Eaters",
 							"page": 30,
 							"entries": [
-								"The most feared dinosaurs are the aggressive bipedal predators that hunt other dinosaurs\u2014none of which are averse to feeding on humanoids when they can. Despite their ferocity, flesh-eaters make excellent mounts, since they do not balk or shy away from combat. These dinosaurs include a huge variety of raptors, ranging from dog-sized creatures that hunt in packs to monsters large enough to carry an armored knight into battle. {@book Volo's Guide to Monsters|VGM} includes the {@creature deinonychus|VGM} and the {@creature velociraptor|VGM} to represent these dinosaurs."
+								"I dinosauri più temuti sono gli aggressivi predatori bipedi che cacciano altri dinosauri, nessuno dei quali è contrario a nutrirsi di umanoidi quando può. Nonostante la loro ferocia, i mangiatori di carne sono ottime cavalcature, poiché non esitano né si tirano indietro dal combattimento. Questi dinosauri includono un'enorme varietà di rapaci, che vanno da creature delle dimensioni di un cane che cacciano in branco a mostri abbastanza grandi da trasportare in battaglia un cavaliere corazzato. {@book Volo's Guide to Monsters|VGM} include {@creature deinonychus|VGM} e {@creature velociraptor|VGM} per rappresentare questi dinosauri."
 							],
 							"id": "044"
 						},
@@ -1326,10 +1326,10 @@
 							"name": "Life in the Forest",
 							"page": 39,
 							"entries": [
-								"The river and rain forest boast a teeming multitude of species, which make their homes everywhere from the canopy to the depths of the water. Animals live and feed in every layer of the forest, from the tops of the tallest emergent trees to the ferns, leaves, and roots reaching deep into the soil. And certain plants are just as active at hunting prey as predatory animals are.",
-								"{@creature bat|MM|Bats} are common sights in rocky caves and jungle trees. They are considered enemies of the sun and closely associated with demons, even though most varieties are harmless. {@creature Giant bat|MM|Giant bats} are a more significant threat.",
-								"The forest teems with all manner of insects, {@b spiders}, and other arthropods. Mosquitoes breed in stagnant water and swarm around any animal with blood. Centipedes, millipedes, roaches, and beetles crawl through the detritus and humus on the forest floor. Wasps, dragonflies, {@creature scorpion|MM|scorpions}, ants, and beetles are everywhere, ranging in size from diminutive to gigantic. {@creature swarm of insects|MM|Swarms of insects} pose a significant threat to adventurers, as do {@creature giant centipede|MM|giant centipedes}, {@creature giant fire beetle|MM|giant fire beetles}, {@creature giant spider|MM|giant spiders}, {@creature giant wasp|MM|giant wasps}, and {@creature giant wolf spider|MM|giant wolf spiders}.",
-								"Many predatory plants attract food by producing smells redolent of food\u2014whether the odor of sweet nectar or the stench of decaying meat. They then close jaw-like leaves around their prey or capture them in sticky pools of digestive juice. A few plants are even more active, lunging up from the forest canopy to grab flying dinosaurs in woody claws or tangle them in vines. Others pull up their roots and creep across the forest floor in search of good hunting grounds. {@creature Awakened shrub|MM|Awakened shrubs}, {@creature awakened tree|MM|awakened trees}, and various forms of {@b fungi} can represent many of these plants."
+								"Il fiume e la foresta pluviale vantano una brulicante moltitudine di specie, che vivono ovunque, dalla chioma alle profondità dell'acqua. Gli animali vivono e si nutrono in ogni strato della foresta, dalle cime degli alberi emergenti più alti alle felci, alle foglie e alle radici che raggiungono le profondità del terreno. E alcune piante sono altrettanto attive nella caccia alle prede quanto lo sono gli animali predatori.",
+								"{@creature bat|MM|Bats} sono luoghi comuni nelle grotte rocciose e negli alberi della giungla. Sono considerati nemici del sole e strettamente associati ai demoni, anche se la maggior parte delle varietà sono innocue. {@creature Giant bat|MM|Giant bats} rappresentano una minaccia più significativa.",
+								"La foresta pullula di tutti i tipi di insetti {@b spiders} e altri artropodi. Le zanzare si riproducono nell'acqua stagnante e sciamano attorno a qualsiasi animale con sangue. Millepiedi, millepiedi, scarafaggi e scarafaggi strisciano tra i detriti e l'humus sul suolo della foresta. Vespe, libellule {@creature scorpion|MM|scorpions}, formiche e scarafaggi sono ovunque, di dimensioni variabili da minuscole a gigantesche. {@creature swarm of insects|MM|Swarms of insects} rappresentano una minaccia significativa per gli avventurieri, così come {@creature giant centipede|MM|giant centipedes}, {@creature giant fire beetle|MM|giant fire beetles}, {@creature giant spider|MM|giant spiders}, {@creature giant wasp|MM|giant wasps} e {@creature giant wolf spider|MM|giant wolf spiders}.",
+								"Molte piante predatrici attirano il cibo producendo odori che ricordano il cibo, che si tratti dell'odore del dolce nettare o del fetore della carne in decomposizione. Quindi chiudono foglie simili a mascelle attorno alla preda o la catturano in pozze appiccicose di succo digestivo. Alcune piante sono ancora più attive, saltando fuori dalla volta della foresta per afferrare i dinosauri volanti con artigli legnosi o aggrovigliarli nelle liane. Altri estirpano le radici e strisciano sul suolo della foresta in cerca di buoni terreni di caccia. {@creature Awakened shrub|MM|Awakened shrubs}, {@creature awakened tree|MM|awakened trees} e varie forme di {@b fungi} possono rappresentare molte di queste piante."
 							],
 							"id": "045"
 						},
@@ -1349,11 +1349,11 @@
 							"name": "Life of the Waters",
 							"page": 40,
 							"entries": [
-								"The rivers and seas of Ixalan teem with life as plentiful\u2014and as dangerous\u2014as that of the forests.",
-								"To ships on the Stormwreck Sea, storms are only the most prominent and visible danger. Bone-plated fish, squid, sea serpents, turtles, and whales can grow large enough to capsize a ship, pull it underwater, or smash it to flinders. The largest sharks ({@creature giant shark|MM|giant sharks}) are the most feared, but even smaller sharks ({@creature hunter shark|MM|hunter sharks}) can be deadly alone\u2014and are more so in schools. Their taste for blood makes them a fearsome threat to anyone at sea, especially those forced to walk the plank of a pirate ship.",
-								"The Inner Sea is less prone to storms but more crowded with reefs, rocks, and narrow straits. It is home to similar monstrous swimmers, with the addition of large saltwater {@creature crocodile|MM|crocodiles}.",
-								"The waters of the Great River and all its tributaries are home to fish that serve as one of the most important food sources for other animals in the forest. These include large predatory fish, as well as churning swarms of small biting fish such as {@creature piranha|PSX|piranhas} (equivalent to {@creature quipper|MM|quippers} and {@creature swarm of quippers|MM|swarms of quippers}). Enormous {@creature crocodile|MM|crocodiles} lurk in the waters and bask on the riverbanks.",
-								"On the beaches and banks of the rivers and seas, crabs scuttle across the sand and birds wade in the shallow water. Trilobites are among the most common shore-dwellers, including predatory varieties as well as scavengers and filter-feeders consuming scraps they find in the sand. Use the {@creature crab|MM} or {@creature giant crab|MM} statistics in the {@book Monster Manual|MM} for {@creature trilobite|PSX|trilobites}."
+								"I fiumi e i mari di Ixalan pullulano di vita abbondante e pericolosa quanto quella delle foreste.",
+								"Per le navi nel Mare dei Relitti, le tempeste sono solo il pericolo più evidente e visibile. Pesci ricoperti di ossa, calamari, serpenti marini, tartarughe e balene possono diventare abbastanza grandi da capovolgere una nave, trascinarla sott'acqua o ridurla in frantumi. Gli squali più grandi ({@creature giant shark|MM|giant sharks}) sono i più temuti, ma anche gli squali più piccoli ({@creature hunter shark|MM|hunter sharks}) possono essere mortali da soli, e lo sono ancora di più nelle scuole. Il loro gusto per il sangue li rende una temibile minaccia per chiunque sia in mare, specialmente per coloro che sono costretti a camminare sull'asse di una nave pirata.",
+								"Il Mare Interno è meno soggetto alle tempeste ma più affollato di barriere coralline, rocce e stretti stretti. Ospita mostruosi nuotatori simili, con l'aggiunta di grande acqua salata {@creature crocodile|MM|crocodiles}.",
+								"Le acque del Grande Fiume e di tutti i suoi affluenti ospitano pesci che costituiscono una delle fonti di cibo più importanti per gli altri animali della foresta. Questi includono grandi pesci predatori, nonché sciami agitati di piccoli pesci che mordono come {@creature piranha|PSX|piranhas} (equivalente a {@creature quipper|MM|quippers} e {@creature swarm of quippers|MM|swarms of quippers}). Enormi {@creature crocodile|MM|crocodiles} si nascondono nelle acque e si crogiolano sulle rive del fiume.",
+								"Sulle spiagge e sulle rive dei fiumi e dei mari, i granchi corrono sulla sabbia e gli uccelli sguazzano nelle acque poco profonde. I trilobiti sono tra gli abitanti più comuni delle coste, comprese le varietà predatrici, nonché gli spazzini e i filtratori che consumano gli scarti che trovano nella sabbia. Utilizza le statistiche {@creature crab|MM} o {@creature giant crab|MM} in {@book Monster Manual|MM} per {@creature trilobite|PSX|trilobites}."
 							],
 							"id": "046"
 						}
@@ -1368,7 +1368,7 @@
 			"name": "Appendix: The Colors of Magic",
 			"page": 41,
 			"entries": [
-				"All the planes of Magic's Multiverse are suffused with mana\u2014the energy that fuels magic in all its forms. Mana is intricately linked with the physical world, and different types of terrain produce different \"colors\" of mana. Most mages specialize in the use of one or perhaps two colors of mana, and in the particular types of magical effects that mana can create.",
+				"Tutti i piani del Multiverso di Magic sono pervasi di mana, l'energia che alimenta la magia in tutte le sue forme. Il mana è strettamente legato al mondo fisico e diversi tipi di terreno producono diversi \"colori\" di mana. La maggior parte dei maghi è specializzata nell'uso di uno o forse due colori di mana e nei particolari tipi di effetti magici che il mana può creare.",
 				{
 					"type": "image",
 					"href": {
@@ -1380,43 +1380,43 @@
 					"width": 1276,
 					"height": 937
 				},
-				"Color is a fundamental organizing principle of the Multiverse, closely linked with everything from physical geography to human personality. The following are just some of the correlations between color and other aspects of existence:",
+				"Il colore è un principio organizzativo fondamentale del Multiverso, strettamente legato a tutto, dalla geografia fisica alla personalità umana. Quelle che seguono sono solo alcune delle correlazioni tra il colore e altri aspetti dell'esistenza:",
 				{
 					"type": "list",
 					"items": [
 						{
 							"type": "item",
 							"name": "Lands:",
-							"entry": "Different types of terrain generate mana of different colors. For example, mountains produce red mana,while plains produce white mana."
+							"entry": "Diversi tipi di terreno generano mana di diversi colori. Ad esempio, le montagne producono mana rosso, mentre le pianure producono mana bianco."
 						},
 						{
 							"type": "item",
 							"name": "Philosophical Principles:",
-							"entry": "Each color is associated with a set of ideals, values, and principles. White is connected with protection and order, and green with life and nature."
+							"entry": "Ogni colore è associato a un insieme di ideali, valori e principi. Il bianco è collegato alla protezione e all'ordine, mentre il verde alla vita e alla natura."
 						},
 						{
 							"type": "item",
 							"name": "Magical Effects:",
-							"entry": "Different colors of mana are used to power different kinds of spells. Spells of fire, lightning, and speed draw on red mana, while spells of water, ice, and the mind use blue mana."
+							"entry": "Diversi colori di mana vengono utilizzati per alimentare diversi tipi di incantesimi. Gli incantesimi di fuoco, fulmine e velocità attingono al mana rosso, mentre gli incantesimi di acqua, ghiaccio e mente utilizzano il mana blu."
 						},
 						{
 							"type": "item",
 							"name": "Races and Creatures:",
-							"entry": "Humans are exceptional, in that they don't have a particular aptitude or affinity for one color of mana. For other races, and even for nonsentient creatures, the connection is much stronger. Elves, for example, are typically green aligned. They use nature magic, and they value things like balance, stability, and interdependence. Hydras are also green aligned, though they don't use magic and they don't have values\u2014even as they can be seen to embody those values. So if you wanted to summon a hydra, you'd use a green spell to do it."
+							"entry": "Gli esseri umani sono eccezionali, nel senso che non hanno una particolare attitudine o affinità per un colore di mana. Per le altre razze, e anche per le creature non senzienti, la connessione è molto più forte. Gli elfi, ad esempio, sono tipicamente allineati al verde. Usano la magia della natura e danno valore a cose come equilibrio, stabilità e interdipendenza. Anche le idre sono allineate al verde, sebbene non usino la magia e non abbiano valori, anche se si può vedere che incarnano quei valori. Quindi se volessi evocare un'idra, utilizzeresti un incantesimo verde per farlo."
 						},
 						{
 							"type": "item",
 							"name": "Metaphysical Essence:",
-							"entry": "Sometimes magic or even powerful emotions can change the basic nature of people or creatures in a way that alters their color alignment. A vile curse might change someone from green aligned to black aligned (or both green and black aligned). A terrible loss that spurs someone to vengeance might add red to the person's color alignment\u2014temporarily or even permanently."
+							"entry": "A volte la magia o anche le emozioni potenti possono cambiare la natura fondamentale di persone o creature in modo da alterarne l'allineamento dei colori. Una vile maledizione potrebbe cambiare qualcuno da allineato al verde ad allineato al nero (o allineato sia al verde che al nero). Una terribile perdita che spinge qualcuno alla vendetta potrebbe aggiungere il rosso all'allineamento cromatico della persona, temporaneamente o addirittura permanentemente."
 						},
 						{
 							"type": "item",
 							"name": "Personality Traits:",
-							"entry": "Different colors of mana are associated with different qualities of personality. It might be that a person who is emotionally driven, creative, and energetic is naturally drawn to the use of red mana; or perhaps using red mana brings out those qualities in a person. Most likely, the effect runs both ways."
+							"entry": "Diversi colori di mana sono associati a diverse qualità di personalità. Potrebbe darsi che una persona emotivamente guidata, creativa ed energica sia naturalmente attratta dall'uso del mana rosso; o forse l'uso del mana rosso fa emergere quelle qualità in una persona. Molto probabilmente, l’effetto funziona in entrambe le direzioni."
 						}
 					]
 				},
-				"A character's or creature's \"color alignment\" is a sort of shorthand that sketches out its personality, alignment, and power suite\u2014the kinds of effects that it creates with its magic or through its behavior. This section goes over the traits of each of the five colors, and offers suggestions for ways they might influence a D&D character.",
+				"L'\"allineamento cromatico\" di un personaggio o di una creatura è una sorta di abbreviazione che ne delinea la personalità, l'allineamento e i poteri, ovvero il tipo di effetti che crea con la sua magia o attraverso il suo comportamento. Questa sezione esamina le caratteristiche di ciascuno dei cinque colori e offre suggerimenti su come potrebbero influenzare un personaggio di D&D.",
 				{
 					"type": "entries",
 					"entries": [
@@ -1428,8 +1428,8 @@
 									"name": "Multiple Colors",
 									"page": 41,
 									"entries": [
-										"Many mages, especially Planeswalkers, routinely draw on two or more colors of mana. In some worlds, color pairs or triads have such a strong identity that they are manifested in the world. The guilds of Ravnica, for example, are each aligned to a specific pair of mana colors, and each of the clans of Tarkir used three colors. And some lands produce mana of more than one color, so that a highland lake might produce both red and blue mana. Mana pairs similarly suggest certain principles, create certain magical effects, and favor certain personality traits.",
-										"Based on the color wheel, it's possible to speak of two colors of mana as either \"allied\" (adjacent to each other on the wheel) or \"enemy\" (separated by another color). White's allied colors are green and blue; its enemy colors are red and black. That doesn't mean that creatures associated with allied colors are necessarily on the same side of any conflict, or that creatures associated with enemy colors are actually enemies. But if conflict does arise\u2014for example, in a party of adventurers\u2014it's more likely to arise between a white-aligned and a red-aligned character than between a white-aligned and a blue-aligned one. That's the natural result of the different personalities and principles associated with each color. A white character might put a lot of stress on the value of law and order, and of working together toward a common goal. A red-aligned character values freedom and individuality."
+										"Molti maghi, soprattutto i Planeswalker, attingono abitualmente a due o più colori di mana. In alcuni mondi, le coppie o le triadi di colori hanno un'identità così forte da manifestarsi nel mondo. Le gilde di Ravnica, ad esempio, sono allineate ciascuna a una specifica coppia di colori di mana e ciascuno dei clan di Tarkir utilizza tre colori. Inoltre, alcune terre producono mana di più di un colore, quindi un lago di un altopiano potrebbe produrre sia mana rosso che blu. Allo stesso modo, le coppie di mana suggeriscono determinati principi, creano determinati effetti magici e favoriscono determinati tratti della personalità.",
+										"In base alla ruota dei colori, è possibile parlare di due colori di mana come \"alleati\" (adiacenti tra loro sulla ruota) o \"nemici\" (separati da un altro colore). I colori alleati del bianco sono il verde e il blu; i suoi colori nemici sono il rosso e il nero. Ciò non significa che le creature associate ai colori alleati siano necessariamente dalla stessa parte in qualsiasi conflitto, o che le creature associate ai colori nemici siano effettivamente nemiche. Ma se si verifica un conflitto, ad esempio in un gruppo di avventurieri, è più probabile che sorgano tra un personaggio allineato al bianco e uno allineato al rosso che tra un personaggio allineato al bianco e uno allineato al blu. Questo è il risultato naturale delle diverse personalità e principi associati a ciascun colore. Un personaggio bianco potrebbe porre molta enfasi sul valore della legge e dell’ordine e sul lavorare insieme verso un obiettivo comune. Un personaggio allineato con il rosso valorizza la libertà e l’individualità."
 									],
 									"id": "030"
 								},
@@ -1447,8 +1447,8 @@
 									"name": "Characters and Colors",
 									"page": 41,
 									"entries": [
-										"In the language of the D&D game, the colors of mana are a means of categorizing the types of magic that suffuse all existence. When a spellcaster draws upon or manipulates the Weave (see {@book chapter 10 in the Player's Handbook|PHB|10}), part of that process involves tugging on a strand that connects to a land that produces mana of the desired color. Whether consciously or unconsciously, a druid casting {@spell barkskin} tugs on a strand of the Weave connected to a forest in the world, drawing out the green mana needed to cast the spell.",
-										"There's no rules weight to this material; it's simply about roleplaying your character. If you're playing a cleric, you might find it helpful to imagine your character drawing on white mana, and you'll find that a lot of your spells could indeed be white spells in Magic. You might also find inspiration in the personality traits and ideals described in the white mana entry. But there's no rule preventing your character from using spells like {@spell divination} (a blue spell), {@spell stone shape} (a red spell), {@spell create undead} (a black spell), or {@spell insect plague} (a green spell). On the other hand, you might find that thinking about your cleric as a white-aligned caster shapes your choice of spells as well as your personality."
+										"Nel linguaggio del gioco D&D, i colori del mana sono un mezzo per classificare i tipi di magia che pervadono tutta l'esistenza. Quando un incantatore attinge o manipola la Trama (vedi {@book chapter 10 in the Player's Handbook|PHB|10}), parte di quel processo implica tirare un filo che si collega a una terra che produce mana del colore desiderato. Consciamente o inconsciamente, un druido che lancia {@spell barkskin} tira un filo della Trama collegato a una foresta nel mondo, estraendo il mana verde necessario per lanciare l'incantesimo.",
+										"Non ci sono regole che valgano per questo materiale; si tratta semplicemente di interpretare il tuo personaggio. Se interpreti un chierico, potresti trovare utile immaginare che il tuo personaggio attinga mana bianco e scoprirai che molti dei tuoi incantesimi potrebbero effettivamente essere incantesimi bianchi in Magic. Potresti anche trovare ispirazione nei tratti della personalità e negli ideali descritti nella voce del mana bianco. Ma non esiste alcuna regola che impedisca al tuo personaggio di usare incantesimi come {@spell divination} (un incantesimo blu), {@spell stone shape} (un incantesimo rosso), {@spell create undead} (un incantesimo nero) o {@spell insect plague} (un incantesimo verde). D'altra parte, potresti scoprire che considerare il tuo chierico come un incantatore allineato al bianco influenza la tua scelta degli incantesimi e la tua personalità."
 									],
 									"id": "031"
 								}
@@ -1471,7 +1471,7 @@
 									"width": 1275,
 									"height": 764
 								},
-								"Order. Protection. Community. White draws strength from groups working together, standing firm against the chaos that would divide them. The whole is greater than the sum of its parts, and safety is found in numbers. You can read a lot more about white {@link in this article|https://magic.wizards.com/en/articles/archive/making-magic/great-white-way-revisited-2015-07-13} by Mark Rosewater, Magic's head designer.",
+								"Ordine. Protezione. Comunità. Il bianco trae forza dai gruppi che lavorano insieme, resistendo al caos che li dividerebbe. Il tutto è maggiore della somma delle sue parti e la sicurezza si trova nei numeri. Puoi leggere molto di più sul bianco {@link in this article|https://magic.wizards.com/en/articles/archive/making-magic/great-white-way-revisited-2015-07-13} da Mark Rosewater, capo progettista di Magic.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -1479,12 +1479,12 @@
 										{
 											"type": "item",
 											"name": "Alignment:",
-											"entry": "Lawful (any) or good (any)"
+											"entry": "Lecito (qualsiasi) o buono (qualsiasi)"
 										},
 										{
 											"type": "item",
 											"name": "Power Suite:",
-											"entry": "Healing, protecting, binding, bolstering"
+											"entry": "Guarire, proteggere, legare, rafforzare"
 										},
 										{
 											"type": "item",
@@ -1520,35 +1520,35 @@
 											"rows": [
 												[
 													"1",
-													"I can find common ground with even the fiercest enemies, empathizing with them and always working toward peace."
+													"Posso trovare punti in comune anche con i nemici più feroci, entrare in empatia con loro e lavorare sempre per la pace."
 												],
 												[
 													"2",
-													"I would rather make a new friend than a new enemy."
+													"Preferirei avere un nuovo amico piuttosto che un nuovo nemico."
 												],
 												[
 													"3",
-													"If someone is in trouble, I'm always ready to lend aid."
+													"Se qualcuno è nei guai, sono sempre pronto a prestare aiuto."
 												],
 												[
 													"4",
-													"I get overly upset when people break even minor rules."
+													"Mi arrabbio eccessivamente quando le persone infrangono anche le regole minori."
 												],
 												[
 													"5",
-													"I am honest to the point of being blunt or rude."
+													"Sono onesto al punto da essere schietto o scortese."
 												],
 												[
 													"6",
-													"I go into every situation with at least one backup plan, but I can get lost when my plans go awry."
+													"Affronto ogni situazione con almeno un piano di riserva, ma posso perdermi quando i miei piani vanno male."
 												],
 												[
 													"7",
-													"I have no patience for selfish or greedy people."
+													"Non ho pazienza per le persone egoiste o avide."
 												],
 												[
 													"8",
-													"I like my environment to be well ordered and clean."
+													"Mi piace che il mio ambiente sia ben ordinato e pulito."
 												]
 											]
 										},
@@ -1566,27 +1566,27 @@
 											"rows": [
 												[
 													"1",
-													"{@b Harmony.} I long for a world in which everyone gets along."
+													"{@b Harmony.} Desidero un mondo in cui tutti vadano d'accordo."
 												],
 												[
 													"2",
-													"{@b Community.} It is the duty of all civilized people to strengthen the bonds of community and the security of civilization."
+													"{@b Community.} È dovere di tutte le persone civili rafforzare i legami della comunità e la sicurezza della civiltà."
 												],
 												[
 													"3",
-													"{@b Peace.} It is each person's responsibility to make the most happiness for the whole community."
+													"{@b Peace.} È responsabilità di ogni persona rendere la massima felicità per l'intera comunità."
 												],
 												[
 													"4",
-													"{@b Solidarity.} Working together, we are stronger than any of us alone."
+													"{@b Solidarity.} Lavorando insieme, siamo più forti di chiunque di noi da solo."
 												],
 												[
 													"5",
-													"{@b Law and Order.} We all must obey those in authority and follow laws, or society will devolve into chaos."
+													"{@b Law and Order.} Dobbiamo tutti obbedire a chi detiene l'autorità e seguire le leggi, altrimenti la società sprofonderà nel caos."
 												],
 												[
 													"6",
-													"{@b Honor.} If I dishonor myself, I undermine the foundation of my community."
+													"{@b Honor.} Se disonoro me stesso, minerò le fondamenta della mia comunità."
 												]
 											]
 										}
@@ -1598,10 +1598,10 @@
 									"name": "Color Combinations",
 									"page": 43,
 									"entries": [
-										"Adding blue to white steers it toward lawful neutral, creating archetypes such as the devout monk or the honorable paladin.",
-										"Adding black to white steers it toward lawful evil, exemplified by oppressive clerics and fallen paladins.",
-										"Adding red to white makes it zealously lawful good, as in the case of a fervent paladin.",
-										"Adding green to white steers it toward neutral good and gentler notions of community, embodied in characters such as healing druids, bards, or kindly rangers."
+										"L'aggiunta del blu al bianco lo indirizza verso il legale neutrale, creando archetipi come il monaco devoto o l'onorevole paladino.",
+										"Aggiungere il nero al bianco lo indirizza verso il male legale, esemplificato da chierici oppressivi e paladini caduti.",
+										"Aggiungere il rosso al bianco lo rende zelantemente legale, come nel caso di un fervente paladino.",
+										"L'aggiunta del verde al bianco lo indirizza verso nozioni neutrali, buone e più gentili di comunità, incarnate in personaggi come druidi curativi, bardi o ranger gentili."
 									],
 									"id": "034"
 								}
@@ -1624,8 +1624,8 @@
 									"width": 1275,
 									"height": 680
 								},
-								"Wisdom. Contemplation. Manipulation. Blue's strength is the power of the mind\u2014its limitless ability to imagine, invent, strategize, and deceive. Knowledge is power, and victory goes to the smarter foe.",
-								"More information about blue's philosophies and powers can be found {@link here|https://magic.wizards.com/en/articles/archive/making-magic/true-blue-revisited-2015-07-20}.",
+								"Saggezza. Contemplazione. Manipolazione. La forza del blu è il potere della mente: la sua capacità illimitata di immaginare, inventare, elaborare strategie e ingannare. La conoscenza è potere e la vittoria va al nemico più intelligente.",
+								"Maggiori informazioni sulla filosofia e sui poteri del blu possono essere trovate {@link here|https://magic.wizards.com/en/articles/archive/making-magic/true-blue-revisited-2015-07-20}.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -1633,12 +1633,12 @@
 										{
 											"type": "item",
 											"name": "Alignment:",
-											"entry": "Neutral (any)"
+											"entry": "Neutro (qualsiasi)"
 										},
 										{
 											"type": "item",
 											"name": "Power Suite:",
-											"entry": "Control, the mind, counterspells, illusion, transformation, time, wind, water, and ice"
+											"entry": "Controllo, mente, controincantesimi, illusione, trasformazione, tempo, vento, acqua e ghiaccio"
 										},
 										{
 											"type": "item",
@@ -1674,35 +1674,35 @@
 											"rows": [
 												[
 													"1",
-													"I employ a polysyllabic vocabulary that conveys the impression of tremendous erudition."
+													"Utilizzo un vocabolario polisillabico che dà l'impressione di una straordinaria erudizione."
 												],
 												[
 													"2",
-													"I'm used to helping out those who aren't as smart as I am, and I patiently explain anything and everything to others."
+													"Sono abituato ad aiutare coloro che non sono intelligenti come me e spiego pazientemente qualsiasi cosa agli altri."
 												],
 												[
 													"3",
-													"I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings."
+													"Spesso mi perdo nei miei pensieri e nella mia contemplazione, diventando ignaro di ciò che mi circonda."
 												],
 												[
 													"4",
-													"I believe that anything worth doing is worth doing right. I can't help it\u2014I'm a perfectionist."
+													"Credo che tutto ciò che vale la pena fare valga la pena farlo bene. Non posso farci niente: sono un perfezionista."
 												],
 												[
 													"5",
-													"I want to know how things work and what makes people act as they do."
+													"Voglio sapere come funzionano le cose e cosa spinge le persone ad agire in un certo modo."
 												],
 												[
 													"6",
-													"There's nothing I like more than a good mystery."
+													"Non c'è niente che mi piace di più di un buon mistero."
 												],
 												[
 													"7",
-													"Messing up just means an opportunity to learn from my mistakes."
+													"Fare confusione significa solo avere l'opportunità di imparare dai miei errori."
 												],
 												[
 													"8",
-													"There's no need to rush into action; I prefer to plan before I act."
+													"Non è necessario affrettarsi all'azione; Preferisco pianificare prima di agire."
 												]
 											]
 										},
@@ -1720,27 +1720,27 @@
 											"rows": [
 												[
 													"1",
-													"{@b Perfection.} The goal of a life of study is to constantly improve oneself."
+													"{@b Perfection.} L'obiettivo di una vita di studio è migliorarsi costantemente."
 												],
 												[
 													"2",
-													"{@b Education.} Information can change the world only when it is widely shared."
+													"{@b Education.} Le informazioni possono cambiare il mondo solo quando sono ampiamente condivise."
 												],
 												[
 													"3",
-													"{@b Knowledge.} The path to power and self-improvement comes through mastery of what can be known."
+													"{@b Knowledge.} Il percorso verso il potere e l'auto-miglioramento passa attraverso la padronanza di ciò che può essere conosciuto."
 												],
 												[
 													"4",
-													"{@b Change.} The world is in constant flux, and we must be ready to change with it."
+													"{@b Change.} Il mondo è in costante cambiamento e dobbiamo essere pronti a cambiare con esso."
 												],
 												[
 													"5",
-													"{@b Logic.} Emotions must not cloud our clear thinking."
+													"{@b Logic.} Le emozioni non devono offuscare la nostra lucidità di pensiero."
 												],
 												[
 													"6",
-													"{@b Self-Knowledge.} If you know yourself, there's nothing left to know."
+													"{@b Self-Knowledge.} Se conosci te stesso, non c'è più niente da sapere."
 												]
 											]
 										}
@@ -1752,10 +1752,10 @@
 									"name": "Color Combinations",
 									"page": 44,
 									"entries": [
-										"Adding white to blue steers it toward lawful neutral, creating archetypes such as the devout monk or the honorable paladin.",
-										"Adding black to blue steers it toward neutral evil and the behavior of stealthy spies, scoundrels, and infiltrators.",
-										"Adding red to blue steers it toward chaotic neutral, exemplified by madcap mages\u2014elementalist wizards or sorcerers.",
-										"Adding green to blue solidifies its neutrality, embodied in archetypes such as the sagacious druid or the scholar of nature."
+										"L'aggiunta del bianco al blu lo porta verso il legale neutrale, creando archetipi come il monaco devoto o l'onorevole paladino.",
+										"L'aggiunta del nero al blu lo indirizza verso il male neutrale e il comportamento di spie furtive, furfanti e infiltrati.",
+										"L'aggiunta del rosso al blu lo porta verso il caotico neutrale, esemplificato dai maghi folli: maghi o stregoni elementalisti.",
+										"L'aggiunta del verde al blu consolida la sua neutralità, incarnata in archetipi come il druido sagace o lo studioso della natura."
 									],
 									"id": "037"
 								}
@@ -1778,8 +1778,8 @@
 									"width": 631,
 									"height": 1459
 								},
-								"Ambition. Cruelty. Death. Black draws its power from the slow decay of all things and the inevitability of extinction. Supremacy belongs to those who are willing to do whatever it takes\u2014including hastening death's arrival\u2014to achieve their ends.",
-								"Mark Rosewater has written more about black {@link here|https://magic.wizards.com/en/articles/archive/making-magic/black-revisited-2015-07-27}.",
+								"Ambizione. Crudeltà. Morte. Il nero trae il suo potere dal lento decadimento di tutte le cose e dall'inevitabilità dell'estinzione. La supremazia appartiene a coloro che sono disposti a fare qualsiasi cosa, incluso accelerare l'arrivo della morte, per raggiungere i propri fini.",
+								"Mark Rosewater ha scritto di più sul nero {@link here|https://magic.wizards.com/en/articles/archive/making-magic/black-revisited-2015-07-27}.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -1787,12 +1787,12 @@
 										{
 											"type": "item",
 											"name": "Alignment",
-											"entry": "Evil (any)"
+											"entry": "Male (qualsiasi)"
 										},
 										{
 											"type": "item",
 											"name": "Power Suite:",
-											"entry": "Necromancy, fear, pain, darkness, disease, corruption"
+											"entry": "Necromanzia, paura, dolore, oscurità, malattia, corruzione"
 										},
 										{
 											"type": "item",
@@ -1825,35 +1825,35 @@
 									"rows": [
 										[
 											"1",
-											"The best way to get me to do something is to tell me I can't do it."
+											"Il modo migliore per convincermi a fare qualcosa è dirmi che non posso farlo."
 										],
 										[
 											"2",
-											"If you do me an injury, I will crush you, ruin your name, and salt your family's lands for all time."
+											"Se mi fai un torto, ti schiaccerò, rovinerò il tuo nome e salerò le terre della tua famiglia per sempre."
 										],
 										[
 											"3",
-											"The first thing I do in a new place is note the locations of everything valuable\u2014or where such things might be hidden."
+											"La prima cosa che faccio in un posto nuovo è annotare la posizione di tutto ciò che ha valore o dove tali cose potrebbero essere nascoste."
 										],
 										[
 											"4",
-											"I get bitter if I'm not the center of attention."
+											"Mi arrabbio se non sono al centro dell'attenzione."
 										],
 										[
 											"5",
-											"I can't stand the dangerous idiots who deny their own needs in order to help others. It's often difficult to motivate them to do what I want."
+											"Non sopporto i pericolosi idioti che negano i propri bisogni per aiutare gli altri. Spesso è difficile motivarli a fare quello che voglio."
 										],
 										[
 											"6",
-											"If others won't do things when you ask nicely, stop asking nicely."
+											"Se gli altri non fanno le cose quando chiedi gentilmente, smetti di chiedere gentilmente."
 										],
 										[
 											"7",
-											"Inspiring fear can be the most effective way to motivate people."
+											"Ispirare la paura può essere il modo più efficace per motivare le persone."
 										],
 										[
 											"8",
-											"I don't care about morality or taboos\u2014only results. I'll do whatever it takes to get the results I want."
+											"Non mi interessa la moralità o i tabù, solo i risultati. Farò tutto il necessario per ottenere i risultati che desidero."
 										]
 									]
 								},
@@ -1871,27 +1871,27 @@
 									"rows": [
 										[
 											"1",
-											"{@b Power.} Power is the only way to guarantee your ability to control your life\u2014and thus your happiness."
+											"{@b Power.} Il potere è l'unico modo per garantire la tua capacità di controllare la tua vita e quindi la tua felicità."
 										],
 										[
 											"2",
-											"{@b Self-Interest.} If I don't look out for myself, no one else is going to."
+											"{@b Self-Interest.} Se non mi prendo cura di me stesso, nessun altro lo farà."
 										],
 										[
 											"3",
-											"Strength. Helping the weak is merely delaying their inevitable failure."
+											"Forza. Aiutare i deboli significa semplicemente ritardare il loro inevitabile fallimento."
 										],
 										[
 											"4",
-											"{@b Freedom.} If I need something, I'm a fool if I let laws or morality stand in my way."
+											"{@b Freedom.} Se ho bisogno di qualcosa, sono uno stupido se lascio che le leggi o la moralità mi ostacolino."
 										],
 										[
 											"5",
-											"{@b Greed.} The clearest way to get ahead in this world is with money."
+											"{@b Greed.} Il modo più semplice per andare avanti in questo mondo è con i soldi."
 										],
 										[
 											"6",
-											"{@b Independence.} No one tells me what to do."
+											"{@b Independence.} Nessuno mi dice cosa fare."
 										]
 									]
 								},
@@ -1900,9 +1900,9 @@
 									"name": "Color Combinations",
 									"page": 45,
 									"entries": [
-										"Adding white to black steers it toward lawful evil, exemplified by oppressive clerics and fallen paladins.",
-										"Adding blue to black steers it toward neutral evil and the behavior of stealthy spies, scoundrels, and infiltrators. Adding red to black creates the chaotic evil icons of bloodthirsty barbarians and battle priests.",
-										"Adding green to black steers it toward neutral evil, in the form of sinister druids and stalking rangers."
+										"Aggiungere il bianco al nero lo indirizza verso il male legale, esemplificato da chierici oppressivi e paladini caduti.",
+										"L'aggiunta del blu al nero lo indirizza verso il male neutrale e il comportamento di spie furtive, furfanti e infiltrati. L'aggiunta del rosso al nero crea le caotiche icone malvagie dei barbari assetati di sangue e dei preti guerrieri.",
+										"L'aggiunta del verde al nero lo indirizza verso il male neutrale, sotto forma di sinistri druidi e ranger in agguato."
 									],
 									"id": "039"
 								}
@@ -1925,8 +1925,8 @@
 									"width": 1276,
 									"height": 727
 								},
-								"Passion. Impulse. Immolation. Red values action over reflection, emotion over reason, and instinct over learning. Its power is the volatile energy of fire and lightning, the seismic energy of the earth, and the savagery of untamed fury.",
-								"{@link This article|https://magic.wizards.com/en/articles/archive/making-magic/seeing-red-revisited-2015-08-03} discusses the motivations and actions of red in more detail.",
+								"Passione. Impulso. Immolazione. Il rosso valorizza l’azione rispetto alla riflessione, l’emozione rispetto alla ragione e l’istinto rispetto all’apprendimento. Il suo potere è l'energia volatile del fuoco e del fulmine, l'energia sismica della terra e la ferocia della furia selvaggia.",
+								"{@link This article|https://magic.wizards.com/en/articles/archive/making-magic/seeing-red-revisited-2015-08-03} discute le motivazioni e le azioni del rosso in modo più dettagliato.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -1934,12 +1934,12 @@
 										{
 											"type": "item",
 											"name": "Alignment:",
-											"entry": "Chaotic (any)"
+											"entry": "Caotico (qualsiasi)"
 										},
 										{
 											"type": "item",
 											"name": "Power Suite:",
-											"entry": "Fire and lightning, earth, emotion, rage, destruction"
+											"entry": "Fuoco e fulmini, terra, emozione, rabbia, distruzione"
 										},
 										{
 											"type": "item",
@@ -1972,35 +1972,35 @@
 									"rows": [
 										[
 											"1",
-											"I always speak and act before I think."
+											"Parlo e agisco sempre prima di pensare."
 										],
 										[
 											"2",
-											"My changing emotions dominate my personality, leaving no one in any doubt about what I'm feeling."
+											"Le mie emozioni mutevoli dominano la mia personalità, senza lasciare alcun dubbio su ciò che sento."
 										],
 										[
 											"3",
-											"I fall in and out of love faster than the weather changes."
+											"Mi innamoro e mi disinnamo più velocemente dei cambiamenti del tempo."
 										],
 										[
 											"4",
-											"I'm always angry."
+											"Sono sempre arrabbiato."
 										],
 										[
 											"5",
-											"I either love something or I hate it; there is no in-between."
+											"O amo qualcosa o lo odio; non c'è via di mezzo."
 										],
 										[
 											"6",
-											"I'm always working on some piece of art to express my feelings."
+											"Lavoro sempre su qualche opera d'arte per esprimere i miei sentimenti."
 										],
 										[
 											"7",
-											"I revel in the storms and the destruction that give expression to the turmoil inside me."
+											"Mi godo le tempeste e la distruzione che danno espressione al tumulto dentro di me."
 										],
 										[
 											"8",
-											"I have no patience for people who think they can boss others around."
+											"Non ho pazienza per le persone che pensano di poter comandare gli altri."
 										]
 									]
 								},
@@ -2018,27 +2018,27 @@
 									"rows": [
 										[
 											"1",
-											"{@b Freedom.} Everyone should be free to pursue their own dreams."
+											"{@b Freedom.} Tutti dovrebbero essere liberi di perseguire i propri sogni."
 										],
 										[
 											"2",
-											"{@b Emotion.} My heart tells me what it needs. All I have to do is listen and act accordingly."
+											"{@b Emotion.} Il mio cuore mi dice di cosa ha bisogno. Tutto quello che devo fare è ascoltare e agire di conseguenza."
 										],
 										[
 											"3",
-											"{@b Adventure.} Life is an adventure, and it's up to each individual to experience it."
+											"{@b Adventure.} La vita è un'avventura e spetta a ciascun individuo viverla."
 										],
 										[
 											"4",
-											"{@b Relationships.} Part of life is embracing the passion, loyalty, and camaraderie that ties us to others."
+											"{@b Relationships.} Parte della vita consiste nell'abbracciare la passione, la lealtà e il cameratismo che ci legano agli altri."
 										],
 										[
 											"5",
-											"{@b Creativity.} The world is in need of new ideas and bold action."
+											"{@b Creativity.} Il mondo ha bisogno di nuove idee e azioni coraggiose."
 										],
 										[
 											"6",
-											"{@b Sincerity.} No one should pretend to be something they're not."
+											"{@b Sincerity.} Nessuno dovrebbe fingere di essere qualcosa che non è."
 										]
 									]
 								},
@@ -2047,9 +2047,9 @@
 									"name": "Color Combinations",
 									"page": 46,
 									"entries": [
-										"Adding white to red makes it more zealously lawful good, as in the case of a fervent paladin.",
-										"Adding blue to red steers it toward chaotic neutral, exemplified by madcap mages\u2014elementalist wizards or sorcerers.",
-										"Adding black to red creates the chaotic evil icons of bloodthirsty barbarians and battle priests. Adding green to red leads to an intense neutral or chaotic neutral, embodied in a totemic barbarian or fierce ranger."
+										"Aggiungere il bianco al rosso lo rende più zelantemente legale, come nel caso di un fervente paladino.",
+										"L'aggiunta del blu al rosso lo porta verso il caotico neutrale, esemplificato dai maghi folli: maghi o stregoni elementalisti.",
+										"L'aggiunta del nero al rosso crea le caotiche icone malvagie dei barbari assetati di sangue e dei preti guerrieri. L'aggiunta del verde al rosso porta a un neutrale intenso o caotico, incarnato in un barbaro totemico o in un feroce ranger."
 									],
 									"id": "03b"
 								}
@@ -2072,8 +2072,8 @@
 									"width": 1275,
 									"height": 708
 								},
-								"Nature's abundance. Lush growth. Vibrant life. Green knows that the artificial trappings of civilization are temporary but the vast ecosystems of nature will always endure\u2014adapting and evolving in a delicate balance. Those who would prosper must also evolve, embracing their wild side and letting nature have its way.",
-								"Mark Rosewater's essay on the nature and philosophy of green can be found {@link here|http://magic.wizards.com/en/articles/archive/making-magic/its-not-easy-being-green-revisited-2015-08-10}.",
+								"L'abbondanza della natura. Crescita rigogliosa. Vita vibrante. Il verde sa che le trappole artificiali della civiltà sono temporanee, ma i vasti ecosistemi della natura dureranno sempre, adattandosi ed evolvendosi in un delicato equilibrio. Coloro che vogliono prosperare devono anche evolversi, abbracciando il loro lato selvaggio e lasciando che la natura abbia il sopravvento.",
+								"È possibile trovare il saggio di Mark Rosewater sulla natura e la filosofia del verde {@link here|http://magic.wizards.com/en/articles/archive/making-magic/its-not-easy-being-green-revisited-2015-08-10}.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -2081,12 +2081,12 @@
 										{
 											"type": "item",
 											"name": "Alignment:",
-											"entry": "Neutral (any)"
+											"entry": "Neutro (qualsiasi)"
 										},
 										{
 											"type": "item",
 											"name": "Power Suite:",
-											"entry": "Nature, plants, animals, growth"
+											"entry": "Natura, piante, animali, crescita"
 										},
 										{
 											"type": "item",
@@ -2119,35 +2119,35 @@
 									"rows": [
 										[
 											"1",
-											"I'm sharply attuned to the cycles of nature, and can almost feel the pull of the full moon."
+											"Sono fortemente in sintonia con i cicli della natura e riesco quasi a sentire l'attrazione della luna piena."
 										],
 										[
 											"2",
-											"My instincts never lead me astray."
+											"Il mio istinto non mi porta mai fuori strada."
 										],
 										[
 											"3",
-											"I get along better with animals than I do with most people."
+											"Vado più d'accordo con gli animali che con la maggior parte delle persone."
 										],
 										[
 											"4",
-											"There is more wisdom in a forest pool than in any library."
+											"C’è più saggezza in una piscina nella foresta che in qualsiasi biblioteca."
 										],
 										[
 											"5",
-											"Beasts of the wild have no need for manners, and neither do I."
+											"Le bestie selvatiche non hanno bisogno di buone maniere, e nemmeno io."
 										],
 										[
 											"6",
-											"Nothing raises my ire like seeing people treat life as disposable."
+											"Niente suscita la mia ira come vedere le persone considerare la vita come una cosa usa e getta."
 										],
 										[
 											"7",
-											"I can identify hundreds of bird species by their songs."
+											"Posso identificare centinaia di specie di uccelli dai loro canti."
 										],
 										[
 											"8",
-											"I see omens in every ripple, gust of wind, and flight of birds."
+											"Vedo presagi in ogni increspatura, folata di vento e volo di uccelli."
 										]
 									]
 								},
@@ -2165,27 +2165,27 @@
 									"rows": [
 										[
 											"1",
-											"{@b Acceptance.} Things are as they are for a reason, and it's foolish to try to change them."
+											"{@b Acceptance.} Le cose sono come sono per una ragione ed è sciocco cercare di cambiarle."
 										],
 										[
 											"2",
-											"{@b Nature.} The natural world is more important than the constructs of civilization."
+											"{@b Nature.} Il mondo naturale è più importante dei costrutti della civiltà."
 										],
 										[
 											"3",
-											"{@b Potential.} The secret to happiness is to find one's place in the natural order and embrace it."
+											"{@b Potential.} Il segreto della felicità è trovare il proprio posto nell'ordine naturale e abbracciarlo."
 										],
 										[
 											"4",
-											"{@b Interdependence.} My role is deeply connected to the web of life, and my actions have consequences for everyone around me."
+											"{@b Interdependence.} Il mio ruolo è profondamente connesso alla rete della vita e le mie azioni hanno conseguenze per tutti coloro che mi circondano."
 										],
 										[
 											"5",
-											"{@b Live and Let Live.} Ideals aren't worth killing or going to war for."
+											"{@b Live and Let Live.} Per gli ideali non vale la pena uccidere o andare in guerra."
 										],
 										[
 											"6",
-											"{@b History.} Only through studying the past can we avoid repeating past mistakes."
+											"{@b History.} Solo studiando il passato possiamo evitare di ripetere gli errori del passato."
 										]
 									]
 								},
@@ -2194,9 +2194,9 @@
 									"name": "Color Combinations",
 									"page": 47,
 									"entries": [
-										"Adding white to green steers it toward neutral good and gentler notions of community, embodied in characters such as healing druids, bards, or kindly rangers.",
-										"Adding blue to green solidifies its neutrality, embodied in archetypes such as the sagacious druid or scholar of nature.",
-										"Adding black to green steers it toward neutral evil in the form of sinister druids and stalking rangers. Adding red to green leads to an intense neutral or chaotic neutral, embodied in a totemic barbarian or fierce ranger."
+										"L'aggiunta del bianco al verde lo indirizza verso nozioni neutrali, buone e più gentili di comunità, incarnate in personaggi come druidi curativi, bardi o ranger gentili.",
+										"L'aggiunta del blu al verde consolida la sua neutralità, incarnata in archetipi come il sagace druido o lo studioso della natura.",
+										"L'aggiunta del nero al verde lo indirizza verso il male neutrale sotto forma di sinistri druidi e ranger in agguato. L'aggiunta del rosso al verde porta a un neutrale intenso o caotico, incarnato in un barbaro totemico o in un feroce ranger."
 									],
 									"id": "03d"
 								}
@@ -2217,9 +2217,9 @@
 					"type": "list",
 					"style": "list-hang-notitle",
 					"items": [
-						"Written by James Wyatt",
-						"Cover art by Tyler Jacobson",
-						"Editing by Scott Fitzgerald Gray"
+						"Scritto da James Wyatt",
+						"Copertina di Tyler Jacobson",
+						"Montaggio di Scott Fitzgerald Gray"
 					]
 				}
 			],

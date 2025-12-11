@@ -9,9 +9,9 @@
 			"name": "Angel",
 			"source": "PSZ",
 			"entries": [
-				"The angels of Zendikar are living manifestations of white mana, and they embody its inherent tendencies toward morality and order. Peace and harmony are their goals, though they are more concerned with reestablishing the natural order of the plane than with interfering in disputes between the lowly mortal races. Angels appear similar to female humans possessing two, four, or six feathered wings. Their eyes glow with inner light, and glowing golden rings surround their heads\u2014usually positioned to cover their eyes.",
-				"Zendikar's people consider the angels to be aloof but benevolent. Their resistance to the Eldrazi broods in the ancient past is vaguely remembered in the myths of the humans, kor, and merfolk. Humans in particular venerate angels as divine protectors because of those myths.",
-				"You can represent most angels in Zendikar using the {@creature deva} in the Monster Manual. For unique or more powerful angels, you can use the {@creature planetar} or {@creature solar} instead. Perhaps {@creature Linvala|PSZ} is a {@creature planetar} and {@creature Iona|PSZ} is a {@creature solar}."
+				"Gli angeli di Zendikar sono manifestazioni viventi del mana bianco e ne incarnano le tendenze intrinseche verso la moralità e l'ordine. Pace e armonia sono i loro obiettivi, anche se sono più preoccupati di ristabilire l'ordine naturale del piano che di interferire nelle dispute tra le umili razze mortali. Gli angeli sembrano simili alle donne umane che possiedono due, quattro o sei ali piumate. I loro occhi brillano di luce interiore e luminosi anelli dorati circondano le loro teste, solitamente posizionati per coprire gli occhi.",
+				"La gente di Zendikar considera gli angeli distanti ma benevoli. La loro resistenza alle stirpi Eldrazi nell'antico passato è vagamente ricordata nei miti degli umani, dei kor e dei tritoni. Gli esseri umani in particolare venerano gli angeli come protettori divini a causa di questi miti.",
+				"Puoi rappresentare la maggior parte degli angeli in Zendikar utilizzando {@creature deva} nel Manuale dei Mostri. Per angeli unici o più potenti, puoi invece utilizzare {@creature planetar} o {@creature solar}. Forse {@creature Linvala|PSZ} è un {@creature planetar} e {@creature Iona|PSZ} è un {@creature solar}."
 			],
 			"images": [
 				{
@@ -29,8 +29,8 @@
 			"name": "Archon of Redemption",
 			"source": "PSZ",
 			"entries": [
-				"Like angels, archons are incarnations of white mana. They serve the archangels as embodiments of white mana's harsher aspects: a rigid sense of justice and a ruthless execution of punishment for those who defy the law. The appearance of the archons is deceptive: they look like hooded humans riding winged lions, but they are single creatures with just one mind and will.",
-				"An archon's game statistics are nearly identical to those of a {@creature deva}."
+				"Come gli angeli, gli arconti sono incarnazioni del mana bianco. Servono gli arcangeli come incarnazione degli aspetti più duri del mana bianco: un rigido senso di giustizia e una spietata esecuzione della punizione per coloro che sfidano la legge. L'aspetto degli arconti è ingannevole: sembrano umani incappucciati che cavalcano leoni alati, ma sono creature single con una sola mente e volontà.",
+				"Le statistiche di gioco di un arconte sono quasi identiche a quelle di un {@creature deva}."
 			],
 			"images": [
 				{
@@ -48,7 +48,7 @@
 			"name": "Baloth",
 			"source": "PSZ",
 			"entries": [
-				"Baloths are perhaps the most distinctive of Zendikar's beasts. They are muscular, omnivorous hunters covered in horns, spines, and plates of various shapes. The woodcrasher baloths of the Turntimber forest are surprisingly agile, leaping from tree to tree by using their great claws to clutch each spiraling trunk. The leatherback baloths of Ora Ondar are heavier and keep to the ground, where their thick, plated hide protects them from danger. Baloth herds occasionally stampede across the Onduan plains\u2014and do so more frequently since the rise of the Eldrazi, as if sharing in Zendikar's anger. Use the {@creature triceratops} statistics for baloths, but woodcrasher baloths have a climbing speed of 30 feet in addition to their normal walking speed."
+				"I Baloth sono forse le bestie più caratteristiche di Zendikar. Sono cacciatori muscolosi e onnivori ricoperti di corna, spine e placche di varie forme. I baloth spaccalegna della foresta di Turntimber sono sorprendentemente agili e saltano da un albero all'altro usando i loro grandi artigli per afferrare ogni tronco a spirale. I baloth di Ora Ondar sono più pesanti e restano attaccati al suolo, dove la loro spessa pelle placcata li protegge dai pericoli. Di tanto in tanto le mandrie di Baloth si precipitano attraverso le pianure di Onduan... e lo fanno più frequentemente dopo l'ascesa degli Eldrazi, come se condividessero la rabbia di Zendikar. Usa le statistiche {@creature triceratops} per i baloth, ma i baloth spaccalegna hanno una velocità di arrampicata di 9 metri oltre alla normale velocità di camminata."
 			],
 			"images": [
 				{
@@ -93,8 +93,8 @@
 			"name": "Drake (Large)",
 			"source": "PSZ",
 			"entries": [
-				"Drakes are superficially similar to dragons, with reptilian bodies and large, leathery wings. They have only two legs, though. They are strongly associated with blue mana, the air, and the sea, rather than the dragons' mountains and fire. Many drakes are found in Akoum, but they typically live at higher altitudes and farther north than the dragons there.",
-				"A {@creature pteranodon} can represent a smaller drake, while a larger one is more like a {@creature giant eagle}."
+				"I draghi sono superficialmente simili ai draghi, con corpi da rettile e grandi ali coriacee. Hanno solo due gambe, però. Sono fortemente associati al mana blu, all'aria e al mare, piuttosto che alle montagne e al fuoco dei draghi. Molti draghi si trovano ad Akoum, ma in genere vivono ad altitudini più elevate e più a nord rispetto ai draghi presenti lì.",
+				"Un {@creature pteranodon} può rappresentare un drago più piccolo, mentre uno più grande è più simile a un {@creature giant eagle}."
 			],
 			"images": [
 				{
@@ -157,8 +157,8 @@
 			"name": "Felidar",
 			"source": "PSZ",
 			"entries": [
-				"Standing fully ten feet high at the shoulder, the great cats called felidars are noble, fierce beasts charged with white mana. Felidars consent to be ridden only by knights they consider virtuous. The crystalline horns rising from a hard plate on their foreheads glow with white or golden light when they spring into battle, sometimes brightly enough to blind their foes.",
-				"In game terms, a felidar is similar to a {@creature unicorn|MM}, with changes that reflect its feline nature."
+				"I grandi felini chiamati felidar, alti tre metri al garrese, sono bestie nobili e feroci cariche di mana bianco. I Felidar accettano di essere cavalcati solo da cavalieri che considerano virtuosi. Le corna cristalline che emergono da una dura placca sulla loro fronte brillano di luce bianca o dorata quando si lanciano in battaglia, a volte abbastanza intensa da accecare i nemici.",
+				"In termini di gioco, un felidar è simile a un {@creature unicorn|MM}, con modifiche che riflettono la sua natura felina."
 			],
 			"images": [
 				{
@@ -176,16 +176,16 @@
 			"name": "Gnarlid",
 			"source": "PSZ",
 			"entries": [
-				"Gnarlids are about the size of a large dog and resemble a cross between a bear and a wolverine. They have horns with distinctive shapes that vary by species, and some varieties have similar spikes elsewhere on their bodies. They have an innate ability to grow larger by drawing on green mana in the environment, nearly doubling in size as well as ferocity. In this enlarged state, a gnarlid can be represented with the {@creature brown bear} statistics in the Monster Manual. If some magic reduces its size, cut both its hit point maximum and its attack damage in half."
+				"I gnarlidi hanno le dimensioni di un grosso cane e assomigliano a un incrocio tra un orso e un ghiottone. Hanno corna con forme distintive che variano a seconda della specie, e alcune varietà hanno punte simili in altre parti del corpo. Hanno un'abilità innata di ingrandirsi attingendo al mana verde presente nell'ambiente, quasi raddoppiando le dimensioni e la ferocia. In questo stato ingrandito, uno gnarlid può essere rappresentato con le statistiche {@creature brown bear} nel Manuale dei Mostri. Se qualche magia ne riduce le dimensioni, dimezza sia i suoi punti ferita massimi che il suo attacco fisico."
 			]
 		},
 		{
 			"name": "Gomazoa",
 			"source": "PSZ",
 			"entries": [
-				"Zendikar's seas and skies tend to blur together, and creatures typically found in the sea often find their way to the clouds, gliding through the plane's gravitational currents by consuming the mana infused in the wind. The windrider eels hunted by the kor and the cloud mantas sometimes ridden by Emeria-creed merfolk are two examples. The gomazoas found in Murasa and the Makindi Trenches are another.",
-				"Gomazoas are similar to aquatic jellyfish, but their bodies are encased in stony growths. A gomazoa drifts motionless among floating rocks or hedrons with its long, sticky tentacles dangling below. When they brush against another creature, those tentacles grab and constrict it, or might slam larger prey against a cliff face. Some species can withdraw their tentacles into their bodies, extending them only to grab their prey. Gomazoas almost never release prey once they've caught it.",
-				"A gomazoa might be represented by the {@creature roper} statistics in the {@i Monster Manual}, with a flying speed of 10 feet in place of its walking and climbing speeds."
+				"I mari e i cieli di Zendikar tendono a confondersi e le creature tipicamente marine spesso trovano la strada verso le nuvole, scivolando attraverso le correnti gravitazionali del piano consumando il mana infuso nel vento. Le anguille windrider cacciate dai kor e le mante delle nuvole a volte cavalcate dai tritoni del credo Emeria sono due esempi. Un altro sono i gomazoa trovati a Murasa e nelle fosse di Makindi.",
+				"I gomazoa sono simili alle meduse acquatiche, ma i loro corpi sono racchiusi in escrescenze pietrose. Un gomazoa fluttua immobile tra rocce galleggianti o edri con i suoi lunghi tentacoli appiccicosi che penzolano sotto. Quando sfiorano un'altra creatura, quei tentacoli la afferrano e la costringono, o potrebbero sbattere una preda più grande contro una parete rocciosa. Alcune specie possono ritirare i tentacoli nel corpo, estendendoli solo per afferrare la preda. I Gomazoa non rilasciano quasi mai la preda una volta catturata.",
+				"Un gomazoa potrebbe essere rappresentato dalle statistiche {@creature roper} nel {@i Monster Manual}, con una velocità di volo di 10 piedi al posto delle velocità di camminata e arrampicata."
 			],
 			"images": [
 				{
@@ -203,7 +203,7 @@
 			"name": "Great Cat",
 			"source": "PSZ",
 			"entries": [
-				"At least two varieties of great cat (similar to the {@creature saber-toothed tiger}) sport enormous blades jutting back from the forelegs, which help them cut through heavy undergrowth and take down much larger prey."
+				"Almeno due varietà di grandi felini (simili al {@creature saber-toothed tiger}) sfoggiano enormi lame che sporgono dalle zampe anteriori, che li aiutano a tagliare il fitto sottobosco e ad abbattere prede molto più grandi."
 			],
 			"images": [
 				{
@@ -221,8 +221,8 @@
 			"name": "Griffin (Type 1)",
 			"source": "PSZ",
 			"entries": [
-				"Less intelligent and less magical than {@creature felidar|PSZ|felidars}, griffins share those great cats' noble nature and alignment with the principles of white mana. Larger griffin species are about the size of horses and can be ridden. Indeed, such griffins are often the only reliable means of reaching certain remote locations, particularly in Akoum. Smaller griffins range from the size of donkeys to large dogs, and are trained to carry messages or supplies without a rider.",
-				"Zendikar's griffins are much like D&D's {@creature griffon|MM|griffons} (aside from the spelling) and {@creature hippogriff|MM|hippogriffs}."
+				"Meno intelligenti e meno magici di {@creature felidar|PSZ|felidars}, i grifoni condividono la natura nobile di questi grandi felini e l'allineamento con i principi del mana bianco. Le specie di grifoni più grandi hanno all'incirca le dimensioni di un cavallo e possono essere cavalcate. In effetti, questi grifoni sono spesso l’unico mezzo affidabile per raggiungere certe località remote, in particolare ad Akoum. I grifoni più piccoli variano dalle dimensioni degli asini ai cani di grossa taglia e sono addestrati a trasportare messaggi o rifornimenti senza cavaliere.",
+				"I grifoni di Zendikar sono molto simili a quelli di D&D {@creature griffon|MM|griffons} (a parte l'ortografia) e {@creature hippogriff|MM|hippogriffs}."
 			],
 			"images": [
 				{
@@ -248,16 +248,16 @@
 			"name": "Heartstabber Mosquito",
 			"source": "PSZ",
 			"entries": [
-				"The black mana that brews and festers in Zendikar's swamps infuses a wide variety of natural animals, creating large, deadly vermin\u2014rats, bats, insects, scorpions, and spiders that spread death and decay with their bites, stings, or caustic saliva. The swamps of Guul Draz are home to many such creatures, from the enormous heartstabber mosquitoes (best represented with {@creature stirge} statistics) to giant scorpions large enough to hold a struggling vampire in one claw. The gigantic, ant-like caustic crawlers (similar to {@creature ankheg|MM|ankhegs}) shape burrows from stone with their acidic saliva, creating strangely smooth walls easily mistaken for ancient construction. Gloomhunter bats the size of griffins have reservoirs of vaporous mana in their heads, causing their bite to tear at the spirit as well as the flesh. These and other creatures can be built from the offerings in {@book appendix A of the Monster Manual|MM|1}."
+				"Il mana nero che fermenta e marcisce nelle paludi di Zendikar permea un'ampia varietà di animali naturali, creando parassiti grandi e letali: ratti, pipistrelli, insetti, scorpioni e ragni che diffondono morte e decomposizione con i loro morsi, punture o saliva caustica. Le paludi di Guul Draz ospitano molte di queste creature, dalle enormi zanzare pugnalatrici (meglio rappresentate dalle statistiche {@creature stirge}) agli scorpioni giganti abbastanza grandi da tenere in un artiglio un vampiro in difficoltà. I giganteschi striscianti caustici simili a formiche (simili a {@creature ankheg|MM|ankhegs}) modellano tane nella pietra con la loro saliva acida, creando pareti stranamente lisce facilmente scambiabili per antiche costruzioni. I pipistrelli Gloomhunter grandi quanto grifoni hanno riserve di mana vaporoso nella testa, che fanno sì che il loro morso lacera sia lo spirito che la carne. Queste e altre creature possono essere costruite dalle offerte in {@book appendix A of the Monster Manual|MM|1}."
 			]
 		},
 		{
 			"name": "Hellion",
 			"source": "PSZ",
 			"entries": [
-				"Similar to wurms, hellions are enormous serpentine creatures that dwell in the lava deep beneath the surface of Akoum. When an eruption brings lava to the surface, hellions occasionally emerge as well. Thrust into what seems to them like freezing air, the hellions begin a rampage of devastation resembling an extension of the lava flow.",
-				"A hellion bears a certain resemblance to both a millipede and a crustacean. Small legs tucked close to its body help propel it through its tunnels. Six long, jointed limbs protrude from its head, allowing it to drag prey into its mouth. Its body exudes infernal heat and its movements shake the earth like a tremor.",
-				"The {@creature remorhaz} statistics in the Monster Manual work well for hellions of different sizes."
+				"Simili ai wurm, gli hellion sono enormi creature serpentine che vivono nelle profondità della lava sotto la superficie di Akoum. Quando un'eruzione porta la lava in superficie, occasionalmente emergono anche gli inferni. Spinti in quella che a loro sembra aria gelida, gli infernali iniziano una furia di devastazione che ricorda un'estensione del flusso di lava.",
+				"Un hellion ha una certa somiglianza sia con un millepiedi che con un crostaceo. Le piccole gambe nascoste vicino al corpo lo aiutano a spingerlo attraverso i suoi tunnel. Sei lunghi arti articolati sporgono dalla sua testa, permettendogli di trascinare la preda nella bocca. Il suo corpo emana un calore infernale e i suoi movimenti scuotono la terra come un tremore.",
+				"Le statistiche {@creature remorhaz} nel Manuale dei Mostri funzionano bene per infernali di diverse dimensioni."
 			],
 			"images": [
 				{
@@ -275,9 +275,9 @@
 			"name": "Hurda",
 			"source": "PSZ",
 			"entries": [
-				"Hurdas are huge, semi-humanoid creatures thought to be distantly related to giants. They are primarily employed as heavy labor\u2014hauling stone, shifting earth, and drawing the huge carts of the Goma Fada caravan, for example. They are essentially beasts of burden, no more intelligent than a {@creature baloth|PSZ} or {@creature terastodon|PSZ}\u2014but significantly more pliable. Murasan hurdas are more aggressive than their calmer Onduan kin, serving as protection for the caravans instead of drawing its carts.",
-				"Hurdas are bipedal, but they walk on their hugely developed arms while their tiny, vestigial legs dangle beneath them. Thick tails keep them balanced. Their massive bulk allows them to carry tremendous loads in addition to pulling carts and wagons behind them.",
-				"Use {@creature hill giant} statistics to represent hurdas, replacing the greatclub attack with an unarmed smash attack."
+				"Gli Hurdas sono enormi creature semi-umanoidi che si ritiene siano lontanamente imparentate con i giganti. Sono impiegati principalmente in lavori pesanti: trasportare pietre, spostare la terra e trainare gli enormi carri della carovana di Goma Fada, per esempio. Sono essenzialmente bestie da soma, non più intelligenti di un {@creature baloth|PSZ} o {@creature terastodon|PSZ}, ma significativamente più flessibili. Gli hurda Murasan sono più aggressivi dei loro parenti più tranquilli Onduan e servono come protezione per le carovane invece di trainarne i carri.",
+				"Gli Hurda sono bipedi, ma camminano sulle braccia estremamente sviluppate mentre le loro minuscole gambe rudimentali penzolano sotto di loro. Le code spesse li mantengono equilibrati. La loro mole massiccia consente loro di trasportare carichi enormi oltre a trainare carri e carri dietro di loro.",
+				"Usa le statistiche {@creature hill giant} per rappresentare gli hurda, sostituendo l'attacco con la grande mazza con un attacco sfondato disarmato."
 			],
 			"images": [
 				{
@@ -311,9 +311,9 @@
 			"name": "Kraken",
 			"source": "PSZ",
 			"entries": [
-				"Lurking in the deepest reaches of Zendikar's seas, krakens are mysterious monsters of unpredictable wrath and terrible destruction. Though they take the form of rampaging brutes when they appear on the surface, the truth of their existence is more complex. Krakens embody force of will and the drive for self-determination shared by all thinking beings. When their will is turned to destruction, they are capable of wreaking terrible havoc upon ships at sea or coastal settlements. But they live most of their adult lives in utter isolation in the deeps, focused on their own probing of the seas' mysteries.",
-				"A kraken has a roughly humanoid shape, with two strong arms and a broad chest. Its head is encased in a rough shell that sprouts two large horns, and one of its hands is a bony claw. It has dozens of tentacles\u2014a writhing mass below its toothy mouth, another mass at the end of one arm, and several long tentacles in place of legs. On its back is a huge conch-like shell.",
-				"Though the Monster Manual has its own version of the kraken, Zendikar's krakens are actually more similar to storm giants."
+				"In agguato negli angoli più profondi dei mari di Zendikar, i kraken sono mostri misteriosi dall'ira imprevedibile e dalla terribile distruzione. Sebbene assumano la forma di bruti furiosi quando appaiono in superficie, la verità sulla loro esistenza è più complessa. I Kraken incarnano la forza di volontà e la spinta all'autodeterminazione condivisa da tutti gli esseri pensanti. Quando la loro volontà è rivolta alla distruzione, sono capaci di provocare un terribile caos sulle navi in ​​mare o sugli insediamenti costieri. Ma vivono la maggior parte della loro vita adulta in totale isolamento negli abissi, concentrati sullo studio dei misteri dei mari.",
+				"Un kraken ha una forma approssimativamente umanoide, con due braccia forti e un ampio petto. La sua testa è racchiusa in un guscio ruvido da cui spuntano due grandi corna, e una delle sue mani è un artiglio osseo. Ha dozzine di tentacoli: una massa che si contorce sotto la bocca dentata, un'altra massa all'estremità di un braccio e diversi lunghi tentacoli al posto delle gambe. Sul dorso c'è un'enorme conchiglia simile a una conchiglia.",
+				"Sebbene il Manuale dei Mostri contenga una propria versione del kraken, i kraken di Zendikar sono in realtà più simili ai giganti delle tempeste."
 			],
 			"images": [
 				{
@@ -339,8 +339,8 @@
 			"name": "Ogre Channeler",
 			"source": "PSZ",
 			"entries": [
-				"The ogres of Zendikar are towering brutes driven by cruelty, greed, and savage ferocity. They favor the jagged mountains of Akoum but can be found on every continent. Their size and strength help protect them from the dangers of Zendikar, so they have little need of walls or roofs\u2014which is good, since they have little skill at building. Ogre society, such as it is, revolves around leaders who gather small gangs (usually six to ten other ogres) to join them in pillaging, extorting, or slaving. The Monster Manual's {@creature ogre} statistics work fine for Zendikar ogres.",
-				"Despite their low intelligence, some more clever ogres\u2014perhaps represented as {@creature oni}\u2014master the use of certain kinds of magic. The use of red mana complements an ogre's fierce and angry tendencies, and some ogres can produce fiery spells and manipulate the volcanic forces of Akoum. Other ogres channel black mana to immerse themselves in necromancy and diabolism, accentuating their amoral nature and their willingness to enslave others for their own benefit."
+				"Gli Ogre di Zendikar sono imponenti bruti guidati da crudeltà, avidità e ferocia selvaggia. Prediligono le montagne frastagliate di Akoum ma possono essere trovati in ogni continente. Le loro dimensioni e la loro forza li aiutano a proteggersi dai pericoli di Zendikar, quindi non hanno bisogno di muri o tetti, il che è positivo, dato che hanno poca abilità nella costruzione. La società degli orchi, così com'è, ruota attorno a leader che riuniscono piccole bande (di solito da sei a dieci altri orchi) per unirsi a loro nel saccheggio, nell'estorsione o nella schiavitù. Le statistiche del Manuale dei Mostri {@creature ogre} funzionano bene per gli Ogre di Zendikar.",
+				"Nonostante la loro scarsa intelligenza, alcuni orchi più intelligenti, forse rappresentati come {@creature oni}, padroneggiano l'uso di certi tipi di magia. L'uso del mana rosso completa le tendenze feroci e rabbiose di un orco, e alcuni orchi possono produrre incantesimi infuocati e manipolare le forze vulcaniche di Akoum. Altri orchi canalizzano il mana nero per immergersi nella negromanzia e nel diabolismo, accentuando la loro natura amorale e la loro volontà di schiavizzare gli altri per il proprio vantaggio."
 			],
 			"images": [
 				{
@@ -358,16 +358,16 @@
 			"name": "Oxen",
 			"source": "PSZ",
 			"entries": [
-				"The oxen (use the {@creature giant goat} statistics) of Murasa's Pillar Plains are renowned for their stubbornness, but are still used as pack animals thanks to their tremendous strength."
+				"I buoi (usa le statistiche {@creature giant goat}) delle Pianure dei Pilastri di Murasa sono rinomati per la loro testardaggine, ma sono ancora usati come animali da soma grazie alla loro straordinaria forza."
 			]
 		},
 		{
 			"name": "Pestilence Demon",
 			"source": "PSZ",
 			"entries": [
-				"The dark reflections of angels, demons are the incarnation of black mana and all it represents\u2014selfish desire and lust for power. Their forms are roughly humanoid, but distorted and bestial. Their grotesque heads feature elongated ears, spiky protrusions, and large horns. (The size and number of a demon's horns are an indication of its age and power.) Spikes protrude from their backs and arms, and their hands are warped into large, sharp claws. Most demons have large, leathery wings, and a few have long tails. Their skin has an inhuman texture\u2014dry and leathery for some; stony and cold for others. Their eyes are small points of red or blue light that glow as if revealing an inner inferno.",
-				"Unlike angels, demons reject any form of society or alliance. They are utterly selfish and hoard power in many different forms, including wealth, magic, territory, and slaves. Drawn to places where black mana flows freely, they often dwell in ancient crypts or in ruins deep in swampy terrain. Their presence defiles any remaining scrap of purity or goodness in an area, and often extends the bounds of a swamp or stirs up the restless spirits of the dead.",
-				"Any {@filter demon, devil, or yugoloth in the Monster Manual|bestiary|source=mm=|tag=demon;devil;yugoloth|miscellaneous=} can stand in for a demon of Zendikar. The vile green mist surrounding a pestilence demon suggests it might have poison like a {@creature vrock}, for example."
+				"I riflessi oscuri degli angeli e dei demoni sono l'incarnazione del mana nero e di tutto ciò che rappresenta: desiderio egoistico e brama di potere. Le loro forme sono approssimativamente umanoidi, ma distorte e bestiali. Le loro teste grottesche presentano orecchie allungate, sporgenze appuntite e grandi corna. (La dimensione e il numero delle corna di un demone sono un'indicazione della sua età e potenza.) Gli aculei sporgono dalla schiena e dalle braccia, e le loro mani sono deformate in grandi artigli affilati. La maggior parte dei demoni hanno ali grandi e coriacee e alcuni hanno lunghe code. La loro pelle ha una consistenza disumana: secca e coriacea per alcuni; pietroso e freddo per gli altri. I loro occhi sono piccoli punti di luce rossa o blu che brillano come se rivelassero un inferno interiore.",
+				"A differenza degli angeli, i demoni rifiutano qualsiasi forma di società o alleanza. Sono completamente egoisti e accumulano potere in molte forme diverse, tra cui ricchezza, magia, territorio e schiavi. Attratti dai luoghi dove il mana nero scorre liberamente, spesso vivono in antiche cripte o in rovine profonde in terreni paludosi. La loro presenza contamina ogni residuo di purezza o bontà in un'area e spesso estende i confini di una palude o risveglia gli spiriti irrequieti dei morti.",
+				"Qualsiasi {@filter demon, devil, or yugoloth in the Monster Manual|bestiary|source=mm=|tag=demon;devil;yugoloth|miscellaneous=} può sostituire un demone di Zendikar. La vile nebbia verde che circonda un demone della pestilenza suggerisce che potrebbe avere un veleno come un {@creature vrock}, per esempio."
 			],
 			"images": [
 				{
@@ -401,16 +401,16 @@
 			"name": "Shoal Serpent",
 			"source": "PSZ",
 			"entries": [
-				"The oceans, bays, and swamps of Zendikar are home to a variety of aquatic creatures that are at least as deadly as those on land, including monstrosities that can face the largest Eldrazi on almost equal footing. Given the dangers of Zendikar, even mundane animals such as octopuses, frogs, turtles, crabs, and crocodiles can grow to tremendous size (using the appropriate statistics from appendix A of the Monster Manual). The crabs of Ondu, the crocodiles of Guul Draz, the tortoises of Tazeem, and the octopuses of the deep sea (of which Lorthos the Tidemaker is but one giant specimen) are examples of these aquatic monstrosities. Enormous shoal serpents\u2014sometimes compared to \"a reef that runs aground on ships\"\u2014are a persistent danger to vessels along the Onduan coast. The {@creature plesiosaurus} in the Monster Manual can represent these serpents."
+				"Gli oceani, le baie e le paludi di Zendikar ospitano una varietà di creature acquatiche che sono letali almeno quanto quelle terrestri, comprese mostruosità che possono affrontare i più grandi Eldrazi su un piano quasi di parità. Considerati i pericoli di Zendikar, anche gli animali comuni come polpi, rane, tartarughe, granchi e coccodrilli possono raggiungere dimensioni enormi (utilizzando le statistiche appropriate dell'appendice A del Manuale dei Mostri). I granchi di Ondu, i coccodrilli di Guul Draz, le tartarughe di Tazeem e i polpi delle profondità marine (di cui Lorthos il Creatore delle maree non è che un esemplare gigante) sono esempi di queste mostruosità acquatiche. Enormi serpenti dei banchi, a volte paragonati a \"una barriera corallina che si incaglia sulle navi\", rappresentano un pericolo persistente per le navi lungo la costa dell'Onduan. Il {@creature plesiosaurus} nel Manuale dei Mostri può rappresentare questi serpenti."
 			]
 		},
 		{
 			"name": "Sphinx (Type 1)",
 			"source": "PSZ",
 			"entries": [
-				"Utterly inscrutable, sphinxes are mysterious creatures known for their wisdom and knowledge. Closely aligned with blue mana, they are utterly devoted to gaining and possessing knowledge\u2014but not to sharing or acting upon it. Sphinxes are content to search out the mysteries of Zendikar, then sit in quiet contemplation of what they have learned. To them, everything is an intellectual exercise, including conversation. They are famously oblique, answering questions with questions and posing riddles to test the acuity of others.",
-				"Sphinxes choose remote locations for their lairs, preferring sites of great natural beauty such as waterfalls, high promontories, and small islands. They jealously protect their lairs from other sphinxes and large predators, such as dragons, but they pay little attention to smaller visitors. A sphinx's lair is often difficult to reach, and typically involves treacherous climbing for creatures without the ability to fly. A visitor who can reach the spot is often rewarded with an audience\u2014but those who come in search of answers are likely to leave disappointed.",
-				"Either sphinx in the Monster Manual can represent the various sphinxes of Zendikar."
+				"Assolutamente imperscrutabili, le sfingi sono creature misteriose note per la loro saggezza e conoscenza. Strettamente allineati con il mana blu, sono totalmente dediti ad acquisire e possedere conoscenza, ma non a condividerla o ad agire in base ad essa. Le sfingi si accontentano di scoprire i misteri di Zendikar, per poi sedersi in tranquilla contemplazione di ciò che hanno imparato. Per loro tutto è un esercizio intellettuale, compresa la conversazione. Sono notoriamente obliqui, rispondono a domande con domande e pongono enigmi per mettere alla prova l'acutezza degli altri.",
+				"Le sfingi scelgono luoghi remoti per le loro tane, preferendo siti di grande bellezza naturale come cascate, alti promontori e piccole isole. Proteggono gelosamente le loro tane dalle altre sfingi e dai grandi predatori, come i draghi, ma prestano poca attenzione ai visitatori più piccoli. La tana di una sfinge è spesso difficile da raggiungere e in genere comporta un'insidiosa arrampicata per le creature prive della capacità di volare. Un visitatore che riesce a raggiungere il posto viene spesso ricompensato con un pubblico, ma coloro che vengono in cerca di risposte probabilmente se ne andranno delusi.",
+				"Entrambe le sfinge nel Manuale dei Mostri possono rappresentare le varie sfingi di Zendikar."
 			],
 			"images": [
 				{
@@ -436,8 +436,8 @@
 			"name": "Spirit",
 			"source": "PSZ",
 			"entries": [
-				"Magic fueled by black mana can alter the natural cycle of life and death. Whether wielded by mortal wizards or demons, or simply an environmental manifestation of black mana's flow through the land, such magic can trap spirits between the realm of the living and the mysterious fate of the dead. These ghostly undead are as destructive and hateful as the magic that calls them into being. Zendikar's shades and wraiths can be represented by the {@creature shadow||shadows} and {@creature wraith||wraiths} in the Monster Manual.",
-				"Not all spirits are created with black mana, however, and not all are malevolent. The spirits of the dead sometimes linger in the world to protect their kin or communities, or to stand guard over sacred or important sites. These spirits can be dangerous, but they are not usually malicious. Both the kor and the Mul Daya elves remain in communion with the spirits of their dead kindred, entreating them for wisdom and protection. Such spirits are best described as the {@creature ghost||ghosts} in the Monster Manual."
+				"La magia alimentata dal mana nero può alterare il ciclo naturale della vita e della morte. Che sia brandita da maghi o demoni mortali, o semplicemente da una manifestazione ambientale del flusso di mana nero attraverso la terra, tale magia può intrappolare gli spiriti tra il regno dei vivi e il misterioso destino dei morti. Questi non morti spettrali sono distruttivi e odiosi quanto la magia che li chiama in vita. Le ombre e gli spettri di Zendikar possono essere rappresentati da {@creature shadow||shadows} e {@creature wraith||wraiths} nel Manuale dei Mostri.",
+				"Tuttavia, non tutti gli spiriti sono creati con mana nero e non tutti sono malevoli. Gli spiriti dei morti a volte indugiano nel mondo per proteggere i loro parenti o comunità, o per fare la guardia a luoghi sacri o importanti. Questi spiriti possono essere pericolosi, ma di solito non sono maligni. Sia gli elfi kor che quelli Mul Daya rimangono in comunione con gli spiriti dei loro parenti morti, implorando loro saggezza e protezione. Tali spiriti sono meglio descritti come {@creature ghost||ghosts} nel Manuale dei Mostri."
 			],
 			"images": [
 				{
@@ -455,8 +455,8 @@
 			"name": "Surrakar",
 			"source": "PSZ",
 			"entries": [
-				"The surrakar are a race of hulking amphibian humanoids native to Bala Ged. They have broad shoulders and long arms that drag on the ground when they walk. Their splayed feet and hands are webbed, and long tusks protrude from their large mouths. They have little culture and no written language, and some members of other races believe they are merely animals with no true language at all.",
-				"Surrakar are similar to D&D's {@creature lizardfolk|MM}."
+				"I surrakar sono una razza di enormi umanoidi anfibi originari di Bala Ged. Hanno spalle larghe e braccia lunghe che strisciano a terra quando camminano. I loro piedi e le loro mani sono palmati e lunghe zanne sporgono dalle loro grandi bocche. Hanno poca cultura e non hanno una lingua scritta, e alcuni membri di altre razze credono che siano semplicemente animali senza alcuna vera lingua.",
+				"I Surrakar sono simili a quelli di D&D {@creature lizardfolk|MM}."
 			],
 			"images": [
 				{
@@ -474,7 +474,7 @@
 			"name": "Terastodon",
 			"source": "PSZ",
 			"entries": [
-				"A terastodon is an enormous elephant (use the {@creature mammoth} statistics) with four tusks and armored hide. A bony plate on its head, sharply pointed on the edges, extends back to protect its neck."
+				"Un terastodonte è un enorme elefante (usa le statistiche {@creature mammoth}) con quattro zanne e pelle corazzata. Una placca ossea sulla testa, appuntita ai bordi, si estende all'indietro per proteggergli il collo."
 			],
 			"images": [
 				{
@@ -492,14 +492,14 @@
 			"name": "Terra Stomper",
 			"source": "PSZ",
 			"entries": [
-				"Terra stompers are six-legged behemoths that can grow as large as the trees in the Vastwood of Tazeem. (Use the {@creature tyrannosaurus rex} statistics for these fierce beasts.)"
+				"I Terra Stompers sono colossi a sei zampe che possono diventare grandi quanto gli alberi nel Bosco Vasto di Tazeem. (Usa le statistiche {@creature tyrannosaurus rex} per queste bestie feroci.)"
 			]
 		},
 		{
 			"name": "Timbermaw",
 			"source": "PSZ",
 			"entries": [
-				"Timbermaws dwell in the hollow trunks of strange floating trees, emerging with deadly speed when prey wanders near. (The {@creature grick} statistics can represent a timbermaw, adjusting its stone camouflage trait to hide it in the woodlands.)"
+				"I Timbermaws vivono nei tronchi cavi di strani alberi galleggianti, emergendo con velocità mortale quando la preda si avvicina. (Le statistiche {@creature grick} possono rappresentare una fauce, che modifica la sua caratteristica mimetica della pietra per nasconderla nei boschi.)"
 			]
 		},
 		{
@@ -514,9 +514,9 @@
 			"name": "Turntimber Giant",
 			"source": "PSZ",
 			"entries": [
-				"Zendikar's giants are enormous humanoids that live in tight-knit tribes as far as possible from the settlements of other races. Compared to ogres and minotaurs, they are civilized and intelligent, though they are wilder than the smaller humanoid races.",
-				"Three major groupings of giants inhabit three of Zendikar's continents. In the mountains of Akoum, the giants of the Boulderfoot tribe have a well-earned reputation for trampling their enemies underfoot (hence their name). In the Skyfang Mountains of Murasa, the giants of the Shatterskull tribe are rough brigands who often extort \"tolls\" from travelers trying to navigate the treacherous pass that shares the tribe's name. The Boulderfoot and Shatterskull giants are {@creature stone giant|MM|stone giants} in D&D terms.",
-				"In Ondu, the giants of the Turntimber tribe live in the forest of the same name. They hunt baloths and other large game, living in close harmony with the woodland. Their druids are the only giants of Zendikar that are inclined toward magic. Some legends hold that the Turntimber giants are unrelated to the other giant tribes, but were originally druids who became giants only after years of living among the twisted trees. Elsewhere on Ondu, in the Makindi Trenches, a handful of deformed giants called trench giants scale the canyon walls looking for prey. They are solitary and do not think of themselves as members of a tribe. In fact, they are outcasts of the Turntimber tribe, banished because the mana of the forest warped their bodies and their hearts. The giants of the Turntimber tribe are similar to {@creature cloud giant|MM|cloud giants}, and the trench giants can be considered {@creature fomorian|MM|fomorians}."
+				"I giganti di Zendikar sono enormi umanoidi che vivono in tribù affiatate il più lontano possibile dagli insediamenti di altre razze. Rispetto agli orchi e ai minotauri, sono civili e intelligenti, sebbene siano più selvaggi delle razze umanoidi più piccole.",
+				"Tre principali gruppi di giganti popolano tre continenti di Zendikar. Nelle montagne di Akoum, i giganti della tribù Boulderfoot hanno la meritata reputazione di calpestare i loro nemici (da qui il loro nome). Nelle montagne Skyfang di Murasa, i giganti della tribù Shatterskull sono rozzi briganti che spesso estorcono \"pedaggi\" ai viaggiatori che cercano di attraversare l'insidioso passo che condivide il nome della tribù. I giganti Boulderfoot e Shatterskull sono {@creature stone giant|MM|stone giants} in termini di D&D.",
+				"A Ondu, i giganti della tribù Turntimber vivono nella foresta omonima. Cacciano baloth e altra selvaggina di grandi dimensioni, vivendo in stretta armonia con il bosco. I loro druidi sono gli unici giganti di Zendikar ad essere inclini alla magia. Alcune leggende sostengono che i giganti di Legnotorto non siano imparentati con le altre tribù di giganti, ma fossero originariamente druidi che diventarono giganti solo dopo anni vissuti tra gli alberi contorti. Altrove su Ondu, nelle fosse di Makindi, un pugno di giganti deformi chiamati giganti delle trincee scalano le pareti del canyon in cerca di prede. Sono solitari e non si considerano membri di una tribù. Sono infatti emarginati della tribù Turntimber, banditi perché il mana della foresta ha deformato i loro corpi e i loro cuori. I giganti della tribù Turntimber sono simili a {@creature cloud giant|MM|cloud giants} e i giganti delle trincee possono essere considerati {@creature fomorian|MM|fomorians}."
 			],
 			"images": [
 				{
@@ -556,7 +556,7 @@
 			"name": "Vampire Null",
 			"source": "PSZ",
 			"entries": [
-				"The various forms of undead ghosts are the incorporeal remnants of life and personality left after the death of a mortal body. But sometimes the reverse is true: a body retains its animation and hunger while losing any trace of its soul, becoming a zombie. When a vampire who is not a bloodchief drains the blood from a living humanoid, that creature undergoes a horrible transformation, becoming a stronger, faster version of a {@creature zombie} called a null. Nulls' heads are featureless except for a gaping mouth filled with jagged teeth. Their bodies are shriveled and distorted, but preternaturally strong. They are mindlessly loyal servants to the vampire nobility, and the number of nulls under a vampire's control is a mark of status and power among the vampire houses of Guul Draz."
+				"Le varie forme di fantasmi non morti sono i resti incorporei della vita e della personalità lasciati dopo la morte di un corpo mortale. Ma a volte è vero il contrario: un corpo conserva la sua animazione e la sua fame mentre perde ogni traccia della sua anima, diventando uno zombie. Quando un vampiro che non è un caposangue succhia il sangue da un umanoide vivente, quella creatura subisce un'orribile trasformazione, diventando una versione più forte e più veloce di un {@creature zombie} chiamato Null. Le teste dei Null sono anonime tranne che per una bocca spalancata piena di denti seghettati. I loro corpi sono avvizziti e distorti, ma straordinariamente forti. Sono servi irragionevolmente leali alla nobiltà dei vampiri, e il numero di nulli sotto il controllo di un vampiro è un segno di status e potere tra le casate dei vampiri di Guul Draz."
 			]
 		},
 		{
@@ -579,19 +579,19 @@
 			"name": "Wurm",
 			"source": "PSZ",
 			"entries": [
-				"The wurms of Zendikar are gigantic creatures with features akin to both snakes and insects. A wurm's serpentine body is covered in heavy bands of scales, giving it a segmented appearance. Its misshapen head is crowned with at least eight eyes, and is dominated by a ring of four or five enormous, hook-like fangs surrounding the mouth. The creature's jaws extend like a tube out from its mouth when it is ready to feed, accompanied by a horrendous carrion stench and a nauseating squelching sound.",
-				"The {@creature purple worm} in the Monster Manual is a fine representation of Zendikar's wurms."
+				"I wurm di Zendikar sono creature gigantesche con caratteristiche simili sia ai serpenti che agli insetti. Il corpo serpentino di un wurm è ricoperto da pesanti fasce di scaglie, che gli conferiscono un aspetto segmentato. La sua testa deforme è coronata da almeno otto occhi ed è dominata da un anello di quattro o cinque enormi zanne uncinate che circondano la bocca. Le mascelle della creatura si estendono come un tubo fuori dalla bocca quando è pronta per nutrirsi, accompagnata da un orrendo fetore di carogna e da un nauseante suono stridulo.",
+				"Il {@creature purple worm} nel Manuale dei Mostri è un'ottima rappresentazione dei wurm di Zendikar."
 			]
 		},
 		{
 			"name": "Zendikar Dragon",
 			"source": "PSZ",
 			"entries": [
-				"Dragons are the ultimate representation of the chaos, ferocity, and reckless independence of red mana. They are found across Zendikar in mountainous regions where red mana is plentiful, particularly in Akoum, though never in great numbers.",
-				"A dragon is an enormous reptilian monster with thick, tough scales and leathery wings. Sharp spines or thick plates run down its back, and most dragons have large horns. A dragon's body has a vaguely feline shape, with a long neck supporting a large head, and a long, thick tail lashing behind it. Its four legs end in sharp claws that are deadly weapons, and its mouth is full of sharp teeth. Even a young dragon is larger than a powerful warhorse, and the largest are on par with some of the larger Eldrazi (though not as mighty as the towering Eldrazi titans).",
-				"The dragons of Zendikar are not particularly intelligent, especially in comparison to the genius dragon Planeswalker Nicol Bolas. They are more aware than the average beast and perhaps slightly smarter than an ogre, but dragons are still driven primarily by their instincts\u2014to hunt for prey and to guard their territories against any intruders. They are hot-tempered and ferocious, typically rending or incinerating anything they perceive as an enemy before even thinking to ask questions.",
-				"A dragon's most fearsome aspect is its ability to exhale a blast of fire from its mouth. As it draws breath, a red glow like that of molten metal forms around its mouth, and is sometimes visible in its neck and chest as well. The fire then erupts in a long stream or a broad cone, shaped by the dragon as it chooses. A dragon might strafe the ground with fire as it flies overhead, covering as much ground\u2014and incinerating as many foes\u2014as possible. A grounded dragon turns its head back and forth as it breathes, blanketing its foes in flame or creating a barrier of burning earth to cover its retreat.",
-				"The {@creature young red dragon} in the Monster Manual can represent the dragons of Zendikar, but its Intelligence score is only 8 (\u22121). This change has no effect on its other statistics."
+				"I draghi sono la rappresentazione definitiva del caos, della ferocia e della spericolata indipendenza del mana rosso. Si trovano su Zendikar, nelle regioni montuose dove il mana rosso è abbondante, in particolare ad Akoum, anche se mai in gran numero.",
+				"Un drago è un enorme mostro rettile con scaglie spesse e resistenti e ali coriacee. Spine aguzze o spesse placche scendono lungo il suo dorso e la maggior parte dei draghi ha grandi corna. Il corpo di un drago ha una forma vagamente felina, con un lungo collo che sostiene una grande testa e una coda lunga e spessa che sventola dietro di essa. Le sue quattro zampe terminano con artigli affilati che sono armi mortali e la sua bocca è piena di denti aguzzi. Anche un giovane drago è più grande di un potente cavallo da guerra, e i più grandi sono alla pari con alcuni degli Eldrazi più grandi (sebbene non siano potenti quanto gli imponenti titani Eldrazi).",
+				"I draghi di Zendikar non sono particolarmente intelligenti, soprattutto se paragonati al geniale drago Planeswalker Nicol Bolas. Sono più consapevoli della bestia media e forse leggermente più intelligenti di un orco, ma i draghi sono comunque guidati principalmente dal loro istinto: andare a caccia di prede e proteggere i loro territori da eventuali intrusi. Sono irascibili e feroci, in genere fanno a pezzi o inceneriscono qualsiasi cosa percepiscano come un nemico prima ancora di pensare di fare domande.",
+				"L'aspetto più temibile di un drago è la sua capacità di esalare un'esplosione di fuoco dalla bocca. Mentre respira, un bagliore rosso simile a quello del metallo fuso si forma intorno alla sua bocca, ed è talvolta visibile anche sul collo e sul petto. Il fuoco poi erutta in un lungo ruscello o in un ampio cono, modellato dal drago a sua scelta. Un drago potrebbe colpire il terreno con il fuoco mentre vola in alto, coprendo quanto più terreno possibile e incenerendo quanti più nemici. Un drago a terra gira la testa avanti e indietro mentre respira, ricoprendo i suoi nemici di fiamme o creando una barriera di terra ardente per coprire la sua ritirata.",
+				"Il {@creature young red dragon} nel Manuale dei Mostri può rappresentare i draghi di Zendikar, ma il suo punteggio di Intelligenza è solo 8 (-1). Questa modifica non ha alcun effetto sulle altre statistiche."
 			],
 			"images": [
 				{
@@ -609,9 +609,9 @@
 			"name": "Zendikar Golem",
 			"source": "PSZ",
 			"entries": [
-				"With the power of magic at their disposal, mages of the ancient past and of Zendikar's present have been able to create objects bearing the semblance of life, capable of carrying out orders and even acting independently.",
-				"In a number of ancient sites associated with the Eldrazi, stone creatures have been found standing eternal guard. Created from fragments of hedrons or carved to resemble them, these constructs were intended to help the people of Zendikar eliminate the brood lineages after the titans were imprisoned, and were implanted with a fragment of the power that bound and imprisoned the Eldrazi. They have served as useful allies in battling the Eldrazi broods, and some mages have had limited success in prying the secrets of their magic from their artificial minds. Other hedron constructs are of more recent make, fashioned in imitation of the originals. These have no power over the Eldrazi beyond what their physical strength gives them, and their creators used them for menial tasks. They are most often found in the ancient ruins of the kor or in merfolk cities. The various {@b modrons} can be used to represent these dedicated constructs.",
-				"The golems of Zendikar are effectively artificial elementals, and can be represented by {@creature stone golem|MM|stone golems}. Mages fashion bodies from special stone and infuse them with the power of movement and limited understanding. Golems are rare and powerful, especially when shaped from stone that already possesses magical power."
+				"Con il potere della magia a loro disposizione, i maghi dell'antico passato e del presente di Zendikar sono stati in grado di creare oggetti con sembianze di vita, capaci di eseguire ordini e persino di agire in modo indipendente.",
+				"In numerosi siti antichi associati agli Eldrazi, sono state trovate creature di pietra a guardia eterna. Creati da frammenti di edri o scolpiti per assomigliare ad essi, questi costrutti avevano lo scopo di aiutare la gente di Zendikar a eliminare i lignaggi della stirpe dopo che i titani furono imprigionati, e furono impiantati con un frammento del potere che legava e imprigionava gli Eldrazi. Sono stati utili alleati nella battaglia contro le stirpi Eldrazi, e alcuni maghi hanno avuto un successo limitato nello carpire i segreti della loro magia dalle loro menti artificiali. Altri costrutti di edri sono di fabbricazione più recente, modellati a imitazione degli originali. Questi non hanno potere sugli Eldrazi oltre a quello concesso loro dalla forza fisica, e i loro creatori li hanno usati per compiti umili. Si trovano più spesso nelle antiche rovine dei kor o nelle città dei tritoni. I vari {@b modrons} possono essere utilizzati per rappresentare questi costrutti dedicati.",
+				"I golem di Zendikar sono effettivamente elementali artificiali e possono essere rappresentati da {@creature stone golem|MM|stone golems}. I maghi modellano corpi con pietre speciali e infondono loro il potere del movimento e la comprensione limitata. I golem sono rari e potenti, soprattutto se modellati da pietre che possiedono già poteri magici."
 			],
 			"images": [
 				{

@@ -19,9 +19,9 @@
 					"name": "Dragons in Dungeons",
 					"id": "001",
 					"entries": [
-						"Nothing is more quintessentially Dungeons & Dragons than gathering a group of heroes to face a mighty dragon in a mysterious dungeon. These classic elements link players across time and space, from the first adventurers who forayed into the gloom more than 50 years ago to players beginning their first adventure now.",
-						"{@i Dragon Delves} is a celebration of this shared tradition. Each of the ten adventures in this book features a dragon in a lair. Designed for characters of levels 1 through 12, the adventures offer a range of challenges, from defeating evil dragons to working with good dragons, as well as navigating more complicated moral dilemmas. The dungeons where the dragons make their lairs range from cavern complexes to ruined cities and more.",
-						"Where there are dragons in dungeons, there's always adventure!"
+						"Non c'è niente di più tipico di Dungeons & Dragons che riunire un gruppo di eroi per affrontare un potente drago in un misterioso dungeon. Questi elementi classici collegano i giocatori attraverso il tempo e lo spazio, dai primi avventurieri che fecero incursioni nell'oscurità più di 50 anni fa ai giocatori che iniziano ora la loro prima avventura.",
+						"{@i Dragon Delves} è una celebrazione di questa tradizione condivisa. Ognuna delle dieci avventure di questo libro presenta un drago in una tana. Progettate per personaggi di livello da 1 a 12, le avventure offrono una serie di sfide, dallo sconfiggere i draghi malvagi alla collaborazione con i draghi buoni, oltre ad affrontare dilemmi morali più complicati. I sotterranei in cui i draghi costruiscono le loro tane vanno da complessi di caverne a città in rovina e altro ancora.",
+						"Dove ci sono draghi nei sotterranei, c'è sempre avventura!"
 					]
 				},
 				{
@@ -29,14 +29,14 @@
 					"name": "Using This Book",
 					"id": "002",
 					"entries": [
-						"The adventures in an anthology such as {@i Dragon Delves} are versatile resources that can fill a variety of needs at your gaming table: as one-shot adventures, as \"filler episodes\" in an ongoing campaign, or as a series that forms a campaign, bringing characters from level 1 to a climactic conclusion at level 12.",
-						"These adventures are designed to require minimal preparation (see {@area Running the Adventures|009|x} later in this introduction).",
+						"Le avventure in un'antologia come {@i Dragon Delves} sono risorse versatili che possono soddisfare una varietà di esigenze sul tuo tavolo da gioco: come avventure one-shot, come \"episodi di riempimento\" in una campagna in corso o come serie che forma una campagna, portando i personaggi dal livello 1 a una conclusione culminante al livello 12.",
+						"Queste avventure sono progettate per richiedere una preparazione minima (vedi {@area Running the Adventures|009|x} più avanti in questa introduzione).",
 						{
 							"type": "entries",
 							"name": "One-Shot Adventure",
 							"id": "003",
 							"entries": [
-								"Maybe you're normally a player in an ongoing campaign, but you want to try your hand at being the Dungeon Master. Maybe you're trying to pull a new group together, and you want to see how all the players get along before you start a whole campaign. Maybe your regular DM is sick or has a scheduling conflict, but everyone else is ready to play. Or maybe your group needs a break or a diversion from the ongoing campaign. In any of these cases, you can pick an adventure from this book and run it."
+								"Forse normalmente sei un giocatore in una campagna in corso, ma vuoi provare a diventare il Dungeon Master. Forse stai cercando di mettere insieme un nuovo gruppo e vuoi vedere come vanno d'accordo tutti i giocatori prima di iniziare un'intera campagna. Forse il tuo DM abituale è malato o ha un conflitto di programmazione, ma tutti gli altri sono pronti a giocare. O forse il tuo gruppo ha bisogno di una pausa o di un diversivo dalla campagna in corso. In ognuno di questi casi, puoi scegliere un'avventura da questo libro ed eseguirla."
 							]
 						},
 						{
@@ -44,7 +44,7 @@
 							"name": "In an Ongoing Campaign",
 							"id": "004",
 							"entries": [
-								"Maybe your players' characters know what they have to do to foil the evil boss's plans, but they're not quite high enough level to accomplish their goal. Or they've just hit a significant milestone in the campaign, and you want to give them a change of pace before they get immersed in the next act of the unfolding drama. Or they're traveling halfway around the world, and you're looking for something to keep the journey interesting\u2014a little adventure along the way. Or you're not prepared for the next adventure, and you need a diversion! In any of these cases, you can pick an adventure from this book to serve as a \"filler\" episode or side quest in the ongoing campaign.",
+								"Forse i personaggi dei tuoi giocatori sanno cosa devono fare per sventare i piani del boss malvagio, ma non sono di livello abbastanza alto per raggiungere il loro obiettivo. Oppure hanno appena raggiunto un traguardo significativo nella campagna e vuoi dare loro un cambio di ritmo prima che si immergano nell'atto successivo del dramma in corso. Oppure stanno viaggiando dall'altra parte del mondo e tu stai cercando qualcosa per rendere il viaggio interessante: una piccola avventura lungo il percorso. Oppure non sei preparato per la prossima avventura e hai bisogno di un diversivo! In ognuno di questi casi, puoi scegliere un'avventura da questo libro da utilizzare come episodio \"riempitivo\" o missione secondaria nella campagna in corso.",
 								{
 									"type": "image",
 									"href": {
@@ -54,8 +54,8 @@
 									"width": 850,
 									"height": 2286
 								},
-								"When the characters are the appropriate level for the adventure you wish to run, simply narrate how the characters end up in the adventure's locale. Each adventure's beginning includes a simple setting description, such as \"a village with a nearby forest.\" Beyond these basic details, feel free to alter the adventure's location to match your campaign.",
-								"But if you do have time to prepare, you can incorporate the adventure you're running into the themes and threats of your campaign. You can alter the names of people and places in the adventure to fit better into your world, link the adventure villains to organizations and events that are important in your campaign, and plant clues to the themes of your campaign in the dragon's treasure hoard."
+								"Quando i personaggi sono al livello appropriato per l'avventura che desideri svolgere, racconta semplicemente come i personaggi finiscono nel luogo dell'avventura. L'inizio di ogni avventura include una semplice descrizione dell'ambientazione, come \"un villaggio con una foresta vicina\". Oltre a questi dettagli di base, sentiti libero di modificare il luogo dell'avventura per adattarlo alla tua campagna.",
+								"Ma se hai tempo per prepararti, puoi incorporare l'avventura che stai affrontando nei temi e nelle minacce della tua campagna. Puoi modificare i nomi delle persone e dei luoghi dell'avventura per adattarli meglio al tuo mondo, collegare i cattivi dell'avventura a organizzazioni ed eventi importanti nella tua campagna e piantare indizi sui temi della tua campagna nel tesoro del drago."
 							]
 						}
 					]
@@ -65,15 +65,15 @@
 					"name": "Creating a Campaign",
 					"id": "005",
 					"entries": [
-						"These adventures can be strung together as a complete dragon-themed campaign. Simply guide your players through the adventures in the order presented in this book and award story-based level advancement at each adventure's end, so their characters are the appropriate level for the next challenge they'll face. (No level advancement is necessary before the final adventure.) You can also use one of the following narrative frameworks to connect the adventures to one another.",
+						"Queste avventure possono essere messe insieme come una campagna completa a tema drago. Guida semplicemente i tuoi giocatori attraverso le avventure nell'ordine presentato in questo libro e premia l'avanzamento di livello basato sulla storia alla fine di ogni avventura, in modo che i loro personaggi raggiungano il livello appropriato per la prossima sfida che dovranno affrontare. (Non è necessario alcun avanzamento di livello prima dell'avventura finale.) Puoi anche utilizzare una delle seguenti strutture narrative per collegare le avventure tra loro.",
 						{
 							"type": "entries",
 							"name": "Option 1: Mysterious Patron",
 							"id": "006",
 							"entries": [
-								"Have a friendly patron whose true identity is somewhat mysterious befriend the adventurers early in their careers and send them on each adventure in sequence. The patron might be a charismatic young monk, a kindly teacher, a diminutive scamp, or a scatter-brained elder, and might or might not be accompanied by seven golden canaries or dazzling yellow butterflies, which are actually ancient gold dragons in disguise\u2014the companions of the dragon god Bahamut, which is the patron's true identity.",
-								"Perhaps foreseeing that they are destined to become mighty heroes, Bahamut takes the adventurers under his metaphorical wing and sends them on adventures to deal with draconic concerns, great and small, across the world. The patron might feign surprise when an adventure that doesn't at first seem to involve a dragon (such as \"{@adventure The Will of Orcus|DrDe-TWoO|1},\" chapter 3) turns out to revolve around one, but of course that's exactly the reason Bahamut sent the characters to investigate.",
-								"You can use each adventure as written, with the characters' patron steering them in the general direction of the adventure hook without spoiling any surprises in the adventure ahead. Alternatively, the patron could let the characters in on the secret early on, telling them that dragons will be a particular focus of their adventures and altering some of the adventure hooks along the way."
+								"Chiedi a un mecenate amichevole la cui vera identità è alquanto misteriosa di fare amicizia con gli avventurieri all'inizio della loro carriera e di inviarli in ogni avventura in sequenza. Il patrono potrebbe essere un giovane monaco carismatico, un insegnante gentile, un minuscolo furfante o un anziano sventato, e potrebbe o meno essere accompagnato da sette canarini dorati o abbaglianti farfalle gialle, che in realtà sono antichi draghi d'oro sotto mentite spoglie: i compagni del dio drago Bahamut, che è la vera identità del patrono.",
+								"Forse prevedendo che sarebbero destinati a diventare potenti eroi, Bahamut prende gli avventurieri sotto la sua metaforica ala protettrice e li manda all'avventura per affrontare problemi draconiani, grandi e piccoli, in tutto il mondo. Il cliente potrebbe fingere sorpresa quando un'avventura che a prima vista non sembra coinvolgere un drago (come \"{@adventure The Will of Orcus|DrDe-TWoO|1}\" capitolo 3) si scopre che ruota attorno a uno di essi, ma ovviamente questo è esattamente il motivo per cui Bahamut ha inviato i personaggi a indagare.",
+								"Puoi utilizzare ogni avventura così come è scritta, con il patrono dei personaggi che li guida nella direzione generale dell'avventura senza rovinare alcuna sorpresa nell'avventura successiva. In alternativa, il mecenate potrebbe far conoscere il segreto ai personaggi fin dall'inizio, dicendo loro che i draghi saranno il fulcro particolare delle loro avventure e alterando alcuni degli agganci dell'avventura lungo il percorso."
 							]
 						},
 						{
@@ -81,8 +81,8 @@
 							"name": "Option 2: Brazen Egg",
 							"id": "007",
 							"entries": [
-								"Begin the campaign with the introductory encounter of chapter 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1},\" ending with Eldemere entrusting the Brazen Egg to the characters. Eldemere's instructions are different, though: she explains that the egg must be \"steeped\" in the hoards of ten dragons, one of each chromatic and metallic kind, to activate its power. She also suggests that the egg will lead the characters toward suitable hoards. In fact, any character who sleeps within 15 feet of the egg has vivid dreams leading them toward the start of the next adventure.",
-								"To draw power from a dragon's hoard, the egg must spend 8 hours in the midst of the treasure, covered with coins and surrounded by other items. However, as soon as the empowered egg is brought within Anthradusk's hoard chamber ({@area area H16|3fe|x} in chapter 10), it reaches its full potential and begins to crack open, as described in that adventure."
+								"Inizia la campagna con l'incontro introduttivo del capitolo 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1}\", che termina con Eldemere che affida l'Uovo di Bronzo ai personaggi. Le istruzioni di Eldemere sono diverse, però: spiega che l'uovo deve essere \"immerso\" nelle orde di dieci draghi, uno per ogni tipo cromatico e metallico, per attivare il suo potere. Suggerisce anche che l'uovo condurrà i personaggi verso i tesori adatti. In effetti, qualsiasi personaggio che dorme entro 15 piedi dall'uovo fa sogni vividi che lo portano verso l'inizio della prossima avventura.",
+								"Per trarre potere dal tesoro di un drago, l'uovo deve trascorrere 8 ore in mezzo al tesoro, coperto di monete e circondato da altri oggetti. Tuttavia, non appena l'uovo potenziato viene portato nella camera del tesoro di Anthradusk ({@area area H16|3fe|x} nel capitolo 10), raggiunge il suo pieno potenziale e inizia ad aprirsi, come descritto in quell'avventura."
 							]
 						},
 						{
@@ -90,7 +90,7 @@
 							"name": "Option 3: Hoard Magic Items",
 							"id": "008",
 							"entries": [
-								"If you have {@book Fizban's Treasury of Dragons|FTD|4}, the hoard of magic items described in that book can provide an incentive for characters to seek out dragons of increasing power and different kinds. Add the following items to the rewards acquired in the first three adventures: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1},\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1},\" and a {@item Dragon's Wrath Weapon|FTD} and a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" All four items are Slumbering when the characters first acquire them, but in later adventures, the items can be awakened by steeping them in dragons' hoards."
+								"Se hai {@book Fizban's Treasury of Dragons|FTD|4}, il tesoro di oggetti magici descritti in quel libro può fornire un incentivo ai personaggi a cercare draghi di crescente potenza e di diverso tipo. Aggiungi i seguenti oggetti alle ricompense acquisite nelle prime tre avventure: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1}\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1}\" e a {@item Dragon's Wrath Weapon|FTD} e a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" Tutti e quattro gli oggetti sono addormentati quando i personaggi li acquisiscono per la prima volta, ma nelle avventure successive gli oggetti possono essere risvegliati immergendoli nei tesori dei draghi."
 							]
 						}
 					]
@@ -100,14 +100,14 @@
 					"name": "Running the Adventures",
 					"id": "009",
 					"entries": [
-						"To run each of these adventures, you need the fifth edition core rulebooks: the {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|XMM}. Spells and equipment mentioned in the adventures are described in the {@book Player's Handbook|XPHB}. Magic items are detailed in the {@book Dungeon Master's Guide|XDMG}, and monsters appear in the {@book Monster Manual|XMM}.",
-						"The table of contents summarizes the adventures in this anthology. Each adventure is designed for four to six characters of a particular level, but you can adjust for larger or smaller groups by changing the number of foes in an encounter and giving a small group additional resources, as explained in the {@book Dungeon Master's Guide|XDMG}. Each of the adventures can take place in any world you choose, as long as the location has the basic elements listed at the beginning of each adventure.",
+						"Per eseguire ciascuna di queste avventure, sono necessari i regolamenti base della quinta edizione: {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|XMM}. Gli incantesimi e l'equipaggiamento menzionati nelle avventure sono descritti nel {@book Player's Handbook|XPHB}. Gli oggetti magici sono dettagliati in {@book Dungeon Master's Guide|XDMG} e i mostri appaiono in {@book Monster Manual|XMM}.",
+						"Il sommario riassume le avventure di questa antologia. Ogni avventura è progettata per quattro-sei personaggi di un particolare livello, ma puoi adattarti a gruppi più o meno grandi modificando il numero di nemici in un incontro e fornendo a un piccolo gruppo risorse aggiuntive, come spiegato nel {@book Dungeon Master's Guide|XDMG}. Ognuna delle avventure può svolgersi in qualsiasi mondo tu scelga, purché il luogo contenga gli elementi di base elencati all'inizio di ogni avventura.",
 						{
 							"type": "entries",
 							"name": "Preparation",
 							"id": "00a",
 							"entries": [
-								"Every adventure in this book begins with a page that helps you prepare and run the adventure. It includes the following elements:",
+								"Ogni avventura in questo libro inizia con una pagina che ti aiuta a preparare e gestire l'avventura. Comprende i seguenti elementi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -115,17 +115,17 @@
 										{
 											"type": "item",
 											"name": "Key Plot Points",
-											"entry": "A summary of the key elements in the adventure's story"
+											"entry": "Un riassunto degli elementi chiave della storia dell'avventura"
 										},
 										{
 											"type": "item",
 											"name": "Preparation",
-											"entry": "Steps to get yourself ready to run the adventure, including a list of all the stat blocks from the {@book Monster Manual|XMM} you might need"
+											"entry": "Passaggi per prepararti a vivere l'avventura, incluso un elenco di tutti i blocchi delle statistiche del {@book Monster Manual|XMM} di cui potresti aver bisogno"
 										},
 										{
 											"type": "item",
 											"name": "Key NPCs",
-											"entry": "A table summarizing key nonplayer characters in the adventure\u2014their names, roles, stat blocks, and locations\u2014to help you keep track of them during play"
+											"entry": "Una tabella che riassume i principali personaggi non giocanti dell'avventura (i loro nomi, ruoli, blocchi delle statistiche e posizioni) per aiutarti a tenerne traccia durante il gioco"
 										}
 									]
 								}
@@ -136,7 +136,7 @@
 							"name": "Player Assistance",
 							"id": "00b",
 							"entries": [
-								"As described in the {@book Dungeon Master's Guide|XDMG}, you can streamline your role as Dungeon Master by delegating certain tasks to the other players, especially if this is your first time behind the DM's screen. Before play begins, work with the other players to divide any or all of the following tasks among them:",
+								"Come descritto nel {@book Dungeon Master's Guide|XDMG}, puoi semplificare il tuo ruolo di Dungeon Master delegando determinati compiti agli altri giocatori, soprattutto se è la prima volta dietro lo schermo del DM. Prima che il gioco inizi, collabora con gli altri giocatori per dividere tra loro alcuni o tutti i seguenti compiti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,17 +144,17 @@
 										{
 											"type": "item",
 											"name": "Initiative Tracker",
-											"entry": "In combat, one player tracks Initiative for the characters and monsters."
+											"entry": "In combattimento, un giocatore tiene traccia dell'iniziativa dei personaggi e dei mostri."
 										},
 										{
 											"type": "item",
 											"name": "Monster Wranglers",
-											"entry": "Whenever the characters enter combat with Hostile monsters, one or two players run these monsters using the stat blocks in the {@book Monster Manual|XMM}. (Two players can share this role.)"
+											"entry": "Ogni volta che i personaggi entrano in combattimento con mostri ostili, uno o due giocatori gestiscono questi mostri utilizzando i blocchi delle statistiche nel {@book Monster Manual|XMM}. (Due giocatori possono condividere questo ruolo.)"
 										},
 										{
 											"type": "item",
 											"name": "Rules Consultant",
-											"entry": "One player references rules in the {@book Player's Handbook|XPHB} or other books as needed."
+											"entry": "Un giocatore fa riferimento alle regole nel {@book Player's Handbook|XPHB} o in altri libri secondo necessità."
 										}
 									]
 								}
@@ -165,15 +165,15 @@
 							"name": "Adventures for One Character",
 							"id": "00c",
 							"entries": [
-								"While the {@book Dungeon Master's Guide|XDMG} explains how to adjust adventures for different party sizes, three of the adventures (indicated in the table of contents) are particularly well-suited for play with a single adventurer. Each of these adventures includes instructions for ensuring the character faces an appropriate challenge.",
-								"Central to those instructions is the {@i Blessing of the Lone Champion}, a supernatural gift that bolsters the solo character's abilities.",
+								"Mentre il {@book Dungeon Master's Guide|XDMG} spiega come adattare le avventure alle diverse dimensioni del gruppo, tre delle avventure (indicate nel sommario) sono particolarmente adatte per essere giocate con un singolo avventuriero. Ognuna di queste avventure include istruzioni per garantire che il personaggio affronti una sfida adeguata.",
+								"Al centro di queste istruzioni c'è il {@i Blessing of the Lone Champion}, un dono soprannaturale che rafforza le abilità del personaggio solista.",
 								{
 									"type": "statblock",
 									"name": "Blessing of the Lone Champion",
 									"source": "DrDe",
 									"tag": "reward"
 								},
-								"The blessing lasts for the duration of the adventure."
+								"La benedizione dura per tutta la durata dell'avventura."
 							]
 						},
 						{
@@ -181,10 +181,10 @@
 							"name": "A Draconic History",
 							"id": "00e",
 							"entries": [
-								"In addition to ten adventures, this book includes special sections that feature art of each dragon variety, drawing from almost the whole 50-year history of Dungeons & Dragons, from the 1977 Monster Manual to the one published in 2025. The appearance of all ten dragon types has evolved significantly over the past fifty years, but close examination of these images reveals points of continuity as well, from the blue dragon's nose horn to the silver dragon's crest.",
-								"Artist Todd Lockwood spearheaded a thorough revision of all ten dragon types for the release of D&D's third edition in 2000, basing his designs on the anatomy of real-world animals and certain points of continuity with earlier designs. With a few variations, those designs set the standard for D&D's dragons for over 20 years.",
-								"In preparation for the release of the {@book Monster Manual|XMM} (2025), art director Josh Herman led a comprehensive refresh of all the dragon looks as D&D began its second half-century. With the goal of ensuring each dragon's distinct identity\u2014its personality, preferred habitat, and combat style\u2014shines through in its look, this redesign showcases visually what's unique about each type of dragon.",
-								"In the same way, this book highlights how an adventure featuring one kind of dragon can feel distinct from all the others."
+								"Oltre a dieci avventure, questo libro include sezioni speciali che presentano illustrazioni di ciascuna varietà di drago, attingendo da quasi tutti i 50 anni di storia di Dungeons & Dragons, dal Manuale dei Mostri del 1977 a quello pubblicato nel 2025. L'aspetto di tutti e dieci i tipi di drago si è evoluto in modo significativo negli ultimi cinquant'anni, ma un attento esame di queste immagini rivela anche punti di continuità, dal corno nasale del drago blu alla cresta del drago d'argento.",
+								"L'artista Todd Lockwood ha guidato una revisione approfondita di tutti e dieci i tipi di drago per l'uscita della terza edizione di D&D nel 2000, basando i suoi progetti sull'anatomia degli animali del mondo reale e su alcuni punti di continuità con i progetti precedenti. Con poche variazioni, questi design stabiliscono lo standard per i draghi di D&D per oltre 20 anni.",
+								"In preparazione all'uscita di {@book Monster Manual|XMM} (2025), il direttore artistico Josh Herman ha condotto un aggiornamento completo di tutti i look dei draghi mentre D&D iniziava la sua seconda metà di secolo. Con l'obiettivo di garantire che l'identità distinta di ogni drago (la sua personalità, l'habitat preferito e lo stile di combattimento) traspaia nel suo aspetto, questa riprogettazione mostra visivamente ciò che rende unico ogni tipo di drago.",
+								"Allo stesso modo, questo libro evidenzia come un’avventura che abbia come protagonista un tipo di drago possa sembrare distinta da tutti gli altri."
 							]
 						}
 					]
@@ -243,7 +243,7 @@
 					"name": "Key Plot Points",
 					"id": "3ac",
 					"entries": [
-						"The following information is key to the adventure's story:",
+						"Le seguenti informazioni sono fondamentali per la storia dell'avventura:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -251,17 +251,17 @@
 								{
 									"type": "item",
 									"name": "Brass Dragon Egg",
-									"entry": "In the ruined subterranean city of Haskasori, the blue dragon Anthradusk prepares a nefarious ritual. A woman approaches the adventurers to tell them of this dragon, who killed the city's brass dragon protector. The brass dragon's egg\u2014which the woman gives to the party\u2014holds the key to defeating Anthradusk."
+									"entry": "Nella città sotterranea in rovina di Haskasori, il drago blu Anthradusk prepara un rituale nefasto. Una donna si avvicina agli avventurieri per parlare loro di questo drago, che ha ucciso il drago d'ottone protettore della città. L'uovo del drago di ottone, che la donna dona al gruppo, contiene la chiave per sconfiggere Anthradusk."
 								},
 								{
 									"type": "item",
 									"name": "Riddle for Help",
-									"entry": "The characters must persuade a local sphinx in her temple to reveal the passphrase that allows them to enter the ruined city."
+									"entry": "I personaggi devono persuadere una sfinge locale nel suo tempio a rivelare la passphrase che consente loro di entrare nella città in rovina."
 								},
 								{
 									"type": "item",
 									"name": "Infiltrating Haskasori",
-									"entry": "As the characters explore the ruins of Haskasori, they discover its many denizens, including its former king. When Anthradusk returns to his lair, the characters can unleash the egg's strange magic in the presence of the brass dragon's remains to weaken Anthradusk. They must slay Anthradusk to end the threat posed by his foul ritual."
+									"entry": "Mentre i personaggi esplorano le rovine di Haskasori, scoprono i suoi numerosi abitanti, incluso il suo ex re. Quando Anthradusk ritorna nella sua tana, i personaggi possono scatenare la strana magia dell'uovo in presenza dei resti del drago di ottone per indebolire Anthradusk. Devono uccidere Anthradusk per porre fine alla minaccia rappresentata dal suo ripugnante rituale."
 								}
 							]
 						}
@@ -272,7 +272,7 @@
 					"name": "Preparation",
 					"id": "3ad",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -280,17 +280,17 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "Read the \"{@area Adventure Background|3ae|x}\" section."
+									"entry": "Leggi la sezione \"{@area Adventure Background|3ae|x}\"."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Familiarize yourself with the {@adventure Key NPCs|DrDe-DotSC|1|Key NPCs} table, which describes important individuals the characters will interact with during the adventure."
+									"entry": "Acquisisci familiarità con la tabella {@adventure Key NPCs|DrDe-DotSC|1|Key NPCs}, che descrive le persone importanti con cui i personaggi interagiranno durante l'avventura."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Bookmark following stat blocks in the {@book Monster Manual|XMM} or on D&D Beyond:"
+									"entry": "Aggiungi ai segnalibri i seguenti blocchi di statistiche in {@book Monster Manual|XMM} o in D&D Beyond:"
 								}
 							]
 						},
@@ -328,33 +328,33 @@
 							],
 							"rows": [
 								[
-									"Anthradusk",
-									"Primary antagonist",
+									"Anthrapus",
+									"Antagonista primario",
 									"{@creature Ancient Blue Dragon|XMM}",
 									"\"{@area Anthradusk's Return|402|x}\""
 								],
 								[
 									"Eldemere",
-									"Quest giver and human disciple of a dead brass dragon",
-									"{@creature Mage|XMM} (Medium, Chaotic Good)",
+									"Datore di missioni e discepolo umano di un drago di ottone morto",
+									"{@creature Mage|XMM} (Medio, Caotico Buono)",
 									"\"{@area Beginning the Adventure|3af|x}\""
 								],
 								[
 									"Oliekintara",
-									"Provides a required passphrase",
+									"Fornisce una passphrase richiesta",
 									"{@creature Sphinx of Lore|XMM}",
 									"\"{@area Temple of Sands|3b7|x}\""
 								],
 								[
 									"Rummox",
-									"Anthradusk's companion",
-									"{@creature Dao|XMM} (Neutral Evil)",
+									"Il compagno di Anthradusk",
+									"{@creature Dao|XMM} (Malvagio Neutrale)",
 									"{@area H9|3df|x}"
 								],
 								[
 									"Yaarnak",
-									"Asks characters to retrieve his lost staff",
-									"{@creature Mummy Lord|XMM} (Small)",
+									"Chiede ai personaggi di recuperare il bastone perduto",
+									"{@creature Mummy Lord|XMM} (Piccolo)",
 									"{@area H8|3d9|x}"
 								]
 							]
@@ -366,8 +366,8 @@
 					"name": "Adventure Background",
 					"id": "3ae",
 					"entries": [
-						"For generations, the blue dragon Anthradusk has wreaked terror on the land. Recently, the vicious wyrm slew his rival, the brass dragon Cozmioko, but not before the brass dragon revealed Anthradusk's plot to resurrect several terrifying blue dragon ancestors.",
-						"One of Cozmioko's disciples, a human mage named Eldemere, found the brass dragon's remains\u2014along with a mysterious egg\u2014in the ruined city of Haskasori. Eldemere now seeks heroes to return there and undermine Anthradusk's profane magical plot."
+						"Per generazioni, il drago blu Anthradusk ha seminato il terrore sulla terra. Recentemente, il malvagio dragone ha ucciso il suo rivale, il drago d'ottone Cozmioko, ma non prima che il drago d'ottone rivelasse il piano di Anthradusk per resuscitare diversi terrificanti antenati del drago blu.",
+						"Uno dei discepoli di Cozmioko, un mago umano di nome Eldemere, trovò i resti del drago d'ottone, insieme a un uovo misterioso, nella città in rovina di Haskasori. Eldemere ora cerca eroi che ritornino lì e indeboliscano il complotto magico e profano di Anthradusk."
 					]
 				},
 				{
@@ -375,17 +375,17 @@
 					"name": "Beginning the Adventure",
 					"id": "3af",
 					"entries": [
-						"Start the adventure when the characters are traveling together in a city near a desert. The character with the highest Passive {@skill Perception|XPHB} score notices that the party is being followed.",
-						"Read or paraphrase the following aloud:",
+						"Inizia l'avventura quando i personaggi viaggiano insieme in una città vicino al deserto. Il personaggio con il punteggio Passivo più alto {@skill Perception|XPHB} nota che il gruppo viene seguito.",
+						"Leggi o parafrasa ad alta voce quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "3b0",
 							"entries": [
-								"A tall human woman with sandy brown hair and golden eyes has been following you for some time. The woman wears fine yellow robes and carries a large, linen-covered basket under one arm. She shifts her attention between you and whatever's in the basket. She looks like she's about to speak. Before she can, though, a young woman with her face partially covered by a scarf runs from a nearby alley. The scarf-wearing woman slaps the basket upward, sending it flying into the air. A second passerby catches the basket and tosses it to a third individual who's already running\u2014darting in your direction.The woman in yellow shouts, \"Stop! Thieves!\""
+								"Una donna umana alta con capelli castano sabbia e occhi dorati ti segue da qualche tempo. La donna indossa fini vesti gialle e porta sotto il braccio un grande cesto ricoperto di lino. Sposta la sua attenzione tra te e qualunque cosa ci sia nel cestino. Sembra che stia per parlare. Prima che possa farlo, però, una giovane donna con il volto parzialmente coperto da una sciarpa corre da un vicolo vicino. La donna con la sciarpa sbatte il cestino verso l'alto, facendolo volare in aria. Un secondo passante afferra il cestino e lo lancia a un terzo individuo che sta già correndo, lanciandosi nella tua direzione. La donna vestita di giallo grida: \"Fermati! Ladri!\""
 							]
 						},
-						"Three human {@creature Bandit|XMM|Bandits} have robbed the woman in yellow. They're nimble but cowardly street thieves, and they don't want a fight. Fortunately for them, their victim seems too surprised to do anything but shout. The thief with the basket runs toward the characters, not perceiving them as a threat.",
-						"The characters can impede the thieves however they please, but here are a few likely methods:",
+						"Tre umani {@creature Bandit|XMM|Bandits} hanno derubato la donna vestita di giallo. Sono ladri di strada agili ma codardi e non vogliono combattere. Fortunatamente per loro, la loro vittima sembra troppo sorpresa per fare altro che urlare. Il ladro con la cesta corre verso i personaggi, senza percepirli come una minaccia.",
+						"I personaggi possono ostacolare i ladri come preferiscono, ma ecco alcuni metodi probabili:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -393,26 +393,26 @@
 								{
 									"type": "item",
 									"name": "Intimidate",
-									"entry": "A character can command the thief to halt. As an Influence action, the character makes a {@dc 14} Charisma ({@skill Intimidation|XPHB}) check; the thief is Hostile toward the character. On a success, the thief apologizes, drops the basket, and flees."
+									"entry": "Un personaggio può ordinare al ladro di fermarsi. Come azione di Influenza, il personaggio effettua una prova di {@dc 14} Carisma ({@skill Intimidation|XPHB}); il ladro è ostile verso il personaggio. In caso di successo, il ladro si scusa, lascia cadere il cestino e fugge."
 								},
 								{
 									"type": "item",
 									"name": "Pilfer",
-									"entry": "A character can try to grab the basket, as a {@action Utilize|XPHB} action, doing so with a successful {@dc 15} Dexterity ({@skill Sleight of Hand|XPHB}) check. If the character grabs the basket, the thief lets go and keeps running."
+									"entry": "Un personaggio può provare ad afferrare il cestino, come azione {@action Utilize|XPHB}, eseguendo con successo una prova di Destrezza ({@skill Sleight of Hand|XPHB} {@dc 15}. Se il personaggio afferra il cestino, il ladro lo lascia andare e continua a correre."
 								},
 								{
 									"type": "item",
 									"name": "Violence",
-									"entry": "A character can take an {@action Attack|XPHB} or {@action Magic|XPHB} action, targeting the thief with a weapon or spell. If the thief takes damage, they wail dramatically, drop the stolen basket, and try to flee."
+									"entry": "Un personaggio può intraprendere un'azione {@action Attack|XPHB} o {@action Magic|XPHB}, prendendo di mira il ladro con un'arma o un incantesimo. Se il ladro subisce danni, geme in modo drammatico, lascia cadere il cesto rubato e tenta di fuggire."
 								}
 							]
 						},
-						"During the commotion, the characters notice the contents of the basket: a brass-colored egg the size of a honeydew melon. Before they can ask about it, the woman in yellow introduces herself:",
+						"Durante il trambusto, i personaggi notano il contenuto del cestino: un uovo color ottone delle dimensioni di un melone. Prima che possano chiedere informazioni, la donna in giallo si presenta:",
 						{
 							"type": "insetReadaloud",
 							"id": "3b1",
 							"entries": [
-								"\"I am Eldemere, and I believe this,\" the woman says, indicating the egg, \"belongs to you.\""
+								"\"Io sono Eldemere, e credo che questo,\" dice la donna, indicando l'uovo, \"appartenga a te.\""
 							]
 						},
 						{
@@ -420,8 +420,8 @@
 							"name": "Meeting Eldemere",
 							"id": "3b2",
 							"entries": [
-								"Eldemere is a Chaotic Good {@creature Mage|XMM}. She is a scholar who seeks someone capable of helping her thwart the blue dragon Anthradusk's schemes using the egg in the basket, which she refers to as the Brazen Egg.",
-								"Eldemere was once a disciple of the brass dragon Cozmioko. When Cozmioko disappeared not long after revealing Anthradusk's evil plans, Eldemere began investigating. Eventually, she discovered the site where Anthradusk killed Cozmioko\u2014and found the Brazen Egg among the brass dragon's ashes. Eldemere absconded with this egg before Anthradusk could find and destroy her.",
+								"Eldemere è un bene caotico {@creature Mage|XMM}. È una studiosa che cerca qualcuno in grado di aiutarla a contrastare i piani del drago blu Anthradusk usando l'uovo nel cestino, che lei chiama l'Uovo di Bronzo.",
+								"Eldemere una volta era un discepolo del drago di ottone Cozmioko. Quando Cozmioko scomparve non molto tempo dopo aver rivelato i piani malvagi di Anthradusk, Eldemere iniziò a indagare. Alla fine, scoprì il luogo in cui Anthradusk uccise Cozmioko e trovò l'Uovo di Bronzo tra le ceneri del drago di ottone. Eldemere è fuggito con questo uovo prima che Anthradusk potesse trovarla e distruggerla.",
 								{
 									"type": "entries",
 									"name": "Eldemere's Quest",
@@ -437,23 +437,23 @@
 											"width": 1700,
 											"height": 1056
 										},
-										"When the egg is safe in its basket again, Eldemere explains the circumstances:",
+										"Quando l'uovo è di nuovo al sicuro nel suo cestino, Eldemere spiega le circostanze:",
 										{
 											"type": "insetReadaloud",
 											"id": "3b4",
 											"entries": [
-												"\"This,\" says Eldemere, gesturing toward the metal egg, \"is the last gift of the great brass dragon Cozmioko. She was slain recently trying to defend this land from Anthradusk, a blue dragon who seeks to resurrect his ancestors: generations of blue dragons, each an architect of untold calamities. Cozmioko disappeared after warning me about Anthradusk's foul ambitions. I followed clues in her research to the ruins of Haskasori, the Sandstone City. \"I found Cozmioko's remains there\u2014she was slain by Anthradusk. I sifted this egg from her ashes, but Anthradusk returned before I could learn more about his plans. I barely escaped before he sealed and magically locked Haskasori's gates."
+												"\"Questo\", dice Eldemere, indicando l'uovo di metallo, \"è l'ultimo dono del grande drago di ottone Cozmioko. È stata uccisa di recente mentre cercava di difendere questa terra da Anthradusk, un drago blu che cerca di resuscitare i suoi antenati: generazioni di draghi blu, ciascuno artefice di indicibili calamità. Cozmioko è scomparsa dopo avermi avvertito delle malvagie ambizioni di Anthradusk. Ho seguito gli indizi nelle sue ricerche fino alle rovine di Haskasori, la Città di Arenaria. \"Ho trovato lì i resti di Cozmioko: è stata uccisa da Anthradusk. Ho setacciato questo uovo dalle sue ceneri, ma Anthradusk è tornato prima che potessi saperne di più sui suoi piani. Sono riuscito a malapena a scappare prima che sigillasse e chiudesse magicamente i cancelli di Haskasori."
 											]
 										},
 										{
 											"type": "insetReadaloud",
 											"id": "3b5",
 											"entries": [
-												"\"My research has since convinced me this Brazen Egg holds a final gift from Cozmioko and a way to spoil Anthradusk's plans. To do so, you must return to Haskasori, release the egg's power to weaken Anthradusk, and then slay the dragon to stop his ritual. This is your destiny\u2014indeed, the egg has led me to you.\""
+												"\"Da allora le mie ricerche mi hanno convinto che questo Uovo di Bronzo contiene un regalo finale di Cozmioko e un modo per rovinare i piani di Anthradusk. Per farlo, devi tornare a Haskasori, liberare il potere dell'uovo per indebolire Anthradusk e poi uccidere il drago per fermare il suo rituale. Questo è il tuo destino... in effetti, l'uovo mi ha portato da te.\""
 											]
 										},
-										"Eldemere hands the characters the egg. She does whatever she can to convince them to go to Haskasori. If they are money-driven, she informs them that Haskasori was once a city of great riches and culture; they are welcome to keep any relics or treasure they find.",
-										"Eldemere can provide the following information:",
+										"Eldemere porge l'uovo ai personaggi. Fa tutto il possibile per convincerli ad andare a Haskasori. Se sono guidati dal denaro, li informa che Haskasori una volta era una città di grande ricchezza e cultura; sono invitati a conservare qualsiasi reliquia o tesoro che trovano.",
+										"Eldemere può fornire le seguenti informazioni:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -461,24 +461,24 @@
 												{
 													"type": "item",
 													"name": "How Can We Enter Haskasori?",
-													"entry": "\"Ancient magic seals the city gates, and few besides Cozmioko and Anthradusk are long-lived enough to remember the passphrase. However, I'm certain the sphinx Oliekintara knows how to enter. Seek her at the Temple of Sands and convince her to share what she knows. I can give you directions.\""
+													"entry": "\"L'antica magia sigilla le porte della città, e pochi oltre a Cozmioko e Anthradusk sono abbastanza longevi da ricordare la passphrase. Tuttavia, sono certo che la sfinge Oliekintara sa come entrare. Cercala al Tempio delle Sabbie e convincila a condividere ciò che sa. Posso darti indicazioni.\""
 												},
 												{
 													"type": "item",
 													"name": "How Did the Egg Lead You to Us?",
-													"entry": "\"I've had the egg for weeks, and it has remained still. But as I approached you, it grew warm and started to twitch. It has settled down only now. I'm certain this is Cozmioko's will.\""
+													"entry": "\"Ho l'uovo da settimane, ed è rimasto fermo. Ma mentre mi avvicinavo a te, si è riscaldato e ha iniziato a contrarsi. Si è calmato solo ora. Sono certa che questa è la volontà di Cozmioko.\""
 												}
 											]
 										},
-										"{@b What Can You Tell Us about Anthradusk}? \"He's a tyrant who seeks to resurrect and bind his dead ancestor dragons, then use them to conquer the region. His depravities focus on Haskasori, which he's made his temporary lair. But he often leaves the city for long stretches as he collects foul reagents for his ritual.\"",
-										"{@b What Can You Tell Us about Haskasori}? Eldemere approaches a nearby well and scatters a scintillating powder across its surface. In response, the water rises, taking the shape of city ruins nestled inside a mountain. \"Haskasori began as a cavern where desert travelers could take shelter, grew into a trade hub, and eventually expanded into an underground city of markets and temples. This happened over generations under Cozmioko's guidance. Eventually, though, the people grew greedy, and a ruler called Yaarnak turned the populace against the dragon. Cozmioko left; within a few short years, Haskasori fell to ruin.\"",
-										"Eldemere politely refuses to join the party if invited. Secretly she fears Anthradusk is looking for her, and she doesn't want to jeopardize the mission.",
+										"{@b What Can You Tell Us about Anthradusk}? \"È un tiranno che cerca di resuscitare e legare i draghi dei suoi antenati morti, per poi usarli per conquistare la regione. Le sue depravazioni si concentrano su Haskasori, di cui ha fatto la sua tana temporanea. Ma spesso lascia la città per lunghi periodi mentre raccoglie reagenti disgustosi per il suo rituale.\"",
+										"{@b What Can You Tell Us about Haskasori}? Eldemere si avvicina a un pozzo vicino e sparge una polvere scintillante sulla sua superficie. In risposta, l'acqua si alza, assumendo la forma delle rovine della città annidate all'interno di una montagna. \"Haskasori iniziò come una caverna dove i viaggiatori del deserto potevano rifugiarsi, si trasformò in un centro commerciale e alla fine si espanse in una città sotterranea di mercati e templi. Ciò accadde per generazioni sotto la guida di Cozmioko. Alla fine, però, la gente divenne avida e un sovrano chiamato Yaarnak mise la popolazione contro il drago. Cozmioko se ne andò; nel giro di pochi anni, Haskasori cadde in rovina.\"",
+										"Eldemere rifiuta educatamente di unirsi alla festa se invitato. Segretamente teme che Anthradusk la stia cercando e non vuole mettere a repentaglio la missione.",
 										{
 											"type": "entries",
 											"name": "The Brazen Egg",
 											"id": "3b6",
 											"entries": [
-												"The egg is indestructible and magical. It has no obvious powers, and the {@spell Identify|XPHB} spell gives no insight into its nature. The egg's true might awakens only when it is returned to Cozmioko's remains in Haskasori (see area {@area H15|3fa|x})."
+												"L'uovo è indistruttibile e magico. Non ha poteri evidenti e l'incantesimo {@spell Identify|XPHB} non fornisce informazioni sulla sua natura. La vera potenza dell'uovo si risveglia solo quando viene restituito ai resti di Cozmioko a Haskasori (vedi area {@area H15|3fa|x})."
 											]
 										}
 									]
@@ -492,34 +492,34 @@
 					"name": "Temple of Sands",
 					"id": "3b7",
 					"entries": [
-						"To learn the passphrase that will grant them entry into Haskasori, the characters must seek the sphinx, Oliekintara, at the Temple of Sands, which is 12 miles away.",
-						"When the party arrives at the Temple of Sands, read or paraphrase the following description:",
+						"Per apprendere la passphrase che garantirà loro l'ingresso in Haskasori, i personaggi devono cercare la sfinge, Oliekintara, al Tempio delle Sabbie, che si trova a 12 miglia di distanza.",
+						"Quando il gruppo arriva al Tempio delle Sabbie, leggi o parafrasa la seguente descrizione:",
 						{
 							"type": "insetReadaloud",
 							"id": "3b8",
 							"entries": [
-								"A broad platform of dark stone tiles contrasts sharply with the bright desert sands. At the center of the tiles stands a massive sphinx statue carved from black stone. The statue's pyramidal head is like a triangular blade tipped toward the sky. Its shadow creeps across the stone courtyard, pointing like a sundial at runes engraved in the tiles. Lounging atop a dais in front of the sculpted sphinx is an actual sphinx, her silk scarves blowing around her in the breeze as she regards you with an inscrutable gaze."
+								"Un'ampia piattaforma di piastrelle di pietra scura contrasta nettamente con le luminose sabbie del deserto. Al centro delle piastrelle si trova un'enorme statua della sfinge scolpita nella pietra nera. La testa piramidale della statua è come una lama triangolare puntata verso il cielo. La sua ombra si insinua attraverso il cortile di pietra, puntando come una meridiana verso le rune incise sulle piastrelle. Rilassata in cima a una pedana di fronte alla sfinge scolpita c'è una vera sfinge, le sue sciarpe di seta svolazzano intorno a lei nella brezza mentre ti guarda con uno sguardo imperscrutabile."
 							]
 						},
-						"Oliekintara ({@creature Sphinx of Lore|XMM}) has watched over the Temple of Sands for centuries. Few except the bravest or most desperate seek the sphinx's advice, which she never gives freely. In conversation, Oliekintara is aloof and soft-spoken.",
+						"Oliekintara ({@creature Sphinx of Lore|XMM}) veglia sul Tempio delle Sabbie da secoli. Pochi, tranne i più coraggiosi o i più disperati, cercano il consiglio della sfinge, che lei non dà mai liberamente. Nelle conversazioni, Oliekintara è distaccato e pacato.",
 						{
 							"type": "entries",
 							"name": "Sphinx's Riddle",
 							"id": "3b9",
 							"entries": [
-								"Oliekintara confirms her identity to anyone who asks, but before she'll say more, she insists visitors answer this riddle:",
+								"Oliekintara conferma la sua identità a chiunque glielo chieda, ma prima di dire altro, insiste che i visitatori rispondano a questo indovinello:",
 								{
 									"type": "insetReadaloud",
 									"id": "3ba",
 									"entries": [
-										"You've come to meet me at my temple,",
-										"And I'll give you all of it that you ask for.",
-										"Yet no matter how much of it you take,",
-										"You'll always leave with less than before.",
-										"What is it?"
+										"Sei venuto ad incontrarmi al mio tempio,",
+										"E ti darò tutto ciò che chiedi.",
+										"Eppure non importa quanto ne prendi,",
+										"Partirai sempre con meno di prima.",
+										"Che cos'è?"
 									]
 								},
-								"The riddle's answer is \"time.\" The characters can make as many guesses as they like. They can try to find clues with the following actions:",
+								"La risposta all'enigma è \"il tempo\". I personaggi possono fare quante ipotesi vogliono. Possono provare a trovare indizi con le seguenti azioni:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -527,16 +527,16 @@
 										{
 											"type": "item",
 											"name": "Search",
-											"entry": "A character can take the {@action Search|XPHB} action and make a {@dc 16} Wisdom ({@skill Insight|XPHB} or {@skill Perception|XPHB}) check. On a success, the character notices that Oliekintara's scarves are covered in repeating, patterned processions of suns and moons, representing the passage of time; the character also notices that Oliekintara's eyes occasionally drift toward the sundial in the center of the temple."
+											"entry": "Un personaggio può intraprendere l'azione {@action Search|XPHB} ed effettuare una prova di Saggezza {@dc 16} ({@skill Insight|XPHB} o {@skill Perception|XPHB}). In caso di successo, il personaggio nota che le sciarpe di Oliekintara sono ricoperte da processioni ripetute e modellate di soli e lune, che rappresentano il passare del tempo; il personaggio nota anche che gli occhi di Oliekintara di tanto in tanto si spostano verso la meridiana al centro del tempio."
 										},
 										{
 											"type": "item",
 											"name": "Study",
-											"entry": "A character can take the {@action Study|XPHB} action and make a {@dc 15} Intelligence ({@skill Arcana|XPHB} or {@skill Investigation|XPHB}) check. On a success, the character identifies twelve runes engraved around the sphinx statue. Each is an ancient symbol for a different hour."
+											"entry": "Un personaggio può eseguire l'azione {@action Study|XPHB} ed effettuare una prova di {@dc 15} Intelligenza ({@skill Arcana|XPHB} o {@skill Investigation|XPHB}). In caso di successo, il personaggio identifica dodici rune incise attorno alla statua della sfinge. Ognuno è un antico simbolo per un'ora diversa."
 										}
 									]
 								},
-								"If the characters fail to answer the riddle correctly, Oliekintara seems pleased with her own cleverness. She offers to tell them what she knows in return for a gift. This can be anything the characters think a sphinx might like\u2014perhaps a song, a story, a meal, a future visit\u2014or treasure worth at least 300 GP. If they answer the riddle correctly, she makes the same offer without demanding a gift.",
+								"Se i personaggi non riescono a rispondere correttamente all'enigma, Oliekintara sembra soddisfatta della propria intelligenza. Si offre di dire loro quello che sa in cambio di un regalo. Può trattarsi di qualsiasi cosa che i personaggi pensano possa piacere a una sfinge (forse una canzone, una storia, un pasto, una visita futura) o un tesoro del valore di almeno 300 GP. Se rispondono correttamente all'enigma, lei farà la stessa offerta senza chiedere un regalo.",
 								{
 									"type": "entries",
 									"id": "3bb",
@@ -546,7 +546,7 @@
 											"name": "Passphrase",
 											"id": "3bc",
 											"entries": [
-												"Oliekintara confirms that she knows how to enter Haskasori: one must stand before the gates and speak or sign the passphrase \"Cozmioko grins\" in any language."
+												"Oliekintara conferma di sapere come entrare ad Haskasori: bisogna stare davanti ai cancelli e pronunciare o firmare la passphrase \"Cozmioko sorride\" in qualsiasi lingua."
 											]
 										},
 										{
@@ -554,8 +554,8 @@
 											"name": "Parting Gifts",
 											"id": "3bd",
 											"entries": [
-												"Before the characters leave, Oliekintara gives them directions to Haskasori, a day's journey deeper into the desert. If they correctly answered her riddle and treated her respectfully, she also gives them a {@item Spell Scroll|XDMG} of {@spell Move Earth|XPHB}.",
-												"Oliekintara also warns the characters that there might be more threats in Haskasori than Anthradusk. The sphinx has heard that the city's avaricious ruler, Yaarnak, still clings to his throne.",
+												"Prima che i personaggi se ne vadano, Oliekintara dà loro le indicazioni per Haskasori, un giorno di viaggio più in profondità nel deserto. Se hanno risposto correttamente al suo indovinello e l'hanno trattata con rispetto, lei dà loro anche un {@item Spell Scroll|XDMG} di {@spell Move Earth|XPHB}.",
+												"Oliekintara avverte inoltre i personaggi che potrebbero esserci più minacce ad Haskasori che ad Anthradusk. La sfinge ha sentito che l'avaro sovrano della città, Yaarnak, è ancora aggrappato al suo trono.",
 												{
 													"type": "image",
 													"href": {
@@ -579,28 +579,28 @@
 					"name": "Haskasori",
 					"id": "3be",
 					"entries": [
-						"As the characters near Haskasori, read or paraphrase the following:",
+						"Mentre i personaggi si avvicinano a Haskasori, leggi o parafrasa quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "3bf",
 							"entries": [
-								"Miles ahead, the sky darkens, and the desert sands suddenly rise in a sandstorm. A moment later, a gigantic, twilight-hued dragon bursts from the ominous storm. Each flap of its mighty wings disrupts the dunes below until the dragon vanishes deeper into the desert."
+								"A chilometri di distanza, il cielo si oscura e le sabbie del deserto si sollevano improvvisamente in una tempesta di sabbia. Un attimo dopo, un gigantesco drago dai colori crepuscolari emerge dalla tempesta minacciosa. Ogni battito delle sue possenti ali sconvolge le dune sottostanti finché il drago non svanisce più in profondità nel deserto."
 							]
 						},
-						"The dragon, Anthradusk, is miles from the party and flying away from both them and Haskasori. The dragon flies out of sight before the characters can interfere with him, and the distant sandstorm settles down within a few minutes. The dragon won't return until the adventure's climax, detailed in \"{@area Anthradusk's Return.|402|x}\"",
-						"Soon after, the characters arrive at the sandstone butte that shelters Haskasori.",
+						"Il drago, Anthradusk, è a miglia di distanza dal gruppo e vola via sia da loro che da Haskasori. Il drago vola via dalla vista prima che i personaggi possano interferire con lui, e la lontana tempesta di sabbia si placa in pochi minuti. Il drago non tornerà fino al momento culminante dell'avventura, descritto in \"{@area Anthradusk's Return.|402|x}\"",
+						"Subito dopo, i personaggi arrivano alla collina di arenaria che ospita Haskasori.",
 						{
 							"type": "entries",
 							"name": "Haskasori Features",
 							"id": "3c0",
 							"entries": [
-								"Unless otherwise specified, the ruins of Haskasori have the following features.",
+								"Se non diversamente specificato, le rovine di Haskasori hanno le seguenti caratteristiche.",
 								{
 									"type": "entries",
 									"name": "Amulets of Yaarnak",
 									"id": "3c1",
 									"entries": [
-										"King Yaarnak's priests created ornamental jade amulets to mark the king's most loyal subjects. Each bears an eerie design with a mixture of goat and draconic features. The amulets are worth 250 GP each. One or more amulets of Yaarnak can be found in areas {@area H7a|3d5|x}, {@area H7d|3d4|x}, {@area H8|3d9|x}, and {@area H12|3f0|x}. They're not magical, but the statue in the sanctum (area {@area H15|3fa|x}) doesn't attempt to petrify a creature wearing a visible amulet of Yaarnak."
+										"I sacerdoti del re Yaarnak crearono amuleti ornamentali di giada per celebrare i sudditi più fedeli del re. Ognuno porta un disegno inquietante con una miscela di caratteristiche di capra e draconiche. Gli amuleti valgono 250 GP ciascuno. Uno o più amuleti di Yaarnak possono essere trovati nelle aree {@area H7a|3d5|x}, {@area H7d|3d4|x}, {@area H8|3d9|x} e {@area H12|3f0|x}. Non sono magici, ma la statua nel santuario (area {@area H15|3fa|x}) non tenta di pietrificare una creatura che indossa un amuleto visibile di Yaarnak."
 									]
 								},
 								{
@@ -608,7 +608,7 @@
 									"name": "Ceilings",
 									"id": "3c2",
 									"entries": [
-										"The cavern's rough natural ceilings are 50 feet high."
+										"I soffitti naturali grezzi della caverna sono alti 50 piedi."
 									]
 								},
 								{
@@ -616,7 +616,7 @@
 									"name": "Doors",
 									"id": "3c3",
 									"entries": [
-										"Haskasori's few doors are at the end of the bridge (area {@area H2|3c9|x}), at the entrance to the vault (area {@area H8|3d9|x}), and in the temple (area {@area H14|3f7|x}). These massive stone doors are sealed with powerful magic. The only way a creature can open a sealed door is by speaking or signing the passphrase \"Cozmioko grins\" in any language. Once opened, a door can't be resealed."
+										"Le poche porte di Haskasori si trovano alla fine del ponte (area {@area H2|3c9|x}), all'ingresso della cripta (area {@area H8|3d9|x}) e nel tempio (area {@area H14|3f7|x}). Queste enormi porte di pietra sono sigillate con una potente magia. L'unico modo in cui una creatura può aprire una porta sigillata è pronunciando o firmando la passphrase \"Cozmioko sorride\" in qualsiasi lingua. Una volta aperta, una porta non può essere richiusa."
 									]
 								},
 								{
@@ -624,7 +624,7 @@
 									"name": "Illumination",
 									"id": "3c4",
 									"entries": [
-										"Dim Light streaks into the southern part of Haskasori (areas {@area H1|3c7|x}\u2013{@area H3|3cc|x}) from outside. Unless otherwise noted, the rest of the ruins are shrouded in Darkness. Descriptions assume characters have a way of seeing in the dark."
+										"La luce fioca penetra nella parte meridionale di Haskasori (aree {@area H1|3c7|x}–{@area H3|3cc|x}) dall'esterno. Se non diversamente specificato, il resto delle rovine è avvolto nell'oscurità. Le descrizioni presuppongono che i personaggi abbiano un modo di vedere nell'oscurità."
 									]
 								},
 								{
@@ -632,8 +632,8 @@
 									"name": "Lightning Crystals",
 									"id": "3c5",
 									"entries": [
-										"Anthradusk's presence has caused crystal formations charged with lightning to grow throughout Haskasori. Each crystal formation is a Large object with AC 13; HP 60; and {@variantrule Immunity|XPHB} to Lightning, Poison, and Psychic damage.",
-										"When a crystal formation takes damage, each creature in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from that formation makes a {@dc 14} Dexterity saving throw, taking 14 ({@dice 4d6}) Lightning damage on a failed save or half as much damage on a successful one."
+										"La presenza di Anthradusk ha causato la crescita di formazioni cristalline cariche di fulmini in tutto Haskasori. Ogni formazione cristallina è un oggetto Grande con CA 13; HP 60; e {@variantrule Immunity|XPHB} ai danni da fulmine, veleno e psichici.",
+										"Quando una formazione di cristalli subisce danni, ogni creatura in un raggio di 9 metri {@variantrule Emanation [Area of Effect]|XPHB|Emanation} proveniente da quella formazione effettua un tiro salvezza su Destrezza {@dc 14} e subisce 14 ({@dice 4d6}) danni da fulmine se fallisce il tiro salvezza o la metà di questi danni se lo riesce."
 									]
 								}
 							]
@@ -4147,7 +4147,7 @@
 										}
 									]
 								},
-								"The following locations are keyed to Map: Haskasori.",
+								"Le seguenti posizioni sono collegate alla mappa: Haskasori.",
 								{
 									"type": "entries",
 									"name": "H1: Entry",
@@ -4157,11 +4157,11 @@
 											"type": "insetReadaloud",
 											"id": "3c8",
 											"entries": [
-												"The entry to Haskasori is a wide, cavernous archway carved into the base of a mountain. Inside the cave, shattered fragments of lavender crystal lie scattered about the feet of cracked and broken statues made of the same crystal. The statues depict panicked human, dwarf, and elf adventurers. From the western wall emerge formations of the same glassy crystal. A ramp and a pair of stairways descend to the northeast, while a broad passage opens to the east."
+												"L'ingresso ad Haskasori è un ampio arco cavernoso scavato nella base di una montagna. All'interno della grotta, frammenti di cristallo color lavanda giacciono sparsi ai piedi di statue incrinate e rotte fatte dello stesso cristallo. Le statue raffigurano avventurieri umani, nani ed elfi in preda al panico. Dalla parete occidentale emergono formazioni dello stesso cristallo vitreo. Una rampa e un paio di scalinate scendono a nord-est, mentre ad est si apre un ampio passaggio."
 											]
 										},
-										"The six mostly broken statues are the remains of a band of adventurers who sought shade in this cave and ran afoul of the basilisks in the promenade (area {@area H3|3cc|x}). All six were transformed into lightning crystal (see \"{@area Haskasori features|3c0|x}\") and then killed as the basilisks ate parts of their {@condition Petrified|XPHB} prey.",
-										"Loud noise here alerts the {@creature Basilisk|XMM|Basilisks} in area {@area H3|3cc|x}, which come to investigate."
+										"Le sei statue, per lo più rotte, sono i resti di un gruppo di avventurieri che cercarono riparo in questa grotta e si scontrarono con i basilischi sul lungomare (area {@area H3|3cc|x}). Tutti e sei furono trasformati in cristalli di fulmine (vedi \"{@area Haskasori features|3c0|x}\") e poi uccisi mentre i basilischi mangiavano parti delle loro prede {@condition Petrified|XPHB}.",
+										"Un forte rumore qui allerta i {@creature Basilisk|XMM|Basilisks} nell'area {@area H3|3cc|x}, che vengono a indagare."
 									]
 								},
 								{
@@ -4173,16 +4173,16 @@
 											"type": "insetReadaloud",
 											"id": "3ca",
 											"entries": [
-												"This bridge spans a chasm that falls away into darkness. At the bridge's far end loom the gates of Haskasori\u2014massive stone doors engraved with dragon-like figures."
+												"Questo ponte attraversa un abisso che cade nell'oscurità. All'estremità del ponte si profilano le porte di Haskasori: enormi porte di pietra incise con figure simili a draghi."
 											]
 										},
-										"The chasm floor lies 150 feet below the bridge. The chasm extends several hundred feet northwest and runs under the city's ruins, but it doesn't connect to anywhere else in Haskasori and terminates at a sandy dead end.",
+										"Il fondo del baratro si trova a 150 piedi sotto il ponte. L'abisso si estende per diverse centinaia di metri a nord-ovest e corre sotto le rovine della città, ma non si collega a nessun'altra parte di Haskasori e termina in un vicolo cieco sabbioso.",
 										{
 											"type": "entries",
 											"name": "Unsealing the Gate",
 											"id": "3cb",
 											"entries": [
-												"This gate is sealed with ancient magic and can be opened as described in \"Haskasori Features.\""
+												"Questo cancello è sigillato con un'antica magia e può essere aperto come descritto in \"Caratteristiche Haskasori\"."
 											]
 										}
 									]
@@ -4196,10 +4196,10 @@
 											"type": "insetReadaloud",
 											"id": "3cd",
 											"entries": [
-												"Wide openings in this promenade's north wall overlook Haskasori's stone bridge, the main gate, and a rocky outcropping that slopes into the chasm beneath the bridge."
+												"Ampie aperture nella parete nord di questa passeggiata si affacciano sul ponte di pietra di Haskasori, sul cancello principale e su un affioramento roccioso che degrada nell'abisso sotto il ponte."
 											]
 										},
-										"Five {@creature Basilisk|XMM|Basilisks} lounge in the tunnels between this promenade and the sinkhole to the east (area {@area H5|3d0|x}). If they notice anything in the promenade or the entry (area {@area H1|3c7|x}), the monsters scuttle out to ambush the characters. A creature that is given the {@condition Petrified|XPHB} condition by one of these basilisks turns into lightning crystal (see \"{@area Haskasori Features|3c0|x}\") instead of stone but can be restored as normal."
+										"Cinque {@creature Basilisk|XMM|Basilisks} si trovano nei tunnel tra questa passeggiata e la dolina a est (area {@area H5|3d0|x}). Se notano qualcosa sul lungomare o all'ingresso (area {@area H1|3c7|x}), i mostri scappano per tendere un'imboscata ai personaggi. Una creatura a cui viene data la condizione {@condition Petrified|XPHB} da uno di questi basilischi si trasforma in cristallo di fulmine (vedi \"{@area Haskasori Features|3c0|x}\") invece che in pietra, ma può essere ripristinata normalmente."
 									]
 								},
 								{
@@ -4211,11 +4211,11 @@
 											"type": "insetReadaloud",
 											"id": "3cf",
 											"entries": [
-												"In the center of this chamber floats a dimly glowing stone platform accessible by a short ramp. Gaps around the floating platform reveal a fifty-foot-deep shaft below. A stone staircase encircling the platform winds around the chamber and down the shaft."
+												"Al centro di questa camera fluttua una piattaforma di pietra debolmente luminosa accessibile tramite una breve rampa. Gli spazi attorno alla piattaforma galleggiante rivelano un pozzo profondo cinquanta piedi sottostante. Una scala in pietra che circonda la piattaforma si snoda intorno alla camera e scende lungo il pozzo."
 											]
 										},
-										"As a {@action Magic|XPHB} action, a creature on the floating platform or the adjacent ramp can prompt the platform to slowly descend or ascend 10 feet. The platform stops moving when it reaches the ramp at the top or bottom of the shaft.",
-										"At the bottom of the shaft, three wide tunnels offer paths to the ruins of Haskasori's homes and businesses (west; areas {@area H7|3d4|x}\u2013{@area H9|3df|x}), to the Pillars of Haskasori (north; area {@area H6|3d2|x}), and to the city's catacombs (east; areas {@area H11|3ea|x}\u2013{@area 13|3f4|x}), respectively."
+										"Come azione {@action Magic|XPHB}, una creatura sulla piattaforma galleggiante o sulla rampa adiacente può far scendere o salire lentamente la piattaforma di 3 metri. La piattaforma smette di muoversi quando raggiunge la rampa nella parte superiore o inferiore del pozzo.",
+										"Nella parte inferiore del pozzo, tre ampi tunnel offrono percorsi rispettivamente alle rovine delle case e delle attività commerciali di Haskasori (ovest; aree {@area H7|3d4|x}–{@area H9|3df|x}), ai Pilastri di Haskasori (nord; area {@area H6|3d2|x}) e alle catacombe della città (est; aree {@area H11|3ea|x}–{@area 13|3f4|x})."
 									]
 								},
 								{
@@ -4227,10 +4227,10 @@
 											"type": "insetReadaloud",
 											"id": "3d1",
 											"entries": [
-												"Massive crystal formations line the walls of this small cave network. Where the caves end, a sinkhole in the rock floor plunges fifty feet. At the bottom of the pit is a sandy grotto no wider than the sinkhole itself."
+												"Enormi formazioni cristalline rivestono le pareti di questa piccola rete di grotte. Dove finiscono le caverne, una dolina nel pavimento roccioso precipita per quindici metri. Sul fondo della fossa c'è una grotta sabbiosa non più larga della dolina stessa."
 											]
 										},
-										"The crystal formations are lightning crystals (see \"{@area Haskasori Features|3c0|x}\"). The loamy sand at the bottom of the sinkhole connects to a massive layer of sand that extends in all directions beneath Haskasori's rocky foundation. Anthradusk burrows through the sandy substratum here to circumvent the sealed main gate. The dragon emerges at a similar sinkhole approximately 250 feet to the north, in Haskasori's catacombs (area {@area H11|3ea|x})."
+										"Le formazioni cristalline sono cristalli di fulmine (vedi \"{@area Haskasori Features|3c0|x}\"). La sabbia argillosa sul fondo della dolina si collega a un massiccio strato di sabbia che si estende in tutte le direzioni sotto le fondamenta rocciose di Haskasori. L'Anthradusk si nasconde qui nel substrato sabbioso per aggirare il cancello principale sigillato. Il drago emerge da una dolina simile a circa 250 piedi a nord, nelle catacombe di Haskasori (area {@area H11|3ea|x})."
 									]
 								},
 								{
@@ -4253,10 +4253,10 @@
 											"type": "insetReadaloud",
 											"id": "3d3",
 											"entries": [
-												"Two rows of pillars line the walkway toward a large subterranean temple at the north end of this spacious cavern. Imposing statues of winged figures that combine human and draconic features stand in front of the four southernmost pillars. Massive crystal formations dot the walls. To the west, tunnels lead to other parts of the sandstone city."
+												"Due file di pilastri fiancheggiano il passaggio verso un grande tempio sotterraneo all'estremità nord di questa spaziosa caverna. Di fronte ai quattro pilastri più meridionali si trovano imponenti statue di figure alate che combinano caratteristiche umane e draconiche. Enormi formazioni cristalline punteggiano le pareti. A ovest, i tunnel conducono ad altre parti della città di arenaria."
 											]
 										},
-										"The crystal formations are lightning crystals (see \"{@area Haskasori Features|3c0|x}\"). The four statues are {@creature Gargoyle|XMM|Gargoyles}, which serve the genie in the tower (area {@area H9|3df|x}). They fight to the death if provoked to combat; if left undisturbed, they instead slip away to warn their boss of the intruders."
+										"Le formazioni cristalline sono cristalli di fulmine (vedi \"{@area Haskasori Features|3c0|x}\"). Le quattro statue sono {@creature Gargoyle|XMM|Gargoyles} che servono il genio nella torre (area {@area H9|3df|x}). Combattono fino alla morte se provocati a combattere; se lasciati indisturbati, scappano invece per avvertire il loro capo degli intrusi."
 									]
 								},
 								{
@@ -4264,13 +4264,13 @@
 									"name": "H7: City Ruins",
 									"id": "3d4",
 									"entries": [
-										"These chambers were once workplaces and abodes used by Haskasori's people. The tunnels in the western wall, which used to connect to many more chambers, caved in long ago.",
+										"Queste camere un tempo erano luoghi di lavoro e dimore utilizzate dalla gente di Haskasori. I tunnel nel muro occidentale, che un tempo si collegavano a molte altre camere, crollarono molto tempo fa.",
 										{
 											"type": "entries",
 											"name": "H7a: High Priests' Quarters",
 											"id": "3d5",
 											"entries": [
-												"Two amulets of Yaarnak (see \"Haskasori Features\") can be found among this chamber's sparse stone furnishings."
+												"Due amuleti di Yaarnak (vedi \"Caratteristiche Haskasori\") possono essere trovati tra gli scarsi arredi in pietra di questa camera."
 											]
 										},
 										{
@@ -4278,7 +4278,7 @@
 											"name": "H7b: Dormitory",
 											"id": "3d6",
 											"entries": [
-												"No obvious treasure remains in this crumbling chamber. Characters looking for relics of Haskasori to claim and sell can find mundane tools and records here (see \"{@area Conclusion|407|x}\" for details)."
+												"Nessun tesoro evidente rimane in questa camera fatiscente. I personaggi che cercano reliquie di Haskasori da rivendicare e vendere possono trovare strumenti e documenti banali qui (vedi \"{@area Conclusion|407|x}\" per i dettagli)."
 											]
 										},
 										{
@@ -4286,7 +4286,7 @@
 											"name": "H7c: City Sculpture",
 											"id": "3d7",
 											"entries": [
-												"In the center of this chamber stands an immovable 10-foot cube of pink sandstone. The cube's top face has been carved into a miniature sculpture of the butte-like mountain housing Haskasori. Characters who examine the sculpture notice animated sandstone birds and goats roaming around; occasionally a majestic brass dragon soars over the scene. This sculpture is a magically animated model depicting Haskasori during its heyday. As a {@action Search|XPHB} action, a character can study the sculpture and make a {@dc 12} Intelligence ({@skill Investigation|XPHB}) check. On a success, the character realizes the model depicts this area in the past, not the current day."
+												"Al centro di questa camera si trova un cubo inamovibile di 3 metri di arenaria rosa. La faccia superiore del cubo è stata scolpita in una scultura in miniatura della montagna a forma di butte che ospita Haskasori. I personaggi che esaminano la scultura notano uccelli e capre di arenaria animati che vagano intorno; di tanto in tanto un maestoso drago di ottone svetta sulla scena. Questa scultura è un modello magicamente animato che raffigura Haskasori durante il suo periodo di massimo splendore. Come azione {@action Search|XPHB}, un personaggio può studiare la scultura ed effettuare una prova di {@dc 12} Intelligenza ({@skill Investigation|XPHB}). In caso di successo, il personaggio si rende conto che il modello raffigura quest'area nel passato, non nel presente."
 											]
 										},
 										{
@@ -4294,7 +4294,7 @@
 											"name": "H7d: Well",
 											"id": "3d8",
 											"entries": [
-												"As a {@action Search|XPHB} action, a character can peer down this dried-up, 30-foot-deep well and make a {@dc 16} Wisdom ({@skill Perception|XPHB}) check. On a success, the character spots a green stone amulet of Yaarnak (see \"{@area Haskasori Features|3c0|x}\") at the bottom of the well."
+												"Come azione {@action Search|XPHB}, un personaggio può scrutare questo pozzo prosciugato, profondo 9 metri ed effettuare una prova di {@dc 16} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio individua un amuleto di pietra verde di Yaarnak (vedi \"{@area Haskasori Features|3c0|x}\") sul fondo del pozzo."
 											]
 										}
 									]
@@ -4304,29 +4304,29 @@
 									"name": "H8: Vault",
 									"id": "3d9",
 									"entries": [
-										"The cracked stone door to this chamber is sealed like the other doors in the city (see \"{@area Haskasori Features|3c0|x}\").",
+										"La porta di pietra crepata di questa camera è sigillata come le altre porte della città (vedi \"{@area Haskasori Features|3c0|x}\").",
 										{
 											"type": "insetReadaloud",
 											"id": "3da",
 											"entries": [
-												"Pieces of colorful pottery lie broken along the walls of this octagonal chamber. All that remains intact is a three-foot-high sandstone altar. Atop it sits a ceramic figure of a baleful half-goat, half-dragon creature. A cloud of black dust swirls around the statue."
+												"Pezzi di ceramica colorata giacciono rotti lungo le pareti di questa camera ottagonale. Tutto ciò che rimane intatto è un altare in arenaria alto tre piedi. In cima si trova una figura in ceramica di una funesta creatura metà capra e metà drago. Una nuvola di polvere nera turbina attorno alla statua."
 											]
 										},
-										"This chamber is a memorial to Haskasori's final ruler, Yaarnak. The ruler's body isn't interred here, though; his corpse rests in a separate tomb (area {@area H13|3f4|x}). The statue depicts Yaarnak's bizarre emblem of rule: a corruption of a brass dragon with \"wise\" goat features.",
+										"Questa camera è un memoriale dell'ultimo sovrano di Haskasori, Yaarnak. Il corpo del sovrano, però, non è sepolto qui; il suo cadavere riposa in una tomba separata (area {@area H13|3f4|x}). La statua raffigura il bizzarro emblema del governo di Yaarnak: la corruzione di un drago di ottone con tratti di capra \"saggi\".",
 										{
 											"type": "entries",
 											"name": "Hear the Voice of Yaarnak",
 											"id": "3db",
 											"entries": [
-												"Soon after the characters enter the room, they hear a hissing voice:",
+												"Subito dopo che i personaggi entrano nella stanza, sentono una voce sibilante:",
 												{
 													"type": "insetReadaloud",
 													"id": "3dc",
 													"entries": [
-														"\"Return my scepter to its rightful place,\" an imperious voice demands, \"or face my wrath!\" The black dust coalesces into the lanky shape of an emaciated halfling, rotting bandages and brass chains covering his decaying flesh. A proud, sinister grin stretches across his withered face."
+														"\"Riporta il mio scettro al suo giusto posto\", chiede una voce imperiosa, \"o affronta la mia ira!\" La polvere nera si fonde nella forma allampanata di un halfling emaciato, con bende marce e catene di ottone che ricoprono la sua carne in decomposizione. Un sorriso orgoglioso e sinistro si estende sul suo viso avvizzito."
 													]
 												},
-												"The dust forms into Yaarnak, a Small {@creature Mummy Lord|XMM}. Yaarnak wants his staff recovered from the dragon's den (area {@area H10|3e7|x}) and returned to his tomb (area {@area H13|3f4|x}). If the characters do so, Yaarnak is appeased and vanishes; award the characters Experience Points for having defeated the mummy. If they try to leave Haskasori without returning the staff, the mummy pursues them and fights until destroyed."
+												"La polvere si forma in Yaarnak, un Piccolo {@creature Mummy Lord|XMM}. Yaarnak vuole che il suo bastone venga recuperato dalla tana del drago (area {@area H10|3e7|x}) e restituito alla sua tomba (area {@area H13|3f4|x}). Se i personaggi lo fanno, Yaarnak si placa e svanisce; assegna Punti Esperienza ai personaggi per aver sconfitto la mummia. Se tentano di lasciare Haskasori senza restituire il bastone, la mummia li insegue e combatte finché non viene distrutta."
 											]
 										},
 										{
@@ -4334,7 +4334,7 @@
 											"name": "Mummy Lord's Heart",
 											"id": "3dd",
 											"entries": [
-												"The statue here is a Small object with AC 13, HP 10, and {@variantrule Immunity|XPHB} to Poison and Psychic damage. Within lies Yaarnak's shriveled heart."
+												"La statua qui è un oggetto piccolo con CA 13, HP 10 e {@variantrule Immunity|XPHB} ai danni da veleno e psichici. All'interno giace il cuore avvizzito di Yaarnak."
 											]
 										},
 										{
@@ -4342,7 +4342,7 @@
 											"name": "Treasure",
 											"id": "3de",
 											"entries": [
-												"The brass chains wrapped around Yaarnak's body are worth 800 GP total. Any character who sifts through the broken jars and succeeds on a {@dc 12} Wisdom ({@skill Perception|XPHB}) check discovers an amulet of Yaarnak (see \"{@area Haskasori Features|3c0|x}\")."
+												"Le catene di ottone avvolte attorno al corpo di Yaarnak valgono 800 GP in totale. Qualsiasi personaggio che fruga tra i barattoli rotti e supera una prova di Saggezza {@dc 12} ({@skill Perception|XPHB}) scopre un amuleto di Yaarnak (vedi \"{@area Haskasori Features|3c0|x}\")."
 											]
 										}
 									]
@@ -4356,17 +4356,17 @@
 											"type": "insetReadaloud",
 											"id": "3e0",
 											"entries": [
-												"This wide sandstone tower is divided into three levels, the uppermost being a rooftop about twenty feet below the cavern's fifty-foot-high ceiling. A ramp outside the tower leads from the ground to the rooftop.1"
+												"Questa ampia torre di arenaria è divisa in tre livelli, il più alto è un tetto a circa sei metri sotto il soffitto alto quindici metri della caverna. Una rampa esterna alla torre conduce dal suolo al tetto.1"
 											]
 										},
-										"Each floor of the tower is a single area. A magical floating platform just like the one in area {@area H4|3ce|x} connects the three levels.",
+										"Ogni piano della torre è un'unica area. Una magica piattaforma galleggiante proprio come quella nell'area {@area H4|3ce|x} collega i tre livelli.",
 										{
 											"type": "entries",
 											"name": "Rummox",
 											"id": "3e1",
 											"entries": [
-												"Anthradusk's genie companion, Rummox (Neutral Evil {@creature Dao|XMM}), dwells in this opulent tower. She ostensibly keeps a lookout for intruders, but in reality she spends most of her time studying ancient texts and plotting her betrayal of Anthradusk. She is Indifferent toward the characters.",
-												"If Rummox was not alerted to the characters' arrival, she is in her bedchamber (area {@area H9b|3e4|x}). In this case, she has no interest in fighting them and immediately surrenders. See \"Traitorous Adviser\" for details about interacting with her."
+												"Il genio compagno di Anthradusk, Rummox (Malvagio Neutrale {@creature Dao|XMM}), dimora in questa torre opulenta. Apparentemente tiene d'occhio gli intrusi, ma in realtà trascorre la maggior parte del suo tempo studiando testi antichi e complottando il suo tradimento di Anthradusk. È indifferente verso i personaggi.",
+												"Se Rummox non è stata avvisata dell'arrivo dei personaggi, si trova nella sua camera da letto (area {@area H9b|3e4|x}). In questo caso non ha interesse a combatterli e si arrende immediatamente. Vedi \"Consigliere traditore\" per i dettagli su come interagire con lei."
 											]
 										},
 										{
@@ -4374,7 +4374,7 @@
 											"name": "Forewarned",
 											"id": "3e2",
 											"entries": [
-												"If the gargoyles in area {@area H6|3d2|x} alert Rummox to the party's presence, the genie and all four {@creature Gargoyle|XMM|Gargoyles} keep watch from the rooftop (area {@area H9c|3e5|x}). If they notice the party's approach, they descend to intercept the characters before the characters enter the tower. Rummox makes a half-hearted attempt to drive the characters off, but she surrenders if she becomes {@status Bloodied|XPHB}. A character can also take an Influence action and make a {@dc 15} Charisma ({@skill Intimidation|XPHB} or {@skill Persuasion|XPHB}) check to urge Rummox to surrender and cooperate with them. See \"Traitorous Adviser\" if she surrenders."
+												"Se i gargoyle nell'area {@area H6|3d2|x} avvisano Rummox della presenza del gruppo, il genio e tutti e quattro {@creature Gargoyle|XMM|Gargoyles} vegliano dal tetto (area {@area H9c|3e5|x}). Se notano l'avvicinarsi del gruppo, scendono per intercettare i personaggi prima che questi entrino nella torre. Rummox fa un timido tentativo di scacciare i personaggi, ma si arrende se diventa {@status Bloodied|XPHB}. Un personaggio può anche eseguire un'azione Influenza ed effettuare una prova di Carisma ({@skill Intimidation|XPHB} o {@skill Persuasion|XPHB}) per spingere Rummox ad arrendersi e collaborare con lui. Vedi \"Consigliere traditore\" se si arrende."
 											]
 										},
 										{
@@ -4382,7 +4382,7 @@
 											"name": "H9a: Library",
 											"id": "3e3",
 											"entries": [
-												"The tower's ground floor is stocked with precious texts. The entire collection, which includes over 200 tomes and even more scrolls, is worth 5,000 GP. A character who spends 15 minutes perusing the library finds two {@item Spell Scroll|XDMG|Spell Scrolls} of {@spell Greater Restoration|XPHB}. Characters looking for relics of Haskasori to sell can find various interesting histories here (see \"{@area Conclusion|407|x}\" for details)."
+												"Il piano terra della torre è ricco di testi preziosi. L'intera collezione, che comprende oltre 200 tomi e ancora più pergamene, vale 5.000 GP. Un personaggio che trascorre 15 minuti esaminando la biblioteca trova due {@item Spell Scroll|XDMG|Spell Scrolls} di {@spell Greater Restoration|XPHB}. I personaggi che cercano reliquie di Haskasori da vendere possono trovare varie storie interessanti qui (vedi \"{@area Conclusion|407|x}\" per i dettagli)."
 											]
 										},
 										{
@@ -4390,7 +4390,7 @@
 											"name": "H9b: Bedchamber",
 											"id": "3e4",
 											"entries": [
-												"Ornate rugs, fine sculptures, and supple silks fill this opulent private chamber. As a {@action Search|XPHB} action, a character can search the room and make a {@dc 16} Wisdom ({@skill Perception|XPHB}) check. On a success, the character finds an {@item Efreeti Bottle|XDMG} inside a secret cubbyhole in one of the walls."
+												"Tappeti decorati, sculture pregiate e sete morbide riempiono questa opulenta camera privata. Come azione {@action Search|XPHB}, un personaggio può perquisire la stanza ed effettuare una prova di {@dc 16} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio trova un {@item Efreeti Bottle|XDMG} all'interno di un ripostiglio segreto in uno dei muri."
 											]
 										},
 										{
@@ -4398,7 +4398,7 @@
 											"name": "H9c: Rooftop",
 											"id": "3e5",
 											"entries": [
-												"Protruding from the ramp connecting to the northern section of this roof, a stone bridge leads to a caved-in tunnel. It once connected to what is now the dragon's den (area {@area H10|3e7|x}). Rubble obstructs the tunnel. As a {@action Study|XPHB} action, a character can examine the rubble and make a {@dc 13} Intelligence ({@skill Investigation|XPHB}) check. Characters with {@sense Tremorsense|XPHB} have {@variantrule Advantage|XPHB} on the check. On a success, the character determines the rubble is about 10 feet thick, and that excavating the rocks by hand would take about 1 hour."
+												"Un ponte di pietra che sporge dalla rampa che collega alla sezione settentrionale di questo tetto conduce ad un tunnel scavato. Una volta era collegato a quella che ora è la tana del drago (area {@area H10|3e7|x}). Le macerie ostruiscono il tunnel. Come azione {@action Study|XPHB}, un personaggio può esaminare le macerie ed effettuare una prova di {@dc 13} Intelligenza ({@skill Investigation|XPHB}). I personaggi con {@sense Tremorsense|XPHB} hanno {@variantrule Advantage|XPHB} sull'assegno. In caso di successo, il personaggio determina che le macerie sono spesse circa 3 metri e che scavare le rocce a mano richiederebbe circa 1 ora."
 											]
 										},
 										{
@@ -4406,7 +4406,7 @@
 											"name": "Traitorous Adviser",
 											"id": "3e6",
 											"entries": [
-												"Should Rummox surrender, she answers questions about the following topics:",
+												"Se Rummox dovesse arrendersi, risponderà alle domande sui seguenti argomenti:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -4414,21 +4414,21 @@
 														{
 															"type": "item",
 															"name": "Anthradusk",
-															"entry": "The ancient blue dragon created a den (area {@area H10|3e7|x}) attached to the temple sanctum (area {@area H15|3fa|x}). A tunnel just north of the genie's tower once led directly to this den, but Anthradusk collapsed part of it. Most of the tunnel remains, though, and it isn't blocked by much rock."
+															"entry": "L'antico drago blu creò una tana (area {@area H10|3e7|x}) attaccata al santuario del tempio (area {@area H15|3fa|x}). Un tunnel appena a nord della torre del Genio una volta conduceva direttamente a questa tana, ma Anthradusk ne fece crollare una parte. La maggior parte del tunnel rimane, tuttavia, e non è bloccata da molte rocce."
 														},
 														{
 															"type": "item",
 															"name": "Basilisk Statue",
-															"entry": "The statue in the temple sanctum petrifies those it gazes on. The statue won't petrify those wearing an amulet of Yaarnak, though (see \"{@area Haskasori Features|3c0|x}\")."
+															"entry": "La statua nel santuario del tempio pietrifica coloro su cui guarda. Tuttavia, la statua non pietrificherà coloro che indossano un amuleto di Yaarnak (vedi \"{@area Haskasori Features|3c0|x}\")."
 														},
 														{
 															"type": "item",
 															"name": "Yaarnak",
-															"entry": "The city's former ruler, Yaarnak, lurks in the ruins to the south (area {@area H8|3d9|x}). Anthradusk stole the mummy lord's staff and keeps it in his den (area {@area H10|3e7|x}), which is accessible from the balcony over the temple sanctum."
+															"entry": "L'ex sovrano della città, Yaarnak, si nasconde tra le rovine a sud (area {@area H8|3d9|x}). Anthradusk ha rubato il bastone del signore delle mummie e lo tiene nella sua tana (area {@area H10|3e7|x}), accessibile dal balcone sopra il santuario del tempio."
 														}
 													]
 												},
-												"Though Rummox intends to betray Anthradusk, she refuses to fight the dragon alongside the party and avoids revealing her traitorous plans."
+												"Sebbene Rummox intenda tradire Anthradusk, rifiuta di combattere il drago a fianco del gruppo ed evita di rivelare i suoi piani traditori."
 											]
 										}
 									]
@@ -4438,21 +4438,21 @@
 									"name": "H10: Anthradusk's Den",
 									"id": "3e7",
 									"entries": [
-										"This area can be accessed from the upper level of the sanctum (area {@area H15|3fa|x}). It once connected to the genie's tower (area {@area H9c|3e5|x}).",
+										"È possibile accedere a quest'area dal livello superiore del santuario (area {@area H15|3fa|x}). Una volta era collegato alla torre del genio (area {@area H9c|3e5|x}).",
 										{
 											"type": "insetReadaloud",
 											"id": "3e8",
 											"entries": [
-												"Massive crystal formations fill this broad cavern's nooks and niches. A particularly massive formation to the south holds an ornate shape inside."
+												"Enormi formazioni cristalline riempiono gli angoli e le nicchie di questa ampia caverna. Una formazione particolarmente massiccia a sud conserva una forma ornata all'interno."
 											]
 										},
-										"The crystal formations here are lightning crystals (see \"{@area Haskasori Features|3c0|x}\").",
+										"Le formazioni cristalline qui sono cristalli di fulmine (vedi \"{@area Haskasori Features|3c0|x}\").",
 										{
 											"type": "entries",
 											"name": "Yaarnak's Scepter",
 											"id": "3e9",
 											"entries": [
-												"A character who studies the massive crystal formation notices a rod-shaped item encased within. Breaking the crystal formation frees a bone scepter wrapped in the scaly hide of a blue dragon. This is a {@item Rod of Rulership|XDMG}, the scepter Yaarnak covets (see area {@area H8|3d9|x})."
+												"Un personaggio che studia l'enorme formazione di cristalli nota un oggetto a forma di bastoncino racchiuso al suo interno. Rompendo la formazione dei cristalli si libera uno scettro d'osso avvolto nella pelle scagliosa di un drago blu. Questo è un {@item Rod of Rulership|XDMG}, lo scettro tanto ambito da Yaarnak (vedi area {@area H8|3d9|x})."
 											]
 										}
 									]
@@ -4476,16 +4476,16 @@
 											"type": "insetReadaloud",
 											"id": "3eb",
 											"entries": [
-												"Alcoves of all shapes and sizes line these musty halls. Some nooks are wide shelves holding scraps of linen and broken bones, while other recesses bear shards of pottery and scattered ashes. Shuffling footsteps echo in the tunnels."
+												"Alcove di tutte le forme e dimensioni fiancheggiano queste sale ammuffite. Alcuni angoli sono ampi scaffali che contengono brandelli di biancheria e ossa rotte, mentre altri recessi portano frammenti di ceramica e ceneri sparse. Passi strascicati risuonano nei tunnel."
 											]
 										},
-										"Eight {@creature Mummy|XMM|Mummies} are scattered throughout these catacombs. These guardians are Hostile toward all non-Undead. Once they were loyal guards of King Yaarnak. When Anthradusk took the scepter from the king's tomb, the guards roused from their slumber to search for the villain who defiled their master's grave. When the characters enter combat with one mummy, roll {@dice 1d6} to determine how many more mummies arrive on the scene at the start of the second round of combat. The rest arrive at the start of round 3.",
+										"Otto {@creature Mummy|XMM|Mummies} sono sparsi in queste catacombe. Questi guardiani sono ostili verso tutti i non morti. Un tempo erano leali guardie del re Yaarnak. Quando Anthradusk prese lo scettro dalla tomba del re, le guardie si svegliarono dal loro sonno per cercare il cattivo che aveva profanato la tomba del loro padrone. Quando i personaggi entrano in combattimento con una mummia, tira {@dice 1d6} per determinare quante altre mummie arrivano sulla scena all'inizio del secondo round di combattimento. Il resto arriva all'inizio del round 3.",
 										{
 											"type": "entries",
 											"name": "Dead-End Stairs",
 											"id": "3ec",
 											"entries": [
-												"Near the north end of the tunnel, stairs curve west through a rough-hewn passage and then end in a wall of worked stone. As a {@action Search|XPHB} action, a character can search the wall and make a {@dc 12} Wisdom ({@skill Perception|XPHB}) check. On a success, the character notices a button worked into the stone. Pressing the button causes the wall to slide away, revealing a passage through the base of a statue into the temple (area {@area H14|3f7|x})."
+												"Vicino all'estremità nord del tunnel, le scale curvano verso ovest attraverso un passaggio sbozzato e poi terminano in un muro di pietra lavorata. Come azione {@action Search|XPHB}, un personaggio può frugare nel muro ed effettuare una prova di Saggezza {@dc 12} ({@skill Perception|XPHB}). In caso di successo, il personaggio nota un pulsante inserito nella pietra. Premendo il pulsante il muro scivola via, rivelando un passaggio attraverso la base di una statua nel tempio (area {@area H14|3f7|x})."
 											]
 										},
 										{
@@ -4493,7 +4493,7 @@
 											"name": "Relics",
 											"id": "3ed",
 											"entries": [
-												"Characters looking for relics of Haskasori to sell can find varied burial items here (see \"{@area Conclusion|407|x}\" for details)."
+												"I personaggi che cercano reliquie di Haskasori da vendere possono trovare vari oggetti funerari qui (vedi \"{@area Conclusion|407|x}\" per i dettagli)."
 											]
 										},
 										{
@@ -4501,7 +4501,7 @@
 											"name": "Lightning Crystals",
 											"id": "3ee",
 											"entries": [
-												"In the northern part of this area, massive lightning crystal formations dot the walls (see \"{@area Haskasori Features|3c0|x}\")."
+												"Nella parte settentrionale di questa zona, massicce formazioni di cristalli di fulmine punteggiano le pareti (vedi \"{@area Haskasori Features|3c0|x}\")."
 											]
 										},
 										{
@@ -4509,7 +4509,7 @@
 											"name": "Sinkhole",
 											"id": "3ef",
 											"entries": [
-												"The sinkhole Anthradusk uses to enter the ruined city lies in the northern section of catacombs; it's just like the one in area {@area H5|3d0|x}."
+												"La dolina che Anthradusk usa per entrare nella città in rovina si trova nella sezione settentrionale delle catacombe; è proprio come quello nell'area {@area H5|3d0|x}."
 											]
 										}
 									]
@@ -4523,16 +4523,16 @@
 											"type": "insetReadaloud",
 											"id": "3f1",
 											"entries": [
-												"A sandstone statue stands at the end of this finely hewn catacomb chamber. The statue depicts a sphinx holding a quarterstaff. Around the statue is a stone font filled with crystal-clear water."
+												"Una statua in arenaria si trova all'estremità di questa camera della catacomba finemente scolpita. La statua raffigura una sfinge che tiene in mano un bastone ferrato. Intorno alla statua c'è una fonte battesimale in pietra piena di acqua cristallina."
 											]
 										},
-										"Any creature that approaches the statue notices an amulet of Yaarnak at the bottom of the font (see \"{@area Haskasori Features|3c0|x}\").",
+										"Qualsiasi creatura che si avvicina alla statua nota un amuleto di Yaarnak nella parte inferiore del fonte battesimale (vedi \"{@area Haskasori Features|3c0|x}\").",
 										{
 											"type": "entries",
 											"name": "Crystallizing Water",
 											"id": "3f2",
 											"entries": [
-												"Anthradusk's presence has tainted the once-restorative magic of this font. Any creature that touches the water must succeed on a {@dc 20} Constitution saving throw or have the {@condition Petrified|XPHB} condition and be turned into lightning crystal (see \"{@area Haskasori Features|3c0|x}\")."
+												"La presenza di Anthradusk ha contaminato la magia, un tempo rigeneratrice, di questa fonte. Qualsiasi creatura che tocca l'acqua deve riuscire in un tiro salvezza su Costituzione {@dc 20} o avere la condizione {@condition Petrified|XPHB} ed essere trasformata in cristallo di fulmine (vedi \"{@area Haskasori Features|3c0|x}\")."
 											]
 										},
 										{
@@ -4540,7 +4540,7 @@
 											"name": "Treasure",
 											"id": "3f3",
 											"entries": [
-												"As a {@action Search|XPHB} action, a character can examine the statue's quarterstaff and make a {@dc 12} Wisdom ({@skill Perception|XPHB}) check. On a success, the character finds a {@item Potion of Longevity|XDMG} hidden inside the hollow staff's false bottom."
+												"Come azione {@action Search|XPHB}, un personaggio può esaminare il bastone ferrato della statua ed effettuare una prova di {@dc 12} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio trova un {@item Potion of Longevity|XDMG} nascosto nel doppio fondo del bastone cavo."
 											]
 										}
 									]
@@ -4554,16 +4554,16 @@
 											"type": "insetReadaloud",
 											"id": "3f5",
 											"entries": [
-												"Stone statues of monstrous bipeds stand in the far corners of this tomb, backlit by eerie firelight. The ornate sarcophagus at the raised head of the chamber lies in disarray, its lid removed and carelessly tipped to the side."
+												"Statue di pietra di mostruosi bipedi si trovano negli angoli più remoti di questa tomba, illuminate dalla misteriosa luce del fuoco. Il sarcofago decorato sulla sommità rialzata della camera giace in disordine, con il coperchio rimosso e inclinato con noncuranza di lato."
 											]
 										},
-										"Six {@creature Flameskull|XMM|Flameskulls} lurk behind the stone statues in the far corners of this tomb. They are Friendly toward a creature holding Yaarnak's scepter (and that creature's allies); they fight all other creatures.",
+										"Sei {@creature Flameskull|XMM|Flameskulls} si nascondono dietro le statue di pietra negli angoli più remoti di questa tomba. Sono Amichevoli verso una creatura che detiene lo scettro di Yaarnak (e gli alleati di quella creatura); combattono tutte le altre creature.",
 										{
 											"type": "entries",
 											"name": "Returning the Scepter",
 											"id": "3f6",
 											"entries": [
-												"If a character returns Yaarnak's scepter (see area {@area H10|3e7|x}) to the sarcophagus here, the skulls guarding the chamber die and clatter to the floor. The sarcophagus's heavy lid slowly closes, and a bone-rattling sigh echoes throughout Haskasori as Yaarnak's spirit is put to rest. So long as the scepter remains in the sarcophagus, Yaarnak ceases to haunt the city."
+												"Se un personaggio restituisce lo scettro di Yaarnak (vedi area {@area H10|3e7|x}) nel sarcofago qui, i teschi a guardia della camera muoiono e cadono rumorosamente sul pavimento. Il pesante coperchio del sarcofago si chiude lentamente e un sospiro tremante echeggia in tutto Haskasori mentre lo spirito di Yaarnak viene messo a riposo. Finché lo scettro rimane nel sarcofago, Yaarnak cessa di infestare la città."
 											]
 										}
 									]
@@ -4577,16 +4577,16 @@
 											"type": "insetReadaloud",
 											"id": "3f8",
 											"entries": [
-												"Six twenty-foot-tall statues of dragon-headed humanoids fill the alcoves along this temple's northern wall. The statues flank a pair of massive stone doors. Floor-to-ceiling pillars connected by low stone railings separate the raised temple floor from the rest of the underground city."
+												"Sei statue alte sei metri di umanoidi dalla testa di drago riempiono le nicchie lungo il muro settentrionale di questo tempio. Le statue fiancheggiano una coppia di massicce porte di pietra. Pilastri dal pavimento al soffitto collegati da basse ringhiere in pietra separano il pavimento rialzato del tempio dal resto della città sotterranea."
 											]
 										},
-										"As a {@action Search|XPHB} action, a character can investigate the easternmost statue and make a {@dc 14} Wisdom ({@skill Perception|XPHB}) check. On a success, the character notices a button hidden along the base. Pressing the button causes the statue's lower half to shift aside, revealing a secret passage leading to the north end of the catacombs (area {@area H11|3ea|x}).",
+										"Come azione {@action Search|XPHB}, un personaggio può indagare sulla statua più a est ed effettuare una prova di {@dc 14} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio nota un pulsante nascosto lungo la base. Premendo il pulsante la metà inferiore della statua si sposta di lato, rivelando un passaggio segreto che conduce all'estremità nord delle catacombe (area {@area H11|3ea|x}).",
 										{
 											"type": "entries",
 											"name": "Sanctum Doors",
 											"id": "3f9",
 											"entries": [
-												"The magically sealed doors to the sanctum (area {@area H15|3fa|x}) can be opened as detailed in \"Haskasori Features.\""
+												"Le porte magicamente sigillate del santuario (area {@area H15|3fa|x}) possono essere aperte come spiegato in \"Caratteristiche Haskasori\"."
 											]
 										}
 									]
@@ -4600,16 +4600,16 @@
 											"type": "insetReadaloud",
 											"id": "3fb",
 											"entries": [
-												"A statue of a monstrous, basilisk-headed figure presides over this sanctum. The statue's eyes glow bright green, casting the entire room in an eerie light."
+												"Una statua di una figura mostruosa con la testa di basilisco presiede questo santuario. Gli occhi della statua brillano di un verde brillante, proiettando l'intera stanza in una luce inquietante."
 											]
 										},
-										"The statue's glowing eyes emit Bright Light in a 30-foot radius and {@variantrule Dim Light|XPHB} for an additional 30 feet.",
+										"Gli occhi luminosi della statua emettono luce intensa in un raggio di 9 metri e {@variantrule Dim Light|XPHB} per altri 9 metri.",
 										{
 											"type": "entries",
 											"name": "Petrifying Statue",
 											"id": "3fc",
 											"entries": [
-												"When a creature not wearing an amulet of Yaarnak (see \"{@area Haskasori Features|3c0|x}\") enters the statue's area of {@variantrule Bright Light|XPHB} for the first time on a turn or starts its turn there, the creature makes a {@dc 15} Constitution saving throw. On a failed save, the creature begins to turn to crystal, has the {@condition Restrained|XPHB} condition, and repeats the save at the end of its next turn. On a second failed save, the creature has the {@condition Petrified|XPHB} condition until freed by the {@spell Greater Restoration|XPHB} spell or other magic. On a successful save, the effect ends. A creature Petrified by the statue turns into lightning crystal (detailed in \"Haskasori Features\")."
+												"Quando una creatura che non indossa un amuleto di Yaarnak (vedi \"{@area Haskasori Features|3c0|x}\") entra nell'area della statua di {@variantrule Bright Light|XPHB} per la prima volta in un turno o inizia lì il suo turno, la creatura effettua un tiro salvezza su Costituzione {@dc 15}. Se il tiro salvezza fallisce, la creatura inizia a trasformarsi in cristallo, ha la condizione {@condition Restrained|XPHB} e ripete il tiro salvezza alla fine del suo turno successivo. In caso di secondo tiro salvezza fallito, la creatura mantiene la condizione {@condition Petrified|XPHB} finché non viene liberata dall'incantesimo {@spell Greater Restoration|XPHB} o da altra magia. Se il tiro salvezza riesce, l'effetto termina. Una creatura pietrificata dalla statua si trasforma in cristallo di fulmine (dettagliato in \"Caratteristiche Haskasori\")."
 											]
 										},
 										{
@@ -4617,7 +4617,7 @@
 											"name": "Balcony",
 											"id": "3fd",
 											"entries": [
-												"A staircase in the southwest corner connects to a balcony that overlooks the sanctum's ground floor. A tunnel leads west from the balcony to the dragon's den (area {@area H10|3e7|x})."
+												"Una scala nell'angolo sud-ovest si collega ad un balcone che si affaccia sul piano terra del santuario. Un tunnel conduce a ovest dal balcone alla tana del drago (area {@area H10|3e7|x})."
 											]
 										}
 									]
@@ -4631,16 +4631,16 @@
 											"type": "insetReadaloud",
 											"id": "3ff",
 											"entries": [
-												"Mounds of coins and valuable treasures lie heaped in the center of this chamber, and crystal formations line its walls. The treasures' magnificence is eclipsed, however, by the macabre scene all around. The bones and hide of a brass dragon are arranged throughout the southern part of the chamber to emphasize a black stone altar along the southern wall. Mounted to the wall opposite the altar hangs an incomplete skeletal effigy of a different, far more terrifying dragon. Its bones are studded with brilliant blue gemstones."
+												"Cumuli di monete e tesori preziosi giacciono ammucchiati al centro di questa camera, e formazioni di cristalli rivestono le sue pareti. La magnificenza dei tesori è però eclissata dalla macabra scena tutt'intorno. Le ossa e la pelle di un drago di ottone sono disposte nella parte meridionale della camera per enfatizzare un altare di pietra nera lungo la parete meridionale. Sulla parete opposta all'altare è appesa l'effigie scheletrica incompleta di un drago diverso e molto più terrificante. Le sue ossa sono tempestate di gemme blu brillanti."
 											]
 										},
-										"In this defiled sanctuary, Anthradusk displays the bones of one of his ancestors along with Cozmioko's remains. The crystal formations are lightning crystals (see \"{@area Haskasori Features|3c0|x}\").",
+										"In questo santuario contaminato, Anthradusk mostra le ossa di uno dei suoi antenati insieme ai resti di Cozmioko. Le formazioni cristalline sono cristalli di fulmine (vedi \"{@area Haskasori Features|3c0|x}\").",
 										{
 											"type": "entries",
 											"name": "Empowering the Egg",
 											"id": "400",
 											"entries": [
-												"If the characters bring the Brazen Egg into this area, it begins shedding a faint, warm light. The egg grows warm to the touch and cracks open, revealing a faintly pulsing light within. The characters can't open the egg more, and they don't have an opportunity to investigate much further, as a thunderous noise shakes the ruins. Proceed to \"Anthradusk's Return\" once the characters take any items from the treasure hoard."
+												"Se i personaggi portano l'Uovo di Bronzo in quest'area, inizierà a emettere una luce debole e calda. L'uovo diventa caldo al tatto e si apre, rivelando una luce debolmente pulsante al suo interno. I personaggi non possono aprire ulteriormente l'uovo e non hanno l'opportunità di indagare ulteriormente, poiché un rumore fragoroso scuote le rovine. Procedi al \"Ritorno di Anthradusk\" una volta che i personaggi prendono tutti gli oggetti dal tesoro."
 											]
 										},
 										{
@@ -4648,13 +4648,13 @@
 											"name": "Treasure Hoard",
 											"id": "401",
 											"entries": [
-												"The treasure here contains the following valuable items:",
+												"Il tesoro qui contiene i seguenti oggetti preziosi:",
 												{
 													"type": "list",
 													"items": [
 														"49,000 GP",
-														"Eight gems\u2014two aquamarines, four black pearls, and two topazes (worth 500 GP each)",
-														"Three flawless vases (worth 750 GP each)",
+														"Otto gemme: due acquamarine, quattro perle nere e due topazi (del valore di 500 GP ciascuna)",
+														"Tre vasi impeccabili (del valore di 750 GP ciascuno)",
 														"{@item Animated Shield|XDMG}",
 														"{@item Potion of Invisibility|XDMG}",
 														"{@item Potion of Speed|XDMG}"
@@ -4673,30 +4673,30 @@
 					"name": "Anthradusk's Return",
 					"id": "402",
 					"entries": [
-						"When Anthradusk returns to Haskasori, read or paraphrase the following text:",
+						"Quando Anthradusk ritorna ad Haskasori, leggi o parafrasa il seguente testo:",
 						{
 							"type": "insetReadaloud",
 							"id": "403",
 							"entries": [
-								"A mighty boom shakes the ruins and unleashes a rain of settling sand. Heavy steps echo through the halls. Something huge draws near."
+								"Un potente boom scuote le rovine e scatena una pioggia di sabbia depositata. Passi pesanti risuonano nei corridoi. Qualcosa di enorme si avvicina."
 							]
 						},
-						"Anthradusk has returned with the final items necessary to complete his ritual. The dragon enters the city via the sinkhole in the catacombs (area {@area H11|3ea|x}) and heads to his ritual chamber (area {@area H15|3fa|x}). Characters in area {@area H15|3fa|x} or {@area H16|3fe|x} have 1 minute to prepare before the dragon appears.",
-						"Anthradusk grows enraged at the sight of intruders and fights to the death. Unless weakened (see \"Using the Brazen Egg\" below), he uses the {@creature Ancient Blue Dragon|XMM} stat block. The dragon is too preoccupied with his ritual to pursue characters who flee.",
+						"Anthradusk è tornato con gli ultimi oggetti necessari per completare il suo rituale. Il drago entra in città attraverso la dolina delle catacombe (area {@area H11|3ea|x}) e si dirige verso la sua camera rituale (area {@area H15|3fa|x}). I personaggi nell'area {@area H15|3fa|x} o {@area H16|3fe|x} hanno 1 minuto per prepararsi prima che appaia il drago.",
+						"Anthradusk si arrabbia alla vista degli intrusi e combatte fino alla morte. A meno che non sia indebolito (vedi \"Utilizzo dell'uovo di bronzo\" di seguito), usa il blocco delle statistiche {@creature Ancient Blue Dragon|XMM}. Il drago è troppo assorbito dal suo rituale per inseguire i personaggi che fuggono.",
 						{
 							"type": "entries",
 							"name": "Using the Brazen Egg",
 							"id": "404",
 							"entries": [
-								"A character holding the cracked-open Brazen Egg while within 60 feet of Anthradusk can take a {@action Magic|XPHB} action to unleash Cozmioko's lingering power. If they do so, read the following:",
+								"Un personaggio che tiene in mano l'Uovo di Bronzo rotto mentre si trova entro 60 piedi da Anthradusk può eseguire un'azione {@action Magic|XPHB} per liberare il potere persistente di Cozmioko. Se lo fanno, leggi quanto segue:",
 								{
 									"type": "insetReadaloud",
 									"id": "405",
 									"entries": [
-										"The Brazen Egg shatters! Amber light pours from the broken shell and washes over everyone and everything nearby. The burning light sears Anthradusk's scales and causes the dragon to howl in agony. For you, however, the warm light feels invigorating. When the light subsides, Anthradusk still stands, but smaller and paler than before, and his body sizzles from horn to tail."
+										"L'Uovo di Bronzo si frantuma! La luce ambrata si riversa dal guscio rotto e inonda tutti e tutto ciò che si trova nelle vicinanze. La luce ardente brucia le scaglie di Anthradusk e fa urlare il drago in agonia. Per te, tuttavia, la luce calda è rinvigorente. Quando la luce si attenua, Anthradusk è ancora in piedi, ma più piccolo e più pallido di prima, e il suo corpo sfrigola dalle corna alla coda."
 									]
 								},
-								"The Brazen Egg's magic weakens Anthradusk and empowers the characters. This has the following effects:",
+								"La magia dell'Uovo di Bronzo indebolisce Anthradusk e potenzia i personaggi. Ciò ha i seguenti effetti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -4704,12 +4704,12 @@
 										{
 											"type": "item",
 											"name": "Supernatural Charm",
-											"entry": "Each character who helped bring the Brazen Egg to Haskasori gains the Charm of Cozmioko's Glory, described below. See \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in the {@book Dungeon Master's Guide|XDMG} for more information."
+											"entry": "Ogni personaggio che ha contribuito a portare l'Uovo di Bronzo a Haskasori ottiene il Fascino della Gloria di Cozmioko, descritto di seguito. Per ulteriori informazioni, vedere \"{@book Supernatural Gifts|XDMG|2|Supernatural Gifts}\" in {@book Dungeon Master's Guide|XDMG}."
 										},
 										{
 											"type": "item",
 											"name": "Weakened Dragon",
-											"entry": "Anthradusk's Hit Points are reduced by 200. For the next 24 hours, replace Anthradusk's game statistics other than his Hit Points, Initiative bonus, and Initiative score with those of an {@creature Adult Blue Dragon|XMM}."
+											"entry": "I punti ferita di Anthradusk sono ridotti di 200. Per le prossime 24 ore, sostituisci le statistiche di gioco di Anthradusk diverse dai suoi punti ferita, bonus di iniziativa e punteggio di iniziativa con quelle di un {@creature Adult Blue Dragon|XMM}."
 										}
 									]
 								},
@@ -4728,15 +4728,15 @@
 					"name": "Conclusion",
 					"id": "407",
 					"entries": [
-						"If the characters defeat Anthradusk and return to Eldemere, she commends them for their bravery\u2014thanking them on both her own behalf and Cozmioko's. She's certain the brass dragon is now at peace.",
-						"If the characters bring back any relics from Haskasori, Eldemere directs them to buyers. Regardless of what or how much the party returns with, these antiquarians pay an amount equal to the number of characters times 1,200 GP.",
-						"Eldemere tells the characters that if she ever has need of able explorers and dragon slayers, she'll call on them again. The mysterious scholar vanishes soon after.",
+						"Se i personaggi sconfiggono Anthradusk e ritornano a Eldemere, lei li loda per il loro coraggio, ringraziandoli sia a nome suo che di Cozmioko. È certa che il drago d'ottone sia ora in pace.",
+						"Se i personaggi riportano delle reliquie da Haskasori, Eldemere le indirizza agli acquirenti. Indipendentemente da cosa o quanto il gruppo ritorna, questi antiquari pagano un importo pari al numero di personaggi moltiplicato per 1.200 GP.",
+						"Eldemere dice ai personaggi che se mai avrà bisogno di abili esploratori e uccisori di draghi, si rivolgerà a loro di nuovo. Il misterioso studioso scompare subito dopo.",
 						{
 							"type": "entries",
 							"name": "Failure",
 							"id": "408",
 							"entries": [
-								"If the characters fail to defeat Anthradusk, the blue dragon completes his ritual, and several {@creature Ancient Blue Dragon|XMM|Ancient Blue Dragons} appear at Anthradusk's side. Under their resurrector's command, the dragons terrorize and subjugate the region. The exact details of what happens are up to you, but your players should understand that the cost of failure is high indeed!",
+								"Se i personaggi non riescono a sconfiggere Anthradusk, il drago blu completa il suo rituale e diversi {@creature Ancient Blue Dragon|XMM|Ancient Blue Dragons} appaiono al fianco di Anthradusk. Sotto il comando del loro resuscitatore, i draghi terrorizzano e soggiogano la regione. I dettagli esatti di ciò che accade dipendono da te, ma i tuoi giocatori dovrebbero capire che il costo del fallimento è davvero alto!",
 								{
 									"type": "image",
 									"href": {
@@ -4761,7 +4761,7 @@
 							"type": "insetReadaloud",
 							"id": "40a",
 							"entries": [
-								"Like a lightning rod at the tip of the snout, a blue dragon's prominent nose horn appears in almost every iteration of this dragon's appearance over the years. Only in the Dragonlance depiction of the blue dragon Skie was the nose horn replaced with two great horns at the back of the head."
+								"Come un parafulmine sulla punta del muso, il prominente corno nasale di un drago blu appare in quasi ogni iterazione dell'apparizione di questo drago nel corso degli anni. Solo nella rappresentazione di Dragonlance del drago blu Skie il corno del naso è stato sostituito con due grandi corna nella parte posteriore della testa."
 							]
 						},
 						{
@@ -4874,22 +4874,22 @@
 						{
 							"type": "item",
 							"name": "Designers:",
-							"entry": "Justice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
+							"entry": "Il giudice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
 						},
 						{
 							"type": "item",
 							"name": "Rules Developers:",
-							"entry": "Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen"
+							"entry": "Makenzie De Armas (protagonista), Jeremy Crawford, Ron Lundeen"
 						},
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Judy Bauer (lead), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
+							"entry": "Judy Bauer (protagonista), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
 						},
 						{
 							"type": "item",
 							"name": "Art Directors:",
-							"entry": "Matt Cole (lead), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
+							"entry": "Matt Cole (protagonista), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
 						},
 						{
 							"type": "item",
@@ -4919,7 +4919,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
+							"entry": "Rob Hawkey (protagonista), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
 						}
 					]
 				},

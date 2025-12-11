@@ -19,9 +19,9 @@
 					"name": "Dragons in Dungeons",
 					"id": "001",
 					"entries": [
-						"Nothing is more quintessentially Dungeons & Dragons than gathering a group of heroes to face a mighty dragon in a mysterious dungeon. These classic elements link players across time and space, from the first adventurers who forayed into the gloom more than 50 years ago to players beginning their first adventure now.",
-						"{@i Dragon Delves} is a celebration of this shared tradition. Each of the ten adventures in this book features a dragon in a lair. Designed for characters of levels 1 through 12, the adventures offer a range of challenges, from defeating evil dragons to working with good dragons, as well as navigating more complicated moral dilemmas. The dungeons where the dragons make their lairs range from cavern complexes to ruined cities and more.",
-						"Where there are dragons in dungeons, there's always adventure!"
+						"Non c'è niente di più tipico di Dungeons & Dragons che riunire un gruppo di eroi per affrontare un potente drago in un misterioso dungeon. Questi elementi classici collegano i giocatori attraverso il tempo e lo spazio, dai primi avventurieri che fecero incursioni nell'oscurità più di 50 anni fa ai giocatori che iniziano ora la loro prima avventura.",
+						"{@i Dragon Delves} è una celebrazione di questa tradizione condivisa. Ognuna delle dieci avventure di questo libro presenta un drago in una tana. Progettate per personaggi di livello da 1 a 12, le avventure offrono una serie di sfide, dallo sconfiggere i draghi malvagi alla collaborazione con i draghi buoni, oltre ad affrontare dilemmi morali più complicati. I sotterranei in cui i draghi costruiscono le loro tane vanno da complessi di caverne a città in rovina e altro ancora.",
+						"Dove ci sono draghi nei sotterranei, c'è sempre avventura!"
 					]
 				},
 				{
@@ -29,14 +29,14 @@
 					"name": "Using This Book",
 					"id": "002",
 					"entries": [
-						"The adventures in an anthology such as {@i Dragon Delves} are versatile resources that can fill a variety of needs at your gaming table: as one-shot adventures, as \"filler episodes\" in an ongoing campaign, or as a series that forms a campaign, bringing characters from level 1 to a climactic conclusion at level 12.",
-						"These adventures are designed to require minimal preparation (see {@area Running the Adventures|009|x} later in this introduction).",
+						"Le avventure in un'antologia come {@i Dragon Delves} sono risorse versatili che possono soddisfare una varietà di esigenze sul tuo tavolo da gioco: come avventure one-shot, come \"episodi di riempimento\" in una campagna in corso o come serie che forma una campagna, portando i personaggi dal livello 1 a una conclusione culminante al livello 12.",
+						"Queste avventure sono progettate per richiedere una preparazione minima (vedi {@area Running the Adventures|009|x} più avanti in questa introduzione).",
 						{
 							"type": "entries",
 							"name": "One-Shot Adventure",
 							"id": "003",
 							"entries": [
-								"Maybe you're normally a player in an ongoing campaign, but you want to try your hand at being the Dungeon Master. Maybe you're trying to pull a new group together, and you want to see how all the players get along before you start a whole campaign. Maybe your regular DM is sick or has a scheduling conflict, but everyone else is ready to play. Or maybe your group needs a break or a diversion from the ongoing campaign. In any of these cases, you can pick an adventure from this book and run it."
+								"Forse normalmente sei un giocatore in una campagna in corso, ma vuoi provare a diventare il Dungeon Master. Forse stai cercando di mettere insieme un nuovo gruppo e vuoi vedere come vanno d'accordo tutti i giocatori prima di iniziare un'intera campagna. Forse il tuo DM abituale è malato o ha un conflitto di programmazione, ma tutti gli altri sono pronti a giocare. O forse il tuo gruppo ha bisogno di una pausa o di un diversivo dalla campagna in corso. In ognuno di questi casi, puoi scegliere un'avventura da questo libro ed eseguirla."
 							]
 						},
 						{
@@ -44,7 +44,7 @@
 							"name": "In an Ongoing Campaign",
 							"id": "004",
 							"entries": [
-								"Maybe your players' characters know what they have to do to foil the evil boss's plans, but they're not quite high enough level to accomplish their goal. Or they've just hit a significant milestone in the campaign, and you want to give them a change of pace before they get immersed in the next act of the unfolding drama. Or they're traveling halfway around the world, and you're looking for something to keep the journey interesting\u2014a little adventure along the way. Or you're not prepared for the next adventure, and you need a diversion! In any of these cases, you can pick an adventure from this book to serve as a \"filler\" episode or side quest in the ongoing campaign.",
+								"Forse i personaggi dei tuoi giocatori sanno cosa devono fare per sventare i piani del boss malvagio, ma non sono di livello abbastanza alto per raggiungere il loro obiettivo. Oppure hanno appena raggiunto un traguardo significativo nella campagna e vuoi dare loro un cambio di ritmo prima che si immergano nell'atto successivo del dramma in corso. Oppure stanno viaggiando dall'altra parte del mondo e tu stai cercando qualcosa per rendere il viaggio interessante: una piccola avventura lungo il percorso. Oppure non sei preparato per la prossima avventura e hai bisogno di un diversivo! In ognuno di questi casi, puoi scegliere un'avventura da questo libro da utilizzare come episodio \"riempitivo\" o missione secondaria nella campagna in corso.",
 								{
 									"type": "image",
 									"href": {
@@ -54,8 +54,8 @@
 									"width": 850,
 									"height": 2286
 								},
-								"When the characters are the appropriate level for the adventure you wish to run, simply narrate how the characters end up in the adventure's locale. Each adventure's beginning includes a simple setting description, such as \"a village with a nearby forest.\" Beyond these basic details, feel free to alter the adventure's location to match your campaign.",
-								"But if you do have time to prepare, you can incorporate the adventure you're running into the themes and threats of your campaign. You can alter the names of people and places in the adventure to fit better into your world, link the adventure villains to organizations and events that are important in your campaign, and plant clues to the themes of your campaign in the dragon's treasure hoard."
+								"Quando i personaggi sono al livello appropriato per l'avventura che desideri svolgere, racconta semplicemente come i personaggi finiscono nel luogo dell'avventura. L'inizio di ogni avventura include una semplice descrizione dell'ambientazione, come \"un villaggio con una foresta vicina\". Oltre a questi dettagli di base, sentiti libero di modificare il luogo dell'avventura per adattarlo alla tua campagna.",
+								"Ma se hai tempo per prepararti, puoi incorporare l'avventura che stai affrontando nei temi e nelle minacce della tua campagna. Puoi modificare i nomi delle persone e dei luoghi dell'avventura per adattarli meglio al tuo mondo, collegare i cattivi dell'avventura a organizzazioni ed eventi importanti nella tua campagna e piantare indizi sui temi della tua campagna nel tesoro del drago."
 							]
 						}
 					]
@@ -65,15 +65,15 @@
 					"name": "Creating a Campaign",
 					"id": "005",
 					"entries": [
-						"These adventures can be strung together as a complete dragon-themed campaign. Simply guide your players through the adventures in the order presented in this book and award story-based level advancement at each adventure's end, so their characters are the appropriate level for the next challenge they'll face. (No level advancement is necessary before the final adventure.) You can also use one of the following narrative frameworks to connect the adventures to one another.",
+						"Queste avventure possono essere messe insieme come una campagna completa a tema drago. Guida semplicemente i tuoi giocatori attraverso le avventure nell'ordine presentato in questo libro e premia l'avanzamento di livello basato sulla storia alla fine di ogni avventura, in modo che i loro personaggi raggiungano il livello appropriato per la prossima sfida che dovranno affrontare. (Non è necessario alcun avanzamento di livello prima dell'avventura finale.) Puoi anche utilizzare una delle seguenti strutture narrative per collegare le avventure tra loro.",
 						{
 							"type": "entries",
 							"name": "Option 1: Mysterious Patron",
 							"id": "006",
 							"entries": [
-								"Have a friendly patron whose true identity is somewhat mysterious befriend the adventurers early in their careers and send them on each adventure in sequence. The patron might be a charismatic young monk, a kindly teacher, a diminutive scamp, or a scatter-brained elder, and might or might not be accompanied by seven golden canaries or dazzling yellow butterflies, which are actually ancient gold dragons in disguise\u2014the companions of the dragon god Bahamut, which is the patron's true identity.",
-								"Perhaps foreseeing that they are destined to become mighty heroes, Bahamut takes the adventurers under his metaphorical wing and sends them on adventures to deal with draconic concerns, great and small, across the world. The patron might feign surprise when an adventure that doesn't at first seem to involve a dragon (such as \"{@adventure The Will of Orcus|DrDe-TWoO|1},\" chapter 3) turns out to revolve around one, but of course that's exactly the reason Bahamut sent the characters to investigate.",
-								"You can use each adventure as written, with the characters' patron steering them in the general direction of the adventure hook without spoiling any surprises in the adventure ahead. Alternatively, the patron could let the characters in on the secret early on, telling them that dragons will be a particular focus of their adventures and altering some of the adventure hooks along the way."
+								"Chiedi a un mecenate amichevole la cui vera identità è alquanto misteriosa di fare amicizia con gli avventurieri all'inizio della loro carriera e di inviarli in ogni avventura in sequenza. Il patrono potrebbe essere un giovane monaco carismatico, un insegnante gentile, un minuscolo furfante o un anziano sventato, e potrebbe o meno essere accompagnato da sette canarini dorati o abbaglianti farfalle gialle, che in realtà sono antichi draghi d'oro sotto mentite spoglie: i compagni del dio drago Bahamut, che è la vera identità del patrono.",
+								"Forse prevedendo che sarebbero destinati a diventare potenti eroi, Bahamut prende gli avventurieri sotto la sua metaforica ala protettrice e li manda all'avventura per affrontare problemi draconiani, grandi e piccoli, in tutto il mondo. Il cliente potrebbe fingere sorpresa quando un'avventura che a prima vista non sembra coinvolgere un drago (come \"{@adventure The Will of Orcus|DrDe-TWoO|1}\" capitolo 3) si scopre che ruota attorno a uno di essi, ma ovviamente questo è esattamente il motivo per cui Bahamut ha inviato i personaggi a indagare.",
+								"Puoi utilizzare ogni avventura così come è scritta, con il patrono dei personaggi che li guida nella direzione generale dell'avventura senza rovinare alcuna sorpresa nell'avventura successiva. In alternativa, il mecenate potrebbe far conoscere il segreto ai personaggi fin dall'inizio, dicendo loro che i draghi saranno il fulcro particolare delle loro avventure e alterando alcuni degli agganci dell'avventura lungo il percorso."
 							]
 						},
 						{
@@ -81,8 +81,8 @@
 							"name": "Option 2: Brazen Egg",
 							"id": "007",
 							"entries": [
-								"Begin the campaign with the introductory encounter of chapter 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1},\" ending with Eldemere entrusting the Brazen Egg to the characters. Eldemere's instructions are different, though: she explains that the egg must be \"steeped\" in the hoards of ten dragons, one of each chromatic and metallic kind, to activate its power. She also suggests that the egg will lead the characters toward suitable hoards. In fact, any character who sleeps within 15 feet of the egg has vivid dreams leading them toward the start of the next adventure.",
-								"To draw power from a dragon's hoard, the egg must spend 8 hours in the midst of the treasure, covered with coins and surrounded by other items. However, as soon as the empowered egg is brought within Anthradusk's hoard chamber ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} in chapter 10), it reaches its full potential and begins to crack open, as described in that adventure."
+								"Inizia la campagna con l'incontro introduttivo del capitolo 10, \"{@adventure Dragons of the Sandstone City|DrDe-DotSC|1}\", che termina con Eldemere che affida l'Uovo di Bronzo ai personaggi. Le istruzioni di Eldemere sono diverse, però: spiega che l'uovo deve essere \"immerso\" nelle orde di dieci draghi, uno per ogni tipo cromatico e metallico, per attivare il suo potere. Suggerisce anche che l'uovo condurrà i personaggi verso i tesori adatti. In effetti, qualsiasi personaggio che dorme entro 15 piedi dall'uovo fa sogni vividi che lo portano verso l'inizio della prossima avventura.",
+								"Per trarre potere dal tesoro di un drago, l'uovo deve trascorrere 8 ore in mezzo al tesoro, coperto di monete e circondato da altri oggetti. Tuttavia, non appena l'uovo potenziato viene portato nella camera del tesoro di Anthradusk ({@adventure area H16|DrDe-DotSC|1|H16: Hoard} nel capitolo 10), raggiunge il suo pieno potenziale e inizia ad aprirsi, come descritto in quell'avventura."
 							]
 						},
 						{
@@ -90,7 +90,7 @@
 							"name": "Option 3: Hoard Magic Items",
 							"id": "008",
 							"entries": [
-								"If you have {@book Fizban's Treasury of Dragons|FTD|4}, the hoard of magic items described in that book can provide an incentive for characters to seek out dragons of increasing power and different kinds. Add the following items to the rewards acquired in the first three adventures: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1},\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1},\" and a {@item Dragon's Wrath Weapon|FTD} and a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" All four items are Slumbering when the characters first acquire them, but in later adventures, the items can be awakened by steeping them in dragons' hoards."
+								"Se hai {@book Fizban's Treasury of Dragons|FTD|4}, il tesoro di oggetti magici descritti in quel libro può fornire un incentivo ai personaggi a cercare draghi di crescente potenza e di diverso tipo. Aggiungi i seguenti oggetti alle ricompense acquisite nelle prime tre avventure: a {@item Scaled Ornament|FTD} in \"{@adventure Death at Sunset|DrDe-DaS|1}\" a {@item Dragon Vessel|FTD} in \"{@adventure Baker's Doesn't|DrDe-BD|1}\" e a {@item Dragon's Wrath Weapon|FTD} e a {@item Dragon-Touched Focus|FTD} in \"{@adventure The Will of Orcus|DrDe-TWoO|1}.\" Tutti e quattro gli oggetti sono addormentati quando i personaggi li acquisiscono per la prima volta, ma nelle avventure successive gli oggetti possono essere risvegliati immergendoli nei tesori dei draghi."
 							]
 						}
 					]
@@ -100,14 +100,14 @@
 					"name": "Running the Adventures",
 					"id": "009",
 					"entries": [
-						"To run each of these adventures, you need the fifth edition core rulebooks: the {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG}, and {@book Monster Manual|XMM}. Spells and equipment mentioned in the adventures are described in the {@book Player's Handbook|XPHB}. Magic items are detailed in the {@book Dungeon Master's Guide|XDMG}, and monsters appear in the {@book Monster Manual|XMM}.",
-						"The table of contents summarizes the adventures in this anthology. Each adventure is designed for four to six characters of a particular level, but you can adjust for larger or smaller groups by changing the number of foes in an encounter and giving a small group additional resources, as explained in the {@book Dungeon Master's Guide|XDMG}. Each of the adventures can take place in any world you choose, as long as the location has the basic elements listed at the beginning of each adventure.",
+						"Per eseguire ciascuna di queste avventure, sono necessari i regolamenti base della quinta edizione: {@book Player's Handbook|XPHB}, {@book Dungeon Master's Guide|XDMG} e {@book Monster Manual|XMM}. Gli incantesimi e l'equipaggiamento menzionati nelle avventure sono descritti nel {@book Player's Handbook|XPHB}. Gli oggetti magici sono dettagliati in {@book Dungeon Master's Guide|XDMG} e i mostri appaiono in {@book Monster Manual|XMM}.",
+						"Il sommario riassume le avventure di questa antologia. Ogni avventura è progettata per quattro-sei personaggi di un particolare livello, ma puoi adattarti a gruppi più o meno grandi modificando il numero di nemici in un incontro e fornendo a un piccolo gruppo risorse aggiuntive, come spiegato nel {@book Dungeon Master's Guide|XDMG}. Ognuna delle avventure può svolgersi in qualsiasi mondo tu scelga, purché il luogo contenga gli elementi di base elencati all'inizio di ogni avventura.",
 						{
 							"type": "entries",
 							"name": "Preparation",
 							"id": "00a",
 							"entries": [
-								"Every adventure in this book begins with a page that helps you prepare and run the adventure. It includes the following elements:",
+								"Ogni avventura in questo libro inizia con una pagina che ti aiuta a preparare e gestire l'avventura. Comprende i seguenti elementi:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -115,17 +115,17 @@
 										{
 											"type": "item",
 											"name": "Key Plot Points",
-											"entry": "A summary of the key elements in the adventure's story"
+											"entry": "Un riassunto degli elementi chiave della storia dell'avventura"
 										},
 										{
 											"type": "item",
 											"name": "Preparation",
-											"entry": "Steps to get yourself ready to run the adventure, including a list of all the stat blocks from the {@book Monster Manual|XMM} you might need"
+											"entry": "Passaggi per prepararti a vivere l'avventura, incluso un elenco di tutti i blocchi delle statistiche del {@book Monster Manual|XMM} di cui potresti aver bisogno"
 										},
 										{
 											"type": "item",
 											"name": "Key NPCs",
-											"entry": "A table summarizing key nonplayer characters in the adventure\u2014their names, roles, stat blocks, and locations\u2014to help you keep track of them during play"
+											"entry": "Una tabella che riassume i principali personaggi non giocanti dell'avventura (i loro nomi, ruoli, blocchi delle statistiche e posizioni) per aiutarti a tenerne traccia durante il gioco"
 										}
 									]
 								}
@@ -136,7 +136,7 @@
 							"name": "Player Assistance",
 							"id": "00b",
 							"entries": [
-								"As described in the {@book Dungeon Master's Guide|XDMG}, you can streamline your role as Dungeon Master by delegating certain tasks to the other players, especially if this is your first time behind the DM's screen. Before play begins, work with the other players to divide any or all of the following tasks among them:",
+								"Come descritto nel {@book Dungeon Master's Guide|XDMG}, puoi semplificare il tuo ruolo di Dungeon Master delegando determinati compiti agli altri giocatori, soprattutto se è la prima volta dietro lo schermo del DM. Prima che il gioco inizi, collabora con gli altri giocatori per dividere tra loro alcuni o tutti i seguenti compiti:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -144,17 +144,17 @@
 										{
 											"type": "item",
 											"name": "Initiative Tracker",
-											"entry": "In combat, one player tracks Initiative for the characters and monsters."
+											"entry": "In combattimento, un giocatore tiene traccia dell'iniziativa dei personaggi e dei mostri."
 										},
 										{
 											"type": "item",
 											"name": "Monster Wranglers",
-											"entry": "Whenever the characters enter combat with Hostile monsters, one or two players run these monsters using the stat blocks in the {@book Monster Manual|XMM}. (Two players can share this role.)"
+											"entry": "Ogni volta che i personaggi entrano in combattimento con mostri ostili, uno o due giocatori gestiscono questi mostri utilizzando i blocchi delle statistiche nel {@book Monster Manual|XMM}. (Due giocatori possono condividere questo ruolo.)"
 										},
 										{
 											"type": "item",
 											"name": "Rules Consultant",
-											"entry": "One player references rules in the {@book Player's Handbook|XPHB} or other books as needed."
+											"entry": "Un giocatore fa riferimento alle regole nel {@book Player's Handbook|XPHB} o in altri libri secondo necessità."
 										}
 									]
 								}
@@ -165,15 +165,15 @@
 							"name": "Adventures for One Character",
 							"id": "00c",
 							"entries": [
-								"While the {@book Dungeon Master's Guide|XDMG} explains how to adjust adventures for different party sizes, three of the adventures (indicated in the table of contents) are particularly well-suited for play with a single adventurer. Each of these adventures includes instructions for ensuring the character faces an appropriate challenge.",
-								"Central to those instructions is the {@i Blessing of the Lone Champion}, a supernatural gift that bolsters the solo character's abilities.",
+								"Mentre il {@book Dungeon Master's Guide|XDMG} spiega come adattare le avventure alle diverse dimensioni del gruppo, tre delle avventure (indicate nel sommario) sono particolarmente adatte per essere giocate con un singolo avventuriero. Ognuna di queste avventure include istruzioni per garantire che il personaggio affronti una sfida adeguata.",
+								"Al centro di queste istruzioni c'è il {@i Blessing of the Lone Champion}, un dono soprannaturale che rafforza le abilità del personaggio solista.",
 								{
 									"type": "statblock",
 									"name": "Blessing of the Lone Champion",
 									"source": "DrDe",
 									"tag": "reward"
 								},
-								"The blessing lasts for the duration of the adventure."
+								"La benedizione dura per tutta la durata dell'avventura."
 							]
 						},
 						{
@@ -181,10 +181,10 @@
 							"name": "A Draconic History",
 							"id": "00e",
 							"entries": [
-								"In addition to ten adventures, this book includes special sections that feature art of each dragon variety, drawing from almost the whole 50-year history of Dungeons & Dragons, from the 1977 Monster Manual to the one published in 2025. The appearance of all ten dragon types has evolved significantly over the past fifty years, but close examination of these images reveals points of continuity as well, from the blue dragon's nose horn to the silver dragon's crest.",
-								"Artist Todd Lockwood spearheaded a thorough revision of all ten dragon types for the release of D&D's third edition in 2000, basing his designs on the anatomy of real-world animals and certain points of continuity with earlier designs. With a few variations, those designs set the standard for D&D's dragons for over 20 years.",
-								"In preparation for the release of the {@book Monster Manual|XMM} (2025), art director Josh Herman led a comprehensive refresh of all the dragon looks as D&D began its second half-century. With the goal of ensuring each dragon's distinct identity\u2014its personality, preferred habitat, and combat style\u2014shines through in its look, this redesign showcases visually what's unique about each type of dragon.",
-								"In the same way, this book highlights how an adventure featuring one kind of dragon can feel distinct from all the others."
+								"Oltre a dieci avventure, questo libro include sezioni speciali che presentano illustrazioni di ciascuna varietà di drago, attingendo da quasi tutti i 50 anni di storia di Dungeons & Dragons, dal Manuale dei Mostri del 1977 a quello pubblicato nel 2025. L'aspetto di tutti e dieci i tipi di drago si è evoluto in modo significativo negli ultimi cinquant'anni, ma un attento esame di queste immagini rivela anche punti di continuità, dal corno nasale del drago blu alla cresta del drago d'argento.",
+								"L'artista Todd Lockwood ha guidato una revisione approfondita di tutti e dieci i tipi di drago per l'uscita della terza edizione di D&D nel 2000, basando i suoi progetti sull'anatomia degli animali del mondo reale e su alcuni punti di continuità con i progetti precedenti. Con poche variazioni, questi design stabiliscono lo standard per i draghi di D&D per oltre 20 anni.",
+								"In preparazione all'uscita di {@book Monster Manual|XMM} (2025), il direttore artistico Josh Herman ha condotto un aggiornamento completo di tutti i look dei draghi mentre D&D iniziava la sua seconda metà di secolo. Con l'obiettivo di garantire che l'identità distinta di ogni drago (la sua personalità, l'habitat preferito e lo stile di combattimento) traspaia nel suo aspetto, questa riprogettazione mostra visivamente ciò che rende unico ogni tipo di drago.",
+								"Allo stesso modo, questo libro evidenzia come un’avventura che abbia come protagonista un tipo di drago possa sembrare distinta da tutti gli altri."
 							]
 						}
 					]
@@ -243,7 +243,7 @@
 					"name": "Key Plot Points",
 					"id": "183",
 					"entries": [
-						"The following information is key to the adventure's story:",
+						"Le seguenti informazioni sono fondamentali per la storia dell'avventura:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -251,17 +251,17 @@
 								{
 									"type": "item",
 									"name": "Dragon's Island",
-									"entry": "The adventurers are hired to travel by ship to a monastery on the island of Najkir in search of three shipwreck survivors, one of whom is the friend of a friend. The missing person\u2014a priest named Devi\u2014used {@item Sending Stones|XDMG} to share that a dragon sank the ship."
+									"entry": "Gli avventurieri vengono ingaggiati per viaggiare in nave verso un monastero sull'isola di Najkir alla ricerca di tre sopravvissuti al naufragio, uno dei quali è amico di un amico. La persona scomparsa, un prete di nome Devi, raccontava {@item Sending Stones|XDMG} che un drago aveva affondato la nave."
 								},
 								{
 									"type": "item",
 									"name": "Monastery",
-									"entry": "After the dragon Skalanthas tries to sink the characters' ship, the characters arrive at the monastery. There they encounter friendly monks and find the shipwreck survivors alive and well. These NPCs explain that the dragon has been threatening ships that try to approach or leave the island."
+									"entry": "Dopo che il drago Skalanthas tenta di affondare la nave dei personaggi, i personaggi arrivano al monastero. Lì incontrano monaci amichevoli e trovano i sopravvissuti al naufragio vivi e vegeti. Questi NPC spiegano che il drago ha minacciato le navi che tentano di avvicinarsi o lasciare l'isola."
 								},
 								{
 									"type": "item",
 									"name": "Serpent in the Monastery",
-									"entry": "Living among the monks is Ronnom Daamos, an assassin who came to Najkir to avoid punishment for his crimes. Ronnom is the son of the knight Skalanthas once served, and the dragon feels beholden to him. The characters must expose Ronnom's crimes so Skalanthas will allow ships to leave the island."
+									"entry": "Tra i monaci vive Ronnom Daamos, un assassino giunto a Najkir per evitare la punizione per i suoi crimini. Ronnom è il figlio del cavaliere che Skalanthas un tempo servì e il drago si sente in debito con lui. I personaggi devono denunciare i crimini di Ronnom in modo che Skalanthas permetta alle navi di lasciare l'isola."
 								}
 							]
 						}
@@ -272,7 +272,7 @@
 					"name": "Preparation",
 					"id": "184",
 					"entries": [
-						"Before running the adventure, prepare as follows:",
+						"Prima di iniziare l'avventura, preparatevi come segue:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -280,22 +280,22 @@
 								{
 									"type": "item",
 									"name": "Step 1",
-									"entry": "If you're running it for a single character, read the {@area \"Running for One Character|185|x}\" section."
+									"entry": "Se lo stai eseguendo per un singolo carattere, leggi la sezione {@area \"Running for One Character|185|x}\"."
 								},
 								{
 									"type": "item",
 									"name": "Step 2",
-									"entry": "Read \"{@area Adventure Background|186|x}\" and \"{@area The Monks|192|x}\" for more context. Familiarize yourself with the Key NPCs table, which lists individuals the characters will interact with throughout the adventure."
+									"entry": "Leggi \"{@area Adventure Background|186|x}\" e \"{@area The Monks|192|x}\" per ulteriori informazioni. Acquisisci familiarità con la tabella NPC chiave, che elenca gli individui con cui i personaggi interagiranno durante l'avventura."
 								},
 								{
 									"type": "item",
 									"name": "Step 3",
-									"entry": "Familiarize yourself with the Ship map in the {@book Dungeon Master's Guide|XDMG} or on D&D Beyond and the game statistics for {@vehicle Sailing Ship||Sailing Ships} and {@vehicle Rowboat||Rowboats} in the {@book Player's Handbook|XPHB} or on D&D Beyond."
+									"entry": "Acquisisci familiarità con la mappa della nave in {@book Dungeon Master's Guide|XDMG} o in D&D Beyond e con le statistiche di gioco per {@vehicle Sailing Ship||Sailing Ships} e {@vehicle Rowboat||Rowboats} in {@book Player's Handbook|XPHB} o in D&D Beyond."
 								},
 								{
 									"type": "item",
 									"name": "Step 4",
-									"entry": "Bookmark the following stat blocks in the {@book Monster Manual|XMM} or on D&D Beyond:"
+									"entry": "Aggiungi ai segnalibri i seguenti blocchi di statistiche in {@book Monster Manual|XMM} o su D&D Beyond:"
 								}
 							]
 						},
@@ -332,61 +332,61 @@
 							"rows": [
 								[
 									"Anish",
-									"Aasimar monastery leader",
-									"{@creature Commoner|XMM} (Medium, Lawful Neutral)",
-									"{@area M15|1c5|x}\u2013{@area 17|1ca|x}"
+									"Capo del monastero di Aasimar",
+									"{@creature Commoner|XMM} (Medio, Legale Neutrale)",
+									"{@area M15|1c5|x}–{@area 17|1ca|x}"
 								],
 								[
 									"Ashlyn Maranta",
-									"Elf shipwreck survivor",
-									"{@creature Scout|XMM} (Medium, Chaotic Good)",
+									"Elfo sopravvissuto al naufragio",
+									"{@creature Scout|XMM} (Medio, Caotico Buono)",
 									"{@area M11a|1bc|x}"
 								],
 								[
 									"Devi Talzar",
-									"Human shipwreck survivor",
-									"{@creature Priest|XMM} (Medium, Neutral Good)",
+									"Sopravvissuto al naufragio umano",
+									"{@creature Priest|XMM} (Medio, Neutrale Buono)",
 									"{@area M11b|1bc|x}"
 								],
 								[
-									"Eko and Mok",
-									"Ronnom's shape-shifted bodyguards",
+									"Eko e Mok",
+									"Le guardie del corpo mutaforma di Ronnom",
 									"{@creature Doppelganger|XMM}",
 									"{@area M25|1e3|x}"
 								],
 								[
 									"Kranine Orso",
-									"Tiefling captain of characters' ship",
-									"{@creature Noble|XMM} (Medium, Chaotic Good)",
+									"Tiefling capitano della nave dei personaggi",
+									"{@creature Noble|XMM} (Medio, Caotico Buono)",
 									"\"{@area Beginning the Adventure|188|x}\""
 								],
 								[
 									"Mirel Astafar",
-									"Human friend and quest giver",
-									"{@creature Noble|XMM} (Medium, Neutral Good)",
+									"Amico umano e donatore di missioni",
+									"{@creature Noble|XMM} (Medio, Neutrale Buono)",
 									"\"{@area Beginning the Adventure|188|x}\""
 								],
 								[
 									"Ronnom Daamos",
-									"Fugitive human assassin",
-									"{@creature Assassin|XMM} (Medium, Neutral Evil)",
+									"Assassino umano fuggitivo",
+									"{@creature Assassin|XMM} (Medio, Neutrale Malvagio)",
 									"{@area M26|1e5|x}"
 								],
 								[
 									"Skalanthas",
-									"Protector of the island",
+									"Protettore dell'isola",
 									"{@creature Young Bronze Dragon|XMM}",
 									"{@area M38|1ff|x}"
 								],
 								[
 									"Treef Lameer",
-									"Human shipwreck survivor",
-									"{@creature Noble|XMM} (Medium, Chaotic Neutral)",
+									"Sopravvissuto al naufragio umano",
+									"{@creature Noble|XMM} (Medio, Caotico Neutrale)",
 									"{@area M11c|1bc|x}"
 								],
 								[
 									"Veen",
-									"Ronnom's friend",
+									"L'amico di Ronnom",
 									"{@creature Oni|XMM}",
 									"{@area M26|1e5|x}"
 								]
@@ -399,7 +399,7 @@
 					"name": "Running for One Character",
 					"id": "185",
 					"entries": [
-						"You can run this adventure for a single character of level 7. Ideally, that character should have proficiency in at least two of the following skills:",
+						"Puoi affrontare quest'avventura per un singolo personaggio di livello 7. Idealmente, quel personaggio dovrebbe avere competenza in almeno due delle seguenti abilità:",
 						{
 							"type": "list",
 							"columns": 2,
@@ -412,7 +412,7 @@
 								"{@skill Religion|XPHB}"
 							]
 						},
-						"The solo character gains the {@reward Blessing of the Lone Champion|DrDe} (see the introduction) to compensate for the lack of companions."
+						"Il personaggio solista guadagna il {@reward Blessing of the Lone Champion|DrDe} (vedi introduzione) per compensare la mancanza di compagni."
 					]
 				},
 				{
@@ -420,17 +420,17 @@
 					"name": "Adventure Background",
 					"id": "186",
 					"entries": [
-						"The bronze dragon Skalanthas was raised by House Daamos, a human noble family. When he was a wyrmling, a valorous human knight named Ishyllia Daamos trained him to fight by her side. After he grew, Skalanthas served as her mount. When Ishyllia died in battle fifteen years ago, the distraught Skalanthas fled House Daamos in his grief.",
-						"Skalanthas found solace at a monastery on the island of Najkir, where Ishyllia once liked to go to escape the politics and violence of her homeland. There, Skalanthas struck up a friendship with the monks that has lasted for years. The dragon laid claim to a cave complex under the monastery and plundered treasure-laden shipwrecks amid the island's vast coral reefs. The monks felt grateful for the dragon's company and protection.",
-						"Six months ago, a ship delivered Ronnom Daamos\u2014Ishyllia Daamos's son\u2014to the monastery. Ronnom had grown up listening to his mother's stories about Najkir and told the monks he needed to hide from his family's enemies. The monks offered to shelter him and his bodyguards as long as they needed it. Ronnom was delighted to learn that Skalanthas, his mother's long-lost dragon companion, also lived on the island. It didn't take long for Ronnom to become the dragon's friend and confidant.",
+						"Il drago di bronzo Skalanthas è stato allevato dalla Casa Daamos, una nobile famiglia umana. Quando era un cucciolo, un valoroso cavaliere umano di nome Ishyllia Daamos lo addestrò a combattere al suo fianco. Dopo che è cresciuto, Skalanthas è stata la sua cavalcatura. Quando Ishyllia morì in battaglia quindici anni fa, lo sconvolto Skalanthas fuggì dalla Casa Daamos nel suo dolore.",
+						"Skalanthas trovò conforto in un monastero sull'isola di Najkir, dove una volta Ishyllia amava andare per sfuggire alla politica e alla violenza della sua terra natale. Lì, Skalanthas strinse un'amicizia con i monaci che durò per anni. Il drago rivendicò un complesso di grotte sotto il monastero e saccheggiò i relitti carichi di tesori tra le vaste barriere coralline dell'isola. I monaci si sentirono grati per la compagnia e la protezione del drago.",
+						"Sei mesi fa, una nave ha consegnato Ronnom Daamos, il figlio di Ishyllia Daamos, al monastero. Ronnom era cresciuto ascoltando le storie di sua madre su Najkir e diceva ai monaci che aveva bisogno di nascondersi dai nemici della sua famiglia. I monaci si offrirono di dare rifugio a lui e alle sue guardie del corpo finché ne avessero avuto bisogno. Ronnom fu felice di apprendere che anche Skalanthas, il drago perduto da tempo di sua madre, viveva sull'isola. Non ci volle molto perché Ronnom diventasse amico e confidente del drago.",
 						{
 							"type": "entries",
 							"name": "A Sordid Past",
 							"id": "187",
 							"entries": [
-								"Neither Skalanthas nor the monks know that until recently, Ronnom led an assassins' guild that carried out political killings for profit. Rival factions banded together to destroy the guild, killing most of the guild's assassins, but Ronnom and his bodyguards escaped and fled to Najkir.",
-								"Under Ronnom's influence, Skalanthas has grown territorial, threatening ships that get too close to the island. Six days ago, Skalanthas sank a ship that sailed too close to Najkir for the dragon's comfort. Three survivors swam ashore and followed a trail to the monastery.",
-								"The monks fed and sheltered the survivors. One survivor saw Ronnom, recognized him as a wanted criminal, and told the others. A monk witnessed the conversation and told Anish, the monastery's hierarch. Hierarch Anish met with Ronnom privately and asked him to leave Najkir peacefully. Ronnom refused."
+								"Né Skalanthas né i monaci sanno che fino a poco tempo fa Ronnom era a capo di una gilda di assassini che commetteva omicidi politici a scopo di lucro. Le fazioni rivali si unirono per distruggere la gilda, uccidendo la maggior parte degli assassini della gilda, ma Ronnom e le sue guardie del corpo fuggirono e fuggirono a Najkir.",
+								"Sotto l'influenza di Ronnom, Skalanthas è diventata territoriale, minacciando le navi che si avvicinano troppo all'isola. Sei giorni fa, Skalanthas ha affondato una nave che navigava troppo vicino a Najkir per il conforto del drago. Tre sopravvissuti nuotarono a riva e seguirono una pista fino al monastero.",
+								"I monaci nutrirono e diedero rifugio ai sopravvissuti. Un sopravvissuto ha visto Ronnom, lo ha riconosciuto come un criminale ricercato e lo ha detto agli altri. Un monaco fu testimone della conversazione e lo raccontò ad Anish, il gerarca del monastero. Il Gerarca Anish ha incontrato Ronnom in privato e gli ha chiesto di lasciare Najkir pacificamente. Ronnom rifiutò."
 							]
 						}
 					]
@@ -440,31 +440,31 @@
 					"name": "Beginning the Adventure",
 					"id": "188",
 					"entries": [
-						"The adventure begins on a large island named Rakfir in a seaside tavern called the Smiling Fish. The characters are meeting with their longtime friend Mirel Astafar, a well-dressed, wealthy human merchant (Medium, Neutral Good {@creature Noble|XMM}).",
-						"Read or paraphrase the following aloud to begin the adventure:",
+						"L'avventura inizia su una grande isola chiamata Rakfir in una taverna sul mare chiamata il Pesce Sorridente. I personaggi incontrano la loro amica di lunga data Mirel Astafar, una ricca mercante umana ben vestita (Medio, Neutrale Buono {@creature Noble|XMM}).",
+						"Leggi o parafrasa quanto segue ad alta voce per iniziare l'avventura:",
 						{
 							"type": "insetReadaloud",
 							"id": "189",
 							"entries": [
-								"You arrive at the Smiling Fish to find Mirel Astafar ensconced in a booth, a hearty meal of grilled fish and wine on the table before her. After you exchange pleasantries and dig in to the meal, a serious look settles upon Mirel's face.",
-								"\"I need your help to bring my friend Devi home,\" Mirel says. \"Devi is a priest who serves a god of the stars and wanderers. She was traveling by ship when a bronze-scaled dragon sank the vessel with its lightning breath. Most of the crew went down with the ship, but Devi and two sailors survived by swimming to a nearby island inhabited mostly by wild goats and sheep. Devi then used our {@item Sending Stones|XDMG} to tell me what happened.\"I own a ship called the {@i Wavemount}.",
-								"I'll pay you 2,000 Gold Pieces to ensure Devi's safe return plus another 250 Gold Pieces for the safe return of each sailor. I believe they're all on the island of Najkir, based on Devi's description. My ship can get you there in three days.",
-								"\"Will you help?\""
+								"Arrivi allo Smiling Fish e trovi Mirel Astafar sistemata in un séparé, con un abbondante pasto a base di pesce grigliato e vino sul tavolo davanti a lei. Dopo che vi siete scambiati i convenevoli e avete approfondito il pasto, un'espressione seria si posa sul viso di Mirel.",
+								"\"Ho bisogno del tuo aiuto per riportare a casa la mia amica Devi\", dice Mirel. \"Devi è un sacerdote che serve un dio delle stelle e dei vagabondi. Stava viaggiando su una nave quando un drago dalle scaglie di bronzo affondò la nave con il suo soffio fulminante. La maggior parte dell'equipaggio affondò con la nave, ma Devi e due marinai sopravvissero nuotando fino a un'isola vicina abitata principalmente da capre selvatiche e pecore. Devi quindi usò il nostro {@item Sending Stones|XDMG} per raccontarmi cosa era successo.\" Possiedo una nave chiamata {@i Wavemount}.",
+								"Ti pagherò 2.000 monete d'oro per garantire il ritorno sano e salvo di Devi, più altre 250 monete d'oro per il ritorno sano e salvo di ogni marinaio. Credo che siano tutti sull'isola di Najkir, in base alla descrizione di Devi. La mia nave può portarti lì in tre giorni.",
+								"\"Mi aiuterai?\""
 							]
 						},
-						"If the characters refuse the quest, Mirel sweetens the reward by offering them free passage on any of her ships whenever it suits them. If that's still not enough, she gives them a silver necklace with a jade pendant (worth 250 GP) as an advance.",
-						"Once the characters accept the quest, they can leave at once for Najkir. Before they depart, Mirel gives them additional information that Devi just imparted to her via the {@item Sending Stones|XDMG}:",
+						"Se i personaggi rifiutano la missione, Mirel addolcisce la ricompensa offrendo loro il passaggio gratuito su una qualsiasi delle sue navi ogni volta che gli fa comodo. Se ciò non bastasse, regala loro una collana d'argento con un pendente di giada (del valore di 250 GP) come anticipo.",
+						"Una volta che i personaggi accettano la missione, possono partire immediatamente per Najkir. Prima di partire, Mirel fornisce loro ulteriori informazioni che Devi le ha appena comunicato tramite {@item Sending Stones|XDMG}:",
 						{
 							"type": "insetReadaloud",
 							"id": "18a",
 							"entries": [
-								"\"Devi and the others found a monastery hidden in a sea cave on the south side of the island,\" Mirel says. \"The monks there seem friendly, but the sea cave is also home to the bronze dragon that sank Devi's ship. The monks apologized for the dragon, claiming it was only defending its territory. I've told Devi that a rescue party is on the way, and she's anxious to meet you.\"",
-								"I've entrusted a chest of gold coins to Captain Orso of the {@i Wavemount}. If the dragon threatens your ship, I've ordered the captain to bribe the dragon for safe passage to and from the island.\""
+								"\"Devi e gli altri hanno trovato un monastero nascosto in una grotta marina sul lato sud dell'isola\", dice Mirel. \"I monaci lì sembrano amichevoli, ma la grotta marina ospita anche il drago di bronzo che affondò la nave di Devi. I monaci si sono scusati per il drago, sostenendo che stava solo difendendo il suo territorio. Ho detto a Devi che una squadra di salvataggio è in arrivo, e lei è ansiosa di incontrarti.\"",
+								"Ho affidato uno scrigno pieno di monete d'oro al Capitano Orso del {@i Wavemount}. Se il drago minaccia la tua nave, ho ordinato al capitano di corrompere il drago per un passaggio sicuro da e per l'isola.\""
 							]
 						},
-						"The {@i Wavemount} is a Sailing Ship with a tiefling captain named Kranine Orso (Medium, Chaotic Good {@creature Noble|XMM}) and a crew of nineteen Chaotic Good sailors of various species ({@creature Commoner|XMM|Commoners}). Captain Orso and her crew are all Friendly toward the characters.",
-						"A latched, unlocked trunk stored in the captain's cabin contains 1,000 GP, which Captain Orso is authorized to use to bribe the dragon if it threatens the ship. The trunk and its contents weigh 45 pounds.",
-						"When the characters are ready to get underway, the {@i Wavemount} sets sail for Najkir."
+						"Il {@i Wavemount} è un veliero con un capitano tiefling di nome Kranine Orso (medio, caotico buono {@creature Noble|XMM}) e un equipaggio di diciannove marinai caotici buoni di varie specie ({@creature Commoner|XMM|Commoners}). Il Capitano Orso e il suo equipaggio sono tutti Amichevoli verso i personaggi.",
+						"Un baule chiuso e aperto conservato nella cabina del capitano contiene 1.000 GP, che il Capitano Orso è autorizzato a utilizzare per corrompere il drago se minaccia la nave. Il baule e il suo contenuto pesano 45 libbre.",
+						"Quando i personaggi sono pronti a partire, il {@i Wavemount} salpa per Najkir."
 					]
 				},
 				{
@@ -472,38 +472,38 @@
 					"name": "Skalanthas Strikes!",
 					"id": "18b",
 					"entries": [
-						"The voyage to Najkir is uneventful until the ship comes within a mile of the island. When that happens, read or paraphrase the following aloud:",
+						"Il viaggio verso Najkir prosegue senza incidenti finché la nave non arriva a meno di un miglio dall'isola. Quando ciò accade, leggi o parafrasa ad alta voce quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "18c",
 							"entries": [
-								"The sea is calm; the sky is clear. Captain Orso hands you a spyglass, which reveals the white cliffs of a small island half-shrouded by fog.",
-								"\"Najkir, dead ahead!\" shouts a crew member.",
-								"Suddenly, a dragon the size of a grizzly bear erupts from the water on the starboard side of the ship and takes to the sky. Its bronze scales gleam in the sunlight. With great flaps of its wings, it continues its ascent."
+								"Il mare è calmo; il cielo è limpido. Il Capitano Orso ti porge un cannocchiale, che rivela le bianche scogliere di una piccola isola semiavvolta dalla nebbia.",
+								"\"Najkir, avanti!\" grida un membro dell'equipaggio.",
+								"All'improvviso, un drago delle dimensioni di un orso grizzly esce dall'acqua sul lato di dritta della nave e prende il volo. Le sue scaglie di bronzo brillano alla luce del sole. Con grandi battiti d'ali continua la sua ascesa."
 							]
 						},
-						"The {@creature Young Bronze Dragon|XMM} is Skalanthas. He was scouring old shipwrecks when he saw the {@i Wavemount} from beneath the sea. Skalanthas no longer permits strange ships to venture this close to his island, and he is Hostile, uncommunicative, and unwilling to accept bribes.",
+						"Il {@creature Young Bronze Dragon|XMM} è Skalanthas. Stava esplorando vecchi relitti quando vide il {@i Wavemount} da sotto il mare. Skalanthas non permette più a navi strane di avventurarsi così vicino alla sua isola, ed è ostile, poco comunicativo e non disposto ad accettare tangenti.",
 						{
 							"type": "entries",
 							"name": "Running the Encounter",
 							"id": "18d",
 							"entries": [
-								"Have Skalanthas, the characters, and Captain Orso roll Initiative. The crew acts immediately after Captain Orso in the Initiative order. These sailors take the {@action Hide|XPHB} action while Orso tries to bribe the dragon\u2014to no avail.",
-								"Use the Ship map in the {@book Dungeon Master's Guide|XDMG} to represent the {@i Wavemount}. Stored in the ship's cargo hold are two Rowboats. See the {@book Player's Handbook|XPHB} for Sailing Ship and Rowboat game statistics.",
-								"Skalanthas is 80 feet above the ship at the start of the encounter. He swoops to within 30 feet of the ship and uses his Repulsion Breath to push the ship's crew and passengers into the ocean. If he lacks clear targets for his Repulsion Breath, Skalanthas seeks to damage the ship; he avoids harming creatures whenever possible. Skalanthas continues his assault until he is {@status Bloodied|XPHB} or the ship is destroyed, at which point he dives underwater and swims back to his lair on the island (area {@area M38|1ff|x}).",
+								"Chiedi a Skalanthas, ai personaggi e al Capitano Orso di tirare l'Iniziativa. L'equipaggio agisce immediatamente dopo il Capitano Orso nell'ordine di Iniziativa. Questi marinai intraprendono l'azione {@action Hide|XPHB} mentre Orso cerca di corrompere il drago, senza alcun risultato.",
+								"Utilizza la mappa della nave nel {@book Dungeon Master's Guide|XDMG} per rappresentare il {@i Wavemount}. Nella stiva della nave ci sono due barche a remi. Consulta il {@book Player's Handbook|XPHB} per le statistiche di gioco delle navi a vela e delle barche a remi.",
+								"Skalanthas si trova 80 piedi sopra la nave all'inizio dell'incontro. Piomba fino a 9 metri dalla nave e usa il suo Repulsion Breath per spingere l'equipaggio e i passeggeri della nave nell'oceano. Se non ha bersagli chiari per il suo Repulsion Breath, Skalanthas cerca di danneggiare la nave; evita di danneggiare le creature quando possibile. Skalanthas continua il suo assalto finché non viene distrutto {@status Bloodied|XPHB} o la nave, a quel punto si tuffa sott'acqua e torna a nuoto nella sua tana sull'isola (area {@area M38|1ff|x}).",
 								{
 									"type": "entries",
 									"name": "Fate of the Wavemount",
 									"id": "18e",
 									"entries": [
-										"The encounter ends with the {@i Wavemount} surviving or sinking, as described below.",
+										"L'incontro termina con il {@i Wavemount} che sopravvive o affonda, come descritto di seguito.",
 										{
 											"type": "entries",
 											"name": "The Ship Is Saved",
 											"id": "18f",
 											"entries": [
-												"If Skalanthas fails to sink the Wavemount, Captain Orso gives the characters a Rowboat they can use to reach the island. Meanwhile, she maneuvers her ship into a fog bank and hides there until they return.",
-												"As an {@action Influence|XPHB} action, a character can try to convince Captain Orso to part with the coin-filled trunk by making a {@dc 20} Charisma ({@skill Intimidation|XPHB} or {@skill Persuasion|XPHB}) check. On a success, Orso reluctantly hands it over, hoping it will aid in the characters' next encounter with the dragon."
+												"Se Skalanthas non riesce ad affondare il Wavemount, il Capitano Orso dà ai personaggi una barca a remi che possono usare per raggiungere l'isola. Nel frattempo, manovra la sua nave in un banco di nebbia e si nasconde lì fino al loro ritorno.",
+												"Come azione {@action Influence|XPHB}, un personaggio può provare a convincere il Capitano Orso a separarsi dal baule pieno di monete effettuando una prova di {@dc 20} Carisma ({@skill Intimidation|XPHB} o {@skill Persuasion|XPHB}). In caso di successo, Orso lo consegna con riluttanza, sperando che possa aiutare nel prossimo incontro dei personaggi con il drago."
 											]
 										},
 										{
@@ -511,8 +511,8 @@
 											"name": "The Ship Is Sunk",
 											"id": "190",
 											"entries": [
-												"If the Wavemount is reduced to 0 Hit Points, it sinks. Captain Orso abandons the coin-filled trunk as she and her sailors cling to pieces of flotsam and paddle toward the island. The characters can do the same.",
-												"Deprived of their ship, Captain Orso and her sailors aren't eager to face the dragon again, so they head to the monastery with the characters."
+												"Se la Wavemount viene ridotta a 0 punti ferita, affonda. Il capitano Orso abbandona il baule pieno di monete mentre lei e i suoi marinai si aggrappano a pezzi di relitto e remano verso l'isola. I personaggi possono fare lo stesso.",
+												"Privati ​​della loro nave, il Capitano Orso e i suoi marinai non sono ansiosi di affrontare nuovamente il drago, quindi si dirigono al monastero con i personaggi."
 											]
 										}
 									]
@@ -537,21 +537,21 @@
 							"width": 1700,
 							"height": 1216
 						},
-						"The island Najkir is a rugged, egg-shaped island 6 miles wide and 10 miles long. Persistent fog shrouds much of the island, which has a black pebble beach to the north and white cliffs to the south. The island has a large population of goats and sheep, and the surrounding reefs are home to plenty of fish.",
-						"The only permanent structure on the island is the Najkir Monastery, which is tucked inside a sea cave on the south side of the island. A worn path hugs the cliffside, descending from the top of the cliff to a few feet above sea level before entering the cave and climbing to the monastery's entrance. A pier allows small boats to dock near the entrance.",
-						"The monastery has long been a retreat for folk seeking enlightenment. The monks who reside here are peaceful.",
+						"L'isola Najkir è un'aspra isola a forma di uovo larga 6 miglia e lunga 10 miglia. La nebbia persistente avvolge gran parte dell'isola, che ha una spiaggia di ciottoli neri a nord e scogliere bianche a sud. L'isola ha una grande popolazione di capre e pecore e le barriere coralline circostanti ospitano moltissimi pesci.",
+						"L'unica struttura permanente sull'isola è il Monastero Najkir, nascosto all'interno di una grotta marina sul lato sud dell'isola. Un sentiero consumato costeggia la scogliera, scendendo dalla cima della scogliera fino a pochi metri sopra il livello del mare prima di entrare nella grotta e salire fino all'ingresso del monastero. Un molo permette l'attracco di piccole imbarcazioni in prossimità dell'ingresso.",
+						"Il monastero è stato a lungo un rifugio per persone in cerca di illuminazione. I monaci che risiedono qui sono pacifici.",
 						{
 							"type": "entries",
 							"name": "The Monks",
 							"id": "192",
 							"entries": [
-								"Thirteen monks of various species dwell in the {@area Najkir Monastery|191|x}, including Hierarch Anish, who is an aasimar. All monks are Lawful Neutral {@creature Commoner|XMM|Commoners} and Friendly toward visitors. They wear wool robes and wooden clogs.",
+								"Tredici monaci di varie specie vivono nel {@area Najkir Monastery|191|x}, incluso il Gerarca Anish, che è un aasimar. Tutti i monaci sono Legali Neutrali {@creature Commoner|XMM|Commoners} e Amichevoli verso i visitatori. Indossano abiti di lana e zoccoli di legno.",
 								{
 									"type": "entries",
 									"name": "Monk Names",
 									"id": "193",
 									"entries": [
-										"If you need a name for a monk, make one up or choose a name from the following list:",
+										"Se hai bisogno di un nome per un monaco, creane uno o scegli un nome dal seguente elenco:",
 										{
 											"type": "table",
 											"colLabels": [
@@ -593,7 +593,7 @@
 												],
 												[
 													"8",
-													"Lukai"
+													"Lucai"
 												],
 												[
 													"9",
@@ -622,7 +622,7 @@
 							"name": "Survivors of the Naiad",
 							"id": "194",
 							"entries": [
-								"When the Naiad sank, two sailors and a priest sought refuge at the monastery. The priest is Devi Talzar; the sailors are Ashlyn Maranta and Treef Lameer. Between meals, they rest in guest cells (area {@area M11|1bc|x})."
+								"Quando la Naiade affondò, due marinai e un sacerdote cercarono rifugio nel monastero. Il sacerdote è Devi Talzar; i marinai sono Ashlyn Maranta e Treef Lameer. Tra un pasto e l'altro riposano nelle celle degli ospiti (area {@area M11|1bc|x})."
 							]
 						},
 						{
@@ -630,7 +630,7 @@
 							"name": "What the Residents Know",
 							"id": "195",
 							"entries": [
-								"Characters who strike up a conversation with any of the monastery's residents can learn what they know about the following topics.",
+								"I personaggi che avviano una conversazione con uno qualsiasi dei residenti del monastero possono apprendere ciò che sanno sui seguenti argomenti.",
 								{
 									"type": "entries",
 									"id": "196",
@@ -640,7 +640,7 @@
 											"name": "Dead Falcons",
 											"id": "197",
 											"entries": [
-												"The monks use trained falcons to communicate with the outside world. Shortly before the characters' arrival, someone killed all the falcons by feeding them poisoned meat."
+												"I monaci utilizzano falchi addestrati per comunicare con il mondo esterno. Poco prima dell'arrivo dei personaggi, qualcuno uccise tutti i falchi dando loro carne avvelenata."
 											]
 										},
 										{
@@ -648,7 +648,7 @@
 											"name": "Getting off the Island",
 											"id": "198",
 											"entries": [
-												"The monks have a small boat they use for fishing, but it's not a practical seagoing vessel. There are no other ships (or settlements) on the island."
+												"I monaci hanno una piccola barca che usano per pescare, ma non è una pratica imbarcazione per la navigazione marittima. Non ci sono altre navi (o insediamenti) sull'isola."
 											]
 										},
 										{
@@ -656,7 +656,7 @@
 											"name": "Leader",
 											"id": "199",
 											"entries": [
-												"The monks' leader is Hierarch Anish, an older aasimar man with a gentle disposition."
+												"Il capo dei monaci è il Gerarca Anish, un uomo aasimar più anziano con un carattere gentile."
 											]
 										},
 										{
@@ -664,7 +664,7 @@
 											"name": "Monastery",
 											"id": "19a",
 											"entries": [
-												"The {@area Najkir Monastery|191|x} has long served as a retreat for monks and visitors seeking enlightenment. Visitors may freely explore the monastery but are urged not to enter the flooded caves on the lower level (see \"{@area Skalanthas the Dragon|19d|x}\" below)."
+												"Il {@area Najkir Monastery|191|x} è servito da tempo come rifugio per monaci e visitatori in cerca di illuminazione. I visitatori possono esplorare liberamente il monastero ma sono invitati a non entrare nelle grotte allagate al piano inferiore (vedi \"{@area Skalanthas the Dragon|19d|x}\" di seguito)."
 											]
 										},
 										{
@@ -672,7 +672,7 @@
 											"name": "Ronnom Daamos",
 											"id": "19b",
 											"entries": [
-												"Ronnom, a noble, arrived by ship six months ago with his three bodyguards, whom the monks know as the brothers Eko and Mok and a woman named Veen. Ronnom is the son of Ishyllia Daamos, a knight who was a frequent guest at the monastery before her death. Recently it has come to light that Ronnom is a wanted man whose crimes include numerous assassinations. The monks have no interest in politics and no wish to harbor assassins, but Ronnom refuses to leave. He and his bodyguards have private quarters on the lower level."
+												"Ronnom, un nobile, è arrivato via nave sei mesi fa con le sue tre guardie del corpo, che i monaci conoscono come i fratelli Eko e Mok e una donna di nome Veen. Ronnom è il figlio di Ishyllia Daamos, un cavaliere che era un ospite frequente al monastero prima della sua morte. Recentemente è venuto alla luce che Ronnom è un ricercato i cui crimini includono numerosi omicidi. I monaci non hanno alcun interesse per la politica e non desiderano ospitare assassini, ma Ronnom si rifiuta di andarsene. Lui e le sue guardie del corpo hanno alloggi privati ​​al piano inferiore."
 											]
 										},
 										{
@@ -680,7 +680,7 @@
 											"name": "Shipwreck Survivors",
 											"id": "19c",
 											"entries": [
-												"Six days ago, Skalanthas sank a ship called the Naiad that sailed close to the island. Three survivors swam ashore and found the monastery. The monks are happy to give them food, drink, and shelter until rescuers arrive."
+												"Sei giorni fa, Skalanthas ha affondato una nave chiamata Naiad che navigava vicino all'isola. Tre sopravvissuti nuotarono a riva e trovarono il monastero. I monaci sono felici di dare loro cibo, bevande e riparo fino all'arrivo dei soccorritori."
 											]
 										},
 										{
@@ -688,7 +688,7 @@
 											"name": "Skalanthas the Dragon",
 											"id": "19d",
 											"entries": [
-												"The bronze dragon Skalanthas came to Najkir fifteen years ago, after the death of his adoptive human mother\u2014a knight named Ishyllia Daamos. Skalanthas lives in the sea caves below the monastery and feeds on fish, goats, and sheep. In the past six months, Skalanthas has become increasingly territorial, threatening and sinking ships that approach the island. The monks began noticing Skalanthas's change in demeanor shortly after Ronnom's arrival."
+												"Il drago di bronzo Skalanthas arrivò a Najkir quindici anni fa, dopo la morte della sua madre umana adottiva, una cavallerizza di nome Ishyllia Daamos. Skalanthas vive nelle grotte marine sotto il monastero e si nutre di pesci, capre e pecore. Negli ultimi sei mesi, Skalanthas è diventata sempre più territoriale, minacciando e affondando le navi che si avvicinavano all'isola. I monaci iniziarono a notare il cambiamento nel comportamento di Skalanthas poco dopo l'arrivo di Ronnom."
 											]
 										}
 									]
@@ -2203,13 +2203,13 @@
 										}
 									]
 								},
-								"The {@area Najkir Monastery|191|x} is hewn out of solid rock, its walls carved to resemble bricks, and its floor carved to resemble tiles. Because the monks encourage inhabitants to focus on inner peace rather than outer beauty, the monastery's construction is simple and its interior decoration sparse. Other features are described below unless otherwise noted.",
+								"Il {@area Najkir Monastery|191|x} è scavato nella solida roccia, le sue pareti sono scolpite per assomigliare a mattoni e il suo pavimento è scolpito per assomigliare a piastrelle. Poiché i monaci incoraggiano gli abitanti a concentrarsi sulla pace interiore piuttosto che sulla bellezza esteriore, la costruzione del monastero è semplice e la decorazione interna è scarsa. Altre funzionalità sono descritte di seguito se non diversamente specificato.",
 								{
 									"type": "entries",
 									"name": "Caves",
 									"id": "19f",
 									"entries": [
-										"Natural caves vary in height and water depth; see their descriptions ({@area M2|1a6|x}\u2013{@area M3|1aa|x}, {@area M32|1f6|x}\u2013{@area M34|1f9|x}, and {@area M37|1fe|x}\u2013{@area M39|202|x}) for more information. In flooded caves, the murky water limits visibility to 20 feet. The tides' effect on water depth is negligible."
+										"Le grotte naturali variano in altezza e profondità dell'acqua; vedere le relative descrizioni ({@area M2|1a6|x}–{@area M3|1aa|x}, {@area M32|1f6|x}–{@area M34|1f9|x} e {@area M37|1fe|x}–{@area M39|202|x}) per ulteriori informazioni. Nelle grotte allagate, l'acqua torbida limita la visibilità a 20 piedi. L'effetto delle maree sulla profondità dell'acqua è trascurabile."
 									]
 								},
 								{
@@ -2217,7 +2217,7 @@
 									"name": "Ceilings",
 									"id": "1a0",
 									"entries": [
-										"All corridors in the monastery are 10 feet high with arched ceilings. Rooms on the upper floor have 15-foot vaulted ceilings; rooms on the lower floor have flat, 10-foot ceilings."
+										"Tutti i corridoi del monastero sono alti 10 piedi e hanno soffitti ad arco. Le stanze al piano superiore hanno soffitti a volta di 15 piedi; le stanze al piano inferiore hanno soffitti piatti di 10 piedi."
 									]
 								},
 								{
@@ -2225,7 +2225,7 @@
 									"name": "Doors",
 									"id": "1a1",
 									"entries": [
-										"Most doors are made of wood with iron handles and hinges."
+										"La maggior parte delle porte sono in legno con maniglie e cerniere in ferro."
 									]
 								},
 								{
@@ -2233,7 +2233,7 @@
 									"name": "Lighting",
 									"id": "1a2",
 									"entries": [
-										"Hooded Lanterns hanging from the ceiling by iron chains cast Bright Light in interior rooms. Sunlight entering the cave mouth during the day casts {@variantrule Dim Light|XPHB} through cave areas in the upper level. Caves in the lower level are in Darkness; descriptions assume the characters have a way of seeing in the dark."
+										"Lanterne con cappuccio appese al soffitto tramite catene di ferro proiettano luce intensa nelle stanze interne. La luce solare che entra dall'imboccatura della grotta durante il giorno si proietta {@variantrule Dim Light|XPHB} attraverso le aree della grotta nel livello superiore. Le caverne al livello inferiore sono nell'oscurità; le descrizioni presuppongono che i personaggi abbiano un modo di vedere nell'oscurità."
 									]
 								},
 								{
@@ -2241,7 +2241,7 @@
 									"name": "Windows",
 									"id": "1a3",
 									"entries": [
-										"Some western rooms on the monastery's upper level (areas {@area M5|1ae|x}\u2013{@area M6|1b0|x} and {@area M8|1b4|x}\u2013{@area M9|1b6|x}) have narrow stained-glass windows that a character can swing open from the inside. These windows can't be opened from the outside but break easily (AC 11, HP 2, Vulnerability to Bludgeoning damage, Immunity to Poison and Psychic damage). A character can easily climb through an open window."
+										"Alcune stanze occidentali al piano superiore del monastero (aree {@area M5|1ae|x}–{@area M6|1b0|x} e {@area M8|1b4|x}–{@area M9|1b6|x}) hanno strette finestre di vetro colorato che un personaggio può aprire dall'interno. Queste finestre non possono essere aperte dall'esterno ma si rompono facilmente (CA 11, PF 2, Vulnerabilità ai danni contundenti, Immunità al Veleno e ai danni psichici). Un personaggio può facilmente arrampicarsi attraverso una finestra aperta."
 									]
 								}
 							]
@@ -2251,13 +2251,13 @@
 							"name": "Upper Level Locations",
 							"id": "1a4",
 							"entries": [
-								"The following locations are keyed to {@adventure Map: Monastery Upper Level|DrDe-TDoN|1|Map: Monastery Upper Level}.",
+								"Le seguenti posizioni sono collegate a {@adventure Map: Monastery Upper Level|DrDe-TDoN|1|Map: Monastery Upper Level}.",
 								{
 									"type": "entries",
 									"name": "M1: Cliffside Walkway",
 									"id": "1a5",
 									"entries": [
-										"This stone path extends from the top of a 100-foot-high cliff southeast of the area shown on the map to the mouth of a sea cave (area {@area M2|1a6|x}), ending at the monastery's entrance (area {@area M4|1ab|x}). {@creature Goat|XMM|Goats} often wander the walkway."
+										"Questo sentiero di pietra si estende dalla cima di una scogliera alta 30 metri a sud-est dell'area mostrata sulla mappa fino all'imboccatura di una grotta marina (area {@area M2|1a6|x}), terminando all'ingresso del monastero (area {@area M4|1ab|x}). {@creature Goat|XMM|Goats} spesso vaga per la passerella."
 									]
 								},
 								{
@@ -2269,18 +2269,18 @@
 											"type": "insetReadaloud",
 											"id": "1a7",
 											"entries": [
-												"Seawater flows through this cave. A walkway along its southeast wall leads to the entry of a building carved into the stone. Along the west wall sit two barren, rocky ledges.",
-												"Further back, a rowboat is tied up to a dock. The dock is attached to the building carved into the cave's east wall. The building's stained-glass windows overlook the dock and the cave mouth."
+												"L'acqua di mare scorre attraverso questa grotta. Una passerella lungo il muro sud-est conduce all'ingresso di un edificio scolpito nella pietra. Lungo la parete ovest si trovano due spoglie sporgenze rocciose.",
+												"Più indietro, una barca a remi è ormeggiata al molo. Il molo è collegato all'edificio scavato nella parete est della grotta. Le vetrate dell'edificio si affacciano sul molo e sull'imboccatura della grotta."
 											]
 										},
-										"The water in this cave is 20 feet deep. The uneven ceiling rises roughly 30 feet above water level.",
-										"The dock and Rowboat are described in area {@area M3|1aa|x}. The monastery's entrance is described in area {@area M4|1ab|x}.",
+										"L'acqua in questa grotta è profonda 20 piedi. Il soffitto irregolare si eleva a circa 30 piedi sopra il livello dell'acqua.",
+										"Il molo e la barca a remi sono descritti nell'area {@area M3|1aa|x}. L'ingresso del monastero è descritto nell'area {@area M4|1ab|x}.",
 										{
 											"type": "entries",
 											"name": "Ledges",
 											"id": "1a8",
 											"entries": [
-												"Along the west wall are two rocky ledges with nothing on them. The northern ledge is 10 feet above the water, and the southern ledge a more accessible 5 feet above it."
+												"Lungo la parete ovest ci sono due sporgenze rocciose su cui non c'è nulla. La sporgenza settentrionale è 3 metri sopra l'acqua, mentre la sporgenza meridionale è più accessibile 1,5 metri sopra di essa."
 											]
 										},
 										{
@@ -2288,7 +2288,7 @@
 											"name": "Underwater Tunnel",
 											"id": "1a9",
 											"entries": [
-												"At the north end of the cave is a completely submerged, 10-foot-diameter tunnel blocked by boulders (see area {@area M33|1f8|x} for details)."
+												"All'estremità nord della grotta c'è un tunnel completamente sommerso, del diametro di 3 metri, bloccato da massi (vedi area {@area M33|1f8|x} per i dettagli)."
 											]
 										}
 									]
@@ -2298,7 +2298,7 @@
 									"name": "M3: Dock",
 									"id": "1aa",
 									"entries": [
-										"Stone posts support this wooden dock from below (see area {@area M32|1f6|x}). Tied to the dock is a Rowboat, which the monks primarily use for fishing. The boat's oars are kept in the storeroom (area {@area M27|1eb|x}). East of the dock, a stone staircase ascends to a cross-shaped hallway with three doors at the opposite end."
+										"I pali di pietra sostengono questo molo di legno dal basso (vedi area {@area M32|1f6|x}). Legata al molo c'è una barca a remi, che i monaci usano principalmente per pescare. I remi della barca sono conservati nel magazzino (area {@area M27|1eb|x}). A est del molo, una scala in pietra sale ad un corridoio a forma di croce con tre porte all'estremità opposta."
 									]
 								},
 								{
@@ -2306,21 +2306,21 @@
 									"name": "M4: Barred Entrance",
 									"id": "1ab",
 									"entries": [
-										"If the characters approach the monastery via the walkway (area {@area M1|1a5|x}), describe the entrance as follows:",
+										"Se i personaggi si avvicinano al monastero tramite la passerella (area {@area M1|1a5|x}), descrivi l'ingresso come segue:",
 										{
 											"type": "insetReadaloud",
 											"id": "1ac",
 											"entries": [
-												"The walkway leads to a rough-hewn staircase that climbs to an alcove. At the back of the alcove stands an oak door set with an iron knocker shaped like a sheep's head. The door's stone frame is decorated with carvings of flowers and small birds. Engraved above the door are the words \"Enter in Peace\" in Common."
+												"Il camminamento conduce ad una scala grezza che sale ad un'alcova. In fondo all'alcova si trova una porta di quercia munita di batacchio di ferro a forma di testa di pecora. La cornice in pietra della porta è decorata con intagli di fiori e piccoli uccelli. Sopra la porta sono incise le parole \"Entra in pace\" in Comune."
 											]
 										},
-										"Close inspection of the door reveals a tiny peephole situated above the knocker (for tall monks) and another one situated below the knocker (for short monks). The door is barred from the inside. The size and weight of the door raises the DC to force it open to 20.",
+										"Un attento esame della porta rivela un minuscolo spioncino situato sopra il battente (per i monaci alti) e un altro situato sotto il battente (per i monaci bassi). La porta è sbarrata dall'interno. Le dimensioni e il peso della porta aumentano la CD per forzarla ad aprirsi a 20.",
 										{
 											"type": "entries",
 											"name": "Monk's Welcome",
 											"id": "1ad",
 											"entries": [
-												"If one or more characters bang on the door, use the knocker, or otherwise signal their arrival, a human monk arrives within a minute, peers through one of the peepholes, unbars the door, and welcomes the new arrivals. The monk leads them to a large hall (area {@area M17|1ca|x}), where Hierarch Anish is engaged in discussions with others of the order."
+												"Se uno o più personaggi bussano alla porta, usano il batacchio o segnalano in altro modo il loro arrivo, un monaco umano arriva entro un minuto, sbircia attraverso uno degli spioncini, apre la porta e dà il benvenuto ai nuovi arrivati. Il monaco li conduce in una grande sala (area {@area M17|1ca|x}), dove il Gerarca Anish è impegnato in discussioni con gli altri dell'ordine."
 											]
 										}
 									]
@@ -2334,12 +2334,12 @@
 											"type": "insetReadaloud",
 											"id": "1af",
 											"entries": [
-												"Four stone pedestals, each one three feet tall, stand in a row near four narrow stained-glass windows showing pastoral scenes. Situated atop each pedestal is a large birdcage. A dwarf monk on a stepladder is cleaning out one of the cages."
+												"Quattro piedistalli di pietra, ciascuno alto tre piedi, stanno in fila vicino a quattro strette finestre di vetro colorato che mostrano scene pastorali. Situata in cima a ogni piedistallo c'è una grande gabbia per uccelli. Un monaco nano su una scala a pioli sta ripulendo una delle gabbie."
 											]
 										},
-										"Each birdcage weighs 20 pounds. The first time the characters visit the aviary, the monk is removing the remains of dead falcons from the cages and depositing them in a basket on the floor. A character who takes a {@action Search|XPHB} action and examines the falcons can make a {@dc 15} Wisdom ({@skill Medicine|XPHB}) check. On a success, the character ascertains that the falcons died after ingesting some kind of poison within the past 12 hours.",
-										"The monk can confirm that the birds were well yesterday. He believes they died from eating poisoned meat but doesn't know who fed it to them. He explains that these falcons were trained to deliver messages to and from the monastery. (Ronnom fed the birds poisoned meat to stop the monks from communicating the secret of his identity to the outside world.)",
-										"The monk then suggests the characters speak immediately with the head of his order, Hierarch Anish. If they're not accompanied by another monk, he leads them to a large hall (area {@area M17|1ca|x}), where Anish is consulting with the rest of the monks."
+										"Ogni gabbia per uccelli pesa 20 libbre. La prima volta che i personaggi visitano la voliera, il monaco rimuove i resti dei falchi morti dalle gabbie e li deposita in un cesto sul pavimento. Un personaggio che esegue un'azione {@action Search|XPHB} ed esamina i falchi può effettuare una prova di {@dc 15} Saggezza ({@skill Medicine|XPHB}). In caso di successo, il personaggio accerta che i falchi sono morti dopo aver ingerito un qualche tipo di veleno nelle ultime 12 ore.",
+										"Il monaco può confermare che ieri gli uccelli stavano bene. Crede che siano morti per aver mangiato carne avvelenata ma non sa chi gliel'ha data da mangiare. Spiega che questi falchi erano addestrati per consegnare messaggi da e verso il monastero. (Ronnom diede da mangiare agli uccelli carne avvelenata per impedire ai monaci di comunicare il segreto della sua identità al mondo esterno.)",
+										"Il monaco suggerisce quindi ai personaggi di parlare immediatamente con il capo del suo ordine, il Gerarca Anish. Se non sono accompagnati da un altro monaco, li conduce in una grande sala (area {@area M17|1ca|x}), dove Anish si consulta con il resto dei monaci."
 									]
 								},
 								{
@@ -2351,11 +2351,11 @@
 											"type": "insetReadaloud",
 											"id": "1b1",
 											"entries": [
-												"This long, narrow room has four stained-glass windows depicting pastoral scenes and two writing desks with wooden chairs."
+												"Questa stanza lunga e stretta ha quattro vetrate raffiguranti scene pastorali e due scrivanie con sedie in legno."
 											]
 										},
-										"The monks communicate with the outside world by writing letters and using trained falcons (see area {@area M5|1ae|x}) to deliver them to faraway cities. The letters are written using the supplies stored in the desks.",
-										"Characters who search the desks' drawers find four wooden scroll tubes (each small enough to be tied to a falcon's leg), two sets of Calligrapher's Supplies, and two Candles."
+										"I monaci comunicano con il mondo esterno scrivendo lettere e utilizzando falchi addestrati (vedi area {@area M5|1ae|x}) per consegnarle in città lontane. Le lettere vengono scritte utilizzando le scorte conservate nelle scrivanie.",
+										"I personaggi che frugano nei cassetti delle scrivanie trovano quattro tubi di legno per pergamene (ognuno abbastanza piccolo da essere legato alla zampa di un falco), due set di scorte per calligrafo e due candele."
 									]
 								},
 								{
@@ -2367,18 +2367,18 @@
 											"type": "insetReadaloud",
 											"id": "1b3",
 											"entries": [
-												"This room is furnished with a wooden operating table positioned below two hanging lanterns. Stone shelves along the walls hold bandages, clean sheets, and other medical supplies."
+												"Questa stanza è arredata con un tavolo operatorio in legno posizionato sotto due lanterne sospese. Gli scaffali di pietra lungo le pareti contengono bende, lenzuola pulite e altre forniture mediche."
 											]
 										},
-										"Characters who examine the contents of the room find the following items:",
+										"I personaggi che esaminano il contenuto della stanza trovano i seguenti oggetti:",
 										{
 											"type": "list",
 											"items": [
 												"Ten {@item Blanket|XPHB|Blankets}",
-												"Ten empty {@item Glass Bottle|XPHB|Glass Bottles}",
-												"Twelve {@item Healer's Kit|XPHB|Healer's Kits}",
-												"Two {@item Hooded Lantern|XPHB|Hooded Lanterns} (hanging above the table)",
-												"One jar of {@item Keoghtom's Ointment|XDMG}"
+												"Dieci vuoti {@item Glass Bottle|XPHB|Glass Bottles}",
+												"Dodici {@item Healer's Kit|XPHB|Healer's Kits}",
+												"Due {@item Hooded Lantern|XPHB|Hooded Lanterns} (appesi sopra il tavolo)",
+												"Un barattolo di {@item Keoghtom's Ointment|XDMG}"
 											]
 										}
 									]
@@ -2392,10 +2392,10 @@
 											"type": "insetReadaloud",
 											"id": "1b5",
 											"entries": [
-												"Two neatly made beds crowd this ten-foot-square room. Four stained-glass windows depicting grazing goats let in dim light in dappled patterns of green, blue, and yellow."
+												"Due letti ben rifatti affollano questa stanza di dieci piedi quadrati. Quattro vetrate colorate raffiguranti capre al pascolo lasciano entrare una luce fioca in motivi screziati di verde, blu e giallo."
 											]
 										},
-										"The sick and the wounded come here to rest and recuperate. Under each bed sits an empty chamber pot."
+										"I malati e i feriti vengono qui per riposarsi e riprendersi. Sotto ogni letto c'è un vaso da notte vuoto."
 									]
 								},
 								{
@@ -2407,16 +2407,16 @@
 											"type": "insetReadaloud",
 											"id": "1b7",
 											"entries": [
-												"Freestanding bookcases form neat rows in this room. Narrow stained-glass windows depicting pastoral scenes line one wall. A well-used broom leans between two of the windows."
+												"Le librerie indipendenti formano file ordinate in questa stanza. Strette vetrate raffiguranti scene pastorali fiancheggiano una parete. Una scopa ben usata è appoggiata tra due finestre."
 											]
 										},
-										"The broom is nonmagical.",
+										"La scopa non è magica.",
 										{
 											"type": "entries",
 											"name": "Books",
 											"id": "1b8",
 											"entries": [
-												"Hundreds of nonmagical books are stored here and organized by topic. A character who spends 8 hours conducting research in this library gains Advantage on ability checks tied to one skill\u2014{@skill History|XPHB}, {@skill Medicine|XPHB}, or {@skill Nature|XPHB}\u2014for the next 24 hours."
+												"Centinaia di libri non magici sono conservati qui e organizzati per argomento. Un personaggio che trascorre 8 ore a condurre ricerche in questo grimorio ottiene vantaggio sulle prove di caratteristica legate a un'abilità {@skill History|XPHB}, {@skill Medicine|XPHB} o {@skill Nature|XPHB} - per le successive 24 ore."
 											]
 										},
 										{
@@ -2424,7 +2424,7 @@
 											"name": "Spellbook",
 											"id": "1b9",
 											"entries": [
-												"Any character who spends at least 10 minutes examining the books in this library finds an old Spellbook that belonged to a dwarf magic-user named Xantarn, who died in the monastery eight years ago. The book contains the following spells: {@spell Arcane Lock|XPHB}, {@spell Color Spray|XPHB}, {@spell Counterspell|XPHB}, {@spell Darkvision|XPHB}, {@spell Detect Magic|XPHB}, {@spell Feather Fall|XPHB}, {@spell Invisibility|XPHB}, {@spell Mage Armor|XPHB}, {@spell Magic Missile|XPHB}, {@spell Melf's Acid Arrow|XPHB}, {@spell Phantasmal Force|XPHB}, {@spell Sending|XPHB}, {@spell Speak with Dead|XPHB}, {@spell Unseen Servant|XPHB}, and {@spell Vampiric Touch|XPHB}."
+												"Qualsiasi personaggio che trascorre almeno 10 minuti esaminando i libri in questa biblioteca trova un vecchio libro degli incantesimi appartenuto a un nano mago di nome Xantarn, morto nel monastero otto anni fa. Il libro contiene i seguenti incantesimi: {@spell Arcane Lock|XPHB}, {@spell Color Spray|XPHB}, {@spell Counterspell|XPHB}, {@spell Darkvision|XPHB}, {@spell Detect Magic|XPHB}, {@spell Feather Fall|XPHB}, {@spell Invisibility|XPHB}, {@spell Mage Armor|XPHB}, {@spell Magic Missile|XPHB}, {@spell Melf's Acid Arrow|XPHB}, {@spell Phantasmal Force|XPHB}, {@spell Sending|XPHB}, {@spell Speak with Dead|XPHB}, {@spell Unseen Servant|XPHB} e {@spell Vampiric Touch|XPHB}."
 											]
 										}
 									]
@@ -2438,12 +2438,12 @@
 											"type": "insetReadaloud",
 											"id": "1bb",
 											"entries": [
-												"Two iron stoves sit at opposite ends of this narrow, cluttered kitchen. Next to the western stove, a staircase descends.",
-												"Two monks are hard at work preparing a meal."
+												"Due stufe in ferro si trovano alle estremità opposte di questa cucina stretta e disordinata. Accanto alla stufa occidentale scende una scala.",
+												"Due monaci sono al lavoro per preparare un pasto."
 											]
 										},
-										"The two human monks (Medium {@creature Commoner|XMM|Commoners}) pay little heed to visitors as they prepare batches of fish stew.",
-										"Characters who loot the kitchen can gather enough supplies to create two sets of {@item Cook's Utensils|XPHB}."
+										"I due monaci umani (Medio {@creature Commoner|XMM|Commoners}) prestano poca attenzione ai visitatori mentre preparano lotti di stufato di pesce.",
+										"I personaggi che saccheggiano la cucina possono raccogliere scorte sufficienti per creare due set di {@item Cook's Utensils|XPHB}."
 									]
 								},
 								{
@@ -2451,15 +2451,15 @@
 									"name": "M11: Guest Quarters",
 									"id": "1bc",
 									"entries": [
-										"These cells, set aside for visitors, each contain a wooden bed, a chamber pot, and hooks on the walls for hanging clothes. Under each bed is a shelf for storing personal effects.",
-										"The survivors from the Naiad are resting in three cells: Ashlyn in {@area M11a|1bc|x}, Devi in {@area M11b|1bc|x}, and Treef in {@area M11c|1bc|x}. Each survivor is described further below.",
-										"The remaining cells are unoccupied, unless the characters or any {@i Wavemount} crew are staying at the monastery. If they are, the characters and crew share the remaining cells as the players see fit.",
+										"Queste celle, riservate ai visitatori, contengono ciascuna un letto di legno, un vaso da notte e ganci alle pareti per appendere i vestiti. Sotto ogni letto è presente uno scaffale per riporre gli effetti personali.",
+										"I sopravvissuti della Naiade riposano in tre celle: Ashlyn a {@area M11a|1bc|x}, Devi a {@area M11b|1bc|x} e Treef a {@area M11c|1bc|x}. Ogni sopravvissuto è descritto più avanti.",
+										"Le celle rimanenti non sono occupate, a meno che i personaggi o qualsiasi membro dell'equipaggio {@i Wavemount} non soggiornino nel monastero. Se lo sono, i personaggi e l'equipaggio condividono le celle rimanenti come i giocatori ritengono opportuno.",
 										{
 											"type": "entries",
 											"name": "Ashlyn Maranta",
 											"id": "1bd",
 											"entries": [
-												"Ashlyn is an elf (Medium, Chaotic Good {@creature Scout|XMM}) with pale blue skin who can breathe both air and water. She was close to the Naiad's late captain, a human named Jeressa Lameer. When the Naiad sank, Ashlyn helped Devi and Treef swim to Najkir. She is brave but saddened by the loss of her captain and other shipmates."
+												"Ashlyn è un'elfa (media, caotica buona {@creature Scout|XMM}) con la pelle azzurra che può respirare sia aria che acqua. Era vicina al defunto capitano della Naiad, un'umana di nome Jeressa Lameer. Quando la Naiade affondò, Ashlyn aiutò Devi e Treef a nuotare fino a Najkir. È coraggiosa ma rattristata dalla perdita del suo capitano e di altri compagni di nave."
 											]
 										},
 										{
@@ -2467,7 +2467,7 @@
 											"name": "Devi Talzar",
 											"id": "1be",
 											"entries": [
-												"Devi is a middle-aged human (Medium, Neutral Good {@creature Priest|XMM}) with a kind face who serves a god of the stars and wanderers. Devi carries a {@item Sending Stones|XDMG|Sending Stone}, which she uses to communicate with her good friend Mirel Astafar. Devi is cautious, patient, and brave but doesn't take unnecessary risks."
+												"Devi è un essere umano di mezza età (Medio, Neutrale Buono {@creature Priest|XMM}) con un volto gentile che serve un dio delle stelle e dei vagabondi. Devi porta con sé un {@item Sending Stones|XDMG|Sending Stone} che usa per comunicare con la sua buona amica Mirel Astafar. Devi è cauta, paziente e coraggiosa ma non corre rischi inutili."
 											]
 										},
 										{
@@ -2475,7 +2475,7 @@
 											"name": "Treef Lameer",
 											"id": "1bf",
 											"entries": [
-												"Treef is a fifteen-year-old human (Medium, Chaotic Neutral {@creature Noble|XMM}) born into a privileged and politically powerful family. He is also the nephew of the Naiad's late captain, Jeressa Lameer. He recognized Ronnom Daamos at once. Although he hopes for rescue, Treef thinks Ronnom ordered the dragon to sink the Naiad and wants revenge. He won't leave the monastery until Ronnom is, as he says, \"properly dealt with.\""
+												"Treef è un umano di quindici anni (Medio, Caotico Neutrale {@creature Noble|XMM}) nato in una famiglia privilegiata e politicamente potente. È anche il nipote del defunto capitano della Naiade, Jeressa Lameer. Riconobbe subito Ronnom Daamos. Sebbene speri in un salvataggio, Treef pensa che Ronnom abbia ordinato al drago di affondare la Naiade e voglia vendicarsi. Non lascerà il monastero finché Ronnom non sarà, come dice, \"trattato adeguatamente\"."
 											]
 										}
 									]
@@ -2485,8 +2485,8 @@
 									"name": "M12: Monks' Dormitory",
 									"id": "1c0",
 									"entries": [
-										"This room has east and west wings. Each wing contains three bunk beds (so there are twelve beds in all), three trunks for personal storage, and a cabinet holding towels and clean linens.",
-										"At night, all the monks except Hierarch Anish sleep here."
+										"Questa stanza ha le ali est e ovest. Ogni ala contiene tre letti a castello (quindi ci sono dodici letti in tutto), tre bauli per riporre oggetti personali e un armadietto con asciugamani e biancheria pulita.",
+										"Di notte, tutti i monaci tranne il Gerarca Anish dormono qui."
 									]
 								},
 								{
@@ -2498,10 +2498,10 @@
 											"type": "insetReadaloud",
 											"id": "1c2",
 											"entries": [
-												"This dining hall contains two long wooden tables. Eighteen chairs are arranged around the tables, which have dishes, utensils, and goblets neatly arrayed atop them. Three sideboards are lined up against the south wall, and a tall cabinet stands by the east wall. A basin near the northwest doors holds fresh water, and a bust of a bearded man rests on a pedestal in the northeast corner. Lit lanterns hang above the tables."
+												"Questa sala da pranzo contiene due lunghi tavoli di legno. Diciotto sedie sono disposte attorno ai tavoli, sui quali sono disposti ordinatamente piatti, utensili e calici. Tre credenze sono allineate contro il muro sud e un alto armadio si trova accanto al muro est. Un bacino vicino alle porte nord-ovest contiene acqua dolce, e un busto di un uomo barbuto poggia su un piedistallo nell'angolo nord-est. Sopra i tavoli sono appese lanterne accese."
 											]
 										},
-										"The monks gather here twice per day\u2014once for breakfast at sunrise and once for dinner at sunset. Guests are welcome to join them as space allows. Hierarch Anish never dines here and instead receives his meals in his office (area {@area M15|1c5|x})."
+										"I monaci si riuniscono qui due volte al giorno: una volta per colazione all'alba e una volta per cena al tramonto. Gli ospiti sono invitati a unirsi a loro se lo spazio lo consente. Il Gerarca Anish non cena mai qui e riceve invece i pasti nel suo ufficio (area {@area M15|1c5|x})."
 									]
 								},
 								{
@@ -2513,10 +2513,10 @@
 											"type": "insetReadaloud",
 											"id": "1c4",
 											"entries": [
-												"This ten-foot-square room features a couple of benches with buckets beneath them and a wooden trapdoor in the floor. A bathtub sits in the corner."
+												"Questa stanza di tre metri quadrati presenta un paio di panche con dei secchi sotto e una botola di legno nel pavimento. Nell'angolo c'è una vasca da bagno."
 											]
 										},
-										"Below the trapdoor, a shallow trench carries waste away from the monastery.",
+										"Sotto la botola, una fossa poco profonda porta via i rifiuti dal monastero.",
 										{
 											"type": "image",
 											"href": {
@@ -2538,23 +2538,23 @@
 											"type": "insetReadaloud",
 											"id": "1c6",
 											"entries": [
-												"This airy room contains a desk and high-backed chair situated in front of a carving that spans the entire east wall. The carving depicts a family of goats climbing a majestic, windswept cliff. Books and knickknacks adorn shelves and cabinets around the walls."
+												"Questa stanza ariosa contiene una scrivania e una sedia con lo schienale alto situata di fronte a un intaglio che si estende lungo l'intera parete est. L'intaglio raffigura una famiglia di capre che si arrampica su una maestosa scogliera battuta dal vento. Libri e soprammobili adornano scaffali e armadietti attorno alle pareti."
 											]
 										},
-										"When he's not elsewhere, Hierarch Anish (Medium, Lawful Neutral {@creature Commoner|XMM}) oversees the affairs of the monastery from this office.",
+										"Quando non è altrove, il Gerarca Anish (Medio, Legale Neutrale {@creature Commoner|XMM}) supervisiona gli affari del monastero da questo ufficio.",
 										{
 											"type": "entries",
 											"name": "Desk",
 											"id": "1c7",
 											"entries": [
-												"Characters who search the desk's drawers find the following items:",
+												"I personaggi che frugano nei cassetti della scrivania trovano i seguenti oggetti:",
 												{
 													"type": "list",
 													"items": [
 														"Two {@item Candle|XPHB|Candles}",
-														"One bottle of {@item Ink|XPHB}",
+														"Una bottiglia di {@item Ink|XPHB}",
 														"One {@item Ink Pen|XPHB}",
-														"Ten sheets of {@item Parchment|XPHB}"
+														"Dieci fogli di {@item Parchment|XPHB}"
 													]
 												}
 											]
@@ -2564,7 +2564,7 @@
 											"name": "Wall Carving",
 											"id": "1c8",
 											"entries": [
-												"The carving on the eastern wall is symbolic: the goats represent unity of purpose, and their steady climb represents the spiritual journey one must take to achieve enlightenment and the heights of tranquility. A character who examines the carving and takes a {@action Study|XPHB} action can make a {@dc 10} Intelligence ({@skill Religion|XPHB}) check. On a success, the character recognizes its meaning."
+												"L'intaglio sulla parete orientale è simbolico: le capre rappresentano l'unità di intenti e la loro ascesa costante rappresenta il viaggio spirituale da intraprendere per raggiungere l'illuminazione e le vette della tranquillità. Un personaggio che esamina l'incisione ed esegue un'azione {@action Study|XPHB} può effettuare una prova di {@dc 10} Intelligenza ({@skill Religion|XPHB}). In caso di successo, il personaggio ne riconosce il significato."
 											]
 										}
 									]
@@ -2574,7 +2574,7 @@
 									"name": "M16: Hierarch's Quarters",
 									"id": "1c9",
 									"entries": [
-										"The hierarch's bedroom is private but no fancier than the other monks' quarters. It contains a short, neatly made bed, a nightstand, a chest of drawers with a washbasin, and a tall cabinet holding a few spare garments."
+										"La camera da letto del gerarca è privata ma non più elegante degli alloggi degli altri monaci. Contiene un letto basso e ben fatto, un comodino, una cassettiera con un lavabo e un armadio alto che contiene alcuni indumenti di ricambio."
 									]
 								},
 								{
@@ -2586,26 +2586,26 @@
 											"type": "insetReadaloud",
 											"id": "1cb",
 											"entries": [
-												"Four life-size goat statues perch atop stone pedestals in this room's corners. The goats' bearded faces convey wisdom and calm.Twelve figures wearing wool robes and wooden clogs are gathered here. Your arrival interrupts their quiet yet intense conversation. The monks\u2014an orc, an elf, a dwarf, a dragonborn, a tiefling, and some humans\u2014turn toward you with looks of mild surprise. The monk in the center, an older aasimar, leans on a snake-headed cane and says, \"Enter in peace, friends.\""
+												"Quattro statue di capre a grandezza naturale sono appollaiate su piedistalli di pietra negli angoli di questa stanza. I volti barbuti delle capre trasmettono saggezza e calma. Qui sono riunite dodici figure che indossano abiti di lana e zoccoli di legno. Il tuo arrivo interrompe la loro conversazione tranquilla ma intensa. I monaci (un orco, un elfo, un nano, un dragonide, un tiefling e alcuni umani) si girano verso di te con sguardi di lieve sorpresa. Il monaco al centro, un aasimar più anziano, si appoggia a un bastone dalla testa di serpente e dice: \"Entrate in pace, amici\"."
 											]
 										},
-										"The aasimar is Hierarch Anish (see {@area M15|1c5|x}). He and eleven monks (a mix of Small and Medium {@creature Commoner|XMM|Commoners}) are gathered here to discuss what to do about Ronnom Daamos and his bodyguards. Anish's cane is a {@item Staff of the Python|XDMG}.",
-										"If the characters were led here by a monk (see areas {@area M4|1ab|x}\u2013{@area M5|1ae|x}), that monk joins the others. The members of the order are upset about the poisoning of the falcons. They've ruled out the shipwreck survivors as suspects, concluding that the falcons were killed on Ronnom's orders. The monks don't know how to proceed, given that Ronnom refuses to leave, and they can't force him to do so. Anish believes the characters' arrival is a gift.",
-										"After inquiring about the characters' business at the monastery, Anish tells them he'd like to make a request of them. If the characters are interested, read or paraphrase the following:",
+										"L'aasimar è il Gerarca Anish (vedi {@area M15|1c5|x}). Lui e undici monaci (un misto di Piccolo e Medio {@creature Commoner|XMM|Commoners}) sono riuniti qui per discutere cosa fare con Ronnom Daamos e le sue guardie del corpo. Il bastone di Anish è un {@item Staff of the Python|XDMG}.",
+										"Se i personaggi sono stati guidati qui da un monaco (vedi aree {@area M4|1ab|x}–{@area M5|1ae|x}), quel monaco si unisce agli altri. I membri dell'ordine sono sconvolti per l'avvelenamento dei falchi. Hanno escluso i sopravvissuti al naufragio come sospetti, concludendo che i falchi sono stati uccisi su ordine di Ronnom. I monaci non sanno come procedere, visto che Ronnom si rifiuta di partire, e non possono obbligarlo a farlo. Anish crede che l'arrivo dei personaggi sia un dono.",
+										"Dopo aver chiesto informazioni sugli affari dei personaggi al monastero, Anish dice loro che gli piacerebbe fare loro una richiesta. Se i personaggi sono interessati, leggi o parafrasa quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"id": "1cc",
 											"entries": [
-												"The aasimar tightens his grip on his cane as he speaks. \"A guest of the monastery, Ronnom Daamos, has many enemies. Unbeknownst to us, he came to Najkir a wanted man, and he and his bodyguards won't leave\u2014and won't allow anyone else to leave, either. Skalanthas the dragon is beholden to Ronnom, as the dragon was to Ronnom's mother years ago. Ishyllia Daamos was a knight of valor, but her son is anything but. So we turn to you. Will you help us?\""
+												"L'aasimar stringe la presa sul bastone mentre parla. \"Un ospite del monastero, Ronnom Daamos, ha molti nemici. A nostra insaputa, è arrivato a Najkir come ricercato, e lui e le sue guardie del corpo non se ne andranno... e non permetteranno nemmeno a nessun altro di andarsene. Skalanthas il drago è devoto a Ronnom, come il drago lo era alla madre di Ronnom anni fa. Ishyllia Daamos era un cavaliere valoroso, ma suo figlio è tutt'altro. Quindi ci rivolgiamo a te. Ci aiuterai?\""
 											]
 										},
-										"In response to the characters' questions, the monks share information (see \"{@area What the Residents Know|195|x}\") and ask the characters to end the threat posed by Ronnom Daamos and his bodyguards without incurring the wrath of Skalanthas. If the characters tell the hierarch that Skalanthas has been sinking ships that sail near the island, the hierarch shakes his head sadly and suggests that if Skalanthas knew about Ronnom's crimes, the dragon surely would act differently.",
+										"In risposta alle domande dei personaggi, i monaci condividono informazioni (vedi \"{@area What the Residents Know|195|x}\") e chiedono ai personaggi di porre fine alla minaccia rappresentata da Ronnom Daamos e dalle sue guardie del corpo senza incorrere nell'ira di Skalanthas. Se i personaggi dicono al gerarca che Skalanthas ha affondato delle navi che navigano vicino all'isola, il gerarca scuote tristemente la testa e suggerisce che se Skalanthas sapesse dei crimini di Ronnom, il drago sicuramente si comporterebbe diversamente.",
 										{
 											"type": "entries",
 											"name": "Quest Accepted",
 											"id": "1cd",
 											"entries": [
-												"Should the characters agree to help, Anish tells them that Ronnom and his bodyguards reside on the lower level. If the characters don't know how to get there, Anish asks one of the monks to lead them to the north stairs (area {@area M23|1e1|x}). Anish also gives them a key that unlocks the door to a dungeon cell on the lower level (area {@area M30|1f2|x}), should the characters wish to use it to lock up prisoners."
+												"Se i personaggi accettano di aiutare, Anish dice loro che Ronnom e le sue guardie del corpo risiedono al livello inferiore. Se i personaggi non sanno come arrivarci, Anish chiede a uno dei monaci di condurli alle scale nord (area {@area M23|1e1|x}). Anish dà loro anche una chiave che apre la porta di una cella sotterranea al livello inferiore (area {@area M30|1f2|x}), nel caso in cui i personaggi desiderino usarla per rinchiudere i prigionieri."
 											]
 										},
 										{
@@ -2613,7 +2613,7 @@
 											"name": "Quest Declined",
 											"id": "1ce",
 											"entries": [
-												"If the characters decline to help, Anish warns them that Skalanthas protects Ronnom's secret by preventing anyone from leaving the island. Anish thinks Skalanthas knows nothing about the man's crimes and serves him out of loyalty to House Daamos."
+												"Se i personaggi rifiutano di aiutare, Anish li avverte che Skalanthas protegge il segreto di Ronnom impedendo a chiunque di lasciare l'isola. Anish pensa che Skalanthas non sappia nulla dei crimini dell'uomo e lo serve per lealtà verso la Casata Daamos."
 											]
 										},
 										{
@@ -2621,7 +2621,7 @@
 											"name": "Accommodation",
 											"id": "1cf",
 											"entries": [
-												"Regardless of whether the characters accept the quest, if they or any Wavemount crew wish to stay at the monastery, the monks direct them to the guest quarters (area {@area M11|1bc|x}), where they can stay as long as they like."
+												"Indipendentemente dal fatto che i personaggi accettino la missione, se loro o qualsiasi membro dell'equipaggio di Wavemount desiderano rimanere al monastero, i monaci li indirizzano agli alloggi degli ospiti (area {@area M11|1bc|x}), dove possono rimanere tutto il tempo che desiderano."
 											]
 										}
 									]
@@ -2635,16 +2635,16 @@
 											"type": "insetReadaloud",
 											"id": "1d1",
 											"entries": [
-												"Thirty clay urns line the walls of this room, which is shaped like a quarter circle. On the wall above each urn is a painting depicting a monk in a meditative pose."
+												"Trenta urne di argilla fiancheggiano le pareti di questa stanza, che ha la forma di un quarto di cerchio. Sulla parete sopra ogni urna c'è un dipinto raffigurante un monaco in posa meditativa."
 											]
 										},
-										"After a hierarch's death, a clay urn containing the deceased's ashes is stored here under a portrait the monks have painted of the deceased. Each clay urn is etched with the name of the hierarch whose ashes it contains. (Examples include Abul-Zaar, Jaltus, Larai, Sersiah, and Tymorn.)",
+										"Dopo la morte di un vescovo, qui viene conservata un'urna di argilla contenente le ceneri del defunto, sotto un ritratto del defunto dipinto dai monaci. Su ogni urna di argilla è inciso il nome del gerarca di cui contiene le ceneri. (Gli esempi includono Abul-Zaar, Jaltus, Larai, Sersiah e Tymorn.)",
 										{
 											"type": "entries",
 											"name": "Bypassing Maze Traps",
 											"id": "1d2",
 											"entries": [
-												"The rituals performed in area {@area M21|1d7|x} have imbued each urn with magic that allows a person who touches it to bypass the traps in area {@area M22|1db|x}. As a {@action Magic|XPHB} action, a character can touch an urn and focus on the name etched on its lid. For the next 24 hours, the traps in area {@area M22|1db|x} don't affect that character. The character understands that this magic protects them from traps, but this action does not reveal the traps' location."
+												"I rituali eseguiti nell'area {@area M21|1d7|x} hanno impregnato ogni urna con la magia che consente a una persona che la tocca di aggirare le trappole nell'area {@area M22|1db|x}. Come azione {@action Magic|XPHB}, un personaggio può toccare un'urna e concentrarsi sul nome inciso sul suo coperchio. Per le prossime 24 ore, le trappole nell'area {@area M22|1db|x} non avranno effetto su quel personaggio. Il personaggio capisce che questa magia lo protegge dalle trappole, ma questa azione non rivela la posizione delle trappole."
 											]
 										}
 									]
@@ -2658,10 +2658,10 @@
 											"type": "insetReadaloud",
 											"id": "1d4",
 											"entries": [
-												"This room contains a wooden loom and baskets containing spindles, yarn and thread, shears, shuttles, and bottles of dye."
+												"Questa stanza contiene un telaio di legno e cesti contenenti fusi, filati e fili, cesoie, navette e bottiglie di tintura."
 											]
 										},
-										"Using wool collected from island sheep, the monks weave their own garments. Characters searching the room can combine the supplies to make two sets of {@item Weaver's Tools|XPHB}."
+										"Utilizzando la lana raccolta dalle pecore dell'isola, i monaci tessono i propri indumenti. I personaggi che esplorano la stanza possono combinare le scorte per creare due set di {@item Weaver's Tools|XPHB}."
 									]
 								},
 								{
@@ -2673,10 +2673,10 @@
 											"type": "insetReadaloud",
 											"id": "1d6",
 											"entries": [
-												"This room contains a potter's wheel, jugs of water, and a stack of clay bricks wrapped in damp cloth."
+												"Questa stanza contiene un tornio da vasaio, brocche d'acqua e una pila di mattoni di argilla avvolti in un panno umido."
 											]
 										},
-										"The monks use this facility to make clay urns (like the ones in area {@area M18|1d0|x}) and dishes. Characters searching the room can combine the supplies to make two sets of {@item Potter's Tools|XPHB}."
+										"I monaci utilizzano questa struttura per realizzare urne di argilla (come quelle della zona {@area M18|1d0|x}) e piatti. I personaggi che esplorano la stanza possono combinare le scorte per creare due set di {@item Potter's Tools|XPHB}."
 									]
 								},
 								{
@@ -2684,28 +2684,28 @@
 									"name": "M21: Ritual Chamber",
 									"id": "1d7",
 									"entries": [
-										"Darkness envelops this room. If the characters have a way of seeing in the dark, read or paraphrase the following:",
+										"L'oscurità avvolge questa stanza. Se i personaggi hanno la capacità di vedere nell'oscurità, leggi o parafrasa quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"id": "1d8",
 											"entries": [
-												"This unlit room contains three statues standing with their backs against the walls, forming a triangle. Each statue depicts a robed monk whose face is obscured by a sagging cowl. The hands of each statue grasp a ceremonial sconce that looks like it's meant to hold a torch. A closed wooden cabinet stands against the east wall."
+												"Questa stanza buia contiene tre statue in piedi con la schiena contro le pareti, formando un triangolo. Ogni statua raffigura un monaco vestito con una tunica il cui volto è oscurato da un cappuccio cadente. Le mani di ciascuna statua afferrano un candelabro cerimoniale che sembra destinato a reggere una torcia. Un armadio chiuso in legno è addossato alla parete est."
 											]
 										},
-										"A character who examines the chamber and takes a {@action Study|XPHB} action can make a {@dc 10} Intelligence ({@skill Religion|XPHB}) check. On a success, the character concludes the room is used for rituals, though their exact nature is unclear.",
-										"When a hierarch dies, the monks gather here to meditate on the spirit of the hierarch near an urn containing the leader's ashes. This ritual imbues the urn with magic that enables creatures to bypass the traps in area {@area M22|1db|x}; see the crypt (area {@area M18|1d0|x}) for details.",
+										"Un personaggio che esamina la camera ed esegue un'azione {@action Study|XPHB} può effettuare una prova di {@dc 10} Intelligenza ({@skill Religion|XPHB}). In caso di successo, il personaggio conclude che la stanza viene utilizzata per rituali, sebbene la loro esatta natura non sia chiara.",
+										"Quando un gerarca muore, i monaci si riuniscono qui per meditare sullo spirito del gerarca vicino a un'urna contenente le ceneri del leader. Questo rituale impregna l'urna di magia che consente alle creature di aggirare le trappole nell'area {@area M22|1db|x}; vedere la cripta (area {@area M18|1d0|x}) per i dettagli.",
 										{
 											"type": "entries",
 											"name": "Cabinet",
 											"id": "1d9",
 											"entries": [
-												"The cabinet against the east wall is unlocked and contains the following supplies:",
+												"L'armadietto contro il muro est è sbloccato e contiene i seguenti rifornimenti:",
 												{
 													"type": "list",
 													"items": [
-														"Three {@item Bell|XPHB|Bells} (used in ceremonies)",
+														"Tre {@item Bell|XPHB|Bells} (usato nelle cerimonie)",
 														"One {@item Tinderbox|XPHB}",
-														"Twelve {@item Torch|XPHB|Torches}",
+														"Dodici {@item Torch|XPHB|Torches}",
 														"{@item Spell Scroll|XDMG|Spell Scrolls} of {@spell Bless|XPHB}, {@spell Detect Magic|XPHB}, {@spell False Life|XPHB}, {@spell Protection from Evil and Good|XPHB}"
 													]
 												}
@@ -2716,8 +2716,8 @@
 											"name": "Secret Door",
 											"id": "1da",
 											"entries": [
-												"Any character who looks for secret doors and takes a {@action Search|XPHB} action can make a {@dc 15} Wisdom ({@skill Perception|XPHB}) check. On a success, the character finds a secret door in the north wall, which is locked. If the characters place three lit torches in the statues' sconces, the secret door unlocks. The door silently locks again if one or more of the torches go out or are removed from their sconces. A {@spell Knock|XPHB} spell also unlocks the secret door. It otherwise can't be opened.",
-												"Pushing on the door when it's unlocked causes it to swing open into the maze vault (area {@area M22|1db|x})."
+												"Qualsiasi personaggio che cerchi porte segrete ed esegua un'azione {@action Search|XPHB} può effettuare una prova di {@dc 15} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio trova una porta segreta nel muro nord, che è chiusa a chiave. Se i personaggi posizionano tre torce accese nei candelabri delle statue, la porta segreta si aprirà. La porta si richiude silenziosamente se una o più torce si spengono o vengono rimosse dai loro candelabri. Un incantesimo {@spell Knock|XPHB} apre anche la porta segreta. Altrimenti non potrà essere aperto.",
+												"Spingendo la porta quando è sbloccata, questa si aprirà nella volta del labirinto (area {@area M22|1db|x})."
 											]
 										}
 									]
@@ -2727,22 +2727,22 @@
 									"name": "M22: Maze Vault",
 									"id": "1db",
 									"entries": [
-										"This area is in Darkness. If the characters have a way of seeing in the dark, read or paraphrase the following:",
+										"Questa zona è nell'oscurità. Se i personaggi hanno la capacità di vedere nell'oscurità, leggi o parafrasa quanto segue:",
 										{
 											"type": "insetReadaloud",
 											"id": "1dc",
 											"entries": [
-												"Behind the secret door lies a narrow, dusty tunnel festooned with cobwebs. The tunnel has two openings to the west\u2014one close by, the other farther away.",
-												"Next to the secret door, drawn on the east wall in white chalk, is a stick figure holding what looks like a snake."
+												"Dietro la porta segreta si trova un tunnel stretto e polveroso, addobbato di ragnatele. Il tunnel ha due aperture a ovest: una vicina, l'altra più lontana.",
+												"Accanto alla porta segreta, disegnata sulla parete est con il gesso bianco, c'è una figura stilizzata che tiene in mano quello che sembra un serpente."
 											]
 										},
-										"The monks hide the monastery's wealth in this small labyrinth. The secret door leading to the vault can be pulled open from the inside even if it's locked from the outside.",
+										"I monaci nascondono le ricchezze del monastero in questo piccolo labirinto. La porta segreta che conduce al caveau può essere aperta dall'interno anche se è chiusa dall'esterno.",
 										{
 											"type": "entries",
 											"name": "Chalk Figure",
 											"id": "1dd",
 											"entries": [
-												"Any character who has met Hierarch Anish can ascertain that the chalk figure drawn on the wall represents Anish and his {@item Staff of the Python|XDMG}. This drawing is a clue for bypassing the maze's traps (see \"Traps\" below)."
+												"Qualsiasi personaggio che abbia incontrato il Gerarca Anish può constatare che la figura di gesso disegnata sul muro rappresenta Anish e i suoi {@item Staff of the Python|XDMG}. Questo disegno è un indizio per aggirare le trappole del labirinto (vedi \"Trappole\" di seguito)."
 											]
 										},
 										{
@@ -2750,10 +2750,10 @@
 											"name": "Statue",
 											"id": "1de",
 											"entries": [
-												"At the end of one passage stands a Medium stone statue of a pig. The statue is magical and has a coin slot in the middle of its back.",
-												"Like a piggy bank, the statue is hollow. It holds the monastery's monetary wealth. If a creature speaks the command phrase \"oink, oink, oink\" while touching the statue, the pig's mouth magically opens, and all the statue's contents spill onto the floor.",
-												"The statue contains 4,660 GP, 2,752 SP, and 1,351 CP when the characters discover it. Most of this money was donated to the monastery. Casting an {@spell Identify|XPHB} spell on the statue reveals the command phrase, which otherwise only Hierarch Anish knows.",
-												"Breaking the statue also causes its contents to spill out. The statue has AC 17, HP 18, and Immunity to all damage except Bludgeoning and Force."
+												"Alla fine di un passaggio si trova una statua di pietra media di un maiale. La statua è magica e ha una fessura per le monete al centro della schiena.",
+												"Come un salvadanaio, la statua è vuota. Detiene la ricchezza monetaria del monastero. Se una creatura pronuncia la frase di comando \"oink, oink, oink\" mentre tocca la statua, la bocca del maiale si apre magicamente e tutto il contenuto della statua si riversa sul pavimento.",
+												"La statua contiene 4.660 GP, 2.752 SP e 1.351 CP quando i personaggi la scoprono. La maggior parte di questo denaro è stata donata al monastero. Lanciare un incantesimo {@spell Identify|XPHB} sulla statua rivela la frase di comando, che altrimenti solo il Gerarca Anish conosce.",
+												"La rottura della statua provoca anche la fuoriuscita del suo contenuto. La statua ha CA 17, PF 18 e immunità a tutti i danni tranne Contundente e Forza."
 											]
 										},
 										{
@@ -2761,7 +2761,7 @@
 											"name": "Traps",
 											"id": "1df",
 											"entries": [
-												"The maze contains five identical, magical traps, each marked with a T on {@adventure Map: Monastery Upper Level|DrDe-TDoN|1|Map: Monastery Upper Level}. A character who carries Hierarch Anish's {@item Staff of the Python|XDMG} or who has touched an urn in the crypt (see area {@area M18|1d0|x}) can pass through these areas safely. Otherwise, whenever a creature enters one of these 5-foot-square areas, the creature makes a {@dc 15} Constitution saving throw, taking 10 ({@dice 3d6}) Lightning damage on a failed save or half as much damage on a successful one."
+												"Il labirinto contiene cinque trappole magiche identiche, ciascuna contrassegnata da una T accesa {@adventure Map: Monastery Upper Level|DrDe-TDoN|1|Map: Monastery Upper Level}. Un personaggio che porta con sé l'urna del Gerarca Anish {@item Staff of the Python|XDMG} o che ha toccato un'urna nella cripta (vedi area {@area M18|1d0|x}) può attraversare queste aree in sicurezza. Altrimenti, ogni volta che una creatura entra in una di queste aree quadrate di 1,5 metri, effettua un tiro salvezza su Costituzione {@dc 15} e subisce 10 ({@dice 3d6}) danni da fulmine se fallisce il tiro salvezza o la metà di questi danni se lo riesce."
 											]
 										}
 									]
@@ -2773,13 +2773,13 @@
 							"name": "Lower Level Locations",
 							"id": "1e0",
 							"entries": [
-								"The following locations are keyed to {@adventure Map: Monastery Lower Level|DrDe-TDoN|1|Map 5.2.monastery: lower level DM}.",
+								"Le seguenti posizioni sono collegate a {@adventure Map: Monastery Lower Level|DrDe-TDoN|1|Map 5.2.monastery: lower level DM}.",
 								{
 									"type": "entries",
 									"name": "M23: North Stairs",
 									"id": "1e1",
 									"entries": [
-										"This stairway connects the upper and lower levels of the monastery. Where the staircase bends, a hanging lantern lights a 5-foot-square landing."
+										"Questa scala collega i livelli superiore e inferiore del monastero. Dove la scala curva, una lanterna sospesa illumina un pianerottolo di 1,5 metri quadrati."
 									]
 								},
 								{
@@ -2787,7 +2787,7 @@
 									"name": "M24: South Stairs",
 									"id": "1e2",
 									"entries": [
-										"This stairway connects the kitchen (area {@area M10|1ba|x}) on the upper level with the storeroom (area {@area M27|1eb|x}) on the lower level. Where the staircase bends, a hanging lantern lights a 5-foot-square landing."
+										"Questa scala collega la cucina (area {@area M10|1ba|x}) al piano superiore con il ripostiglio (area {@area M27|1eb|x}) al piano inferiore. Dove la scala curva, una lanterna sospesa illumina un pianerottolo di 1,5 metri quadrati."
 									]
 								},
 								{
@@ -2799,11 +2799,11 @@
 											"type": "insetReadaloud",
 											"id": "1e4",
 											"entries": [
-												"This room contains a pair of neatly made beds, a chest of drawers, and a small table flanked by two chairs. Seated at the table and playing a quiet game of three-dragon ante are two slender human men who look like brothers. They are both unarmed and unarmored."
+												"Questa stanza contiene una coppia di letti ben fatti, una cassettiera e un tavolino fiancheggiato da due sedie. Seduti al tavolo e intenti a giocare tranquillamente a tre draghi, ci sono due uomini umani snelli che sembrano fratelli. Sono entrambi disarmati e senza armatura."
 											]
 										},
-										"Eko and Mok are shape-shifted {@creature Doppelganger|XMM|Doppelgangers} and Ronnom's loyal servants. They obey Ronnom's orders without question, fighting the characters if he commands them to. If the characters say they're looking for Ronnom, Eko and Mok offer to lead them to him (see area {@area M26|1e5|x}).",
-										"Other than their three-dragon ante Gaming Set, the doppelgangers carry nothing of value. The drawers are empty."
+										"Eko e Mok sono mutaforma {@creature Doppelganger|XMM|Doppelgangers} e leali servitori di Ronnom. Obbediscono agli ordini di Ronnom senza fare domande, combattendo i personaggi se lui glielo comanda. Se i personaggi dicono che stanno cercando Ronnom, Eko e Mok si offrono di condurli da lui (vedi area {@area M26|1e5|x}).",
+										"A parte il loro set da gioco ante da tre draghi, i doppelganger non portano nulla di valore. I cassetti sono vuoti."
 									]
 								},
 								{
@@ -2815,17 +2815,17 @@
 											"type": "insetReadaloud",
 											"id": "1e6",
 											"entries": [
-												"This room contains two beds\u2014one disheveled, the other neatly made\u2014a chest of drawers, and a small table flanked by two chairs. Dirty dishes rest on the table. A shadowy hallway to the east leads to a door."
+												"Questa stanza contiene due letti, uno scarmigliato, l'altro ben fatto, una cassettiera e un tavolino fiancheggiato da due sedie. I piatti sporchi restano sul tavolo. Un corridoio oscuro a est conduce ad una porta."
 											]
 										},
-										"This area contains two hidden foes.",
+										"Quest'area contiene due nemici nascosti.",
 										{
 											"type": "entries",
 											"name": "Ronnom Daamos",
 											"id": "1e7",
 											"entries": [
-												"Aware of the trouble he's caused, Ronnom (Medium, Neutral Evil {@creature Assassin|XMM}) is hiding in the {@variantrule Dim Light|XPHB} of the hallway to the east. Until the human man moves or speaks, noticing him requires taking a {@action Search|XPHB} action and making a successful {@dc 20} Wisdom ({@skill Perception|XPHB}) check. If Eko and Mok lead the characters here (see area {@area M25|1e3|x}), or if the characters arrive here from the east (area {@area M36|1fc|x}), Ronnom emerges from the shadows to parley with them. Otherwise, he tries to remain hidden.",
-												"Ronnom doesn't put himself in harm's way if he can help it. When confronted by one or more unfamiliar foes, he flees to Skalanthas's lair (area {@area M38|1ff|x}). If all routes to the lair are cut off, Ronnom tries to bribe enemies with the contents of his top drawer (see \"Treasure\" below). He fights as a last resort and surrenders if reduced to 20 Hit Points or fewer and unable to flee."
+												"Consapevole dei problemi che ha causato, Ronnom (Medio, Neutrale Malvagio {@creature Assassin|XMM}) si nasconde nel {@variantrule Dim Light|XPHB} del corridoio a est. Fino a quando l'umano non si muove o parla, per notarlo è necessario intraprendere un'azione {@action Search|XPHB} ed effettuare con successo una prova di Saggezza ({@skill Perception|XPHB} {@dc 20}. Se Eko e Mok guidano i personaggi qui (vedi area {@area M25|1e3|x}), o se i personaggi arrivano qui da est (area {@area M36|1fc|x}), Ronnom emerge dall'ombra per parlamentare con loro. Altrimenti cerca di restare nascosto.",
+												"Ronnom non si mette in pericolo se può evitarlo. Quando viene affrontato da uno o più nemici sconosciuti, fugge nella tana di Skalanthas (area {@area M38|1ff|x}). Se tutti i percorsi verso la tana vengono interrotti, Ronnom cerca di corrompere i nemici con il contenuto del suo primo cassetto (vedi \"Tesoro\" di seguito). Combatte come ultima risorsa e si arrende se ridotto a 20 Punti Ferita o meno e incapace di fuggire."
 											]
 										},
 										{
@@ -2833,7 +2833,7 @@
 											"name": "Veen",
 											"id": "1e8",
 											"entries": [
-												"Veen is an {@creature Oni|XMM} that has cast {@spell Invisibility|XPHB} on herself. Veen kidnapped Ronnom when he was a child. When the oni perceived the boy's malevolent nature, she befriended Ronnom, and the two remain allies to this day. Using her shape-shifting ability, Veen presents herself as a tall, red-haired, human woman with jade-green eyes. If the characters combat Ronnom, Veen fights to the death to defend him."
+												"Veen è una {@creature Oni|XMM} che ha lanciato {@spell Invisibility|XPHB} su se stessa. Veen ha rapito Ronnom quando era bambino. Quando l'oni si accorse della natura malevola del ragazzo, fece amicizia con Ronnom, e i due rimangono alleati fino ad oggi. Usando la sua capacità di cambiare forma, Veen si presenta come una donna umana alta, dai capelli rossi e con occhi verde giada. Se i personaggi combattono contro Ronnom, Veen combatte fino alla morte per difenderlo."
 											]
 										},
 										{
@@ -2841,7 +2841,7 @@
 											"name": "Chest of Drawers",
 											"id": "1e9",
 											"entries": [
-												"The top drawer is unlocked and contains three satchels (see \"Treasure\") and four empty {@item Vial|XPHB|Vials}. A character who examines the Vials as a {@action Study|XPHB} action can make a {@dc 15} Intelligence ({@skill Investigation|XPHB}) check or an Intelligence check using {@item Glassblower's Tools|XPHB}. On a success, the character detects poison residue inside each one. This poison killed the falcons in the aviary (area {@area M5|1ae|x}). The other drawers are empty."
+												"Il cassetto in alto è sbloccato e contiene tre cartelle (vedi \"Tesoro\") e quattro vuote {@item Vial|XPHB|Vials}. Un personaggio che esamina le fiale come azione {@action Study|XPHB} può effettuare una prova di Intelligenza {@dc 15} ({@skill Investigation|XPHB}) o una prova di Intelligenza usando {@item Glassblower's Tools|XPHB}. In caso di successo, il personaggio rileva residui di veleno all'interno di ognuno di essi. Questo veleno ha ucciso i falchi nella voliera (area {@area M5|1ae|x}). Gli altri cassetti sono vuoti."
 											]
 										},
 										{
@@ -2849,7 +2849,7 @@
 											"name": "Treasure",
 											"id": "1ea",
 											"entries": [
-												"The first satchel in the chest of drawers contains 60 PP. The second satchel contains four pearls worth 100 GP each. The third satchel is empty but used to contain a bejeweled necklace that Ronnom gave to Skalanthas as a gift (see area {@area M38|1ff|x})."
+												"La prima cartella nella cassettiera contiene 60 PP. La seconda borsa contiene quattro perle del valore di 100 GP ciascuna. La terza borsa è vuota ma conteneva una collana ingioiellata che Ronnom ha regalato a Skalanthas (vedi area {@area M38|1ff|x})."
 											]
 										}
 									]
@@ -2863,16 +2863,16 @@
 											"type": "insetReadaloud",
 											"id": "1ec",
 											"entries": [
-												"This storeroom contains three wooden crates and three upright wooden barrels. Leaning in the northeast corner behind one of the barrels are a pair of wooden oars, a pair of fishing poles, and a silver-tipped spear. Three doors lead to other locations, while a narrow hallway stretches westward."
+												"Questo magazzino contiene tre casse di legno e tre botti di legno verticali. Appoggiati nell'angolo nord-est dietro uno dei barili ci sono un paio di remi di legno, un paio di canne da pesca e una lancia con la punta d'argento. Tre porte conducono ad altri luoghi, mentre uno stretto corridoio si estende verso ovest."
 											]
 										},
-										"Each barrel contains {@dice 2d20} gallons of fresh water, and each crate holds {@dice 3d10} flasks of {@item Oil|XPHB}. The oars are for the Rowboat at the dock (area {@area M3|1aa|x}). The fishing poles are nonmagical.",
+										"Ogni barile contiene {@dice 2d20} litri di acqua dolce e ogni cassa contiene {@dice 3d10} fiaschetti di {@item Oil|XPHB}. I remi sono per la barca a remi al molo (area {@area M3|1aa|x}). Le canne da pesca non sono magiche.",
 										{
 											"type": "entries",
 											"name": "Treasure",
 											"id": "1ed",
 											"entries": [
-												"The spear is a {@item Silvered Weapon|XDMG} (Spear). The monks use it as a harpoon while fishing.",
+												"La lancia è una {@item Silvered Weapon|XDMG} (Lancia). I monaci lo usano come arpione durante la pesca.",
 												{
 													"type": "gallery",
 													"images": [
@@ -4112,18 +4112,18 @@
 											"type": "insetReadaloud",
 											"id": "1ef",
 											"entries": [
-												"Three wooden cabinets line the east wall of this pantry, and various crates, bags, and barrels are piled in the northwest corner."
+												"Tre armadietti di legno sono allineati lungo la parete est di questa dispensa, e varie casse, borse e barili sono ammucchiati nell'angolo nord-ovest."
 											]
 										},
-										"The cabinets are unlocked and the pantry holds the following items:",
+										"Gli armadietti sono sbloccati e la dispensa contiene i seguenti oggetti:",
 										{
 											"type": "list",
 											"items": [
 												"{@item Brewer's Supplies|XPHB}",
-												"Thirty {@item Candle|XPHB|Candles}",
-												"One hundred {@item Rations|XPHB}",
-												"Ten loaves of Bread",
-												"Ten wedges of Cheese"
+												"Trenta {@item Candle|XPHB|Candles}",
+												"Cento {@item Rations|XPHB}",
+												"Dieci pani",
+												"Dieci spicchi di formaggio"
 											]
 										}
 									]
@@ -4137,10 +4137,10 @@
 											"type": "insetReadaloud",
 											"id": "1f1",
 											"entries": [
-												"Seven wooden barrels line the south wall of this cellar."
+												"Sette botti di legno sono allineate lungo la parete sud di questa cantina."
 											]
 										},
-										"Each barrel contains forty gallons of wine."
+										"Ogni botte contiene quaranta litri di vino."
 									]
 								},
 								{
@@ -4148,15 +4148,15 @@
 									"name": "M30: Dungeon Cell",
 									"id": "1f2",
 									"entries": [
-										"The door to this room is locked. Opening the door requires the proper key (typically in Hierarch Anish's possession), {@item Thieves' Tools|XPHB}, or a {@spell Knock|XPHB} spell. The lock is simple (requiring 1 action to pick) and of good quality ({@dc 15}).",
+										"La porta di questa stanza è chiusa a chiave. Per aprire la porta è necessaria la chiave corretta (tipicamente in possesso del Gerarca Anish), {@item Thieves' Tools|XPHB} o un incantesimo {@spell Knock|XPHB}. La serratura è semplice (richiede 1 azione per essere scassinata) e di buona qualità ({@dc 15}).",
 										{
 											"type": "insetReadaloud",
 											"id": "1f3",
 											"entries": [
-												"A barred window six inches long and four inches high allows visibility into the room beyond. The cell contains a neatly made bed and a chamber pot."
+												"Una finestra con sbarre lunga sei pollici e alta quattro pollici consente la visibilità nella stanza sottostante. La cella contiene un letto ben fatto e un vaso da notte."
 											]
 										},
-										"The cell contains nothing of interest."
+										"La cella non contiene nulla di interessante."
 									]
 								},
 								{
@@ -4168,17 +4168,17 @@
 											"type": "insetReadaloud",
 											"id": "1f5",
 											"entries": [
-												"This room contains cluttered workbenches."
+												"Questa stanza contiene banchi da lavoro disordinati."
 											]
 										},
-										"Characters who search the room find the following tools and supplies:",
+										"I personaggi che perquisiscono la stanza trovano i seguenti strumenti e materiali:",
 										{
 											"type": "list",
 											"items": [
-												"One set of {@item Cobbler's Tools|XPHB}",
-												"One set of {@item Mason's Tools|XPHB}",
-												"One set of {@item Painter's Supplies|XPHB}",
-												"Two sets of {@item Woodcarver's Tools|XPHB}"
+												"Un set di {@item Cobbler's Tools|XPHB}",
+												"Un set di {@item Mason's Tools|XPHB}",
+												"Un set di {@item Painter's Supplies|XPHB}",
+												"Due serie di {@item Woodcarver's Tools|XPHB}"
 											]
 										}
 									]
@@ -4188,15 +4188,15 @@
 									"name": "M32: Dock Posts",
 									"id": "1f6",
 									"entries": [
-										"The light in this submerged cavern filters down from the cave above (area {@area M2|1a6|x}): {@variantrule Dim Light|XPHB} during the day, Darkness at night.",
+										"La luce in questa caverna sommersa filtra dalla grotta sovrastante (area {@area M2|1a6|x}): {@variantrule Dim Light|XPHB} durante il giorno, Oscurità di notte.",
 										{
 											"type": "insetReadaloud",
 											"id": "1f7",
 											"entries": [
-												"The stone dock above is supported by twelve stone posts spaced five feet apart. Barnacles cover the posts."
+												"Il molo di pietra sovrastante è sostenuto da dodici pali di pietra distanziati di un metro e mezzo l'uno dall'altro. I cirripedi coprono i pali."
 											]
 										},
-										"Because the posts are so narrowly spaced, Skalanthas prefers to swim around them. They are Difficult Terrain for him to swim through."
+										"Dato che i pali sono così ravvicinati, Skalanthas preferisce nuotare attorno ad essi. Sono terreni difficili da attraversare a nuoto."
 									]
 								},
 								{
@@ -4204,8 +4204,8 @@
 									"name": "M33: Blocked and Submerged Tunnel",
 									"id": "1f8",
 									"entries": [
-										"This 10-foot-diameter tunnel is completely submerged and blocked by heavy boulders.",
-										"As Skalanthas comes and goes from his lair, the dragon moves the boulders aside to clear the passage for himself, then moves them back to discourage others from using the tunnel. A Small creature can squirm between the boulders with a successful {@dc 20} Dexterity ({@skill Acrobatics|XPHB}) check, treating the boulders as Difficult Terrain. A Medium character can do the same but has Disadvantage on the check. Moving boulders aside to create a wider opening through which Medium and Small creatures can pass without making a check requires 10 minutes of work and a successful {@dc 20} Strength ({@skill Athletics|XPHB}) check."
+										"Questo tunnel di 3 metri di diametro è completamente sommerso e bloccato da pesanti massi.",
+										"Mentre Skalanthas va e viene dalla sua tana, il drago sposta di lato i massi per liberare il passaggio, quindi li sposta indietro per scoraggiare gli altri dall'usare il tunnel. Una creatura Piccola può dimenarsi tra i massi con una prova riuscita di Destrezza {@dc 20} ({@skill Acrobatics|XPHB}), trattando i massi come Terreno Difficile. Un personaggio Medio può fare lo stesso ma ha Svantaggio alla prova. Spostare i massi di lato per creare un'apertura più ampia attraverso la quale le creature Medie e Piccole possono passare senza effettuare una prova richiede 10 minuti di lavoro e una prova riuscita di {@dc 20} Forza ({@skill Athletics|XPHB})."
 									]
 								},
 								{
@@ -4217,10 +4217,10 @@
 											"type": "insetReadaloud",
 											"id": "1fa",
 											"entries": [
-												"Three natural pillars of rock support the uneven ceiling of this partially flooded cave."
+												"Tre pilastri naturali di roccia sostengono il soffitto irregolare di questa grotta parzialmente allagata."
 											]
 										},
-										"The water is 20 feet deep in the western half of the area and 15 feet deep otherwise. The uneven ceiling is roughly 20 feet above water level."
+										"L'acqua è profonda 20 piedi nella metà occidentale dell'area e profonda 15 piedi negli altri casi. Il soffitto irregolare è a circa 20 piedi sopra il livello dell'acqua."
 									]
 								},
 								{
@@ -4228,7 +4228,7 @@
 									"name": "M35: Damp Stairs",
 									"id": "1fb",
 									"entries": [
-										"A flight of damp, rough-hewn stairs leads down from the bodyguards' quarters (area {@area M25|1e3|x}) to a dark, partially flooded cave (area {@area M34|1f9|x}). The tunnel containing these stairs is in Darkness."
+										"Una rampa di scale umide e grezze conduce dagli alloggi delle guardie del corpo (area {@area M25|1e3|x}) a una grotta buia, parzialmente allagata (area {@area M34|1f9|x}). Il tunnel contenente queste scale è nell'oscurità."
 									]
 								},
 								{
@@ -4236,15 +4236,15 @@
 									"name": "M36: Trip Wire Trap",
 									"id": "1fc",
 									"entries": [
-										"These damp, rough-hewn stairs lead down from the lower level of the monastery to a partially flooded cave (area {@area M34|1f9|x}). At the midpoint of the staircase, a shallow niche in the south wall contains a wooden box that is actually a {@item Folding Boat|XDMG} and a lit Hooded Lantern. Ronnom Daamos leaves these items here to help him reach Skalanthas's lair (area {@area M38|1ff|x}) when he wants to speak to the dragon.",
+										"Queste scale umide e grezze conducono dal livello inferiore del monastero a una grotta parzialmente allagata (area {@area M34|1f9|x}). A metà della scala, una nicchia poco profonda nel muro sud contiene una scatola di legno che in realtà è un {@item Folding Boat|XDMG} e una lanterna con cappuccio accesa. Ronnom Daamos lascia qui questi oggetti per aiutarlo a raggiungere la tana di Skalanthas (area {@area M38|1ff|x}) quando vuole parlare con il drago.",
 										{
 											"type": "entries",
 											"name": "Trip Wire",
 											"id": "1fd",
 											"entries": [
-												"Ronnom has rigged a trip wire across the top of the staircase. If forced to flee from his quarters (area {@area M26|1e5|x}), he steps over the wire to avoid it and takes the lantern and {@item Folding Boat|XDMG}.",
-												"A character can take a {@action Search|XPHB} action to inspect the staircase for traps and make a {@dc 15} Wisdom ({@skill Perception|XPHB}) check. On a success, the character finds the trip wire. Once detected, the wire is easily avoided or cut.",
-												"A character using the stairs who fails to detect the wire snags on it, has the {@condition Prone|XPHB} condition, and takes 3 ({@dice 1d6}) Bludgeoning damage from the fall."
+												"Ronnom ha sistemato un cavo di sicurezza in cima alle scale. Se costretto a fuggire dai suoi alloggi (area {@area M26|1e5|x}), scavalca il filo spinato per evitarlo e prende la lanterna e {@item Folding Boat|XDMG}.",
+												"Un personaggio può eseguire un'azione {@action Search|XPHB} per ispezionare le scale alla ricerca di trappole ed effettuare una prova di {@dc 15} Saggezza ({@skill Perception|XPHB}). In caso di successo, il personaggio trova il filo che lo collega. Una volta rilevato, il filo può essere facilmente evitato o tagliato.",
+												"Un personaggio che usa le scale e non riesce a rilevare il filo che vi si impiglia, ha la condizione {@condition Prone|XPHB} e subisce 3 ({@dice 1d6}) danni contundenti dalla caduta."
 											]
 										}
 									]
@@ -4254,7 +4254,7 @@
 									"name": "M37: Partially Flooded Tunnel",
 									"id": "1fe",
 									"entries": [
-										"The water in this tunnel is 15 feet deep, and the uneven ceiling rises 15 feet above water level.",
+										"L'acqua in questo tunnel è profonda 15 piedi e il soffitto irregolare si innalza di 15 piedi sopra il livello dell'acqua.",
 										{
 											"type": "image",
 											"href": {
@@ -4276,23 +4276,23 @@
 											"type": "insetReadaloud",
 											"id": "200",
 											"entries": [
-												"A natural pillar of rock supports the uneven roof of this damp cave, whose floor rises out of the water to form a shelf above sea level. Lounging on the shelf is a bronze dragon."
+												"Un pilastro naturale di roccia sostiene il tetto irregolare di questa grotta umida, il cui pavimento emerge dall'acqua per formare una mensola sopra il livello del mare. Appoggiato sullo scaffale c'è un drago di bronzo."
 											]
 										},
-										"The water in the northwest part of this area is 10 feet deep. The ceiling throughout the area is 20 feet above water level.",
-										"Skalanthas the {@creature Young Bronze Dragon|XMM} occupies the section of the cave that's above water, using the natural pillar of rock for cover. He is initially Hostile toward interlopers.",
+										"L'acqua nella parte nord-occidentale di quest'area è profonda 10 piedi. Il soffitto in tutta l'area è di 20 piedi sopra il livello dell'acqua.",
+										"Skalanthas il {@creature Young Bronze Dragon|XMM} occupa la sezione della grotta sopra l'acqua, utilizzando il pilastro naturale di roccia come copertura. Inizialmente è ostile verso gli intrusi.",
 										{
 											"type": "entries",
 											"name": "Roleplaying Skalanthas",
 											"id": "201",
 											"entries": [
-												"The dragon values his own life; if reduced to 30 Hit Points or fewer, Skalanthas dives underwater, flees via the sea caves, and takes refuge somewhere else on the island.",
-												"Should Ronnom retreat to this cave, he urges Skalanthas to prepare for the characters' arrival. The dragon fights Ronnom's enemies on sight; meanwhile, Ronnom tries to stay hidden and out of harm's way, entering combat only if the risk to himself is minimal.",
-												"If Ronnom isn't present, characters can shift Skalanthas's attitude from Hostile to Indifferent by apologizing for the intrusion and claiming to be acting on behalf of the monks. Skalanthas's attitude reverts to Hostile if a character threatens or belittles him, tries to drive a wedge between him and Ronnom, or heads toward Skalanthas's hoard (area {@area M39|202|x}).",
-												"If a character asks Skalanthas why he sinks ships, the dragon explains that drastic actions are necessary to protect Ronnom from enemies who seek to destroy him and House Daamos.",
-												"Convincing Skalanthas of Ronnom's villainy is difficult, given the dragon's fondness for Ronnom's mother and history with House Daamos. The dragon is far more inclined to believe the son of Ishyllia Daamos than the words of a stranger.",
-												"However, if Ronnom is reduced to 20 Hit Points or fewer, the characters can compel Ronnom to confess his crimes in exchange for his life. If Skalanthas witnesses this confession, the dragon feels betrayed and enforces any agreement Ronnom is forced to make with the characters.",
-												"See \"{@area Conclusion|204|x}\" for ways in which the characters can come to terms with the dragon."
+												"Il drago apprezza la propria vita; se ridotto a 30 Punti Ferita o meno, Skalanthas si tuffa sott'acqua, fugge attraverso le grotte marine e si rifugia da qualche altra parte sull'isola.",
+												"Se Ronnom dovesse ritirarsi in questa grotta, esorta Skalanthas a prepararsi per l'arrivo dei personaggi. Il drago combatte a vista i nemici di Ronnom; nel frattempo, Ronnom cerca di rimanere nascosto e lontano dai pericoli, entrando in combattimento solo se il rischio per se stesso è minimo.",
+												"Se Ronnom non è presente, i personaggi possono modificare l'atteggiamento di Skalanthas da Ostile a Indifferente scusandosi per l'intrusione e affermando di agire per conto dei monaci. L'atteggiamento di Skalanthas ritorna ad Ostile se un personaggio lo minaccia o lo sminuisce, cerca di creare un cuneo tra lui e Ronnom, o si dirige verso il tesoro di Skalanthas (area {@area M39|202|x}).",
+												"Se un personaggio chiede a Skalanthas perché affonda le navi, il drago spiega che sono necessarie azioni drastiche per proteggere Ronnom dai nemici che cercano di distruggere lui e la Casata Daamos.",
+												"Convincere Skalanthas della malvagità di Ronnom è difficile, data la passione del drago per la madre di Ronnom e la storia con la Casata Daamos. Il drago è molto più propenso a credere al figlio di Ishyllia Daamos che alle parole di uno sconosciuto.",
+												"Tuttavia, se Ronnom viene ridotto a 20 Punti Ferita o meno, i personaggi possono costringere Ronnom a confessare i suoi crimini in cambio della sua vita. Se Skalanthas è testimone di questa confessione, il drago si sente tradito e fa rispettare qualsiasi accordo che Ronnom è costretto a fare con i personaggi.",
+												"Vedi \"{@area Conclusion|204|x}\" per i modi in cui i personaggi possono venire a patti con il drago."
 											]
 										}
 									]
@@ -4302,24 +4302,24 @@
 									"name": "M39: Dead-End Cave and Sunken Hoard",
 									"id": "202",
 									"entries": [
-										"The water in this cave is 20 feet deep, and the damp ceiling is only 10 feet above the water.",
+										"L'acqua in questa grotta è profonda 20 piedi e il soffitto umido è a soli 10 piedi sopra l'acqua.",
 										{
 											"type": "entries",
 											"name": "Treasure",
 											"id": "203",
 											"entries": [
-												"Lying on the floor of this cave is the sunken, barnacle-encrusted wreck of a Rowboat piled high with items Skalanthas recovered from shipwrecks amid the reefs around Najkir:",
+												"Sul fondo di questa grotta c'è il relitto affondato e incrostato di cirripedi di una barca a remi, pieno di oggetti recuperati da Skalanthas dai naufragi tra le barriere coralline intorno a Najkir:",
 												{
 													"type": "list",
 													"items": [
-														"Chest without a lid containing 450 GP, a bejeweled necklace (worth 750 GP), two electrum bracelets inlaid with gold (worth 250 GP each), and four silver rings (worth 25 GP each)",
-														"Closed, unlocked Chest that contains 5,000 SP and twenty spools of gold thread (worth 25 GP each)",
+														"Forziere senza coperchio contenente 450 GP, una collana ingioiellata (del valore di 750 GP), due braccialetti di elettro intarsiati d'oro (del valore di 250 GP ciascuno) e quattro anelli d'argento (del valore di 25 GP ciascuno)",
+														"Forziere chiuso e sbloccato che contiene 5.000 SP e venti bobine di filo d'oro (del valore di 25 GP ciascuna)",
 														"{@item Spyglass|XPHB}",
-														"Jade crown (worth 2,500 GP)",
-														"2-foot-tall alabaster statue of a knight on a horse (worth 250 GP and weighing 25 pounds)",
-														"Latched wooden box inlaid with mother-of pearl (worth 25 GP), inside which are six {@item Bead of Nourishment|XDMG|Beads of Nourishment} and six {@item Bead of Refreshment|XDMG|Beads of Refreshment}",
+														"Corona di giada (del valore di 2.500 GP)",
+														"Statua in alabastro alta 60 cm di un cavaliere a cavallo (del valore di 250 GP e del peso di 25 libbre)",
+														"Scatola di legno con chiusura e intarsi in madreperla (del valore di 25 GP), al cui interno ci sono sei {@item Bead of Nourishment|XDMG|Beads of Nourishment} e sei {@item Bead of Refreshment|XDMG|Beads of Refreshment}",
 														"{@item Moon-Touched Rapier|XDMG|Moon-Touched Sword (Rapier)}",
-														"Rusty anchor (worthless, but necessary to keep the boat from drifting)"
+														"Ancora arrugginita (inutile, ma necessaria per evitare che la barca vada alla deriva)"
 													]
 												}
 											]
@@ -4335,15 +4335,15 @@
 					"name": "Conclusion",
 					"id": "204",
 					"entries": [
-						"The adventure can end in one of several ways. Likely endings are discussed below.",
-						"If the characters completed the quest Mirel Astafar gave them, she rewards them as promised.",
+						"L'avventura può finire in diversi modi. I finali probabili sono discussi di seguito.",
+						"Se i personaggi hanno completato la missione assegnata loro da Mirel Astafar, lei li ricompenserà come promesso.",
 						{
 							"type": "entries",
 							"name": "Skalanthas Retreats",
 							"id": "205",
 							"entries": [
-								"Should the party force Skalanthas to flee, he flies to a quiet corner of the island and takes a {@variantrule Long Rest|XPHB} there before returning to reclaim his lair. If Ronnom is nearby when Skalanthas flees and is still on good terms with him, Ronnom mounts the dragon, and the two of them return to the monastery together.",
-								"Until the dragon is fully rested, ships can come and go from the island without danger."
+								"Se il gruppo costringe Skalanthas a fuggire, vola in un angolo tranquillo dell'isola e lì prende un {@variantrule Long Rest|XPHB} prima di tornare a reclamare la sua tana. Se Ronnom è nelle vicinanze quando Skalanthas fugge ed è ancora in buoni rapporti con lui, Ronnom monta sul drago e i due tornano insieme al monastero.",
+								"Finché il drago non si sarà completamente riposato, le navi potranno andare e venire dall'isola senza pericolo."
 							]
 						},
 						{
@@ -4351,14 +4351,14 @@
 							"name": "Ronnom Is Slain",
 							"id": "206",
 							"entries": [
-								"If Ronnom dies, his surviving bodyguards try to exact revenge by killing those responsible.",
-								"When Skalanthas learns of Ronnom's death, the dragon is furious but stops threatening ships traveling to and from Najkir.",
+								"Se Ronnom muore, le sue guardie del corpo sopravvissute cercheranno di vendicarsi uccidendo i responsabili.",
+								"Quando Skalanthas viene a sapere della morte di Ronnom, il drago è furioso ma smette di minacciare le navi che viaggiano da e verso Najkir.",
 								{
 									"type": "entries",
 									"name": "Rewards",
 									"id": "207",
 									"entries": [
-										"If the characters take Ronnom's corpse with them to the mainland, they discover local authorities are offering a 2,500 GP reward for his remains, payable upon delivery."
+										"Se i personaggi portano con sé il cadavere di Ronnom sulla terraferma, scoprono che le autorità locali offrono una ricompensa di 2.500 GP per i suoi resti, pagabili al momento della consegna."
 									]
 								}
 							]
@@ -4368,15 +4368,15 @@
 							"name": "Ronnom Is Captured",
 							"id": "208",
 							"entries": [
-								"If Ronnom is taken into custody, the monks recommend confining him to the dungeon cell (area {@area M30|1f2|x}) until he can be transported to the mainland.",
-								"If the characters no longer have a ship to transport them back to the mainland, Devi can use her {@i Sending Stone} to contact Mirel Astafar, who sends another ship to the island. However, the characters must stop Skalanthas from sinking the ship. Skalanthas won't sink a ship if he knows Ronnom is aboard.",
-								"Should Ronnom confess his crimes in Skalanthas's presence, the dragon is dismayed and chastises Ronnom for dishonoring House Daamos. Skalanthas ends his friendship with Ronnom and stops threatening ships traveling to and from Najkir. Furthermore, if the characters explain that they're stranded on the island, the dragon gives them the {@item Folding Boat|XDMG} he previously loaned to Ronnom (see area {@area M26|1e5|x}) to help them get home and deliver Ronnom to the authorities.",
+								"Se Ronnom viene preso in custodia, i monaci consigliano di confinarlo nella cella sotterranea (area {@area M30|1f2|x}) finché non potrà essere trasportato sulla terraferma.",
+								"Se i personaggi non hanno più una nave che li riporti sulla terraferma, Devi può usarla {@i Sending Stone} per contattare Mirel Astafar, che invia un'altra nave sull'isola. Tuttavia, i personaggi devono impedire a Skalanthas di affondare la nave. Skalanthas non affonderà una nave se sa che Ronnom è a bordo.",
+								"Se Ronnom dovesse confessare i suoi crimini alla presenza di Skalanthas, il drago resterà sgomento e castigherà Ronnom per aver disonorato la Casata Daamos. Skalanthas pone fine alla sua amicizia con Ronnom e smette di minacciare le navi che viaggiano da e verso Najkir. Inoltre, se i personaggi spiegano che sono bloccati sull'isola, il drago dà loro il {@item Folding Boat|XDMG} che aveva precedentemente prestato a Ronnom (vedi area {@area M26|1e5|x}) per aiutarli a tornare a casa e consegnare Ronnom alle autorità.",
 								{
 									"type": "entries",
 									"name": "Rewards",
 									"id": "209",
 									"entries": [
-										"If the characters take Ronnom to the mainland to answer for his crimes, they discover there's a 5,000 GP reward for capturing him alive. The characters need only hand him over to local authorities to collect the reward.",
+										"Se i personaggi portano Ronnom sulla terraferma per rispondere dei suoi crimini, scoprono che c'è una ricompensa di 5.000 GP per catturarlo vivo. I personaggi devono solo consegnarlo alle autorità locali per ritirare la ricompensa.",
 										{
 											"type": "image",
 											"href": {
@@ -4403,7 +4403,7 @@
 							"type": "insetReadaloud",
 							"id": "20b",
 							"entries": [
-								"At first glance, the bronze dragon art in the 2025 {@book Monster Manual|XMM} bears little resemblance to the dragon's earliest depictions. But close examination reveals that the small horns and frills on the dragon's head have been there every step of the way."
+								"A prima vista, l'arte del drago in bronzo del 2025 {@book Monster Manual|XMM} ha poca somiglianza con le prime raffigurazioni del drago. Ma un attento esame rivela che le piccole corna e i fronzoli sulla testa del drago sono stati presenti in ogni fase del percorso."
 							]
 						},
 						{
@@ -4538,22 +4538,22 @@
 						{
 							"type": "item",
 							"name": "Designers:",
-							"entry": "Justice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
+							"entry": "Il giudice Ramin Arman, Makenzie De Armas, Anthony Joyce-Rivera, Renee Knipe, Ron Lundeen, Christopher Perkins, Patrick Renie, Erin Roberts, F. Wesley Schneider, Carl Sibley, Jason Tondro, Steve Townshend"
 						},
 						{
 							"type": "item",
 							"name": "Rules Developers:",
-							"entry": "Makenzie De Armas (lead), Jeremy Crawford, Ron Lundeen"
+							"entry": "Makenzie De Armas (protagonista), Jeremy Crawford, Ron Lundeen"
 						},
 						{
 							"type": "item",
 							"name": "Editors:",
-							"entry": "Judy Bauer (lead), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
+							"entry": "Judy Bauer (protagonista), Emma Candon, Sadie Lowry, Hannah Rose, Sue Weinlein, Hans Ziegler"
 						},
 						{
 							"type": "item",
 							"name": "Art Directors:",
-							"entry": "Matt Cole (lead), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
+							"entry": "Matt Cole (protagonista), Fury Galluzzi, Josh Herman, Kate Irwin, Emi Tanji"
 						},
 						{
 							"type": "item",
@@ -4583,7 +4583,7 @@
 						{
 							"type": "item",
 							"name": "Producers:",
-							"entry": "Rob Hawkey (lead), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
+							"entry": "Rob Hawkey (protagonista), Bill Benham, Siera Bruggeman, Vanessa Hoskins"
 						}
 					]
 				},

@@ -358,8 +358,8 @@
 			"classSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"At 1st level, you choose a Mystic Order from the list of available orders. Each order specializes in a specific approach to psionics.",
-				"Your order gives you features when you choose it at 1st level and additional features at 3rd, 6th, and 14th level."
+				"Al 1° livello, scegli un Ordine Mistico dalla lista degli ordini disponibili. Ogni ordine è specializzato in un approccio specifico alla psionica.",
+				"Il tuo ordine ti offre funzionalità quando lo scegli al 1° livello e funzionalità aggiuntive al 3°, 6° e 14° livello."
 			]
 		},
 		{
@@ -370,8 +370,8 @@
 			"classSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"{@filter Psionic talents|psionics|type=T} and {@filter disciplines|psionics|type=D} are the heart of a mystic's craft. They are the mental exercises and psionic formulae used to forge will into tangible, magical effects.",
-				"Psionic disciplines were each discovered by different orders and tend to reflect their creators' specialties. However, a mystic can learn any discipline regardless of its associated order."
+				"{@filter Psionic talents|psionics|type=T} e {@filter disciplines|psionics|type=D} sono il cuore del mestiere di un mistico. Sono gli esercizi mentali e le formule psioniche usate per forgiare la volontà in effetti magici e tangibili.",
+				"Ciascuna disciplina psionica è stata scoperta da ordini diversi e tende a riflettere le specialità dei suoi creatori. Tuttavia, un mistico può apprendere qualsiasi disciplina indipendentemente dall'ordine ad essa associato."
 			]
 		},
 		{
@@ -382,51 +382,51 @@
 			"classSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"As a student of psionics, you can master and use psionic talents and disciplines, the rules for which appear at the end of this document. Psionics is a special form of magic use, distinct from spellcasting.",
+				"Come studente di psionica, puoi padroneggiare e utilizzare talenti e discipline psioniche, le cui regole appaiono alla fine di questo documento. La psionica è una forma speciale di uso della magia, distinta dal lancio di incantesimi.",
 				{
 					"type": "entries",
 					"name": "Psionic Talents",
 					"entries": [
-						"A {@filter psionic talent|psionics|type=T} is a minor psionic effect you have mastered. At 1st level, you know one psionic talent of your choice. You learn additional talents of your choice at higher levels. The Talents Known column of the Mystic table shows the total number of talents you know at each level; when that number goes up for you, choose a new talent."
+						"A {@filter psionic talent|psionics|type=T} è un effetto psionico minore che hai padroneggiato. Al 1° livello, conosci un talento psionico a tua scelta. Apprendi talenti aggiuntivi a tua scelta ai livelli più alti. La colonna Talenti Conosciuti della tabella Mistica mostra il numero totale di talenti che conosci ad ogni livello; quando quel numero aumenta per te, scegli un nuovo talento."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Psionic Disciplines",
 					"entries": [
-						"A {@filter psionic discipline|psionics|type=D} is a rigid set of mental exercises that allows a mystic to manifest psionic power. A mystic masters only a few disciplines at a time.",
-						"At 1st level, you know one psionic discipline of your choice. The Disciplines Known column of the Mystic table shows the total number of disciplines you know at each level; when that number goes up for you, choose a new discipline.",
-						"In addition, whenever you gain a level in this class, you can replace one discipline you know with a different one of your choice."
+						"A {@filter psionic discipline|psionics|type=D} è una serie rigida di esercizi mentali che consente a un mistico di manifestare potere psionico. Un mistico padroneggia solo poche discipline alla volta.",
+						"Al 1° livello, conosci una disciplina psionica a tua scelta. La colonna Discipline conosciute della tabella Mistica mostra il numero totale di discipline che conosci ad ogni livello; quando quel numero aumenta per te, scegli una nuova disciplina.",
+						"Inoltre, ogni volta che guadagni un livello in questa classe, puoi sostituire una disciplina che conosci con una diversa a tua scelta."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Psi Points",
 					"entries": [
-						"You have an internal reservoir of energy that can be devoted to psionic disciplines you know. This energy is represented by psi points. Each psionic discipline describes effects you can create with it by spending a certain number of psi points. A psionic talent requires no psi points.",
-						"The number of psi points you have is based on your mystic level, as shown in the Psi Points column of the Mystic table. The number shown for your level is your psi point maximum. Your psi point total returns to its maximum when you finish a long rest. The number of psi points you have can't go below 0 or over your maximum."
+						"Hai una riserva interna di energia che può essere dedicata alle discipline psioniche che conosci. Questa energia è rappresentata dai punti psi. Ogni disciplina psionica descrive gli effetti che puoi creare con essa spendendo un certo numero di punti psi. Un talento psionico non richiede punti Psionici.",
+						"Il numero di punti Psi che possiedi si basa sul tuo livello mistico, come mostrato nella colonna Punti Psi della tabella Mistico. Il numero mostrato per il tuo livello è il tuo punto psi massimo. Il totale dei tuoi punti psi ritorna al massimo quando finisci un riposo lungo. Il numero di punti Psi che possiedi non può scendere sotto lo 0 o superare il tuo massimo."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Psi Limit",
 					"entries": [
-						"Though you have access to a potent amount of psionic energy, it takes training and practice to channel that energy. There is a limit on the number of psi points you can spend to activate a psionic discipline. The limit is based on your mystic level, as shown in the Psi Limit column of the Mystic table. For example, as a 3rd-level mystic, you can spend no more than 3 psi points on a discipline each time you use it, no matter how many psi points you have."
+						"Sebbene tu abbia accesso a una potente quantità di energia psionica, sono necessari allenamento e pratica per incanalare quell'energia. C'è un limite al numero di punti psi che puoi spendere per attivare una disciplina psionica. Il limite si basa sul tuo livello mistico, come mostrato nella colonna Limite Psi della tabella Mistico. Ad esempio, come mistico di 3° livello, non puoi spendere più di 3 punti Psi in una disciplina ogni volta che la usi, indipendentemente da quanti punti Psi possiedi."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Psychic Focus",
 					"entries": [
-						"You can focus psionic energy on one of your psionic disciplines to draw ongoing benefits from it. As a bonus action, you can choose one of your psionic disciplines and gain its psychic focus benefit, which is detailed in that discipline's description. The benefit lasts until you are {@condition incapacitated} or until you use another bonus action to choose a different focus benefit.",
-						"You can have only one psychic focus benefit at a time, and using the psychic focus of one discipline doesn't limit your ability to use other disciplines."
+						"Puoi concentrare l'energia psionica su una delle tue discipline psioniche per trarne benefici continui. Come azione bonus, puoi scegliere una delle tue discipline psioniche e ottenere il suo beneficio di focus psichico, che è dettagliato nella descrizione di quella disciplina. Il beneficio dura finché non sei {@condition incapacitated} o finché non usi un'altra azione bonus per scegliere un beneficio focalizzato diverso.",
+						"Puoi avere un solo beneficio di focus psichico alla volta, e l'uso del focus psichico di una disciplina non limita la tua capacità di usare altre discipline."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Psionic Ability",
 					"entries": [
-						"Intelligence is your psionic ability for your psionic disciplines. You use your Intelligence modifier when setting the saving throw DC for a psionic discipline or when making an attack roll with one.",
+						"L'intelligenza è la tua abilità psionica per le tue discipline psioniche. Utilizzi il tuo modificatore di Intelligenza quando imposti la CD del tiro salvezza per una disciplina psionica o quando effettui un tiro per colpire con una disciplina.",
 						{
 							"type": "abilityDc",
 							"name": "Discipline",
@@ -453,49 +453,49 @@
 			"classSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"Each psionic discipline has several ways you can use it, all contained in its description. The discipline specifies the type of action and number of psi points it requires. It also details whether you must concentrate on its effects, how many targets it affects, what saving throws it requires, and so on.",
-				"The following sections go into more detail on using a discipline. Psionic disciplines are magical and function similarly to spells.",
+				"Ogni disciplina psionica ha diversi modi in cui puoi usarla, tutti contenuti nella sua descrizione. La disciplina specifica il tipo di azione e il numero di punti PSI richiesti. Inoltre, specifica se devi concentrarti sui suoi effetti, quanti bersagli influenza, quali tiri salvezza richiede e così via.",
+				"Le sezioni seguenti forniscono maggiori dettagli sull'utilizzo di una disciplina. Le discipline psioniche sono magiche e funzionano in modo simile agli incantesimi.",
 				{
 					"type": "entries",
 					"name": "Psychic Focus",
 					"entries": [
-						"The Psychic Focus section of a discipline describes the benefit you gain when you choose that discipline for your psychic focus."
+						"La sezione Focus Psichico di una disciplina descrive il beneficio che ottieni quando scegli quella disciplina per il tuo focus psichico."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Effect Options and Psi Points",
 					"entries": [
-						"A discipline provides different options for how to use it with your psi points. Each effect option has a name, and the psi point cost of that option appears in parentheses after its name. You must spend that number of psi points to use that option, while abiding by your psi limit. If you don't have enough psi points left, or the cost is above your psi limit, you can't use the option.",
-						"Some options show a range of psi points, rather than a specific cost. To use that option, you must spend a number of points within that point range, still abiding by your psi limit. Some options let you spend additional psi points to increase a discipline's potency. Again, you must abide by your psi limit, and you must spend all the points when you first use the discipline; you can't decide to spend additional points once you see the discipline in action.",
-						"Each option notes specific information about its effect, including any action required to use it and its range."
+						"Una disciplina fornisce diverse opzioni su come usarla con i tuoi punti PSI. Ogni opzione di effetto ha un nome e il costo in punti PSI di quell'opzione appare tra parentesi dopo il suo nome. Devi spendere quel numero di punti Psi per utilizzare quell'opzione, rispettando il tuo limite PSI. Se non ti restano abbastanza punti Psi, o il costo è superiore al tuo limite PSI, non puoi utilizzare l'opzione.",
+						"Alcune opzioni mostrano una gamma di punti PSI, anziché un costo specifico. Per utilizzare questa opzione, devi spendere un numero di punti entro quell'intervallo di punti, rispettando comunque il tuo limite psi. Alcune opzioni ti consentono di spendere punti PSI aggiuntivi per aumentare la potenza di una disciplina. Ancora una volta, devi rispettare il tuo limite psi e devi spendere tutti i punti quando usi la disciplina per la prima volta; non puoi decidere di spendere punti aggiuntivi una volta che vedi la disciplina in azione.",
+						"Ciascuna opzione riporta informazioni specifiche sul suo effetto, inclusa qualsiasi azione richiesta per usarla e la sua portata."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Components",
 					"entries": [
-						"Disciplines don't require the components that many spells require. Using a discipline requires no spoken words, gestures, or materials. The power of psionics comes from the mind."
+						"Le discipline non richiedono le componenti richieste da molti incantesimi. Usare una disciplina non richiede parole, gesti o materiali. Il potere degli psionici viene dalla mente."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Duration",
 					"entries": [
-						"An effect option in a discipline specifies how long its effect lasts.",
+						"Un'opzione di effetto in una disciplina specifica quanto dura il suo effetto.",
 						{
 							"type": "entries",
 							"name": "Instantaneous",
 							"entries": [
-								"If no duration is specified, the effect of the option is instantaneous."
+								"Se non viene specificata alcuna durata, l'effetto dell'opzione è istantaneo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Concentration",
 							"entries": [
-								"Some options require {@status concentration} to maintain their effects. This requirement is noted with \"conc.\" after the option's psi point cost. The \"conc.\" notation is followed by the maximum duration of the {@status concentration}. For example, if an option says \"conc., 1 min.,\" you can concentrate on its effect for up to 1 minute.",
-								"Concentrating on a discipline follows the same rules as {@status concentration||concentrating} on a spell. This rule means you can't concentrate on a spell and a discipline at the same time, nor can you concentrate on two disciplines at the same time. See {@book chapter 10|PHB|10}, \"Spellcasting,\" in the Player's Handbook for how {@status concentration} works."
+								"Alcune opzioni richiedono {@status concentration} per mantenere i loro effetti. Questo requisito è indicato con \"conc.\" dopo il costo in punti psi dell'opzione. Il \"concentrato.\" notazione è seguita dalla durata massima del {@status concentration}. Ad esempio, se un'opzione dice \"conc., 1 min.\", puoi concentrarti sul suo effetto fino a 1 minuto.",
+								"Concentrarsi su una disciplina segue le stesse regole di {@status concentration||concentrating} su un incantesimo. Questa regola significa che non puoi concentrarti su un incantesimo e una disciplina contemporaneamente, né puoi concentrarti su due discipline contemporaneamente. Vedi {@book chapter 10|PHB|10}, \"Lancio di incantesimi\" nel Manuale del giocatore per sapere come funziona {@status concentration}."
 							]
 						}
 					]
@@ -504,23 +504,23 @@
 					"type": "entries",
 					"name": "Targets and Areas of Effect",
 					"entries": [
-						"Psionic disciplines use the same rules as spells for determining targets and areas of effect, as presented in {@book chapter 10|PHB|10}, \"Spellcasting,\" of the Player's Handbook."
+						"Le discipline psioniche utilizzano le stesse regole degli incantesimi per determinare i bersagli e le aree di effetto, come presentato in {@book chapter 10|PHB|10}, \"Lancio di incantesimi\" del Manuale del giocatore."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Saving Throws and Attack Rolls",
 					"entries": [
-						"If a discipline requires a saving throw, it specifies the type of save and the results of a successful or failed saving throw. The DC is determined by your psionic ability.",
-						"Some disciplines require you to make an attack roll to determine whether the discipline's effect hits its target. The attack roll uses your psionic ability."
+						"Se una disciplina richiede un tiro salvezza, specifica il tipo di tiro salvezza e i risultati di un tiro salvezza riuscito o fallito. La CD è determinata dalla tua abilità psionica.",
+						"Alcune discipline richiedono che tu effettui un tiro per colpire per determinare se l'effetto della disciplina colpisce il suo bersaglio. Il tiro per colpire utilizza la tua abilità psionica."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Combining Psionic Effects",
 					"entries": [
-						"The effects of different psionic disciplines add together while the durations of the disciplines overlap. Likewise, different options from a psionic discipline combine if they are active at the same time. However, a specific option from a psionic discipline doesn't combine with itself if the option is used multiple times. Instead, the most potent effect\u2014usually dependent on how many psi points were used to create the effect\u2014applies while the durations of the effects overlap.",
-						"Psionics and spells are separate effects, and therefore their benefits and drawbacks overlap. A psionic effect that reproduces a spell is an exception to this rule."
+						"Gli effetti di diverse discipline psioniche si sommano mentre le durate delle discipline si sovrappongono. Allo stesso modo, diverse opzioni di una disciplina psionica si combinano se sono attive contemporaneamente. Tuttavia, un'opzione specifica di una disciplina psionica non si combina con se stessa se l'opzione viene utilizzata più volte. Invece, l’effetto più potente, solitamente dipendente da quanti punti Psi sono stati utilizzati per crearlo, si applica mentre la durata degli effetti si sovrappone.",
+						"Gli effetti psionici e gli incantesimi sono effetti separati e quindi i loro benefici e svantaggi si sovrappongono. Un effetto psionico che riproduce un incantesimo è un'eccezione a questa regola."
 					]
 				}
 			]
@@ -533,8 +533,8 @@
 			"classSource": "UATheMysticClass",
 			"level": 2,
 			"entries": [
-				"Starting at 2nd level, you can draw vigor from the psi energy you use to power your psionic disciplines.",
-				"Immediately after you spend psi points on a psionic discipline, you can take a bonus action to regain hit points equal to the number of psi points you spent."
+				"A partire dal 2° livello, puoi trarre vigore dall'energia psichica che usi per potenziare le tue discipline psioniche.",
+				"Immediatamente dopo aver speso punti Psionici in una disciplina psionica, puoi effettuare un'azione bonus per recuperare punti ferita pari al numero di punti PSI spesi."
 			]
 		},
 		{
@@ -545,7 +545,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 2,
 			"entries": [
-				"At 2nd level, your mind awakens to the ability to communicate via telepathy. You can telepathically speak to any creature you can see within 120 feet of you in this manner. You don't need to share a language with the creature for it to understand your telepathic messages, but the creature must be able to understand at least one language or be telepathic itself."
+				"Al 2° livello, la tua mente si risveglia alla capacità di comunicare tramite telepatia. In questo modo puoi parlare telepaticamente con qualsiasi creatura che puoi vedere entro 32 metri da te. Non è necessario condividere un linguaggio con la creatura affinché possa comprendere i tuoi messaggi telepatici, ma la creatura deve essere in grado di comprendere almeno un linguaggio o essere essa stessa telepatica."
 			]
 		},
 		{
@@ -556,7 +556,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 3,
 			"entries": [
-				"At 3rd level, you gain another feature from your Mystic Order."
+				"Al 3° livello, ottieni un'altra caratteristica dal tuo Ordine Mistico."
 			]
 		},
 		{
@@ -567,7 +567,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 4,
 			"entries": [
-				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
+				"Quando raggiungi il 4° livello, e di nuovo all'8°, 12°, 16° e 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità."
 			]
 		},
 		{
@@ -578,8 +578,8 @@
 			"classSource": "UATheMysticClass",
 			"level": 4,
 			"entries": [
-				"Even the simplest psionic technique requires a deep understanding of how psionic energy can augment mind and body. This understanding allows you to alter your defenses to better deal with threats.",
-				"Starting at 4th level, you can replace your proficiency in Wisdom saving throws whenever you finish a short or long rest. To do so, choose Strength, Dexterity, Constitution, or Charisma. You gain proficiency in saves using that ability, instead of Wisdom. This change lasts until you finish your next short or long rest."
+				"Anche la tecnica psionica più semplice richiede una profonda comprensione di come l'energia psionica possa potenziare mente e corpo. Questa comprensione ti consente di modificare le tue difese per affrontare meglio le minacce.",
+				"A partire dal 4° livello, puoi sostituire la tua competenza nei tiri salvezza su Saggezza ogni volta che termini un riposo breve o lungo. Per farlo, scegli Forza, Destrezza, Costituzione o Carisma. Ottieni competenza nei tiri salvezza usando quella capacità, invece che Saggezza. Questo cambiamento dura finché non finisci il tuo prossimo riposo breve o lungo."
 			]
 		},
 		{
@@ -590,7 +590,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 6,
 			"entries": [
-				"At 6th level, you gain another feature from your Mystic Order."
+				"Al 6° livello, ottieni un'altra caratteristica dal tuo Ordine Mistico."
 			]
 		},
 		{
@@ -601,7 +601,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 8,
 			"entries": [
-				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
+				"Quando raggiungi il 4° livello, e di nuovo all'8°, 12°, 16° e 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità."
 			]
 		},
 		{
@@ -612,8 +612,8 @@
 			"classSource": "UATheMysticClass",
 			"level": 8,
 			"entries": [
-				"At 8th level, you gain the ability to infuse your weapon attacks with psychic energy. Once on each of your turns when you hit a creature with a weapon, you can deal an extra {@damage 1d8} psychic damage to that target. When you reach 14th level, this extra damage increases to {@damage 2d8}.",
-				"In addition, you add your Intelligence modifier to any damage roll you make for a {@filter psionic talent|psionics|type=T}."
+				"All'8° livello, ottieni la capacità di infondere energia psichica nei tuoi attacchi con l'arma. Una volta in ciascuno dei tuoi turni in cui colpisci una creatura con un'arma, puoi infliggere un danno psichico extra {@damage 1d8} a quel bersaglio. Quando raggiungi il 14° livello, questo danno extra aumenta a {@damage 2d8}.",
+				"Inoltre, aggiungi il tuo modificatore di Intelligenza a qualsiasi tiro di danno effettuato per un {@filter psionic talent|psionics|type=T}."
 			]
 		},
 		{
@@ -624,8 +624,8 @@
 			"classSource": "UATheMysticClass",
 			"level": 10,
 			"entries": [
-				"At 10th level, you gain the ability to sacrifice your physical durability in exchange for psionic power. When activating a psionic discipline, you can pay its psi point cost with your hit points, instead of using any psi points. Your current hit points and hit point maximum are both reduced by the number of hit points you spend. This reduction can't be lessened in any way, and the reduction to your hit point maximum lasts until you finish a long rest.",
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Al 10° livello, ottieni la capacità di sacrificare la tua resistenza fisica in cambio di potere psionico. Quando si attiva una disciplina psionica, è possibile pagarne il costo in punti Psionici con i propri punti ferita, invece di utilizzare eventuali punti Psionici. I tuoi punti ferita attuali e i tuoi punti ferita massimi vengono entrambi ridotti del numero di punti ferita spesi. Questa riduzione non può essere ridotta in alcun modo e la riduzione dei tuoi punti ferita massimi dura fino al termine di un riposo lungo.",
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -636,10 +636,10 @@
 			"classSource": "UATheMysticClass",
 			"level": 11,
 			"entries": [
-				"Beginning at 11th level, your mastery of psionic energy allows you to push your mind beyond its normal limits. As an action, you gain 9 special psi points that you can spend only on disciplines that require an action or a bonus action to use. You can use all 9 points on one discipline, or you can spread them across multiple disciplines. You can't also spend your normal psi points on these disciplines; you can spend only the special points gained from this feature. When you finish a long rest, you lose any of these special points that you haven't spent.",
-				"If more than one of the disciplines you activate with these points require {@status concentration}, you can concentrate on all of them. Activating one of them ends any effect you were already {@status concentration||concentrating} on, and if you begin {@status concentration||concentrating} on an effect that doesn't use these special points, the disciplines end that you're {@status concentration||concentrating} on.",
-				"At 15th level, the pool of psi points you gain from this feature increases to 11.",
-				"You have one use of this feature, and you regain any expended use of it with a long rest. You gain one additional use of this feature at 13th, 15th, and 17th level."
+				"A partire dall'11° livello, la tua padronanza dell'energia psionica ti consente di spingere la tua mente oltre i suoi limiti normali. Come azione, guadagni 9 punti psi speciali che puoi spendere solo in discipline che richiedono un'azione o un'azione bonus da utilizzare. Puoi utilizzare tutti i 9 punti su una disciplina oppure distribuirli su più discipline. Non puoi spendere i tuoi normali punti Psi anche in queste discipline; puoi spendere solo i punti speciali guadagnati da questa funzione. Quando finisci un riposo lungo, perdi tutti questi punti speciali che non hai speso.",
+				"Se più di una delle discipline che attivi con questi punti richiedono {@status concentration}, puoi concentrarti su tutte. L'attivazione di uno di essi termina qualsiasi effetto su cui eri già {@status concentration||concentrating} e se inizi {@status concentration||concentrating} su un effetto che non utilizza questi punti speciali, terminano le discipline su cui ti trovi {@status concentration||concentrating}.",
+				"Al 15° livello, la riserva di punti Psi guadagnati da questa capacità aumenta a 11.",
+				"Hai un uso di questo privilegio e ne riacquisti l'eventuale utilizzo speso con un riposo lungo. Ottieni un uso aggiuntivo di questa capacità al 13°, 15° e 17° livello."
 			]
 		},
 		{
@@ -650,7 +650,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 12,
 			"entries": [
-				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
+				"Quando raggiungi il 4° livello, e di nuovo all'8°, 12°, 16° e 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità."
 			]
 		},
 		{
@@ -661,7 +661,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 13,
 			"entries": [
-				"At 13th level, you can use your Psionic Mastery twice per day."
+				"Al 13° livello, puoi usare la tua Maestria Psionica due volte al giorno."
 			]
 		},
 		{
@@ -672,7 +672,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 14,
 			"entries": [
-				"At 14th level, you gain another feature from your Mystic Order."
+				"Al 14° livello, ottieni un'altra caratteristica dal tuo Ordine Mistico."
 			]
 		},
 		{
@@ -683,7 +683,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 14,
 			"entries": [
-				"At 14th level, your Potent Psionics damage increased to {@damage 2d8}."
+				"Al 14° livello, il tuo potente danno psionico è aumentato a {@damage 2d8}."
 			]
 		},
 		{
@@ -694,7 +694,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 15,
 			"entries": [
-				"At 15th level, you can use your Psionic Mastery three times per day."
+				"Al 15° livello, puoi usare la tua Maestria Psionica tre volte al giorno."
 			]
 		},
 		{
@@ -705,7 +705,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 16,
 			"entries": [
-				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
+				"Quando raggiungi il 4° livello, e di nuovo all'8°, 12°, 16° e 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità."
 			]
 		},
 		{
@@ -716,7 +716,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 17,
 			"entries": [
-				"At 17th level, you can use your Psionic Mastery four times per day."
+				"Al 17° livello, puoi usare la tua Maestria Psionica quattro volte al giorno."
 			]
 		},
 		{
@@ -727,7 +727,7 @@
 			"classSource": "UATheMysticClass",
 			"level": 19,
 			"entries": [
-				"When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
+				"Quando raggiungi il 4° livello, e di nuovo all'8°, 12°, 16° e 19° livello, puoi aumentare un punteggio di caratteristica a tua scelta di 2, oppure puoi aumentare due punteggi di caratteristica a tua scelta di 1. Come di norma, non puoi aumentare un punteggio di caratteristica oltre 20 utilizzando questa capacità."
 			]
 		},
 		{
@@ -738,14 +738,14 @@
 			"classSource": "UATheMysticClass",
 			"level": 20,
 			"entries": [
-				"At 20th level, your mastery of psionic power causes your mind to transcend the body. Your physical form is infused with psionic energy. You gain the following benefits:",
+				"Al 20° livello, la tua padronanza del potere psionico fa sì che la tua mente trascenda il corpo. La tua forma fisica è infusa di energia psionica. Ottieni i seguenti vantaggi:",
 				{
 					"type": "list",
 					"items": [
-						"You gain resistance to bludgeoning, piercing, and slashing damage.",
-						"You no longer age.",
-						"You are immune to disease, poison damage, and the {@condition poisoned} condition.",
-						"If you die, roll a {@dice d20}. On a 10 or higher, you discorporate with 0 hit points, instead of dying, and you fall {@condition unconscious}. You and your gear disappear. You appear at a spot of your choice {@dice 1d3} days later on the plane of existence where you died, having gained the benefits of one long rest."
+						"Ottieni resistenza ai danni contundenti, perforanti e taglienti.",
+						"Non invecchi più.",
+						"Sei immune alle malattie, ai danni da veleno e alla condizione {@condition poisoned}.",
+						"Se muori, tira un {@dice d20}. Con 10 o più ti discorpori con 0 punti ferita, invece di morire, e cadi {@condition unconscious}. Tu e la tua attrezzatura sparite. Appari in un luogo di tua scelta {@dice 1d3} giorni dopo, sul piano di esistenza in cui sei morto, dopo aver ottenuto i benefici di un riposo lungo."
 					]
 				}
 			]
@@ -762,8 +762,8 @@
 			"subclassSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"Mystics of the Order of the Avatar delve into the world of emotion, mastering their inner life to such an extent that they can manipulate and amplify the emotions of others with the same ease that an artist shapes clay. Known as Avatars, these mystics vary from tyrants to inspiring leaders who are loved by their followers.",
-				"Avatars can bring out extreme emotions in the people around them. For their allies, they can lend hope, ferocity, and courage, transforming a fighting band into a deadly, unified force. For their enemies, they bring fear, disgust, and trepidation that can make even the most hardened veteran act like a shaky rookie.",
+				"I mistici dell'Ordine dell'Avatar approfondiscono il mondo delle emozioni, padroneggiando la loro vita interiore a tal punto da poter manipolare e amplificare le emozioni degli altri con la stessa facilità con cui un artista modella l'argilla. Conosciuti come Avatar, questi mistici variano da tiranni a leader ispiratori amati dai loro seguaci.",
+				"Gli avatar possono far emergere emozioni estreme nelle persone che li circondano. Possono donare speranza, ferocia e coraggio ai loro alleati, trasformando una banda combattente in una forza letale e unificata. Per i loro nemici, portano paura, disgusto e trepidazione che possono far sì che anche il veterano più incallito si comporti come un traballante novellino.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Avatar|UATheMysticClass|1"
@@ -785,7 +785,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you gain proficiency with medium armor and shields."
+				"Al 1° livello, ottieni competenza con armature medie e scudi."
 			]
 		},
 		{
@@ -799,7 +799,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the {@filter Avatar disciplines|psionics|type=D|order=Avatar}."
+				"Al 1° livello, apprendi due discipline psioniche aggiuntive a tua scelta. Devono essere scelti tra {@filter Avatar disciplines|psionics|type=D|order=Avatar}."
 			]
 		},
 		{
@@ -813,7 +813,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Starting at 3rd level, you project an inspiring aura. While you aren't {@condition incapacitated}, each ally within 30 feet of you who can see you gains a +2 bonus to initiative rolls."
+				"A partire dal 3° livello, proietti un'aura ispiratrice. Mentre non lo sei {@condition incapacitated}, ogni alleato entro 9 metri da te che può vederti ottiene un bonus di +2 ai tiri di iniziativa."
 			]
 		},
 		{
@@ -827,7 +827,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Beginning at 6th level, you project an aura of resilience. While you aren't {@condition incapacitated}, each ally within 30 feet of you who can see you regains additional hit points equal to your Intelligence modifier (minimum of 0) whenever they regain hit points from a psionic discipline."
+				"A partire dal 6° livello, proietti un’aura di resilienza. Mentre non lo sei {@condition incapacitated}, ogni alleato entro 9 metri da te che può vederti recupera punti ferita aggiuntivi pari al tuo modificatore di Intelligenza (minimo 0) ogni volta che recupera punti ferita da una disciplina psionica."
 			]
 		},
 		{
@@ -841,7 +841,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, you project an aura of speed. While you aren't {@condition incapacitated}, any ally within 30 feet of you who can see you can take the {@action Dash} action as a bonus action."
+				"A partire dal 14° livello, proietti un'aura di velocità. Anche se non lo sei {@condition incapacitated}, qualsiasi alleato entro 9 metri da te che possa vederti può eseguire l'azione {@action Dash} come azione bonus."
 			]
 		},
 		{
@@ -854,8 +854,8 @@
 			"subclassSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"Mystics dedicated to the Order of the Awakened seek to unlock the full potential of the mind. By transcending the physical, the Awakened hope to attain a state of being focused on pure intellect and mental energy.",
-				"The Awakened are skilled at bending minds and unleashing devastating psionic attacks, and they can read the secrets of the world through psionic energy. Awakened mystics who take to adventuring excel at unraveling mysteries, solving puzzles, and defeating monsters by turning them into unwilling pawns.",
+				"I mistici dedicati all'Ordine dei Risvegliati cercano di sbloccare il pieno potenziale della mente. Trascendendo il fisico, il Risvegliato spera di raggiungere uno stato di concentrazione sul puro intelletto e sull'energia mentale.",
+				"I Risvegliati sono abili nel piegare le menti e scatenare devastanti attacchi psionici, e possono leggere i segreti del mondo attraverso l'energia psionica. I mistici risvegliati che iniziano l'avventura eccellono nel svelare misteri, risolvere enigmi e sconfiggere mostri trasformandoli in pedine riluttanti.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Awakened|UATheMysticClass|1"
@@ -877,7 +877,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you gain proficiency with two of the following skills of your choice: {@skill Animal Handling}, {@skill Deception}, {@skill Insight}, {@skill Intimidation}, {@skill Investigation}, {@skill Perception}, and {@skill Persuasion}."
+				"Al 1° livello, acquisisci competenza con due delle seguenti abilità a tua scelta: {@skill Animal Handling}, {@skill Deception}, {@skill Insight}, {@skill Intimidation}, {@skill Investigation}, {@skill Perception} e {@skill Persuasion}."
 			]
 		},
 		{
@@ -891,7 +891,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the {@filter Awakened disciplines|psionics|type=D|order=Awakened}."
+				"Al 1° livello, apprendi due discipline psioniche aggiuntive a tua scelta. Devono essere scelti tra {@filter Awakened disciplines|psionics|type=D|order=Awakened}."
 			]
 		},
 		{
@@ -905,10 +905,10 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Starting at 3rd level, you can focus your mind to read the psionic imprint left on an object. If you hold an object and concentrate on it for 10 minutes (as if {@status concentration||concentrating} on a psionic discipline), you learn a few basic facts about it. You gain a mental image from the object's point of view, showing the last creature to hold the object within the past 24 hours.",
-				"You also learn of any events that have occurred within 20 feet of the object within the past hour. The events you perceive unfold from the object's perspective. You see and hear such events as if you were there, but can't use other senses.",
-				"Additionally, you can embed an intangible psionic sensor within the object. For the next 24 hours, you can use an action to learn the object's location relative to you (its distance and direction) and to look at the object's surroundings from its point of view as if you were there. This perception lasts until the start of your next turn.",
-				"Once you use this feature, you can't use it again until you finish a short or long rest."
+				"A partire dal 3° livello, puoi concentrare la tua mente per leggere l'impronta psionica lasciata su un oggetto. Se tieni in mano un oggetto e ti concentri su di esso per 10 minuti (come se {@status concentration||concentrating} fossi in una disciplina psionica), apprendi alcuni fatti di base al riguardo. Ottieni un'immagine mentale dal punto di vista dell'oggetto, che mostra l'ultima creatura che ha impugnato l'oggetto nelle ultime 24 ore.",
+				"Inoltre, vieni a conoscenza di tutti gli eventi che si sono verificati entro 20 piedi dall'oggetto nell'ultima ora. Gli eventi che percepisci si svolgono dalla prospettiva dell'oggetto. Vedi e senti tali eventi come se fossi lì, ma non puoi usare gli altri sensi.",
+				"Inoltre, puoi incorporare un sensore psionico immateriale all'interno dell'oggetto. Per le prossime 24 ore, puoi utilizzare un'azione per apprendere la posizione dell'oggetto rispetto a te (la sua distanza e direzione) e per guardare i dintorni dell'oggetto dal suo punto di vista come se tu fossi lì. Questa percezione dura fino all'inizio del tuo prossimo turno.",
+				"Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo breve o lungo."
 			]
 		},
 		{
@@ -922,8 +922,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Starting at 6th level, you can overload your psychic focus to batter down an opponent's defenses. You can impose disadvantage on a target's saving throw against a discipline or talent you use, but at the cost of using your psychic focus. Your psychic focus immediately ends if it's active, and you can't use it until you finish a short or long rest.",
-				"You can't use this feature if you can't use your psychic focus."
+				"A partire dal 6° livello, puoi sovraccaricare la tua concentrazione psichica per abbattere le difese di un avversario. Puoi imporre uno svantaggio al tiro salvezza di un bersaglio contro una disciplina o un talento che usi, ma al costo di usare il tuo focus psichico. Il tuo focus parapsichico termina immediatamente se è attivo e non puoi usarlo finché non finisci un riposo breve o lungo.",
+				"Non puoi usare questa funzione se non puoi usare il tuo focus psichico."
 			]
 		},
 		{
@@ -937,8 +937,8 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"At 14th level, you gain the ability to become a ghostly figure of psionic energy. As an action, you can transform into a transparent, ghostly version of yourself. While in this form, you have resistance to all damage, move at half speed, and can pass through objects and creatures while moving but can't willingly end your movement in their spaces. The form lasts for 10 minutes or until you use an action to end it.",
-				"Once you use this feature, you can't use it again until you finish a long rest."
+				"Al 14° livello, ottieni la capacità di diventare una figura spettrale dotata di energia psionica. Con un'azione, puoi trasformarti in una versione trasparente e spettrale di te stesso. Mentre sei in questa forma, hai resistenza a tutti i danni, ti muovi a velocità dimezzata e puoi passare attraverso oggetti e creature mentre ti muovi, ma non puoi terminare volontariamente il tuo movimento nei loro spazi. Il modulo dura 10 minuti o finché non utilizzi un'azione per terminarlo.",
+				"Una volta utilizzata questa capacità, non potrai utilizzarla nuovamente finché non avrai terminato un riposo lungo."
 			]
 		},
 		{
@@ -951,8 +951,8 @@
 			"subclassSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"The Order of the Immortal uses psionic energy to augment and modify the physical form. Followers of this order are known as Immortals. They use psionic energy to modify their bodies, strengthening them against attack and turning themselves into living weapons.",
-				"Their mastery of the physical form grants them their name, for Immortals are notoriously difficult to kill.",
+				"L'Ordine dell'Immortale utilizza l'energia psionica per aumentare e modificare la forma fisica. I seguaci di questo ordine sono conosciuti come Immortali. Usano l'energia psionica per modificare i loro corpi, rafforzandoli contro gli attacchi e trasformandosi in armi viventi.",
+				"La loro padronanza della forma fisica dà loro il nome, poiché gli immortali sono notoriamente difficili da uccidere.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Immortal|UATheMysticClass|1"
@@ -974,7 +974,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the {@filter Immortal disciplines|psionics|type=D|order=Immortal}."
+				"Al 1° livello, apprendi due discipline psioniche aggiuntive a tua scelta. Devono essere scelti tra {@filter Immortal disciplines|psionics|type=D|order=Immortal}."
 			]
 		},
 		{
@@ -988,8 +988,8 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, your hit point maximum increases by 1 per mystic level.",
-				"In addition, while you aren't wearing armor or wielding a shield, your base AC equals 10 + your Dexterity modifier + your Constitution modifier."
+				"A partire dal 1° livello, i tuoi punti ferita massimi aumentano di 1 per livello mistico.",
+				"Inoltre, finché non indossi un'armatura o non impugni uno scudo, la tua CA base è pari a 10 + il tuo modificatore di Destrezza + il tuo modificatore di Costituzione."
 			]
 		},
 		{
@@ -1003,7 +1003,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Starting at 3rd level, your psionic energy grants you extraordinary fortitude. At the start of each of your turns, you gain temporary hit points equal to your Intelligence modifier (minimum of 0) if you have at least 1 hit point."
+				"A partire dal 3° livello, la tua energia psionica ti garantisce una forza d'animo straordinaria. All'inizio di ciascuno dei tuoi turni, guadagni punti ferita temporanei pari al tuo modificatore di Intelligenza (minimo 0) se hai almeno 1 punto ferita."
 			]
 		},
 		{
@@ -1017,8 +1017,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Starting at 6th level, you can draw on your psychic focus to escape death's grasp. As a reaction when you take damage, you can halve that damage against you. Your psychic focus immediately ends if it's active, and you can't use it until you finish a short or long rest.",
-				"You can't use this feature if you can't use your psychic focus."
+				"A partire dal 6° livello, puoi attingere al tuo focus psichico per sfuggire alla presa della morte. Come reazione quando subisci danni, puoi dimezzare quei danni contro di te. Il tuo focus parapsichico termina immediatamente se è attivo e non puoi usarlo finché non finisci un riposo breve o lungo.",
+				"Non puoi usare questa funzione se non puoi usare il tuo focus psichico."
 			]
 		},
 		{
@@ -1032,7 +1032,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, you can draw on your reserves of psionic power to survive beyond death. At the end of your turn while at 0 hit points, you can spend 5 psi points to immediately regain a number of hit points equal to your mystic level + your Constitution modifier."
+				"A partire dal 14° livello, puoi attingere alle tue riserve di potere psionico per sopravvivere oltre la morte. Alla fine del tuo turno, mentre sei a 0 punti ferita, puoi spendere 5 punti psi per riguadagnare immediatamente un numero di punti ferita pari al tuo livello mistico + il tuo modificatore di Costituzione."
 			]
 		},
 		{
@@ -1045,8 +1045,8 @@
 			"subclassSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"Mystics of the Order of the Nomad keep their minds in a strange, rarified state. They seek to accumulate as much knowledge as possible, as they quest to unravel the mysteries of the multiverse and seek the underlying structure of all things. At the same time, they perceive a bizarre, living web of knowledge they call the noosphere.",
-				"Nomads, as their name indicates, delight in travel, exploration, and discovery. They desire to accumulate as much knowledge as possible, and the pursuit of secrets and hidden lore can become an obsession for them.",
+				"I mistici dell'Ordine dei Nomadi mantengono la mente in uno stato strano e rarefatto. Cercano di accumulare quanta più conoscenza possibile, mentre cercano di svelare i misteri del multiverso e cercano la struttura sottostante di tutte le cose. Allo stesso tempo, percepiscono una bizzarra rete vivente di conoscenza che chiamano noosfera.",
+				"I nomadi, come indica il nome, amano viaggiare, esplorare e scoprire. Desiderano accumulare quanta più conoscenza possibile e la ricerca di segreti e conoscenze nascoste può diventare per loro un'ossessione.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Nomad|UATheMysticClass|1"
@@ -1068,7 +1068,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the {@filter Nomad disciplines|psionics|type=D|order=Nomad}."
+				"Al 1° livello, apprendi due discipline psioniche aggiuntive a tua scelta. Devono essere scelti tra {@filter Nomad disciplines|psionics|type=D|order=Nomad}."
 			]
 		},
 		{
@@ -1082,7 +1082,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you gain the ability to extend your knowledge. When you finish a long rest, you gain two proficiencies of your choice: two tools, two skills, or one of each. You can replace one or both of these selections with languages. This benefit lasts until you finish a long rest."
+				"Al 1° livello, ottieni la capacità di ampliare le tue conoscenze. Quando termini un riposo lungo, ottieni due competenze a tua scelta: due strumenti, due abilità o una di ciascuna. È possibile sostituire una o entrambe queste selezioni con le lingue. Questo beneficio dura fino al termine di un riposo lungo."
 			]
 		},
 		{
@@ -1096,7 +1096,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"At 3rd level, you gain the ability to use psionics to recall your steps. As a reaction when you are hit by an attack, you can teleport to an unoccupied space that you occupied since the start of your last turn, and the attack misses you. Once you use this feature, you can't use it again until you finish a short or long rest."
+				"Al 3° livello, ottieni la capacità di usare gli effetti psionici per ricordare i tuoi passi. Come reazione quando vieni colpito da un attacco, puoi teletrasportarti in uno spazio non occupato che hai occupato dall'inizio del tuo ultimo turno e l'attacco ti manca. Una volta utilizzata questa capacità, non è possibile utilizzarla nuovamente finché non si termina un riposo breve o lungo."
 			]
 		},
 		{
@@ -1110,7 +1110,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you gain a superior talent for teleportation. When you use a psionic discipline to teleport any distance, you can increase that distance by up to 10 feet."
+				"Al 6° livello, ottieni un talento superiore per il teletrasporto. Quando usi una disciplina psionica per teletrasportarti a qualsiasi distanza, puoi aumentare quella distanza fino a 3 metri."
 			]
 		},
 		{
@@ -1124,7 +1124,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, your mind can mystically move your body. Once on each of your turns, you can forfeit up to 30 feet of your movement to teleport the distance you forfeited. You must teleport to an unoccupied space you can see."
+				"A partire dal 14° livello, la tua mente può muovere misticamente il tuo corpo. Una volta in ciascuno dei tuoi turni, puoi rinunciare fino a 9 metri del tuo movimento per teletrasportarti la distanza persa. Devi teletrasportarti in uno spazio non occupato che puoi vedere."
 			]
 		},
 		{
@@ -1137,8 +1137,8 @@
 			"subclassSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"The Order of the Soul Knife sacrifices the breadth of knowledge other mystics gain to focus on a specific psionic technique. These mystics learn to manifest a deadly weapon of pure psychic energy that they can use to cleave through foes.",
-				"Soul knives vary widely in their approach to this path. Some follow it out of a desire to achieve martial perfection. Others are ruthless assassins who seek to become the perfect killer.",
+				"L'Ordine del Coltello dell'Anima sacrifica l'ampiezza della conoscenza acquisita da altri mistici per concentrarsi su una tecnica psionica specifica. Questi mistici imparano a manifestare un'arma mortale di pura energia psichica che possono usare per fendere i nemici.",
+				"I coltelli dell'anima variano ampiamente nel loro approccio a questo percorso. Alcuni lo seguono spinti dal desiderio di raggiungere la perfezione marziale. Altri sono assassini spietati che cercano di diventare l'assassino perfetto.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Martial Training|Mystic|UATheMysticClass|Soul Knife|UATheMysticClass|1"
@@ -1160,7 +1160,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you gain proficiency with medium armor and martial weapons."
+				"Al 1° livello, ottieni competenza nelle armature medie e nelle armi da guerra."
 			]
 		},
 		{
@@ -1174,9 +1174,9 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"Starting at 1st level, you gain the ability to manifest a blade of psychic energy. As a bonus action, you create scintillating knives of energy that project from both of your fists. You can't hold anything in your hands while manifesting these blades. You can dismiss them as a bonus action.",
-				"For you, a soul knife is a martial melee weapon with the light and finesse properties. It deals {@damage 1d8} psychic damage on a hit.",
-				"As a bonus action, you can prepare to use the blades to parry; you gain a +2 bonus to AC until the start of your next turn or until you are {@condition incapacitated}."
+				"A partire dal 1° livello, ottieni la capacità di manifestare una lama di energia psichica. Come azione bonus, crei scintillanti coltelli di energia che sporgono da entrambi i tuoi pugni. Non puoi tenere nulla tra le mani mentre manifesti queste lame. Puoi eliminarli come azione bonus.",
+				"Per te, un coltello dell'anima è un'arma marziale da mischia con proprietà di leggerezza e finezza. Infligge {@damage 1d8} danni psichici in caso di colpo.",
+				"Come azione bonus, puoi prepararti a usare le lame per parare; ottieni un bonus di +2 alla CA fino all'inizio del tuo turno successivo o finché non lo sei {@condition incapacitated}."
 			]
 		},
 		{
@@ -1190,7 +1190,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Starting at 3rd level, you can spend psi points to augment your soul knife's attack rolls and damage. You gain a bonus to attack and damage rolls with your soul knives depending on the number of psi points spent, as shown on the table below. This bonus lasts for 10 minutes.",
+				"A partire dal 3° livello, puoi spendere punti PSI per aumentare i tiri per colpire e i danni del tuo coltello dell'anima. Ottieni un bonus ai tiri per colpire e per i danni con i tuoi coltelli dell'anima a seconda del numero di punti psi spesi, come mostrato nella tabella seguente. Questo bonus dura 10 minuti.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -1229,7 +1229,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"Starting at 6th level, whenever you slay an enemy creature with a soul knife attack, you immediately regain 2 psi points."
+				"A partire dal 6° livello, ogni volta che uccidi una creatura nemica con un attacco con il coltello dell'anima, recuperi immediatamente 2 punti PSI."
 			]
 		},
 		{
@@ -1243,7 +1243,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, you can make an attack that phases through most defenses. As an action, you can make one attack with your soul knife. Treat the target's AC as 10 against this attack, regardless of the target's actual AC."
+				"A partire dal 14° livello, puoi effettuare un attacco che attraversa la maggior parte delle difese. Come azione, puoi effettuare un attacco con il tuo coltello dell'anima. Considera la CA del bersaglio come 10 contro questo attacco, indipendentemente dalla CA effettiva del bersaglio."
 			]
 		},
 		{
@@ -1256,8 +1256,8 @@
 			"subclassSource": "UATheMysticClass",
 			"level": 1,
 			"entries": [
-				"The Order of the Wu Jen features some of the most devoted mystics. These mystics seek to lock themselves away from the world, denying the limits of the physical world and replacing it with a reality that they create for themselves. Known as wu jens, these mystics cast their minds into the world, seize control of its fundamental principles, and rebuild it.",
-				"In practical terms, wu jens excel at controlling the forces of the natural world. They can hurl objects with their minds, control the four elements, and alter reality to fit their desires.",
+				"L'Ordine dei Wu Jen comprende alcuni dei mistici più devoti. Questi mistici cercano di isolarsi dal mondo, negando i limiti del mondo fisico e sostituendolo con una realtà che creano per se stessi. Conosciuti come wu jens, questi mistici gettano le loro menti nel mondo, prendono il controllo dei suoi principi fondamentali e lo ricostruiscono.",
+				"In termini pratici, i wu jen eccellono nel controllare le forze del mondo naturale. Possono scagliare oggetti con la mente, controllare i quattro elementi e alterare la realtà per adattarla ai loro desideri.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Disciplines|Mystic|UATheMysticClass|Wu Jen|UATheMysticClass|1"
@@ -1279,7 +1279,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you learn two additional psionic disciplines of your choice. They must be chosen from among the {@filter Wu Jen disciplines|psionics|type=D|order=Wu Jen}."
+				"Al 1° livello, apprendi due discipline psioniche aggiuntive a tua scelta. Devono essere scelti tra {@filter Wu Jen disciplines|psionics|type=D|order=Wu Jen}."
 			]
 		},
 		{
@@ -1293,7 +1293,7 @@
 			"level": 1,
 			"header": 1,
 			"entries": [
-				"At 1st level, you gain proficiency with two of the following skills of your choice: {@skill Animal Handling}, {@skill Arcana}, {@skill History}, {@skill Insight}, {@skill Medicine}, {@skill Nature}, {@skill Perception}, {@skill Religion}, or {@skill Survival}."
+				"Al 1° livello, acquisisci competenza con due delle seguenti abilità a tua scelta: {@skill Animal Handling}, {@skill Arcana}, {@skill History}, {@skill Insight}, {@skill Medicine}, {@skill Nature}, {@skill Perception}, {@skill Religion} o {@skill Survival}."
 			]
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Starting at 3rd level, when a creature's resistance reduces the damage dealt by a psionic discipline of yours, you can spend 1 psi point to cause that use of the discipline to ignore the creature's resistance. You can't spend this point if doing so would increase the discipline's cost above your psi limit."
+				"A partire dal 3° livello, quando la resistenza di una creatura riduce il danno inflitto da una propria disciplina psionica, è possibile spendere 1 punto Psi per fare in modo che quell'uso della disciplina ignori la resistenza della creatura. Non puoi spendere questo punto se farlo aumenterebbe il costo della disciplina oltre il tuo limite psi."
 			]
 		},
 		{
@@ -1321,8 +1321,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you learn three wizard spells of your choice and always have them prepared. The spells must be of {@filter 1st through 3rd level|spells|level=1;2;3|class=wizard}.",
-				"As a bonus action, you can spend psi points to create spell slots that you can use to cast these spells, as well as other spells you are capable of casting. The psi-point cost of each spell slot is detailed on the table below.",
+				"Al 6° livello, impari tre incantesimi da mago di tua scelta e li tieni sempre preparati. Gli incantesimi devono essere di {@filter 1st through 3rd level|spells|level=1;2;3|class=wizard}.",
+				"Come azione bonus, puoi spendere punti psi per creare slot incantesimo che puoi utilizzare per lanciare questi incantesimi, così come altri incantesimi che sei in grado di lanciare. Il costo in punti psi di ogni slot incantesimo è dettagliato nella tabella seguente.",
 				{
 					"type": "table",
 					"colLabels": [
@@ -1356,8 +1356,8 @@
 						]
 					]
 				},
-				"The spell slot remains until you use it or finish a long rest. You must observe your psi limit when spending psi points to create a spell slot.",
-				"Whenever you gain a level in this class, you can replace on of the chosen wizard spells with a different {@filter wizard spell of 1st through 3rd level|spells|level=1;2;3|class=wizard}."
+				"Lo slot incantesimo rimane finché non lo usi o finisci un riposo lungo. Devi osservare il tuo limite PSI quando spendi punti PSI per creare uno slot incantesimo.",
+				"Ogni volta che guadagni un livello in questa classe, puoi sostituire uno degli incantesimi del mago scelti con uno diverso {@filter wizard spell of 1st through 3rd level|spells|level=1;2;3|class=wizard}."
 			]
 		},
 		{
@@ -1371,7 +1371,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"Starting at 14th level, if you have resistance to a type of damage, you can spend 2 psi points as a reaction when you take damage of that type to ignore that damage; you gain immunity to that damage type until the end of your next turn."
+				"A partire dal 14° livello, se possiedi resistenza a un tipo di danno, puoi spendere 2 punti Psi come reazione quando subisci danni di quel tipo per ignorare quel danno; ottieni l'immunità a quel tipo di danno fino alla fine del tuo turno successivo."
 			]
 		}
 	]

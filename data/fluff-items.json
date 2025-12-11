@@ -41,7 +41,7 @@
 			"name": "Adventurer's Ring",
 			"source": "FRHoF",
 			"entries": [
-				"Lamps are a liability on adventures. Delicate and prone to oil spillage, lamps fill a hand that should otherwise be wielding a weapon or casting a spell. Once you try one of our elegant and practical rings, you'll never go back to cumbersome flint and fire."
+				"Le lampade sono una responsabilità nelle avventure. Delicate e soggette a fuoriuscite di petrolio, le lampade riempiono una mano che altrimenti dovrebbe impugnare un'arma o lanciare un incantesimo. Una volta provato uno dei nostri anelli eleganti e pratici, non tornerai mai più all'ingombrante selce e al fuoco."
 			],
 			"images": [
 				{
@@ -2792,7 +2792,7 @@
 						{
 							"type": "entries",
 							"entries": [
-								"The double-bladed scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result the double-bladed scimitar is an expensive weapon (100 gp)\u2014few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might feel entitled to demand its return or challenge the bearer to prove they're worthy to wield it."
+								"La scimitarra a doppia lama è l'arma caratteristica degli elfi Valenar. Un manico di legno pregiato sostiene una lunga lama ricurva su entrambe le estremità. Forgiate con tecniche affinate nel corso dei secoli, queste lame sono forti, affilate e straordinariamente leggere. Ogni scimitarra è un capolavoro e, di conseguenza, la scimitarra a doppia lama è un'arma costosa (100 mo), ma pochi hanno l'opportunità di acquistarne una. Si presume generalmente che una lama Valenar nelle mani di un non elfo sia stata rubata o saccheggiata da un nemico caduto, e un elfo Valenar potrebbe sentirsi in diritto di chiederne la restituzione o sfidare il portatore a dimostrare di essere degno di impugnarla."
 							]
 						}
 					]
@@ -3721,8 +3721,8 @@
 				{
 					"type": "quote",
 					"entries": [
-						"He was given to me by your father, little one. He kept us warm while your father and I trekked through the Dreemoth Ravine and the ruins of Draconia twenty years ago. Such vicious blizzards, the likes of which are only topped by the Neverfields\u2014or Eiselcross, so I've heard. You should have seen us, marching through the snow, dozens of Ashari cloaked in flame, melting trenches in the rime as they advanced, and me, my furs pulled around my nose, blinking through the snow, holding tight to this little one.",
-						"When your father returned to Pyrah, I feared I'd never see our little flamefriend again, but.... Here, hold him, hear his little elemental heart fluttering. Think of your father when you feel that warmth, protecting you, watching over you. No matter where in the world you are, whether you're near Pyrah or far, he'll be a bit of family, and a bit of home."
+						"Me lo ha regalato tuo padre, piccolino. Ci ha tenuti al caldo mentre tuo padre e io attraversavamo il burrone di Dreemoth e le rovine di Draconia vent'anni fa. Bufere di neve così feroci, come quelle superate solo da Neverfields o Eiselcross, così ho sentito. Avresti dovuto vederci, marciando nella neve, dozzine di Ashari avvolti in fiamme, che scioglievano trincee nella brina mentre avanzavano, e io, con le pellicce tirate intorno al naso, che sbattevo le palpebre nella neve, tenendomi stretto a questo piccolo.",
+						"Quando tuo padre tornò a Pyrah, temevo che non avrei mai più rivisto il nostro piccolo amico di fiamma, ma... Tienilo, tienilo, ascolta il suo cuoricino elementale battere forte. Pensa a tuo padre quando senti quel calore, che ti protegge, che veglia su di te. Non importa in quale parte del mondo ti trovi, che tu sia vicino a Pyrah o lontano, lui sarà un po' di famiglia e un po' di casa."
 					],
 					"by": "Talus Naj",
 					"from": "to his goddaughter, Ev of Pyrah"
@@ -4857,7 +4857,7 @@
 					"name": "Rules Tip: Pushing and Shoving",
 					"page": 206,
 					"entries": [
-						"Certain character options, such as the Path of the Juggernaut barbarian in {@book chapter 4|TDCSR|3}, grant the ability to push other creatures around the battlefield with your attacks. But this is just one way to push a creature. If you want to move a creature without hurting it, there's a {@action shove|PHB|special shove attack} available to all characters. The {@book Vestige of Divergence|TDCSR|5|Vestiges of Divergence} Honor's Last Stand encourages you to shove your foes away while you valiantly stand your ground.",
+						"Alcune opzioni del personaggio, come il Sentiero del barbaro Juggernaut in {@book chapter 4|TDCSR|3}, garantiscono la capacità di spingere altre creature sul campo di battaglia con i tuoi attacchi. Ma questo è solo un modo per spingere una creatura. Se vuoi spostare una creatura senza ferirla, c'è un {@action shove|PHB|special shove attack} disponibile per tutti i personaggi. L'ultima resistenza dell'onore {@book Vestige of Divergence|TDCSR|5|Vestiges of Divergence} ti incoraggia a respingere i tuoi nemici mentre difendi valorosamente la tua posizione.",
 						{
 							"type": "entries",
 							"name": "Shoving a Creature",
@@ -6517,7 +6517,7 @@
 			"name": "Mechanical Wonder",
 			"source": "FRAiF",
 			"entries": [
-				"{@i Mechanical Wonders have revolutionized life in Calimport. Imagine a wound-up machine that does your laundry, washes your dishes, and cleans your house\u2014then fulfill this dream in any emporium shop.}"
+				"{@i Mechanical Wonders have revolutionized life in Calimport. Imagine a wound-up machine that does your laundry, washes your dishes, and cleans your house—then fulfill this dream in any emporium shop.}"
 			],
 			"images": [
 				{
@@ -6922,7 +6922,7 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Though the name of the champion who wielded Mythcarver has been lost, legend says that the songs she sung in her beautiful contralto made her friends rejoice and her enemies weep with fear. Mythcarver was forged in the flying city of Zemniaz by a master arcanist and blacksmith along with the wielder herself, who wove song and spell into the blade with each fold of the metal."
+								"Anche se il nome del campione che brandiva Mythcarver è andato perduto, la leggenda dice che le canzoni che cantava nel suo bellissimo contralto facevano gioire i suoi amici e piangevano di paura i suoi nemici. Mythcarver è stato forgiato nella città volante di Zemniaz da un maestro arcanista e fabbro insieme alla stessa detentrice, che ha intrecciato canti e incantesimi nella lama con ogni piega del metallo."
 							],
 							"by": "High Curator Jorum Irrelios",
 							"from": "circa 547 P.D."
@@ -9871,7 +9871,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"Oh! Oh gods, are you seriously asking me to explain it? Geez, sure, I'll try, but you really gotta feel it, you know? The sensation of the wind whipping past you as you shoot up into the sky, then\u2014whoa!\u2014your stomach just drops out from you, and it's like you left your heart behind as you start to fall. It's like nothing's holding onto you, then\u2014whoosh!\u2014the wind catches you, and swings you back into the sky."
+						"OH! Oh Dei, mi stai seriamente chiedendo di spiegarlo? Cavolo, certo, ci proverò, ma devi davvero sentirlo, sai? La sensazione del vento che ti sferza mentre ti alzi nel cielo, poi—whoa!—il tuo stomaco si stacca da te, ed è come se avessi lasciato il cuore dietro quando inizi a cadere. È come se nulla ti trattenesse, poi—whoosh!—il vento ti prende e ti riporta in cielo."
 					],
 					"by": "Air Ashari druid initiate Kelthai",
 					"from": "on skysailing"
@@ -10244,7 +10244,7 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Records kept by the Birthheart temple in Vasselheim say that the Spire of Conflux was created when the Wildmother breathed on a young beech tree. The sapling transformed into a curving staff and the Wildmother's breath crystallized into the glowing jewel that hovers in its center. The bearer of this mythic staff can command the elements as if they were one with the enduring, yet ever-changing, landscape of Exandria itself..."
+								"I registri conservati nel tempio di Birthheart a Vasselheim dicono che la Guglia del Conflux fu creata quando la Madre Selvaggia soffiò su un giovane faggio. L'alberello si trasformò in un bastone ricurvo e il respiro della Madre Selvaggia si cristallizzò nel gioiello splendente che aleggia al suo centro. Il portatore di questo bastone mitico può comandare gli elementi come se fossero tutt'uno con il paesaggio duraturo, ma in continua evoluzione, di Exandria stessa..."
 							],
 							"by": "High Curator Jorum Irrelios",
 							"from": "circa 547 P.D."
@@ -10665,7 +10665,7 @@
 						{
 							"type": "quote",
 							"entries": [
-								"Many weapons created by mortals during the Age of Arcanum were designed with hopes to surpass or even destroy the gods, but not so with Dwueth'var. That shining sword, bright with the light of the bold full moon and the enigmatic starlit night, was forged by acolytes of the Wildmother and the Moonweaver, united in their love of this fragile world and their determination to protect it."
+								"Molte armi create dai mortali durante l'Era di Arcanum furono progettate con la speranza di superare o addirittura distruggere gli dei, ma non è così nel caso di Dwueth'var. Quella spada splendente, risplendente della luce dell'audace luna piena e dell'enigmatica notte stellata, è stata forgiata dagli accoliti della Madre Selvaggia e del Tessitore di Luna, uniti nell'amore per questo fragile mondo e nella determinazione a proteggerlo."
 							],
 							"by": "High Curator Jorum Irrelios",
 							"from": "circa 547 P.D."

@@ -5,24 +5,24 @@
 			"name": "Lightning Keep",
 			"id": "000",
 			"entries": [
-				"{@i Lightning Keep} is a fifth edition Dungeons & Dragons adventure for four to six characters of level 3. It is set in a world of your choosing\u2014perhaps a world of your own creation. It features monsters from {@filter Monstrous Compendium Volume 3: Minecraft Creatures|bestiary|source=MCV3MC} and therefore fits nicely into {@i Minecraft}-inspired settings.",
-				"The information presented here is for the DM's eyes only. If you're planning to play through the adventure with someone else as your DM, stop reading now!",
+				"{@i Lightning Keep} è un'avventura di Dungeons & Dragons della quinta edizione per quattro-sei personaggi di livello 3. È ambientata in un mondo a tua scelta, forse un mondo di tua creazione. Presenta mostri di {@filter Monstrous Compendium Volume 3: Minecraft Creatures|bestiary|source=MCV3MC} e quindi si adatta perfettamente alle ambientazioni ispirate a {@i Minecraft}.",
+				"Le informazioni presentate qui sono solo per gli occhi del DM. Se hai intenzione di affrontare l'avventura con qualcun altro come DM, smetti di leggere adesso!",
 				{
 					"type": "section",
 					"name": "Running the Adventure",
 					"id": "001",
 					"entries": [
-						"This adventure is designed to be playable in three or four hours. The characters' goal is straightforward: they must search an abandoned castle for six magical lightning rods. When installed atop the battlements, these rods create a protective lightning field around the castle. By defending the castle in this way, the characters can provide a haven for refugees displaced by a marauding dragon. More information about the castle and the dragon can be found in later sections.",
+						"Questa avventura è progettata per essere giocabile in tre o quattro ore. L'obiettivo dei personaggi è semplice: devono cercare in un castello abbandonato sei parafulmini magici. Quando installate in cima ai merli, queste aste creano un campo protettivo contro i fulmini attorno al castello. Difendendo il castello in questo modo, i personaggi possono fornire un rifugio ai rifugiati sfollati da un drago predatore. Maggiori informazioni sul castello e sul drago possono essere trovate nelle sezioni successive.",
 						{
 							"type": "insetReadaloud",
 							"id": "002",
 							"entries": [
-								"Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as described in the text."
+								"Il testo che appare in un riquadro come questo deve essere letto ad alta voce o parafrasato per i giocatori quando i loro personaggi arrivano per la prima volta in un luogo o in una circostanza specifica, come descritto nel testo."
 							]
 						},
-						"When a creature's name appears in {@b bold} type, that's a visual clue pointing you to its stat block as a way of saying, \"Hey, DM, you better get this creature's stat block ready. You're going to need it.\" Usually, you can find the stat block in {@filter Monstrous Compendium Volume 3: Minecraft Creatures|bestiary|source=MCV3MC}; if the stat block is in the {@book Monster Manual|MM}, the adventure's text tells you so.",
-						"You can make the adventure easier or harder, or adjust it for smaller or larger groups of player characters, by adjusting the number of monsters or by adding or removing encounters.",
-						"The adventure fits easily into any campaign setting. All you need is a marauding dragon and a remote location for Lightning Keep. If you need help choosing a dragon, roll a {@dice d6} and consult the Dragon Suggestions table. The characters don't encounter the dragon in this adventure; it's meant to be a looming threat that could show up later in the campaign.",
+						"Quando il nome di una creatura appare nel tipo {@b bold}, è un indizio visivo che ti indirizza al suo blocco delle statistiche come un modo per dire: \"Ehi, DM, faresti meglio a preparare il blocco delle statistiche di questa creatura. Ne avrai bisogno\". Di solito, puoi trovare il blocco delle statistiche in {@filter Monstrous Compendium Volume 3: Minecraft Creatures|bestiary|source=MCV3MC}; se il blocco delle statistiche è nel {@book Monster Manual|MM}, te lo dice il testo dell'avventura.",
+						"Puoi rendere l'avventura più facile o più difficile, o adattarla a gruppi più piccoli o più grandi di personaggi giocanti, modificando il numero di mostri o aggiungendo o rimuovendo incontri.",
+						"L'avventura si adatta facilmente a qualsiasi ambientazione di campagna. Tutto ciò di cui hai bisogno è un drago predatore e una posizione remota per Lightning Keep. Se hai bisogno di aiuto per scegliere un drago, tira un {@dice d6} e consulta la tabella Suggerimenti dei draghi. I personaggi non incontrano il drago in questa avventura; è pensato per essere una minaccia incombente che potrebbe presentarsi più avanti nella campagna.",
 						{
 							"type": "table",
 							"caption": "Dragon Suggestions",
@@ -69,7 +69,7 @@
 								]
 							]
 						},
-						"If you like the map of Lightning Keep but don't want to run the adventure, you can use the map to represent a different stronghold in your campaign."
+						"Se ti piace la mappa di Lightning Keep ma non vuoi vivere l'avventura, puoi usarla per rappresentare una roccaforte diversa nella tua campagna."
 					]
 				},
 				{
@@ -77,18 +77,18 @@
 					"name": "Beginning the Adventure",
 					"id": "003",
 					"entries": [
-						"Begin the adventure by reading aloud the following:",
+						"Inizia l'avventura leggendo ad alta voce quanto segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "004",
 							"entries": [
-								"A marauding dragon has laid waste to numerous villages, devouring some residents while displacing others. It strikes without mercy. No one knows where it came from, where it lairs, or how long it intends to terrorize the realm.",
-								"But there is hope. Long ago, a werewolf knight of great valor used her wealth to raise a bastion at the edge of the wilderness. This castle had the power to generate a lightning shield around itself\u2014a shield powerful enough to break sieges and keep monsters at bay. The castle was abandoned shortly after the knight passed away. By then, peace had settled across the land, making the stronghold unnecessary.",
-								"Villagers displaced by the dragon ask you to travel to Lightning Keep and rid it of any threats. Rumor has it the lightning shield is powered by six magical lightning rods. If you can find these rods, perhaps the lightning shield could be reactivated, allowing refugees fleeing the dragon to use the keep as a sanctuary."
+								"Un drago predatore ha devastato numerosi villaggi, divorando alcuni residenti e sfollandone altri. Colpisce senza pietà. Nessuno sa da dove venga, dove si nasconda o per quanto tempo intenda terrorizzare il regno.",
+								"Ma c'è speranza. Molto tempo fa, un cavaliere lupo mannaro di grande valore usò la sua ricchezza per innalzare un bastione ai margini delle terre selvagge. Questo castello aveva il potere di generare attorno a sé uno scudo di fulmini, uno scudo abbastanza potente da spezzare gli assedi e tenere a bada i mostri. Il castello fu abbandonato poco dopo la morte del cavaliere. A quel punto, la pace si era stabilita in tutto il paese, rendendo la roccaforte superflua.",
+								"Gli abitanti dei villaggi spostati dal drago ti chiedono di recarti a Lightning Keep e liberarlo da ogni minaccia. Si dice che lo scudo antifulmine sia alimentato da sei parafulmini magici. Se riesci a trovare queste bacchette, forse lo scudo antifulmine potrebbe essere riattivato, consentendo ai rifugiati in fuga dal drago di utilizzare la fortezza come santuario."
 							]
 						},
-						"The distance the characters must travel to reach Lightning Keep is for you to decide. The characters must hurry if they're to save the refugees.",
-						"Unless you decide otherwise, the journey to the keep is uneventful."
+						"La distanza che i personaggi devono percorrere per raggiungere Lightning Keep spetta a te deciderla. I personaggi devono sbrigarsi se vogliono salvare i rifugiati.",
+						"A meno che tu non decida diversamente, il viaggio verso il mastio è tranquillo."
 					]
 				},
 				{
@@ -96,25 +96,25 @@
 					"name": "Arrival at the Keep",
 					"id": "005",
 					"entries": [
-						"When the characters arrive at the keep, describe it to your players as follows:",
+						"Quando i personaggi arrivano al mastio, descrivilo ai tuoi giocatori come segue:",
 						{
 							"type": "insetReadaloud",
 							"id": "006",
 							"entries": [
-								"Lightning Keep is a well-preserved structure with battlements lining its granite walls. A straight path leads to a stone gatehouse, which contains a closed set of heavy wooden doors behind an iron portcullis. You see no signs of habitation and no other entrances."
+								"Lightning Keep è una struttura ben conservata con merli che fiancheggiano le sue pareti di granito. Un sentiero rettilineo conduce a un corpo di guardia in pietra, che contiene una serie di pesanti porte di legno chiuse dietro una saracinesca di ferro. Non vedi segni di abitazione e nessun altro ingresso."
 							]
 						},
-						"The characters arrive in the morning, afternoon, evening, or dead of night, as determined by you.",
-						"Characters who circle the keep can confirm that the gatehouse is the only entrance. Before the characters get any farther, run the \"Hungry Wolves\" encounter.",
+						"I personaggi arrivano al mattino, pomeriggio, sera o nel cuore della notte, come stabilito da te.",
+						"I personaggi che circondano il mastio possono confermare che il corpo di guardia è l'unico ingresso. Prima che i personaggi vadano oltre, esegui l'incontro \"Hungry Wolves\".",
 						{
 							"type": "entries",
 							"name": "Hungry Wolves",
 							"id": "007",
 							"entries": [
-								"Outside the keep, eight {@creature Wolf of the Overworld|MCV3MC|wolves of the Overworld} approach the characters. (Alternatively, you can use the {@creature wolf} stat block from the {@book Monster Manual|MM} to represent these creatures.)",
-								"The wolves look hungry. If a character offers raw or cooked meat to a wolf, it accepts the offering and flees on its next turn, taking another wolf with it. If a character offers a wolf a bone instead, the wolf accepts the bone and becomes friendly toward that character, obeying the character's commands for the next 24 hours and departing afterward. Wolves that aren't given food or bones attack, hoping to make a meal of the party.",
-								"As an action, a character can try to convince a wolf to leave peacefully on its next turn without an offering of food or a bone, doing so with a successful {@dc 11} Wisdom ({@skill Animal Handling}) check, or frighten a wolf into leaving on its next turn, which requires a successful {@dc 11} Charisma ({@skill Intimidation}) check.",
-								"A wolf that is wounded flees on its next turn. If four of the wolves are killed, all remaining wolves retreat on their next turn, using the {@action dash||Dash} action to put as much distance between them and the characters as possible."
+								"Fuori dal castello, otto {@creature Wolf of the Overworld|MCV3MC|wolves of the Overworld} si avvicinano ai personaggi. (In alternativa, puoi utilizzare il blocco statistiche {@creature wolf} da {@book Monster Manual|MM} per rappresentare queste creature.)",
+								"I lupi sembrano affamati. Se un personaggio offre carne cruda o cotta a un lupo, questi accetta l'offerta e fugge nel turno successivo, portando con sé un altro lupo. Se invece un personaggio offre un osso a un lupo, il lupo accetta l'osso e diventa amichevole nei confronti di quel personaggio, obbedendo ai comandi del personaggio per le successive 24 ore e poi se ne va. I lupi a cui non vengono dati né cibo né ossa attaccano, sperando di poter completare il pasto della festa.",
+								"Come azione, un personaggio può provare a convincere un lupo ad andarsene pacificamente nel suo turno successivo senza un'offerta di cibo o un osso, facendolo con una prova riuscita di {@dc 11} Saggezza ({@skill Animal Handling}), o spaventare un lupo affinché se ne vada nel suo turno successivo, che richiede una prova riuscita di {@dc 11} Carisma ({@skill Intimidation}).",
+								"Un lupo ferito fugge nel turno successivo. Se quattro lupi vengono uccisi, tutti i lupi rimanenti si ritirano nel turno successivo, utilizzando l'azione {@action dash||Dash} per mettere quanta più distanza possibile tra loro e i personaggi."
 							]
 						},
 						{
@@ -122,7 +122,7 @@
 							"name": "Entering the Keep",
 							"id": "008",
 							"entries": [
-								"Once the wolves are dealt with, the characters can try to enter the keep by lifting the portcullis or by clever use of magic. Alternatively, they can use grappling hooks and ropes (or climber's kits) to scale the 20-foot-high outer wall. All these options are explained below:",
+								"Una volta eliminati i lupi, i personaggi possono provare ad entrare nella fortezza sollevando la saracinesca o utilizzando astutamente la magia. In alternativa, possono utilizzare rampini e corde (o kit da scalatore) per scalare il muro esterno alto 20 piedi. Tutte queste opzioni sono spiegate di seguito:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -130,17 +130,17 @@
 										{
 											"type": "item",
 											"name": "Clever Use of Magic",
-											"entry": "A Small character reduced to Tiny size by an {@spell enlarge/reduce} spell can slip between the bars of the portcullis, while a {@spell misty step} spell or similar magic allows safe transport from one side of the portcullis to the other."
+											"entry": "Un personaggio Piccolo ridotto a Taglia Minuscola da un incantesimo {@spell enlarge/reduce} può scivolare tra le sbarre della saracinesca, mentre un incantesimo {@spell misty step} o una magia simile consente il trasporto sicuro da un lato all'altro della saracinesca."
 										},
 										{
 											"type": "item",
 											"name": "Climbing the Walls",
-											"entry": "The top of the outer wall is 20 feet higher than the ground outside the keep, and the wall is too smooth to climb without proper gear or magic (such as a {@spell spider climb} spell). A character equipped with climbing gear can use it to try to scale the wall, doing so with a successful {@dc 10} Strength ({@skill Athletics}) check."
+											"entry": "La parte superiore del muro esterno è 20 piedi più alta del terreno all'esterno del mastio e il muro è troppo liscio per essere scalato senza l'attrezzatura adeguata o la magia (come un incantesimo {@spell spider climb}). Un personaggio equipaggiato con attrezzatura da arrampicata può usarla per provare a scalare il muro, superando una prova di Forza ({@skill Athletics} {@dc 10}."
 										},
 										{
 											"type": "item",
 											"name": "Lifting the Portcullis",
-											"entry": "As an action, a character can try to lift the portcullis, doing so with a successful {@dc 20} Strength ({@skill Athletics}) check. The character can cause the portcullis to drop by letting go of it. Holding it up requires continuous effort; the character doing so must succeed on a {@dc 15} Strength saving throw at the start of each of their turns. On a failed save, the character's strength gives out, and the portcullis drops. (The portcullis can also be raised and lowered using the winch in {@area area K13|025|x}.)"
+											"entry": "Come azione, un personaggio può provare a sollevare la saracinesca, superando con successo una prova di Forza ({@skill Athletics} {@dc 20}. Il personaggio può far cadere la saracinesca lasciandola andare. Tenerlo in piedi richiede uno sforzo continuo; il personaggio che lo fa deve riuscire in un tiro salvezza di Forza {@dc 15} all'inizio di ciascuno dei suoi turni. Se il tiro salvezza fallisce, la forza del personaggio viene meno e la saracinesca cade. (La saracinesca può essere sollevata e abbassata anche utilizzando l'argano in {@area area K13|025|x}.)"
 										}
 									]
 								}
@@ -153,7 +153,7 @@
 					"name": "Exploring the Keep",
 					"id": "009",
 					"entries": [
-						"Once inside the keep, the characters need to find the six magical lightning rods. Once they find the rods, the characters can test the lighting shield by inserting the rods into the six cornerstones of the battlements (see {@area area K21|03b|x}).",
+						"Una volta all'interno del mastio, i personaggi devono trovare i sei parafulmini magici. Una volta trovate le bacchette, i personaggi possono testare lo scudo luminoso inserendo le bacchette nelle sei pietre angolari dei merli (vedi {@area area K21|03b|x}).",
 						{
 							"type": "gallery",
 							"images": [
@@ -832,7 +832,7 @@
 							"name": "Keep Features",
 							"id": "00a",
 							"entries": [
-								"The keep's prevailing features are summarized below:",
+								"Le caratteristiche prevalenti del mastio sono di seguito riassunte:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -840,27 +840,27 @@
 										{
 											"type": "item",
 											"name": "Building Materials",
-											"entry": "All three outbuildings\u2014the outhouse ({@area area K3|00f|x}), the outer barrack ({@area area K4|011|x}), and the stable ({@area area K5|013|x})\u2014are made of wood and built on stone foundations. Everything else is made of stone."
+											"entry": "Tutti e tre gli edifici annessi (la dependance ({@area area K3|00f|x}), la baracca esterna ({@area area K4|011|x} e la stalla ({@area area K5|013|x}) sono realizzati in legno e costruiti su fondamenta in pietra. Tutto il resto è fatto di pietra."
 										},
 										{
 											"type": "item",
 											"name": "Ceilings",
-											"entry": "Ground-floor ceilings are 10 feet high. Upper-floor ceilings are 15 feet high."
+											"entry": "I soffitti del piano terra sono alti 10 piedi. I soffitti del piano superiore sono alti 15 piedi."
 										},
 										{
 											"type": "item",
 											"name": "Doors",
-											"entry": "Doors are made of sturdy oak with iron hinges, handles, and fittings. Some doors are locked. (On the map, a locked door is indicated by a small dot on the door.) As an action, a character can force open a locked door with a successful {@dc 20} Strength ({@skill Athletics}) check, or use thieves' tools to try to pick the lock, doing so with a successful {@dc 15} Dexterity check."
+											"entry": "Le porte sono realizzate in robusto rovere con cerniere, maniglie e accessori in ferro. Alcune porte sono chiuse. (Sulla mappa, una porta chiusa è indicata da un piccolo punto sulla porta.) Come azione, un personaggio può forzare una porta chiusa con una prova riuscita di Forza {@skill Athletics} {@dc 20} o utilizzare gli strumenti da ladro per provare a scassinare la serratura, facendolo con una prova di Destrezza riuscita {@dc 15}."
 										},
 										{
 											"type": "item",
 											"name": "Indoor Lighting",
-											"entry": "Interior locations are dark unless they have windows to admit natural light. Area descriptions assume characters have a light source or some other means of seeing in the dark."
+											"entry": "I luoghi interni sono bui a meno che non abbiano finestre per far entrare la luce naturale. Le descrizioni delle aree presuppongono che i personaggi abbiano una fonte di luce o qualche altro mezzo per vedere al buio."
 										},
 										{
 											"type": "item",
 											"name": "Windows",
-											"entry": "The upper floor of the main keep has frosted windows that swing open on iron hinges. Each window is latched from the inside. As an action, a character with thieves' tools can try to unlatch a window from the outside, doing so with a successful {@dc 15} Dexterity check. A window can also be broken as an action."
+											"entry": "Il piano superiore del mastio principale ha finestre smerigliate che si aprono su cardini di ferro. Ogni finestra è chiusa dall'interno. Come azione, un personaggio con strumenti da ladro può provare ad aprire una finestra dall'esterno, facendolo con una prova di Destrezza riuscita {@dc 15}. Una finestra può anche essere rotta con un'azione."
 										}
 									]
 								}
@@ -871,14 +871,14 @@
 							"name": "Keep Locations",
 							"id": "00b",
 							"entries": [
-								"The following locations are keyed to the Lightning Keep map.",
+								"Le seguenti posizioni sono collegate alla mappa di Lightning Keep.",
 								{
 									"type": "entries",
 									"name": "K1: Lower Gatehouse",
 									"id": "00c",
 									"entries": [
-										"The gatehouse is unguarded. The passage between the gatehouse's towers slopes up toward the north, as the ground inside the courtyard is higher than the ground outside the keep.",
-										"The gatehouse's primary defenses are a sturdy double door and an iron portcullis:",
+										"La portineria non è custodita. Il passaggio tra le torri del corpo di guardia è in pendenza verso nord, poiché il terreno all'interno del cortile è più alto del terreno all'esterno del mastio.",
+										"Le difese principali del corpo di guardia sono una robusta doppia porta e una saracinesca in ferro:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -886,16 +886,16 @@
 												{
 													"type": "item",
 													"name": "Double Door",
-													"entry": "These doors swing inward, squealing on rusty hinges. Though they aren't locked, a wooden bar on the inside can be lowered into brackets to hold the doors shut. Breaking open the barred doors requires a successful {@dc 25} Strength ({@skill Athletics}) check."
+													"entry": "Queste porte si aprono verso l'interno, cigolando sui cardini arrugginiti. Sebbene non siano chiuse a chiave, una barra di legno all'interno può essere abbassata e fissata su staffe per tenere le porte chiuse. Per rompere le porte sbarrate è necessario superare con successo una prova di Forza {@dc 25} ({@skill Athletics})."
 												},
 												{
 													"type": "item",
 													"name": "Portcullis",
-													"entry": "The bars of the iron portcullis have narrow gaps between them\u2014too narrow for a Small or Medium character to squeeze through. A winch on the upper level of the gatehouse ({@area area K13|025|x}) can be used to raise or lower the portcullis."
+													"entry": "Le sbarre della saracinesca di ferro hanno degli spazi stretti tra di loro, troppo stretti perché un personaggio di taglia Piccola o Media possa passarci attraverso. Un argano al livello superiore della portineria ({@area area K13|025|x}) può essere utilizzato per alzare o abbassare la saracinesca."
 												}
 											]
 										},
-										"Both doors into the gatehouse towers are locked. Arrow slits in the gatehouse walls between the portcullis and the doors provide {@quickref cover||3||three-quarters cover} to whoever is behind them. Inside each tower is a ladder that leads to a wooden trapdoor in the ceiling, above which is area K13."
+										"Entrambe le porte delle torri del corpo di guardia sono chiuse. Le feritoie nelle pareti del corpo di guardia tra la saracinesca e le porte forniscono {@quickref cover||3||three-quarters cover} a chiunque si trovi dietro di loro. All'interno di ogni torre c'è una scala che conduce ad una botola di legno nel soffitto, sopra la quale si trova l'area K13."
 									]
 								},
 								{
@@ -907,10 +907,10 @@
 											"type": "insetReadaloud",
 											"id": "00e",
 											"entries": [
-												"This gravel courtyard is ten feet higher than the ground outside the keep, so it's only ten feet lower than the parapets of the outer wall. Stone staircases connect the courtyard to the top of the wall."
+												"Questo cortile di ghiaia è tre metri più alto del terreno all'esterno del mastio, quindi è solo tre metri più basso dei parapetti del muro esterno. Scale in pietra collegano il cortile alla sommità del muro."
 											]
 										},
-										"The courtyard is empty."
+										"Il cortile è vuoto."
 									]
 								},
 								{
@@ -922,10 +922,10 @@
 											"type": "insetReadaloud",
 											"id": "010",
 											"entries": [
-												"Harmless rats infest this wooden building, which stinks of rat droppings."
+												"Ratti innocui infestano questo edificio di legno, che puzza di escrementi di ratto."
 											]
 										},
-										"A character can use a {@spell speak with animals} spell to question the rats, and feeding the rats makes them more inclined to be helpful. The rats share the following information when questioned:",
+										"Un personaggio può usare un incantesimo {@spell speak with animals} per interrogare i ratti e dar loro da mangiare li rende più propensi a essere d'aiuto. I ratti condividono le seguenti informazioni quando interrogati:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -933,17 +933,17 @@
 												{
 													"type": "item",
 													"name": "Main Keep",
-													"entry": "The rats haven't found a way to enter the main keep, so its contents are unknown to them."
+													"entry": "I topi non hanno trovato il modo di entrare nella fortezza principale, quindi il suo contenuto è sconosciuto a loro."
 												},
 												{
 													"type": "item",
 													"name": "Other Visitors",
-													"entry": "The rats are occasionally beset by owls at night but haven't encountered any other visitors. The outer barrack (area K4) contains several creatures that the rats deem \"unnatural.\" The rats avoid them."
+													"entry": "I ratti vengono occasionalmente assaliti dai gufi di notte ma non hanno incontrato altri visitatori. La baracca esterna (area K4) contiene diverse creature che i ratti ritengono \"innaturali\". I ratti li evitano."
 												},
 												{
 													"type": "item",
 													"name": "Silver Key",
-													"entry": "One of the rats found a tarnished silver key and buried it in the southeast corner of the courtyard, behind the outhouse. A character can convince the rat to fetch the key with a successful {@dc 10} Charisma ({@skill Persuasion}) check. The head of the key is shaped like a wolf's head. The key can unlock or lock any door in the keep."
+													"entry": "Uno dei topi trovò una chiave d'argento ossidata e la seppellì nell'angolo sud-est del cortile, dietro la latrina. Un personaggio può convincere il topo a prendere la chiave con una prova riuscita di {@dc 10} Carisma ({@skill Persuasion}). La testa della chiave ha la forma di una testa di lupo. La chiave può aprire o chiudere qualsiasi porta del mastio."
 												}
 											]
 										}
@@ -958,10 +958,10 @@
 											"type": "insetReadaloud",
 											"id": "012",
 											"entries": [
-												"The interior of this building reeks of mildew, and everything here is shrouded in dust. You see a stone fireplace and six sets of wooden bunk beds holding rotting, straw-filled mattresses. Lying atop four of them are dusky green creatures with blocky bodies and heads, but no arms."
+												"L'interno di questo edificio puzza di muffa e tutto qui è avvolto nella polvere. Vedi un camino in pietra e sei serie di letti a castello in legno contenenti materassi marci e pieni di paglia. Sopra quattro di essi ci sono creature verde scuro con corpi e teste squadrati, ma senza braccia."
 											]
 										},
-										"The armless figures reclining on the beds are four {@creature Creeper|MCV3MC|creepers}. If the characters withdraw from the barrack immediately, the creepers do nothing. If the characters linger, the creepers take notice, sit up in their beds, and shuffle toward the intruders. The creepers are hostile and fight until destroyed."
+										"Le figure senza braccia distese sui letti sono quattro {@creature Creeper|MCV3MC|creepers}. Se i personaggi si ritirano immediatamente dalla baracca, i mostri non fanno nulla. Se i personaggi indugiano, i rampicanti se ne accorgono, si siedono sui loro letti e si trascinano verso gli intrusi. I rampicanti sono ostili e combattono finché non vengono distrutti."
 									]
 								},
 								{
@@ -969,8 +969,8 @@
 									"name": "K5: Stable",
 									"id": "013",
 									"entries": [
-										"The hinges on the stable's outer doors are badly rusted. Any attempt to open the double door causes the hinges to snap.",
-										"The building contains six empty horse stalls and old riding equipment covered with dust."
+										"I cardini delle porte esterne della stalla sono molto arrugginiti. Qualsiasi tentativo di aprire la doppia porta provoca lo scatto delle cerniere.",
+										"L'edificio contiene sei stalle per cavalli vuote e vecchie attrezzature per l'equitazione ricoperte di polvere."
 									]
 								},
 								{
@@ -978,15 +978,15 @@
 									"name": "K6: Main Hall",
 									"id": "014",
 									"entries": [
-										"The double door from the courtyard into the main hall is locked.",
+										"La doppia porta dal cortile alla sala principale è chiusa a chiave.",
 										{
 											"type": "insetReadaloud",
 											"id": "015",
 											"entries": [
-												"This dusty hall is empty except for cobwebs."
+												"Questa sala polverosa è vuota, fatta eccezione per le ragnatele."
 											]
 										},
-										"At the north end of the hall, two web-draped staircases ascend to the gallery ({@area area K14|027|x})."
+										"All'estremità nord del corridoio, due scale ricoperte da una ragnatela salgono alla galleria ({@area area K14|027|x})."
 									]
 								},
 								{
@@ -998,7 +998,7 @@
 											"type": "insetReadaloud",
 											"id": "017",
 											"entries": [
-												"This room contains rows of bare hooks on walls."
+												"Questa stanza contiene file di ganci nudi sui muri."
 											]
 										}
 									]
@@ -1012,16 +1012,16 @@
 											"type": "insetReadaloud",
 											"id": "019",
 											"entries": [
-												"A stone well occupies the southwest corner of this kitchen. Next to the well is a wooden bucket attached to a fifty-foot length of rope. The kitchen's work table and cupboards are bare, and a small iron cauldron hangs from an iron hook in the soot-stained fireplace."
+												"Un pozzo in pietra occupa l'angolo sud-ovest di questa cucina. Accanto al pozzo c'è un secchio di legno attaccato a una corda lunga cinquanta piedi. Il tavolo da lavoro e gli armadietti della cucina sono spogli, e un piccolo calderone di ferro pende da un gancio di ferro nel camino macchiato di fuliggine."
 											]
 										},
-										"The shaft of the well is 5 feet wide, 30 feet deep, and made of bricks, some of which protrude slightly to create handholds and footholds. A character who shines a light down the well sees a silvery gleam in the water. A character can climb up or down the shaft without having to make an ability check.",
+										"Il pozzo è largo 1,5 metri, profondo 9 metri ed è fatto di mattoni, alcuni dei quali sporgono leggermente per creare appigli e appigli. Un personaggio che getta una luce nel pozzo vede un bagliore argentato nell'acqua. Un personaggio può arrampicarsi su o giù per il pozzo senza dover effettuare una prova di caratteristica.",
 										{
 											"type": "entries",
 											"name": "Cistern",
 											"id": "01a",
 											"entries": [
-												"Below the well shaft is a 10-foot-deep, 10-foot-wide cistern filled with fresh water. The cistern is guarded by a {@creature water weird} (see the {@book Monster Manual|MM}) that attacks any character who enters the water. Lying on the cistern floor is a 10-foot-long, steel lightning rod with a ball at one end. This is one of the six lightning rods needed to activate the lightning shield (see {@area area K21|03b|x})."
+												"Sotto il pozzo c'è una cisterna profonda 3 metri e larga 3 metri piena di acqua dolce. La cisterna è sorvegliata da un {@creature water weird} (vedi {@book Monster Manual|MM}) che attacca qualsiasi personaggio che entra nell'acqua. Sul pavimento della cisterna c'è un parafulmine d'acciaio lungo 10 piedi con una palla a un'estremità. Questo è uno dei sei parafulmini necessari per attivare lo scudo antifulmine (vedi {@area area K21|03b|x})."
 											]
 										}
 									]
@@ -1035,7 +1035,7 @@
 											"type": "insetReadaloud",
 											"id": "01c",
 											"entries": [
-												"Bare shelves line the back wall of this empty pantry."
+												"Scaffali spogli fiancheggiano la parete di fondo di questa dispensa vuota."
 											]
 										}
 									]
@@ -1049,17 +1049,17 @@
 											"type": "insetReadaloud",
 											"id": "01e",
 											"entries": [
-												"Fourteen wooden chairs surround a wooden dining table. Suspended above the table is an iron chandelier missing its candles. Two empty sideboards stand against the north wall.",
-												"Set into the east wall is a blackened fireplace. Above its blue marble mantelpiece hangs a metal shield bearing an insignia: a wolf's head with three lightning bolts above it."
+												"Quattordici sedie in legno circondano un tavolo da pranzo in legno. Sospeso sopra il tavolo c'è un lampadario di ferro privo di candele. Due credenze vuote sono appoggiate al muro nord.",
+												"Incastonato nella parete est c'è un camino annerito. Sopra il caminetto in marmo blu è appeso uno scudo metallico con un'insegna: una testa di lupo sormontata da tre fulmini."
 											]
 										},
-										"A character who examines the shield and succeeds on a {@dc 10} Intelligence ({@skill History}) check knows that its insignia belongs to the werewolf knight who built the keep. A {@spell detect magic} spell reveals an aura of abjuration magic around the shield. The first creature that touches the metal shield takes 13 ({@dice 3d8}) lightning damage, after which the shield becomes nonmagical and can be handled without injury.",
+										"Un personaggio che esamina lo scudo e supera una prova di {@dc 10} Intelligenza ({@skill History}) sa che le sue insegne appartengono al cavaliere lupo mannaro che ha costruito la fortezza. Un incantesimo {@spell detect magic} rivela un'aura di magia di abiurazione attorno allo scudo. La prima creatura che tocca lo scudo di metallo subisce 13 ({@dice 3d8}) danni da fulmine, dopodiché lo scudo diventa non magico e può essere maneggiato senza subire danni.",
 										{
 											"type": "entries",
 											"name": "Blue Marble Mantelpiece",
 											"id": "01f",
 											"entries": [
-												"A character who examines the mantelpiece realizes it's a cleverly disguised lid concealing a long, shallow compartment. Within this compartment rest two halves of a 10-foot-long lightning rod. When placed end to end, the two halves magically meld into a single 10-foot-long lightning rod with a ball at one end. This is one of the six lightning rods needed to activate the lightning shield (see {@area area K21|03b|x})."
+												"Un personaggio che esamina la mensola del caminetto si rende conto che si tratta di un coperchio abilmente mascherato che nasconde uno scomparto lungo e poco profondo. All'interno di questo compartimento si trovano due metà di un parafulmine lungo 3 metri. Quando posizionate l'una accanto all'altra, le due metà si fondono magicamente in un unico parafulmine lungo 3 metri con una palla a un'estremità. Questo è uno dei sei parafulmini necessari per attivare lo scudo antifulmine (vedi {@area area K21|03b|x})."
 											]
 										}
 									]
@@ -1073,7 +1073,7 @@
 											"type": "insetReadaloud",
 											"id": "021",
 											"entries": [
-												"This room is full of dust and cobwebs. Three sets of bunk beds stand against the east wall, their straw mattresses badly rotted."
+												"Questa stanza è piena di polvere e ragnatele. Tre serie di letti a castello sono appoggiate alla parete est, con i materassi di paglia gravemente marci."
 											]
 										}
 									]
@@ -1087,16 +1087,16 @@
 											"type": "insetReadaloud",
 											"id": "023",
 											"entries": [
-												"Attached to the walls of this square room are wooden racks designed to hold weapons. Most of the weapons were removed long ago, but a few remain: six spears, four longswords, two unstrung longbows, and a tall wooden lance."
+												"Attaccate alle pareti di questa stanza quadrata ci sono delle rastrelliere di legno progettate per contenere le armi. La maggior parte delle armi sono state rimosse molto tempo fa, ma ne rimangono alcune: sei lance, quattro spade lunghe, due archi lunghi senza corda e un'alta lancia di legno."
 											]
 										},
-										"The {@item Spear|PHB|spears}, {@item Longsword|PHB|swords}, and {@item Longbow|PHB|bows} are nonmagical.",
+										"{@item Spear|PHB|spears}, {@item Longsword|PHB|swords} e {@item Longbow|PHB|bows} non sono magici.",
 										{
 											"type": "entries",
 											"name": "Wooden Lance",
 											"id": "024",
 											"entries": [
-												"Close examination of the wooden lance reveals that it's not a weapon, but rather a case. Resting inside this case is a 10-foot-tall, steel lightning rod with a ball at one end. This is one of the six lightning rods needed to activate the lightning shield (see {@area area K21|03b|x})."
+												"Un attento esame della lancia di legno rivela che non si tratta di un'arma, ma piuttosto di una custodia. All'interno di questa custodia c'è un parafulmine d'acciaio alto 10 piedi con una palla a un'estremità. Questo è uno dei sei parafulmini necessari per attivare lo scudo antifulmine (vedi {@area area K21|03b|x})."
 											]
 										}
 									]
@@ -1106,13 +1106,13 @@
 									"name": "K13: Upper Gatehouse",
 									"id": "025",
 									"entries": [
-										"The upper gatehouse is unguarded. The doors leading to the outer wall's battlements are locked. Wooden trapdoors in the floor pull open to reveal ladders that descend to the lower gatehouse ({@area area K1|00c|x}). The walls are lined with arrow slits that provide {@quickref cover||3||three-quarters cover} to those behind them.",
+										"Il corpo di guardia superiore non è custodito. Le porte che conducono ai merli del muro esterno sono chiuse. Le botole di legno nel pavimento si aprono per rivelare le scale che scendono al corpo di guardia inferiore ({@area area K1|00c|x}). Le pareti sono rivestite con feritoie che forniscono {@quickref cover||3||three-quarters cover} a chi sta dietro di loro.",
 										{
 											"type": "entries",
 											"name": "Portcullis Winch",
 											"id": "026",
 											"entries": [
-												"Set into one wall is an iron winch. As an action, a character can use the winch to raise the portcullis and lock it so that it doesn't fall, or release a catch that causes the portcullis to drop."
+												"Incastonato in una parete c'è un argano di ferro. Come azione, un personaggio può usare l'argano per sollevare la saracinesca e bloccarla in modo che non cada, o rilasciare un fermo che faccia cadere la saracinesca."
 											]
 										}
 									]
@@ -1126,16 +1126,16 @@
 											"type": "insetReadaloud",
 											"id": "028",
 											"entries": [
-												"Four empty suits of armor guard this carpeted hallway, the walls of which are adorned with framed pictures of knights, dragons, landscapes, and great battles. At the east end of the hall is a large painting of a werewolf knight brandishing a steel lance."
+												"Quattro armature vuote sorvegliano questo corridoio ricoperto di moquette, le cui pareti sono adornate con immagini incorniciate di cavalieri, draghi, paesaggi e grandi battaglie. All'estremità est della sala c'è un grande dipinto di un cavaliere lupo mannaro che brandisce una lancia d'acciaio."
 											]
 										},
-										"The paintings aren't magical or particularly valuable. The large painting on the east wall depicts the werewolf knight who built Lightning Keep. The doors leading out to the battlements are locked from the outside only. Twin staircases lead down to the main hall ({@area area K6|014|x}).",
+										"I dipinti non sono magici o particolarmente preziosi. Il grande dipinto sulla parete est raffigura il cavaliere lupo mannaro che costruì la Fortezza del Fulmine. Le porte che conducono ai bastioni sono chiuse solo dall'esterno. Scale gemelle conducono alla sala principale ({@area area K6|014|x}).",
 										{
 											"type": "entries",
 											"name": "Treasure",
 											"id": "029",
 											"entries": [
-												"The suits of armor are welded so they don't topple over or collapse. Three of the suits clutch nonmagical {@item Spear|PHB|spears}. The fourth clutches a {@item +1 spear} that can be pried from the armor's grasp with a successful {@dc 10} Strength ({@skill Athletics}) check."
+												"Le armature sono saldate in modo che non si ribaltino o collassino. Tre dei semi si uniscono in modo non magico {@item Spear|PHB|spears}. Il quarto stringe un {@item +1 spear} che può essere staccato dalla presa dell'armatura con una prova riuscita di Forza {@skill Athletics} {@dc 10}."
 											]
 										}
 									]
@@ -1149,18 +1149,18 @@
 											"type": "insetReadaloud",
 											"id": "02b",
 											"entries": [
-												"A narrow bed rests in the far corner of this sparsely furnished room. On the floor near the foot of the bed are an empty, overturned chest and a wooden coat stand."
+												"Nell'angolo più lontano di questa stanza scarsamente arredata c'è un letto stretto. Sul pavimento, vicino ai piedi del letto, c'è una cassapanca vuota rovesciata e un attaccapanni in legno."
 											]
 										},
-										"This bedroom was used by the captain in charge of the castle guards. The chest was mostly emptied before the keep was abandoned. Any character who examines the chest finds a secret compartment in its lid. This compartment contains a wooden scroll tube, inside which is a scrap of paper with the following words written on it in Common:",
+										"Questa camera da letto era utilizzata dal capitano incaricato delle guardie del castello. Il forziere è stato in gran parte svuotato prima che il mastio fosse abbandonato. Qualsiasi personaggio che esamina lo scrigno trova uno scomparto segreto nel suo coperchio. Questo scomparto contiene un tubo di legno per pergamene, all'interno del quale c'è un pezzo di carta con sopra scritte le seguenti parole in Comune:",
 										{
 											"type": "insetReadaloud",
 											"id": "02c",
 											"entries": [
-												"Wooden lance Moonlight dance Model keep Cistern deep Below the shield By chains concealed"
+												"Lancia di legno Danza al chiaro di luna Modello di mastio Cisterna profonda Sotto lo scudo Nascosto da catene"
 											]
 										},
-										"These phrases provide clues to the locations of the six lightning rods (see {@area areas K8|018|x}, {@area K10|01d|x}, {@area K12|022|x}, {@area K17|02f|x}, {@area K18|032|x}, and {@area K20|037|x} for details)."
+										"Queste frasi forniscono indizi sulla posizione dei sei parafulmini (vedi {@area areas K8|018|x}, {@area K10|01d|x}, {@area K12|022|x}, {@area K17|02f|x}, {@area K18|032|x} e {@area K20|037|x} per i dettagli)."
 									]
 								},
 								{
@@ -1172,7 +1172,7 @@
 											"type": "insetReadaloud",
 											"id": "02e",
 											"entries": [
-												"This privy contains a wash basin, a claw-footed bathtub, a towel rack, and a chamber pot, all empty."
+												"Questa toilette contiene un lavabo, una vasca da bagno con piedini ad artiglio, un portasciugamani e un vaso da notte, tutto vuoto."
 											]
 										}
 									]
@@ -1186,18 +1186,18 @@
 											"type": "insetReadaloud",
 											"id": "030",
 											"entries": [
-												"A canopied bed draped with cobwebs stands against the west wall between two nightstands, one of which has a painted wooden model of Lightning Keep atop it. Mounted on the opposite wall is a tall mirror in a gilded frame, next to which stands a dusty wardrobe.",
-												"At the south end of the room, swaying in front of the frosted window, is a tall, dark figure with long claws."
+												"Un letto a baldacchino drappeggiato di ragnatele si trova contro il muro ovest tra due comodini, uno dei quali ha un modello in legno dipinto della Fortezza del Fulmine sopra di esso. Sulla parete opposta è montato un alto specchio con cornice dorata, accanto al quale si trova un armadio polveroso.",
+												"All'estremità sud della stanza, dondolando davanti alla finestra smerigliata, c'è una figura alta e scura con lunghi artigli."
 											]
 										},
-										"The tall, dark figure is an {@creature Enderman|MCV3MC} that was drawn to this world through a shadowy corner of the room. Unable to return to its world, it attacks if approached or spoken to.",
-										"The wardrobe is empty, as are the drawers in the nightstands.",
+										"La figura alta e scura è un {@creature Enderman|MCV3MC} che è stato attratto da questo mondo attraverso un angolo oscuro della stanza. Incapace di tornare nel suo mondo, attacca se avvicinato o se gli si parla.",
+										"L'armadio è vuoto, così come i cassetti dei comodini.",
 										{
 											"type": "entries",
 											"name": "Model",
 											"id": "031",
 											"entries": [
-												"Any character who examines the model on the nightstand sees a toothpick-sized lightning rod mounted to the roof of the main keep. A {@spell detect magic} spell reveals an aura of transmutation magic around the tiny lightning rod. When separated from the model, the tiny rod magically grows into a 10-foot-long, steel lightning rod with a ball at one end. This is one of the six lightning rods needed to activate the lightning shield (see {@area area K21|03b|x})."
+												"Qualsiasi personaggio che esamini il modello sul comodino vede un parafulmine grande quanto uno stuzzicadenti montato sul tetto del mastio principale. Un incantesimo {@spell detect magic} rivela un'aura di magia di trasmutazione attorno al minuscolo parafulmine. Quando viene separata dal modello, la piccola asta cresce magicamente fino a diventare un parafulmine d'acciaio lungo 3 metri con una sfera a un'estremità. Questo è uno dei sei parafulmini necessari per attivare lo scudo antifulmine (vedi {@area area K21|03b|x})."
 											]
 										}
 									]
@@ -1211,17 +1211,17 @@
 											"type": "insetReadaloud",
 											"id": "033",
 											"entries": [
-												"Thick dust and cobwebs shroud a canopied bed, a pair of nightstands, a desk, a chair, and a wardrobe wrapped in chains. Fragments of a shattered mirror lie strewn across the floor. The window drapes are drawn."
+												"Spessa polvere e ragnatele avvolgono un letto a baldacchino, un paio di comodini, una scrivania, una sedia e un armadio avvolto da catene. Frammenti di uno specchio frantumato giacciono sparsi sul pavimento. Le tende delle finestre sono tirate."
 											]
 										},
-										"The drawers in the desk and nightstands are empty, and careful examination of the mirror fragments suggests that the mirror once hung on the east wall next to the wardrobe. (The hook on which the mirror once hung snapped, causing the mirror to fall off the wall and break.)",
+										"I cassetti della scrivania e dei comodini sono vuoti e un attento esame dei frammenti di specchio suggerisce che un tempo lo specchio era appeso alla parete est accanto all'armadio. (Il gancio a cui una volta era appeso lo specchio si spezzò, facendo cadere lo specchio dal muro e rompendolo.)",
 										{
 											"type": "entries",
 											"name": "Wardrobe",
 											"id": "034",
 											"entries": [
-												"As the characters explore this room, the wardrobe shudders and jostles as though one or more creatures were trapped inside it. The chains around the wardrobe are held in place by a sturdy padlock. The silver key found in {@area area K3|00f|x} opens this lock. As an action, a character can also use thieves' tools to try to pick the lock, doing so with a successful {@dc 10} Dexterity check. The lock can also be broken; it has AC 17, 7 hit points, and immunity to poison and psychic damage.",
-												"A {@spell detect magic} spell reveals an aura of illusion magic around the wardrobe. The shuddering and jostling of the wardrobe are illusory effects, and the wardrobe contains nothing dangerous. Opening it reveals a 6-foot-tall, 1-foot-wide, 1-foot-deep wooden box standing on end. Packed inside this box are two halves of a 10-foot-long lightning rod. When placed end to end, the two halves magically meld into a single 10-foot-long lightning rod with a ball at one end. This is one of the six lightning rods needed to activate the lightning shield (see {@area area K21|03b|x})."
+												"Mentre i personaggi esplorano questa stanza, l'armadio trema e si muove come se una o più creature fossero intrappolate al suo interno. Le catene attorno all'armadio sono tenute in posizione da un robusto lucchetto. La chiave d'argento trovata in {@area area K3|00f|x} apre questa serratura. Come azione, un personaggio può anche usare gli strumenti da ladro per provare a scassinare la serratura, facendolo con una prova di Destrezza riuscita {@dc 10}. La serratura può anche essere rotta; ha CA 17, 7 punti ferita e immunità al veleno e ai danni psichici.",
+												"Un incantesimo {@spell detect magic} rivela un'aura di magia illusoria attorno al guardaroba. Il sussulto e lo spostamento dell'armadio sono effetti illusori e l'armadio non contiene nulla di pericoloso. Aprendolo si rivela una scatola di legno alta 6 piedi, larga 1 piede e profonda 1 piede appoggiata su un'estremità. All'interno di questa scatola ci sono due metà di un parafulmine lungo 3 metri. Quando posizionate l'una accanto all'altra, le due metà si fondono magicamente in un unico parafulmine lungo 3 metri con una palla a un'estremità. Questo è uno dei sei parafulmini necessari per attivare lo scudo antifulmine (vedi {@area area K21|03b|x})."
 											]
 										}
 									]
@@ -1235,7 +1235,7 @@
 											"type": "insetReadaloud",
 											"id": "036",
 											"entries": [
-												"Five sets of bunk beds crowd this dusty, cobwebby room. The straw-filled mattresses are all rotted. No one has slept here in a long time."
+												"Cinque serie di letti a castello affollano questa stanza polverosa e ricoperta di ragnatele. I materassi di paglia sono tutti marci. Nessuno dorme qui da molto tempo."
 											]
 										}
 									]
@@ -1249,8 +1249,8 @@
 											"type": "insetReadaloud",
 											"id": "038",
 											"entries": [
-												"This room contains a desk and chair positioned in front of a frosted window. The desk has two drawers with locks, one open and one closed. Flickering red light emanates from the open drawer.",
-												"Dusty bookshelves span the far wall; a single leather-bound tome leans at one end of the highest shelf. A rolling ladder covered with cobwebs puts the book within easy reach."
+												"Questa stanza contiene una scrivania e una sedia posizionate di fronte a una finestra smerigliata. La scrivania è dotata di due cassetti con serratura, uno aperto e uno chiuso. Dal cassetto aperto esce una luce rossa tremolante.",
+												"Scaffali polverosi si estendono lungo la parete più lontana; un unico tomo rilegato in pelle è appoggiato a un'estremità dello scaffale più alto. Una scala mobile ricoperta di ragnatele mette il libro a portata di mano."
 											]
 										},
 										{
@@ -1258,8 +1258,8 @@
 											"name": "Book",
 											"id": "039",
 											"entries": [
-												"The book on the high shelf can be obtained by climbing the ladder or by using a {@spell mage hand} spell or similar magic. Inscribed on the book's spine in silver ink is the title, Moonlight Dance. The book, written by an unknown mystery writer, is a piece of detective fiction based on a true story. In the story, a tiefling investigator named Dagger Sharp tries to solve the murders of several villagers in the hamlet of Briar's End. A werewolf is suspected, but the true culprit is a scarecrow possessed by the evil spirit of an assassin whom the villagers buried alive months earlier. Dagger helps the villagers capture and dismember the scarecrow, then convinces the village priest to consecrate the assassin's grave, which lays the evil spirit to rest.",
-												"Any character who examines the book finds a tattered cloth bookmark with a steel needle stuck in it. A {@spell detect magic} spell reveals an aura of transmutation magic around the needle. If the needle is used to draw a drop of blood, it magically enlarges to become a 10-foot-long, steel lightning rod with a ball at one end. This is one of the six lightning rods needed to activate the lightning shield (see {@area area K21|03b|x})."
+												"Il libro sullo scaffale più alto può essere ottenuto salendo la scala o usando un incantesimo {@spell mage hand} o una magia simile. Sul dorso del libro, in inchiostro argentato, c'è il titolo: Moonlight Dance. Il libro, scritto da uno scrittore di gialli sconosciuto, è un pezzo di narrativa poliziesca basato su una storia vera. Nella storia, un investigatore tiefling di nome Dagger Sharp cerca di risolvere gli omicidi di diversi abitanti del villaggio di Briar's End. Si sospetta un lupo mannaro, ma il vero colpevole è uno spaventapasseri posseduto dallo spirito maligno di un assassino che gli abitanti del villaggio seppellirono vivo mesi prima. Dagger aiuta gli abitanti del villaggio a catturare e smembrare lo spaventapasseri, quindi convince il prete del villaggio a consacrare la tomba dell'assassino, dove riposa lo spirito maligno.",
+												"Qualsiasi personaggio che esamini il libro trova un segnalibro di stoffa sbrindellato con un ago d'acciaio incastrato al suo interno. Un incantesimo {@spell detect magic} rivela un'aura di magia di trasmutazione attorno all'ago. Se l'ago viene utilizzato per aspirare una goccia di sangue, si allarga magicamente fino a diventare un parafulmine d'acciaio lungo 3 metri con una sfera a un'estremità. Questo è uno dei sei parafulmini necessari per attivare lo scudo antifulmine (vedi {@area area K21|03b|x})."
 											]
 										},
 										{
@@ -1267,8 +1267,8 @@
 											"name": "Desk Drawers",
 											"id": "03a",
 											"entries": [
-												"The desk's open drawer contains an {@item Elemental Gem, Red Corundum||elemental gem (red corundum)} that's warm to the touch and is the source of the flickering red light. Instead of summoning a fire elemental, it summons a {@creature blaze|MCV3MC}.",
-												"The locked drawer can be opened with the silver key found in {@area area K3|00f|x}. As an action, a character can instead use thieves' tools to try to pick the lock, doing so with a successful {@dc 10} Dexterity check, or they can force it open with a successful {@dc 13} Strength ({@skill Athletics}) check. This drawer contains an unlocked wooden coffer, the lid of which bears a steel insignia depicting a wolf's head with three lightning bolts above it. Inside the coffer are thirty rings made of blue jade. Each blue jade ring is worth 10 gp. A {@spell detect magic} spell reveals an aura of abjuration magic around each ring. These rings protect their wearers against the keep's lightning shield (see area K21 for details)."
+												"Il cassetto aperto della scrivania contiene un {@item Elemental Gem, Red Corundum||elemental gem (red corundum)} caldo al tatto ed è la fonte della luce rossa tremolante. Invece di evocare un elementale del fuoco, evoca un {@creature blaze|MCV3MC}.",
+												"Il cassetto chiuso a chiave può essere aperto con la chiave d'argento trovata in {@area area K3|00f|x}. Come azione, un personaggio può invece utilizzare gli strumenti da ladro per provare a scassinare la serratura, facendolo con una prova di Destrezza {@dc 10} riuscita, oppure può forzarla con una prova di Forza ({@skill Athletics} riuscita {@dc 13}. Questo cassetto contiene uno scrigno di legno aperto, il cui coperchio reca un'insegna in acciaio raffigurante una testa di lupo con sopra tre fulmini. All'interno dello scrigno ci sono trenta anelli di giada blu. Ogni anello di giada blu vale 10 mo. Un incantesimo {@spell detect magic} rivela un'aura di magia di abiurazione attorno a ciascun anello. Questi anelli proteggono chi li indossa dallo scudo antifulmine del mastio (vedi area K21 per i dettagli)."
 											]
 										}
 									]
@@ -1282,17 +1282,17 @@
 											"type": "insetReadaloud",
 											"id": "03c",
 											"entries": [
-												"A cornerstone has been placed where the battlements of two converging walls meet. Drilled into the top of the cornerstone is a cylindrical hole roughly five inches wide and one foot deep. The hole's interior is lined with lead."
+												"Nel punto in cui si incontrano i merli di due mura convergenti è stata posta una pietra angolare. Nella parte superiore della pietra angolare è praticato un foro cilindrico largo circa cinque pollici e profondo un piede. L'interno del foro è rivestito di piombo."
 											]
 										},
-										"The outer wall has six cornerstones. When the six magical lightning rods are inserted into the cornerstones, the keep's lightning shield is activated. The ball at the top of each lightning rod hums softly as it becomes electrified.",
+										"Il muro esterno ha sei pietre angolari. Quando i sei parafulmini magici vengono inseriti nelle pietre angolari, lo scudo antifulmine del mastio viene attivato. La sfera nella parte superiore di ciascun parafulmine ronza dolcemente quando viene elettrizzata.",
 										{
 											"type": "entries",
 											"name": "Lightning Shield",
 											"id": "03d",
 											"entries": [
-												"As an action, a creature can insert a lightning rod into a cornerstone or remove a lightning rod from a cornerstone; only a creature wearing a blue jade ring (see area K20) can remove a rod. While all six rods are electrified, any creature not wearing a blue jade ring that is outdoors\u2014including in the courtyard, on the rooftops, or atop the outer wall\u2014and starts its turn within 60 feet of the keep must make a {@dc 15} Constitution saving throw, taking 14 ({@dice 4d6}) lightning damage on a failed save, or half as much damage on a successful one. This effect ignores resistance and immunity to lightning damage, due to the eldritch nature of the electricity generated by the rods.",
-												"While the lightning shield is activated, Beasts can sense the eldritch electricity and keep their distance to avoid being zapped by it."
+												"Come azione, una creatura può inserire un parafulmine in una pietra angolare o rimuovere un parafulmine da una pietra angolare; solo una creatura che indossa un anello di giada blu (vedi area K20) può rimuovere una verga. Mentre tutte e sei le aste sono elettrificate, qualsiasi creatura che non indossa un anello di giada blu che si trova all'aperto (anche nel cortile, sui tetti o in cima al muro esterno) e inizia il suo turno entro 18 metri dalla fortezza deve effettuare un tiro salvezza su Costituzione {@dc 15} e subisce 14 ({@dice 4d6}) danni da fulmine se fallisce il tiro salvezza, o la metà di quei danni se lo riesce. Questo effetto ignora la resistenza e l'immunità ai danni da fulmine, a causa della natura misteriosa dell'elettricità generata dalle verghe.",
+												"Mentre lo scudo antifulmine è attivato, le Bestie possono percepire l'elettricità misteriosa e mantenere le distanze per evitare di esserne colpite."
 											]
 										}
 									]
@@ -1306,13 +1306,13 @@
 					"name": "Concluding the Adventure",
 					"id": "03e",
 					"entries": [
-						"Once the characters find the six lightning rods and rid the keep of dangerous monsters, they can stash the rods in a safe place and notify the refugees that the keep is safe to occupy, providing instructions on how to use the lightning shield. The blue jade rings found in area K20 allow the keep's new defenders to patrol the outer wall and courtyard without getting zapped by the lightning shield.",
+						"Una volta che i personaggi trovano i sei parafulmini e liberano la fortezza dai mostri pericolosi, possono riporre i parafulmini in un luogo sicuro e avvisare i rifugiati che la fortezza può essere occupata in sicurezza, fornendo istruzioni su come utilizzare lo scudo parafulmini. Gli anelli di giada blu trovati nell'area K20 consentono ai nuovi difensori del forte di pattugliare il muro esterno e il cortile senza essere colpiti dallo scudo antifulmine.",
 						{
 							"type": "entries",
 							"name": "Continuing the Campaign",
 							"id": "03f",
 							"entries": [
-								"As refugees flock to the keep, the marauding dragon might take notice and investigate the keep more closely. The lightning shield keeps the dragon at bay\u2014at least for a while. The characters might be asked to confront the dragon at some later date and perhaps even track it to its lair. A final showdown with the dragon could be the crux of a later adventure in your campaign. If you need help fleshing out the {@book dragon's lair|FTD|4}, see {@book Fizban's Treasury of Dragons|FTD} for ideas."
+								"Man mano che i rifugiati si riversano nella fortezza, il drago predatore potrebbe prenderne atto ed indagare più da vicino. Lo scudo antifulmine tiene a bada il drago, almeno per un po'. Ai personaggi potrebbe essere chiesto di affrontare il drago in un secondo momento e forse anche di seguirlo fino alla sua tana. Lo scontro finale con il drago potrebbe essere il punto cruciale di un'avventura successiva nella tua campagna. Se hai bisogno di aiuto per concretizzare il {@book dragon's lair|FTD|4}, vedi {@book Fizban's Treasury of Dragons|FTD} per le idee."
 							]
 						}
 					]
@@ -1343,7 +1343,7 @@
 									"type": "item",
 									"name": "Art Director",
 									"entries": [
-										"Fury Galluzzi"
+										"Furia Galluzzi"
 									]
 								},
 								{
@@ -1364,7 +1364,7 @@
 									"type": "item",
 									"name": "Cartographer",
 									"entries": [
-										"Sean Macdonald"
+										"Sean MacDonald"
 									]
 								},
 								{
@@ -1392,7 +1392,7 @@
 									"type": "item",
 									"name": "Studio Art Director",
 									"entries": [
-										"Josh Herman"
+										"Josh Hermann"
 									]
 								},
 								{
@@ -1440,7 +1440,7 @@
 													"type": "item",
 													"name": "Product Manager",
 													"entries": [
-														"Jeff Turriff"
+														"Jeff Turrif"
 													]
 												},
 												{

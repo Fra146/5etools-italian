@@ -5,9 +5,9 @@
 			"name": "In Scarlet Flames",
 			"page": 2,
 			"entries": [
-				"Two Red Wizards of Thay have undertaken a secret mission into the High Moors east of the Sword Coast. They are searching for something or someone. Whatever their goal out there in the cold and windswept hills, if the Red Wizards want to keep it secret then it is probably best uncovered swiftly for the good of everyone else. Even the mercenaries who escorted them into the wilderness earlier agree: someone should stop them.",
-				"Pursuing the Red Wizards leads the adventurers to a barrow mound in the wild grasses of the High Moors. At the barrow, they discover the remnants of a wizards' sanctum still being plundered. The fate of its lore and treasures is up to the characters. Without caution, things may get out of hand.",
-				"This Dungeons & Dragons® adventure is written to suit four to six characters of 8th level. With this text and the core D&D manuals, you have everything you need to play. You may also benefit from the Sword Coast Adventurer's Guide to learn more about the High Moors of Faerûn.",
+				"Due maghi rossi di Thay hanno intrapreso una missione segreta nelle Alte Brughiere a est della Costa della Spada. Stanno cercando qualcosa o qualcuno. Qualunque sia il loro obiettivo là fuori tra le colline fredde e battute dal vento, se i Maghi Rossi vogliono mantenerlo segreto, probabilmente è meglio scoprirlo rapidamente per il bene di tutti gli altri. Anche i mercenari che li hanno scortati nelle terre selvagge sono d'accordo: qualcuno dovrebbe fermarli.",
+				"L'inseguimento dei Maghi Rossi conduce gli avventurieri a un tumulo tra le erbe selvagge delle Alte Brughiere. Al tumulo, scoprono che i resti del santuario di un mago sono ancora in fase di saccheggio. Il destino delle sue tradizioni e dei suoi tesori dipende dai personaggi. Senza cautela, le cose potrebbero sfuggire di mano.",
+				"Questa avventura di Dungeons & Dragons® è scritta per soddisfare da quattro a sei personaggi di 8° livello. Con questo testo e i manuali principali di D&D, hai tutto ciò di cui hai bisogno per giocare. Potresti anche trarre vantaggio dalla Guida dell'avventuriero della Costa della Spada per saperne di più sulle Alte Brughiere di Faerûn.",
 				{
 					"type": "image",
 					"href": {
@@ -23,9 +23,9 @@
 					"name": "Start of a Series",
 					"page": 3,
 					"entries": [
-						"This adventure is written as the first in a multi-part series. Whether you're playing this as part of our adventure series or weaving this adventure into another campaign, read \"Part 3: What's Next?\" to get an idea of where some of these threads lead\u2014and how you can change those threads to accommodate a different campaign.",
-						"This adventure foreshadows the role of a recurring villain but does not fully explain his motives, history, or plans. These are matters for the following adventures. If you prefer not to wait, or if you want to substitute another villain in for ours, this adventure can easily foreshadow a villainous NPC of your own.",
-						"By combining the immediacy of the players' choices with the mysterious histories and ambitions of key NPCs, you can explore questions of loyalty, ambition, and knowledge in dramatic ways. Future adventures in this series expand on this to explore the past of the Sword Coast and the consequences of the players' choices in each adventure along the way."
+						"Questa avventura è scritta come la prima di una serie in più parti. Sia che tu stia giocando come parte della nostra serie di avventure o che stia intrecciando questa avventura in un'altra campagna, leggi \"Parte 3: Cosa c'è dopo?\" per avere un'idea di dove portano alcuni di questi thread e di come puoi modificarli per adattarli a una campagna diversa.",
+						"Questa avventura prefigura il ruolo di un cattivo ricorrente ma non spiega completamente le sue motivazioni, la sua storia o i suoi piani. Questi saranno argomenti per le avventure successive. Se preferisci non aspettare, o se vuoi sostituire il nostro con un altro cattivo, questa avventura può facilmente prefigurare un tuo NPC malvagio.",
+						"Combinando l'immediatezza delle scelte dei giocatori con le storie misteriose e le ambizioni dei principali NPC, puoi esplorare questioni di lealtà, ambizione e conoscenza in modi drammatici. Le avventure future di questa serie si espandono per esplorare il passato della Costa della Spada e le conseguenze delle scelte dei giocatori in ogni avventura lungo il percorso."
 					],
 					"id": "001"
 				},
@@ -34,23 +34,23 @@
 					"name": "Background",
 					"page": 3,
 					"entries": [
-						"A lone mage roams the land. He is a visitor from another world. He has come to the Sword Coast in pursuit of legends and lore, in the footsteps of others who came here long ago. He is called Tyreus, though few here know him by name.",
-						"His explorations caught the attention of the Red Wizards of Thay, who dispatched a pair of their own wizards to find the roving mage. These searchers\u2014Morwena and her apprentice, {@creature Malivar|AitFR-ISF}\u2014tracked the wizard to the High Moors east of the Sword Coast. They surmised (correctly) that their quarry was looking for a site of arcane power.",
-						"To find their way through the High Moors and stay on Tyreus's trail, the Red Wizards hired local mercenaries to guide them, led by a former bandit called Lothar.",
-						"When the Red Wizards drew close to their target at a site colloquially called the Wizard's Barrow, Lothar and his mercenaries abandoned the whole enterprise out of fear. They fled back to the village of Secomber, on the edge of the High Moors, where they tell anyone who will listen that bad things are afoot out at the Wizard's Barrow now. \"Wizards hunting wizards can lead to no good,\" Lothar says.",
+						"Un mago solitario vaga per la terra. È un visitatore da un altro mondo. È arrivato sulla Costa della Spada alla ricerca di leggende e tradizioni, seguendo le orme di altri che vennero qui molto tempo fa. Si chiama Tyreus, anche se pochi qui lo conoscono per nome.",
+						"Le sue esplorazioni attirarono l'attenzione dei Maghi Rossi di Thay, che inviarono una coppia dei loro maghi a trovare il mago errante. Questi ricercatori, Morwena e il suo apprendista {@creature Malivar|AitFR-ISF} hanno rintracciato il mago nelle Alte Brughiere a est della Costa della Spada. Supponevano (correttamente) che la loro preda stesse cercando un luogo di potere arcano.",
+						"Per trovare la strada attraverso le Alte Brughiere e rimanere sulle tracce di Tyreus, i Maghi Rossi assunsero mercenari locali per guidarli, guidati da un ex bandito chiamato Lothar.",
+						"Quando i Maghi Rossi si avvicinarono al loro obiettivo in un sito colloquialmente chiamato il tumulo del mago, Lothar e i suoi mercenari abbandonarono l'intera impresa per paura. Sono fuggiti di nuovo nel villaggio di Secomber, ai margini delle Alte Brughiere, dove dicono a chiunque sia disposto ad ascoltare che cose brutte sono in corso al Tumulo del Mago adesso. \"I maghi che danno la caccia ai maghi non possono portare a nulla di buono\", dice Lothar.",
 						{
 							"type": "entries",
 							"name": "The Story at the Barrow",
 							"page": 3,
 							"entries": [
-								"The Wizard's Barrow started as a proper barrow and stood quietly in the High Moors for centuries before a sect of wizards moved in, plundered it for treasure, discarded the dead inside the barrow, and used their magic to reshape the place into a remote lair. For years, the wizards used this place as a sanctum, laboratory, library, and eventually a tomb for members of their small order. Whatever became of the final members of the order, they never returned to this place.",
-								"For decades, it stood quietly.",
-								"Then, a few days ago, Tyreus arrived with elementals in his service. The elementals dug into the ground near the barrow to get access to its lowest reaches. That created the sinkhole just east of the barrow, into area 15. From there, Tyreus and his minions stormed the library in area 14.",
-								"For two days, Tyreus searched the library for items of value. When Morwena and {@creature Malivar|AitFR-ISF} arrived, they confronted him in a brief skirmish of spells before choosing to parley.",
-								"Morwena, intrigued by the roving wizard and hungry for the power he offered, chose to abandon her mission and join Tyreus. {@creature Malivar|AitFR-ISF} thought it was a trick. It wasn't.",
-								"{@creature Malivar|AitFR-ISF}, afraid and heartbroken, threatened them both but was no match for either. Struck by Tyreus's spells, he fled the library, deeper into the barrow, and collapsed on the verge of death. (He is likely still in area 13 when the adventurers arrive.)",
-								"Morwena suggested they let {@creature Malivar|AitFR-ISF} go, as she wasn't worried about reprisal from the Red Wizards anymore. She and her new ally teleported away with their treasures, leaving the elemental minions to close up the barrow again and burn the library to cover their master's tracks.",
-								"The lead minion, a fire spirit called {@creature Exul|AitFR-ISF}, toils under a geas from the roving wizard. He has gathered and piled scrolls and books from the library to burn them but has stopped to read all he can before he destroys them."
+								"Il Tumulo del Mago iniziò come un vero e proprio tumulo e rimase silenzioso nelle Alte Brughiere per secoli prima che una setta di maghi vi si trasferisse, lo saccheggiò per raccogliere tesori, scartò i morti all'interno del tumulo e usò la loro magia per rimodellare il luogo in una tana remota. Per anni, i maghi usarono questo luogo come santuario, laboratorio, biblioteca e infine come tomba per i membri del loro piccolo ordine. Qualunque cosa sia accaduta agli ultimi membri dell'ordine, non sono mai tornati in questo posto.",
+								"Per decenni rimase in silenzio.",
+								"Poi, qualche giorno fa, è arrivato Tyreus con gli elementali al suo servizio. Gli elementali scavarono nel terreno vicino al tumulo per avere accesso ai suoi punti più bassi. Ciò ha creato la dolina appena ad est del tumulo, nell'area 15. Da lì, Tyreus e i suoi scagnozzi hanno preso d'assalto la biblioteca nell'area 14.",
+								"Per due giorni, Tyreus cercò nella biblioteca oggetti di valore. Quando Morwena e {@creature Malivar|AitFR-ISF} sono arrivati, lo hanno affrontato in una breve scaramuccia di incantesimi prima di decidere di parlamentare.",
+								"Morwena, incuriosita dal mago errante e assetata del potere da lui offerto, scelse di abbandonare la sua missione e unirsi a Tyreus. {@creature Malivar|AitFR-ISF} pensava che fosse un trucco. Non lo era.",
+								"{@creature Malivar|AitFR-ISF}, spaventato e con il cuore spezzato, li ha minacciati entrambi ma non è stato all'altezza di nessuno dei due. Colpito dagli incantesimi di Tyreus, fuggì dalla biblioteca, addentrandosi più in profondità nel tumulo, e crollò sull'orlo della morte. (Probabilmente è ancora nell'area 13 quando arrivano gli avventurieri.)",
+								"Morwena ha suggerito di lasciare andare {@creature Malivar|AitFR-ISF}, poiché non era più preoccupata per le ritorsioni da parte dei Maghi Rossi. Lei e il suo nuovo alleato si teletrasportarono via con i loro tesori, lasciando che i servitori elementali chiudessero di nuovo il tumulo e bruciassero la biblioteca per coprire le tracce del loro padrone.",
+								"Il servitore principale, uno spirito del fuoco chiamato {@creature Exul|AitFR-ISF}, lavora sotto il comando del mago errante. Ha raccolto e ammucchiato pergamene e libri dalla biblioteca per bruciarli, ma si è fermato a leggere tutto ciò che poteva prima di distruggerli."
 							],
 							"id": "003"
 						}
@@ -62,8 +62,8 @@
 					"name": "Adventure Hook",
 					"page": 3,
 					"entries": [
-						"Adventurers passing through the village of Secomber might hear about the Red Wizards and their mission by chance. For some adventurers, interfering with Red Wizards or uncovering lost treasure may be enough motivation to continue.",
-						"If coincidence isn't enough, consider the following adventure hooks and how they can get adventurers to Secomber.",
+						"Gli avventurieri che attraversano il villaggio di Secomber potrebbero venire a conoscenza dei Maghi Rossi e della loro missione per caso. Per alcuni avventurieri, interferire con i Maghi Rossi o scoprire tesori perduti potrebbe essere una motivazione sufficiente per continuare.",
+						"Se la coincidenza non basta, considera i seguenti agganci avventurosi e come possono portare gli avventurieri a Secomber.",
 						{
 							"type": "entries",
 							"entries": [
@@ -72,7 +72,7 @@
 									"name": "Pursuit of the Red Wizards",
 									"page": 3,
 									"entries": [
-										"An ally or patron of the adventurers hears word that two Red Wizards have ventured toward the High Moors in search of something. Perhaps that ally has a fraught history with the Red Wizards; perhaps the adventurers already do too."
+										"Un alleato o un mecenate degli avventurieri viene a sapere che due Maghi Rossi si sono avventurati verso le Alte Brughiere in cerca di qualcosa. Forse quell'alleato ha una storia difficile con i Maghi Rossi; forse lo fanno già anche gli avventurieri."
 									],
 									"id": "006"
 								},
@@ -81,7 +81,7 @@
 									"name": "Lost Lore",
 									"page": 4,
 									"entries": [
-										"A historian, sage, or other learned figure asks the adventurers to investigate the legends of the Wizard's Barrow in the High Moor. \"Start in the village of Secomber,\" they say. \"Someone there might remember rumors of wizards roaming the moors.\""
+										"Uno storico, un saggio o un'altra figura colta chiede agli avventurieri di indagare sulle leggende del tumulo del mago nell'Alta Brughiera. \"Inizia nel villaggio di Secomber\", dicono. \"Qualcuno lì potrebbe ricordare voci di maghi che vagano per le brughiere.\""
 									],
 									"id": "007"
 								}
@@ -99,8 +99,8 @@
 			"name": "Part 1: The Village of Secomber",
 			"page": 4,
 			"entries": [
-				"The village of Secomber sits with its back against a riverside cliff made of pink granite. The village center is mostly modest cottages and shops, with homes and farms lining the roads out of town and the top of the cliffs overlooking Hark River. Across the water, green hills rise to become the High Moors.",
-				"Whatever brings the characters to Secomber, they hear word of Lothar and his party's recent return from the High Moors. Whether he drinks nearby or tells his story out on the street, Lothar brags about how lucky he and his crew are to be alive \"after almost being murdered by Red Wizards.\"",
+				"Il villaggio di Secomber è addossato alle spalle di una scogliera di granito rosa lungo il fiume. Il centro del villaggio è costituito per lo più da modesti cottage e negozi, con case e fattorie lungo le strade fuori città e in cima alle scogliere che si affacciano sul fiume Hark. Dall'altra parte dell'acqua, verdi colline si innalzano per diventare le Alte Brughiere.",
+				"Qualunque cosa porti i personaggi a Secomber, sentono parlare di Lothar e del recente ritorno del suo gruppo dalle Alte Brughiere. Sia che beva nelle vicinanze o che racconti la sua storia per strada, Lothar si vanta di quanto siano fortunati lui e il suo equipaggio a essere vivi \"dopo essere stati quasi assassinati dai Maghi Rossi\".",
 				{
 					"type": "entries",
 					"entries": [
@@ -109,18 +109,18 @@
 							"name": "The Mercenaries' Accounts",
 							"page": 4,
 							"entries": [
-								"Lothar Stoutsmark (male human, chaotic neutral, {@creature bandit captain}) is a forty-year-old braggart who values survival above all else. His \"gold\" teeth are fake. He and his crew (Gordo, Vic, and Rora) consider themselves adventurers but tend toward sordid work and skullduggery. Lothar is one lean month away from returning to highway robbery, and his allies (all {@creature spy||spies}) are one bad day from abandoning him, unbeknown to Lothar. Lothar knows the following information about the Red Wizards and their mission:",
+								"Lothar Stoutsmark (maschio umano, caotico neutrale, {@creature bandit captain}) è uno spaccone quarantenne che valorizza la sopravvivenza sopra ogni altra cosa. I suoi denti \"d'oro\" sono finti. Lui e il suo equipaggio (Gordo, Vic e Rora) si considerano avventurieri ma tendono al lavoro sordido e agli imbrogli. A Lothar manca solo un mese magro per tornare a fare rapine in autostrada, e i suoi alleati (tutti {@creature spy||spies}) sono a un brutto giorno dal abbandonarlo, all'insaputa di Lothar. Lothar conosce le seguenti informazioni sui Maghi Rossi e sulla loro missione:",
 								{
 									"type": "list",
 									"items": [
-										"\"Those Red Wizards are called Morwena and {@creature Malivar|AitFR-ISF}. He used to be her apprentice and she still puts him in his place, you know? He doesn't like it.\"",
-										"\"Morwena, she said the barrow they were looking for might contain great treasure. She seemed to doubt it was a barrow at all, though. She called it a 'sanctum.'\"",
-										"\"She maybe meant the Wizard's Barrow, which was used for strange rites for decades\u2014thunder, lightning\u2014but apparently never opened.\"",
-										"\"Anyway, them Red Wizards, they're chasing someone. Another wizard, from a rival group, maybe? Sounded like they wanted him alive.\"",
-										"\"We made good time, crossing the hills. I know good trails. But one night, Morwena told {@creature Malivar|AitFR-ISF} she didn't think they needed guides anymore. So we left, before they could kill us.\""
+										"\"Quei maghi rossi si chiamano Morwena e {@creature Malivar|AitFR-ISF}. Era il suo apprendista e lei lo mette ancora al suo posto, sai? Non gli piace.\"",
+										"\"Morwena, ha detto che il tumulo che stavano cercando potrebbe contenere un grande tesoro. Sembrava però dubitare che fosse un tumulo. Lo chiamava un 'sanctum.'\"",
+										"\"Forse si riferiva al tumulo del mago, che per decenni è stato utilizzato per strani riti - tuoni, fulmini - ma a quanto pare non è mai stato aperto.\"",
+										"\"Comunque, quei Maghi Rossi, stanno inseguendo qualcuno. Un altro mago, di un gruppo rivale, forse? Sembrava che lo volessero vivo.\"",
+										"\"Abbiamo viaggiato bene, attraversando le colline. Conosco buoni sentieri. Ma una notte, Morwena ha detto a {@creature Malivar|AitFR-ISF} che non pensava che avessero più bisogno di guide. Così siamo partiti, prima che potessero ucciderci.\""
 									]
 								},
-								"Lothar can point the way to the Wizard's Barrow: it is a mere 6-hour hike into the High Moors, about 18 miles southeast of Secomber."
+								"Lothar può indicarti la strada per il tumulo del mago: è una semplice camminata di 6 ore nelle brughiere alte, a circa 18 miglia a sud-est di Secomber."
 							],
 							"id": "00a"
 						}
@@ -135,14 +135,14 @@
 			"name": "Part 2: The Wizard's Barrow",
 			"page": 4,
 			"entries": [
-				"When the adventurers arrive, the barrow has already been entered (twice) and partly plundered. The barrow's three levels, and a side view, are presented in the included maps (See Appendix).",
+				"Quando arrivano gli avventurieri, il tumulo è già entrato (due volte) e in parte saccheggiato. I tre livelli del tumulo e una vista laterale sono presentati nelle mappe incluse (vedi Appendice).",
 				{
 					"type": "entries",
 					"name": "Entryway",
 					"page": 4,
 					"entries": [
-						"The main entryway to the barrow was the only entrance into the site until Tyreus arrived. Located at the western end of the structure and marked by two large standing stones etched with faded spiral sigils, the entrance is a weather-worn set of stairs interrupted by an upright stone slab. It was never a door, but a seal.",
-						"Morwena and {@creature Malivar|AitFR-ISF} forced the seal open when they arrived. Now the barrow stands open to the winds and gathering rains of the High Moors. Anyone can descend the steep, worn steps and enter."
+						"L'ingresso principale del tumulo era l'unico ingresso al sito fino all'arrivo di Tiro. Situato all'estremità occidentale della struttura e contrassegnato da due grandi pietre erette incise con sigilli a spirale sbiaditi, l'ingresso è una serie di scale consumate dalle intemperie interrotte da una lastra di pietra verticale. Non è mai stata una porta, ma un sigillo.",
+						"Morwena e {@creature Malivar|AitFR-ISF} hanno forzato il sigillo quando sono arrivati. Ora il tumulo è aperto ai venti e alle piogge delle Alte Brughiere. Chiunque può scendere i gradini ripidi e logori ed entrare."
 					],
 					"id": "00c"
 				},
@@ -151,14 +151,14 @@
 					"name": "General Features",
 					"page": 4,
 					"entries": [
-						"After its origins as a barrow grave in ancient times, the interior of the Wizard's Barrow has been refashioned with magic and more modern crafting techniques. The top level remains the oldest in fashion, combining original stone slabs with mortar and stones from about a century ago.",
-						"The second and third levels of the site consist of gray, cut stones slowly giving way after decades without maintenance\u2014made all the worse by side effects of the sinkhole opening up outside. Cracks and gaps now reach into the second level of the site. Some areas are in danger of collapsing into the library below. Clever adventurers may find a way to take advantage of these dangers; others may succumb to them.",
+						"Dopo le sue origini come tumulo nei tempi antichi, l'interno del tumulo del mago è stato rimodellato con la magia e tecniche di lavorazione più moderne. Il livello superiore rimane il più antico della moda, combinando lastre di pietra originali con malta e pietre di circa un secolo fa.",
+						"Il secondo e il terzo livello del sito sono costituiti da pietre grigie tagliate che cedono lentamente dopo decenni senza manutenzione, aggravate dagli effetti collaterali della dolina che si apre all'esterno. Crepe e lacune ora raggiungono il secondo livello del sito. Alcune aree rischiano di crollare nella biblioteca sottostante. Gli avventurieri più intelligenti potrebbero trovare un modo per trarre vantaggio da questi pericoli; altri potrebbero soccombere a loro.",
 						{
 							"type": "entries",
 							"name": "Ceilings",
 							"page": 4,
 							"entries": [
-								"Each level features rough, uneven ceilings about 8 feet high, left unfinished for cosmetic effect by the wizards of old."
+								"Ogni livello presenta soffitti grezzi e irregolari alti circa 8 piedi, lasciati incompiuti per effetto estetico dai maghi del passato."
 							],
 							"id": "00e"
 						},
@@ -167,7 +167,7 @@
 							"name": "Doors",
 							"page": 4,
 							"entries": [
-								"On the first level, doors are ramshackle, rotten things, lightweight and easily opened or broken. Except where otherwise noted, doors of the lower two levels are sturdy but small for their frames, unlikely to stick in place even after all these years."
+								"Al primo livello, le porte sono sgangherate, cose marce, leggere e facili da aprire o rompere. Salvo dove diversamente indicato, le porte dei due livelli inferiori sono robuste ma piccole rispetto al loro telaio, ed è improbabile che restino al loro posto anche dopo tutti questi anni."
 							],
 							"id": "00f"
 						},
@@ -176,7 +176,7 @@
 							"name": "Light",
 							"page": 4,
 							"entries": [
-								"The first level has no usable, surviving light sources. The second and third levels feature periodic wall sconces housing glassy stones magically enchanted to give off dim light. Most of them still work."
+								"Il primo livello non ha fonti di luce utilizzabili e sopravvissute. Il secondo e il terzo livello sono caratterizzati da applique periodiche che ospitano pietre vetrose magicamente incantate per emettere luce fioca. La maggior parte funziona ancora."
 							],
 							"id": "010"
 						},
@@ -185,7 +185,7 @@
 							"name": "Sound",
 							"page": 4,
 							"entries": [
-								"The barrow would be silent if not for intruders. Since the sinkhole damaged the site, sound now carries from the second level to the third where the floors are cracked and giving way."
+								"Il tumulo rimarrebbe silenzioso se non fosse per gli intrusi. Dato che la voragine ha danneggiato il sito, il suono ora si trasmette dal secondo al terzo livello dove i pavimenti sono crepati e cedono."
 							],
 							"id": "011"
 						}
@@ -197,32 +197,32 @@
 					"name": "1. Guard Chamber",
 					"page": 5,
 					"entries": [
-						"The wizards meant for this chamber to be a guard post, but rather than bring people out here who weren't wizards in their little sect, they later opted to trap the chamber with an experimental magic glyph. (The wizards mostly came and went by teleportation circles in the library anyway.)",
+						"I maghi intendevano che questa camera fosse un posto di guardia, ma invece di portare qui persone che non erano maghi nella loro piccola setta, in seguito decisero di intrappolare la camera con un glifo magico sperimentale. (In ogni caso, i maghi andavano e venivano per lo più attraverso i circoli di teletrasporto nella biblioteca.)",
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"The winds and the chill from outside make their way into this chamber. The remains of wooden stools and a rack of rotten spears suggest this was a guard station once. A squat stele, about three feet tall, stands in the center of the chamber now, marked with a single, deeply etched glyph of bright blue. A silver medallion hangs from the top of the stele, partly blocking the glyph."
+								"I venti e il freddo provenienti dall'esterno si fanno strada in questa camera. I resti di sgabelli di legno e una rastrelliera di lance marce suggeriscono che un tempo questa fosse una stazione di guardia. Una stele tozza, alta circa un metro, si trova ora al centro della camera, contrassegnata da un unico glifo blu brillante profondamente inciso. Un medaglione d'argento pende dalla sommità della stele, coprendo parzialmente il glifo."
 							],
 							"id": "013"
 						},
-						"The stele is marked with a glyph akin to a glyph of warding, but it differs in important ways. Several of these trapped steles can be found throughout the barrow.",
-						"Wooden scraps or detritus in this chamber catch fire if the trap goes off, but the fire has nowhere to spread.",
-						"The medallion was set on the stele long ago to prevent its trap from going off. The trap cannot see around the medallion. Removing the medallion makes the stele's trap active again, though whoever wears or carries the medallion does not trigger the trap.",
-						"Morwena and {@creature Malivar|AitFR-ISF} ignored the stele and the medallion in their rush to reach the library.",
+						"La stele è contrassegnata da un glifo simile a un glifo di interdizione, ma differisce in modi importanti. Molte di queste stele intrappolate possono essere trovate in tutto il tumulo.",
+						"Gli scarti o i detriti di legno in questa camera prendono fuoco se la trappola scatta, ma il fuoco non ha nessun posto dove diffondersi.",
+						"Il medaglione fu posto sulla stele molto tempo fa per evitare che la trappola scattasse. La trappola non può vedere attorno al medaglione. La rimozione del medaglione rende nuovamente attiva la trappola della stele, anche se chiunque indossi o porti il ​​medaglione non attiva la trappola.",
+						"Morwena e {@creature Malivar|AitFR-ISF} ignorarono la stele e il medaglione nella fretta di raggiungere la biblioteca.",
 						{
 							"type": "entries",
 							"name": "Trapped Steles",
 							"page": 5,
 							"entries": [
-								"The barrow's trapped steles were crafted with effects not unlike a glyph of warding. However, the steles' glyphs are plain to see even in dim light. Each trapped stele can be activated multiple times; exactly how many depends on the individual stele. When the stele detects a trespasser in front of its glyph it immediately emits a stroke of lightning at the trespasser. If a targeted trespasser does not leave the area, the stele emits lightning again on initiative count 20 (losing initiative ties).",
-								"Anyone not named when the stele was crafted is considered a trespasser unless they wear or carry a medallion of safe passage.",
+								"Le stele intrappolate del tumulo sono state realizzate con effetti non dissimili da quelli di un glifo di interdizione. Tuttavia, i glifi delle stele sono visibili anche in condizioni di scarsa illuminazione. Ogni stele intrappolata può essere attivata più volte; exactly how many depends on the individual stele. Quando la stele rileva un intruso davanti al suo glifo, emette immediatamente un fulmine contro l'intruso. Se un intruso preso di mira non lascia l'area, la stele emette nuovamente fulmini con un conteggio di iniziativa pari a 20 (perdendo i pareggi di iniziativa).",
+								"Chiunque non sia nominato al momento della creazione della stele è considerato un intruso a meno che non indossi o porti con sé un medaglione di passaggio sicuro.",
 								{
 									"type": "entries",
 									"name": "Guard Chamber Trapped Stele",
 									"page": 5,
 									"entries": [
-										"This trapped stele detects trespassers in a 30-foot cone in front of its glyph. It has a passive {@skill Perception} score of 18. To disarm or dispel the trap requires a successful {@dc 18} check. Any creature that triggers the trap and fails a {@dc 15} Dexterity saving throw takes 22 ({@damage 4d10}) lightning damage, or half as much damage with a successful save.",
-										"The lightning ignites flammable objects in the area that aren't being worn or carried. This stele can emit lightning a total of five times before becoming nothing more than inert stone."
+										"Questa stele intrappolata rileva gli intrusi in un cono di 9 metri davanti al suo glifo. Ha un punteggio passivo {@skill Perception} pari a 18. Per disarmare o dissipare la trappola è necessario un controllo riuscito {@dc 18}. Qualsiasi creatura che attiva la trappola e fallisce un tiro salvezza su Destrezza {@dc 15} subisce 22 ({@damage 4d10}) danni da fulmine, o la metà di questi danni se supera il tiro salvezza.",
+										"Il fulmine accende gli oggetti infiammabili presenti nell'area che non vengono indossati o trasportati. Questa stele può emettere fulmini per un totale di cinque volte prima di diventare niente più che pietra inerte."
 									],
 									"id": "015"
 								}
@@ -234,7 +234,7 @@
 							"name": "Medallion of Safe Passage",
 							"page": 5,
 							"entries": [
-								"The medallion is silver-plated copper engraved with the same glyph as the stele, so the medallion appears coppery. Any creature wearing or visibly carrying one of these medallions does not trigger a trapped stele. The medallion is not magical. It is simply recognized by the steles, throughout the barrow, granting safe passage past their traps."
+								"Il medaglione è in rame argentato con inciso lo stesso glifo della stele, quindi il medaglione appare ramato. Qualsiasi creatura che indossi o porti visibilmente uno di questi medaglioni non attiva una stele intrappolata. Il medaglione non è magico. Viene semplicemente riconosciuto dalle stele, sparse lungo il tumulo, che garantiscono un passaggio sicuro oltre le loro trappole."
 							],
 							"id": "016"
 						}
@@ -249,11 +249,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"A few open crates, rotten sacks of grain, and scattered heaps of straw stand against the wall here. These supplies could've lasted weeks, once. An iron crowbar sits rusting atop the only closed crate."
+								"Qui, contro il muro, ci sono alcune casse aperte, sacchi di grano marcio e mucchi di paglia sparsi. Queste scorte sarebbero potute durare settimane, una volta. Un piede di porco di ferro arrugginisce sull'unica cassa chiusa."
 							],
 							"id": "018"
 						},
-						"The floor angles down here before leveling off in the passage and chambers. This room was once the supply cache and pantry for the site. Most of what was left here has rotted to waste.",
+						"Il pavimento qui si inclina prima di stabilizzarsi nel passaggio e nelle camere. Questa stanza un tempo era il deposito delle scorte e la dispensa del sito. La maggior parte di ciò che è rimasto qui è marcito e sprecato.",
 						{
 							"type": "entries",
 							"entries": [
@@ -262,7 +262,7 @@
 									"name": "Treasure",
 									"page": 5,
 									"entries": [
-										"The closed crate contains five golden oil lamps, porcelain wares, and three copper ingots altogether worth 140 gp."
+										"La cassa chiusa contiene cinque lampade a olio dorate, oggetti di porcellana e tre lingotti di rame del valore complessivo di 140 mo."
 									],
 									"id": "01a"
 								}
@@ -280,11 +280,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Ornately woven red rugs cover much of the uneven floor of this chamber, held down by deep, leather chairs and a split, collapsed table. One wall boasts a gold-painted frame and a smoke-darkened painting of Sword Coast cliffs. The sideboard practically bows from the weight of silver goblets, tea pots, and more."
+								"Tappeti rossi riccamente intrecciati coprono gran parte del pavimento irregolare di questa camera, tenuto fermo da profonde sedie in pelle e da un tavolo crollato e spaccato. Una parete vanta una cornice dipinta in oro e un dipinto oscurato dal fumo delle scogliere della Costa della Spada. La credenza praticamente si piega sotto il peso di calici d'argento, teiere e altro ancora."
 							],
 							"id": "01c"
 						},
-						"This chamber was once a common room and dining area for the site. The furnishings that once made it comfortable are still here, caked with dust, damp, and debris.",
+						"Questa camera un tempo era una sala comune e una zona pranzo per il sito. Gli arredi che un tempo lo rendevano confortevole sono ancora qui, incrostati di polvere, umidità e detriti.",
 						{
 							"type": "entries",
 							"entries": [
@@ -293,7 +293,7 @@
 									"name": "Treasure",
 									"page": 5,
 									"entries": [
-										"The silver wares, tea pots, and serving trays here are collectively worth 310 gp. The landscape painting is a lost work by a beloved Waterdhavian artist named Saraque Skyhill worth 1,200 gp if properly conserved."
+										"Gli articoli d'argento, le teiere e i vassoi da portata valgono complessivamente 310 mo. Il dipinto di paesaggio è un'opera perduta di un amato artista Waterdhaviano di nome Saraque Skyhill del valore di 1.200 mo se adeguatamente conservato."
 									],
 									"id": "01e"
 								}
@@ -311,26 +311,26 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"The air in here is damp and chill. It smells like hay left to rot."
+								"L'aria qui è umida e fredda. Puzza di fieno lasciato a marcire."
 							],
 							"id": "020"
 						},
-						"Each of these chambers was a private room for a member of the sect who visited or worked on site regularly. Personal effects have mostly been removed, leaving these feeling more like cells than bedrooms. Forgotten bedrolls and empty, unlocked chests are all that remain in most rooms.",
+						"Ognuna di queste camere era una stanza privata per un membro della setta che visitava o lavorava regolarmente sul posto. Gli effetti personali sono stati in gran parte rimossi, lasciandoli più simili a celle che a camere da letto. Coperte dimenticate e bauli vuoti e aperti sono tutto ciò che rimane nella maggior parte delle stanze.",
 						{
 							"type": "entries",
 							"name": "4A: Hidden Shrine",
 							"page": 6,
 							"entries": [
-								"This chamber hides a secret door leading to a hidden shrine.",
-								"The secret door is little more than a hatch behind this room's empty chest, hidden by dried mud and a slab meant to look like part of the wall. The door can be spotted with a {@dc 13} Intelligence ({@skill Investigation}) or Wisdom ({@skill Perception}) check or passive score.",
+								"Questa camera nasconde una porta segreta che conduce ad un santuario nascosto.",
+								"La porta segreta è poco più di un portello dietro il baule vuoto di questa stanza, nascosto dal fango secco e da una lastra che dovrebbe sembrare parte del muro. La porta può essere individuata con una prova di {@dc 13} Intelligenza ({@skill Investigation}) o Saggezza ({@skill Perception}) o un punteggio passivo.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"A little stone altar just two feet wide stands here buried in black dirt at the foot of a narrow chimney that seems to have fallen in. Something glints amid the dirt."
+										"Un piccolo altare di pietra largo appena mezzo metro si trova qui, sepolto nella terra nera, ai piedi di uno stretto camino che sembra essere caduto. Qualcosa luccica in mezzo alla terra."
 									],
 									"id": "022"
 								},
-								"The hidden shrine itself is half-buried in dirt and loam at the bottom of a once-empty chimney, meant to allow the shrine to see the stars. Whatever deity was once honored here, all that remains are melted candles, 1 sp, and a medallion of safe passage."
+								"Il santuario nascosto stesso è semisepolto nella terra e nel terriccio sul fondo di un camino un tempo vuoto, destinato a consentire al santuario di vedere le stelle. Qualunque sia la divinità che un tempo veniva onorata qui, tutto ciò che rimane sono candele fuse, 1 ma e un medaglione di passaggio sicuro."
 							],
 							"id": "021"
 						}
@@ -342,15 +342,15 @@
 					"name": "5. Ceremonial Entryway",
 					"page": 6,
 					"entries": [
-						"The north, east, and west walls are made of plaster adorned with colorful but smoke-faded murals. Each mural depicts figures in stark robes\u2014some red, some green, some blue\u2014painted as if they are part of a procession carrying trays of fire, lit incense, and silver toward the doorway to area 6.",
+						"Le pareti nord, est e ovest sono fatte di intonaco adornato con murali colorati ma sbiaditi dal fumo. Ogni murale raffigura figure in vesti spoglie, alcune rosse, altre verdi, altre blu, dipinte come se facessero parte di una processione che trasporta vassoi pieni di fuoco, incenso acceso e argento verso la porta dell'area 6.",
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Murals along three walls portray figures in bright robes of green or red or blue marching in file through an abstract environment suggesting perhaps a bright garden and stained glass. These figures are all human in size but depicted in various fashions and styles beneath their robes. The south wall is bare, unfinished slabs of stone, marking the original outer edge of the barrow."
+								"I murali lungo tre pareti ritraggono figure in vesti luminose di verde, rosso o blu che marciano in fila attraverso un ambiente astratto che suggerisce forse un giardino luminoso e vetrate colorate. Queste figure sono tutte di dimensioni umane ma raffigurate in varie mode e stili sotto le loro vesti. Il muro sud è costituito da lastre di pietra nude e non finite, che segnano il bordo esterno originale del tumulo."
 							],
 							"id": "024"
 						},
-						"The secret door to area 7 is a narrow wooden section hidden under the plaster, decorated by a figure in green robes with one hand over his eyes. The door can be found with a successful {@dc 15} Intelligence ({@skill Investigation}) or Wisdom ({@skill Perception}) check."
+						"La porta segreta dell'area 7 è una stretta sezione di legno nascosta sotto l'intonaco, decorata da una figura vestita di verde con una mano sugli occhi. La porta può essere trovata con una prova riuscita di {@dc 15} Intelligenza ({@skill Investigation}) o Saggezza ({@skill Perception})."
 					],
 					"id": "023"
 				},
@@ -359,15 +359,15 @@
 					"name": "6. Descent Passage",
 					"page": 6,
 					"entries": [
-						"The painted plaster walls continue into this area, depicting robed wizards headed toward the stairs down to area 8. But here, the wizards' robes are multi-colored.",
+						"Le pareti di gesso dipinto continuano in quest'area, raffigurando maghi in tunica diretti verso le scale che scendono verso l'area 8. Ma qui, le vesti dei maghi sono multicolori.",
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"The robed figures on these walls wear detailed, multi-colored robes with cuffs and hems adorned with magic words and sigils. Some of these figures wear long beards or long braids; others are clad in buckled bands of leather and sleek leggings. Each one is depicted carrying treasures or offerings toward the stairs that descend deeper ahead."
+								"Le figure vestite su queste pareti indossano abiti dettagliati e multicolori con polsini e orli decorati con parole magiche e sigilli. Alcune di queste figure portano lunghe barbe o lunghe trecce; altri sono rivestiti con fasce di pelle con fibbia e leggings eleganti. Ognuno è raffigurato mentre trasporta tesori o offerte verso le scale che scendono più in profondità."
 							],
 							"id": "026"
 						},
-						"The stairs down to the second level mark the start of the finer, more modern stonework of the site's lower two levels."
+						"Le scale che scendono fino al secondo livello segnano l'inizio della lavorazione in pietra più raffinata e moderna dei due livelli inferiori del sito."
 					],
 					"id": "025"
 				},
@@ -376,15 +376,15 @@
 					"name": "7. Observer's Chamber",
 					"page": 6,
 					"entries": [
-						"Wizards used this chamber to observe newcomers to the sect as they performed rites and recited chants in the ceremonial entryway (area 5) and descended the stairs (area 6).",
+						"I maghi usavano questa camera per osservare i nuovi arrivati ​​nella setta mentre eseguivano riti e recitavano canti nell'ingresso cerimoniale (area 5) e scendevano le scale (area 6).",
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"From inside, the northern and eastern walls of this room appear translucent, though hazy and smeared, like peering through rainy glass."
+								"Dall'interno, le pareti nord e est di questa stanza appaiono traslucide, anche se nebulose e imbrattate, come se scrutassero attraverso un vetro piovoso."
 							],
 							"id": "028"
 						},
-						"The walls are quite solid to the touch. Anyone in this room can focus their attention to see and hear into areas 5 and 6. The passive {@skill Perception} scores of creatures in this chamber suffer a\u20135 penalty while observing the adjoining chambers."
+						"Le pareti sono abbastanza solide al tatto. Chiunque in questa stanza può concentrare la propria attenzione per vedere e udire nelle aree 5 e 6. I punteggi passivi {@skill Perception} delle creature in questa stanza subiscono una penalità –5 mentre osservano le stanze adiacenti."
 					],
 					"id": "027"
 				},
@@ -393,9 +393,9 @@
 					"name": "8. Second-Level Passageways",
 					"page": 6,
 					"entries": [
-						"These passages of fitted stone blocks are sturdy and intact throughout much of the second level\u2014but not all of it. Between the ritual chambers (areas 10, 11, and 12), the floor has been shaken and cracked by side effects from the sinkhole collapse nearby. Everything in area 8 is capable of supporting the weight of the adventurers but can also reveal light and carry sound to {@creature Exul|AitFR-ISF} in the grand library below (area 14).",
-						"Creatures in area 14 have disadvantage on Wisdom ({@skill Perception}) checks to peer up into this area and a\u20135 penalty to passive {@skill Perception} to idly notice things in this area.",
-						"Adventurers attempting to observe the grand library through the flooring here also have disadvantage on their checks, unless they get down on the floor to peer through gaps."
+						"Questi passaggi di blocchi di pietra montati sono robusti e intatti in gran parte del secondo livello, ma non in tutto. Tra le camere rituali (aree 10, 11 e 12), il pavimento è stato scosso e incrinato dagli effetti collaterali del crollo della dolina nelle vicinanze. Tutto nell'area 8 è in grado di sostenere il peso degli avventurieri ma può anche rivelare la luce e trasportare suoni fino al {@creature Exul|AitFR-ISF} nella grande biblioteca sottostante (area 14).",
+						"Le creature nell'area 14 hanno uno svantaggio alle prove di Saggezza ({@skill Perception}) per sbirciare in quest'area e una penalità –5 alla passiva {@skill Perception} per notare distrattamente cose in quest'area.",
+						"Anche gli avventurieri che tentano di osservare la grande biblioteca attraverso il pavimento subiscono uno svantaggio alle loro prove, a meno che non si sdraiino sul pavimento per sbirciare attraverso gli spazi vuoti."
 					],
 					"id": "029"
 				},
@@ -407,11 +407,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"This sturdy wooden door, bound in iron straps and hinges, has stood strong against the passage of time."
+								"Questa robusta porta di legno, legata con cinghie e cardini di ferro, ha resistito al passare del tempo."
 							],
 							"id": "02b"
 						},
-						"This door is locked ({@dc 16} to pick the lock) and well built (Strength {@dc 20} to break it down) but the chamber's primary defense is the trapped stele inside.",
+						"Questa porta è chiusa a chiave ({@dc 16} per scassinare la serratura) e ben costruita (Forza {@dc 20} per abbatterla), ma la difesa principale della camera è la stele intrappolata all'interno.",
 						{
 							"type": "entries",
 							"entries": [
@@ -420,9 +420,9 @@
 									"name": "Vault Stele",
 									"page": 7,
 									"entries": [
-										"This trapped stele detects trespassers it can see in a 60-foot cone in front of its glyph. It has a passive {@skill Perception} score of 16. To disarm or dispel the trap requires a successful {@dc 16} check. Any creature that triggers the trap and fails a {@dc 15} Dexterity saving throw takes 22 ({@damage 4d10}) lightning damage, or half as much damage with a successful save.",
-										"The lightning ignites flammable objects in the area that aren't being worn or carried.",
-										"This stele can emit lightning a total of three times before becoming nothing more than inert stone. Beyond the stele, this place is a kind of arcane pantry."
+										"Questa stele intrappolata rileva gli intrusi che può vedere in un cono di 18 metri davanti al suo glifo. Ha un punteggio passivo {@skill Perception} pari a 16. Per disarmare o dissipare la trappola è necessario un controllo riuscito {@dc 16}. Qualsiasi creatura che attiva la trappola e fallisce un tiro salvezza su Destrezza {@dc 15} subisce 22 ({@damage 4d10}) danni da fulmine, o la metà di questi danni se supera il tiro salvezza.",
+										"Il fulmine accende gli oggetti infiammabili presenti nell'area che non vengono indossati o trasportati.",
+										"Questa stele può emettere fulmini per un totale di tre volte prima di diventare niente più che pietra inerte. Al di là della stele, questo luogo è una sorta di dispensa arcana."
 									],
 									"id": "02d"
 								}
@@ -432,7 +432,7 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"This chamber houses clay urns, glass jars, and wooden boxes arranged haphazardly on wall-mounted shelves and caked in years of dust."
+								"Questa camera ospita urne di argilla, barattoli di vetro e scatole di legno disposti a casaccio su scaffali a parete e incrostati da anni di polvere."
 							],
 							"id": "02e"
 						},
@@ -441,7 +441,7 @@
 							"name": "Treasure",
 							"page": 7,
 							"entries": [
-								"These containers once held spell components. Most have been carried off or have rotted away, but one urn still holds 440 gp worth of diamond dust and a wooden box contains a coil of gold twine almost 3 feet long, worth 290 gp. A medallion of safe passage hangs from a hook on the southern wall."
+								"Questi contenitori una volta contenevano componenti di incantesimi. La maggior parte è stata portata via o è marcita, ma un'urna contiene ancora 440 mo di polvere di diamante e una scatola di legno contiene una bobina di spago d'oro lunga quasi 90 cm, del valore di 290 mo. Un medaglione di passaggio sicuro pende da un gancio sul muro meridionale."
 							],
 							"id": "02f"
 						}
@@ -453,15 +453,15 @@
 					"name": "Collapsing Floors",
 					"page": 7,
 					"entries": [
-						"The floors in areas 10, 11, and 12 are precarious. For every 20 feet of movement across these floors by a creature bearing more than 100 pounds (including itself), there is a {@chance 25} chance that the floor groans and crumbles away into area 14. If a trapped stele activates in these areas, there is a {@chance 50} chance the floor immediately collapses.",
-						"A successful {@dc 10} Strength ({@skill Athletics}) check allows someone to collapse the floor intentionally. A crowbar or other leverage grants advantage on the check.",
-						"Creatures in or beneath the area when the floor collapses must attempt a {@dc 15} Dexterity saving throw, taking 22 ({@damage 4d10}) bludgeoning damage on a failure, or half as much on a success. A creature that succeeds on the saving throw within 5 feet of the walls can choose to cling to the nearest wall to avoid damage and a fall. Otherwise, any creature in this area when the floor gives way tumbles down into area 14.",
+						"I pavimenti nelle aree 10, 11 e 12 sono precari. Per ogni 20 piedi di movimento su questi piani da parte di una creatura che trasporta più di 100 libbre (incluso se stesso), c'è una {@chance 25} possibilità che il pavimento gema e crolli nell'area 14. Se una stele intrappolata si attiva in queste aree, c'è una {@chance 50} possibilità che il pavimento crolli immediatamente.",
+						"Una prova riuscita di Forza {@dc 10} ({@skill Athletics}) consente a qualcuno di far crollare il pavimento intenzionalmente. Un piede di porco o altra leva garantisce vantaggio sulla prova.",
+						"Le creature all'interno o al di sotto dell'area in cui il pavimento crolla devono tentare un tiro salvezza su Destrezza {@dc 15} e subiscono 22 ({@damage 4d10}) danni contundenti in caso di fallimento, o la metà in caso di successo. Una creatura che supera il tiro salvezza entro 1,5 metri dalle mura può scegliere di aggrapparsi al muro più vicino per evitare danni e una caduta. Altrimenti, qualsiasi creatura in quest'area quando il pavimento cede cade nell'area 14.",
 						{
 							"type": "entries",
 							"name": "Falling Steles",
 							"page": 7,
 							"entries": [
-								"Any trapped stele that tumbles into area 14 survives the fall and continues to function normally. The DM decides the facing of such steles; they may fire into area 14 or up into other areas, depending on how they land."
+								"Qualsiasi stele intrappolata che cade nell'area 14 sopravvive alla caduta e continua a funzionare normalmente. Il DM decide il rivestimento di tali stele; possono sparare nell'area 14 o in altre aree, a seconda di come atterrano."
 							],
 							"id": "031"
 						}
@@ -476,13 +476,13 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"The floor is etched deep with overlapping geometries, but much of the stone in the floor looks rough, ragged, and upset. Cracks in the north and east walls suggest the structural damage runs deep into the earth."
+								"Il pavimento è inciso in profondità con geometrie sovrapposte, ma gran parte della pietra nel pavimento appare ruvida, sfilacciata e sconvolta. Le crepe nelle pareti nord ed est suggeriscono che il danno strutturale sia profondo nel terreno."
 							],
 							"id": "033"
 						},
-						"Wizards used this chamber to cast ritual spells without distraction, to perform rites sacred to the old sect, and to observe apprentices as they practiced their work.",
-						"Any checks to sneak through this chamber without attracting the attention of creatures in area 14 are made with disadvantage.",
-						"The etchings along the wall are instructions for casting detect magic and identify as a ritual, but no power has been imbued within the words, so they are little more than mnemonics for apprentice wizards.",
+						"I maghi usavano questa camera per lanciare incantesimi rituali senza distrazioni, per eseguire riti sacri all'antica setta e per osservare gli apprendisti mentre praticavano il loro lavoro.",
+						"Qualsiasi prova per intrufolarsi in questa camera senza attirare l'attenzione delle creature nell'area 14 viene effettuata con svantaggio.",
+						"Le incisioni lungo il muro sono istruzioni per lanciare individuazione del magico e identificarlo come un rituale, ma nessun potere è stato infuso nelle parole, quindi sono poco più che mnemonici per apprendisti maghi.",
 						{
 							"type": "entries",
 							"entries": [
@@ -491,8 +491,8 @@
 									"name": "Ritual Casting Stele",
 									"page": 7,
 									"entries": [
-										"This trapped stele detects trespassers it can see in a 60-foot cone in front of its glyph. It has a passive {@skill Perception} score of 16. To disarm or dispel the trap requires a successful {@dc 16} check. Any creature that triggers the trap and fails a {@dc 15} Dexterity saving throw takes 22 ({@damage 4d10}) lightning damage, or half as much damage with a successful save.",
-										"The lightning ignites flammable objects in the area that aren't being worn or carried. This stele can emit lightning a total of three times before becoming inert stone."
+										"Questa stele intrappolata rileva gli intrusi che può vedere in un cono di 18 metri davanti al suo glifo. Ha un punteggio passivo {@skill Perception} pari a 16. Per disarmare o dissipare la trappola è necessario un controllo riuscito {@dc 16}. Qualsiasi creatura che attiva la trappola e fallisce un tiro salvezza su Destrezza {@dc 15} subisce 22 ({@damage 4d10}) danni da fulmine, o la metà di questi danni se supera il tiro salvezza.",
+										"Il fulmine accende gli oggetti infiammabili presenti nell'area che non vengono indossati o trasportati. Questa stele può emettere fulmini per un totale di tre volte prima di diventare pietra inerte."
 									],
 									"id": "035"
 								}
@@ -510,13 +510,13 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Various hooks and pegs suggest this large room once housed tapestries and other finery. The floor is etched with geometric shapes, but the stones of the floor look sunken and loose. Deep cracks in the floor have broken whole stones apart.",
-								"On the southern wall hang three evenly spaced golden discs, shaped like serving plates and studded with red gems. Beneath them stands a stout stele marked with a bright blue glyph."
+								"Vari ganci e pioli suggeriscono che questa grande stanza un tempo ospitava arazzi e altri ornamenti. Il pavimento è inciso con forme geometriche, ma le pietre del pavimento sembrano infossate e sciolte. Profonde crepe nel pavimento hanno frantumato intere pietre.",
+								"Sulla parete meridionale sono appesi tre dischi dorati equidistanti, a forma di piatti da portata e tempestati di gemme rosse. Sotto di loro si trova una robusta stele contrassegnata da un glifo blu brillante."
 							],
 							"id": "037"
 						},
-						"Like area 10, this chamber was used for rituals, rites, and practice. Unlike that chamber, this room is still adorned with precious trinkets leftover from some past rite.",
-						"Any checks to sneak through this chamber without attracting the attention of creatures in area 14 are made with disadvantage.",
+						"Come l'area 10, questa camera veniva utilizzata per rituali, riti e pratiche. A differenza di quella camera, questa stanza è ancora adornata con preziosi ninnoli rimasti da qualche rito passato.",
+						"Qualsiasi prova per intrufolarsi in questa camera senza attirare l'attenzione delle creature nell'area 14 viene effettuata con svantaggio.",
 						{
 							"type": "entries",
 							"entries": [
@@ -525,8 +525,8 @@
 									"name": "Ritual Casting Stele",
 									"page": 8,
 									"entries": [
-										"This trapped stele detects trespassers it can see in a 60-foot cone in front of its glyph. It has a passive {@skill Perception} score of 16. To disarm or dispel the trap requires a successful {@dc 16} check. Any creature that triggers the trap and fails a {@dc 15} Dexterity saving throw takes 22 ({@damage 4d10}) lightning damage, or half as much damage with a successful save.",
-										"The lightning ignites flammable objects in the area that aren't being worn or carried. This stele can emit lightning a total of three times before becoming inert stone."
+										"Questa stele intrappolata rileva gli intrusi che può vedere in un cono di 18 metri davanti al suo glifo. Ha un punteggio passivo {@skill Perception} pari a 16. Per disarmare o dissipare la trappola è necessario un controllo riuscito {@dc 16}. Qualsiasi creatura che attiva la trappola e fallisce un tiro salvezza su Destrezza {@dc 15} subisce 22 ({@damage 4d10}) danni da fulmine, o la metà di questi danni se supera il tiro salvezza.",
+										"Il fulmine accende gli oggetti infiammabili presenti nell'area che non vengono indossati o trasportati. Questa stele può emettere fulmini per un totale di tre volte prima di diventare pietra inerte."
 									],
 									"id": "039"
 								},
@@ -535,7 +535,7 @@
 									"name": "Treasure",
 									"page": 8,
 									"entries": [
-										"The three golden plates on the southern wall were part of some rite or ritual, now forgotten. Each plate, worth 300 gp, is a thin disc of gold inset with five red garnets."
+										"Le tre tavole d'oro sulla parete sud facevano parte di qualche rito o rituale, ormai dimenticato. Ogni piatto, del valore di 300 mo, è un sottile disco d'oro con incastonati cinque granati rossi."
 									],
 									"id": "03a"
 								}
@@ -553,12 +553,12 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Stray stones and dirt have been scattered across the floor by seismic activity or some other serious damage. Heavy-duty wooden tables and empty wooden bookcases still stand here, but the stones beneath them look shaken, cracked, and uneven. The air smells like raw clay."
+								"Pietre e terra vaganti sono state sparse sul pavimento a causa dell'attività sismica o di altri gravi danni. Qui si trovano ancora pesanti tavoli di legno e librerie di legno vuote, ma le pietre sotto di essi sembrano scosse, screpolate e irregolari. L'aria odora di argilla cruda."
 							],
 							"id": "03c"
 						},
-						"This used to be a laboratory, but aside from the heavy tables, shelves, and trapped steles, this place has been tidily cleaned out. The steles were made here; the two that remain are functional but appear unfinished.",
-						"Any checks to sneak through this chamber without attracting the attention of creatures in area 14 are made with disadvantage.",
+						"Questo era un laboratorio, ma a parte i tavoli pesanti, gli scaffali e le stele intrappolate, questo posto è stato ripulito con cura. Qui furono realizzate le stele; i due rimasti sono funzionali ma appaiono incompiuti.",
+						"Qualsiasi prova per intrufolarsi in questa camera senza attirare l'attenzione delle creature nell'area 14 viene effettuata con svantaggio.",
 						{
 							"type": "entries",
 							"entries": [
@@ -567,8 +567,8 @@
 									"name": "Laboratory Steles",
 									"page": 8,
 									"entries": [
-										"These two trapped steles detect trespassers they can see in 60-foot cones in front of their glyphs. Each has a passive {@skill Perception} score of 15. To disarm or dispel either trap requires a successful {@dc 15} check. Any creature that triggers the trap and fails a {@dc 15} Dexterity saving throw takes 22 ({@damage 4d10}) lightning damage, or half as much damage with a successful save. The lightning ignites flammable objects in the area that aren't being worn or carried.",
-										"Each of these steles can emit lightning twice before becoming inert stone."
+										"Queste due stele intrappolate rilevano gli intrusi che possono vedere in coni di 18 metri davanti ai loro glifi. Ciascuna ha un punteggio passivo {@skill Perception} pari a 15. Per disarmare o dissipare una delle trappole è necessario un controllo riuscito {@dc 15}. Qualsiasi creatura che attiva la trappola e fallisce un tiro salvezza su Destrezza {@dc 15} subisce 22 ({@damage 4d10}) danni da fulmine, o la metà di questi danni se supera il tiro salvezza. Il fulmine accende gli oggetti infiammabili presenti nell'area che non vengono indossati o trasportati.",
+										"Ognuna di queste stele può emettere fulmini due volte prima di diventare pietra inerte."
 									],
 									"id": "03e"
 								}
@@ -586,20 +586,20 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"The passage here is rough stone, a gravel floor, and glimpses of white cloth\u2014and yellowed bone. It's a catacomb, without much fanfare or adornment. A human skull stares at you from a nearby shelf."
+								"Il passaggio qui è di pietra grezza, un pavimento di ghiaia e scorci di stoffa bianca... e ossa ingiallite. È una catacomba, senza troppa fanfara o ornamento. Un teschio umano ti fissa da uno scaffale vicino."
 							],
 							"id": "040"
 						},
-						"This rough-hewn catacomb is lined with three inset shelves for the dead. Here the wizards interred the original inhabitants of the barrow above, as well as servants and some other friends and allies of the site who passed away during its years in operation. Each was wrapped in gray or white cloth and put in place without grave goods or treasures. (Wizards of the sect are in area 16.)",
-						"{@creature Malivar|AitFR-ISF} is here, likely {@condition unconscious}, after almost being killed by Tyreus's spells. He has 1 hit point. If awakened, he tries to assess his situation rather than immediately fight or flee.",
-						"{@creature Malivar|AitFR-ISF} reveals the following bits of information if the adventurers talk with him. If threatened, he attempts to keep quiet.",
+						"Questa catacomba grezza è fiancheggiata da tre scaffali inseriti per i morti. Qui i maghi seppellirono gli abitanti originari del tumulo sovrastante, così come i servitori e alcuni altri amici e alleati del sito che morirono durante i suoi anni di attività. Ciascuno era avvolto in un panno grigio o bianco e messo in luogo senza corredi funerari o tesori. (I maghi della setta si trovano nell'area 16.)",
+						"{@creature Malivar|AitFR-ISF} è qui, probabilmente {@condition unconscious}, dopo essere stato quasi ucciso dagli incantesimi di Tyreus. Ha 1 punto ferita. Se risvegliato, cerca di valutare la sua situazione piuttosto che combattere o fuggire immediatamente.",
+						"{@creature Malivar|AitFR-ISF} rivela le seguenti informazioni se gli avventurieri parlano con lui. Se minacciato, cerca di tacere.",
 						{
 							"type": "list",
 							"items": [
-								"The wizard they pursued here is called Tyreus.",
-								"Tyreus is a powerful archmage from another world. He's here looking for an ancient site of mystical power. \"We tried to recruit him.\"",
-								"He had a hefty tome bound in white leather with five sigils on the front, held close to him. \"That's what he came for, whatever it is.\"",
-								"Morwena's allegiance to the Red Wizards has been wavering. She felt they were holding her back from the kind of arcane power she really wanted. \"I wish I wasn't surprised that she turned on me. I mean, us.\""
+								"Il mago che hanno inseguito qui si chiama Tyreus.",
+								"Tyreus è un potente arcimago proveniente da un altro mondo. È qui alla ricerca di un antico sito di potere mistico. \"Abbiamo provato a reclutarlo.\"",
+								"Teneva vicino a sé un grosso tomo rilegato in pelle bianca con cinque sigilli sul davanti. \"È venuto per questo, qualunque cosa sia.\"",
+								"La fedeltà di Morwena ai Maghi Rossi vacilla. Sentiva che la stavano trattenendo dal tipo di potere arcano che desiderava davvero. \"Vorrei non essere sorpreso dal fatto che lei si sia rivoltata contro di me. Voglio dire, noi.\""
 							]
 						}
 					],
@@ -613,8 +613,8 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"A grand chamber sprawls out here in contrast to the confines of any common barrow. Between the sagging stone ceiling and the polished stone floor stand at least a dozen wooden shelves holding stacked scrolls and bound tomes. The wood here is polished almost red, from the shelves to the wide tables and chairs scattered throughout.",
-								"But the place has been ransacked. Furniture is on its side, papers are scattered everywhere, and bits of masonry lie about here and there. The center of the room is a huge heap of open, damaged books and unfurled scrolls. The place smells like smoke."
+								"Qui si estende una grande camera, in contrasto con i confini di qualsiasi tumulo comune. Tra il soffitto di pietra cadente e il pavimento di pietra lucida ci sono almeno una dozzina di scaffali di legno contenenti pergamene impilate e tomi rilegati. Il legno qui è lucido quasi rosso, dagli scaffali agli ampi tavoli e sedie sparsi ovunque.",
+								"Ma il posto è stato saccheggiato. I mobili sono rovesciati, le carte sono sparse ovunque e pezzi di muratura giacciono qua e là. Il centro della stanza è un enorme mucchio di libri aperti e danneggiati e di pergamene spiegate. Il posto puzza di fumo."
 							],
 							"id": "042"
 						},
@@ -628,9 +628,9 @@
 							"height": 1636,
 							"credit": "Bram Sels"
 						},
-						"This was the heart of the site, when the wizards used it so many years ago. Many texts were gradually removed as the sect's power dwindled, but most of it remains here. The last of the wizards didn't know they were never coming back when they left for the last time.",
-						"Tyreus and Morwena left hours ago after ordering the fiery humanoid elemental, named {@creature Exul|AitFR-ISF}, the destroy the library's collection. (Tyreus is simply covering his tracks.) This order is part of a geas Tyreus cast upon {@creature Exul|AitFR-ISF}.",
-						"Tyreus left with an arcane tome in hand and Morwena at his side but didn't tell {@creature Exul|AitFR-ISF} where they were going. {@creature Exul|AitFR-ISF}'s service ends with the destruction of the library.",
+						"Questo era il cuore del sito, quando i maghi lo usavano tanti anni fa. Molti testi furono gradualmente rimossi man mano che il potere della setta diminuì, ma la maggior parte rimane qui. L'ultimo dei maghi non sapeva che non sarebbero mai tornati quando se ne andarono per l'ultima volta.",
+						"Tyreus e Morwena se ne sono andati ore fa dopo aver ordinato al focoso elementale umanoide, chiamato {@creature Exul|AitFR-ISF}, di distruggere la collezione della biblioteca. (Tyreus sta semplicemente coprendo le sue tracce.) Questo ordine fa parte di un obbligo lanciato da Tyreus {@creature Exul|AitFR-ISF}.",
+						"Tyreus se ne andò con un tomo arcano in mano e Morwena al suo fianco ma non disse a {@creature Exul|AitFR-ISF} dove stavano andando. Il servizio di {@creature Exul|AitFR-ISF} termina con la distruzione della libreria.",
 						{
 							"type": "entries",
 							"entries": [
@@ -639,10 +639,10 @@
 									"name": "The Fire Spirit",
 									"page": 10,
 									"entries": [
-										"{@creature Exul|AitFR-ISF} kills time here while he can, reading what he is about to burn. He sits atop a pile of scrolls and books in the middle of the room and allows himself to be distracted by his reading unless intruders catch his attention. He thinks {@creature Malivar|AitFR-ISF} has died or fled and acts as if he has the barrow to himself and his elementals. While distracted by his reading, he has a\u20135 penalty to his passive {@skill Perception} score.",
-										"If he suspects he is no longer alone, he carries on idly reading and burning texts but no longer allows himself to be distracted.",
-										"If he knows intruders are present, he summons an elemental to defend him\u2014probably a fire elemental, as it can help him burn the library or slip into area 15 to aid the elementals there, as needed. As he can, {@creature Exul|AitFR-ISF} resumes his task of burning the library so he can leave without taking damage from the geas upon him.",
-										"{@creature Exul|AitFR-ISF} is a cunning, unfair combatant. He uses invisibility to protect himself. He hurls fire and casts {@spell wall of fire} to accelerate his work. If either he or the library has fewer than 25 percent of their hit point maximum, {@creature Exul|AitFR-ISF} may attempt to flee by casting plane shift and traveling alone to the Elemental Plane of Fire. He might do this even if his task is incomplete, risking damage from Tyreus's geas. {@creature Exul|AitFR-ISF} is smart but reckless. He leaves any elementals behind to combat the adventurers."
+										"{@creature Exul|AitFR-ISF} ammazza il tempo qui finché può, leggendo ciò che sta per bruciare. Si siede su una pila di pergamene e libri al centro della stanza e si lascia distrarre dalla lettura a meno che gli intrusi non attirino la sua attenzione. Pensa che {@creature Malivar|AitFR-ISF} sia morto o sia fuggito e si comporta come se avesse il tumulo tutto per sé e per i suoi elementali. Mentre è distratto dalla lettura, ha una penalità di –5 al suo punteggio passivo {@skill Perception}.",
+										"Se sospetta di non essere più solo, continua a leggere e bruciare testi senza lasciarsi distrarre.",
+										"Se sa che sono presenti degli intrusi, evoca un elementale per difenderlo, probabilmente un elementale del fuoco, poiché può aiutarlo a bruciare la biblioteca o scivolare nell'area 15 per aiutare gli elementali lì, se necessario. Non appena può, {@creature Exul|AitFR-ISF} riprende il suo compito di bruciare la biblioteca in modo da potersene andare senza subire danni dalle costrizioni su di lui.",
+										"{@creature Exul|AitFR-ISF} è un combattente astuto e sleale. Usa l'invisibilità per proteggersi. Lancia fuoco e lancia {@spell wall of fire} per accelerare il suo lavoro. Se lui o il grimorio hanno meno del 25% dei loro punti ferita massimi, {@creature Exul|AitFR-ISF} può tentare di fuggire lanciando Spostamento planare e viaggiando da solo verso il Piano Elementale del Fuoco. Potrebbe farlo anche se il suo compito è incompleto, rischiando danni a causa degli stratagemmi di Tyreus. {@creature Exul|AitFR-ISF} è intelligente ma spericolato. Lascia dietro di sé tutti gli elementali per combattere gli avventurieri."
 									],
 									"id": "044"
 								},
@@ -651,7 +651,7 @@
 									"name": "Teleportation Circles",
 									"page": 10,
 									"entries": [
-										"Two teleportation circles used to serve this chamber and the wizards who kept this collection. The northern circle has been damaged by the sinkhole's collapse. (It used to lead to a now-ruined wizard's tower overlooking the Sword Coast.) The southern circle leads to an abandoned townhouse in Waterdeep; the circle there is beneath the floorboards in the attic. (See \"Part 3: What's Next?\" for additional options.)"
+										"Due cerchi di teletrasporto servivano questa camera e i maghi che conservavano questa collezione. Il circolo settentrionale è stato danneggiato dal crollo della dolina. (Conduceva alla torre di un mago, ora in rovina, che domina la Costa della Spada.) Il cerchio meridionale conduce a una residenza cittadina abbandonata a Waterdeep; il cerchio c'è sotto le assi del pavimento in soffitta. (Vedi \"Parte 3: Cosa c'è dopo?\" per ulteriori opzioni.)"
 									],
 									"id": "045"
 								},
@@ -660,7 +660,7 @@
 									"name": "Treasure",
 									"page": 10,
 									"entries": [
-										"To historians, sages, and collectors in a college or university, the value of the library's nonmagical collection is up to 5,500 gp. Three {@item spell scroll||spell scrolls} also remain in the collection: one scroll of {@spell chain lightning}, one scroll of {@spell Otiluke's freezing sphere}, and one scroll of {@spell wall of stone}."
+										"Per gli storici, i saggi e i collezionisti di college o università, il valore della collezione non magica della biblioteca arriva fino a 5.500 mo. Nella raccolta ne rimangono anche tre {@item spell scroll||spell scrolls}: una pergamena di {@spell chain lightning}, una pergamena di {@spell Otiluke's freezing sphere} e una pergamena di {@spell wall of stone}."
 									],
 									"id": "046"
 								}
@@ -672,10 +672,10 @@
 							"name": "The Burning Library",
 							"page": 10,
 							"entries": [
-								"In this library\u2014littered with stray pages, tables, chairs, and rugs\u2014fire spreads 5 feet in any direction on initiative count 20 (losing initiative ties), as sheets of fiery paper flit about on fire-hot winds. Each 5-foot square that is burning deals 3 ({@damage 1d6}) fire damage to the library, to a maximum of 42 ({@damage 12d6}) fire damage each turn.",
-								"A creature that starts its turn in a burning space takes 3 ({@damage 1d6}) fire damage. A creature without resistance to fire damage has disadvantage on Wisdom ({@skill Perception}) checks to see through the smoke and fire here.",
-								"The chamber survives the fire even if it is a charred husk billowing smoke into upper levels and into area 15 and the open air.",
-								"It is the collection that's in jeopardy. The library collection has 300 hit points and no damage threshold. Consult the Collection Damage Results table to determine what survives based on damage suffered by the collection."
+								"In questa biblioteca, disseminata di pagine sparse, tavoli, sedie e tappeti, il fuoco si diffonde per 1,5 metri in qualsiasi direzione con un conteggio di iniziativa pari a 20 (perdendo i pareggi di iniziativa), mentre fogli di carta infuocata svolazzano qua e là spinti da venti ardenti. Ogni quadrato di 1,5 metri che sta bruciando infligge 3 ({@damage 1d6}) danni da fuoco alla biblioteca, fino a un massimo di 42 ({@damage 12d6}) danni da fuoco ogni turno.",
+								"Una creatura che inizia il suo turno in uno spazio in fiamme subisce 3 ({@damage 1d6}) danni da fuoco. Una creatura senza resistenza ai danni da fuoco ha svantaggio nelle prove di Saggezza ({@skill Perception}) per vedere attraverso il fumo e il fuoco qui.",
+								"La camera sopravvive all'incendio anche se è un involucro carbonizzato che emette fumo nei livelli superiori, nell'area 15 e all'aria aperta.",
+								"È la collezione ad essere in pericolo. La collezione della biblioteca ha 300 punti ferita e nessuna soglia di danno. Consulta la tabella dei risultati dei danni alla collezione per determinare cosa sopravvive in base ai danni subiti dalla collezione."
 							],
 							"id": "047"
 						},
@@ -684,9 +684,9 @@
 							"name": "Fighting the Fire",
 							"page": 10,
 							"entries": [
-								"What the adventurers use to combat the flames is up to them. Water is not plentiful here, but earth and dirt are in great supply.",
-								"Presume any ability check to put out fire by nonmagical means requires a successful {@dc 15} check, the ability of which depends on what the characters are trying to do. Success on such a check puts out fire in a 10-foot square or equivalent area.",
-								"If cold damage caused in any 5-foot-square area exceeds the damage being dealt in that area by the blaze, that 5-foot square's fire goes out. Persistent ice or other lingering effects keep fire from spreading.",
+								"Ciò che gli avventurieri usano per combattere le fiamme dipende da loro. Qui l'acqua non è abbondante, ma la terra e il terriccio sono in grande quantità.",
+								"Presumiamo che qualsiasi prova di abilità per spegnere il fuoco con mezzi non magici richieda una prova riuscita {@dc 15}, la cui abilità dipende da ciò che i personaggi stanno cercando di fare. Il successo in tale prova spegne il fuoco in un quadrato di 3 metri o in un'area equivalente.",
+								"Se i danni da freddo causati in un'area quadrata di 1,5 metri superano i danni inflitti in quell'area dalle fiamme, il fuoco di quel quadrato di 1,5 metri si spegne. Il ghiaccio persistente o altri effetti persistenti impediscono al fuoco di diffondersi.",
 								{
 									"type": "table",
 									"caption": "Collection Damage Results",
@@ -700,20 +700,20 @@
 									],
 									"rows": [
 										[
-											"0\u201350 hp",
-											"Minor losses: Only lore and legends are burned, and the value of the collection is reduced by 500 gp."
+											"0–50 hp",
+											"Perdite minori: vengono bruciate solo le conoscenze e le leggende e il valore della collezione viene ridotto di 500 mo."
 										],
 										[
-											"51\u2013100 hp",
-											"Moderate losses: One {@item spell scroll} is destroyed, and the value of the collection is reduced by 1,500 gp."
+											"51–100 hp",
+											"Perdite moderate: una {@item spell scroll} viene distrutta e il valore della collezione viene ridotto di 1.500 mo."
 										],
 										[
-											"101\u2013200 hp",
-											"Major losses: Two spell scrolls are destroyed, and the value of the collection is reduced by 3,000 gp."
+											"101–200 hp",
+											"Perdite importanti: due pergamene di incantesimi vengono distrutte e il valore della collezione viene ridotto di 3.000 mo."
 										]
 									]
 								},
-								"Otherwise, an area might burn again if fire spreads and the collection still has hit points remaining."
+								"Altrimenti, un'area potrebbe bruciare nuovamente se il fuoco si diffonde e la collezione ha ancora punti ferita rimanenti."
 							],
 							"id": "048"
 						},
@@ -722,9 +722,9 @@
 							"name": "Chaos in the Collection",
 							"page": 11,
 							"entries": [
-								"Between collapsing stone, errant lightning, and spreading flames, things can get messy here in a hurry. Add in {@creature Malivar|AitFR-ISF}, {@creature Exul|AitFR-ISF}, and other elementals and things go beyond hectic. The players' choices might well make things easier or more difficult for them\u2014that's fair. All these moving parts are here to create options and unexpected interactions.",
-								"If circumstances do turn against the adventurers, it can be dire. Depending on the monsters involved, a battle in the library can become an encounter of Deadly magnitude.",
-								"Keep in mind that defeating the adventurers isn't a goal of the NPCs or monsters here. Combat isn't an essential outcome. Anyone might be driven to flee if things go sideways\u2014even the elementals. If the library burns to ash, then it does."
+								"Tra pietre che crollano, fulmini vaganti e fiamme che si diffondono, qui le cose possono diventare complicate in fretta. Aggiungi {@creature Malivar|AitFR-ISF}, {@creature Exul|AitFR-ISF} e altri elementali e le cose vanno oltre la frenesia. Le scelte dei giocatori potrebbero rendere le cose più facili o più difficili per loro: è giusto. Tutte queste parti mobili sono qui per creare opzioni e interazioni inaspettate.",
+								"Se le circostanze si rivolgono contro gli avventurieri, può essere terribile. A seconda dei mostri coinvolti, una battaglia nel grimorio può diventare un incontro di portata mortale.",
+								"Tieni presente che sconfiggere gli avventurieri non è l'obiettivo degli NPC o dei mostri qui. Il combattimento non è un risultato essenziale. Chiunque potrebbe essere costretto a fuggire se le cose vanno male, anche gli elementali. Se la biblioteca viene ridotta in cenere, allora succede."
 							],
 							"id": "049"
 						}
@@ -739,14 +739,14 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Bits of curved marble and stone discs that used to form columns suggest a place that was important once. Now it is smashed to ruin.",
-								"Some of the stones move about on their own, picking through the rubble."
+								"Frammenti di marmo ricurvo e dischi di pietra che formavano colonne suggeriscono un luogo che un tempo era importante. Ora è ridotto in rovina.",
+								"Alcune pietre si muovono da sole, frugando tra le macerie."
 							],
 							"id": "04b"
 						},
-						"This wide passage was once a memorial site of gray stone and white marble details. The arrival of Tyreus and his elementals shattered the columns, arches, and mosaics. All that remains are drab heaps of stone dotted with bits of tile and marble. The floor is essentially a pit of rubble now, gathering soil, rocks, and grasses from the sinkhole collapse all around.",
-						"This whole area is {@quickref difficult terrain||3}. The doors to area 14 are loose on their hinges and blocked by a slab of stone that keeps them from opening. Tyreus didn't want to be followed. The stone requires a successful {@dc 20} Strength ({@skill Athletics}) check to move aside or a successful {@dc 14} Dexterity ({@skill Acrobatics}) check to wiggle past.",
-						"This area is inhabited for now by two earth elementals lingering here after helping Tyreus reach this place. They are not afraid to engage in combat, but neither is willing to die here. They flee into the earth if reduced to 25 percent of their hit points, possibly to return days later for further exploring."
+						"Questo ampio passaggio un tempo era un luogo commemorativo con dettagli in pietra grigia e marmo bianco. L'arrivo di Tiro e dei suoi elementali distrusse colonne, archi e mosaici. Tutto ciò che rimane sono squallidi cumuli di pietra punteggiati da frammenti di piastrelle e marmo. Il pavimento ora è essenzialmente una fossa di macerie, che raccoglie terra, rocce ed erba dal crollo della dolina tutt'intorno.",
+						"L'intera area è {@quickref difficult terrain||3}. Le porte dell'area 14 sono allentate sui cardini e bloccate da una lastra di pietra che impedisce loro di aprirsi. Tyreus non voleva essere seguito. La pietra richiede una prova riuscita di Forza {@dc 20} ({@skill Athletics}) per spostarsi di lato o una prova riuscita di Destrezza {@dc 14} ({@skill Acrobatics}) per spostarsi oltre.",
+						"Questa zona è abitata per ora da due elementali della terra che si fermano qui dopo aver aiutato Tyreus a raggiungere questo luogo. Non hanno paura di impegnarsi in combattimento, ma non sono nemmeno disposti a morire qui. Fuggono nella terra se i loro punti ferita sono ridotti al 25%, forse per tornare giorni dopo per ulteriori esplorazioni."
 					],
 					"id": "04a"
 				},
@@ -755,17 +755,17 @@
 					"name": "16. Honored Crypts",
 					"page": 11,
 					"entries": [
-						"The ceremonial hall was meant to end in a fresco depicting a starry sky, the moon, and its tail. Much of that fresco has fallen away with Tyreus's arrival, revealing bare, gray stone underneath\u2014a wall that hides a door, which was never meant to be opened. A successful {@dc 15} Intelligence ({@skill Investigation}) or Wisdom ({@skill Perception}) check reveals the door amid the rubble.",
+						"La sala cerimoniale doveva terminare con un affresco raffigurante un cielo stellato, la luna e la sua coda. Gran parte dell'affresco è crollato con l'arrivo di Tiro, rivelando la nuda pietra grigia sottostante: un muro che nasconde una porta, che non avrebbe mai dovuto essere aperta. Una prova riuscita {@dc 15} di Intelligenza ({@skill Investigation}) o Saggezza ({@skill Perception}) rivela la porta in mezzo alle macerie.",
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"The gray, unadorned passage beyond the fresco hangs with an eerie, dusty fog."
+								"Il passaggio grigio e disadorno oltre l'affresco è avvolto da una nebbia inquietante e polverosa."
 							],
 							"id": "04d"
 						},
-						"The passage and crypts beyond the door are simple and spare. The sarcophagi in areas 16A through 16D are simply carved to depict the various, forgotten wizards inside. No grandeur. Each is depicted in a simple robe.",
-						"Alas, some of the dead wizards interred in these crypts, stirred by anger and unrest, rise to defend the crypts. These {@dice 1d4 + 2} {@creature mummy||mummies} are not sandy, arid creatures but gaunt, gray horrors clad in gray robes, but their rotting fists remain deadly.",
-						"Each mummy moves to escape its crypt and attack trespassers, whether that means the adventurers, elementals, {@creature Malivar|AitFR-ISF}, or anyone else. They return to their crypts if they cannot find targets within 100 feet of the crypts' secret door, returning as necessary to drive off intruders. They do not seal themselves in and do not open the door of their own accord.",
+						"Il passaggio e le cripte oltre la porta sono semplici e sobri. I sarcofagi nelle aree da 16A a 16D sono semplicemente scolpiti per rappresentare i vari maghi dimenticati all'interno. Nessuna grandezza. Ciascuno è raffigurato con una veste semplice.",
+						"Purtroppo, alcuni dei maghi morti sepolti in queste cripte, mossi dalla rabbia e dall'inquietudine, si alzano per difendere le cripte. Questi {@dice 1d4 + 2} {@creature mummy||mummies} non sono creature sabbiose e aride, ma scarni orrori grigi vestiti di vesti grigie, ma i loro pugni marci rimangono mortali.",
+						"Ogni mummia si muove per fuggire dalla sua cripta e attaccare gli intrusi, che si tratti di avventurieri, elementali {@creature Malivar|AitFR-ISF} o chiunque altro. Ritornano alle loro cripte se non riescono a trovare bersagli entro 30 metri dalla porta segreta delle cripte, ritornando se necessario per scacciare gli intrusi. Non si chiudono dentro e non aprono la porta di propria iniziativa.",
 						{
 							"type": "entries",
 							"entries": [
@@ -774,7 +774,7 @@
 									"name": "Treasure",
 									"page": 11,
 									"entries": [
-										"The crypts are fairly sparely appointed, as the wizards interred here left their belongings to the library and their apprentices. Still, a few silver vases, golden urns, and goblets, altogether worth 300 gp, can be found here. Area 16C includes a small obsidian statue of a medusa with emerald eyes worth 425 gp."
+										"Le cripte sono arredate in modo abbastanza sobrio, poiché i maghi qui sepolti lasciarono i loro averi alla biblioteca e ai loro apprendisti. Tuttavia, qui si possono trovare alcuni vasi d'argento, urne d'oro e calici, per un valore complessivo di 300 mo. L'area 16C comprende una piccola statua di ossidiana di una medusa con occhi di smeraldo del valore di 425 mo."
 									],
 									"id": "04f"
 								}
@@ -802,20 +802,20 @@
 			"name": "Part 3: What's Next?",
 			"page": 12,
 			"entries": [
-				"The adventurers may have treasure to sell and lore to lend, or questions in mind and wounds to tend. The aftermath of this adventure is a bundle of questions, so focus on the characters and what they want to do next, perhaps with downtime activities. If they want to chase down Tyreus and Morwena, that trail might simply go cold\u2014for now. Their threads reappear in the next adventure: {@adventure The Hidden Page|AitFR-THP}.",
+				"Gli avventurieri potrebbero avere tesori da vendere e conoscenze da prestare, oppure domande in mente e ferite da curare. Le conseguenze di questa avventura sono un insieme di domande, quindi concentrati sui personaggi e su cosa vogliono fare dopo, magari con attività di pausa. Se vogliono inseguire Tyreus e Morwena, quella pista potrebbe semplicemente perdersi, per ora. I loro thread ricompaiono nella prossima avventura: {@adventure The Hidden Page|AitFR-THP}.",
 				{
 					"type": "entries",
 					"name": "The Barrow Wizards",
 					"page": 12,
 					"entries": [
-						"Gifting or selling the library's remains, and any other treasures, might occupy the adventurers until the next adventure. The barrow, or what's left of it, might be of interest to sages\u2014or the adventurers might keep it for themselves.",
-						"Investigations into the identities and fates of the barrow wizards doesn't reveal tremendous secrets but neither does it yield many answers. The following items of lore are important for the next adventure, but much about those old wizards is left for you to decide, customize, or leave in mystery.",
+						"Regalare o vendere i resti della biblioteca e qualsiasi altro tesoro potrebbe occupare gli avventurieri fino alla prossima avventura. Il tumulo, o ciò che ne resta, potrebbe interessare ai saggi, oppure gli avventurieri potrebbero tenerlo per sé.",
+						"Le indagini sulle identità e sul destino dei maghi dei tumuli non rivelano segreti straordinari, ma non forniscono nemmeno molte risposte. I seguenti elementi della tradizione sono importanti per la prossima avventura, ma gran parte di quei vecchi maghi spetta a te decidere, personalizzarli o lasciare nel mistero.",
 						{
 							"type": "list",
 							"items": [
-								"The leader of the barrow wizards' sect was a traveler from \"a faraway place\" or \"a distant world.\"",
-								"She came to the Sword Coast \"looking for answers\" and to \"study the magic of the Realms.\" Her followers were scholarly wizards.",
-								"She lived in a townhouse in Waterdeep sometimes, but left it walled up when she returned to her homeland. The sect fell apart without her."
+								"Il leader della setta dei maghi dei tumuli era un viaggiatore proveniente da \"un luogo lontano\" o \"un mondo lontano\".",
+								"È venuta sulla Costa della Spada \"in cerca di risposte\" e per \"studiare la magia dei Regni\". I suoi seguaci erano maghi eruditi.",
+								"A volte viveva in una casa a Waterdeep, ma quando tornava in patria la lasciava murata. La setta è crollata senza di lei."
 							]
 						},
 						{
@@ -826,7 +826,7 @@
 									"name": "Teleportation Circles",
 									"page": 12,
 									"entries": [
-										"The teleportation circles in the library led to places helpful for the wizards' sect. One led to the attic of the master's boarded-up, derelict townhouse. The other is damaged and presumably not working\u2014or you can use it to plug into your campaign elsewhere."
+										"I cerchi di teletrasporto nella biblioteca conducevano a luoghi utili per la setta dei maghi. Uno conduceva alla soffitta della casa a schiera abbandonata e sbarrata del padrone. L'altro è danneggiato e presumibilmente non funziona, oppure puoi usarlo per collegarti alla tua campagna altrove."
 									],
 									"id": "053"
 								}
@@ -841,7 +841,7 @@
 					"name": "The Missing Villains",
 					"page": 12,
 					"entries": [
-						"Tyreus and Morwena magically transported to one of Tyreus's hidden sanctums. Tyreus got what he wanted from the barrow: a tome of magic with a hidden key inside. For now, he and Morwena are working on their magic, getting to know one another, and planning their next moves. The adventurers haven't seen the last of them yet."
+						"Tyreus e Morwena vengono magicamente trasportati in uno dei santuari nascosti di Tyreus. Tyreus ha ottenuto ciò che voleva dal tumulo: un tomo di magia con una chiave nascosta all'interno. Per ora, lui e Morwena stanno lavorando sulla loro magia, conoscendosi e pianificando le prossime mosse. Gli avventurieri non hanno ancora visto l'ultimo di loro."
 					],
 					"id": "054"
 				}
@@ -853,7 +853,7 @@
 			"name": "Appendix: Maps, Monsters, & NPCs",
 			"page": 12,
 			"entries": [
-				"This section details game statistics for the key NPCs who interact with the adventurers in this scenario.",
+				"Questa sezione descrive in dettaglio le statistiche di gioco per i principali NPC che interagiscono con gli avventurieri in questo scenario.",
 				{
 					"type": "list",
 					"columns": 2,
@@ -1469,7 +1469,7 @@
 							"type": "item",
 							"name": "Adventure Writing & Maps",
 							"entries": [
-								"Will Hindmarch"
+								"Sarà Hindmarch"
 							]
 						},
 						{
@@ -1490,7 +1490,7 @@
 							"type": "item",
 							"name": "Adventures in the Forgotten Realms Set Leads",
 							"entries": [
-								"James Wyatt (narrative), Zach Stella (art), with contributions from Tyler Jacobson"
+								"James Wyatt (narrativa), Zach Stella (arte), con il contributo di Tyler Jacobson"
 							]
 						}
 					]

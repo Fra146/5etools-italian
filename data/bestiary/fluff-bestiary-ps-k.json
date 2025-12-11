@@ -9,9 +9,9 @@
 			"name": "Angel",
 			"source": "PSK",
 			"entries": [
-				"Angels are mysterious, detached beings seldom glimpsed by mortal eyes. They are the living incarnations of white mana, and embody its inherent tendencies toward order and harmony. Some inventors view angels in the context of the Aether Cycle as an expression of a Great Design. Given divine inspiration and an utterly perfect stage of innovation, an angel is the constructed result\u2014a living invention. Their masks, headdresses, and armor give them an almost mechanical appearance, but they are living beings with brightly colored skin almost entirely concealed beneath their armor and decorative robes. Because of their perfection, angels are believed to be immune to the final stages of the Aether Cycle, which would involve their destruction.",
-				"The people of Kaladesh do not worship angels or beseech their intervention in mortal affairs, and such prayers would go unheard anyway. The solitary angels interact with each other only in formal, nuanced rituals whose meanings are obscure. But the sight of an angel is thought to be a good omen, and in particular, it is believed to presage success with invention.",
-				"Use the statistics of a {@creature deva|MM} for an angel on Kaladesh. Some angels (such as the one shown on the {@link Angel of Invention card|https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=547813}) wield four swords with their four arms. When such an angel uses the Multiattack action, it makes four attacks rather than two. However, its weapons deal only an extra {@damage 1d10} radiant damage from its Angelic Weapons trait, so that each sword attack deals 7 ({@damage 1d6 + 4}) slashing damage plus 5 ({@damage 1d10}) radiant damage on a hit."
+				"Gli angeli sono esseri misteriosi e distaccati raramente intravisti dagli occhi mortali. Sono le incarnazioni viventi del mana bianco e incarnano le sue tendenze intrinseche verso l'ordine e l'armonia. Alcuni inventori vedono gli angeli nel contesto del Ciclo dell'Etere come espressione di un Grande Disegno. Data l'ispirazione divina e uno stadio di innovazione assolutamente perfetto, il risultato costruito è un angelo: un'invenzione vivente. Le loro maschere, copricapi e armature conferiscono loro un aspetto quasi meccanico, ma sono esseri viventi con la pelle dai colori vivaci quasi interamente nascosta sotto l'armatura e le vesti decorative. A causa della loro perfezione, si ritiene che gli angeli siano immuni alle fasi finali del Ciclo dell'Etere, che implicherebbero la loro distruzione.",
+				"La gente di Kaladesh non adora gli angeli né implora il loro intervento negli affari mortali, e tali preghiere rimarrebbero comunque inascoltate. Gli angeli solitari interagiscono tra loro solo in rituali formali e sfumati, i cui significati sono oscuri. Ma si ritiene che la vista di un angelo sia di buon auspicio e, in particolare, si ritiene che presagisca il successo con l'invenzione.",
+				"Usa le statistiche di a {@creature deva|MM} per un angelo su Kaladesh. Alcuni angeli (come quello mostrato su {@link Angel of Invention card|https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=547813}) brandiscono quattro spade con le loro quattro braccia. Quando un angelo di questo tipo utilizza l'azione Multiattacco, effettua quattro attacchi anziché due. Tuttavia, le sue armi infliggono solo un danno radiante extra {@damage 1d10} dal tratto Armi Angeliche, in modo che ogni attacco con la spada infligga 7 ({@damage 1d6 + 4}) danni taglienti più 5 ({@damage 1d10}) danni radianti in caso di colpo."
 			],
 			"images": [
 				{
@@ -36,8 +36,8 @@
 							"type": "entries",
 							"name": "Artifact Creatures",
 							"entries": [
-								"Many of the products of Kaladesh's most inventive minds are tools meant to be wielded, piloted, or otherwise employed by other people. But the crowning achievement of the artificer's art is the imitation of life itself, crafting artificial creatures with the capability to move, act, and even make decisions independently, according to a comprehensive set of instructions.",
-								"Ghirapur is full of such artifact creatures\u2014courier devices dashing through the streets of Bomat, thopters flitting from aerie to aerie, and assembly workers crafting more artifacts in busy foundries. These creatures are as diverse in their forms and appearance as they are in their purposes, but they can be broadly grouped into four categories: constructs, servos, thopters, and lifecraft creatures."
+								"Molti dei prodotti delle menti più creative di Kaladesh sono strumenti pensati per essere branditi, pilotati o utilizzati in altro modo da altre persone. Ma il coronamento dell'arte dell'artigiano è l'imitazione della vita stessa, creando creature artificiali con la capacità di muoversi, agire e persino prendere decisioni in modo indipendente, secondo una serie completa di istruzioni.",
+								"Ghirapur è piena di creature artefatto di questo tipo: dispositivi di corriere che sfrecciano per le strade di Bomat, totteri che svolazzano da un nido all'altro e addetti all'assemblaggio che creano altri artefatti in fonderie affollate. Queste creature sono tanto diverse nelle loro forme e nell'aspetto quanto lo sono nei loro scopi, ma possono essere raggruppate in quattro categorie: costrutti, servocomandi, totteri e creature viventi."
 							]
 						}
 					]
@@ -56,10 +56,10 @@
 						"items": {
 							"type": "entries",
 							"entries": [
-								"The term \"construct\" encompasses a tremendous variety of artifact creatures. Some are automatons designed for battle\u2014most often to fight each other in arenas, but also in real combat. Many of these battle constructs specialize in defense, sometimes carrying shields to protect their creators, or simply escorting their charges like a watchdog.",
-								"Many constructs are intended for use in foundries and workshops, assisting inventors or performing repetitive tasks. Such a construct might find and deliver a specific tool its inventor requests, or perform routine maintenance in parts of a foundry that are difficult or dangerous to reach.",
-								"Other constructs have been designed to carry messages or packages, to load and unload goods from barges and airships, to trawl the sewers for salvageable materials, and even\u2014during the height of the Aether Revolt\u2014to scan crowds of people for known renegades and fugitives, recognizing their facial features.",
-								"Almost any creature in the {@book Monster Manual|MM} with the construct type could be used as a construct on Kaladesh, including {@creature animated armor}, {@creature helmed horror|MM|helmed horrors}, {@creature shield guardian|MM|shield guardians}, and {@creature monodrone|MM|modrons}."
+								"Il termine \"costrutto\" comprende un'enorme varietà di creature artefatto. Alcuni sono automi progettati per la battaglia, il più delle volte per combattersi tra loro nelle arene, ma anche in combattimenti reali. Molti di questi costrutti da battaglia sono specializzati nella difesa, a volte portano scudi per proteggere i loro creatori o semplicemente scortano le loro creature come cani da guardia.",
+								"Molti costrutti sono destinati all'uso in fonderie e officine, per assistere gli inventori o eseguire compiti ripetitivi. Un simile costrutto potrebbe trovare e consegnare uno strumento specifico richiesto dal suo inventore, o eseguire la manutenzione ordinaria in parti di una fonderia difficili o pericolose da raggiungere.",
+								"Altri costrutti sono stati progettati per trasportare messaggi o pacchi, per caricare e scaricare merci da chiatte e dirigibili, per setacciare le fogne alla ricerca di materiali recuperabili e persino, durante il culmine della Rivolta dell'Etere, per scansionare folle di persone alla ricerca di rinnegati e fuggitivi conosciuti, riconoscendo i loro lineamenti facciali.",
+								"Quasi tutte le creature in {@book Monster Manual|MM} con il tipo costrutto potrebbero essere usate come costrutto su Kaladesh, inclusi {@creature animated armor}, {@creature helmed horror|MM|helmed horrors}, {@creature shield guardian|MM|shield guardians} e {@creature monodrone|MM|modrons}."
 							]
 						}
 					}
@@ -105,10 +105,10 @@
 			"name": "Demon",
 			"source": "PSK",
 			"entries": [
-				"Demons are artificial creatures, carefully constructed and imbued with aether according to a pattern called the Dark Schematic. Unknown artificers of the ancient past devised this blueprint\u2014perhaps in an attempt to imitate the angels, or possibly to replicate native demons that have since been hunted to extinction. Just as angels embody white mana and the construction phase of the Aether Cycle, demons are ravenous incarnations of black mana that feast on aether. They raid night markets, pillage airships, and break into refinement plants seeking aether to slake their thirst, causing as much destruction as possible in the process. They can thus be imagined as an embodiment of the reclamation stage of the Aether Cycle.",
-				"Artificers execute the Dark Schematic only in great desperation, often in the course of seeking power for themselves or revenge against their enemies. The destructive might of demons is hard to control, though, and these creatures have no particular regard for or gratitude toward their creators. As often as not, even an inventor who performs the steps necessary to create a demon with the utmost care suffers the same dismal fate as all its other victims.",
-				"Demons resemble angels on a superficial level, wearing ornate masks and headdresses, and often armored. The aether a demon consumes marks its skin with whorls of fiery red, deep purple, or searing yellow.",
-				"The statistics of an {@creature erinyes|MM} work well for demons on Kaladesh, but their weapons deal extra necrotic damage rather than extra poison damage."
+				"I demoni sono creature artificiali, costruite con cura e imbevute di etere secondo uno schema chiamato Schema Oscuro. Ignoti artefici dell'antico passato hanno ideato questo progetto, forse nel tentativo di imitare gli angeli o forse di replicare i demoni nativi che da allora sono stati cacciati fino all'estinzione. Proprio come gli angeli incarnano il mana bianco e la fase di costruzione del Ciclo dell'etere, i demoni sono voraci incarnazioni del mana nero che si nutrono di etere. Assaltano i mercati notturni, saccheggiano i dirigibili e irrompono negli impianti di raffinazione alla ricerca di etere per placare la loro sete, causando quanta più distruzione possibile nel processo. Possono quindi essere immaginati come l'incarnazione della fase di recupero del Ciclo dell'Etere.",
+				"Gli Artefici eseguono il Progetto Oscuro solo in grande disperazione, spesso nel tentativo di ottenere potere o vendetta contro i propri nemici. La potenza distruttiva dei demoni, però, è difficile da controllare, e queste creature non hanno particolare riguardo o gratitudine verso i loro creatori. Molto spesso, anche un inventore che esegue i passaggi necessari per creare un demone con la massima cura subisce lo stesso triste destino di tutte le altre vittime.",
+				"I demoni assomigliano agli angeli a livello superficiale, indossano maschere e copricapi decorati e spesso armati. L'etere che un demone consuma segna la sua pelle con spirali di colore rosso fuoco, viola intenso o giallo bruciante.",
+				"Le statistiche di un {@creature erinyes|MM} funzionano bene per i demoni di Kaladesh, ma le loro armi infliggono danni necrotici extra anziché danni da veleno extra."
 			],
 			"images": [
 				{
@@ -126,10 +126,10 @@
 			"name": "Dragon",
 			"source": "PSK",
 			"entries": [
-				"Dragons are the apex predators of the skies. They are usually found in rural areas, avoiding the crowds of air ships and thopters found above the cities of Kaladesh. Their favorite prey are the sky whales that drift through the aethersphere, but they also hunt leviathans, wurms, hydras, drakes, giants\u2014and airships.",
-				"Dragons typically hunt by perching on a promontory or hilltop, remaining perfectly still as they wait for prey to come into view. With a single snap of its powerful wings, a dragon can launch itself into the air with lightning speed, hurtling toward its target like a deadly arrow.",
-				"Dragons resemble a cross between a lizard and a tiger, with powerful feline bodies covered in striped fur, reptilian heads crowned with long horns, and enormous leathery wings that propel them through the sky at tremendous speed. Their chests are adorned with elaborate patterns resembling fine filigree.",
-				"The {@creature adult red dragon|MM|red dragon} statistics work well for the dragons of Kaladesh, though dragons rarely reach ancient age on that plane. They can spew great blasts of flame, but a dragon's preferred method of assault is to hold flame in its mouth as it attacks. This counts as a use of the dragon's breath weapon, but the dragon makes a special bite attack. On a hit, the bite attack deals its normal piercing damage plus the fire damage from the dragon's breath weapon, with no saving throw."
+				"I draghi sono i principali predatori dei cieli. Di solito si trovano nelle aree rurali, evitando le folle di aeronavi e totteri che si trovano sopra le città di Kaladesh. Le loro prede preferite sono le balene del cielo che vagano nell'eteresfera, ma cacciano anche leviatani, wurm, idre, draghi, giganti e aeronavi.",
+				"I draghi solitamente cacciano appollaiandosi su un promontorio o sulla cima di una collina, rimanendo perfettamente immobili mentre aspettano che la preda venga alla vista. Con un solo schiocco delle sue potenti ali, un drago può lanciarsi in aria alla velocità della luce, scagliandosi verso il suo bersaglio come una freccia mortale.",
+				"I draghi assomigliano a un incrocio tra una lucertola e una tigre, con potenti corpi felini ricoperti di pelliccia a strisce, teste di rettili coronate da lunghe corna ed enormi ali coriacee che li spingono attraverso il cielo a una velocità incredibile. I loro petti sono decorati con motivi elaborati che ricordano la filigrana fine.",
+				"Le statistiche {@creature adult red dragon|MM|red dragon} funzionano bene per i draghi di Kaladesh, anche se raramente i draghi raggiungono l'età antica su quel piano. Possono emettere grandi esplosioni di fiamme, ma il metodo di attacco preferito da un drago è tenere la fiamma in bocca mentre attacca. Questo conta come l'uso dell'arma a soffio del drago, ma il drago effettua uno speciale attacco con il morso. In caso di colpo, l'attacco con il morso infligge i normali danni perforanti più i danni da fuoco dell'arma a soffio del drago, senza tiro salvezza."
 			],
 			"images": [
 				{
@@ -155,9 +155,9 @@
 			"name": "Drake (Small)",
 			"source": "PSK",
 			"entries": [
-				"Drakes are skittish, opportunistic predators that hunt the skies of Kaladesh in units called rushes, made up of as many as a dozen drakes. Though they prey mostly on birds, they can also be seen clinging to the hides of leviathans and whales, picking off winged leeches and other parasites and scavengers that attach themselves to the huge sky beasts. Occasionally, a rush of drakes will descend on a herd of mountain goats or other game found at high elevations.",
-				"Drakes have reptilian bodies and large, leathery wings. They use the sharp claws on their two legs to cling to rocky crags, whales, or leviathans, as well as to grasp and tear at larger prey. Drakes are highly territorial, and have been known to attack airships from time to time. A drake is intelligent enough to recognize specific airships that have killed other members of its rush, and drake harassment often forces such ships to find new routes to avoid a rush's territory.",
-				"A {@creature pteranodon|MM} can represent a smaller drake, while a larger one is more like a {@creature giant eagle|MM}."
+				"I draghi sono predatori ombrosi e opportunisti che cacciano nei cieli di Kaladesh in unità chiamate giunchi, composte da una dozzina di draghi. Anche se predano principalmente uccelli, possono anche essere visti aggrappati alle pelli di leviatani e balene, mentre raccolgono sanguisughe alate e altri parassiti e spazzini che si attaccano alle enormi bestie del cielo. Di tanto in tanto, uno stormo di draghi si abbatte su un branco di capre di montagna o su altra selvaggina trovata ad alta quota.",
+				"I draghi hanno corpi da rettili e grandi ali coriacee. Usano gli artigli affilati sulle zampe per aggrapparsi a dirupi rocciosi, balene o leviatani, nonché per afferrare e dilaniare prede più grandi. I Drake sono altamente territoriali e sono noti per attaccare di tanto in tanto i dirigibili. Un drago è abbastanza intelligente da riconoscere specifiche aeronavi che hanno ucciso altri membri della sua corsa, e le molestie da parte dei draghi spesso costringono tali navi a trovare nuove rotte per evitare il territorio della corsa.",
+				"Un {@creature pteranodon|MM} può rappresentare un drago più piccolo, mentre uno più grande è più simile a un {@creature giant eagle|MM}."
 			],
 			"images": [
 				{
@@ -175,10 +175,10 @@
 			"name": "Giant",
 			"source": "PSK",
 			"entries": [
-				"Standing twenty to thirty feet tall, giants are towering bipedal creatures that follow the flow of aether on regular migratory routes. Once they start moving, they build both momentum and a single-mindedness that makes them nearly impossible to stop. Anything in their path, whether it's a building or a force of soldiers, is crushed without thought.",
-				"Giants eat whatever they happen across in the course of their migrations, which includes many other creatures drawn to the aether flow. They are beings of pure aggressive instinct, but without a hint of malice. In all likelihood, giants aren't intelligent enough to wish harm on anyone or anything. Still, the combination of their regular migrations and their sheer destructive power makes these creatures a menace.",
-				"Any structure built along one of their migratory paths is sure to be destroyed unless special accommodations are made. The zone of Giant's Walk in Ghirapur was designed by the city's engineers and edificers to include such accommodations, including rotating platforms, shifting bridges, and adjustable canal locks that provide the giants a clear and easy pathway during their biannual migration through the city.",
-				"The {@creature stone giant|MM} statistics in the Monster Manual work well for the giants of Kaladesh."
+				"Alti da sei a nove metri, i giganti sono imponenti creature bipedi che seguono il flusso dell'etere lungo le rotte migratorie regolari. Una volta che iniziano a muoversi, acquisiscono slancio e una determinazione che li rende quasi impossibili da fermare. Qualunque cosa sul loro cammino, che si tratti di un edificio o di una forza di soldati, viene schiacciata senza pensarci.",
+				"I giganti mangiano qualunque cosa incontrino nel corso delle loro migrazioni, incluse molte altre creature attratte dal flusso dell'etere. Sono esseri di puro istinto aggressivo, ma senza un accenno di malizia. Con ogni probabilità, i giganti non sono abbastanza intelligenti da augurare del male a qualcuno o a qualcosa. Tuttavia, la combinazione delle loro migrazioni regolari e del loro puro potere distruttivo rende queste creature una minaccia.",
+				"Qualsiasi struttura costruita lungo uno dei loro percorsi migratori verrà sicuramente distrutta a meno che non vengano adottate soluzioni speciali. La zona della Passeggiata dei Giganti a Ghirapur è stata progettata dagli ingegneri e dagli edili della città per includere tali sistemazioni, tra cui piattaforme rotanti, ponti mobili e chiuse di canali regolabili che forniscono ai giganti un percorso chiaro e facile durante la loro migrazione semestrale attraverso la città.",
+				"Le statistiche {@creature stone giant|MM} nel Manuale dei Mostri funzionano bene per i giganti di Kaladesh."
 			],
 			"images": [
 				{
@@ -196,8 +196,8 @@
 			"name": "Gremlin",
 			"source": "PSK",
 			"entries": [
-				"Gremlins are tenacious scavengers with an insatiable appetite for aether. They are drawn to places with abundant supplies of aether, including laboratories and workshops, where they can destroy months of careful work in a matter of hours. A small infestation of gremlins can easily end an inventor's career\u2014and in sufficient numbers, these creatures could obliterate the aether infrastructure of a city like Ghirapur. Although the Consulate has extensive programs to prevent and control gremlin infestations, it often seems as though the city of wonders is just one gremlin away from a large-scale blackout and complete shutdown.",
-				"Gremlins are small, hairless creatures with six legs and long snouts. Each leg is tipped with hard, dense claws that are perfect for slicing and shredding through rock and wood in natural environments\u2014as well as metal and machinery in more urban areas. Gremlins can also use their claws to climb, to widen holes and tunnels, and to pull themselves through cramped spaces."
+				"I Gremlin sono tenaci spazzini con un appetito insaziabile per l'etere. Sono attratti da luoghi con abbondanti scorte di etere, inclusi laboratori e officine, dove possono distruggere mesi di attento lavoro in poche ore. Una piccola infestazione di gremlin può facilmente porre fine alla carriera di un inventore e, se in numero sufficiente, queste creature potrebbero annientare l'infrastruttura eterica di una città come Ghirapur. Sebbene il Consolato abbia programmi estesi per prevenire e controllare le infestazioni di gremlin, spesso sembra che la Città delle Meraviglie sia solo a un gremlin di distanza da un blackout su larga scala e dalla chiusura completa.",
+				"I gremlin sono piccole creature glabre con sei zampe e muso lungo. Ogni gamba è dotata di artigli duri e densi, perfetti per tagliare e sminuzzare la roccia e il legno in ambienti naturali, così come il metallo e i macchinari nelle aree più urbane. I gremlins possono anche usare i loro artigli per arrampicarsi, per allargare buchi e tunnel e per trascinarsi attraverso spazi angusti."
 			],
 			"images": [
 				{
@@ -223,8 +223,8 @@
 			"name": "Hellion (Large)",
 			"source": "PSK",
 			"entries": [
-				"Hellions appear similar to wurms, though the two creatures are unrelated. A hellion has a long, segmented body like that of a centipede, with innumerable short legs that propel it above or below ground. Its huge, toothy maw is surrounded by anywhere from six to twelve long appendages resembling clawed fingers, which it uses to grasp and pull prey to its mouth. Hellions are found in mountainous areas, where they burst up from the rocky ground to ambush their prey.",
-				"The {@creature remorhaz} statistics in the {@book Monster Manual|MM} work well for hellions of different sizes."
+				"Gli Hellions appaiono simili ai wurm, sebbene le due creature non siano imparentate. Un hellion ha un corpo lungo e segmentato come quello di un millepiedi, con innumerevoli zampe corte che lo spingono sopra o sotto terra. Le sue enormi fauci dentate sono circondate da sei a dodici lunghe appendici simili a dita artigliate, che usa per afferrare e attirare la preda alla bocca. Gli Hellions si trovano nelle zone montuose, dove emergono dal terreno roccioso per tendere un'imboscata alla loro preda.",
+				"Le statistiche {@creature remorhaz} in {@book Monster Manual|MM} funzionano bene per infernali di diverse dimensioni."
 			],
 			"images": [
 				{
@@ -242,9 +242,9 @@
 			"name": "Hydra",
 			"source": "PSK",
 			"entries": [
-				"Hydras are giant lizards resembling iguanas, with multiple heads set atop long, snakelike necks. Aether traces whorling patterns through their scales, shapes the crests running down their necks and tails, and glows blue within the skin under their chins. Most hydras have five or six heads, but small hydras with as few as three heads\u2014as well as enormous specimens with eight or more\u2014have been seen in the deep forests far from Ghirapur.",
-				"Hydras are fierce predators, favoring prey that has absorbed large quantities of aether from the environment. This taste for aether also leads them to devour aether-powered machines whenever they encounter such devices, from thopters to automatons. In the remote wilderness near Peema where hydras are plentiful, such altercations are rarely an issue. But in the rare event of a hydra coming too close to civilization\u2014or even wandering into one of Ghirapur's greenbelts\u2014they can cause widespread destruction in their hunt for aether.",
-				"Use the {@creature hydra} statistics in the {@book Monster Manual|MM}."
+				"Le idre sono lucertole giganti che ricordano le iguane, con teste multiple poste su lunghi colli simili a serpenti. L'etere traccia motivi a spirale attraverso le loro scaglie, modella le creste che scendono lungo il collo e la coda e brilla di blu nella pelle sotto il mento. La maggior parte delle idre ha cinque o sei teste, ma nelle profonde foreste lontane da Ghirapur sono state avvistate piccole idre con anche solo tre teste, così come esemplari enormi con otto o più.",
+				"Le idre sono feroci predatori, prediligono le prede che hanno assorbito grandi quantità di etere dall'ambiente. Questo gusto per l'etere li porta anche a divorare macchine alimentate dall'etere ogni volta che incontrano tali dispositivi, dai totteri agli automi. Nelle remote terre selvagge vicino a Peema, dove abbondano le idre, tali scontri sono raramente un problema. Ma nel raro caso in cui un'idra si avvicini troppo alla civiltà, o addirittura vaghi in una delle cinture verdi di Ghirapur, può causare una distruzione diffusa nella sua caccia all'etere.",
+				"Utilizza le statistiche {@creature hydra} in {@book Monster Manual|MM}."
 			],
 			"images": [
 				{
@@ -262,9 +262,9 @@
 			"name": "Lifecraft Elephant",
 			"source": "PSK",
 			"entries": [
-				"Many inventors\u2014particularly elves, but members of the other races as well\u2014view nature as the greatest artificer and strive to imitate it as closely as possible. The Greenwheel Lifecrafters are an inventor society dedicated to this kind of work, and they are responsible for coining the term \"lifecrafting\" to describe it. Lifecraft creatures are automatons that mimic the forms of natural animals in intricate detail. More than merely artistic endeavors, these creatures often serve practical purposes, just as domesticated animals would. A lifecraft elephant hauling a cart or carrying passengers through the streets of Ghirapur is just as effective in that work as a natural elephant, but it can't be spooked and it leaves no messy waste in its path.",
-				"The work of elf lifecrafters is particularly notable. Like most elf inventions, it incorporates living wood and foliage into its design, creating striking hybrids of plant life and animal form united as a perfect aesthetic whole.",
-				"Inventors can create lifecraft versions of virtually any creature. A lifecraft creature's type changes to construct, and it gains immunity to poison damage and to the {@condition charmed} and {@condition poisoned} conditions. Its other statistics are typically unchanged."
+				"Molti inventori, in particolare gli elfi, ma anche i membri delle altre razze, considerano la natura il più grande artefice e si sforzano di imitarla il più fedelmente possibile. I Greenwheel Lifecrafters sono una società di inventori dedita a questo tipo di lavoro e sono responsabili di aver coniato il termine \"lifecrafting\" per descriverlo. Le creature Lifecraft sono automi che imitano le forme degli animali naturali con dettagli intricati. Più che a fini puramente artistici, queste creature spesso servono a scopi pratici, proprio come farebbero gli animali domestici. Un elefante lifecraft che trasporta un carro o trasporta passeggeri per le strade di Ghirapur è altrettanto efficace in questo lavoro di un elefante naturale, ma non può essere spaventato e non lascia rifiuti disordinati sul suo cammino.",
+				"Il lavoro degli elfi lifecrafters è particolarmente notevole. Come la maggior parte delle invenzioni degli elfi, incorpora legno vivo e fogliame nel suo design, creando sorprendenti ibridi di vita vegetale e forma animale uniti in un perfetto insieme estetico.",
+				"Gli inventori possono creare versioni viventi praticamente di qualsiasi creatura. Il tipo di una creatura vitale cambia in costrutto e ottiene l'immunità ai danni da veleno e alle condizioni {@condition charmed} e {@condition poisoned}. Le sue altre statistiche sono generalmente invariate."
 			],
 			"images": [
 				{
@@ -289,8 +289,8 @@
 						"items": {
 							"type": "entries",
 							"entries": [
-								"Servos are tiny constructs that function as personal assistants. They are often seen perched on the shoulders of their inventors, acting as a fashion statement as well as a useful extra hand. Servos are small enough to be grasped in one hand, with tiny gears providing impressive motive force from a small aether supply. They rarely stray far from their inventor-masters, but they can be sent to carry messages or perform similar tasks.",
-								"A servo can serve as a familiar to a character with the {@feat Servo Crafting|PSK} feat (see \"{@book Inventing Options|PS-K|1|Inventing Options}\"), using the statistics below."
+								"I servi sono piccoli costrutti che funzionano come assistenti personali. Sono spesso visti appollaiati sulle spalle dei loro inventori, fungendo sia da dichiarazione di moda che da utile mano in più. I servi sono abbastanza piccoli da poter essere afferrati con una mano, con minuscoli ingranaggi che forniscono una forza motrice impressionante da una piccola riserva di etere. Raramente si allontanano dai loro padroni inventori, ma possono essere inviati per portare messaggi o svolgere compiti simili.",
+								"Un servo può fungere da famiglio per un personaggio con il talento {@feat Servo Crafting|PSK} (vedi \"{@book Inventing Options|PS-K|1|Inventing Options}\"), utilizzando le statistiche seguenti."
 							]
 						}
 					}
@@ -312,9 +312,9 @@
 			"name": "Sky Leviathan",
 			"source": "PSK",
 			"entries": [
-				"The aethersphere is home to its own ecosystem. Tiny organisms float in the aether currents, deriving all their energy from it and serving as food for larger creatures. Leviathans (similar in form to enormous eels) and flying whales filter these organisms out of the air as they swim through the aethersphere. The whales, as a rule, are not hostile by nature, though they can cause devastating sparks or destructive storms as they move through the aether flows. But leviathans are perpetually hungry, and feed on drakes and airships just as readily as they do on smaller creatures. Along with dragons, leviathans are the primary reason that aether-mining airships carry enormous harpoons.",
-				"A sky leviathan is similar to a {@creature purple worm|MM} in its propensity to swallow prey whole, but it lacks the worm's poison stinger and is therefore significantly less dangerous. Use the statistics presented here.",
-				"Sky whales are generally docile filter-feeders that avoid confrontations with airships and flying predators whenever possible. Use the statistics for a {@creature giant crocodile|MM}, but replace its bite attack with a flipper attack that is identical to its tail attack. A sky whale has a flying speed of 50 feet and can hover."
+				"L'eteresfera ospita il proprio ecosistema. Piccoli organismi fluttuano nelle correnti eteriche, traendone tutta la loro energia e servendo da cibo per le creature più grandi. I Leviatani (simili nella forma a enormi anguille) e le balene volanti filtrano questi organismi dall'aria mentre nuotano nell'eteresfera. Le balene, di regola, non sono ostili per natura, anche se possono provocare scintille devastanti o tempeste distruttive mentre si muovono attraverso i flussi di etere. Ma i leviatani sono perennemente affamati e si nutrono di draghi e aeronavi con la stessa facilità con cui fanno con creature più piccole. Insieme ai draghi, i leviatani sono la ragione principale per cui le aeronavi per l'estrazione dell'etere trasportano enormi arpioni.",
+				"Un leviatano del cielo è simile a un {@creature purple worm|MM} nella sua propensione a ingoiare la preda intera, ma è privo del pungiglione velenoso del verme ed è quindi significativamente meno pericoloso. Utilizza le statistiche presentate qui.",
+				"Le balene del cielo sono generalmente docili filtratori che evitano il confronto con dirigibili e predatori volanti quando possibile. Usa le statistiche per un {@creature giant crocodile|MM}, ma sostituisci il suo attacco con il morso con un attacco con la paletta identico al suo attacco con la coda. Una balena celeste ha una velocità di volo di 50 piedi e può restare librata."
 			],
 			"images": [
 				{
@@ -348,8 +348,8 @@
 						"items": {
 							"type": "entries",
 							"entries": [
-								"Thopters are small automatons that fly using some combination of whirling rotors and stretched-fabric wings. They are ubiquitous in Ghirapur and other settlements, where they carry messages like carrier pigeons, hunt gremlins like trained hawks, race each other in friendly and not-so-friendly competitions\u2014and serve as remote viewing devices for Consulate authorities and crime lords alike. Thopters range from the size of pigeons to the size of eagles, with extremely intricate gearwork usually partly visible beneath glass orbs and filigree.",
-								"Different kinds of thopters could be represented by the statistics for a {@creature bat}, {@creature blood hawk}, {@creature eagle}, {@creature hawk}, {@creature owl}, {@creature pseudodragon}, {@creature raven}, or {@creature vulture} from the {@book Monster Manual|MM}. All thopters have the construct type, immunity to poison damage, and immunity to the {@condition charmed} and {@condition poisoned} conditions."
+								"I totteri sono piccoli automi che volano utilizzando una combinazione di rotori vorticosi e ali di tessuto teso. Sono onnipresenti a Ghirapur e in altri insediamenti, dove trasportano messaggi come piccioni viaggiatori, danno la caccia ai gremlin come falchi ammaestrati, gareggiano tra loro in competizioni amichevoli e meno amichevoli e fungono da dispositivi di visione remota per le autorità del consolato e i signori del crimine. I totteri variano dalle dimensioni dei piccioni a quelle delle aquile, con ingranaggi estremamente intricati solitamente parzialmente visibili sotto sfere di vetro e filigrana.",
+								"Diversi tipi di totteri potrebbero essere rappresentati dalle statistiche per a {@creature bat}, {@creature blood hawk}, {@creature eagle}, {@creature hawk}, {@creature owl}, {@creature pseudodragon}, {@creature raven} o {@creature vulture} da {@book Monster Manual|MM}. Tutti i totteri hanno il tipo costrutto, l'immunità ai danni da veleno e l'immunità alle condizioni {@condition charmed} e {@condition poisoned}."
 							]
 						}
 					}
@@ -436,9 +436,9 @@
 			"name": "Wurm",
 			"source": "PSK",
 			"entries": [
-				"Wurms are enormous, legless creatures that burrow under the forests, mountains, and plains of Kaladesh, and which can exceed fifty feet in length when fully grown. A wurm devours everything in its path\u2014flora, fauna, and inanimate objects alike\u2014with a gaping maw containing multiple rings of sharp teeth and grinding plates. Rumor has it that at least one wurm tunnels beneath the large, lush park in Ghirapur called the Cowl, accounting for at least some of the mysterious disappearances there.",
-				"Both the colored scales of a wurm's skin and the winding patterns of its tunnels mimic the flow of aether through the sky. Some elf aether-seers believe that these tunnels reveal a deep connection between wurms and aether, and they explore wurm burrows in the hope of developing a similar connection. It is said that a wurm never doubles back along its own path, so following those paths is less dangerous than it might seem. However, the existence of a single wurm in an area suggests that others might be nearby, and wurm tunnels do cross each other\u2014so not all these brave aether-seers return. Those who do are said to gain insights that they find difficult to express to others.",
-				"The {@creature purple worm|MM} in the {@book Monster Manual|MM} works well as a representation of Kaladesh's wurms."
+				"I wurm sono enormi creature senza gambe che si rintanano sotto le foreste, le montagne e le pianure di Kaladesh e che possono superare i cinquanta piedi di lunghezza quando sono completamente cresciuti. Un wurm divora tutto ciò che incontra sul suo cammino (flora, fauna e oggetti inanimati) con fauci spalancate contenenti molteplici anelli di denti affilati e piastre stridenti. Si dice che almeno un wurm abbia scavato tunnel sotto il grande e lussureggiante parco di Ghirapur chiamato Cowl, il che spiega almeno alcune delle misteriose sparizioni lì.",
+				"Sia le scaglie colorate della pelle di un wurm che i disegni tortuosi dei suoi tunnel imitano il flusso dell'etere attraverso il cielo. Alcuni elfi veggenti dell'etere credono che questi tunnel rivelino una profonda connessione tra wurm ed etere, ed esplorano le tane dei wurm nella speranza di sviluppare una connessione simile. Si dice che un wurm non torni mai indietro lungo il proprio percorso, quindi seguire quei percorsi è meno pericoloso di quanto possa sembrare. Tuttavia, l'esistenza di un singolo wurm in un'area suggerisce che altri potrebbero trovarsi nelle vicinanze, e i tunnel dei wurm si incrociano tra loro, quindi non tutti questi coraggiosi veggenti dell'etere ritornano. Si dice che coloro che lo fanno acquisiscono intuizioni che trovano difficile esprimere agli altri.",
+				"Il {@creature purple worm|MM} nel {@book Monster Manual|MM} funziona bene come rappresentazione dei wurm di Kaladesh."
 			],
 			"images": [
 				{

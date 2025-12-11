@@ -57,13 +57,13 @@
 				{
 					"name": "Magic Resistance",
 					"entries": [
-						"The curate has {@variantrule Advantage|XPHB} on saving throws against spells and other magical effects."
+						"Il curato ha {@variantrule Advantage|XPHB} sui tiri salvezza contro incantesimi e altri effetti magici."
 					]
 				},
 				{
 					"name": "Raise the Dead (1/Day)",
 					"entries": [
-						"In a ritual that takes 8 hours, the curate touches a creature that has died within the past 7 days. That creature returns to life with 1 {@variantrule Hit Points|XPHB|Hit Point}. The curate can't revive a creature that died of old age."
+						"In un rituale che dura 8 ore, il curato tocca una creatura morta negli ultimi 7 giorni. Quella creatura ritorna in vita con 1 {@variantrule Hit Points|XPHB|Hit Point}. Il curato non può resuscitare una creatura morta di vecchiaia."
 					]
 				}
 			],
@@ -71,19 +71,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The curate makes three Celestial Radiance attacks."
+						"Il curato effettua tre attacchi con Radianza Celestiale."
 					]
 				},
 				{
 					"name": "Celestial Radiance",
 					"entries": [
-						"{@atkr m,r} {@hit 7}, reach 5 ft. or range 60 ft. {@h}18 ({@damage 4d8}) Radiant damage."
+						"{@atkr m,r} {@hit 7}, portata 5 piedi o portata 60 piedi {@h}18 ({@damage 4d8}) Danno radiante."
 					]
 				},
 				{
 					"name": "Healer's Touch (2/Day)",
 					"entries": [
-						"The curate touches another creature. That creature regains 13 ({@dice 2d8 + 4}) {@variantrule Hit Points|XPHB}."
+						"Il curato tocca un'altra creatura. Quella creatura recupera 13 ({@dice 2d8 + 4}) {@variantrule Hit Points|XPHB}."
 					]
 				}
 			],
@@ -162,13 +162,13 @@
 				{
 					"name": "Amorphous",
 					"entries": [
-						"The ooze can move through a space as narrow as 1 inch without expending extra movement to do so."
+						"La melma può muoversi attraverso uno spazio stretto fino a 1 pollice senza spendere movimento aggiuntivo per farlo."
 					]
 				},
 				{
 					"name": "Corrosive Form",
 					"entries": [
-						"Whenever a creature hits the ooze with a melee attack, that creature takes 2 Acid damage."
+						"Ogni volta che una creatura colpisce la melma con un attacco in mischia, quella creatura subisce 2 danni da acido."
 					]
 				}
 			],
@@ -176,7 +176,7 @@
 				{
 					"name": "Pseudopod",
 					"entries": [
-						"{@atkr m} {@hit 3}, reach 5 ft. {@h}10 ({@damage 2d8 + 1}) Acid damage."
+						"{@atkr m} {@hit 3}, portata 5 piedi {@h}10 ({@damage 2d8 + 1}) Danni da acido."
 					]
 				}
 			],
@@ -246,19 +246,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ivlis makes three Chaos Blast attacks. She can replace one attack with a use of Sinister Command if available."
+						"Ivlis effettua tre attacchi Chaos Blast. Può sostituire un attacco con l'uso del Comando Sinistro, se disponibile."
 					]
 				},
 				{
 					"name": "Chaos Blast",
 					"entries": [
-						"{@atkr m,r} {@hit 4}, reach 5 ft. or range 60 ft. {@h}7 ({@damage 2d6}) damage. Roll {@dice 1d4} to determine the damage type: 1, Acid; 2, Cold; 3, Fire; 4, Lightning."
+						"{@atkr m,r} {@hit 4}, portata 5 piedi o portata 60 piedi {@h}7 ({@damage 2d6}) danni. Tira {@dice 1d4} per determinare il tipo di danno: 1, Acido; 2, freddo; 3, Fuoco; 4, Fulmine."
 					]
 				},
 				{
 					"name": "Sinister Command {@recharge 5}",
 					"entries": [
-						"{@actSave wis} {@dc 12}, one creature Ivlis can see within 60 feet. {@actSaveFail} The target has the {@condition Charmed|XPHB} condition until the end of its next turn. While {@condition Charmed|XPHB}, the target has the {@condition Incapacitated|XPHB} condition."
+						"{@actSave wis} {@dc 12}, una creatura che Ivlis può vedere entro 60 piedi. {@actSaveFail} Il bersaglio ha la condizione {@condition Charmed|XPHB} fino alla fine del suo turno successivo. Mentre {@condition Charmed|XPHB}, la destinazione ha la condizione {@condition Incapacitated|XPHB}."
 					]
 				}
 			],
@@ -338,7 +338,7 @@
 				{
 					"name": "Quick Disguise",
 					"entries": [
-						"Jacko spends 1 minute to disguise himself as a different Humanoid of approximately his height and weight. While Jacko is disguised, a creature that takes the Study action to inspect Jacko's appearance can make a {@dc 13} Intelligence ({@skill Investigation|XPHB}) check, discerning his disguise on a successful check."
+						"Jacko impiega 1 minuto per travestirsi da un umanoide diverso di circa la sua altezza e peso. Mentre Jacko è travestito, una creatura che esegue l'azione Studiare per ispezionare l'aspetto di Jacko può effettuare una prova di {@dc 13} Intelligenza ({@skill Investigation|XPHB}), individuando il suo travestimento se la prova ha successo."
 					]
 				}
 			],
@@ -346,13 +346,13 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Jacko makes two Poison Dagger attacks."
+						"Jacko effettua due attacchi con il Pugnale Avvelenato."
 					]
 				},
 				{
 					"name": "Poison Dagger",
 					"entries": [
-						"{@atkr m,r} {@hit 5}, reach 5 ft. or range 20/60 ft. {@h}5 ({@damage 1d4 + 3}) Piercing damage plus 3 ({@damage 1d6}) Poison damage."
+						"{@atkr m,r} {@hit 5}, portata 5 piedi o portata 20/60 piedi. {@h}5 ({@damage 1d4 + 3}) Danni perforanti più 3 ({@damage 1d6}) Danni da veleno."
 					]
 				}
 			],
@@ -360,7 +360,7 @@
 				{
 					"name": "Cunning Action",
 					"entries": [
-						"Jacko takes the Dash, Disengage, or Hide action."
+						"Jacko effettua l'azione Scattare, Disingaggiarsi o Nascondersi."
 					]
 				}
 			],
@@ -430,13 +430,13 @@
 				{
 					"name": "Amphibious",
 					"entries": [
-						"The kuo-toa can breathe air and water."
+						"Il kuo-toa può respirare aria e acqua."
 					]
 				},
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the kuo-toa has {@variantrule Disadvantage|XPHB} on ability checks and attack rolls."
+						"Mentre è alla luce del sole, il kuo-toa ha {@variantrule Disadvantage|XPHB} sulle prove di abilità e sui tiri per colpire."
 					]
 				}
 			],
@@ -444,7 +444,7 @@
 				{
 					"name": "Brine Slicer",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}9 ({@damage 2d6 + 2}) Slashing damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}9 ({@damage 2d6 + 2}) Danno tagliente."
 					]
 				}
 			],
@@ -452,7 +452,7 @@
 				{
 					"name": "Slippery",
 					"entries": [
-						"The kuo-toa takes the Disengage action."
+						"Il kuo-toa effettua l'azione Disingaggio."
 					]
 				}
 			],
@@ -522,7 +522,7 @@
 				{
 					"name": "Hold Breath",
 					"entries": [
-						"The lizardfolk can hold its breath for 15 minutes."
+						"I lucertoloidi possono trattenere il respiro per 15 minuti."
 					]
 				}
 			],
@@ -530,25 +530,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The lizardfolk makes one Bite attack and one Bone Pike attack."
+						"I lucertoloidi effettuano un attacco con il morso e un attacco con la picca d'ossa."
 					]
 				},
 				{
 					"name": "Bite",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}5 ({@damage 1d6 + 2}) Piercing damage plus 3 ({@damage 1d6}) Poison damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi. {@h}5 ({@damage 1d6 + 2}) Danni perforanti più 3 ({@damage 1d6}) Danni da veleno."
 					]
 				},
 				{
 					"name": "Bone Pike",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 10 ft. {@h}7 ({@damage 1d10 + 2}) Piercing damage."
+						"{@atkr m} {@hit 4}, portata 10 piedi {@h}7 ({@damage 1d10 + 2}) Danno perforante."
 					]
 				},
 				{
 					"name": "Poison Spit",
 					"entries": [
-						"{@atkr r} {@hit 4}, range 60 ft. {@h}12 ({@damage 3d6 + 2}) Poison damage."
+						"{@atkr r} {@hit 4}, portata 60 piedi. {@h}12 ({@damage 3d6 + 2}) Danno da veleno."
 					]
 				}
 			],
@@ -627,19 +627,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Narthus makes two attacks using Vile Mace or Fateful Bolt in any combination."
+						"Narthus effettua due attacchi usando Vile Mace o Fateful Bolt in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Vile Mace",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}5 ({@damage 1d6 + 2}) Bludgeoning damage plus 3 ({@damage 1d6}) Necrotic damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}5 ({@damage 1d6 + 2}) Danno contundente più 3 ({@damage 1d6}) Danno necrotico."
 					]
 				},
 				{
 					"name": "Fateful Bolt",
 					"entries": [
-						"{@atkr r} {@hit 4}, range 120 ft. {@h}8 ({@damage 1d12 + 2}) Necrotic damage, and the next attack roll made against the target before the end of Narthus's next turn has {@variantrule Advantage|XPHB}."
+						"{@atkr r} {@hit 4}, portata 120 piedi {@h}8 ({@damage 1d12 + 2}) Danno necrotico e il successivo tiro per colpire effettuato contro il bersaglio prima della fine del turno successivo di Narthus ha {@variantrule Advantage|XPHB}."
 					]
 				}
 			],
@@ -715,13 +715,13 @@
 				{
 					"name": "Rapier",
 					"entries": [
-						"{@atkr m} {@hit 5}, reach 5 ft. {@h}7 ({@damage 1d8 + 3}) Piercing damage."
+						"{@atkr m} {@hit 5}, portata 5 piedi {@h}7 ({@damage 1d8 + 3}) Danno perforante."
 					]
 				},
 				{
 					"name": "Light Crossbow",
 					"entries": [
-						"{@atkr r} {@hit 5}, range 80/320 ft. {@h}7 ({@damage 1d8 + 3}) Piercing damage."
+						"{@atkr r} {@hit 5}, portata 80/320 piedi. {@h}7 ({@damage 1d8 + 3}) Danno perforante."
 					]
 				}
 			],
@@ -729,7 +729,7 @@
 				{
 					"name": "Parry",
 					"entries": [
-						"{@actTrigger} Pral is hit with a melee attack roll while holding a weapon. {@actResponse} Pral adds 2 to his AC against that attack, potentially causing the attack to miss."
+						"{@actTrigger} Pral viene colpito da un tiro per colpire in mischia mentre impugna un'arma. {@actResponse} Pral aggiunge 2 alla sua CA contro quell'attacco, facendo potenzialmente fallire l'attacco."
 					]
 				}
 			],
@@ -795,25 +795,25 @@
 				{
 					"name": "Needle Sword",
 					"entries": [
-						"{@atkr m} {@hit 6}, reach 5 ft. {@h}6 ({@damage 1d4 + 4}) Piercing damage."
+						"{@atkr m} {@hit 6}, portata 5 piedi {@h}6 ({@damage 1d4 + 4}) Danno perforante."
 					]
 				},
 				{
 					"name": "Enchanting Bow",
 					"entries": [
-						"{@atkr r} {@hit 6}, range 40/160 ft. {@h}1 Piercing damage, and the target has the {@condition Charmed|XPHB} condition until the start of the sprite's next turn."
+						"{@atkr r} {@hit 6}, portata 40/160 piedi {@h}1 danno perforante e il bersaglio ha la condizione {@condition Charmed|XPHB} fino all'inizio del turno successivo dello sprite."
 					]
 				},
 				{
 					"name": "Heart Sight",
 					"entries": [
-						"{@actSave cha} {@dc 10}, one creature within 5 feet the sprite can see (Celestials, Fiends, Undead automatically fail the save). {@actSaveFail} The sprite knows the target's emotions."
+						"{@actSave cha} {@dc 10}, una creatura entro 5 piedi che lo sprite può vedere (Celestiali, Demoni e Non morti falliscono automaticamente il salvataggio). {@actSaveFail} Lo sprite conosce le emozioni del bersaglio."
 					]
 				},
 				{
 					"name": "Invisibility",
 					"entries": [
-						"The sprite has the {@condition Invisible|XPHB} condition for 1 minute. This effect ends early immediately after the sprite makes an attack roll or deals damage, or if the sprite has the {@condition Incapacitated|XPHB} condition."
+						"Lo sprite ha la condizione {@condition Invisible|XPHB} per 1 minuto. Questo effetto termina subito dopo che lo sprite effettua un tiro per colpire o infligge danni, o se lo sprite ha la condizione {@condition Incapacitated|XPHB}."
 					]
 				}
 			],
@@ -895,19 +895,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Vinx makes two attacks, using Shortsword and Sling in any combination."
+						"Vinx effettua due attacchi, usando la spada corta e la fionda in qualsiasi combinazione."
 					]
 				},
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}5 ({@damage 1d6 + 2}) Piercing damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}5 ({@damage 1d6 + 2}) Danno perforante."
 					]
 				},
 				{
 					"name": "Sling",
 					"entries": [
-						"{@atkr r} {@hit 4}, range 30/120 ft. {@h}4 ({@damage 1d4 + 2}) Bludgeoning damage."
+						"{@atkr r} {@hit 4}, portata 30/120 piedi. {@h}4 ({@damage 1d4 + 2}) Danni contundenti."
 					]
 				}
 			],
@@ -991,7 +991,7 @@
 				{
 					"name": "Sunlight Sensitivity",
 					"entries": [
-						"While in sunlight, the wight has {@variantrule Disadvantage|XPHB} on ability checks and attack rolls."
+						"Mentre è alla luce del sole, lo spettro ha {@variantrule Disadvantage|XPHB} sulle prove di abilità e sui tiri per colpire."
 					]
 				}
 			],
@@ -999,25 +999,25 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Drink Life."
+						"Lo spettro effettua due attacchi, usando la Spada Necrotica o l'Arco Necrotico in qualsiasi combinazione. Può sostituire un attacco con l'uso di Drink Life."
 					]
 				},
 				{
 					"name": "Necrotic Sword",
 					"entries": [
-						"{@atkr m} {@hit 4}, reach 5 ft. {@h}6 ({@damage 1d8 + 2}) Slashing damage plus 4 ({@damage 1d8}) Necrotic damage."
+						"{@atkr m} {@hit 4}, portata 5 piedi {@h}6 ({@damage 1d8 + 2}) Danni da taglio più 4 ({@damage 1d8}) Danni necrotici."
 					]
 				},
 				{
 					"name": "Necrotic Bow",
 					"entries": [
-						"{@atkr r} {@hit 4}, range 150/600 ft. {@h}6 ({@damage 1d8 + 2}) Piercing damage plus 4 ({@damage 1d8}) Necrotic damage."
+						"{@atkr r} {@hit 4}, portata 150/600 piedi. {@h}6 ({@damage 1d8 + 2}) Danno perforante più 4 ({@damage 1d8}) Danno necrotico."
 					]
 				},
 				{
 					"name": "Drink Life {@recharge 5}",
 					"entries": [
-						"{@actSave con} {@dc 13}, one creature within 5 feet. {@actSaveFail} 6 ({@damage 1d8 + 2}) Necrotic damage, and the wight regains a number of {@variantrule Hit Points|XPHB} equal to the Necrotic damage taken."
+						"{@actSave con} {@dc 13}, una creatura entro 5 piedi. {@actSaveFail} 6 ({@damage 1d8 + 2}) Danno necrotico e il wight riacquista un numero di {@variantrule Hit Points|XPHB} pari al danno necrotico subito."
 					]
 				}
 			],

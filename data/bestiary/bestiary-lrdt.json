@@ -63,7 +63,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Alax casts one of the following spells, using Wisdom as the spellcasting ability (spell save {@dc 13}):"
+						"Alax lancia uno dei seguenti incantesimi, usando Saggezza come abilità da lanciatore (salvezza incantesimo {@dc 13}):"
 					],
 					"will": [
 						"{@spell Druidcraft}",
@@ -84,19 +84,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Alax makes two Fire Strike attacks."
+						"Alax effettua due attacchi Fire Strike."
 					]
 				},
 				{
 					"name": "Fire Strike",
 					"entries": [
-						"{@atk ms,rs} {@hit 5} to hit, reach 5 ft. or range 60 ft., one target. {@h}10 ({@damage 2d6 + 3}) fire damage."
+						"{@atk ms,rs} {@hit 5} per colpire, raggiungere 5 piedi o una portata di 60 piedi, un bersaglio. {@h}10 ({@damage 2d6 + 3}) danni da fuoco."
 					]
 				},
 				{
 					"name": "Breath Weapon (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Alax exhales a 15-foot cone of fire. Each creature in that area must make a {@dc 12} Dexterity saving throw, taking 14 ({@damage 4d6}) fire damage on a failed save, or half as much damage on a successful one."
+						"Alax esala un cono di fuoco di 4,5 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza {@dc 12} e subisce 14 ({@damage 4d6}) danni da fuoco se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],
@@ -184,7 +184,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Ervan casts one of the following spells, using Charisma as the spellcasting ability (spell save {@dc 14}):"
+						"Ervan lancia uno dei seguenti incantesimi, utilizzando Carisma come abilità da lanciatore (salvezza incantesimo {@dc 14}):"
 					],
 					"will": [
 						"{@spell Light}",
@@ -208,19 +208,19 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"Ervan uses his staff to make three Arcane Blast attacks."
+						"Ervan usa il suo bastone per effettuare tre attacchi Arcane Blast."
 					]
 				},
 				{
 					"name": "Arcane Blast",
 					"entries": [
-						"{@atk ms,rs} {@hit 6} to hit, reach 5 ft. or range 120 ft., one target. {@h}13 ({@damage 3d6 + 3}) force damage."
+						"{@atk ms,rs} {@hit 6} per colpire, raggiungere 5 piedi o una portata di 120 piedi, un bersaglio. {@h}13 ({@damage 3d6 + 3}) danni fisici."
 					]
 				},
 				{
 					"name": "Acid Rain (Recharges after a Short or Long Rest)",
 					"entries": [
-						"Acid falls in a 10-foot-radius, 20-foot-high cylinder centered on a point Ervan can see within 120 feet of himself. Each creature in that area must make a {@dc 14} Dexterity saving throw, taking 22 ({@damage 4d10}) acid damage on a failed save, or half as much damage on a successful one."
+						"L'acido cade in un cilindro del raggio di 3 metri e alto 20 piedi centrato su un punto che Ervan può vedere entro 120 piedi da se stesso. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza {@dc 14} e subisce 22 ({@damage 4d10}) danni da acido se fallisce il tiro salvezza, o la metà di quei danni se lo riesce."
 					]
 				}
 			],

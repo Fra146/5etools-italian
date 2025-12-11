@@ -8,39 +8,39 @@
 					"name": "Cleric",
 					"type": "section",
 					"entries": [
-						"Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions.",
-						"Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through the ranks of orcs arrayed against him, shouting praise to the gods with every foe's fall.",
-						"Calling down a curse upon the forces of undeath, a human lifts her holy symbol as light pours from it to drive back the zombies crowding in on her companions.",
-						"Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.",
+						"Con le braccia e gli occhi alzati verso il sole e una preghiera sulle labbra, un elfo inizia a brillare di una luce interiore che si riversa per curare i suoi compagni logorati dalla battaglia.",
+						"Cantando un canto di gloria, un nano fa oscillare la sua ascia in ampi fendenti per tagliare i ranghi degli orchi schierati contro di lui, gridando lodi agli dei ad ogni caduta del nemico.",
+						"Evocando una maledizione sulle forze della non morte, un'umana solleva il suo simbolo sacro mentre la luce si riversa da esso per respingere gli zombi che si accalcano sui suoi compagni.",
+						"I chierici sono intermediari tra il mondo mortale e i lontani piani degli dei. Per quanto vari siano gli dei che servono, i chierici si sforzano di incarnare l'opera delle loro divinità. Non un prete qualunque, un chierico è intriso di magia divina.",
 						{
 							"type": "entries",
 							"name": "Healers and Warriors",
 							"entries": [
-								"Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don't grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.",
-								"Harnessing divine magic doesn't rely on study or training. A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity's wishes.",
-								"Clerics combine the helpful magic of healing and inspiring their allies with spells that harm and hinder foes. They can provoke awe and dread, lay curses of plague or poison, and even call down flames from heaven to consume their enemies. For those evildoers who will benefit most from a mace to the head, clerics depend on their combat training to let them wade into melee with the power of the gods on their side."
+								"La magia divina, come suggerisce il nome, è il potere degli dei, che fluisce da loro nel mondo. I chierici sono canali di quel potere, manifestandolo sotto forma di effetti miracolosi. Gli dei non concedono questo potere a tutti coloro che lo cercano, ma solo a coloro scelti per soddisfare un'alta vocazione.",
+								"Sfruttare la magia divina non si basa sullo studio o sull'addestramento. Un chierico potrebbe imparare formule di preghiera e riti antichi, ma la capacità di lanciare incantesimi da chierico si basa sulla devozione e su un senso intuitivo dei desideri di una divinità.",
+								"I chierici combinano la magia utile di guarire e ispirare i propri alleati con incantesimi che danneggiano e ostacolano i nemici. Possono provocare soggezione e terrore, lanciare maledizioni di peste o veleno e persino invocare fiamme dal cielo per consumare i loro nemici. Per quei malfattori che trarranno maggior beneficio da una mazza in testa, i chierici fanno affidamento sul loro addestramento al combattimento per poter affrontare il corpo a corpo con il potere degli dei dalla loro parte."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Divine Agents",
 							"entries": [
-								"Not every acolyte or officiant at a temple or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods' will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at all. True clerics are rare in most hierarchies.",
-								"When a cleric takes up an adventuring life, it is usually because his or her god demands it. Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs. Many clerics are also expected to protect their deities' worshipers, which can mean fighting rampaging orcs, negotiating peace between warring nations, or sealing a portal that would allow a demon prince to enter the world.",
-								"Most adventuring clerics maintain some connection to established temples and orders of their faiths. A temple might ask for a cleric's aid, or a high priest might be in a position to demand it."
+								"Non tutti gli accoliti o gli officianti di un tempio o di un santuario sono dei chierici. Alcuni sacerdoti sono chiamati a una vita semplice di servizio al tempio, eseguendo la volontà dei loro dei attraverso la preghiera e il sacrificio, non con la magia e la forza delle armi. In alcune città, il sacerdozio equivale a una carica politica, vista come un trampolino di lancio verso posizioni di autorità più elevate e che non implica alcuna comunione con un dio. I veri chierici sono rari nella maggior parte delle gerarchie.",
+								"Quando un chierico intraprende una vita avventurosa, di solito è perché il suo dio lo richiede. Perseguire gli obiettivi degli dei spesso implica affrontare pericoli oltre le mura della civiltà, sconfiggere il male o cercare reliquie sacre in antiche tombe. Ci si aspetta anche che molti chierici proteggano gli adoratori delle loro divinità, il che può significare combattere orchi infuriati, negoziare la pace tra nazioni in guerra o sigillare un portale che consentirebbe a un principe demone di entrare nel mondo.",
+								"La maggior parte dei chierici avventurieri mantiene qualche legame con i templi e gli ordini della propria fede. Un tempio potrebbe chiedere l'aiuto di un chierico, oppure un sommo sacerdote potrebbe essere nella posizione di richiederlo."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Creating a Cleric",
 							"entries": [
-								"As you create a cleric, the most important question to consider is which deity to serve and what principles you want your character to embody. Appendix B includes lists of many of the gods of the multiverse. Check with your DM to learn which deities are in your campaign.",
-								"Once you've chosen a deity, consider your cleric's relationship to that god. Did you enter this service willingly? Or did the god choose you, impelling you into service with no regard for your wishes? How do the temple priests of your faith regard you: as a champion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? Or are you striving to prove yourself worthy of a great quest?",
+								"Quando crei un chierico, la domanda più importante da considerare è quale divinità servire e quali principi vuoi che il tuo personaggio incarni. L'Appendice B include elenchi di molti dei del multiverso. Consulta il tuo DM per sapere quali divinità sono presenti nella tua campagna.",
+								"Una volta scelta una divinità, considera la relazione del tuo chierico con quel dio. Sei entrato volontariamente in questo servizio? Oppure è stato Dio a sceglierti, costringendoti al servizio senza riguardo per i tuoi desideri? Come ti considerano i sacerdoti del tempio della tua fede: come un campione o un piantagrane? Quali sono i tuoi obiettivi finali? La tua divinità ha in mente un compito speciale per te? O stai cercando di dimostrarti degno di una grande ricerca?",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the {@background acolyte} background."
+										"Puoi creare rapidamente un chierico seguendo questi suggerimenti. Innanzitutto, la Saggezza dovrebbe essere il tuo punteggio di caratteristica più alto, seguito da Forza o Costituzione. In secondo luogo, scegli lo sfondo {@background acolyte}."
 									]
 								}
 							]
@@ -55,17 +55,17 @@
 						{
 							"type": "quote",
 							"entries": [
-								"To become a cleric is to become a messenger of the gods. The power the divine offers is great, but it always comes with tremendous responsibility."
+								"Diventare un chierico significa diventare un messaggero degli dei. Il potere offerto dal divino è grande, ma comporta sempre un’enorme responsabilità."
 							],
 							"by": "Riggby the patriarch"
 						},
-						"Almost all the folk in the world who revere a deity live their lives without ever being directly touched by a divine being. As such, they can never know what it feels like to be a cleric\u2014someone who is not only a devout worshiper, but who has also been invested with a measure of a deity's power.",
-						"The question has long been debated: Does a mortal become a cleric as a consequence of deep devotion to one's deity, thereby attracting the god's favor? Or is it the deity who sees the potential in a person and calls that individual into service? Ultimately, perhaps, the answer doesn't matter. However clerics come into being, the world needs clerics as much as clerics and deities need each other.",
-						"If you're playing a cleric character, the following sections offer ways to add some detail to that character's history and personality.",
+						"Quasi tutte le persone nel mondo che venerano una divinità vivono la propria vita senza essere mai toccate direttamente da un essere divino. In quanto tali, non potranno mai sapere cosa si prova ad essere un chierico, qualcuno che non è solo un devoto adoratore, ma che è stato anche investito di una certa misura del potere di una divinità.",
+						"La questione è stata a lungo dibattuta: un mortale diventa un chierico come conseguenza di una profonda devozione alla propria divinità, attirandosi così il favore del dio? Oppure è la divinità che vede il potenziale in una persona e la chiama al servizio? Alla fine, forse, la risposta non ha importanza. Comunque nascano i chierici, il mondo ha bisogno dei chierici tanto quanto i chierici e le divinità hanno bisogno gli uni degli altri.",
+						"Se interpreti un personaggio da chierico, le sezioni seguenti offrono modi per aggiungere alcuni dettagli alla storia e alla personalità di quel personaggio.",
 						{
 							"type": "quote",
 							"entries": [
-								"I don't understand the attraction of gods. Why would anyone worship anything other than me?"
+								"Non capisco l'attrazione degli dei. Perché qualcuno dovrebbe adorare qualcosa che non sia me?"
 							],
 							"by": "Xanathar"
 						},
@@ -73,8 +73,8 @@
 							"type": "entries",
 							"name": "Temple",
 							"entries": [
-								"Most clerics start their lives of service as priests in an order, then later realize that they have been blessed by their god with the qualities needed to become a cleric. To prepare for this new duty, candidates typically receive instruction from a cleric of a temple or another place of study devoted to their deity.",
-								"Some temples are cut off from the world so that their occupants can focus on devotions, while other temples open their doors to minister to and heal the masses. What is noteworthy about the temple you studied at?",
+								"La maggior parte dei chierici iniziano la loro vita di servizio come sacerdoti in un ordine, per poi rendersi conto in seguito di essere stati benedetti dal loro dio con le qualità necessarie per diventare un chierico. Per prepararsi a questo nuovo compito, i candidati generalmente ricevono istruzioni da un chierico di un tempio o da un altro luogo di studio dedicato alla loro divinità.",
+								"Alcuni templi sono isolati dal mondo in modo che i loro occupanti possano concentrarsi sulla devozione, mentre altri templi aprono le loro porte per ministrare e guarire le masse. Cosa c'è di degno di nota nel tempio in cui hai studiato?",
 								{
 									"type": "table",
 									"caption": "Temple",
@@ -94,7 +94,7 @@
 													"exact": 1
 												}
 											},
-											"Your temple is said to be the oldest surviving structure built to honor your god."
+											"Si dice che il tuo tempio sia la struttura più antica sopravvissuta costruita per onorare il tuo dio."
 										],
 										[
 											{
@@ -103,7 +103,7 @@
 													"exact": 2
 												}
 											},
-											"Acolytes of several like-minded deities all received instruction together in your temple."
+											"Gli accoliti di diverse divinità che la pensano allo stesso modo hanno ricevuto istruzioni insieme nel tuo tempio."
 										],
 										[
 											{
@@ -112,7 +112,7 @@
 													"exact": 3
 												}
 											},
-											"You come from a temple famed for the brewery it operates. Some say you smell like one of its ales."
+											"Provieni da un tempio famoso per il birrificio che gestisce. Alcuni dicono che odori come una delle sue birre."
 										],
 										[
 											{
@@ -121,7 +121,7 @@
 													"exact": 4
 												}
 											},
-											"Your temple is a fortress and a proving ground that trains warrior-priests."
+											"Il tuo tempio è una fortezza e un terreno di prova che addestra i sacerdoti guerrieri."
 										],
 										[
 											{
@@ -130,7 +130,7 @@
 													"exact": 5
 												}
 											},
-											"Your temple is a peaceful, humble place, filled with vegetable gardens and simple priests."
+											"Il tuo tempio è un luogo umile e pacifico, pieno di orti e di semplici sacerdoti."
 										],
 										[
 											{
@@ -139,7 +139,7 @@
 													"exact": 6
 												}
 											},
-											"You served in a temple in the Outer Planes."
+											"Hai servito in un tempio nei Piani Esterni."
 										]
 									]
 								},
@@ -147,7 +147,7 @@
 									"type": "entries",
 									"name": "Keepsake",
 									"entries": [
-										"Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.",
+										"Molti chierici hanno tra i loro oggetti personali oggetti che simboleggiano la loro fede, ricordano i loro voti o li aiutano in altro modo a mantenerli sui sentieri prescelti. Anche se un oggetto del genere non è intriso di potere divino, è di vitale importanza per il suo proprietario per via di ciò che rappresenta.",
 										{
 											"type": "table",
 											"caption": "Keepsake",
@@ -167,7 +167,7 @@
 															"exact": 1
 														}
 													},
-													"The finger bone of a saint"
+													"L'osso del dito di un santo"
 												],
 												[
 													{
@@ -176,7 +176,7 @@
 															"exact": 2
 														}
 													},
-													"A metal-bound book that tells how to hunt and destroy infernal creatures"
+													"Un libro rilegato in metallo che spiega come cacciare e distruggere le creature infernali"
 												],
 												[
 													{
@@ -185,7 +185,7 @@
 															"exact": 3
 														}
 													},
-													"A pig's whistle that reminds you of your humble and beloved mentor"
+													"Un fischietto da maiale che ti ricorda il tuo umile e amato mentore"
 												],
 												[
 													{
@@ -194,7 +194,7 @@
 															"exact": 4
 														}
 													},
-													"A braid of hair woven from the tail of a unicorn"
+													"Una treccia di capelli intrecciata dalla coda di un unicorno"
 												],
 												[
 													{
@@ -203,7 +203,7 @@
 															"exact": 5
 														}
 													},
-													"A scroll that describes how best to rid the world of necromancers"
+													"Una pergamena che descrive il modo migliore per liberare il mondo dai negromanti"
 												],
 												[
 													{
@@ -212,7 +212,7 @@
 															"exact": 6
 														}
 													},
-													"A runestone said to be blessed by your god"
+													"Una pietra runica che si dice sia benedetta dal tuo dio"
 												]
 											]
 										}
@@ -222,8 +222,8 @@
 									"type": "entries",
 									"name": "Secret",
 									"entries": [
-										"No mortal soul is entirely free of second thoughts or doubt. Even a cleric must grapple with dark desires or the forbidden attraction of turning against the teachings of one's deity.",
-										"If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.",
+										"Nessuna anima mortale è completamente esente da ripensamenti o dubbi. Anche un chierico deve confrontarsi con desideri oscuri o con l'attrazione proibita di opporsi agli insegnamenti della propria divinità.",
+										"Se non hai ancora considerato questo aspetto del tuo personaggio, consulta le voci della tabella per alcune possibilità o usale come ispirazione. Il tuo segreto profondo e oscuro potrebbe riguardare qualcosa che hai fatto (o stai facendo), oppure potrebbe essere radicato nel modo in cui ti senti riguardo al mondo e al tuo ruolo in esso.",
 										{
 											"type": "table",
 											"caption": "Secret",
@@ -243,7 +243,7 @@
 															"exact": 1
 														}
 													},
-													"An imp offers you counsel. You try to ignore the creature, but sometimes its advice is helpful."
+													"Un diavoletto ti offre consigli. Cerchi di ignorare la creatura, ma a volte i suoi consigli sono utili."
 												],
 												[
 													{
@@ -252,7 +252,7 @@
 															"exact": 2
 														}
 													},
-													"You believe that, in the final analysis, the gods are nothing more than ultrapowerful mortal creatures."
+													"Credi che, in ultima analisi, gli dei non siano altro che creature mortali ultrapotenti."
 												],
 												[
 													{
@@ -261,7 +261,7 @@
 															"exact": 3
 														}
 													},
-													"You acknowledge the power of the gods, but you think that most events are dictated by pure chance."
+													"Riconosci il potere degli dei, ma pensi che la maggior parte degli eventi siano dettati dal puro caso."
 												],
 												[
 													{
@@ -270,7 +270,7 @@
 															"exact": 4
 														}
 													},
-													"Even though you can work divine magic, you have never truly felt the presence of a divine essence within yourself."
+													"Anche se puoi operare la magia divina, non hai mai veramente sentito la presenza di un'essenza divina dentro di te."
 												],
 												[
 													{
@@ -279,7 +279,7 @@
 															"exact": 5
 														}
 													},
-													"You are plagued by nightmares that you believe are sent by your god as punishment for some unknown transgression."
+													"Sei tormentato da incubi che ritieni siano stati inviati dal tuo dio come punizione per qualche trasgressione sconosciuta."
 												],
 												[
 													{
@@ -288,7 +288,7 @@
 															"exact": 6
 														}
 													},
-													"In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness."
+													"Nei momenti di disperazione, senti di non essere altro che un giocattolo degli dei e provi risentimento per la loro lontananza."
 												]
 											]
 										}
@@ -298,10 +298,10 @@
 									"type": "inset",
 									"name": "Serving a Pantheon, Philosophy, or Force",
 									"entries": [
-										"The typical cleric is an ordained servant of a particular god and chooses a Divine Domain associated with that deity. The cleric's magic flows from the god or the god's sacred realm, and often the cleric bears a holy symbol that represents that divinity.",
-										"Some clerics, especially in a world like Eberron, serve a whole pantheon, rather than a single deity. In certain campaigns, a cleric might instead serve a cosmic force, such as life or death, or a philosophy or concept, such as love, peace, or one of the nine alignments. Chapter 1 of the Dungeon Master's Guide explores options like these, in the section \"Gods of Your World.\"",
-										"Talk with your DM about the divine options available in your campaign, whether they're gods, pantheons, philosophies, or cosmic forces. Whatever being or thing your cleric ends up serving, choose a Divine Domain that is appropriate for it, and if it doesn't have a holy symbol, work with your DM to design one.",
-										"The cleric's class features often refer to your deity. If you are devoted to a pantheon, cosmic force, or philosophy, your cleric features still work for you as written. Think of the references to a god as references to the divine thing you serve that gives you your magic."
+										"Il tipico chierico è un servitore ordinato di un particolare dio e sceglie un Dominio Divino associato a quella divinità. La magia del chierico fluisce dal dio o dal sacro reame del dio, e spesso il chierico porta con sé un simbolo sacro che rappresenta quella divinità.",
+										"Alcuni chierici, specialmente in un mondo come Eberron, servono un intero pantheon, piuttosto che una singola divinità. In alcune campagne, un chierico potrebbe invece servire una forza cosmica, come la vita o la morte, o una filosofia o un concetto, come l'amore, la pace o uno dei nove allineamenti. Il capitolo 1 della Guida del Dungeon Master esplora opzioni come queste, nella sezione \"Dei del tuo mondo\".",
+										"Parla con il tuo DM delle opzioni divine disponibili nella tua campagna, siano esse divinità, pantheon, filosofie o forze cosmiche. Qualunque sia l'essere o la cosa che il tuo chierico finirà per servire, scegli un Dominio Divino appropriato e, se non ha un simbolo sacro, collabora con il tuo DM per progettarne uno.",
+										"I privilegi di classe del chierico spesso si riferiscono alla tua divinità. Se sei devoto a un pantheon, a una forza cosmica o a una filosofia, i tuoi tratti da chierico funzionano ancora per te come scritto. Pensa ai riferimenti a un dio come riferimenti alla cosa divina che servi e che ti dà la tua magia."
 									]
 								}
 							]
@@ -333,9 +333,9 @@
 					"source": "XPHB",
 					"page": 68,
 					"entries": [
-						"Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes\u2014where gods dwell\u2014and channel it to bolster people and battle foes.",
-						"Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn't rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.",
-						"Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can."
+						"I chierici traggono potere dai regni degli dei e lo sfruttano per compiere miracoli. Benedetto da una divinità, un pantheon o un'altra entità immortale, un Chierico può attingere alla magia divina dei Piani Esterni, dove dimorano gli dei, e incanalarla per sostenere le persone e combattere i nemici.",
+						"Poiché il loro potere è un dono divino, i chierici tipicamente si associano ai templi dedicati alla divinità o ad altra forza immortale che ha sbloccato la loro magia. Sfruttare la magia divina non richiede un addestramento specifico, tuttavia i chierici potrebbero imparare preghiere e riti che li aiutino ad attingere al potere dei Piani Esterni.",
+						"Non tutti i membri di un tempio o santuario sono Chierici. Alcuni sacerdoti sono chiamati a una vita semplice di servizio al tempio, svolgendo la loro devozione attraverso la preghiera e i rituali, non attraverso la magia. Molti mortali affermano di parlare a nome degli dei, ma pochi riescono a sfruttare il potere di quegli dei come fa un Chierico."
 					]
 				}
 			],
@@ -501,7 +501,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"I've got a minion that forges things. An ink-stained little twerp with excellent penmanship. So how do the hammers and fire help the process? Wouldn't the paper get burned? Oh, the fire must be for the wax seals!"
+						"Ho un servitore che forgia oggetti. Un piccolo idiota macchiato di inchiostro con una calligrafia eccellente. Allora in che modo i martelli e il fuoco aiutano il processo? La carta non si brucerebbe? Oh, il fuoco deve essere per i sigilli di ceralacca!"
 					],
 					"by": "Xanathar"
 				}
@@ -528,7 +528,7 @@
 				{
 					"type": "quote",
 					"entries": [
-						"I guess if you can't disintegrate them or eat them, burying dead bodies makes as much sense as anything else."
+						"Immagino che se non puoi disintegrarli o mangiarli, seppellire i cadaveri ha più senso di qualsiasi altra cosa."
 					],
 					"by": "Xanathar"
 				}

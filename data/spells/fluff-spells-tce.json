@@ -8,12 +8,12 @@
 					"type": "inset",
 					"name": "Traveling to Other Worlds",
 					"entries": [
-						"The Material Plane holds an infinite number of worlds. Some\u2014like Oerth, Toril, Krynn, and Eberron\u2014are well documented, but there are countless others. You and your friends may even have created some homemade D&D worlds yourselves!",
-						"It was not always so. Various scholars speak of a primordial state, a single reality they call the First World, which preceded the multiverse as we know it. Many of the peoples and monsters that inhabit the worlds in the Material Plane originated there. After the First World was shattered by a great cataclysm\u2014giving birth to the worlds that came in its wake\u2014the progeny of the first elves, dwarves, beholders, and other iconic creatures took root on world after world, like seeds scattered by a cosmic wind. If the musings of these great sages are true, every world is a reflection\u2014and in some cases, a distortion\u2014of the First World.",
-						"Transit between these worlds is rare but not impossible and can be accomplished in various ways. One such method is called the Great Journey, an epic voyage fraught with peril and littered with obstacles to be overcome. This journey most often occurs aboard a vessel powered by magic.",
-						"Another method is the Dream of Other Worlds; travelers fall into a deep slumber and dream themselves into a new realm. The spell {@spell dream of the blue veil|TCE} employs this method of transit.",
-						"The most direct method is the Leap to Another Realm; a spellcaster casts {@spell teleportation circle} or {@spell teleport}, aiming to appear in a known teleportation circle or some other location in another world.",
-						"Whatever method you use to reach a world, the DM determines whether you succeed and where exactly you appear if you do arrive in that realm."
+						"Il Piano Materiale contiene un numero infinito di mondi. Alcuni, come Oerth, Toril, Krynn ed Eberron, sono ben documentati, ma ce ne sono innumerevoli altri. Tu e i tuoi amici potreste anche aver creato voi stessi dei mondi di D&D fatti in casa!",
+						"Non è sempre stato così. Diversi studiosi parlano di uno stato primordiale, un'unica realtà che chiamano Primo Mondo, che ha preceduto il multiverso come lo conosciamo. Molti dei popoli e dei mostri che popolano i mondi del Piano Materiale hanno avuto origine lì. Dopo che il Primo Mondo fu distrutto da un grande cataclisma, dando vita ai mondi che seguirono la sua scia, la progenie dei primi elfi, nani, beholder e altre creature iconiche mise radici in un mondo dopo l'altro, come semi sparsi da un vento cosmico. Se le riflessioni di questi grandi saggi sono vere, ogni mondo è un riflesso – e in alcuni casi, una distorsione – del Primo Mondo.",
+						"Il transito tra questi mondi è raro ma non impossibile e può essere effettuato in vari modi. Uno di questi metodi è chiamato il Grande Viaggio, un viaggio epico pieno di pericoli e disseminato di ostacoli da superare. Questo viaggio avviene molto spesso a bordo di una nave alimentata dalla magia.",
+						"Un altro metodo è il Sogno di altri mondi; i viaggiatori cadono in un sonno profondo e sognano di entrare in un nuovo regno. L'incantesimo {@spell dream of the blue veil|TCE} utilizza questo metodo di transito.",
+						"Il metodo più diretto è il Salto verso un Altro Regno; un incantatore lancia {@spell teleportation circle} o {@spell teleport}, con l'obiettivo di apparire in un circolo di teletrasporto noto o in qualche altro luogo in un altro mondo.",
+						"Qualunque sia il metodo che usi per raggiungere un mondo, il DM determina se avrai successo e dove esattamente apparirai se arrivi in ​​quel regno."
 					]
 				}
 			]

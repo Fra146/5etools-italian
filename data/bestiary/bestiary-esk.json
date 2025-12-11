@@ -53,13 +53,13 @@
 				{
 					"name": "Helpful",
 					"entries": [
-						"The expert can take the Help action as a bonus action."
+						"L'esperto può eseguire l'azione Aiuto come azione bonus."
 					]
 				},
 				{
 					"name": "Tools",
 					"entries": [
-						"The expert has {@item thieves' tools|phb} and a musical instrument."
+						"L'esperto ha {@item thieves' tools|phb} e uno strumento musicale."
 					]
 				}
 			],
@@ -67,19 +67,19 @@
 				{
 					"name": "Shortsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Dagger",
 					"entries": [
-						"{@atk mw,rw} {@hit 4} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+						"{@atk mw,rw} {@hit 4} per colpire, raggiungere 5 piedi o una portata di 20/60 piedi, un bersaglio. {@h}4 ({@damage 1d4 + 2}) danno perforante."
 					]
 				},
 				{
 					"name": "Shortbow",
 					"entries": [
-						"{@atk rw} {@hit 4} to hit, range 80/320 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+						"{@atk rw} {@hit 4} da colpire, portata 80/320 piedi, un bersaglio. {@h}5 ({@damage 1d6 + 2}) danno perforante."
 					]
 				}
 			],
@@ -155,7 +155,7 @@
 					"name": "Spellcasting (Healer)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The spellcaster's spellcasting ability is Wisdom (spell save {@dc 12}, {@hit 4} to hit with spell attacks). The spellcaster has following cleric spells prepared:"
+						"L'abilità da incantatore dell'incantatore è Saggezza (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). L'incantatore ha preparato i seguenti incantesimi da chierico:"
 					],
 					"spells": {
 						"0": {
@@ -177,7 +177,7 @@
 					"name": "Spellcasting (Mage)",
 					"type": "spellcasting",
 					"headerEntries": [
-						"The spellcaster's spellcasting ability is Intelligence (spell save {@dc 12}, {@hit 4} to hit with spell attacks). The spellcaster has following wizard spells prepared:"
+						"L'abilità da incantatore dell'incantatore è Intelligenza (salvezza incantesimo {@dc 12}, {@hit 4} per colpire con attacchi con incantesimo). L'incantatore ha preparato i seguenti incantesimi da mago:"
 					],
 					"spells": {
 						"0": {
@@ -200,7 +200,7 @@
 				{
 					"name": "Magical Role",
 					"entries": [
-						"Choose a role for the spellcaster: healer or mage. Your choice determines which Spellcasting trait to use below."
+						"Scegli un ruolo per l'incantatore: guaritore o mago. La tua scelta determina quale tratto di lancio degli incantesimi utilizzare di seguito."
 					]
 				}
 			],
@@ -208,7 +208,7 @@
 				{
 					"name": "Quarterstaff",
 					"entries": [
-						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage, or 4 ({@damage 1d8}) bludgeoning damage if used with two hands."
+						"{@atk mw} {@hit 2} per colpire, raggiungere 5 piedi, un bersaglio. {@h}3 ({@damage 1d6}) danni contundenti o 4 ({@damage 1d8}) danni contundenti se usato con due mani."
 					]
 				}
 			],
@@ -296,7 +296,7 @@
 				{
 					"name": "Martial Role",
 					"entries": [
-						"The warrior has one of the following traits of your choice:",
+						"Il guerriero ha uno dei seguenti tratti a tua scelta:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -304,12 +304,12 @@
 								{
 									"type": "item",
 									"name": "Attacker",
-									"entry": "The warrior gains a +2 bonus to attack rolls."
+									"entry": "Il guerriero ottiene un bonus di +2 ai tiri per colpire."
 								},
 								{
 									"type": "item",
 									"name": "Defender",
-									"entry": "The warrior gains the Protection reaction below."
+									"entry": "Il guerriero ottiene la reazione di Protezione riportata di seguito."
 								}
 							]
 						}
@@ -320,13 +320,13 @@
 				{
 					"name": "Longsword",
 					"entries": [
-						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d8 + 2}) slashing damage, or 7 ({@damage 1d10 + 2}) slashing damage if used with two hands."
+						"{@atk mw} {@hit 4} per colpire, raggiungere 5 piedi, un bersaglio. {@h}6 ({@damage 1d8 + 2}) danni da taglio o 7 ({@damage 1d10 + 2}) danni da taglio se usato con due mani."
 					]
 				},
 				{
 					"name": "Longbow",
 					"entries": [
-						"{@atk rw} {@hit 3} to hit, range 150/600 ft., one target. {@h}5 ({@damage 1d8 + 1}) piercing damage."
+						"{@atk rw} {@hit 3} da colpire, portata 150/600 piedi, un bersaglio. {@h}5 ({@damage 1d8 + 1}) danno perforante."
 					]
 				}
 			],
@@ -334,7 +334,7 @@
 				{
 					"name": "Protection (Defender Only)",
 					"entries": [
-						"The warrior imposes disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker."
+						"Il guerriero impone svantaggio al tiro per colpire di una creatura entro 1,5 metri da lui il cui bersaglio non è il guerriero. Il guerriero deve essere in grado di vedere l'attaccante."
 					]
 				}
 			],

@@ -15,16 +15,16 @@
 					"height": 2181,
 					"credit": "Zoltan Boros"
 				},
-				"Decades ago, a wizard named Sylvene came to the Sword Coast from another plane of existence called Ravnica. While exploring Waterdeep and nearby lands, she met and fell in love with the father of her child. She built a refuge for them in a small demiplane of her own creation, but eventually she went home to Ravnica with her infant son and never returned.",
-				"Now her grandson seeks to recover relics of her power by exploring Sylvene's history in the Realms\u2014and he doesn't care who he hurts along the way. The consequences of his careless pillaging already ripple out to impact others.",
-				"This Dungeons & Dragons® adventure is written to suit four to six characters of 8th level. With this text and the core D&D manuals, you have everything you need to play.",
+				"Decenni fa, un mago di nome Sylvene arrivò sulla Costa della Spada da un altro piano dell'esistenza chiamato Ravnica. Mentre esplorava Waterdeep e le terre vicine, incontrò e si innamorò del padre di suo figlio. Costruì un rifugio per loro in un piccolo semipiano di sua creazione, ma alla fine tornò a casa a Ravnica con il figlio neonato e non fece più ritorno.",
+				"Ora suo nipote cerca di recuperare le reliquie del suo potere esplorando la storia di Sylvene nei Regni, e non gli importa chi ferirà lungo la strada. Le conseguenze del suo saccheggio imprudente si stanno già diffondendo per avere un impatto sugli altri.",
+				"Questa avventura di Dungeons & Dragons® è scritta per soddisfare da quattro a sei personaggi di 8° livello. Con questo testo e i manuali principali di D&D, hai tutto ciò di cui hai bisogno per giocare.",
 				{
 					"type": "section",
 					"name": "Adventure Overview",
 					"page": 2,
 					"entries": [
-						"This adventure begins when the characters discover a secret door and overcome the traps beyond it. The treasure within takes them to a strange island demiplane in Part 2. At the center of that island is the refuge of a vanished wizard, described in Part 3. The fate of the demiplane and its current inhabitants is ultimately in the adventurers' hands.",
-						"Finally, Part 4 of this text hints at the next adventure to help you foreshadow and prepare."
+						"Questa avventura inizia quando i personaggi scoprono una porta segreta e superano le trappole al di là di essa. Il tesoro al suo interno li porta su uno strano semipiano dell'isola nella Parte 2. Al centro di quell'isola c'è il rifugio di un mago scomparso, descritto nella Parte 3. Il destino del semipiano e dei suoi attuali abitanti è in definitiva nelle mani degli avventurieri.",
+						"Infine, la Parte 4 di questo testo accenna alla prossima avventura per aiutarti a prefigurarla e prepararti."
 					],
 					"id": "001"
 				},
@@ -33,10 +33,10 @@
 					"name": "Part of a Series",
 					"page": 2,
 					"entries": [
-						"This adventure is written as the second in a five-part series. Whether you're playing this as part of our adventure series or weaving this adventure into another campaign, read \"Part 4: What's Next?\" to get an idea of where some of these threads lead, and how you can change those threads to accommodate your campaign.",
-						"This adventure foreshadows a recurring villain named Tyreus. More about his plans and methods can be discovered in future adventures. If you prefer not to wait, or if you want to substitute another villain in for ours, you can adapt this adventure to refer to a villainous NPC of your own.",
-						"By combining the immediacy of the players' choices with the mysterious histories and ambitions of key NPCs, this scenario explores matters of perspective, comfort, and regret. Future adventures in this series expand on this to explore the past and the consequences of the players' choices along the way.",
-						"The end of this adventure makes a fine milestone for leveling up. The next adventure in the series is meant for 9th-level characters."
+						"Questa avventura è scritta come la seconda di una serie in cinque parti. Sia che tu stia giocando come parte della nostra serie di avventure o che stia intrecciando questa avventura in un'altra campagna, leggi \"Parte 4: Cosa c'è dopo?\" per avere un'idea di dove portano alcuni di questi thread e di come puoi modificarli per adattarli alla tua campagna.",
+						"Questa avventura prefigura un cattivo ricorrente di nome Tyreus. Maggiori informazioni sui suoi piani e metodi possono essere scoperte nelle avventure future. Se preferisci non aspettare, o se vuoi sostituire il nostro con un altro cattivo, puoi adattare questa avventura per fare riferimento a un tuo NPC malvagio.",
+						"Combinando l'immediatezza delle scelte dei giocatori con le storie misteriose e le ambizioni dei principali NPC, questo scenario esplora questioni di prospettiva, conforto e rimorso. Le avventure future di questa serie si espandono per esplorare il passato e le conseguenze delle scelte dei giocatori lungo il percorso.",
+						"La fine di questa avventura rappresenta un ottimo traguardo per salire di livello. La prossima avventura della serie è pensata per i personaggi di 9° livello."
 					],
 					"id": "002"
 				},
@@ -45,18 +45,18 @@
 					"name": "Background",
 					"page": 3,
 					"entries": [
-						"A lone mage is at work enacting his villainous plan near the Sword Coast. He is a trespasser from another plane. He is here in pursuit of legends and lore, in the footsteps of his forebears who came here long ago. He is called Tyreus, though few here know him by name.",
-						"By ransacking and looting the past, Tyreus hopes to gather enough arcane power to create a powerful, important future for himself. In his view, that means having people bow to him. Tyreus seeks his own grandeur above all.",
-						"While plundering the demiplane refuge of his grandmother, Sylvene, Tyreus makes enemies of Sylvene's old allies, who call out for help the only way they know how\u2014through Sylvene's leftover magic. Their cries for help may be what draws adventurers to Sylvene's hidden refuge, thereby determining the fate of that demiplane and revealing Tyreus's dangerous plan for the future.",
+						"Un mago solitario è all'opera per mettere in atto il suo piano malvagio vicino alla Costa della Spada. È un intruso proveniente da un altro piano. È qui alla ricerca di leggende e tradizioni, sulle orme dei suoi antenati che vennero qui molto tempo fa. Si chiama Tyreus, anche se pochi qui lo conoscono per nome.",
+						"Saccheggiando e saccheggiando il passato, Tyreus spera di raccogliere abbastanza potere arcano per creare per sé un futuro potente e importante. A suo avviso, ciò significa che le persone si inchinano a lui. Tyreus cerca soprattutto la propria grandezza.",
+						"Mentre saccheggia il rifugio del semipiano di sua nonna, Sylvene, Tyreus si fa nemici i vecchi alleati di Sylvene, che chiedono aiuto nell'unico modo che conoscono: attraverso la magia rimasta di Sylvene. Le loro grida di aiuto potrebbero essere ciò che attira gli avventurieri verso il rifugio nascosto di Sylvene, determinando così il destino di quel semipiano e rivelando il pericoloso piano di Tyreus per il futuro.",
 						{
 							"type": "entries",
 							"name": "Secrets of Tyreus",
 							"page": 3,
 							"entries": [
-								"Although he does not appear in person in this adventure, Tyreus casts a long shadow. The characters may not discover all the following information during the adventure, but it can be useful when foreshadowing Tyreus.",
-								"The wizard who crafted the demiplane at the heart of this adventure\u2014a female human mage called Sylvene\u2014was an explorer from Ravnica who visited the Realms decades ago. She fell in love with a man who lost his life to misadventure in the High Moor. Sylvene was pregnant when he died, and she gave birth to their son, Tyberio, in Waterdeep. She eventually returned to Ravnica to raise him, and she passed away when Tyberio was twelve.",
-								"Tyberio rebelled by refusing to study magic. He sought a quiet life as a craftsman and merchant but carried a certain bitterness and resentment toward the world. He always wanted to visit the land where his parents met, but never managed to.",
-								"Tyberio started a family with his wife, Ayraea, and had one son. In his bitterness, Tyberio forbade his son from studying magic\u2014but it didn't work. Tyberio's teenaged son secretly began learning the ways of mages the same summer that, coincidentally, Tyberio and Ayraea passed away from a minor plague in Ravnica. Their son, furious over his parents' fears of magic, over their death, and over his own powerlessness, devoted his life to wizardry thereafter. That angry wizard is Tyreus."
+								"Sebbene non appaia di persona in quest'avventura, Tyreus proietta una lunga ombra. I personaggi potrebbero non scoprire tutte le seguenti informazioni durante l'avventura, ma possono essere utili quando si prefigura Tyreus.",
+								"Il mago che ha creato il semipiano al centro di questa avventura, una maga umana chiamata Sylvene, era un esploratore di Ravnica che visitò i Regni decenni fa. Si innamorò di un uomo che perse la vita in una disavventura nella Brughiera Alta. Sylvene era incinta quando morì e diede alla luce il loro figlio, Tyberio, a Waterdeep. Alla fine tornò a Ravnica per allevarlo e morì quando Tyberio aveva dodici anni.",
+								"Tyberio si ribellò rifiutandosi di studiare la magia. Cercava una vita tranquilla come artigiano e commerciante, ma portava con sé una certa amarezza e risentimento verso il mondo. Ha sempre desiderato visitare la terra dove i suoi genitori si sono incontrati, ma non ci è mai riuscito.",
+								"Tyberio fondò una famiglia con sua moglie, Ayraea, e ebbe un figlio. Nella sua amarezza, Tyberio proibì a suo figlio di studiare magia, ma non funzionò. Il figlio adolescente di Tyberio iniziò segretamente ad imparare le vie dei maghi la stessa estate in cui, per coincidenza, Tyberio e Ayraea morirono a causa di una piccola piaga a Ravnica. Il loro figlio, furioso per la paura della magia dei suoi genitori, per la loro morte e per la propria impotenza, da allora in poi dedicò la sua vita alla magia. Quel mago arrabbiato è Tyreus."
 							],
 							"id": "004"
 						},
@@ -65,9 +65,9 @@
 							"name": "In Previous Adventures",
 							"page": 3,
 							"entries": [
-								"The previous adventure in this series took place in an abandoned, secret sanctum on the High Moors of the Realms, buried in a place called the Wizard's Barrow. Tyreus ransacked that sanctum's library and left monsters behind to destroy what was left of it.",
-								"Sylvene was one of the wizards who taught and practiced magic in the Wizard's Barrow decades before. It was guarded by trapped steles not unlike the emitter stone in Part 1 of this adventure.",
-								"If the previous adventure isn't part of your campaign, this scenario can serve to involve your players' characters for the first time or provide a simple, standalone experience of magic and danger."
+								"La precedente avventura di questa serie si svolgeva in un santuario segreto e abbandonato nelle Alte Brughiere dei Regni, sepolto in un luogo chiamato il tumulo del mago. Tyreus ha saccheggiato la biblioteca di quel santuario e ha lasciato dietro di sé dei mostri per distruggere ciò che ne restava.",
+								"Sylvene era uno dei maghi che decenni prima insegnavano e praticavano la magia nella Tomba del Mago. Era sorvegliato da stele intrappolate, simili alla pietra emettitrice della prima parte di questa avventura.",
+								"Se l'avventura precedente non fa parte della tua campagna, questo scenario può servire a coinvolgere i personaggi dei tuoi giocatori per la prima volta o fornire un'esperienza semplice e autonoma di magia e pericolo."
 							],
 							"id": "005"
 						}
@@ -79,7 +79,7 @@
 					"name": "Adventure Hooks",
 					"page": 3,
 					"entries": [
-						"Adventurers can become involved in this scenario in a number of ways\u2014some of them seemingly coincidental. When the mysterious groundskeepers of Sylvene's refuge call out for help, those cries might manifest in the Realms in the subtlest ways.",
+						"Gli avventurieri possono essere coinvolti in questo scenario in diversi modi, alcuni dei quali apparentemente casuali. Quando i misteriosi guardiani del rifugio di Sylvene chiedono aiuto, quelle grida potrebbero manifestarsi nei Regni nei modi più sottili.",
 						{
 							"type": "entries",
 							"entries": [
@@ -88,7 +88,7 @@
 									"name": "A New Clue",
 									"page": 3,
 									"entries": [
-										"Adventurers looking into the origins and history of the Wizard's Barrow from the prior adventure discover an abandoned townhouse in Waterdeep. The building was once home to a wizard from afar but has been boarded up, is empty, and has been ransacked several times. Until now, no one has discovered the secret door that begins this adventure, but the cries of the keepers make it easier to locate now."
+										"Gli avventurieri che indagano sulle origini e sulla storia del tumulo del mago dell'avventura precedente scoprono una casa abbandonata a Waterdeep. L'edificio un tempo ospitava un mago venuto da lontano, ma è stato sbarrato, vuoto ed è stato saccheggiato più volte. Fino ad ora nessuno ha scoperto la porta segreta che dà inizio a questa avventura, ma le grida dei custodi ne facilitano l'individuazione."
 									],
 									"id": "008"
 								},
@@ -97,8 +97,8 @@
 									"name": "A Mysterious Find",
 									"page": 3,
 									"entries": [
-										"To draw the characters into this adventure (whether they've explored the Wizard's Barrow or not), place the secret door and hidden chambers that kick off this scenario into another adventure or short side trek, then follow the adventurers into the demiplanar refuge when they have the planar key.",
-										"The cries of the keepers can manifest in a telepathic emanation from the planar key itself, a wordless sense of desperate pleading for aid."
+										"Per attirare i personaggi in quest'avventura (indipendentemente dal fatto che abbiano esplorato o meno il tumulo del mago), posiziona la porta segreta e le camere nascoste che danno il via a questo scenario in un'altra avventura o in un breve viaggio laterale, quindi segui gli avventurieri nel rifugio semiplanare quando hanno la chiave planare.",
+										"Le grida dei custodi possono manifestarsi in un'emanazione telepatica dalla chiave planare stessa, un senso senza parole di disperata richiesta di aiuto."
 									],
 									"id": "009"
 								},
@@ -107,7 +107,7 @@
 									"name": "A Mission of Mystery",
 									"page": 4,
 									"entries": [
-										"Perhaps the adventurers are hired to find and open the secret door by a sage attempting to learn the secret history of Sylvene and her former cadre of wizards, for posterity's sake. The sage sends the adventurers to Sylvene's abandoned townhouse, which has been well pilfered except for the previously undiscovered secret door in the cellar\u2014made all the more obvious now by the cries of the keepers."
+										"Forse gli avventurieri vengono assunti per trovare e aprire la porta segreta da un saggio che tenta di apprendere la storia segreta di Sylvene e del suo ex gruppo di maghi, per il bene dei posteri. Il saggio manda gli avventurieri alla casa abbandonata di Sylvene, che è stata ben saccheggiata, fatta eccezione per la porta segreta della cantina precedentemente sconosciuta, resa ancora più evidente ora dalle grida dei custodi."
 									],
 									"id": "00a"
 								}
@@ -122,22 +122,22 @@
 					"name": "Lore to Learn",
 					"page": 4,
 					"entries": [
-						"At various points throughout play, the adventurers can discover lore about Tyreus, his plans, and the history of Sylvene's extraplanar refuge from the demiplane's keepers or from {@creature Morwena Veilmist|AitFR-THP}, whom Tyreus abandoned in the demiplane. Reveal lore in response to questions the adventurers ask of these NPCs or other suitable roleplaying cues. In general, though an NPC can reveal multiple pieces of lore at once, aim to reveal lore in the order listed.",
+						"In vari momenti del gioco, gli avventurieri possono scoprire informazioni su Tyreus, i suoi piani e la storia del rifugio extraplanare di Sylvene dai custodi del semipiano o da {@creature Morwena Veilmist|AitFR-THP}, che Tyreus ha abbandonato nel semipiano. Rivela la tradizione in risposta alle domande che gli avventurieri pongono a questi NPC o ad altri spunti di gioco di ruolo adatti. In generale, sebbene un NPC possa rivelare più elementi di conoscenza contemporaneamente, cerca di rivelare la conoscenza nell'ordine elencato.",
 						{
 							"type": "entries",
 							"name": "What the Keepers Know",
 							"page": 4,
 							"entries": [
-								"The keepers of the demiplane at the heart of this adventure know some things about Sylvene's history from conversing with her, decades ago, and they know all about her demiplane. They also know a bit about Tyreus after observing him on the island. The keepers share this lore with adventurers if they feel it is safe and wise to do so:",
+								"I custodi del semipiano al centro di questa avventura conoscono alcune cose sulla storia di Sylvene avendo conversato con lei, decenni fa, e sanno tutto del suo semipiano. Sanno anche qualcosa di Tyreus dopo averlo osservato sull'isola. I custodi condividono questa tradizione con gli avventurieri se ritengono che sia sicuro e saggio farlo:",
 								{
 									"type": "list",
 									"items": [
-										"Sylvene was a wise and thoughtful human mage who combined adventurous explorations with an almost anthropological study of the Realms. She came from a place called Ravnica.",
-										"Sylvene fell in love with a human man from some village of the Sword Coast. They met in Secomber. She wouldn't say much about him except that he perished on an adventure.",
-										"Sylvene brought her infant son, Tyberio, to the refuge several times before they inexplicably stopped coming back. That was decades ago, but the keepers don't keep careful track of time, so they can't be sure how long.",
-										"Tyreus is a white, male human mage\u2014an adventurer, not a scholar. He arrived with Morwena and a horrific shadow creature to ransack the refuge. Tyreus left with just an armful of books.",
-										"Seero took the form of a middle-aged man to speak with Tyreus, but Tyreus flew into a rage, accusing Seero of \"wearing my father's face.\" The keepers are sure Seero had taken on the form of an adult Tyberio, who must be Tyreus's father. \"They both have Sylvene's eyes.\"",
-										"Tyreus and Morwena argued about the fate of the refuge, and Tyreus stormed off, then teleported away without her."
+										"Sylvene era una maga umana saggia e premurosa che combinava esplorazioni avventurose con uno studio quasi antropologico dei Regni. Veniva da un posto chiamato Ravnica.",
+										"Sylvene si innamorò di un uomo proveniente da un villaggio della Costa della Spada. Si sono incontrati a Secomber. Non avrebbe detto molto di lui tranne che era morto durante un'avventura.",
+										"Sylvene portò suo figlio neonato, Tyberio, al rifugio diverse volte prima che inspiegabilmente smettessero di tornare. Ciò accadde decenni fa, ma i custodi non tengono traccia del tempo, quindi non possono essere sicuri di quanto tempo.",
+										"Tyreus è un mago umano bianco, maschio: un avventuriero, non uno studioso. Arrivò con Morwena e un'orribile creatura ombra per saccheggiare il rifugio. Tyreus se ne andò con solo una bracciata di libri.",
+										"Seero prese la forma di un uomo di mezza età per parlare con Tyreus, ma Tyreus andò su tutte le furie, accusando Seero di \"indossare la faccia di mio padre\". I custodi sono sicuri che Seero abbia assunto la forma di un Tyberio adulto, che deve essere il padre di Tyreus. \"Hanno entrambi gli occhi di Sylvene.\"",
+										"Tyreus e Morwena litigarono sul destino del rifugio, e Tyreus se ne andò precipitosamente, poi si teletrasportò senza di lei."
 									]
 								}
 							],
@@ -148,19 +148,19 @@
 							"name": "What Morwena Knows",
 							"page": 4,
 							"entries": [
-								"Morwena knows things about Tyreus from time she spent with him since the previous adventure. She may be persuaded to share some or all of this lore with adventurers if she believes it is advantageous to her:",
+								"Morwena sa molte cose su Tyreus dal tempo trascorso con lui dall'avventura precedente. Potrebbe essere persuasa a condividere alcune o tutte queste conoscenze con gli avventurieri se crede che le sia vantaggioso:",
 								{
 									"type": "list",
 									"items": [
-										"Tyreus believes power is the pinnacle quality of a mage and that power justifies itself. He doesn't care who he hurts if it empowers him.",
-										"Tyreus blames his parents for denying him his \"birthright\" of magical power, which he should have inherited from his grandmother, Sylvene.",
-										"Tyreus is an angry and sometimes petulant person. He thinks if he gathers enough power, he can make a place for himself in the world where he can be strong and, finally, find happiness.",
-										"When he looks at the Realms, Tyreus only sees a place to be conquered or plundered out of spite. Morwena tried (and failed) to convince him the Realms could make him powerful\u2014that he could carve out a part of the Sword Coast for them to rule together\u2014and that's when she knew Tyreus would not share power.",
-										"Morwena and Tyreus argued, but Tyreus's anger wouldn't let him trust her. He abandoned her in the demiplane because she threatened him\u2014and because he thought he might need her later.",
-										"Morwena won't help Tyreus again. \"He's only out for himself,\" she says. \"He's a powerful mage already, but he cannot see himself or others well enough to recognize how dangerous he is. What a waste.\""
+										"Tyreus crede che il potere sia la qualità più importante di un mago e che il potere si giustifichi da solo. Non gli importa chi ferisce se questo gli dà potere.",
+										"Tyreus incolpa i suoi genitori per avergli negato il suo \"diritto di nascita\" del potere magico, che avrebbe dovuto ereditare da sua nonna, Sylvene.",
+										"Tyreus è una persona arrabbiata e talvolta petulante. Pensa che se raccoglierà abbastanza potere, potrà crearsi un posto nel mondo dove potrà essere forte e, finalmente, trovare la felicità.",
+										"Quando guarda i Regni, Tiro vede solo un luogo da conquistare o saccheggiare per ripicca. Morwena cercò (e fallì) di convincerlo che i Regni avrebbero potuto renderlo potente – che avrebbe potuto ritagliare una parte della Costa della Spada affinché potessero governare insieme – e fu allora che capì che Tyreus non avrebbe condiviso il potere.",
+										"Morwena e Tyreus litigavano, ma la rabbia di Tyreus non gli permetteva di fidarsi di lei. L'ha abbandonata nel semipiano perché lei lo minacciava e perché pensava che avrebbe potuto aver bisogno di lei in seguito.",
+										"Morwena non aiuterà più Tyreus. \"È solo per se stesso\", dice. \"È già un mago potente, ma non riesce a vedere se stesso e gli altri abbastanza bene da riconoscere quanto sia pericoloso. Che spreco.\""
 									]
 								},
-								"Remember that Morwena is willfully evil. All of the above is true to her experience with, and opinions of, Tyreus. Her thoughts may be influenced by her own lowered opinion of him, and he may now be more influenced by the time they spent together than he wanted to admit. But Morwena is done with Tyreus. His pursuit of personal grandeur is in the way of her own."
+								"Ricorda che Morwena è volontariamente malvagia. Tutto quanto sopra è fedele alla sua esperienza e alle opinioni su Tyreus. I suoi pensieri potrebbero essere influenzati dalla sua bassa opinione di lui, e lui ora potrebbe essere più influenzato dal tempo trascorso insieme di quanto volesse ammettere. Ma Morwena ha chiuso con Tyreus. La sua ricerca della grandezza personale è d'intralcio alla sua."
 							],
 							"id": "00d"
 						}
@@ -175,14 +175,14 @@
 			"name": "Part 1: Hidden Chambers",
 			"page": 4,
 			"entries": [
-				"The adventure begins when the characters discover a secret door and the hidden chambers behind it. The exact location of this secret door can vary based on your campaign's needs. The hidden chambers are depicted in map 1.",
-				"These hidden chambers teem with dangerous traps meant to protect the book in area 6.",
+				"L'avventura inizia quando i personaggi scoprono una porta segreta e le stanze nascoste dietro di essa. La posizione esatta di questa porta segreta può variare in base alle esigenze della tua campagna. Le camere nascoste sono raffigurate nella mappa 1.",
+				"Queste camere nascoste pullulano di trappole pericolose destinate a proteggere il libro nell'area 6.",
 				{
 					"type": "inset",
 					"name": "Medallion of Safe Passage",
 					"page": 5,
 					"entries": [
-						"Marks of safe passage found in the Wizard's Barrow in the previous adventure also work here in areas 1, 2, and 3. Creatures wearing a medallion of safe passage do not trigger the traps installed in areas 1 and 3 but are vulnerable to their effects if those traps are triggered by others in those areas."
+						"I segni di passaggio sicuro trovati nel tumulo del mago nell'avventura precedente funzionano anche qui nelle aree 1, 2 e 3. Le creature che indossano un medaglione di passaggio sicuro non attivano le trappole installate nelle aree 1 e 3 ma sono vulnerabili ai loro effetti se tali trappole vengono attivate da altri in quelle aree."
 					],
 					"id": "00f"
 				},
@@ -361,13 +361,13 @@
 							"name": "General Features",
 							"page": 5,
 							"entries": [
-								"These hidden chambers are made of sturdy, grey stones, dry and dusty with age.",
+								"Queste camere nascoste sono fatte di robuste pietre grigie, secche e polverose con l'età.",
 								{
 									"type": "entries",
 									"name": "Ceilings",
 									"page": 5,
 									"entries": [
-										"The chambers have flat, 8-foot ceilings of stone."
+										"Le camere hanno soffitti piatti in pietra alti 8 piedi."
 									],
 									"id": "012"
 								},
@@ -376,7 +376,7 @@
 									"name": "Light",
 									"page": 5,
 									"entries": [
-										"These chambers are unlit and feature no sconces or fixtures for torches or lamps."
+										"Queste camere non sono illuminate e non dispongono di applique o dispositivi per torce o lampade."
 									],
 									"id": "013"
 								},
@@ -385,7 +385,7 @@
 									"name": "Sound",
 									"page": 5,
 									"entries": [
-										"At first, the chambers are silent. When the traps are activated, the place crackles with lightning and whirs with grinding metal joints and hinges even though the traps are mostly animated by magic."
+										"All'inizio le camere sono silenziose. Quando le trappole vengono attivate, il luogo crepita di fulmini e ronza con giunture e cardini metallici stridenti, anche se le trappole sono per lo più animate dalla magia."
 									],
 									"id": "014"
 								}
@@ -397,9 +397,9 @@
 							"name": "The Secret Door",
 							"page": 5,
 							"entries": [
-								"The secret door to Sylvene's hidden chambers has gone undetected and undisturbed for decades. The door itself is a collection of stones exactly matching the wall in which the door is set. It takes a successful {@dc 22} Intelligence ({@skill Investigation}) or Wisdom ({@skill Perception}) check to locate it.",
-								"The door can be opened by pressing two stones simultaneously, one above the door and one in the floor at its base. It can be forced open with a {@dc 20} Strength ({@skill Athletics}) check.",
-								"The door also opens if the keepers of Sylvene's magical refuge call out for help at the pillars on their island demiplane. Therefore it's possible for adventurers to find the door already ajar, making it easy to begin the adventure."
+								"La porta segreta delle stanze nascoste di Sylvene è rimasta inosservata e indisturbata per decenni. La porta stessa è una raccolta di pietre che corrisponde esattamente al muro in cui è incastonata la porta. È necessaria una prova riuscita di {@dc 22} Intelligenza ({@skill Investigation}) o Saggezza ({@skill Perception}) per individuarlo.",
+								"La porta può essere aperta premendo due pietre contemporaneamente, una sopra la porta e l'altra nel pavimento alla sua base. Può essere forzato con un controllo di Forza {@dc 20} ({@skill Athletics}).",
+								"La porta si apre anche se i custodi del rifugio magico di Sylvene chiedono aiuto ai pilastri del semipiano della loro isola. Pertanto è possibile che gli avventurieri trovino la porta già socchiusa, facilitando l'inizio dell'avventura."
 							],
 							"id": "015"
 						}
@@ -414,7 +414,7 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Beyond the door, a wide corridor of stone leads to a dull, iron archway. The walls glitter and shine as if silver coins have been set into the walls at irregular intervals."
+								"Oltre la porta, un ampio corridoio di pietra conduce a un arco di ferro opaco. Le pareti brillano e brillano come se vi fossero incastonate monete d'argento a intervalli irregolari."
 							],
 							"id": "017"
 						},
@@ -426,8 +426,8 @@
 									"name": "Magic Dart Trap",
 									"page": 5,
 									"entries": [
-										"A dozen tiny mirrors are set into the walls in this area, seemingly at random. If any living creature casts a reflection in one of these mirrors, every intact mirror conjures a dart of magical force that flits wildly through the air at the end of that creature's turn, attacking up to 12 creatures in the corridor. Make a single attack roll per creature with a +8 bonus to hit, dealing 22 ({@damage 4d10}) force damage on a hit.",
-										"Mirrors can be removed with various tools and a successful skill check ({@dc 13}) or attacked (AC 15, 2 hit points) to disable the trap. Each mirror disabled reduces the trap's attack bonus by 1."
+										"Una dozzina di piccoli specchi sono incastonati nelle pareti di quest'area, apparentemente in modo casuale. Se una creatura vivente proietta un riflesso in uno di questi specchi, ogni specchio intatto evoca un dardo di forza magica che vola selvaggiamente nell'aria alla fine del turno di quella creatura, attaccando fino a 12 creature nel corridoio. Effettua un singolo tiro per colpire per creatura con un bonus di +8 per colpire, infliggendo 22 ({@damage 4d10}) danni da forza con un colpo.",
+										"Gli specchi possono essere rimossi con vari strumenti e una prova di abilità riuscita ({@dc 13}) o attaccati (CA 15, 2 punti ferita) per disattivare la trappola. Ogni specchio disabilitato riduce il bonus di attacco della trappola di 1."
 									],
 									"id": "019"
 								}
@@ -445,11 +445,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"In this corridor you hear an audible buzz and notice a slight metallic smell."
+								"In questo corridoio si sente un ronzio udibile e si nota un leggero odore metallico."
 							],
 							"id": "01b"
 						},
-						"Much of this area is within the area overseen by the trapped stele at the end of the corridor (area 3). Any creature in this area when the stele is triggered is subject to the lightning bolt fired by the stele, as described in area 3."
+						"Gran parte di quest'area si trova all'interno dell'area supervisionata dalla stele intrappolata alla fine del corridoio (area 3). Qualsiasi creatura in quest'area quando la stele viene attivata è soggetta al fulmine scagliato dalla stele, come descritto nell'area 3."
 					],
 					"id": "01a"
 				},
@@ -461,7 +461,7 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"A wide, flat stele stands here, set into the mortar and etched with a one-foot-tall glyph of long, jagged lines. The glyph emits the faintest glow, like the wick of a blown-out candle."
+								"Qui si trova una stele ampia e piatta, incastonata nel mortaio e incisa con un glifo alto mezzo metro di linee lunghe e frastagliate. Il glifo emette un bagliore debolissimo, come lo stoppino di una candela spenta."
 							],
 							"id": "01d"
 						},
@@ -473,9 +473,9 @@
 									"name": "Magic Stele Trap",
 									"page": 6,
 									"entries": [
-										"The stele can detect trespassers out to a range of 60 feet in front of it, regardless of illumination. It has a passive {@skill Perception} score of 18. To disarm or dispel this trap requires a successful {@dc 18} check. When triggered, the trap emits a bolt of lightning the whole length of area 2.",
-										"Any creature in the area that fails a {@dc 15} Dexterity saving throw takes 22 ({@damage 4d10}) lightning damage, or half as much damage with a successful save.",
-										"The lightning ignites flammable objects in the area that aren't being worn or carried. This stele can emit lightning a total of five times before becoming nothing more than inert stone."
+										"La stele può rilevare gli intrusi fino a un raggio di 18 metri davanti ad essa, indipendentemente dall'illuminazione. Ha un punteggio passivo {@skill Perception} pari a 18. Per disarmare o dissipare questa trappola è necessario un controllo riuscito {@dc 18}. Quando viene attivata, la trappola emette un fulmine per l'intera lunghezza dell'area 2.",
+										"Qualsiasi creatura nell'area che fallisce un tiro salvezza su Destrezza {@dc 15} subisce 22 ({@damage 4d10}) danni da fulmine, o la metà di questi danni se supera il tiro salvezza.",
+										"Il fulmine accende gli oggetti infiammabili presenti nell'area che non vengono indossati o trasportati. Questa stele può emettere fulmini per un totale di cinque volte prima di diventare niente più che pietra inerte."
 									],
 									"id": "01f"
 								}
@@ -493,7 +493,7 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"This long, stone corridor has deep grooves and gaps in the walls and floor, each about one inch wide, laid out in no obvious pattern."
+								"Questo lungo corridoio di pietra presenta profonde scanalature e fessure nelle pareti e nel pavimento, ciascuna larga circa un pollice, disposte senza uno schema evidente."
 							],
 							"id": "021"
 						},
@@ -505,11 +505,11 @@
 									"name": "Scything Blades Trap",
 									"page": 6,
 									"entries": [
-										"This trap activates when either the mirror-dart trap (area 1) or the magic stele (area 3) is triggered. Once activated, this trap continues to operate until disabled. Its scything blades whirl and slice through the air, guided not by machinery but by magic.",
-										"Any creature that ends its turn within 20 feet of the center of the corridor is attacked by scything blades.",
-										"On initiative count 20 (losing initiative ties), scything blades jut from the grooves and gaps in the corridor and attack any creatures within 20 feet of the center of the corridor.",
-										"The trap has a +8 attack bonus and deals 22 ({@damage 4d10}) slashing damage on a hit.",
-										"This trap can be disabled in the alcove off the center of area 5."
+										"Questa trappola si attiva quando viene attivata la trappola a dardo-specchio (area 1) o la stele magica (area 3). Una volta attivata, questa trappola continua a funzionare finché non viene disattivata. Le sue lame falcate volteggiano e fendono l'aria, guidate non da macchinari ma dalla magia.",
+										"Qualsiasi creatura che termina il suo turno entro 20 piedi dal centro del corridoio viene attaccata dalle lame falcate.",
+										"Con un conteggio di iniziativa pari a 20 (perdendo i pareggi di iniziativa), le lame falcate sporgono dai solchi e dagli spazi vuoti nel corridoio e attaccano qualsiasi creatura entro 20 piedi dal centro del corridoio.",
+										"La trappola ha un bonus di attacco di +8 e infligge 22 ({@damage 4d10}) danni taglienti in caso di colpo.",
+										"Questa trappola può essere disattivata nell'alcova al centro dell'area 5."
 									],
 									"id": "023"
 								}
@@ -527,7 +527,7 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Halfway down this narrower corridor is an iron archway, five feet wide, set into one wall. Across from that is a one-foot-wide gap in the masonry of the opposite wall."
+								"A metà di questo corridoio più stretto c'è un arco di ferro, largo un metro e mezzo, incastonato in una parete. Di fronte c'è uno spazio largo mezzo metro nella muratura del muro opposto."
 							],
 							"id": "025"
 						},
@@ -539,11 +539,11 @@
 									"name": "Listing Floor Trap",
 									"page": 6,
 									"entries": [
-										"The area of floor marked on the map in this area is like a teeter-totter, pivoting on a hinge under the floor in front of the doorway to area 6. If more than 120 pounds of weight are placed on either half of the floor, it tilts into a 20-foot-deep pit underneath.",
-										"Any creature on the floor when it tilts must succeed on a {@dc 15} Dexterity saving throw or fall into the pit below, taking 7 ({@damage 2d6}) bludgeoning damage from the fall and from jutting stones on the pit's floor.",
-										"The pit floor is made up of pressure plates that activate the trap in area 6 when weight is removed from them. The mechanism of the rising blades trap in area 6 can be accessed from this pit only after the trap in area 6 has activated.",
-										"The listing floor is meant to swing immediately back to its starting position, trapping intruders below, but after all these years it doesn't always function. It returns back to its level position on initiative count 20 (losing initiative ties).",
-										"The 5-foot-square space just off the center of this area contains a 2-foot-long lever that disables the trap in area 4 and holds the floor steady in area 5 if held or jammed in place."
+										"L'area del pavimento segnata sulla mappa in quest'area è come un'altalena, che ruota su un cardine sotto il pavimento di fronte alla porta dell'area 6. Se vengono posizionati più di 120 libbre di peso su una delle metà del pavimento, si inclina in una fossa profonda 20 piedi sottostante.",
+										"Qualsiasi creatura sul pavimento quando si inclina deve riuscire in un tiro salvezza di Destrezza {@dc 15} o cadere nella fossa sottostante, subendo 7 ({@damage 2d6}) danni contundenti dalla caduta e dalle pietre sporgenti sul pavimento della fossa.",
+										"Il fondo della fossa è costituito da piastre a pressione che attivano la trappola nell'area 6 quando viene rimosso il peso da esse. È possibile accedere al meccanismo della trappola a lame ascendenti nell'area 6 da questo pozzo solo dopo che la trappola nell'area 6 si è attivata.",
+										"Il piano di quotazione è pensato per tornare immediatamente alla sua posizione iniziale, intrappolando gli intrusi al di sotto, ma dopo tutti questi anni non sempre funziona. Ritorna alla sua posizione di livello al conteggio di iniziativa 20 (perdendo i pareggi di iniziativa).",
+										"Lo spazio quadrato di 1,5 metri appena fuori dal centro di quest'area contiene una leva lunga 60 cm che disattiva la trappola nell'area 4 e mantiene il pavimento stabile nell'area 5 se trattenuta o bloccata sul posto."
 									],
 									"id": "027"
 								}
@@ -561,11 +561,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"This low room is just six feet high. Across the room is a wooden podium holding up a large tome bound in snow-white leather. That podium is surrounded by a flat, coppery metal cage set into the floor. Instead of any kind of mortar, the floor's wide tiles are separated by more flat, coppery bands."
+								"Questa stanza bassa è alta appena sei piedi. Dall'altra parte della stanza c'è un podio di legno che sorregge un grande tomo rilegato in pelle bianca come la neve. Quel podio è circondato da una gabbia metallica piatta e ramata incastonata nel pavimento. Invece di utilizzare qualsiasi tipo di malta, le larghe piastrelle del pavimento sono separate da fasce più piatte e ramate."
 							],
 							"id": "029"
 						},
-						"The floor tiles here are all ceramic pressure plates that trigger when released (rather than when depressed). At least 5 pounds of weight are required to depress any of these tiles.",
+						"Le piastrelle del pavimento qui sono tutte piastre di pressione in ceramica che si attivano quando vengono rilasciate (piuttosto che quando vengono premute). Sono necessari almeno 5 chili di peso per abbassare una qualsiasi di queste piastrelle.",
 						{
 							"type": "entries",
 							"entries": [
@@ -574,12 +574,12 @@
 									"name": "Rising Blades Trap",
 									"page": 6,
 									"entries": [
-										"This trap activates when any of the pressure plates in this area, or in the pit under area 5, are triggered. Once activated, this trap continues to operate for 3 rounds or until disabled, whichever comes first.",
-										"Once activated, long spears lined with swordlike blades immediately break through the floor tiles from below, stabbing almost 6 inches into the air at odd angles. (The spears are affixed to a metal rack beneath floor; that rack rises higher and higher each round until the blades finally reach the ceiling, the trap's designed limit.)",
-										"The floor is {@quickref difficult terrain||3} thereafter. Any creatures on the floor when the spears first appear must make a {@dc 15} Dexterity saving throw, taking 22 ({@damage 4d10}) piercing damage on a failure, or half as much on a success.",
-										"Afterward, on initiative counts 20 and 10 (losing initiative ties), the blades stab 1 foot higher toward the ceiling. Any creature in the area on the trap's turns must attempt a new {@dc 15} Dexterity saving throw to avoid 11 ({@damage 2d10}) slashing damage as the blades slice by.",
-										"A successful {@dc 15} Dexterity check with {@item Thieves' Tools|PHB} (or similar) can disable this trap by interacting with the mechanism from inside the pit under area 5.",
-										"A path can be hacked through the area by attacking the spear hafts in any 5-foot space (AC 12, 12 hit points)."
+										"Questa trappola si attiva quando una qualsiasi delle piastre a pressione in quest'area, o nella fossa sotto l'area 5, viene attivata. Una volta attivata, questa trappola continua a funzionare per 3 round o finché non viene disattivata, a seconda di quale evento si verifica per primo.",
+										"Una volta attivate, lunghe lance ricoperte di lame simili a spade sfondano immediatamente le piastrelle del pavimento dal basso, trafiggendo quasi 6 pollici in aria ad angoli strani. (Le lance sono fissate su una rastrelliera metallica sotto il pavimento; quella rastrelliera sale sempre più in alto ogni round finché le lame non raggiungono finalmente il soffitto, il limite progettato della trappola.)",
+										"Successivamente il limite è {@quickref difficult terrain||3}. Qualsiasi creatura sul pavimento quando le lance appaiono per la prima volta deve effettuare un tiro salvezza su Destrezza {@dc 15} e subisce 22 ({@damage 4d10}) danni perforanti in caso di fallimento, o la metà in caso di successo.",
+										"Successivamente, contando l'iniziativa 20 e 10 (perdendo i pareggi di iniziativa), le lame puntano 30 cm più in alto verso il soffitto. Qualsiasi creatura nell'area durante i turni della trappola deve tentare un nuovo tiro salvezza di Destrezza {@dc 15} per evitare 11 ({@damage 2d10}) danni taglienti mentre le lame passano.",
+										"Una prova di Destrezza riuscita {@dc 15} con {@item Thieves' Tools|PHB} (o simile) può disattivare questa trappola interagendo con il meccanismo dall'interno della fossa sotto l'area 5.",
+										"È possibile aprire un percorso attraverso l'area attaccando le aste delle lance in qualsiasi spazio di 1,5 metri (CA 12, 12 punti ferita)."
 									],
 									"id": "02b"
 								},
@@ -588,7 +588,7 @@
 									"name": "The Cage",
 									"page": 7,
 									"entries": [
-										"The space under the podium is unaffected by the trap. The cage surrounding the podium can be accessed through a locked gate opposite the entrance. A character can pick the lock with a successful {@dc 20} Dexterity ({@item Thieves' Tools|PHB}) check."
+										"Lo spazio sotto il podio non è interessato dalla trappola. Alla gabbia che circonda il podio si accede attraverso un cancello chiuso di fronte all'ingresso. Un personaggio può scassinare la serratura con una prova di Destrezza ({@item Thieves' Tools|PHB} riuscita {@dc 20}."
 									],
 									"id": "02c"
 								}
@@ -610,29 +610,29 @@
 							"name": "Treasure",
 							"page": 7,
 							"entries": [
-								"The book on the wooden podium inside the cage is a dyed-white leather tome with iron hinges and a sturdy clasp. It bears no title.",
-								"Inside, the book begins with 86 vellum pages followed by a compartment cut into dozens more glued and sealed pages. That compartment holds an ivory key etched with sigils about the length of a human hand. This is a planar key with one charge remaining, linked to Sylvene's demiplane, detailed in Part 2: \"A Secret Isle.\"",
-								"The book's first 86 pages contain sketches and handwritten notes made by Sylvene for herself and others. Every page is about the island she made, as well as the following lore and spells:",
+								"Il libro sul podio di legno all'interno della gabbia è un tomo in pelle tinta di bianco con cerniere di ferro e una robusta chiusura. Non ha titolo.",
+								"All'interno, il libro inizia con 86 pagine di pergamena seguite da uno scomparto tagliato in altre dozzine di pagine incollate e sigillate. Nello scomparto è custodita una chiave d'avorio con sigilli incisi, lunga quanto una mano umana. Questa è una chiave planare con una carica rimanente, collegata al semipiano di Sylvene, descritta in dettaglio nella Parte 2: \"Un'isola segreta\".",
+								"Le prime 86 pagine del libro contengono schizzi e appunti scritti a mano da Sylvene per se stessa e per gli altri. Ogni pagina riguarda l'isola che ha creato, nonché le seguenti tradizioni e incantesimi:",
 								{
 									"type": "list",
 									"items": [
-										"Sylvene's name and identity as a wizard \"traveling across the planes.\"",
-										"\"My island shall be made from a magic stone I acquired not long ago\u2014a demiplane of my own design.\"",
-										"The spells magic circle, Mordenkainen's faithful hound, and teleportation circle.",
-										"A recipe for potato-leek stew with shallots and garlic.",
-										"The name (Coriander) and location of the statue of a faithful hound in area 2 of the refuge (in Part 3): \"Coriander sleeps by the fireplace. Such a good boy.\"",
-										"Notes explaining \"how time will work on my island\" (one hour each of dawn, day, dusk, and night).",
-										"A list of the keepers who tend the demiplane: Ahma, Noa, Ohwo, and Seero."
+										"Il nome e l'identità di Sylvene come mago che \"viaggia attraverso i piani\".",
+										"\"La mia isola sarà realizzata con una pietra magica che ho acquisito non molto tempo fa: un semipiano di mia progettazione.\"",
+										"Il cerchio magico degli incantesimi, il fedele segugio di Mordenkainen e il cerchio di teletrasporto.",
+										"Una ricetta per lo stufato di patate e porri con scalogno e aglio.",
+										"Il nome (Coriandolo) e l'ubicazione della statua di un fedele segugio nell'area 2 del rifugio (nella parte 3): \"Coriandolo dorme accanto al caminetto. Che bravo ragazzo.\"",
+										"Note che spiegano \"come funzionerà il tempo sulla mia isola\" (un'ora ciascuna di alba, giorno, tramonto e notte).",
+										"Un elenco dei custodi che si prendono cura del semipiano: Ahma, Noa, Ohwo e Seero."
 									]
 								},
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"The handwriting has a practiced, careful style. It often refers to \"my island\" and mentions a \"hidden page\" there to keep the author's thoughts and secrets in order. Notes vary between addressing a reader and addressing the author. This journal probably wasn't intended for any audience except the author herself."
+										"La grafia ha uno stile esperto e accurato. Si riferisce spesso alla \"mia isola\" e menziona una \"pagina nascosta\" per tenere in ordine i pensieri e i segreti dell'autore. Le note variano tra rivolgersi a un lettore e rivolgersi all'autore. Questo diario probabilmente non era destinato a nessun pubblico tranne che all'autrice stessa."
 									],
 									"id": "02e"
 								},
-								"The book also fully identifies and explains how to use the planar key, that it cannot regain charges, and that \"to return to this world, seek the island's keepers, for they can send you home.\""
+								"Il libro inoltre identifica e spiega completamente come utilizzare la chiave planare, che non può recuperare le cariche e che \"per tornare in questo mondo, cerca i custodi dell'isola, perché possono rimandarti a casa\"."
 							],
 							"id": "02d"
 						}
@@ -644,8 +644,8 @@
 					"name": "Part 2: A Secret Isle",
 					"page": 7,
 					"entries": [
-						"When the adventurers arrive, Sylvene's demiplane is in disarray thanks to a visit from Tyreus. The adventurers appear in the southwest corner of the island, as that destination is written into their planar key.",
-						"The island is depicted in map 2.",
+						"Quando gli avventurieri arrivano, il semipiano di Sylvene è allo sbando a causa della visita di Tyreus. Gli avventurieri appaiono nell'angolo sud-ovest dell'isola, poiché quella destinazione è scritta nella loro chiave planare.",
+						"L'isola è raffigurata nella mappa 2.",
 						{
 							"type": "image",
 							"href": {
@@ -674,9 +674,9 @@
 									"name": "General Features",
 									"page": 7,
 									"entries": [
-										"Sylvene's island is almost rectangular, roughly three miles long and two miles wide.",
-										"The temperature and atmosphere of the demiplane were chosen to feel like a thawing winter or early spring, with crisp winds and warm sunshine. The air smells of snowmelt, fresh greens, and seawater. The whole island is covered in low dunes of white sand, giving way to bare, soft beaches at the coastline.",
-										"The demiplane is a sphere, so anyone attempting to cross the \"endless\" sea eventually arrives back at the island. It is the only land in the demiplane."
+										"L'isola di Sylvene è quasi rettangolare, lunga circa tre miglia e larga due.",
+										"La temperatura e l'atmosfera del semipiano sono state scelte per far sembrare un inverno in disgelo o l'inizio della primavera, con venti frizzanti e sole caldo. L'aria profuma di neve sciolta, verdure fresche e acqua di mare. L'intera isola è ricoperta da basse dune di sabbia bianca, che lasciano il posto a spiagge nude e morbide lungo la costa.",
+										"Il semipiano è una sfera, quindi chiunque tenti di attraversare il mare \"infinito\" alla fine ritorna sull'isola. È l'unica terra nel semipiano."
 									],
 									"id": "031"
 								},
@@ -685,9 +685,9 @@
 									"name": "Life in the Sanctum",
 									"page": 8,
 									"entries": [
-										"No animals or beasts dwell in the demiplane normally. The saltwater of the endless sea is devoid of life but rich in plain, smooth stones.",
-										"Plants magically grow throughout the island and in Sylvene's old gardens. Sharp, tall dune grasses, wildflowers, shrubs, and a few gnarled trees grow throughout the island.",
-										"It rains occasionally\u2014enough to feed the plants, but never a deluge."
+										"Nessun animale o bestia abita normalmente nel semipiano. L'acqua salata del mare infinito è priva di vita ma ricca di pietre semplici e levigate.",
+										"Le piante crescono magicamente in tutta l'isola e negli antichi giardini di Sylvene. In tutta l'isola crescono erbe alte e taglienti delle dune, fiori di campo, arbusti e alcuni alberi nodosi.",
+										"Ogni tanto piove, abbastanza da nutrire le piante, ma mai un diluvio."
 									],
 									"id": "032"
 								},
@@ -696,8 +696,8 @@
 									"name": "Time in the Sanctum",
 									"page": 8,
 									"entries": [
-										"Time cycles strangely here, as dictated by Sylvene when she created the place, to lend customized beauty to her experience. The stars at night are those of the Realms as viewed from the Sword Coast at the end of winter.",
-										"Choose what time of day it is when the adventurers arrive or roll on the following table."
+										"Qui il tempo scorre in modo strano, come dettato da Sylvene quando ha creato il luogo, per conferire bellezza personalizzata alla sua esperienza. Le stelle di notte sono quelle dei Regni visti dalla Costa della Spada alla fine dell'inverno.",
+										"Scegli a che ora del giorno arrivano gli avventurieri oppure tira sulla tabella seguente."
 									],
 									"id": "033"
 								},
@@ -727,7 +727,7 @@
 										],
 										[
 											"4",
-											"Night"
+											"Notte"
 										]
 									]
 								}
@@ -739,15 +739,15 @@
 							"name": "The Four Corners",
 							"page": 8,
 							"entries": [
-								"Sylvene meant for these areas to be comfortable reception sites for visitors or relaxation spots for the {@creature usagt|AitFR-THP} keepers. Wood-and-leather folding chairs sit in the sand near the 2-foot-high stone walls here.",
+								"Sylvene ha voluto che queste aree fossero comodi luoghi di accoglienza per i visitatori o luoghi di relax per i {@creature usagt|AitFR-THP} custodi. Sedie pieghevoli in legno e pelle si trovano nella sabbia vicino ai muri di pietra alti 2 piedi qui.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"All the stonework here is gently weathered by the sea winds of this place, suggesting they are decades or even centuries old."
+										"Tutta la pietra qui è delicatamente erosa dai venti marini di questo luogo, suggerendo che abbiano decenni o addirittura secoli."
 									],
 									"id": "035"
 								},
-								"Each corner is dominated by a stout pillar where the walls meet, and each pillar is marked by whorls and swirl patterns suggesting waves or winds. (These resemble motifs found at the Wizard's Barrow in the previous adventure, In Scarlet Flames)."
+								"Ogni angolo è dominato da un robusto pilastro nel punto in cui le pareti si incontrano, e ogni pilastro è contrassegnato da spirali e motivi a spirale che suggeriscono onde o venti. (Questi assomigliano ai motivi trovati al tumulo del mago nell'avventura precedente, In Scarlet Flames)."
 							],
 							"id": "034"
 						},
@@ -756,11 +756,11 @@
 							"name": "Keepers of the Sanctum",
 							"page": 8,
 							"entries": [
-								"Once, four creatures kept watch over the island. All four were peculiar shapeshifting creatures called {@creature usagt|AitFR-THP}, brought from a distant plane by Sylvene to keep the grounds here while she was away. Though she never returned, the four keepers remained. Their names are Ahma, Noa, Ohwo, and Seero.",
-								"Sylvene made a pact with the keepers: If they remained, they would hold the demiplane together and, in exchange, live there in peace. Sylvene would bring them food and drink from Faerûn. They would keep watch, tend to visitors, and Noa would remain attuned to the keystone in the refuge's cellar.",
-								"Alas, Tyreus did not trust nor care to understand the sanctum's keepers. He slew Seero in a fit of rage.",
-								"The surviving three usagt keepers are {@condition invisible} and in hiding, waiting to see what Morwena does and hoping they do not have to leave the sanctum to utter dissolution and flee to another plane. Once the adventurers arrive, the keepers watch them in hopes that they can work together to save this place.",
-								"Each keeper is hiding at one of the four corners of the island. Choose where or roll {@dice 1d4} for each keeper; more than one might be in the same place. There Noa uses their connection to the demiplane's keystone to call for help as best they can, their cries for help echoing through Sylvene's last terrestrial sanctum and planar key.",
+								"Una volta quattro creature vegliavano sull'isola. Tutti e quattro erano particolari creature mutaforma chiamate {@creature usagt|AitFR-THP}, portate da un piano distante da Sylvene per mantenere il terreno qui mentre lei era via. Sebbene non sia mai tornata, i quattro custodi rimasero. I loro nomi sono Ahma, Noa, Ohwo e Seero.",
+								"Sylvene fece un patto con i custodi: se fossero rimasti, avrebbero tenuto insieme il semipiano e, in cambio, vi avrebbero vissuto in pace. Sylvene avrebbe portato loro cibo e bevande da Faerûn. Avrebbero vegliato, si sarebbero presi cura dei visitatori e Noa sarebbe rimasta in sintonia con la chiave di volta nella cantina del rifugio.",
+								"Ahimè, Tiro non si fidava né si preoccupava di comprendere i custodi del santuario. Ha ucciso Seero in un impeto di rabbia.",
+								"I tre custodi usagt sopravvissuti sono {@condition invisible} nascosti, in attesa di vedere cosa farà Morwena e sperando di non dover lasciare il santuario per totale dissoluzione e fuggire su un altro piano. Una volta arrivati ​​gli avventurieri, i custodi li osservano nella speranza che possano collaborare per salvare questo luogo.",
+								"Ogni custode si nasconde in uno dei quattro angoli dell'isola. Scegli dove o lancia {@dice 1d4} per ogni custode; più di uno potrebbe trovarsi nello stesso posto. Lì Noa usa la connessione con la chiave di volta del semipiano per chiedere aiuto nel miglior modo possibile, le loro grida di aiuto echeggiano attraverso l'ultimo santuario terrestre e la chiave planare di Sylvene.",
 								{
 									"type": "table",
 									"caption": "Keeper Locations",
@@ -775,19 +775,19 @@
 									"rows": [
 										[
 											"1",
-											"Northeast corner"
+											"Angolo nord-est"
 										],
 										[
 											"2",
-											"Southeast corner"
+											"Angolo sud-est"
 										],
 										[
 											"3",
-											"Southwest corner"
+											"Angolo sud-ovest"
 										],
 										[
 											"4",
-											"Northwest corner"
+											"Angolo nord-ovest"
 										]
 									]
 								}
@@ -799,9 +799,9 @@
 							"name": "Trespassers in the Refuge",
 							"page": 8,
 							"entries": [
-								"A great deal of the challenges in the demiplane come from other trespassers\u2014specifically, Tyreus's allies. How long they have been here depends on when (or how often) the adventurers arrive. It could be hours or days.",
-								"The first trespasser is {@creature Morwena Veilmist|AitFR-THP}, once a Red Wizard of Thay and now Tyreus's abandoned accomplice. She is likely reading everything she can inside the refuge (in area 2). Her goal is to get the adventurers to remove the keystone in the cellar (area 10) and collapse the demiplane, freeing her and potentially hindering Tyreus.",
-								"Additionally, Tyreus brought a minion with him to the demiplane, in case he needed it to fight on his behalf. He left it here when he departed. It is a {@creature greater shadow horror|AitFR-THP} from Ravnica. It treats the cellar of the refuge (area 10) as its den and stalks the refuge by night to protect the keystone."
+								"Gran parte delle sfide nel semipiano provengono da altri invasori, in particolare dagli alleati di Tyreus. Da quanto tempo sono qui dipende da quando (o quanto spesso) arrivano gli avventurieri. Potrebbero essere ore o giorni.",
+								"Il primo intruso è {@creature Morwena Veilmist|AitFR-THP}, un tempo mago rosso di Thay e ora complice abbandonato di Tyreus. Probabilmente sta leggendo tutto ciò che può all'interno del rifugio (nell'area 2). Il suo obiettivo è convincere gli avventurieri a rimuovere la chiave di volta nella cantina (area 10) e far crollare il semipiano, liberandola e potenzialmente ostacolando Tyreus.",
+								"Inoltre, Tyreus portò con sé un servitore sul semipiano, nel caso ne avesse avuto bisogno per combattere per suo conto. L'ha lasciato qui quando è partito. È un {@creature greater shadow horror|AitFR-THP} di Ravnica. Considera la cantina del rifugio (area 10) come la sua tana e si aggira per il rifugio di notte per proteggere la chiave di volta."
 							],
 							"id": "037"
 						},
@@ -810,9 +810,9 @@
 							"name": "Leaving the Demiplane",
 							"page": 9,
 							"entries": [
-								"To leave this demiplane, Sylvene intended visitors to require the blessing of one of the {@creature usagt|AitFR-THP} keepers. Once, this simply required a conversation with the usagt in which they took the form of someone from the conversationalist's past and estimated whether Sylvene would prefer a guest to depart or an intruder to be stranded in the demiplane for later confrontation.",
-								"In the current, fraught circumstances, the usagt want to keep adventurers around to deal with their situation, if possible. The usagt are not possessive creatures, so they don't necessarily object to adventurers leaving with treasure, either. The keepers sadly realize Sylvene isn't coming back.",
-								"Once their favor is earned, the usagt cast {@spell banishment} on visitors, then maintain concentration on the spell for 1 minute to ensure visitors leave for good. (The usagt know a variation of banishment that optionally transports targets to the previous plane they were on, so extraplanar characters can be returned to the Realms rather than their plane of origin.)"
+								"Per lasciare questo semipiano, Sylvene intendeva che i visitatori richiedessero la benedizione di uno dei {@creature usagt|AitFR-THP} custodi. Una volta, ciò richiedeva semplicemente una conversazione con gli usagt in cui prendevano la forma di qualcuno del passato del conversatore e stimavano se Sylvene avrebbe preferito che un ospite se ne andasse o che un intruso rimanesse bloccato nel semipiano per un successivo confronto.",
+								"Nelle circostanze attuali e difficili, gli usagt vogliono tenere in giro gli avventurieri per affrontare la loro situazione, se possibile. Gli usagt non sono creature possessive, quindi non si oppongono necessariamente al fatto che gli avventurieri se ne vadano con il tesoro. I custodi si rendono conto tristemente che Sylvene non tornerà.",
+								"Una volta guadagnato il loro favore, l'usagt lancia {@spell banishment} sui visitatori, quindi mantiene la concentrazione sull'incantesimo per 1 minuto per assicurarsi che i visitatori se ne vadano definitivamente. (Gli usagt conoscono una variazione dell'esilio che facoltativamente trasporta i bersagli sul piano precedente su cui si trovavano, quindi i personaggi extraplanari possono essere riportati nei Reami anziché sul loro piano di origine.)"
 							],
 							"id": "038"
 						},
@@ -821,8 +821,8 @@
 							"name": "Collapsing the Demiplane",
 							"page": 9,
 							"entries": [
-								"If no one remains in the demiplane who is attuned to its keystone, the demiplane collapses over 10 ({@dice 1d10 + 5}) minutes. The sea overtakes the island and then gradually dissipates into nothingness. Creatures still in the demiplane in the last minute of the collapse are magically transported back to the plane from which they arrived. Objects like treasure, books, and furniture still in the demiplane are most likely lost or destroyed.",
-								"Removing the keystone from the demiplane also causes it to collapse. Once removed from the demiplane, the keystone's power dissipates and is lost forever."
+								"Se nel semipiano non rimane nessuno che sia in sintonia con la sua chiave di volta, il semipiano collassa in 10 ({@dice 1d10 + 5}) minuti. Il mare sorpassa l'isola e poi gradualmente si dissolve nel nulla. Le creature ancora nel semipiano nell'ultimo minuto del crollo vengono magicamente trasportate sul piano da cui sono arrivate. Oggetti come tesori, libri e mobili ancora nel semipiano vengono molto probabilmente persi o distrutti.",
+								"Anche la rimozione della chiave di volta dal semipiano ne provoca il collasso. Una volta rimossa dal semipiano, il potere della chiave di volta si dissipa e viene perso per sempre."
 							],
 							"id": "039"
 						}
@@ -834,9 +834,9 @@
 					"name": "Part 3: The Refuge",
 					"page": 10,
 					"entries": [
-						"The wide, comfortable house at the heart of the island is easy to spot. Though it has been exposed to the island's weather for years with minimal maintenance, the elements have been kind and the house wears its age like a handsome patina. The house, the weather, and the island are all aspects of the same magic, after all; they were made for each other.",
-						"Sylvene etched her name for the refuge\u2014The Hidden Page\u2014into the wooden frames above the outer doors on the east and west sides of the building. She hoped to pass this place on to her son, Tyberio, one day. Even for mages, life seldom goes quite as planned.",
-						"In her absence, the keepers cleaned and maintained the place as best they could. Tyreus and Morwena have since searched through the place with little regard for its tidiness.",
+						"La casa ampia e confortevole nel cuore dell'isola è facile da individuare. Anche se è stata esposta per anni alle intemperie dell'isola con una manutenzione minima, gli elementi sono stati gentili e la casa indossa la sua età come una bella patina. Dopotutto, la casa, il tempo e l'isola sono tutti aspetti della stessa magia; erano fatti l'uno per l'altro.",
+						"Sylvene ha inciso il nome del rifugio, La Pagina Nascosta, sui telai di legno sopra le porte esterne sui lati est e ovest dell'edificio. Sperava di trasmettere questo posto a suo figlio, Tyberio, un giorno. Anche per i maghi, la vita raramente va come previsto.",
+						"In sua assenza, i custodi pulivano e mantenevano il posto come meglio potevano. Tyreus e Morwena da allora hanno perlustrato il posto senza badare troppo al suo ordine.",
 						{
 							"type": "image",
 							"href": {
@@ -1038,13 +1038,13 @@
 									"name": "General Features",
 									"page": 10,
 									"entries": [
-										"The Hidden Page is made of thick wooden timbers and plastered stones, presented in a simple, bright style with a wide, flat roof. The layout of the place is depicted in map 3.",
+										"La Pagina Nascosta è realizzata con spesse travi di legno e pietre intonacate, presentata in uno stile semplice e luminoso con un tetto ampio e piatto. La disposizione del luogo è rappresentata nella mappa 3.",
 										{
 											"type": "entries",
 											"name": "Floors and Ceilings",
 											"page": 10,
 											"entries": [
-												"Each room features 10-foot ceilings with exposed wooden rafters and patterned plaster. The floors feature wide slate tiles and copious, lavish rugs."
+												"Ogni camera dispone di soffitti alti 10 piedi con travi in ​​legno a vista e intonaco decorato. I pavimenti sono caratterizzati da ampie piastrelle in ardesia e tappeti abbondanti e sontuosi."
 											],
 											"id": "03d"
 										},
@@ -1053,7 +1053,7 @@
 											"name": "Doors",
 											"page": 10,
 											"entries": [
-												"Security not being a major concern, the doors of the refuge are simple, lightweight wood with ornate fixtures and no locks."
+												"Non essendo la sicurezza una delle maggiori preoccupazioni, le porte del rifugio sono semplici, in legno leggero con infissi decorati e senza serrature."
 											],
 											"id": "03e"
 										},
@@ -1062,7 +1062,7 @@
 											"name": "Light",
 											"page": 10,
 											"entries": [
-												"High, wide windows sit just below the ceilings in most outer walls to allow ambient light. Lanterns and candles abound to supplement the fireplaces."
+												"Finestre alte e ampie si trovano appena sotto i soffitti nella maggior parte delle pareti esterne per consentire la luce ambientale. Lanterne e candele abbondano per integrare i caminetti."
 											],
 											"id": "03f"
 										},
@@ -1071,7 +1071,7 @@
 											"name": "Sound",
 											"page": 10,
 											"entries": [
-												"Normally, a serene quiet permeates the refuge, with the occasional sound of waves and wind."
+												"Normalmente, una quiete serena permea il rifugio, con il rumore occasionale delle onde e del vento."
 											],
 											"id": "040"
 										}
@@ -1092,11 +1092,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"This wide foyer is designed to practically bask in sunlight. The white plaster walls here amplify the glow from outside. The floor is made of tidy, slate tiles."
+								"Questo ampio foyer è progettato per crogiolarsi praticamente al sole. Le pareti in gesso bianco qui amplificano la luce proveniente dall'esterno. Il pavimento è fatto di piastrelle di ardesia ordinate."
 							],
 							"id": "042"
 						},
-						"Once, this room was intended to receive guests and be a place for people to doff sandy shoes. This is the main entrance used by the keepers, out of habit. A pair of sandals and a pair of boots, dried and almost rotten, stand near the outer doorway."
+						"Un tempo questa stanza era destinata a ricevere gli ospiti ed essere un luogo in cui le persone potevano togliersi le scarpe sabbiose. Questo è l'ingresso principale utilizzato dai custodi, per abitudine. Un paio di sandali e un paio di stivali, secchi e quasi marci, stanno vicino alla porta esterna."
 					],
 					"id": "041"
 				},
@@ -1108,21 +1108,21 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Despite the glow of the fireplace, this room feels dark and cave-like, insulated by shelves and shelves of books\u2014many of which lay in piles or heaps on the floor. The room smells like old books. Loose leaves of paper lay abandoned on the floor here and there, torn or fallen out of the collection. Whatever order these books might once have been in, they are in chaos now."
+								"Nonostante la luce del camino, questa stanza sembra buia e simile a una caverna, isolata da scaffali e scaffali di libri, molti dei quali giacciono in pile o mucchi sul pavimento. La stanza odora di vecchi libri. Fogli di carta sparsi giacevano abbandonati qua e là sul pavimento, strappati o caduti dalla collezione. Qualunque sia l'ordine in cui potevano essere questi libri una volta, ora sono nel caos."
 							],
 							"id": "044"
 						},
-						"This room housed Sylvene's mundane personal library, which only filled the shelves to about half capacity at the time of her last visit. Many volumes of history, natural history, poetry, religion, and other subjects have been stacked throughout this room by Tyreus and Morwena since they arrived. All of these books are from and about the Realms.",
-						"This is where Morwena has spent most of her time since being stranded here.",
+						"Questa stanza ospitava la banale biblioteca personale di Sylvene, che riempiva gli scaffali solo a metà della sua capacità al momento della sua ultima visita. Molti volumi di storia, storia naturale, poesia, religione e altri argomenti sono stati impilati in questa stanza da Tyreus e Morwena da quando sono arrivati. Tutti questi libri provengono e riguardano i Regni.",
+						"È qui che Morwena ha trascorso la maggior parte del suo tempo da quando è rimasta bloccata qui.",
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Near the west-facing fireplace, a life-size statue of a deerhound reclines like a dog by a fire. The skill displayed by its carving is exquisite."
+								"Vicino al camino rivolto a ovest, una statua a grandezza naturale di un levriero si adagia come un cane accanto al fuoco. L'abilità mostrata dalla sua scultura è squisita."
 							],
 							"id": "045"
 						},
-						"Speaking the proper command words within 30 feet of the deerhound statue activates the statue's magic and instantly casts {@spell Mordenkainen's faithful hound} centered on the statue. The faithful hound cannot be conjured again until 8 hours have passed. The command words are \"Come here, Coriander.\"",
-						"Morwena does not know the command words but has cast {@spell detect magic} as a ritual in this area, so she knows the statue is magical."
+						"Pronunciare le parole di comando corrette entro 9 metri dalla statua del levriero attiva la magia della statua e lancia istantaneamente {@spell Mordenkainen's faithful hound} centrato sulla statua. Il segugio fedele non può essere evocato nuovamente prima che siano trascorse 8 ore. Le parole di comando sono \"Vieni qui, Coriandolo\".",
+						"Morwena non conosce le parole di comando ma ha lanciato {@spell detect magic} come rituale in quest'area, quindi sa che la statua è magica."
 					],
 					"id": "043"
 				},
@@ -1134,12 +1134,12 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"A square, hardwood table dominates this room, surrounded by enough high-backed wooden chairs to seat eight. The room's two sideboards look like they're made of driftwood. A painting on the southern wall depicts a green, grassy barrow with two tall steles in front, etched with spirals."
+								"Un tavolo quadrato di legno massiccio domina questa stanza, circondato da abbastanza sedie di legno con lo schienale alto per ospitare otto persone. Le due credenze della stanza sembrano fatte di legni. Un dipinto sulla parete meridionale raffigura un tumulo verde ed erboso con due alte stele davanti, incise con spirali."
 							],
 							"id": "047"
 						},
-						"This room is in good shape and largely undisturbed, as it has been of little interest to the recent trespassers. The sideboards contain a complete set of silverware worth 125 gp.",
-						"The painting is a wide, framed landscape called Wizard's Barrow, by a once-famed Waterdhavian artist called Saraque Skyhill, whose work Sylvene admired. It is worth 550 gp."
+						"Questa stanza è in buone condizioni e per lo più indisturbata, poiché ha suscitato scarso interesse per i recenti intrusi. Le credenze contengono un set completo di argenteria del valore di 125 mo.",
+						"Il dipinto è un ampio paesaggio incorniciato chiamato Wizard's Barrow, di un'artista un tempo famosa di Waterdhavia chiamata Saraque Skyhill, il cui lavoro Sylvene ammirava. Vale 550 mo."
 					],
 					"id": "046"
 				},
@@ -1151,12 +1151,12 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Loose doors on the south wall let in crisp air. Empty barrels and neatly folded burlap sacks say this kitchen has been neatly emptied. Smoke stains on the plaster show it has seen a lot of use. Stairs descend into darkness to the north."
+								"Le porte allentate sulla parete sud lasciavano entrare aria frizzante. Barili vuoti e sacchi di iuta ben piegati dicono che questa cucina è stata accuratamente svuotata. Macchie di fumo sull'intonaco mostrano che è stato molto utilizzato. Le scale scendono nell'oscurità a nord."
 							],
 							"id": "049"
 						},
-						"The fireplace boasts a large stew pot and roasting spit. The shelves and cupboards here are bare. A collection of common knives and spoons slowly rusts in a small chest here.",
-						"The stairs lead down to the cellar (area 10)."
+						"Il camino vanta una grande pentola per stufato e uno spiedo. Gli scaffali e gli armadi qui sono spogli. Una collezione di coltelli e cucchiai comuni arrugginisce lentamente in un piccolo scrigno qui.",
+						"Le scale conducono alla cantina (area 10)."
 					],
 					"id": "048"
 				},
@@ -1168,13 +1168,13 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"A few floor-to-ceiling bookcases complement the deep desk, plush couches, and leather chairs here to create a cozy reading area. The effect is undermined by loose papers scattered about and books stacked haphazardly on the floor and furniture. Someone was looking for something."
+								"Alcune librerie dal pavimento al soffitto completano la profonda scrivania, i morbidi divani e le sedie in pelle per creare un'accogliente area lettura. L'effetto è compromesso da fogli sparsi qua e là e da libri impilati a casaccio sul pavimento e sui mobili. Qualcuno stava cercando qualcosa."
 							],
 							"id": "04b"
 						},
-						"Here is where Sylvene did her work and read about topics related to wizardry. The books here cover a variety of topics, from architecture to zoology, all from and about the Realms.",
-						"All the spellbooks and diaries that were kept here have been taken by Tyreus.",
-						"A first-edition, pristine copy of a book called simply Mythologies can be found here, worth 200 gp."
+						"Qui è dove Sylvene ha svolto il suo lavoro e ha letto argomenti relativi alla magia. I libri qui coprono una varietà di argomenti, dall'architettura alla zoologia, tutti provenienti e sui Regni.",
+						"Tutti i libri degli incantesimi e i diari che erano tenuti qui sono stati presi da Tyreus.",
+						"Qui puoi trovare una copia intatta della prima edizione di un libro chiamato semplicemente Mythologies, del valore di 200 mo."
 					],
 					"id": "04a"
 				},
@@ -1186,11 +1186,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"This long foyer chamber seems designed to draw in the outside ambiance and light. The emptiness of the space augments the airy effect."
+								"Questo lungo foyer sembra progettato per attirare l'atmosfera e la luce esterne. Il vuoto dello spazio aumenta l'effetto arioso."
 							],
 							"id": "04d"
 						},
-						"This area was once intended as a place to receive guests and leave sandy shoes behind. It stands empty now."
+						"Un tempo quest'area era intesa come luogo in cui ricevere gli ospiti e lasciare dietro di sé le scarpe sabbiose. Adesso è vuoto."
 					],
 					"id": "04c"
 				},
@@ -1202,11 +1202,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"The centerpiece of this room is a bare, four-post bed set at an angle relative to the walls. A hulking fireplace nearby stands cold and clean. A wooden, covered cradle stands in the northwest corner of the room, where it could be warmed by the fireplace in days past."
+								"Il fulcro di questa stanza è un nudo letto a quattro colonne disposto ad angolo rispetto alle pareti. Un enorme camino lì vicino è freddo e pulito. Nell'angolo nord-ovest della stanza si trova una culla di legno coperta, dove in passato poteva essere riscaldata davanti al camino."
 							],
 							"id": "04f"
 						},
-						"A large chest holds sheets and blankets for the bed and the cradle. A quilt still folded neatly in the cradle bears the name Tyberio in ornate, stitched letters."
+						"Una grande cassapanca contiene lenzuola e coperte per il letto e la culla. Una trapunta ancora piegata ordinatamente nella culla porta il nome Tyberio in lettere elaborate e cucite."
 					],
 					"id": "04e"
 				},
@@ -1218,11 +1218,11 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Overgrown to the point of choking on itself, this garden is dotted here and there with signs marking the original plots of herbs and vegetables, many of which clearly no longer grow here. The air smells like sweet basil."
+								"Invaso dalla vegetazione al punto da soffocare su se stesso, questo giardino è punteggiato qua e là da cartelli che segnano gli appezzamenti originali di erbe e verdure, molte delle quali chiaramente non crescono più qui. L'aria profuma di basilico dolce."
 							],
 							"id": "051"
 						},
-						"Lively herbs have overtaken much of the garden, but some carrots and turnips still grow here, too. The keepers don't eat (in case they need food for visitors), and Morwena has been surviving thus far on rations she brought."
+						"Le erbe vivaci hanno invaso gran parte del giardino, ma qui crescono ancora anche alcune carote e rape. I custodi non mangiano (nel caso abbiano bisogno di cibo per i visitatori) e Morwena è sopravvissuta finora con le razioni che ha portato."
 					],
 					"id": "050"
 				},
@@ -1234,12 +1234,12 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Long and empty tables run the length of this room, along the walls and down the center, stained where pots and planters once sat. Now they're all stacked beneath the tabletops on a floor still stained with good dirt."
+								"Tavoli lunghi e vuoti corrono per tutta la lunghezza di questa stanza, lungo le pareti e al centro, macchiati dove un tempo c'erano vasi e fioriere. Adesso sono tutti accatastati sotto il piano dei tavoli, su un pavimento ancora macchiato di buona terra."
 							],
 							"id": "053"
 						},
-						"Sylvene never got around to accomplishing as much gardening as she intended. Nothing grows in this room anymore.",
-						"A golden disc, about the size of a platter and made to resemble a stylized sun, hangs on a wall in this room. It is worth 250 gp."
+						"Sylvene non è mai riuscita a realizzare tutto il giardinaggio che intendeva. Non cresce più nulla in questa stanza.",
+						"Un disco dorato, delle dimensioni di un piatto e fatto per assomigliare ad un sole stilizzato, è appeso a una parete in questa stanza. Vale 250 mo."
 					],
 					"id": "052"
 				},
@@ -1251,20 +1251,20 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"Bare stone and wooden rafters make up this low, six-foot-tall cellar. Dry sand is scattered throughout a room that is almost parched\u2014despite the nearby seashore. Perhaps this windowless cellar was magically made to keep the kegs, barrels, and sacks here from moldering."
+								"Pietra nuda e travi di legno compongono questa cantina bassa, alta sei piedi. La sabbia asciutta è sparsa in una stanza quasi arida, nonostante la vicina spiaggia. Forse questa cantina senza finestre è stata creata magicamente per evitare che marcissero barili, barili e sacchi."
 							],
 							"id": "055"
 						},
-						"The cellar is largely empty, and most of what remains is dried or rotten.",
-						"The {@creature greater shadow horror|AitFR-THP} lurks here during the daylight hour. By night, it prefers to roam the island or the refuge, passing through doors and walls as it goes. During dawn and dusk hours, it stays close to the refuge. Its goal is to keep anyone, including Morwena, from interacting with the keystone, on Tyreus's orders. In its mind, Morwena is no threat unless she ventures into the cellar. (Thus, she doesn't.) The shadow horror is satisfied with keeping new trespassers, like the adventurers, away from the house\u2014and just as happy to kill them.",
-						"The keystone is set in the center of the ceiling. It is a dark, jagged stone with veins of gold, all etched with arcane runes and sigils, very much out of place here. It's about the size of a loaf of bread and weighs about 10 pounds.",
-						"Three bottles of fortified wine from the Sword Coast, never opened, still sit amid straw in a crate in the southeast corner of the cellar. Each bottle is now worth 70 gp.",
+						"La cantina è in gran parte vuota e la maggior parte di ciò che resta è secco o marcio.",
+						"Il {@creature greater shadow horror|AitFR-THP} si annida qui durante le ore diurne. Di notte preferisce vagare per l'isola o per il rifugio, attraversando porte e muri mentre cammina. Nelle ore dell'alba e del tramonto sosta nei pressi del rifugio. Il suo obiettivo è impedire a chiunque, inclusa Morwena, di interagire con la chiave di volta, su ordine di Tyreus. Nella sua mente, Morwena non rappresenta una minaccia a meno che non si avventuri nella cantina. (Pertanto, non lo fa.) L'orrore ombra è soddisfatto di tenere nuovi intrusi, come gli avventurieri, lontani dalla casa - ed è altrettanto felice di ucciderli.",
+						"La chiave di volta è posta al centro del soffitto. È una pietra scura e frastagliata con venature d'oro, tutta incisa con rune e sigilli arcani, molto fuori posto qui. Ha le dimensioni di una pagnotta di pane e pesa circa 10 chili.",
+						"Tre bottiglie di vino liquoroso della Costa della Spada, mai aperte, si trovano ancora in mezzo alla paglia in una cassa nell'angolo sud-est della cantina. Ogni bottiglia ora vale 70 mo.",
 						{
 							"type": "inset",
 							"name": "Keystone of the Hidden Page",
 							"page": 12,
 							"entries": [
-								"The keystone Sylvene used to found and anchor her demiplane refuge was created by manipulating the magic imbued into the stone by a powerful artifact (detailed in subsequent adventures in this series). Sylvene's keystone was an experiment, both more potent and less flexible in its power than the artifacts soon to be discovered. If Sylvene kept detailed notes about the magical experiments that harnessed this power, those notes seem to be lost."
+								"La chiave di volta utilizzata da Sylvene per fondare e ancorare il suo rifugio nel semipiano è stata creata manipolando la magia infusa nella pietra da un potente artefatto (dettagliato nelle avventure successive di questa serie). La chiave di volta di Sylvene era un esperimento, più potente e meno flessibile nel suo potere rispetto agli artefatti che presto sarebbero stati scoperti. Se Sylvene avesse tenuto appunti dettagliati sugli esperimenti magici che sfruttavano questo potere, quegli appunti sembrano essere andati perduti."
 							],
 							"id": "056"
 						}
@@ -1279,8 +1279,8 @@
 			"name": "Part 4: What's Next",
 			"page": 12,
 			"entries": [
-				"The adventurers likely have new lore at hand and questions about what's next. The subsequent adventure's hooks take them back into the High Moors to seek a lost tomb, where Sylvene and old allies have been laid to rest and new secrets wait to be discovered.",
-				"Soon, the full scope of Tyreus's villainous plan comes into view."
+				"Gli avventurieri probabilmente hanno nuove conoscenze a portata di mano e domande su cosa verrà dopo. Gli agganci dell'avventura successiva li riportano nelle Alte Brughiere alla ricerca di una tomba perduta, dove Sylvene e i vecchi alleati sono stati sepolti e nuovi segreti aspettano di essere scoperti.",
+				"Presto si scopre l'intera portata del malvagio piano di Tiro."
 			],
 			"id": "057"
 		},
@@ -1289,7 +1289,7 @@
 			"name": "Appendix: Monsters and Magic Items",
 			"page": 12,
 			"entries": [
-				"This section details game statistics for the key NPC, monsters, and magic items that interact with the adventurers in this scenario.",
+				"Questa sezione descrive in dettaglio le statistiche di gioco per i principali NPC, mostri e oggetti magici che interagiscono con gli avventurieri in questo scenario.",
 				{
 					"type": "entries",
 					"name": "Monsters",
@@ -1312,7 +1312,7 @@
 					"name": "Magic Items",
 					"page": 13,
 					"entries": [
-						"The following entry describes a generalized version of the planar key found in this adventure. Each planar key is unique.",
+						"La voce seguente descrive una versione generalizzata della chiave planare trovata in questa avventura. Ogni chiave planare è unica.",
 						{
 							"type": "list",
 							"items": [
@@ -1337,7 +1337,7 @@
 							"type": "item",
 							"name": "Adventure Writing & Maps",
 							"entries": [
-								"Will Hindmarch"
+								"Sarà Hindmarch"
 							]
 						},
 						{
@@ -1351,14 +1351,14 @@
 							"type": "item",
 							"name": "Illustrators",
 							"entries": [
-								"Deruchenko Alexander and Zoltan Boros"
+								"Deruchenko Alexander e Zoltan Boros"
 							]
 						},
 						{
 							"type": "item",
 							"name": "Adventures in the Forgotten Realms Set Leads",
 							"entries": [
-								"James Wyatt (narrative), Zach Stella (art), with contributions from Tyler Jacobson"
+								"James Wyatt (narrativa), Zach Stella (arte), con il contributo di Tyler Jacobson"
 							]
 						}
 					]

@@ -5,17 +5,17 @@
 			"name": "About Eldraine",
 			"id": "001",
 			"entries": [
-				"Eldraine is a storybook world of quests and castles, knights and wizards, wicked warlocks and fantastical creatures. Once, valiant knights would venture from five royal courts to fulfill noble quests\u2014but the invasion of the horrific Phyrexians from another world changed all that and left the kingdom in ruins.",
-				"The realm and the wilds of Eldraine were introduced to players of Magic: The Gathering with 2019's {@i Throne of Eldraine} set. The new {@i Wilds of Eldraine} set presents the world in the wake of the Phyrexian invasion, leaving behind the knights and castles and delving deep into the strange and mysterious wilds. Here, giants lumber through the clouds, faeries make mischief, and witches cackle over bubbling cauldrons.",
-				"When a creature's name appears in {@b bold} type, that's a visual cue pointing you to its stat block, which appears in the {@book Monster Manual|MM} unless noted otherwise.",
+				"Eldraine è un mondo da favola fatto di missioni e castelli, cavalieri e maghi, stregoni malvagi e creature fantastiche. Un tempo, valorosi cavalieri si sarebbero avventurati da cinque corti reali per compiere nobili missioni, ma l'invasione degli orribili Phyrexiani da un altro mondo ha cambiato tutto ciò e ha lasciato il regno in rovina.",
+				"Il regno e le terre selvagge di Eldraine sono stati introdotti ai giocatori di Magic: The Gathering con il set {@i Throne of Eldraine} del 2019. Il nuovo set {@i Wilds of Eldraine} presenta il mondo sulla scia dell'invasione di Phyrexia, lasciandosi alle spalle cavalieri e castelli e addentrandosi in terre selvagge strane e misteriose. Qui, i giganti si aggirano tra le nuvole, le fate combinano guai e le streghe ridacchiano sui calderoni ribollenti.",
+				"Quando il nome di una creatura appare nel tipo {@b bold}, è un segnale visivo che ti indirizza al suo blocco delle statistiche, che appare nel {@book Monster Manual|MM} se non diversamente specificato.",
 				{
 					"type": "entries",
 					"name": "The Wilds",
 					"id": "002",
 					"entries": [
-						"Past the courts, across the stream, into the woods\u2014there lie the wilds, the most magical, strange, and dangerous lands in all Eldraine. In contrast to the order and structure of the realm, the wilds are unpredictable and not united under any one system of government.",
-						"The lands of the wilds are just as untamed and diverse as the creatures that live there. Magic runs rampant, manifesting in strange and often beautiful ways. It can be alluring, empowering, and restorative. It can also be repellent, enervating, and destructive.",
-						"Countless species of sapient creatures dwell in the wilds, including humans. In addition to those described in this collection, many creatures from the {@book Monster Manual|MM} and other sources live in the wilds of Eldraine:",
+						"Oltre i campi, oltre il ruscello, nei boschi: là si trovano le terre selvagge, le terre più magiche, strane e pericolose di tutta Eldraine. In contrasto con l’ordine e la struttura del regno, le terre selvagge sono imprevedibili e non unite sotto nessun sistema di governo.",
+						"Le terre selvagge sono altrettanto selvagge e diverse quanto le creature che vivono lì. La magia dilaga, manifestandosi in modi strani e spesso meravigliosi. Può essere seducente, potenziante e rigenerante. Può anche essere repellente, snervante e distruttivo.",
+						"Innumerevoli specie di creature senzienti vivono nelle terre selvagge, compresi gli umani. Oltre a quelle descritte in questa raccolta, molte creature provenienti dal {@book Monster Manual|MM} e da altre fonti vivono nelle terre selvagge di Eldraine:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -23,42 +23,42 @@
 								{
 									"type": "item",
 									"name": "Humans",
-									"entry": "Whether driven by desperation or a desire to live outside the courts, humans have always existed in the wilds. These humans include resilient and resourceful hunters, foresters, and artisans, and they often pick up some of the eccentricities of their more fantastical neighbors. In addition to the nonplayer character stat blocks found in the {@book Monster Manual|MM} and other sources, see the {@creature Knight of Eldraine|MCV4EC} in this collection."
+									"entry": "Che siano spinti dalla disperazione o dal desiderio di vivere fuori dalle corti, gli esseri umani sono sempre esistiti nella natura selvaggia. Questi umani includono cacciatori, guardaboschi e artigiani resilienti e intraprendenti, e spesso raccolgono alcune delle eccentricità dei loro vicini più fantastici. Oltre ai blocchi delle statistiche dei personaggi non giocanti presenti in {@book Monster Manual|MM} e in altre fonti, consulta {@creature Knight of Eldraine|MCV4EC} in questa raccolta."
 								},
 								{
 									"type": "item",
 									"name": "Elves",
-									"entry": "Scions of a once-mighty empire, the elves of Eldraine have found new purpose in their role as guardians of nature. Most elves move through the woods in small bands of hunters, gatherers, and druids, though some still reside within crumbling forts and overgrown castles that dot the wilds. In addition to the nonplayer character stat blocks found in the {@book Monster Manual|MM} and other sources, see the {@creature Redtooth werefox|MCV4EC} in this collection."
+									"entry": "Discendenti di un impero un tempo potente, gli elfi di Eldraine hanno trovato un nuovo scopo nel loro ruolo di guardiani della natura. La maggior parte degli elfi si muove attraverso i boschi in piccoli gruppi di cacciatori, raccoglitori e druidi, anche se alcuni risiedono ancora all'interno di fortezze fatiscenti e castelli ricoperti di vegetazione che punteggiano le terre selvagge. Oltre ai blocchi delle statistiche dei personaggi non giocanti presenti in {@book Monster Manual|MM} e in altre fonti, consulta {@creature Redtooth werefox|MCV4EC} in questa raccolta."
 								},
 								{
 									"type": "item",
 									"name": "Dwarves",
-									"entry": "The dwarves of Eldraine include miners, blacksmiths, and other artisans who value hard work and independence. These artisans take pride in creating intricate jewelry and sturdy weapons from the minerals they mine, and they value the dignity of work."
+									"entry": "I nani di Eldraine includono minatori, fabbri e altri artigiani che apprezzano il duro lavoro e l'indipendenza. Questi artigiani sono orgogliosi di creare gioielli complessi e armi robuste dai minerali che estraggono e apprezzano la dignità del lavoro."
 								},
 								{
 									"type": "item",
 									"name": "Merfolk",
-									"entry": "In the wilds, {@creature merfolk} are known as covetous keepers of arcane magic, knowledge, and artifacts. They are said to hoard precious magic items, tomes, and other secrets in lochs, ponds, and wishing wells across Eldraine."
+									"entry": "Nelle terre selvagge, {@creature merfolk} sono conosciuti come avidi custodi di magia arcana, conoscenza e artefatti. Si dice che accumulino preziosi oggetti magici, tomi e altri segreti nei laghi, negli stagni e nei pozzi dei desideri di tutta Eldraine."
 								},
 								{
 									"type": "item",
 									"name": "Fauns",
-									"entry": "Prior to the Phyrexian invasion, fauns (use the {@creature satyr} stat block) were reclusive creatures living in tight family units deep in the forest. Seeing their homeland under attack inspired them to leave the woods and join the rest of Eldraine in its defense. Since the end of the invasion, the fauns have taken charge of the Tanglespan, a great chasm between the realm and the wilds. They map out the crisscrossing pathways spanning the chasm, fight off the {@creature Troll||trolls} who lurk beneath the bridges in hope of feasting on travelers, and guide travelers across the chasm in exchange for a modest toll."
+									"entry": "Prima dell'invasione di Phyrexia, i fauni (usa il blocco statistiche {@creature satyr}) erano creature solitarie che vivevano in unità familiari strette nel profondo della foresta. Vedere la loro patria sotto attacco li ha ispirati a lasciare i boschi e ad unirsi al resto di Eldraine in sua difesa. Dalla fine dell'invasione, i fauni hanno preso il controllo del Tanglespan, un grande abisso tra il regno e le terre selvagge. Tracciano i percorsi incrociati che attraversano l'abisso, combattono i {@creature Troll||trolls} che si nascondono sotto i ponti nella speranza di banchettare con i viaggiatori e guidano i viaggiatori attraverso l'abisso in cambio di un modesto pedaggio."
 								},
 								{
 									"type": "item",
 									"name": "Giants",
-									"entry": "Giants are the rare creatures equally at home in the realm or the wilds. In Garenbrig and Embereth, {@creature Fire Giant||fire giants} and {@creature Stone Giant||stone giants} served as mighty knights and strong laborers. In the wilds, {@creature Hill Giant||hill giants} have always been hostile to the rulers of the realm, even when elves governed the land. {@creature Cloud Giant||Cloud} and {@creature Storm Giant||storm giants} live far above the wilds on islands made of magical cloud. (See the {@creature tempest hart|MCV4EC} entry in this collection for more on Stormkeld and its giant inhabitants.) {@book Bigby Presents: Glory of the Giants|BGG} includes many additional giant stat blocks as well as descriptions of other creatures that might be found in Stormkeld, such as {@creature Giant Goose|BGG|giant geese} and {@creature Giant Ox|BGG|giant oxen}."
+									"entry": "I giganti sono le creature rare che si trovano ugualmente a loro agio nel regno o nelle terre selvagge. A Garenbrig e Embereth, {@creature Fire Giant||fire giants} e {@creature Stone Giant||stone giants} hanno servito come potenti cavalieri e forti lavoratori. Nelle terre selvagge, {@creature Hill Giant||hill giants} sono sempre stati ostili ai governanti del regno, anche quando gli elfi governavano la terra. {@creature Cloud Giant||Cloud} e {@creature Storm Giant||storm giants} vivono molto al di sopra delle terre selvagge su isole fatte di nuvole magiche. (Vedi la voce {@creature tempest hart|MCV4EC} in questa raccolta per ulteriori informazioni su Stormkeld e i suoi abitanti giganti.) {@book Bigby Presents: Glory of the Giants|BGG} include molti blocchi statistiche giganti aggiuntivi nonché descrizioni di altre creature che potrebbero essere trovate a Stormkeld, come {@creature Giant Goose|BGG|giant geese} e {@creature Giant Ox|BGG|giant oxen}."
 								},
 								{
 									"type": "item",
 									"name": "Redcaps",
-									"entry": "Redcaps (use the {@creature redcap|MPMM} stat block in {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM} or the {@creature goblin} stat block) are mischievous agents of chaos. They fight without any sense of honor or fair play; they specialize in sneak attacks and ambushes and often raid villages across the Boundary Lands before retreating deeper into the wilds."
+									"entry": "I berretti rossi (usa il blocco delle statistiche {@creature redcap|MPMM} nel blocco delle statistiche {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM} o nel blocco delle statistiche {@creature goblin} sono dispettosi agenti del caos. Combattono senza alcun senso dell'onore o del fair play; sono specializzati in attacchi furtivi e imboscate e spesso fanno irruzione nei villaggi attraverso le Terre di Confine prima di ritirarsi nelle zone più selvagge."
 								},
 								{
 									"type": "item",
 									"name": "Ogres",
-									"entry": "Ogres are smaller and meaner than other giants, with vicious tempers and a propensity for violence. In addition to the ogre stat blocks in the {@book Monster Manual|MM} and {@book Monsters of the Multiverse|MPMM}, see the {@creature ogre chitterlord|MCV4EC} in this collection."
+									"entry": "Gli orchi sono più piccoli e più cattivi degli altri giganti, con un temperamento feroce e una propensione alla violenza. Oltre ai blocchi delle statistiche degli orchi in {@book Monster Manual|MM} e {@book Monsters of the Multiverse|MPMM}, vedi {@creature ogre chitterlord|MCV4EC} in questa raccolta."
 								}
 							]
 						}
@@ -69,7 +69,7 @@
 					"name": "In This Collection",
 					"id": "003",
 					"entries": [
-						"{@i Monstrous Compendium: Eldraine Creatures} contains details of twenty-five denizens of Eldraine. The following table shows all these creatures and allows you to sort them by creature type and challenge rating.",
+						"{@i Monstrous Compendium: Eldraine Creatures} contiene dettagli di venticinque abitanti di Eldraine. La tabella seguente mostra tutte queste creature e ti consente di ordinarle per tipo di creatura e grado di sfida.",
 						{
 							"type": "table",
 							"caption": "Eldraine Creatures",
@@ -92,7 +92,7 @@
 								[
 									"1/2",
 									"{@creature Gingerbrute|MCV4EC}",
-									"Construct"
+									"Costruire"
 								],
 								[
 									"1",
@@ -107,47 +107,47 @@
 								[
 									"2",
 									"{@creature Sewer King|MCV4EC}",
-									"Fiend"
+									"Diavolo"
 								],
 								[
 									"3",
 									"{@creature Knight of Eldraine|MCV4EC}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"3",
 									"{@creature Ogre Chitterlord|MCV4EC}",
-									"Giant"
+									"Gigante"
 								],
 								[
 									"3",
 									"{@creature Redtooth Werefox|MCV4EC}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"4",
 									"{@creature Sweettooth Horror|MCV4EC}",
-									"Fiend"
+									"Diavolo"
 								],
 								[
 									"5",
 									"{@creature Deathless Rider|MCV4EC}",
-									"Undead"
+									"Non morti"
 								],
 								[
 									"5",
 									"{@creature Dunbarrow Witch|MCV4EC}",
-									"Humanoid"
+									"Umanoide"
 								],
 								[
 									"5",
 									"{@creature Nightmare Haunt|MCV4EC}",
-									"Aberration"
+									"Aberrazione"
 								],
 								[
 									"6",
 									"{@creature Witchstalker|MCV4EC}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"7",
@@ -162,17 +162,17 @@
 								[
 									"11",
 									"{@creature Snapping Hydra|MCV4EC}",
-									"Monstrosity"
+									"Mostruosità"
 								],
 								[
 									"11",
 									"{@creature Tempest Hart|MCV4EC}",
-									"Elemental"
+									"Elementare"
 								],
 								[
 									"11",
 									"{@creature Treefolk|MCV4EC}",
-									"Plant"
+									"Pianta"
 								],
 								[
 									"12",
@@ -187,7 +187,7 @@
 								[
 									"12",
 									"{@creature Specter of Night|MCV4EC}",
-									"Undead"
+									"Non morti"
 								],
 								[
 									"13",
@@ -197,17 +197,17 @@
 								[
 									"15",
 									"{@creature Archon of Boundaries|MCV4EC}",
-									"Celestial"
+									"Celeste"
 								],
 								[
 									"15",
 									"{@creature Witchkite|MCV4EC}",
-									"Dragon"
+									"Drago"
 								],
 								[
 									"18",
 									"{@creature Beanstalk Wurm|MCV4EC}",
-									"Monstrosity"
+									"Mostruosità"
 								]
 							]
 						}
@@ -242,7 +242,7 @@
 											"type": "item",
 											"name": "Art Director",
 											"entries": [
-												"Fury Galluzzi"
+												"Furia Galluzzi"
 											]
 										},
 										{
@@ -284,7 +284,7 @@
 											"type": "item",
 											"name": "Cover Illustrator",
 											"entries": [
-												"Joshua Raphael"
+												"Giosuè Raffaello"
 											]
 										},
 										{
@@ -305,7 +305,7 @@
 											"type": "item",
 											"name": "Studio Art Director",
 											"entries": [
-												"Josh Herman"
+												"Josh Hermann"
 											]
 										},
 										{
@@ -333,7 +333,7 @@
 											"type": "item",
 											"name": "Producers",
 											"entries": [
-												"Siera Bruggeman, Andy Smith"
+												"Siera Bruggemann, Andy Smith"
 											]
 										},
 										{
@@ -357,7 +357,7 @@
 													"type": "item",
 													"name": "Product Manager",
 													"entries": [
-														"Jeff Turriff"
+														"Jeff Turrif"
 													]
 												},
 												{
@@ -372,7 +372,7 @@
 									],
 									"id": "005"
 								},
-								"Based on the work of the worldbuilding teams for Throne of Eldraine and Wilds of Eldraine: Fox Allison, Doug Beyer, Lauren Bond, Sam Burley, Ovidio Cartagena, Orrin Chaplin, Christine Choi, Jehan Choo, Crystal Chang, Kelly Digges, Grace Fong, Deborah Garcia, Roy Graham, Jenna Helland, Gray Highsmith, Daniel Holt, Taylor Ingvarsson, Tom Jenkot, Jackie Jones, Jess Lanzillo, Peter Lee, Miguel Lopez, Alison Lührs, Emily Mei, Leah Miller, Chris Mooney, Meris Mullaley, Dawn Murin, Rebecca On, Cynthia Sheppard, Nick Southam, Zack Stella, Emily Teng, Gerritt Turner, Andrew Vallas, José Vega, Sarah Wassell, James Wyatt, Ari Zirulnik."
+								"Basato sul lavoro dei team di creazione del mondo di Throne of Eldraine e Wilds of Eldraine: Fox Allison, Doug Beyer, Lauren Bond, Sam Burley, Ovidio Cartagena, Orrin Chaplin, Christine Choi, Jehan Choo, Crystal Chang, Kelly Digges, Grace Fong, Deborah Garcia, Roy Graham, Jenna Helland, Gray Highsmith, Daniel Holt, Taylor Ingvarsson, Tom Jenkot, Jackie Jones, Jess Lanzillo, Peter Lee, Miguel Lopez, Alison Lührs, Emily Mei, Leah Miller, Chris Mooney, Meris Mullaley, Dawn Murin, Rebecca On, Cynthia Sheppard, Nick Southam, Zack Stella, Emily Teng, Gerritt Turner, Andrew Vallas, José Vega, Sarah Wassell, James Wyatt, Ari Zirulnik."
 							]
 						}
 					],

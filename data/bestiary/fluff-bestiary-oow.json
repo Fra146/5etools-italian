@@ -26,7 +26,7 @@
 								{
 									"type": "entries",
 									"entries": [
-										"Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties."
+										"I sacerdoti portano gli insegnamenti dei loro dei alla gente comune. Sono i leader spirituali di templi e santuari e spesso ricoprono posizioni di influenza nelle loro comunità. I sacerdoti malvagi potrebbero lavorare apertamente sotto un tiranno, oppure potrebbero essere i leader di sette religiose nascoste nell'ombra della buona società, supervisionando riti depravati. Un sacerdote in genere ha uno o più accoliti che lo aiutano nelle cerimonie religiose e in altri compiti sacri."
 									]
 								}
 							]
@@ -90,9 +90,9 @@
 				{
 					"type": "entries",
 					"entries": [
-						"Onyx is a regular cat, with special traits, and a modified attack, that only apply when used in the {@adventure Onyx Ascendant|OoW|6|Onyx Ascendant} encounter.",
-						"Further information can be found within that encounter on how to run it.",
-						"Without the special circumstances from that encounter, Onyx can be considered a standard cat"
+						"Onyx è un gatto normale, con tratti speciali e un attacco modificato, che si applica solo quando viene utilizzato nell'incontro {@adventure Onyx Ascendant|OoW|6|Onyx Ascendant}.",
+						"Ulteriori informazioni possono essere trovate all'interno di quell'incontro su come eseguirlo.",
+						"Senza le circostanze speciali derivanti da quell'incontro, Onyx può essere considerato un gatto standard"
 					]
 				}
 			],
@@ -119,7 +119,7 @@
 								{
 									"type": "entries",
 									"entries": [
-										"Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers."
+										"Governanti, nobili, mercanti, maestri di gilda e altri individui ricchi usano le spie per prendere il sopravvento in un mondo di politica spietata. Una spia è addestrata a raccogliere segretamente informazioni. Le spie leali preferirebbero morire piuttosto che divulgare informazioni che potrebbero compromettere loro o i loro datori di lavoro."
 									]
 								}
 							]
